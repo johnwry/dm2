@@ -10,3 +10,7 @@ tmp/**
 node_modules/
 .sass-cache
 dist/*.map
+js/
+plugin/
+test/
+examples/
