@@ -5066,7 +5066,7 @@ c. Colossians 2:16c –<em>Therefore no one is to act as your judge in regard to
 
 ===
 
-d. Colossians 2:16d –<em> Therefore no one is to act as your judge in regard …to a festival or a new moon or a Sabbath day</em>. Legalists not only get judgmental and demanding about what you eat, they also make demands on how you <strong><u>worship</u></strong>. Romans 14:5-6, 10
+d. Colossians 2:16d – <em>Therefore no one is to act as your judge in regard …to a festival or a new moon or a Sabbath day</em>. Legalists not only get judgmental and demanding about what you eat, they also make demands on how you <strong><u>worship</u></strong>. Romans 14:5-6, 10
 
 ===
  
