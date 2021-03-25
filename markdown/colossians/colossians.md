@@ -5050,7 +5050,7 @@ b. Colossians 2:16b –*Therefore no one is to act as your judge in regard to fo
     
 ===
  
-c. Colossians 2:16c –*Therefore no one is to act as your judge in regard to …drink.* While the Bible condemns drunkenness, the legalist wants to make what you drink a **<u> spiritual </u>** issue. Ephesians 5:18
+c. Colossians 2:16c – *Therefore no one is to act as your judge in regard to…drink.* While the Bible condemns drunkenness, the legalist wants to make what you drink a **<u>spiritual</u>** issue. Ephesians 5:18
 
 ===
  
