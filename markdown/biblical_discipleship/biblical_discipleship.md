@@ -1,7 +1,7 @@
 <img title="cover" data-src="/markdown/biblical_discipleship/img/front_cover.png">
 
+---
 
- 
 The greatest challenge the church faces in any given generation is
 getting people engaged in the process of replication. This is
 especially difficult in circles were teachers deny the Great Commission
@@ -10,10 +10,9 @@ biblical impetus for churches to reproduce. If the church of Jesus
 Christ fails to reduplicate itself through effective discipleship,
 churches will slowly become vacant because new members stop being added
 to the body of Christ.
-	 
 
+---
 
- 
 Getting Christians into the game is the heart of this study. Don’t be
 derailed by the use of terms like <strong>discipleship</strong>, or
 becoming a <strong>disciple-maker</strong>, derived from Matthew
@@ -25,27 +24,19 @@ and in the world, is at stake. Will you leave someone to fill your
 place in church when you graduate to heaven? Will you do anything to
 fill the empty seat next to you while you’re still here?
 Godspeed!
-	 
 
+---	 
 
-	 
 March 30, 2012
 	 
-	 
-<em>(3<sup>rd</sup> Edition)</em>
-	 
+	<em>(3<sup>rd</sup> Edition)</em>
 	<p align="center">
-Copyright © <strong>2018 by DM Multiplied, Inc</strong><strong></strong>
-	 
+	Copyright © <strong>2018 by DM Multiplied, Inc</strong><strong></strong>
 	<p align="center">
-All rights reserved.<strong></strong>
-	 
-	 
-<strong> </strong>
-	 
+	All rights reserved.<strong></strong>	 
 
+---	 
 
-	 
 <strong>Copyright Policy.</strong>
 You may use the DM2® materials for your own personal study or for
 teaching a class so long as the DM2® logo and this copyright policy is
