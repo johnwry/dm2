@@ -4946,11 +4946,11 @@ c) The just died for the unjust, therefore    * the accuser of the brethren*  ha
 
 ===
  
-### 1. What is **<u>legalism</u>**?###
+### 1. What is **<u>legalism</u>**? ###
 
 ===
  
-a. Legalism among the **<u>unsaved</u>** . Galatians 2:16; Acts 15:1, 8-11
+a. Legalism among the **<u>unsaved</u>**. Galatians 2:16; Acts 15:1, 8-11
  
 ===
 
