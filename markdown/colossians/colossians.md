@@ -389,8 +389,7 @@ b. Chapter 2 – Understanding your standing in Jesus Christ and that    <strong
     <br/>
     <br/>
 ===
-    <strong>D. </strong>
-    <strong>Colossians 1:1-2a – The Authorship of Colossians</strong>
+# D. Colossians 1:1-2a – The Authorship of Colossians
  
  
 1. Colossians 1:1a – Paul signed his name as the    <strong><u>author</u></strong> of this letter.
@@ -623,8 +622,7 @@ a. True peace comes from an understanding of God’s    <strong><u>grace</u></st
     <br/>
  
 ===
-    <strong>II. </strong>
-    <strong>Colossians 1:3-14 – Paul’s Three-focused Prayer</strong>
+# II. Colossians 1:3-14 – Paul’s Three-focused Prayer 
  
  
     <strong>A. </strong>
@@ -1639,9 +1637,8 @@ could be forgiven by simply asking for forgiveness, then    <strong><u>Christ</u
     in full at Calvary.
  
 ===
-    <strong>III. </strong>
-    <strong>Colossians 1:15-18 – God’s Protection From Heresies: Understanding the Sovereign Authority of Christ
-    </strong>
+# III. Colossians 1:15-18 – God’s Protection From Heresies: Understanding the Sovereign Authority of Christ
+    
  
  
     <strong>A. </strong>
@@ -2132,11 +2129,8 @@ c. In <strong>how many areas</strong> should Christ    <em>have first place</em>
     !”
  
 ===
-    <strong>IV.</strong>
-    <strong>
-        Colossians 1:19-29 – God’s Protection from Heresies: Understanding the
-        Adequacy of Christ
-    </strong>
+# IV. Colossians 1:19-29 – God’s Protection from Heresies: Understanding the Adequacy of Christ
+   
  
  
     <strong>A. </strong>
@@ -3278,11 +3272,7 @@ c) It was not because of his expert methodologies, his impressive    <strong><u>
     <br/>
  
 ===
-    <strong>V. </strong>
-    <strong>
-        Colossians 2:1-7 – God’s Protection From Heresies: Understanding the
-        Mystery of Christ
-    </strong>
+# V.  Colossians 2:1-7 – God’s Protection From Heresies: Understanding the Mystery of Christ
  
  
     <strong>A. </strong>
@@ -3963,10 +3953,7 @@ c. Colossians 2:7c –    <em>And established in your faith just as you were ins
     mystery. 1 Timothy 3:16
  
 ===
-    <strong>VI.</strong>
-    <strong>
-        Colossians 2:8-23 – Examining the Four Heresies of Colossae
-    </strong>
+# VI. Colossians 2:8-23 – Examining the Four Heresies of Colossae
  
  
     <strong>A. </strong>
@@ -3976,7 +3963,7 @@ c. Colossians 2:7c –    <em>And established in your faith just as you were ins
     1. Colossians 2:8 – Paul <strong><u>warned</u></strong> of the danger of
     philosophy. Proverbs 1:1-7
  
- 
+===
 a. Colossians 2:8a – The phrase …<em>see to it</em>… is a    <strong><u>present</u></strong> tense command followed by the Greek
     negation ME giving the command an emphasis akin to, “Watch out!” Since the
     command is in the active voice, it was their personal responsibility to
@@ -3984,13 +3971,13 @@ a. Colossians 2:8a – The phrase …<em>see to it</em>… is a    <strong><u>pr
     <br/>
     <br/>
  
- 
+=== 
 b. Colossians 2:8b –    <em>See to it that no one takes you <strong><u>captive</u></strong></em>…
     is language that was used to describe a person taken as a prisoner of war.
     In those days, being a POW meant you’d eventually be sold and become
     someone’s slave.
  
- 
+===
 1) Most casualties or converts to cults come out of    <strong><u>churches</u></strong> rather than directly from the unsaved
     world.
  
@@ -4010,7 +3997,7 @@ b. Colossians 2:8b –    <em>See to it that no one takes you <strong><u>captive
     . The heresy of philosophy is the error of falling prey to a deceptive
     human viewpoint.
  
- 
+===
     1) In Greek the word <em>philosophy</em> PHILOSOPHIA is a compound word
 derived from PHILOS friend and SOPHIA wisdom. It literally means the    <strong><u>love</u></strong> of wisdom or science. This is the only
     occurrence of this word in the Bible.
@@ -4019,7 +4006,7 @@ derived from PHILOS friend and SOPHIA wisdom. It literally means the    <strong>
 2) Thayer’s Lexicon defines philosophy as the “love and    <strong><u>pursuit</u></strong> of wisdom.” Thayer stated that philosophy
     was used in Greek writings to describe skill in, or zeal for, any art,
     science or branch of knowledge.
- 
+===
  
     3) Interestingly, Paul’s singular use of the word came with a negative
     overtone describing worthless human speculation and misleading substitutes
@@ -4030,7 +4017,7 @@ derived from PHILOS friend and SOPHIA wisdom. It literally means the    <strong>
     schools of philosophy embraced in Roman society at the time. These
     philosophies are still very prevalent in one form or another in our world
     today.
- 
+===
  
     a) <strong><u>Five</u></strong> schools of philosophy were important or
     prominent in the time of Paul’s writings. They were Cynicism, Hedonism,
@@ -4043,7 +4030,7 @@ b) By the time of Paul, Greek philosophy had undergone a    <strong><u>change</u
     space (metaphysics).
     <br/>
     <br/>
- 
+===
  
     c) However, in the days of the writing of the New Testament, philosophers
     were more interested in knowing how to be dignified and live a good life
@@ -4059,7 +4046,7 @@ b) By the time of Paul, Greek philosophy had undergone a    <strong><u>change</u
     about the Christ and the resurrection of the <strong><u>dead</u></strong>.
     <br/>
     <br/>
- 
+===
  
     (i) The first school of philosophy was Stoicism.
  
@@ -4071,7 +4058,7 @@ claimed that wisdom was gained by abstinence from    <strong><u>passion</u></str
     (b) Stoics believed that wisdom was attainable through meditation and an
     indifference to <strong><u>pain</u></strong> and pleasure.
  
- 
+===
 (c) Stoicism postulated that wisdom occurs when    <strong><u>reason</u></strong> controls passions. Conversely evil occurs
     when passion controls a person.
  
@@ -4081,7 +4068,7 @@ claimed that wisdom was gained by abstinence from    <strong><u>passion</u></str
     <br/>
     <br/>
  
- 
+===
     (ii) The second school of philosophy was Epicureanism.
  
  
@@ -4095,8 +4082,7 @@ had little concern for religion. To them religion and ignorance went    <strong>
  
     (c) Epicureans did not believe in <strong><u>life</u></strong> after death,
     making them the Greek version of Jewish Sadducees.
- 
- 
+===
     (d) Epicureanism was typically the philosophy of the nobility who wanted to
     be deemed <strong><u>wise</u></strong> and virtuous in public, yet in their
     private lives they practiced hedonism, or carnal pleasure, since ultimately
@@ -5798,10 +5784,7 @@ to the sin nature, putting emphasis on self's    <strong><u>ability</u></strong>
     <br/>
  
 ===
-    <strong>VII. </strong>
-    <strong>
-        Colossians 3:1-11 – Changed Focus: Keeping a Focus on Heaven
-    </strong>
+# VII. Colossians 3:1-11 – Changed Focus: Keeping a Focus on Heaven
  
  
     <strong>A. </strong>
@@ -9068,10 +9051,7 @@ c. Colossians 4:6c – Be ready, don’t <strong><u>balk</u></strong>. Third, �
     <br/>
  
 ===
-    <strong>VIII. </strong>
-    <strong>
-        Colossians 4:7-18 – Closing Comments, Commendations and Concerns
-    </strong>
+# VIII.  Colossians 4:7-18 – Closing Comments, Commendations and Concerns
  
  
     <strong>A. </strong>
