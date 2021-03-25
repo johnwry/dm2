@@ -147,54 +147,39 @@ website at <a href="http://www.dm2usa.org">www.dm2usa.org</a>.
 	 
 	 The Job of Worldwide Disciple-Making Can Be Done! 50
 ===	 
-	<h1  class="r-fit-text">Making Disciple-Maker</h1>
-	<p align="center">Rediscovering the lost art of disciple-making 
+<h1  class="r-fit-text">Making Disciple-Maker</h1>
+<p align="center">Rediscovering the lost art of disciple-making 
+
+<h1>I. The Vision and Mission of Jesus Christ</h1>
+<h2  class="fragment">A. The vision of Jesus Christ, “<em>I will build my <strong><u>Church</u></strong></em>.”</h2>
 
 
 
-	<h1>I. The Vision and Mission of Jesus Christ</h1>
-	<h2  class="fragment">A. The vision of Jesus Christ, “<em>I will build my <strong><u>Church</u></strong></em>.”</h2>
+<h3>1. The vision of Jesus Christ is to see <em>His</em> church, the <strong><u>body</u></strong> and bride of Christ, completed. Matthew 16:18; 28:19-20; Romans 11:25
+</h3>
 
 
 
-	<h3>1. The vision of Jesus Christ is to see <em>His</em> church, the <strong><u>body</u></strong> and bride of Christ, completed. Matthew 16:18; 28:19-20; Romans 11:25
-	</h3>
+<h3>2. The book of Revelation says that the body of Christ will not only be completed but will be comprised of people <strong><u>from</u></strong> every tribe, tongue, and nation. Revelation 5:9</h3>
 
 
 
-	<h3>2. The book of Revelation says that the body of Christ will not only be completed but will be comprised of people <strong><u>from</u></strong> every tribe, tongue, and nation. Revelation 5:9
- </h3>
+<h2>B. The mission of Jesus Christ is The Great Commission. Mark 16:15</h2>
+<h3 class="fragment">1. The mission of Jesus Christ is to <strong><u>fulfill</u> </strong>His vision.</h3>
 
 
 
-	<h2>
-B. The mission of Jesus Christ is The Great Commission. Mark 16:15
-	</h2>
-	<h3 class="fragment">1. The mission of Jesus Christ is to <strong><u>fulfill</u></strong> His vision.</h3>
+<h3>2. In order to fulfill this mission, Jesus commissioned His disciples to “<strong><u>go</u></strong>.”</h3>
 
 
 
-	<h3>
-2. In order to fulfill this mission, Jesus commissioned His disciples to “<strong><u>go</u></strong>.”
-	</h3>
+<h2>C. The Great Commission is Three-Fold</h2>
+<h3 class="fragment">1. The first part of our job is <strong><em>evangelism</em></strong>. We are to <strong><u>go</u></strong> into the entire world and preach the Gospel to every creature. Mark 16:15</h3>
 
 
 
-	<h2>
-C. The Great Commission is Three-Fold
-	</h2>
-	<h3 class="fragment">
-1. The first part of our job is <strong><em>evangelism</em></strong>. We are to <strong><u>go</u></strong> into the entire world and preach the Gospel to every creature. Mark 16:15
-	</h3>
-
-
-
-	<h4>
-a. The Great Commission has the concept of going forth <strong><u>built</u></strong> into it. Matthew 28:18-20
-	</h4>
-	<h4 class="fragment">
-b. Jesus said <em> you shall be my witnesses, not in one place only, but in Jerusalem,
-	Judea, Samaria, and to the uttermost part of the earth</em>; Jesus wants His church to <strong><u>grow<u></strong> world-wide. Acts 1:8
+<h4>a. The Great Commission has the concept of going forth <strong><u>built</u></strong> into it. Matthew 28:18-20</h4>
+<h4 class="fragment">b. Jesus said <em> you shall be my witnesses, not in one place only, but in Jerusalem, Judea, Samaria, and to the uttermost part of the earth</em>; Jesus wants His church to <strong><u>grow<u></strong> world-wide. Acts 1:8
 	</h4>
 
 
