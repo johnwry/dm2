@@ -4978,7 +4978,7 @@ b. Legalism among the ** <u>saved</u>** . Acts 15:5, 11-13; Galatians 2:4-5, 16,
 
 ===
  
-3) Legalistic Christians say, “Since I have done (fill in the blank), God now ** <u>owes</u>**  me blessings.”
+3) Legalistic Christians say, “Since I have done (fill in the blank), God now **<u>owes</u>**  me blessings.”
    
 ===
  
@@ -4986,31 +4986,31 @@ c. Consider the following in relation to legalism. Galatians 5:4, Philippians 3:
 
 ===
  
-1) Whether it is for salvation or for sanctification, a legalist becomes captivated with human determination and doing good works to    ** <u>merit</u>**  God’s help or blessing. Matthew 7:22-23
+1) Whether it is for salvation or for sanctification, a legalist becomes captivated with human determination and doing good works to **<u>merit</u>**  God’s help or blessing. Matthew 7:22-23
 
 ===
  
-2) Legalistic Christians are ** <u>proud</u>** . They have not understood that they cannot please God by human effort. Romans 7:18
+2) Legalistic Christians are **<u>proud</u>** . They have not understood that they cannot please God by human effort. Romans 7:18
 
 ===
  
-3) A legalist is captivated with himself rather than with    ** <u>Christ</u>** . His eyes are always on himself and his performance rather than on Christ and His adequacy. Legalists compare themselves with others. Galatians 5:15, 25-26
+3) A legalist is captivated with himself rather than with    **<u>Christ</u>** . His eyes are always on himself and his performance rather than on Christ and His adequacy. Legalists compare themselves with others. Galatians 5:15, 25-26
    
 ===
  
-4) Legalistic Christians do not rest ** <u>solely</u>**  on Christ’s enabling power for living the Christian life; they feel they need to do their part. 2 Corinthians 3:4-6, 5:7; Galatians 3:3, 2:20
+4) Legalistic Christians do not rest **<u>solely</u>**  on Christ’s enabling power for living the Christian life; they feel they need to do their part. 2 Corinthians 3:4-6, 5:7; Galatians 3:3, 2:20
  
 ===
 
-5) Some people contend that if they do ** <u>not</u>**  live by laws, principles, or rules they will end up sinning.
+5) Some people contend that if they do **<u>not</u>**  live by laws, principles, or rules they will end up sinning.
 
 ===
  
-a) The irony of this is that those who live by law with its rules and regulations, actually ** <u>arouse</u>**  the sin nature to break the very rules they have set up for holy living. Romans 6:14; 7:5; 8-9, 11; 1 Corinthians 15:56
+a) The irony of this is that those who live by law with its rules and regulations, actually **<u>arouse</u>**  the sin nature to break the very rules they have set up for holy living. Romans 6:14; 7:5; 8-9, 11; 1 Corinthians 15:56
 
 ===
  
-b) Legalism actually moves the believer ** <u>away</u>**  from spiritual growth rather than closer to it. Galatians 5:4
+b) Legalism actually moves the believer **<u>away</u>**  from spiritual growth rather than closer to it. Galatians 5:4
 
 ===
  
