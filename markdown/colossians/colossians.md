@@ -4966,7 +4966,7 @@ a. Legalism among the **<u>unsaved</u>**. Galatians 2:16; Acts 15:1, 8-11
 
 ===
  
-b. Legalism among the **<u>saved</u>**. Acts 15:5, 11-13; Galatians 2:4-5, 16, 3:3-5, 4:21-31 
+b. Legalism among the **<u> saved </u>**. Acts 15:5, 11-13; Galatians 2:4-5, 16, 3:3-5, 4:21-31 
 
 ===
 
