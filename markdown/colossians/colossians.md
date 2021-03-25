@@ -70,7 +70,8 @@ Copyright © <strong>2016 by DM Multiplied, Inc</strong>All rights reserved.
     You will never find a greater discourse on the greatness of Christ. A
     careful study of Colossians will furnish a humble appreciation of the
     supreme authority and absolute adequacy of Jesus Christ.
- 
+
+===
  
     The apostle Paul expressed that Jesus Christ is the ultimate authority and
     complete sustainer of the Christian. He proclaimed Christ as the one and
@@ -82,7 +83,8 @@ Copyright © <strong>2016 by DM Multiplied, Inc</strong>All rights reserved.
     these errors takes your eyes off Jesus as the source and sustainer of your
     life. Colossians answers the question: “Is Christ enough?” or more
     specifically, “Is He enough for you?”
- 
+
+===
  
     It is significant that the Holy Spirit is only mentioned once in this
     narrative (Col. 1:8). By explaining the Christian life without stressing
@@ -111,11 +113,12 @@ Copyright © <strong>2016 by DM Multiplied, Inc</strong>All rights reserved.
  
 Colossians exalts Jesus Christ and shows that anything that takes you away from a dependence on Him is illegitimate.
  
+===
 
 <strong>The Book of Colossians</strong>
 <strong><em>Christ is all you need<br/><br/></em></strong>
      
- 
+===
  
 <strong>I. </strong>
 <strong>Colossians 1:1-2 – An Introduction to the Book</strong>
