@@ -4966,19 +4966,19 @@ a. Legalism among the **<u>unsaved</u>**. Galatians 2:16; Acts 15:1, 8-11
 
 ===
  
-b. Legalism among the **<u>saved</u>**. Acts 15:5, 11-13; Galatians 2:4-5, 16, 3:3-5, 4:21-31
+b. Legalism among the **<u>saved</u>**. Acts 15:5, 11-13; Galatians 2:4-5, 16, 3:3-5, 4:21-31 
 
 ===
 
-1) This refers to the believer who seeks to earn or merit God’s acceptance or **<u>blessing</u>**  by religious rituals, human efforts, or through the fulfillment of requirements.
+1) This refers to the believer who seeks to earn or merit God’s acceptance or **<u>blessing</u>** by religious rituals, human efforts, or through the fulfillment of requirements.
  
 ===
 
-2) Legalists feel that progressive sanctification is based on their works and human **<u>efforts</u>**  rather than on the grace of God through a walk of faith in Christ.
+2) Legalists feel that progressive sanctification is based on their works and human **<u>efforts</u>** rather than on the grace of God through a walk of faith in Christ.
 
 ===
  
-3) Legalistic Christians say, “Since I have done (fill in the blank), God now **<u>owes</u>**  me blessings.”
+3) Legalistic Christians say, “Since I have done (fill in the blank), God now **<u>owes</u>** me blessings.”
    
 ===
  
@@ -5018,7 +5018,7 @@ b) Legalism actually moves the believer **<u>away</u>** from spiritual growth ra
    
 ===
 
-2. Colossians 2:16 – Paul initiated his corrections aimed at the heresy of legalism by first teaching the Colossians to not **<u>allow</u>**  anyone *…to act as [their] judge.* 
+2. Colossians 2:16 – Paul initiated his corrections aimed at the heresy of legalism by first teaching the Colossians to not **<u>allow</u>** anyone *…to act as [their] judge.* 
  
 ===
 
@@ -5030,11 +5030,11 @@ a. Colossians 2:16a – Paul commanded them to not fall prey to legalists with t
 
 ===
  
-2) Legalists always possess a judgmental spirit. Their austere and ungracious demeanor will not only **<u>crush</u>**  your spirit but will lead you to error. If you fall into their ways, you will lose a faith-based intimate walk with the Lord and replace it with an unfruitful burdensome life of dos and don’ts. Galatians 5:15, 25-26
+2) Legalists always possess a judgmental spirit. Their austere and ungracious demeanor will not only **<u>crush</u>** your spirit but will lead you to error. If you fall into their ways, you will lose a faith-based intimate walk with the Lord and replace it with an unfruitful burdensome life of dos and don’ts. Galatians 5:15, 25-26
 
 ===
  
-b. Colossians 2:16b –*Therefore no one is to act as your judge in regard to food* … A legalist gets judgmental and demanding about your **<u>private</u>** life. Eating *food*  is one of the most basic functions of life and the legalist wants to control it. Romans 14:1-4, Mark 7:5-23, 1 Timothy 4:3-4
+b. Colossians 2:16b –*Therefore no one is to act as your judge in regard to food* … A legalist gets judgmental and demanding about your **<u>private</u>** life. Eating *food* is one of the most basic functions of life and the legalist wants to control it. Romans 14:1-4, Mark 7:5-23, 1 Timothy 4:3-4
 
 ===
  
