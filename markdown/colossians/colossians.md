@@ -89,7 +89,7 @@ Copyright © <strong>2016 by DM Multiplied, Inc</strong>All rights reserved.
     It is significant that the Holy Spirit is only mentioned once in this
     narrative (Col. 1:8). By explaining the Christian life without stressing
     the Holy Spirit, Paul removed the tendency toward mysticism by showing that
-    the Holy Spirit’s ministry is ultimately <em>Christ in you</em>. In an era
+    the Holy Spirit’s ministry is ultimately * Christ in you* . In an era
     (AD 2016) when the Holy Spirit’s work is mystified, the emphasis of Paul in
     Colossians is a must-study. Whereas some teach that believers are lacking
     and need a second blessing or some novel experience to be complete,
@@ -108,7 +108,7 @@ Copyright © <strong>2016 by DM Multiplied, Inc</strong>All rights reserved.
     your mind.
  
  
-<strong>The Adequacy of Christ</strong>– Do you believe that Christ is adequate? Are you convinced that Jesus Christ is sufficient for all your spiritual needs? Is Jesus Christ<strong><em>part</em></strong> of the answer or is He    <strong><em>the</em></strong> answer itself? Do you find yourself looking to religious activities like fasting, deeper devotion or penance to keep you in line spiritually? What influence does modern-day secular philosophy have on your mind? In the book of Colossians you will learn that nothing can ever replace Jesus Christ in meeting your spiritual needs. While many Christians believe that Christ is good for their lives, they are not quite convinced He is enough.
+<strong>The Adequacy of Christ</strong>– Do you believe that Christ is adequate? Are you convinced that Jesus Christ is sufficient for all your spiritual needs? Is Jesus Christ<strong>* part* </strong> of the answer or is He    <strong>* the* </strong> answer itself? Do you find yourself looking to religious activities like fasting, deeper devotion or penance to keep you in line spiritually? What influence does modern-day secular philosophy have on your mind? In the book of Colossians you will learn that nothing can ever replace Jesus Christ in meeting your spiritual needs. While many Christians believe that Christ is good for their lives, they are not quite convinced He is enough.
  
  
 Colossians exalts Jesus Christ and shows that anything that takes you away from a dependence on Him is illegitimate.
@@ -116,7 +116,7 @@ Colossians exalts Jesus Christ and shows that anything that takes you away from 
 ===
 
 <strong>The Book of Colossians</strong>
-<strong><em>Christ is all you need<br/><br/></em></strong>
+<strong>* Christ is all you need<br/><br/>* </strong>
      
 ===
  
@@ -414,12 +414,12 @@ b. Chapter 2 – Understanding your standing in Jesus Christ and that    <strong
  
     3) History provides only one brief description of Paul from an uncertain
     source:
-    <em>
+    * 
         a man of <strong><u>small</u></strong> stature, with a bald head and
         crooked legs, in a good state of body, with eyebrows meeting and nose
         somewhat hooked, full of friendliness, for now he appeared like a man,
         and now he had the face of an angel
-    </em>
+    * 
     .
  
  
@@ -470,12 +470,12 @@ b. Chapter 2 – Understanding your standing in Jesus Christ and that    <strong
     an <strong><u>apostle</u></strong>.
  
  
-a. Paul was <em>an apostle of Jesus Christ</em>. Christ saved Paul and    <strong><u>sent</u></strong> him forth as an apostle, specifically
+a. Paul was * an apostle of Jesus Christ* . Christ saved Paul and    <strong><u>sent</u></strong> him forth as an apostle, specifically
     dedicated to the Gentiles. Acts 9:15-16, 22:21; Romans 11:13; Galatians
     2:8; 1 Timothy 2:7; 2 Timothy 1:11
  
  
-    b. Paul was an apostle <em>by the will of <strong><u>God</u></strong></em>
+    b. Paul was an apostle * by the will of <strong><u>God</u></strong>* 
     and not by personal ambition or human appointment. Let’s consider some
     general information on apostleship. Galatians 1:1, 1 Corinthians 1:1, 2
     Timothy 1:1
@@ -502,7 +502,7 @@ a. Paul was <em>an apostle of Jesus Christ</em>. Christ saved Paul and    <stron
     Ephesians 2:20
  
  
-3. Colossians 1:1b – <em>And Timothy our brother</em>… Timothy, a    <strong><u>fellow</u></strong> believer in Jesus Christ, was one of Paul’s
+3. Colossians 1:1b – * And Timothy our brother* … Timothy, a    <strong><u>fellow</u></strong> believer in Jesus Christ, was one of Paul’s
     assistants in ministry.
  
  
@@ -530,11 +530,11 @@ b. Timothy grew up in Lystra, where Paul was almost    <strong><u>stoned</u></st
     <strong>– The Addressees in Colossae</strong>
  
  
-1. Colossians 1:2a –<em>To the saints and faithful brethren in Christ… </em>As a    <strong><u>group</u></strong>, the recipients of this letter were
+1. Colossians 1:2a –* To the saints and faithful brethren in Christ… * As a    <strong><u>group</u></strong>, the recipients of this letter were
     identified as holy and trustworthy brothers in Christ.
  
  
-    a. They were called <strong><em>saints</em></strong><em>,</em> which means
+    a. They were called <strong>* saints* </strong>* ,*  which means
     sanctified or set <strong><u>apart</u></strong> ones. This is a positional
     statement.
  
@@ -543,7 +543,7 @@ b. Timothy grew up in Lystra, where Paul was almost    <strong><u>stoned</u></st
     This standing is true of all believers.
  
  
-    2) The description <strong><em>saints</em></strong> is the single most used
+    2) The description <strong>* saints* </strong> is the single most used
     designation or <strong><u>title</u></strong> for Christians in the entire
     New Testament.
  
@@ -552,19 +552,19 @@ b. Timothy grew up in Lystra, where Paul was almost    <strong><u>stoned</u></st
 in Christ based on God’s acceptance of the finished    <strong><u>work</u></strong> of Christ.
  
  
-    b. <em>And</em> <strong><em>faithful brethren</em></strong>… This
+    b. * And*  <strong>* faithful brethren* </strong>… This
 description of the Colossian believers depicts them as faithful    <strong><u>family</u></strong> members. This is a conditional statement.
  
  
 1) This description spotlighted the Colossians consistent walk of    <strong><u>faith</u></strong>.
  
  
-2) The mention of <strong><em><u>faithful</u></em></strong>    <em>brethren</em> in Paul’s introduction suggests the possibility of the
+2) The mention of <strong>* <u>faithful</u>* </strong>    * brethren*  in Paul’s introduction suggests the possibility of the
     existence of unfaithful believers in the church.
  
  
-3) Obviously God desires that a believer’s condition or    <strong><u>daily</u></strong> practice (<em>faithful brethren</em>) be in
-    alignment with his or her unchanging position in Christ (<em>saints</em>).
+3) Obviously God desires that a believer’s condition or    <strong><u>daily</u></strong> practice (* faithful brethren* ) be in
+    alignment with his or her unchanging position in Christ (* saints* ).
  
  
     4) When this is a reality in a believer’s practice, we call it walking by
@@ -572,20 +572,20 @@ description of the Colossian believers depicts them as faithful    <strong><u>fa
     Corinthians 5:7, Galatians 5:16
  
  
-2. Colossians 1:2b – Paul addressed the faithful    <strong><em>brethren</em></strong>
-    <em>
+2. Colossians 1:2b – Paul addressed the faithful    <strong>* brethren* </strong>
+    * 
         <strong><u>in Christ</u></strong>
         <strong>who are at Colossae</strong>
-    </em>
+    * 
     . We see that even though they were physically residing in the city of
-    Colossae, spiritually they were found <strong><em>in Christ</em></strong>.
+    Colossae, spiritually they were found <strong>* in Christ* </strong>.
  
  
     <strong>F. </strong>
     <strong>Colossians 1:2c – An amiable greeting to the Colossians</strong>
  
  
-    1. When Paul said, “<strong><em><u>Grace</u></em></strong> <em>to you,</em>
+    1. When Paul said, “<strong>* <u>Grace</u>* </strong> * to you,* 
     ” he was expressing his desire for a special blessing for the Colossian
     believers.
  
@@ -598,7 +598,7 @@ description of the Colossian believers depicts them as faithful    <strong><u>fa
     be lived by grace. Do you?
  
  
-    2. <em>And <strong><u>peace</u></strong>…</em> Paul also desired God’s
+    2. * And <strong><u>peace</u></strong>…*  Paul also desired God’s
     peace to rest over them.
  
  
@@ -608,7 +608,7 @@ a. True peace comes from an understanding of God’s    <strong><u>grace</u></st
     b. Does peace describe <strong><u>your</u></strong> life?
  
  
-3. Colossians 1:2b – The statement <strong><em>from</em></strong><em> God the Father and Lord Jesus Christ</em> shows the only true    <strong><u>source</u></strong> from which both grace and peace originate.
+3. Colossians 1:2b – The statement <strong>* from* </strong>*  God the Father and Lord Jesus Christ*  shows the only true    <strong><u>source</u></strong> from which both grace and peace originate.
  
  
     a. We should also notice the word <strong><u>order</u></strong> of grace
@@ -640,18 +640,18 @@ a. True peace comes from an understanding of God’s    <strong><u>grace</u></st
 2. Colossians 1:3 – Paul gave God thanks for his    <strong><u>fellow</u></strong> believers in Colossae.
  
  
-    a. Colossians 1:3a – <em>We give thanks</em>… Typical of Paul, he began his
+    a. Colossians 1:3a – * We give thanks* … Typical of Paul, he began his
     prayer by giving <strong><u>thanks</u></strong> for his readers.
     Philippians 1:3, Romans 1:8, Ephesians 1:15-16
  
  
-    1) By saying, “<strong><em><u>We</u></em></strong><em> give thanks,</em>”
+    1) By saying, “<strong>* <u>We</u>* </strong>*  give thanks,* ”
     Paul made it obvious that other believers were involved in intercession for
     the Colossians.
  
  
-    2) The Greek verb translated <em>give thanks</em> EU<strong>CARIS</strong>
-TOUMEN contains the word <strong><u>grace</u></strong> as its root.    <em>Give thanks</em> literally means to joyfully speak of grace. In this
+    2) The Greek verb translated * give thanks*  EU<strong>CARIS</strong>
+TOUMEN contains the word <strong><u>grace</u></strong> as its root.    * Give thanks*  literally means to joyfully speak of grace. In this
     case, Paul was joyfully speaking of the grace <strong>of God</strong>
     towards the Colossian believers.
  
@@ -671,11 +671,11 @@ Paul’s thanksgiving. Paul and his companions continually    <strong><u>gave</u
     thanksgiving in the midst of your life’s trials? James 1:2
  
  
-b. Colossians 1:3b – He gave thanks to    <em>the <strong><u>Father</u></strong> of our Lord Jesus Christ</em>.
+b. Colossians 1:3b – He gave thanks to    * the <strong><u>Father</u></strong> of our Lord Jesus Christ* .
  
  
     1) Paul could have simply stated, “We give thanks to God the Father,”
-without mentioning He was    <em>the <strong><u>Father</u></strong> of our Lord Jesus Christ</em>.
+without mentioning He was    * the <strong><u>Father</u></strong> of our Lord Jesus Christ* .
  
  
     2) This statement should bring to mind that just as God was always a
@@ -688,13 +688,13 @@ without mentioning He was    <em>the <strong><u>Father</u></strong> of our Lord 
     son, you also enjoy today. Ephesians 1:3, John 17:23
  
  
-    c. Colossians 1:3c – <em>Praying always for you</em>… Paul wanted to let
+    c. Colossians 1:3c – * Praying always for you* … Paul wanted to let
     the Colossians know they were not <strong><u>alone</u></strong> in the
     battle of life; he and his fellow believers were consistently praying for
     them.
  
  
-    1) <em>Praying <strong><u>always</u></strong>… </em>Paul reminded them he
+    1) * Praying <strong><u>always</u></strong>… * Paul reminded them he
     was praying regularly for them.
  
  
@@ -702,7 +702,7 @@ without mentioning He was    <em>the <strong><u>Father</u></strong> of our Lord 
     them in like manner to be devoted to prayer. Colossians 4:2
  
  
-3) Paul’s exhortation to those under his care to    <strong><em><u>pray</u></em></strong><em> always</em> (Col. 4:2) came on
+3) Paul’s exhortation to those under his care to    <strong>* <u>pray</u>* </strong>*  always*  (Col. 4:2) came on
     the heels of his example. In essence, Paul’s example says, “Do as I say and
     do.” He was not communicating, “Do as I say, but not as I do.”
     <br/>
@@ -714,18 +714,18 @@ without mentioning He was    <em>the <strong><u>Father</u></strong> of our Lord 
     the Colossians.
  
  
-a. Colossians 1:4a – <em>Y</em>    <em>our <strong><u>faith</u></strong> in Christ Jesus</em>… Notice Paul
+a. Colossians 1:4a – * Y*     * our <strong><u>faith</u></strong> in Christ Jesus* … Notice Paul
     first focused on their faith, not on their works. Why might that be? If a
     believer has a vibrant faith in Christ, his faith will translate into
     commendable works before God. Romans 1:5, 16:26
  
  
-b. Colossians 1:4b – <em>Y</em>    <em>our faith <strong><u>in</u> Christ Jesus</strong></em>… Next Paul
-    focused on their faith specifically being <em>in Christ Jesus</em>. Their
+b. Colossians 1:4b – * Y*     * our faith <strong><u>in</u> Christ Jesus</strong>* … Next Paul
+    focused on their faith specifically being * in Christ Jesus* . Their
     faith in the person of Christ inspired Paul’s thanksgiving.
  
  
-    1) Their<em> …faith in Christ Jesus</em>… could refer to the fact that they
+    1) Their*  …faith in Christ Jesus* … could refer to the fact that they
     believed in Christ and were <strong><u>saved</u></strong> by faith, but in
     this verse Paul included their faith together with their love, showing he
     was not speaking solely of their initial faith in Christ for salvation. He
@@ -735,10 +735,10 @@ b. Colossians 1:4b – <em>Y</em>    <em>our faith <strong><u>in</u> Christ Jesu
     2) Paul referred to the fact that they were <strong><u>daily</u></strong>
     walking by faith. This is comparable to Paul’s comments about the faith of
     the Thessalonians:
-    <em>
+    * 
         Constantly bearing in mind your work of faith and labor of love and
         steadfastness of hope in our Lord Jesus Christ
-    </em>
+    * 
     . 1 Thessalonians 1:3
  
  
@@ -751,7 +751,7 @@ b. Colossians 1:4b – <em>Y</em>    <em>our faith <strong><u>in</u> Christ Jesu
     yet your own strength? Jeremiah 17:5-8
  
  
-c. Colossians 1:4c –    <em>And of the love AGAPE which you have for all the saints</em>… Paul was
+c. Colossians 1:4c –    * And of the love AGAPE which you have for all the saints* … Paul was
 thankful to hear of their unselfish love toward the whole    <strong><u>body</u></strong> of Christ. John 15:12
  
  
@@ -767,7 +767,7 @@ thankful to hear of their unselfish love toward the whole    <strong><u>body</u>
     self-effort or resolve. Colossians 1:8, Galatians 5:22, 1 Timothy 1:4-5
  
  
-    d. Colossians 1:5a – <em>Because of the hope laid up for you in heaven</em>
+    d. Colossians 1:5a – * Because of the hope laid up for you in heaven* 
     … The Colossians’ walk of faith and love for one another were the result of
     their sure <strong><u>hope</u></strong>.
  
@@ -786,19 +786,19 @@ thankful to hear of their unselfish love toward the whole    <strong><u>body</u>
  
  
     e. Colossians 1:5b – <strong>Hope</strong> …
-    <em>
+    * 
         of which you previously <strong><u>heard</u></strong> in the word of
         truth, the gospel
-    </em>
+    * 
     . Paul gave thanks because ever since day one of their salvation they had
     unwaveringly held on to their hope.
  
  
     4. Colossians 1:5c-6 – Paul gave thanks to God for the extent of the
-Gospel’s <strong><u>reach</u></strong>.    <em>…the word of truth, the gospel… which has come to you</em>.
+Gospel’s <strong><u>reach</u></strong>.    * …the word of truth, the gospel… which has come to you* .
  
  
-    a. Colossians 1:5c – What is <em>the word of truth, the gospel</em> that
+    a. Colossians 1:5c – What is * the word of truth, the gospel*  that
     Paul mentioned here?
  
  
@@ -811,12 +811,12 @@ He is referring specifically to the message of    <strong><u>truth</u></strong> 
     found in 1 Corinthians 15:3-4.
  
  
-    b. Colossians 1:6a – The Gospel …<em>which has come to you</em>. Remarkably
+    b. Colossians 1:6a – The Gospel …* which has come to you* . Remarkably
     the Gospel had reached even as <strong><u>far</u></strong> as the declining
     town of Colossae.
  
  
-c. Colossians 1:6b –    <em>…just as in <strong>all the world</strong> also</em>… Paul gave thanks
+c. Colossians 1:6b –    * …just as in <strong>all the world</strong> also* … Paul gave thanks
     that the Gospel message had reached <strong><u>them</u></strong>, just like
     it was reaching all the rest of the world.
  
@@ -831,23 +831,23 @@ c. Colossians 1:6b –    <em>…just as in <strong>all the world</strong> also<
     teachers.
  
  
-    d. Colossians 1:6c – <em>…constantly bearing fruit and increasing…</em>
+    d. Colossians 1:6c – * …constantly bearing fruit and increasing…* 
 Paul gave God thanks that the Gospel was spreading all over the    <strong><u>world</u></strong>, and that as it spread, people were being
     saved and lives transformed. Romans 1:17
  
  
-e. Colossians 1:6d – …    <em>even as <strong>it has been doing in you</strong> also…</em> Paul gave
-particular <strong><u>thanks</u></strong> for the impact of the    <em>grace of God</em> on the lives of the Colossian believers as proved by
+e. Colossians 1:6d – …    * even as <strong>it has been doing in you</strong> also…*  Paul gave
+particular <strong><u>thanks</u></strong> for the impact of the    * grace of God*  on the lives of the Colossian believers as proved by
     their own personal transformation.
  
  
-    f. Colossians 1:6e – …<em>since the day you heard of it</em>… The unsaved
+    f. Colossians 1:6e – …* since the day you heard of it* … The unsaved
     individual must <strong><u>hear</u></strong> the message of Christ’s death
     for his sins and Christ’s resurrection in order to be able to respond by
     faith and be saved. Romans 1:16, 10:17; Ephesians 1:13
  
  
-g. Colossians 1:6f – …    <em>and understood the grace of God in <strong><u>truth</u></strong></em>.
+g. Colossians 1:6f – …    * and understood the grace of God in <strong><u>truth</u></strong>* .
     The realization of what we deserve for our sins and what God did for us in
     Christ’s death becomes the appropriate basis for a correct understanding of
     grace.
@@ -885,15 +885,15 @@ g. Colossians 1:6f – …    <em>and understood the grace of God in <strong><u>
  
  
     5. Colossians 1:6 – …
-    <em>
+    * 
         Since the day you heard of it [the gospel] and understood the grace of
         God in truth
-    </em>
+    * 
     . Let’s take a closer look at the <strong><u>Gospel</u></strong> from 1
     Corinthians 15:1-10.
  
  
-    a. 1 Corinthians 15:1 – The New Testament word <em>gospel</em> EUANGELION
+    a. 1 Corinthians 15:1 – The New Testament word * gospel*  EUANGELION
     simply means <strong><u>good</u></strong> news. The context defines the
     good news. When it comes to the saving message or the Gospel of our
     salvation, we discover the following:
@@ -924,20 +924,20 @@ g. Colossians 1:6f – …    <em>and understood the grace of God in <strong><u>
  
  
     b. 1 Corinthians 15:3a –
-    <em>
+    * 
 For I delivered to you as of first importance what I also received,        <strong>that Christ</strong>
-    </em>
+    * 
     … The <strong><u>person</u></strong> who authored the Gospel is Jesus
     Christ.
  
  
-1) The word <em>Christ</em> in Greek is a much more loaded    <strong><u>word</u></strong> than what we perceive in English. When Paul
-    used the term <em>the Christ</em> he was talking about the one and only
+1) The word * Christ*  in Greek is a much more loaded    <strong><u>word</u></strong> than what we perceive in English. When Paul
+    used the term * the Christ*  he was talking about the one and only
     prophesied Deliverer. Genesis 3:15, Acts 10:36, Romans 1:3-4
  
  
-2) We often think of the term <em>Christ</em> as merely Jesus’    <strong><u>last</u></strong> name, but actually the concept is far more
-    meaningful than that. The <em>Christ</em> was the coming Deliverer, or
+2) We often think of the term * Christ*  as merely Jesus’    <strong><u>last</u></strong> name, but actually the concept is far more
+    meaningful than that. The * Christ*  was the coming Deliverer, or
     Messiah, promised back in the Garden of Eden. He was to be God’s Anointed
     One sent to rescue us. Luke 2:11, Acts 2:36
  
@@ -965,30 +965,30 @@ a) The term Christ is the Greek equivalent of the    <strong><u>Hebrew</u></stro
     save mankind from sin. John 1:29-34
  
  
-    c. 1 Corinthians 15:3b – <em>Christ <strong><u>died</u></strong></em> [in
+    c. 1 Corinthians 15:3b – * Christ <strong><u>died</u></strong>*  [in
     our place, for our sins]. The Gospel message includes the work accomplished
     by Christ’s substitutionary death for us. Luke 24:27
  
  
-    1) 1 Corinthians 15:3 – The phrase <em>Christ died </em>is at the heart of
+    1) 1 Corinthians 15:3 – The phrase * Christ died * is at the heart of
 the Gospel. If for salvation you trust in anything    <strong><u>other</u></strong> than the death of Christ you will not be
     saved. Your faith must rest in Christ alone.
  
  
-    2) The Bible affirms that <em>the wages for sin is death</em>. When Christ
+    2) The Bible affirms that * the wages for sin is death* . When Christ
     died for our sins, He <strong><u>paid</u></strong> the price for our
     forgiveness. Christ’s death was the appropriate, sufficient and only
     payment for our redemption.
  
  
-d. 1 Corinthians 15:3c –    <em>Christ died for our <strong><u>sins</u></strong></em>… The great
+d. 1 Corinthians 15:3c –    * Christ died for our <strong><u>sins</u></strong>* … The great
     accomplishment of the Gospel is Christ’s death for our personal sins. His
     death was the once-for-all payment for sins. His one-time payment provided
     everything necessary for our complete forgiveness.
  
  
     1) Christ died so that God could <strong><u>forgive</u></strong> sin
-    forever. <em>For the wages of sin is death</em> (Rom. 6:23). Through His
+    forever. * For the wages of sin is death*  (Rom. 6:23). Through His
     death, Christ paid your sin debt.
  
  
@@ -997,14 +997,14 @@ and sinful man. Sin was completely dealt with on the    <strong><u>cross</u></st
     sacrifice. 1 Peter 3:18
  
  
-e. 1 Corinthians 15:3d – <strong><em>Christ died</em></strong>…    <em>according to the Scriptures and was buried</em>. We have two great
+e. 1 Corinthians 15:3d – <strong>* Christ died* </strong>…    * according to the Scriptures and was buried* . We have two great
     confirmations that Christ did indeed <strong><u>die</u></strong> for our
     sins. The first is fulfilled prophetic testimony from the Old Testament,
     and the second is the fact that His lifeless body was placed in a tomb on a
     day in history.
  
  
-f. 1 Corinthians 15:4-5a – …<strong><em>and that he was raised on the third day</em></strong>    <em> according to the Scriptures, and that He appeared…</em> We also have
+f. 1 Corinthians 15:4-5a – …<strong>* and that he was raised on the third day* </strong>    *  according to the Scriptures, and that He appeared…*  We also have
     two confirmations of Christ’s literal <strong><u>bodily</u></strong>
     resurrection. First we have the literal fulfillment of Old Testament
     Scripture and second we have eyewitness testimonies.
@@ -1020,7 +1020,7 @@ f. 1 Corinthians 15:4-5a – …<strong><em>and that he was raised on the third 
     <br/>
  
  
-g. 1 Corinthians 15:11 – Concerning the Gospel message, Paul said, “…    <em>so we preach and so you <strong><u>believed</u></strong></em>.”
+g. 1 Corinthians 15:11 – Concerning the Gospel message, Paul said, “…    * so we preach and so you <strong><u>believed</u></strong>* .”
  
  
     1) Because Christ died for our sins and rose again just as God’s Word says,
@@ -1053,28 +1053,28 @@ person and work we are not faithfully preaching the    <strong><u>Gospel</u></st
      
  
  
-1. Colossians 1:7a –    <em>Just as you <strong><u>learned</u></strong> it from Epaphras</em>.
+1. Colossians 1:7a –    * Just as you <strong><u>learned</u></strong> it from Epaphras* .
     Epaphras was God’s witness who was the first to preach the Gospel of grace
     to the Colossians. Epaphras was part of the Colossian church. Colossians
     4:12, Philemon 23
  
  
-2. Colossians 1:7b – Paul spoke of Epaphras as …    <em>our beloved fellow bondservant</em>. Paul testified that he had a
+2. Colossians 1:7b – Paul spoke of Epaphras as …    * our beloved fellow bondservant* . Paul testified that he had a
     loving companion and trustworthy <strong><u>fellow</u></strong> laborer in
     the person of Epaphras.
  
  
-3. Colossians 1:7c – <em>W</em>    <em>ho is a faithful servant of Christ on our behalf</em>… Epaphras
+3. Colossians 1:7c – * W*     * ho is a faithful servant of Christ on our behalf* … Epaphras
     ministered on behalf of Christ. By mentioning the faithfulness of Epaphras,
     Paul astutely encouraged following Epaphras’ teachings and example as
-opposed to those who might <strong><u>not</u></strong> be    <em>faithful servants <strong>of Christ</strong></em>.
+opposed to those who might <strong><u>not</u></strong> be    * faithful servants <strong>of Christ</strong>* .
  
  
     4. Colossians 1:8 –
-    <em>
+    * 
         And he also informed us of your <strong><u>love</u></strong> in the
         Spirit.
-    </em>
+    * 
     Epaphras was the one who told Paul of the spiritual progress of the
     Colossians, specifically of their love produced by the Holy Spirit.
  
@@ -1108,27 +1108,27 @@ a. As mentioned in the introduction, this is the one and    <strong><u>only</u><
  
  
     a. Colossians 1:9a –
-    <em>
+    * 
         For this reason, since the <strong><u>day</u></strong> we heard of it…
-    </em>
+    * 
     Paul pointed out that they began to pray for the Colossians from the day
     they first got news of their salvation.
  
  
-b. Colossians 1:9b –    <em>We have not ceased to <strong><u>pray</u></strong>…</em> Paul and his
+b. Colossians 1:9b –    * We have not ceased to <strong><u>pray</u></strong>…*  Paul and his
     companions were persistent in their prayers, consistently remembering the
     Colossians right up to the present day.
  
  
-    1) The phrase <em>not cease</em> EU PAUOMETHA literally means to do
+    1) The phrase * not cease*  EU PAUOMETHA literally means to do
     something without taking a <strong><u>rest</u></strong>, or pausing.
  
  
     2) Paul prayed because he knew that God is able to do in a believer’s life
-    <em>
+    * 
         far more abundantly <strong><u>beyond</u></strong> all that we ask or
         think
-    </em>
+    * 
     . Ephesians 3:14-21
  
  
@@ -1137,11 +1137,11 @@ b. Colossians 1:9b –    <em>We have not ceased to <strong><u>pray</u></strong>
     intercession for God’s people.
  
  
-c. Colossians 1:9c –    <em>We have not ceased to pray <strong>for you</strong>…</em> The apostle’s
-genuine concern for the Colossian believers can be seen in the    <strong><u>two</u></strong> intimate words <em>for you</em>.
+c. Colossians 1:9c –    * We have not ceased to pray <strong>for you</strong>…*  The apostle’s
+genuine concern for the Colossian believers can be seen in the    <strong><u>two</u></strong> intimate words * for you* .
  
  
-d. Colossians 1:9d –    <em>We have not ceased to pray for you <strong>and to ask</strong>… </em>To
+d. Colossians 1:9d –    * We have not ceased to pray for you <strong>and to ask</strong>… * To
     ask AITEO means to <strong><u>beg</u></strong>, or intensely plead, on
     someone’s behalf. We see Paul and his prayer companions imploring God to
     respond to their requests.
@@ -1149,17 +1149,17 @@ d. Colossians 1:9d –    <em>We have not ceased to pray for you <strong>and to 
     <br/>
  
  
-    2. Colossians 1:9 – <em>To pray for you and to ask…</em> We will now focus
+    2. Colossians 1:9 – * To pray for you and to ask…*  We will now focus
     in on the <strong><u>heart</u></strong> of Paul’s petition for the
     Colossians. What was the central request of his prayer?
  
  
-a. Colossians 1:9e – Paul prayed    <em>that [they] may be filled with the knowledge</em> of God’s will. Paul
+a. Colossians 1:9e – Paul prayed    * that [they] may be filled with the knowledge*  of God’s will. Paul
     wanted God to abundantly <strong><u>fill</u></strong> the Colossians with a
     precise kind of knowledge.
  
  
-    1) The verb <em>filled</em> PLEROO conveys the idea of being filled all the
+    1) The verb * filled*  PLEROO conveys the idea of being filled all the
     way to the <strong><u>top</u></strong>, even to the point of overflowing.
  
  
@@ -1168,12 +1168,12 @@ a. Colossians 1:9e – Paul prayed    <em>that [they] may be filled with the kno
  
  
     3) Paul prayed that <strong><u>God</u></strong> would completely fill the
-    Colossian believers with <em>knowledge</em>.
+    Colossian believers with * knowledge* .
  
  
-    a) The Greek word for <em>knowledge</em> EPIGNOSIS is made up of the
+    a) The Greek word for * knowledge*  EPIGNOSIS is made up of the
     preposition EPI meaning <strong><u>apt</u></strong> or fitting and the
-    common verb GNOSIS <em>knowledge</em>. This word therefore describes
+    common verb GNOSIS * knowledge* . This word therefore describes
     experiential or firsthand knowledge and entails discernment, recognition or
     perception.
  
@@ -1191,7 +1191,7 @@ were all extensively used by Gnostics who taught that <strong>they</strong>    <
     of mysteries.
  
  
-b. Colossians 1:9f – Paul specifically prayed for the Colossians to be    <em>filled with the knowledge <strong>of God’s <u>will</u></strong></em>.
+b. Colossians 1:9f – Paul specifically prayed for the Colossians to be    * filled with the knowledge <strong>of God’s <u>will</u></strong>* .
  
  
 1) Paul labored to help believers understand God’s will for them – the    <strong><u>mystery</u></strong> not revealed in past dispensations. 1
@@ -1211,7 +1211,7 @@ b. Colossians 1:9f – Paul specifically prayed for the Colossians to be    <em>
  
  
     c. Colossians 1:9g – Paul specifically prayed the Colossian believers would
-be filled with an understanding of God’s will    <em>in all spiritual <strong><u>wisdom</u></strong></em>.
+be filled with an understanding of God’s will    * in all spiritual <strong><u>wisdom</u></strong>* .
  
  
     1) Spiritual wisdom can <strong><u>only</u></strong> be understood by the
@@ -1223,24 +1223,24 @@ be filled with an understanding of God’s will    <em>in all spiritual <strong>
  
  
     3) 1 Corinthians 2:6-7a –
-    <em>
+    * 
 Yet we do speak wisdom among those who are        <strong><u>mature</u></strong>; a wisdom, however, not of this age nor
         of the rulers of this age, who are passing away; but we speak God’s
         wisdom
-    </em>
+    * 
     …
  
  
 d. Colossians 1:9h – Paul also prayed for the Colossian believers to be    <strong><u>filled</u></strong> with the knowledge of God’s will in all
-    spiritual<em> …understanding</em>.
+    spiritual*  …understanding* .
  
  
-1) The word <em>understanding</em> SUNESIS in Greek literally    <strong><u>means</u></strong> a running together or a flowing together,
+1) The word * understanding*  SUNESIS in Greek literally    <strong><u>means</u></strong> a running together or a flowing together,
     like the joining of two rivers. The word denotes the ability to understand
     concepts and see relationships between them.
  
  
-    2) To <em>understand</em> God’s will is a process of properly combining the
+    2) To * understand*  God’s will is a process of properly combining the
     knowledge of the Word of God with <strong><u>real</u></strong>-life
     experience. Since this process must be divinely initiated, Paul correctly
     made this a second aspect of his petition for the Colossians. John 14:26, 1
@@ -1248,31 +1248,31 @@ d. Colossians 1:9h – Paul also prayed for the Colossian believers to be    <st
  
  
     3) 1 Corinthians 3:6-7 –
-    <em>
+    * 
         I planted, Apollos watered, but God was causing the growth. So then
         neither the one who plants nor the one who water is anything, but God
         who <strong><u>causes</u></strong> the growth
-    </em>
+    * 
     . Colossians 2:19b
  
  
-4) Acquiring spiritual<em> understanding</em>    <strong><u>guards</u></strong> you against reliving the first year of your
+4) Acquiring spiritual*  understanding*     <strong><u>guards</u></strong> you against reliving the first year of your
     Christian life for the twentieth time. James 1:21-25
     <br/>
     <br/>
  
  
-    <em>3. </em>
-Colossians 1:10-11 – Being filled with the knowledge of God’s will<em>in all spiritual wisdom and understanding</em> produces amazing    <strong><u>results</u></strong>. Paul told the Colossians what they could
+    * 3. * 
+Colossians 1:10-11 – Being filled with the knowledge of God’s will* in all spiritual wisdom and understanding*  produces amazing    <strong><u>results</u></strong>. Paul told the Colossians what they could
     expect in answer to his prayer.  
  
  
-a. Colossians 1:10a – …    <em>to walk in a manner <strong><u>worthy</u></strong> of the Lord</em>.
+a. Colossians 1:10a – …    * to walk in a manner <strong><u>worthy</u></strong> of the Lord* .
     The first blessing that would flow from knowing God’s will in all spiritual
     wisdom and understanding would be a changed walk.
  
  
-    1) <em>To walk in a manner worthy of the Lord</em> means that their lives
+    1) * To walk in a manner worthy of the Lord*  means that their lives
     would be a <strong><u>tribute</u></strong> to the Lord and His amazing
     grace. 1 Corinthians 15:10, Ephesians 2:7
  
@@ -1283,7 +1283,7 @@ a. Colossians 1:10a – …    <em>to walk in a manner <strong><u>worthy</u></st
     gave credit to God’s name. Titus 2:5b
  
  
-b. Colossians 1:10b – <em>…to please Him in all respects</em>… If they were    <em>filled with the knowledge of God’s will</em>, the Colossian believers
+b. Colossians 1:10b – * …to please Him in all respects* … If they were    * filled with the knowledge of God’s will* , the Colossian believers
     would be able to live a <strong><u>life</u></strong> completely pleasing to
     God.
  
@@ -1294,14 +1294,14 @@ b. Colossians 1:10b – <em>…to please Him in all respects</em>… If they wer
  
  
     2) <strong><u>Jesus</u></strong> fully pleased the Father as seen in the
-    statement, “<em>This is my beloved Son, in whom I am well pleased</em>.”
+    statement, “* This is my beloved Son, in whom I am well pleased* .”
     Paul prayed for the Colossians because he wanted them also to be pleasing
     to their God.
     <br/>
     <br/>
  
  
-    c. Colossians 1:10c – <em>Bearing fruit in every good work</em>… Knowing
+    c. Colossians 1:10c – * Bearing fruit in every good work* … Knowing
     God’s will in all spiritual wisdom and understanding would enable to the
     Colossians to <strong><u>bear</u></strong> fruit in the good works God had
     for each of them. Ephesians 2:10, Titus 2:14
@@ -1319,28 +1319,28 @@ b. Colossians 1:10b – <em>…to please Him in all respects</em>… If they wer
  
  
     a) Philippians 1:9 –
-    <em>
+    * 
         And this I <strong><u>pray</u></strong>, that your love may abound
         still more and more in real knowledge and all discernment…
-    </em>
-Paul prayed for the love of the Philippians to be based in    <em> real knowledge</em> and <em>all discernment </em>AISTHESIS, meaning
+    * 
+Paul prayed for the love of the Philippians to be based in    *  real knowledge*  and * all discernment * AISTHESIS, meaning
     insight and full comprehension.
  
  
     b) Philippians 1:10 – He prayed this
-    <em>
+    * 
         so that [they might] approve the things that are excellent, in order to
         be sincere and blameless until the day of Christ.
-    </em>
+    * 
     ” In order to <strong><u>please</u></strong> God, the Philippians needed to
     first have the knowledge and discernment of God’s will.
  
  
     c) Philippians 1:11 – …
-    <em>
+    * 
         having been filled with the fruit of righteousness, which comes through
         Jesus Christ, to the glory and praise of God
-    </em>
+    * 
     . Ultimately though, the <strong><u>fruit</u></strong> of righteousness
     would be the product of Christ living His life through them as they walked
     by faith in Him. John 15:4-5; Galatians 2:20, 5:22
@@ -1355,7 +1355,7 @@ Paul prayed for the love of the Philippians to be based in    <em> real knowledg
  
  
     d. Colossians 1:10d – As God answered Paul’s prayer for the Colossians to
-be filled with the knowledge of God’s will, they would be<em>increasing in the knowledge </em>EPIGNOSIS    <em> of <strong><u>God</u></strong></em>.
+be filled with the knowledge of God’s will, they would be* increasing in the knowledge * EPIGNOSIS    *  of <strong><u>God</u></strong>* .
  
  
     1) A growing knowledge of God is essential for <strong><u>life</u></strong>
@@ -1373,12 +1373,12 @@ be filled with the knowledge of God’s will, they would be<em>increasing in the
  
     e. Colossians 1:11a – As a <strong><u>result</u></strong> of the Colossians
     being filled with the knowledge of God’s will in all spiritual wisdom and
-understanding they would also be    <em>strengthened with all power, according to His glorious might</em>. 2
+understanding they would also be    * strengthened with all power, according to His glorious might* . 2
     Peter 1:3-4
  
  
     1) Through knowing God’s will in all spiritual wisdom and understanding we
-learn that He has provided for us    <em>His glorious <strong><u>might</u></strong></em>. Ephesians 1:18-19
+learn that He has provided for us    * His glorious <strong><u>might</u></strong>* . Ephesians 1:18-19
  
  
     2) God is not looking for inherently <strong><u>strong</u></strong>
@@ -1391,9 +1391,9 @@ learn that He has provided for us    <em>His glorious <strong><u>might</u></stro
     f. Colossians 1:11b – As a result of being filled with the knowledge of
     God’s will in all spiritual wisdom and understanding the Colossian
     believers would ultimately grow to the point of
-    <em>
+    * 
         attaining of <strong><u>all</u></strong> steadfastness and patience
-    </em>
+    * 
     .
  
  
@@ -1404,9 +1404,9 @@ learn that He has provided for us    <em>His glorious <strong><u>might</u></stro
     Christ is for our sake.
  
  
-    2) Though similar concepts, the difference between <em>steadfastness</em>
-    and <em>patience</em> is that while <em>steadfastness</em> has to do with
-bearing up under trials, <em>patience</em> MAKROTHYMIAN has to do with    <strong><u>long</u></strong>-term endurance in trials. Romans 5:3-5, James
+    2) Though similar concepts, the difference between * steadfastness* 
+    and * patience*  is that while * steadfastness*  has to do with
+bearing up under trials, * patience*  MAKROTHYMIAN has to do with    <strong><u>long</u></strong>-term endurance in trials. Romans 5:3-5, James
     1:2-4
  
  
@@ -1426,7 +1426,7 @@ bearing up under trials, <em>patience</em> MAKROTHYMIAN has to do with    <stron
      
  
  
-1. Colossians 1:11c-12a –    <em>Joyously <strong><u>giving</u></strong> thanks to the Father</em>… If
+1. Colossians 1:11c-12a –    * Joyously <strong><u>giving</u></strong> thanks to the Father* … If
     God would answer Paul’s prayer for the Colossian believers to be filled
     with the knowledge of God’s will in all spiritual wisdom and understanding,
     the Colossians would truly have <strong><u>reason</u></strong> to rejoice
@@ -1434,7 +1434,7 @@ bearing up under trials, <em>patience</em> MAKROTHYMIAN has to do with    <stron
  
  
     a. Paul prayed with the high hopes that the Colossians would joyfully and
-    continually give thanks<em>.</em> Clearly this only occurs when one is
+    continually give thanks* .*  Clearly this only occurs when one is
     occupied with <strong><u>Christ</u></strong>, living dependently on Him.
     Colossians 3:15-16, Hebrews 12:1-2
  
@@ -1447,19 +1447,19 @@ bearing up under trials, <em>patience</em> MAKROTHYMIAN has to do with    <stron
     <br/>
  
  
-2. Colossians 1:12b –    <em>Giving thanks to the Father who has qualified us</em>… Paul’s prayer
+2. Colossians 1:12b –    * Giving thanks to the Father who has qualified us* … Paul’s prayer
     continued with <strong><u>praise</u></strong> to God for their (our) future
     blessings in Christ.
  
  
-a. Colossians 1:12b – Paul rejoiced because our heavenly<strong><u>Father</u></strong> has already …    <em>qualified us to share in the inheritance.</em>
+a. Colossians 1:12b – Paul rejoiced because our heavenly<strong><u>Father</u></strong> has already …    * qualified us to share in the inheritance.* 
  
  
     1) As believers, we <strong><u>share</u></strong> in Christ’s inheritance.
     Through our salvation we became co-heirs with Christ. Romans 8:17
  
  
-    2) Based upon the aorist tense of the verb <em>qualified</em> HIKANOO (made
+    2) Based upon the aorist tense of the verb * qualified*  HIKANOO (made
     us fit), this is something God has already accomplished at a point in time
     in the <strong><u>past</u></strong>. As saints, our qualification to
     inherit is a done deal. This is an issue that God has intentionally taken
@@ -1485,7 +1485,7 @@ YOU, is the guarantor of your future inheritance. You will    <strong>never</str
     <br/>
  
  
-b. Colossians 1:12c – Paul praised God for the future    <em>inheritance <strong>of the saints in Light</strong></em>. This means
+b. Colossians 1:12c – Paul praised God for the future    * inheritance <strong>of the saints in Light</strong>* . This means
     that just as we once owned a portion of the kingdom of darkness, now as
 believers we possess a portion in the soon-to-come kingdom of    <strong><u>light</u></strong>. Acts 26:18, Ephesians 5:8
  
@@ -1494,7 +1494,7 @@ believers we possess a portion in the soon-to-come kingdom of    <strong><u>ligh
     inheritance. Romans 8:28-30, Ephesians 1:11, 18
  
  
-2) The phrase <em>in light </em>speaks of our glorification and    <strong><u>future</u></strong> participation in God’s eternal kingdom. 1
+2) The phrase * in light * speaks of our glorification and    <strong><u>future</u></strong> participation in God’s eternal kingdom. 1
     Peter 1:3-8, Revelation 22:5
     <br/>
     <br/>
@@ -1527,18 +1527,18 @@ believers we possess a portion in the soon-to-come kingdom of    <strong><u>ligh
     inheritance in heaven.
  
  
-    a) We have an <em>imperishable </em>inheritance. Being everlasting, our
+    a) We have an * imperishable * inheritance. Being everlasting, our
     inheritance can <strong><u>never</u></strong> be destroyed.
  
  
-b) We have an <em>undefiled </em>inheritance. Our inheritance can never be    <strong><u>spoiled</u></strong>.
+b) We have an * undefiled * inheritance. Our inheritance can never be    <strong><u>spoiled</u></strong>.
  
  
-    c) We have an <em>unfading </em>inheritance. Our inheritance will never
+    c) We have an * unfading * inheritance. Our inheritance will never
     diminish or lose its <strong><u>beauty</u></strong>.
  
  
-d) We have an inheritance that is    <em>reserved in <strong><u>heaven</u></strong> for </em>[us]<em>.</em> Our
+d) We have an inheritance that is    * reserved in <strong><u>heaven</u></strong> for * [us]* .*  Our
     inheritance is permanently earmarked for us, being guarded for us by God in
     heaven.
     <br/>
@@ -1549,12 +1549,12 @@ d) We have an inheritance that is    <em>reserved in <strong><u>heaven</u></stro
 3. Colossians 1:13 – Paul continued his praise to God in prayer for their    <strong><u>earlier</u></strong> deliverance in Christ (justification).
  
  
-a. Colossians 1:13a – God rescued us from grave<strong><u>peril</u></strong>.    <em>For He delivered us from the domain of darkness,</em> from Satan’s
+a. Colossians 1:13a – God rescued us from grave<strong><u>peril</u></strong>.    * For He delivered us from the domain of darkness,*  from Satan’s
     power and jurisdiction. Colossians 2:15
  
  
     1) Paul <strong><u>used</u></strong> the middle, or reflexive, voice for
-    the verb <em>delivered</em>, communicating an intimacy and compassion.
+    the verb * delivered* , communicating an intimacy and compassion.
  
  
     2) The grammar communicates a snatching or rescuing from danger with the
@@ -1563,26 +1563,26 @@ a. Colossians 1:13a – God rescued us from grave<strong><u>peril</u></strong>. 
  
  
     b. Colossians 1:13b – Paul also praised God for their future inclusion in
-    His eternal plan saying, “A<em>nd </em>[He]
-    <em>
+    His eternal plan saying, “A* nd * [He]
+    * 
         transferred us to the <strong><u>kingdom</u></strong> of His beloved
         Son.
-    </em>
+    * 
     ” This statement is a reality to be accepted by faith and not an experience
     to be felt.
  
  
-    1) This word <em>transferred</em> METHISTEMI was used to describe the
+    1) This word * transferred*  METHISTEMI was used to describe the
     relocation of large <strong><u>groups</u></strong> of people such as
     captured armies or refugees from one country to another.
  
  
     2) History records that the Greek ruler Antiochus the Great, the sixth
-ruler of the Seleucid Empire who ruled from BC 222 to BC 187,    <em>transferred</em> METHISTEMI (same word, conveyed or transported) some
+ruler of the Seleucid Empire who ruled from BC 222 to BC 187,    * transferred*  METHISTEMI (same word, conveyed or transported) some
     2,000 <strong><u>Jews</u></strong> from Babylon to Colossae.
  
  
-3) This is a beautiful description of our position<strong><u>change</u></strong> as believers. God removed us from being    <em>in Adam</em> and placed us <em>in Christ</em>. This is part of our
+3) This is a beautiful description of our position<strong><u>change</u></strong> as believers. God removed us from being    * in Adam*  and placed us * in Christ* . This is part of our
     inheritance as saints. 1Corinthians 12:22, Ephesians 2:1-6
     <br/>
     <br/>
@@ -1593,13 +1593,13 @@ ruler of the Seleucid Empire who ruled from BC 222 to BC 187,    <em>transferred
     1:4, 7
  
  
-    a. Colossians 1:14a – <em>In whom we have redemption</em>… Paul burst forth
+    a. Colossians 1:14a – * In whom we have redemption* … Paul burst forth
     in praise for the <strong><u>price</u></strong> Christ paid to purchase our
     spiritual freedom.
  
  
 1) Remarkably, this is the current possession of    <strong><u>every</u></strong> believer in Christ. Notice that we have this
-    redemption <em>in Him</em>, in Christ.
+    redemption * in Him* , in Christ.
  
  
     2) In the here and now, as a result of our union with Christ, we have been
@@ -1614,9 +1614,9 @@ redeemed. By paying the required price, Christ purchased us out of the    <stron
  
  
     b. Colossians 1:14b – …
-    <em>
+    * 
         in whom we have redemption, <strong>the forgiveness of sins</strong>
-    </em>
+    * 
     … Along with the apostle Paul, we should rejoice in praise and thanksgiving
     for the remission of our <strong><u>sins</u></strong> because of Christ’s
     death on our behalf.
@@ -1662,7 +1662,7 @@ following human philosophy and secular knowledge. It deceives    <strong><u>beli
     true knowledge of Christ. 2 Peter 1:3
  
  
-d. Paul revealed in Colossians 1:27 that the mystery of life is    <em>Christ <strong><u>in</u></strong> you</em>. Colossians 2:2-3 further illustrates this truth.
+d. Paul revealed in Colossians 1:27 that the mystery of life is    * Christ <strong><u>in</u></strong> you* . Colossians 2:2-3 further illustrates this truth.
  
  
 2. Legalism: Colossians 2:16-17 portrays a blending of ritualism and law with the truth of Christ. This error produces a    <strong><u>works</u></strong>-based Christianity that becomes nothing more than an oppressive system of legalism. Acts 15:1-11
@@ -1688,7 +1688,7 @@ d. Paul revealed in Colossians 1:27 that the mystery of life is    <em>Christ <s
     <br/>
  
  
-3. Mysticism: Colossians 2:18 points out the error of<em>spiritual mysticism</em>. This error attracts believers to    <strong><u>focus</u></strong> on experiences and opens them to exploitation
+3. Mysticism: Colossians 2:18 points out the error of* spiritual mysticism* . This error attracts believers to    <strong><u>focus</u></strong> on experiences and opens them to exploitation
     by deceitful leaders.
  
  
@@ -1710,7 +1710,7 @@ d. Paul revealed in Colossians 1:27 that the mystery of life is    <em>Christ <s
 
  
  
-4. Asceticism: Colossians 2:20-23 describes a Christianity based on<strong><u>human</u></strong> determination through the practice of    <em>asceticism</em>.
+4. Asceticism: Colossians 2:20-23 describes a Christianity based on<strong><u>human</u></strong> determination through the practice of    * asceticism* .
  
  
     a. This error advocates the so-called spiritual disciplines and promotes
@@ -1726,7 +1726,7 @@ c. This error detaches the believer from Christ, who is the true head of the chu
     
  
  
-    5. In a study of church history, we find that <em>Gnosticism</em>
+    5. In a study of church history, we find that * Gnosticism* 
     ultimately developed from a <strong><u>mixture</u></strong> of all these
     false concepts. Unfortunately, we are not out of danger today. These
     heresies continue to daily assault the church.
@@ -1757,10 +1757,10 @@ c. This error detaches the believer from Christ, who is the true head of the chu
  
     b. In all these errors the Christian is duped into living by human effort
     rather than
-    <em>
+    * 
         by <strong><u>faith</u></strong> in the Son of God who loved us and
         gave himself up for us
-    </em>
+    * 
     . Galatians 2:20b
     <br/>
     <br/>
@@ -1778,7 +1778,7 @@ c. This error detaches the believer from Christ, who is the true head of the chu
 1. Colossians 1:15 – As God-made-visible, Jesus Christ holds    <strong><u>first</u></strong> place in all creation.
  
  
-a. Colossians 1:15a – <strong><em>He is </em></strong><em>the image of the invisible God</em>… He is the greatest person to    <strong><u>ever</u></strong> emerge in human history. 2 Corinthians 4:4
+a. Colossians 1:15a – <strong>* He is * </strong>* the image of the invisible God* … He is the greatest person to    <strong><u>ever</u></strong> emerge in human history. 2 Corinthians 4:4
  
  
     1) In the incarnation, Jesus <strong><u>came</u></strong> in God’s
@@ -1793,7 +1793,7 @@ a. Colossians 1:15a – <strong><em>He is </em></strong><em>the image of the inv
 3) Christ is the visible manifestation of the invisible God. Absolutely    <strong><u>no</u></strong> one else can validly make this claim. John 1:18
  
  
-b. Colossians 1:15b –    <em>He is the <strong>image</strong> of the invisible God</em>… Christ is the <strong><u>exact</u></strong> exemplification of God the Father. Hebrews 1:3
+b. Colossians 1:15b –    * He is the <strong>image</strong> of the invisible God* … Christ is the <strong><u>exact</u></strong> exemplification of God the Father. Hebrews 1:3
  
  
 1) Adam was created in God’s image and likeness. Even    <strong><u>after</u></strong> the fall, He continued to somewhat reflect God’s likeness, yet only Christ is the exact representation of God. Genesis 9:6, 1 Corinthians 11:7
@@ -1803,7 +1803,7 @@ b. Colossians 1:15b –    <em>He is the <strong>image</strong> of the invisible
     invisible God.
  
  
-    a) This word <em>image</em> EIKON was used of Caesar’s image on currency
+    a) This word * image*  EIKON was used of Caesar’s image on currency
     (Lk. 20:24-25) and of idols representing men, <strong><u>birds</u></strong>
     and other animals. Romans 1:23
  
@@ -1813,7 +1813,7 @@ b. Colossians 1:15b –    <em>He is the <strong>image</strong> of the invisible
     the exact representation (image) of the original document.
  
  
-c. Colossians 1:15c –    <em>He is the image of the <strong>invisible God</strong></em>. Why was this statement about God being invisible significant, especially to the Colossian believers?
+c. Colossians 1:15c –    * He is the image of the <strong>invisible God</strong>* . Why was this statement about God being invisible significant, especially to the Colossian believers?
  
  
     1) The point made in this verse was <strong><u>aimed</u></strong> directly
@@ -1831,18 +1831,18 @@ God, we can come to know God by simply getting to    <strong><u>know</u></strong
 2. Colossians 1:15 – Jesus Christ holds first place as the    <strong><u>premier</u></strong> human of all time.
  
  
-a. Colossians 1:15d –<em>The <strong>firstborn</strong> of all creation…</em> The word    <em>firstborn</em> PROTOTOKOS in Greek means first in order or rank. Even
+a. Colossians 1:15d –* The <strong>firstborn</strong> of all creation…*  The word    * firstborn*  PROTOTOKOS in Greek means first in order or rank. Even
 though the word PROTOTOKOS can mean the firstborn in    <strong><u>birth</u></strong> order in a family, it is not restricted to
 that meaning.
  
  
-1) Historically a sibling <strong><u>other</u></strong> than the firstborn would oftentimes carry the title of <em>firstborn</em> PROTOTOKOS.
+1) Historically a sibling <strong><u>other</u></strong> than the firstborn would oftentimes carry the title of * firstborn*  PROTOTOKOS.
  
  
 2) Adam might seem to have originally deserved that    <strong><u>title</u></strong> because of his position in human history, yet Christ eternally predated him and has far superseded him as God’s firstborn PROTOTOKOS among humans.
  
  
-b. Colossians 1:15e –    <em>The firstborn<strong> of all</strong> creation…</em> means that He is the greatest man to <strong><u>emerge</u></strong> in human history.
+b. Colossians 1:15e –    * The firstborn<strong> of all</strong> creation…*  means that He is the greatest man to <strong><u>emerge</u></strong> in human history.
  
  
 1) This does <strong><u>not</u></strong> mean that the Father created Christ. John 1:1-3
@@ -1851,9 +1851,9 @@ b. Colossians 1:15e –    <em>The firstborn<strong> of all</strong> creation…
 2) Jesus Christ is called the firstborn of all creation because He    <strong><u>holds</u></strong> the premier position of first place among humankind. Acts 4:12, 1 Timothy 2:5
  
  
-c. Colossians 1:15f –    <em>The firstborn of all <strong>creation</strong></em>… Jesus Christ is
+c. Colossians 1:15f –    * The firstborn of all <strong>creation</strong>* … Jesus Christ is
     fully <strong><u>man</u></strong>. The significance of the statement that
-    Jesus Christ is <em>the firstborn of all creation </em>demonstrates that He
+    Jesus Christ is * the firstborn of all creation * demonstrates that He
     alone is God’s preeminent man in human history. Only He holds this honor.
     Romans 1:3-4
  
@@ -1863,20 +1863,20 @@ c. Colossians 1:15f –    <em>The firstborn of all <strong>creation</strong></e
  
  
     a. Colossians 1:16 –
-    <em>
+    * 
         For <strong><u>by</u></strong> Him all things were created, both in the
         heavens and on earth, visible and invisible
-    </em>
+    * 
     … Our reaction to this statement might be, “Wait a minute? I thought God
     created the heavens and the earth.” (Gen. 1:1) If that is how you react,
     Paul succeeded in his statement. John 1:3
  
  
-1) Colossians 1:16a – Jesus Christ is the originator of    <strong><u>all</u></strong> creation. …<em>by </em>(EN, denoting
-    instrumentality)<em> him all things were created.</em>
+1) Colossians 1:16a – Jesus Christ is the originator of    <strong><u>all</u></strong> creation. …* by * (EN, denoting
+    instrumentality)*  him all things were created.* 
  
  
-    a) This verse begins with <em>…for by Him</em> HOTI EN AUTO (Col 1:16), a
+    a) This verse begins with * …for by Him*  HOTI EN AUTO (Col 1:16), a
     phrase that expresses <strong><u>cause</u></strong> or purpose. It can be
     understood as <strong>because in Him</strong>.
  
@@ -1886,20 +1886,20 @@ b) In other words, this verse gives us the reasons why Jesus Christ came to    <
  
  
     2) Colossians 1:16b –
-    <em>
+    * 
 For by Him all things were created        <strong>both in the heavens and on earth</strong>
-    </em>
+    * 
     … Christ personally designed and <strong><u>made</u></strong> the entire
     universe.
  
  
-3) Colossians 1:16c – <em>For by Him all things were created </em>…    <strong><em>visible and invisible</em></strong>… He made everything in both
+3) Colossians 1:16c – * For by Him all things were created * …    <strong>* visible and invisible* </strong>… He made everything in both
     the material and immaterial <strong><u>realms</u></strong>.
  
  
-    4) Colossians 1:16d – <em>For by Him all things were created </em>…
+    4) Colossians 1:16d – * For by Him all things were created * …
     <strong>
-        <em>whether thrones or dominions or rulers or authorities</em>
+        * whether thrones or dominions or rulers or authorities* 
     </strong>
 … Christ is the one who created all the hierarchy of    <strong><u>spirit</u></strong> beings in the celestial realms as well as
     all human authorities.
@@ -1922,27 +1922,27 @@ c) So did Christ create demons? No, He created holy and pure angels who    <stro
     <br/>
  
  
-b. Colossians 1:16 –    <em>All things were created through </em>DIA <em>Him.</em>
+b. Colossians 1:16 –    * All things were created through * DIA * Him.* 
     Jesus Christ is the <strong>prime <u>source</u></strong> of every created
     thing. Hebrews 1:2
  
  
-    1) Colossians 1:16e – …<strong><em>all</em></strong><em> things… </em>The
-    word <em>all</em> PANTA is a comprehensive word used twice in this verse,
+    1) Colossians 1:16e – …<strong>* all* </strong>*  things… * The
+    word * all*  PANTA is a comprehensive word used twice in this verse,
     clearly indicating that absolutely <strong>nothing</strong> in all Creation
     was created or ever existed <strong><u>without</u></strong> Jesus Christ.
  
  
-2) Colossians 1:16f – <em>…were created… </em>In Greek, the verb    <em>were created</em> KTIZO is an aorist passive indicative verb that
+2) Colossians 1:16f – * …were created… * In Greek, the verb    * were created*  KTIZO is an aorist passive indicative verb that
 indicates these things did not create themselves or    <strong><u>form</u></strong> on their own, i.e., evolution. An outside
     force acting upon them created them. Jesus Christ decisively created
     everything.
  
  
-    3) Colossians 1:16g – <em>…<strong>through </strong>Him…</em> Creation
+    3) Colossians 1:16g – * …<strong>through </strong>Him…*  Creation
     remains a testimony and proof of Christ’s monumental creative might.
     Nothing was created in any <strong><u>other</u></strong> way or through any
-    other means than <em>through</em> Jesus Christ.
+    other means than * through*  Jesus Christ.
     <br/>
     <br/>
  
@@ -1950,11 +1950,11 @@ indicates these things did not create themselves or    <strong><u>form</u></stro
 c. Colossians 1:16 – Jesus Christ is the    <strong>prime <u>purpose</u></strong> behind all creation.
  
  
-1) Colossians 1:16h –    <em>…all things were created… <strong>for</strong> Him</em>… <em>For</em>
+1) Colossians 1:16h –    * …all things were created… <strong>for</strong> Him* … * For* 
     EIS is a preposition that conveys purpose or <strong><u>goal</u></strong>.
  
  
-2) Colossians 1:16i –    <em>…all things were created… for <strong>Him</strong></em>. Everything was
+2) Colossians 1:16i –    * …all things were created… for <strong>Him</strong>* . Everything was
     created to be Christ’s <strong><u>own</u></strong> possession and for His
     own good pleasure. Creation’s ultimate purpose for existing can be found in
     the holy, just and perfect counsels of its Creator Jesus Christ. Romans
@@ -1963,25 +1963,25 @@ c. Colossians 1:16 – Jesus Christ is the    <strong>prime <u>purpose</u></stro
     <br/>
  
  
-d. Colossians 1:17 –    <em>He is <strong><u>before</u></strong> all things…</em> Jesus Christ is
+d. Colossians 1:17 –    * He is <strong><u>before</u></strong> all things…*  Jesus Christ is
     the <strong>prime precursor</strong> of everything. He existed eternally
     before Creation was initiated. John 1:3
  
  
-1) Colossians 1:17a – <strong><em><u>He</u></em></strong>    <em> is before all things</em>… Because of the grammatical placement of the
-    pronoun <em>He</em>, this phrase could be understood as “He and no other.”
+1) Colossians 1:17a – <strong>* <u>He</u>* </strong>    *  is before all things* … Because of the grammatical placement of the
+    pronoun * He* , this phrase could be understood as “He and no other.”
     John 8:58
  
  
-    2) Colossians 1:17b – <em>He <strong>is</strong> before all things…</em> We
-    should note the use of the present tense word <em>is</em> in this verse in
+    2) Colossians 1:17b – * He <strong>is</strong> before all things…*  We
+    should note the use of the present tense word * is*  in this verse in
     contrast to the past tense was. He is (not <strong><u>was</u></strong>)
     before all things. This accentuates the fact that Jesus Christ, as eternal
     God, always was and always <strong>is</strong> and always will be before
     all things.
  
  
-e. Colossians 1:17 –    <em>…and in Him all things <strong><u>hold</u></strong> together</em>.
+e. Colossians 1:17 –    * …and in Him all things <strong><u>hold</u></strong> together* .
     Jesus Christ is the <strong>prime supporter</strong> of all creation.
  
  
@@ -1998,11 +1998,11 @@ to the preservation of all things. By implication,    <strong><u>without</u></st
     <br/>
  
  
-    4. Colossians 1:18 – <em>He is also head of the body, the church</em>…
+    4. Colossians 1:18 – * He is also head of the body, the church* …
 Christ holds first place of honor <strong>TO US</strong> because He is the    <strong><u>head</u></strong> of the church.
  
  
-a. Colossians 1:18a – Note that <strong><em>He is <u>head</u></em></strong>    <em> of the body</em>, not <strong><em>a</em></strong> head of the body.
+a. Colossians 1:18a – Note that <strong>* He is <u>head</u>* </strong>    *  of the body* , not <strong>* a* </strong> head of the body.
  
  
     1) There is no authority in the body of Christ that is greater or can ever
@@ -2021,7 +2021,7 @@ a. Colossians 1:18a – Note that <strong><em>He is <u>head</u></em></strong>   
     <br/>
  
  
-    b. Colossians 1:18b – <em>He is head <strong>of the body</strong>…</em>
+    b. Colossians 1:18b – * He is head <strong>of the body</strong>…* 
     Christ alone is the head of His body, the church. Revelation 19:7
  
  
@@ -2039,7 +2039,7 @@ a. Colossians 1:18a – Note that <strong><em>He is <u>head</u></em></strong>   
     <br/>
  
  
-c. Colossians 1:18c –    <em>He is also head of the body, <strong>the church</strong>… </em>Christ
+c. Colossians 1:18c –    * He is also head of the body, <strong>the church</strong>… * Christ
     is <strong><u>first</u></strong> in the church. Ephesians 1:22
  
  
@@ -2053,7 +2053,7 @@ c. Colossians 1:18c –    <em>He is also head of the body, <strong>the church</
     Revelation 2-3
  
  
-5. Colossians 1:18 – …<em>and He is the beginning</em>… Jesus Christ    <strong><u>holds</u></strong> first place as the <em>beginning</em>.
+5. Colossians 1:18 – …* and He is the beginning* … Jesus Christ    <strong><u>holds</u></strong> first place as the * beginning* .
  
  
     a. This is <strong><u>not</u></strong> saying Christ appeared in the
@@ -2061,7 +2061,7 @@ c. Colossians 1:18c –    <em>He is also head of the body, <strong>the church</
  
  
     b. It is one thing to be the first one created, but quite another to be the
-source and reason for the existence of everything. Christ is the<strong><u>source</u></strong> of all substance …    <em>for without him nothing came into being that has come into being</em>…
+source and reason for the existence of everything. Christ is the<strong><u>source</u></strong> of all substance …    * for without him nothing came into being that has come into being* …
     John 1:3
  
  
@@ -2072,7 +2072,7 @@ source and reason for the existence of everything. Christ is the<strong><u>sourc
     <br/>
  
  
-    6. Colossians 1:18c – …<em>the firstborn from the dead</em>… Jesus Christ
+    6. Colossians 1:18c – …* the firstborn from the dead* … Jesus Christ
 holds first place as the firstborn PROTOTOKOS from among the    <strong><u>dead</u></strong>. Acts 2:24
  
  
@@ -2108,24 +2108,24 @@ b. Quite simply, Christ is the first person to ever fully    <strong><u>conquer<
  
  
     7. Colossians 1:18d – A summary statement: …
-    <em>
+    * 
 that He Himself might come to <strong><u>have</u></strong>        <strong>first place in everything</strong>
-    </em>
+    * 
     . Our Savior Jesus Christ holds first place in everything.
  
  
-    a. The word …<em>that</em>… in this phrase is a HINA clause, or a clause of
+    a. The word …* that* … in this phrase is a HINA clause, or a clause of
     purpose. This clause in Greek informed the readers that everything
     previously mentioned in verses 15-18 was mentioned for the purpose of
 showing Christ’s authority – that He holds the highest possible    <strong><u>rank</u></strong> in every realm.
  
  
-    b. <strong>How often</strong> should Christ <em>have first place</em> in
-    your life? Since <strong><em>first place</em></strong> PROTEUO is a present
+    b. <strong>How often</strong> should Christ * have first place*  in
+    your life? Since <strong>* first place* </strong> PROTEUO is a present
 tense, active voice participle the answer would be, “    <strong><u>Always</u></strong>, continually, and right now.”
  
  
-c. In <strong>how many areas</strong> should Christ    <em>have first place</em>? “<em>In <strong><u>everything</u></strong></em>
+c. In <strong>how many areas</strong> should Christ    * have first place* ? “* In <strong><u>everything</u></strong>* 
     !”
  
 ===
@@ -2140,10 +2140,10 @@ c. In <strong>how many areas</strong> should Christ    <em>have first place</em>
     </strong>
  
  
-1. Colossians 1:19 – The wisdom of God in His choice of<strong><u>Christ</u></strong> can be seen in this sentence:<em>For it was the Father’s good pleasure for all the fullness </em>PLEROMA    <em> to dwell in Him</em>.
+1. Colossians 1:19 – The wisdom of God in His choice of<strong><u>Christ</u></strong> can be seen in this sentence:* For it was the Father’s good pleasure for all the fullness * PLEROMA    *  to dwell in Him* .
  
  
-a. It was totally pleasing to the Father to have    <em>all the fullness <strong><u>dwell</u></strong> in</em> Christ.
+a. It was totally pleasing to the Father to have    * all the fullness <strong><u>dwell</u></strong> in*  Christ.
  
  
 1) What this means practically for you is that you do    <strong><u>not</u></strong> have to go on a quest outside of Christ to find
@@ -2160,7 +2160,7 @@ a. It was totally pleasing to the Father to have    <em>all the fullness <strong
     2 Peter 3:18
  
  
-1) In <strong><u>Gnostic</u></strong> writings the concept of    <em>fullness</em> referred to a complex series of angelic emanations that
+1) In <strong><u>Gnostic</u></strong> writings the concept of    * fullness*  referred to a complex series of angelic emanations that
     were portrayed as levels of mediation between God and man. 1 Timothy 2:5
  
  
@@ -2184,9 +2184,9 @@ c. Jesus Christ is the only human who has ever existed who could answer    <stro
  
  
     a. Colossians 1:20a –
-    <em>
+    * 
         And through Him to reconcile <strong>all things</strong> to Himself…
-    </em>
+    * 
     There is only one person who is <strong><u>able</u></strong> to reconcile
     all of creation back to God and that is the man Christ Jesus. 1 Corinthians
     15:20-28
@@ -2250,9 +2250,9 @@ Christ it does not imply that all people will be    <strong><u>saved</u></strong
  
  
     b. Colossians 1:20b –
-    <em>
+    * 
 Having made peace through the        <strong><u>blood</u> of His cross</strong>…
-    </em>
+    * 
     Christ’s death was a blood sacrifice that allowed for the reconciliation of
     all things to God. It could not be an animal, grain or oil sacrifice.
  
@@ -2264,22 +2264,22 @@ Having made peace through the        <strong><u>blood</u> of His cross</strong>�
  
  
     2) Hebrews 9:22 –
-    <em>
+    * 
         And according to the Law, one may almost say, all things are cleansed
         with blood, and without shedding of <strong><u>blood</u></strong> there
         is no forgiveness
-    </em>
+    * 
     . Leviticus 17:11
     <br/>
     <br/>
  
  
-c. Colossians 1:20c –    <em>And through Him to reconcile all things to Himself</em>
-    <em>
+c. Colossians 1:20c –    * And through Him to reconcile all things to Himself* 
+    * 
         …whether things on earth or things in <strong><u>heaven</u></strong>
-    </em>
+    * 
     . This verse teaches that Christ was given the responsibility of the
-    reconciling of <em>all things </em>to Himself. This includes earth with
+    reconciling of * all things * to Himself. This includes earth with
     heaven (man with God), and heaven with earth (God with man). Romans 8:18-25
  
  
@@ -2293,11 +2293,11 @@ c. Colossians 1:20c –    <em>And through Him to reconcile all things to Himsel
     outsiders and <strong><u>aliens</u></strong> to God.
  
  
-1) Colossians 1:21a –    <em>And although you were formerly <strong>alienated</strong>…</em>
+1) Colossians 1:21a –    * And although you were formerly <strong>alienated</strong>…* 
     Originally as enemies, we were estranged from <strong><u>God</u></strong>.
  
  
-    a) <em>Alienated</em> APALLOTRIOO in Greek is from APO which is a prefix
+    a) * Alienated*  APALLOTRIOO in Greek is from APO which is a prefix
     emphasizing <strong>separation</strong> plus the word ALLOTRIOS, a verb
 meaning to <strong>alienate</strong>. We were completely alienated    <strong><u>from</u></strong> God.
  
@@ -2308,12 +2308,12 @@ meaning to <strong>alienate</strong>. We were completely alienated    <strong><u
     <br/>
  
  
-2) Colossians 1:21b –    <em>You were formerly alienated and <strong>hostile in mind</strong>…</em>
+2) Colossians 1:21b –    * You were formerly alienated and <strong>hostile in mind</strong>…* 
     In our lost state, we <strong><u>were</u></strong> hostile enemies of God
     in our way of thinking.
  
  
-a) The word <em>hostile</em> ECHTHROS means hateful,    <strong><u>enemy</u></strong>, adversary or opponent.
+a) The word * hostile*  ECHTHROS means hateful,    <strong><u>enemy</u></strong>, adversary or opponent.
  
  
     b) As unbelievers, all our thoughts towards God were adversarial. This is
@@ -2321,11 +2321,11 @@ a) The word <em>hostile</em> ECHTHROS means hateful,    <strong><u>enemy</u></st
     6:5-6, Jeremiah 17:9, Matthew 15:18-20, Ephesians 2:1-3
  
  
-c) Even for the believer, sin starts <em>in </em>[the]    <em> <strong><u>mind</u></strong></em>. When we permit wrong thinking we
+c) Even for the believer, sin starts * in * [the]    *  <strong><u>mind</u></strong>* . When we permit wrong thinking we
     become hostile toward God. Romans 8:7, Ephesians 4:17-19
  
  
-    3) Colossians 1:21b – <em>Engaged in evil deeds…</em> In our former
+    3) Colossians 1:21b – * Engaged in evil deeds…*  In our former
     lifestyle we were <strong><u>evil</u></strong> in our conduct. We were
     separated from God not only in our evil thinking but also in our actions.
     <br/>
@@ -2337,14 +2337,14 @@ c) Even for the believer, sin starts <em>in </em>[the]    <em> <strong><u>mind</
  
  
     1) Colossians 1:22a –
-    <em>
+    * 
 Yet He has <strong><u>now</u></strong> reconciled you        <strong>in His fleshly body</strong> through death…
-    </em>
+    * 
     While in His earthy body Christ reconciled us by means of death. Hebrews
     10:10, 19-20; 1 Peter 2:23-24, 3:18
  
  
-a) Paul stated the Colossian believers’ reconciliation as a<strong><u>fact</u></strong> when he said, “    <em>He has now reconciled you.”</em> <em>Now</em> is the word NUNI, meaning
+a) Paul stated the Colossian believers’ reconciliation as a<strong><u>fact</u></strong> when he said, “    * He has now reconciled you.”*  * Now*  is the word NUNI, meaning
     at this very moment.
  
  
@@ -2365,7 +2365,7 @@ happened at the precise moment you believed. It is not based on your good    <st
     <br/>
  
  
-2) Colossians 1:22b – Christ reconciled us    <em>…in His fleshly body through <strong><u>death</u></strong></em>. In His
+2) Colossians 1:22b – Christ reconciled us    * …in His fleshly body through <strong><u>death</u></strong>* . In His
     death on the cross, in his physical body, Christ won our reconciliation. 1
     Peter 2:24
  
@@ -2410,14 +2410,14 @@ physically since according to their belief He did not have a physical    <strong
     <br/>
  
  
-    3) Colossians 1:22c – It was <em>in order to present you before him</em>…
-    Christ had a specific <strong><u>purpose</u></strong> for us <em>in </em>
+    3) Colossians 1:22c – It was * in order to present you before him* …
+    Christ had a specific <strong><u>purpose</u></strong> for us * in * 
     time as well as in eternity when He saved us. He did not save us so that we
     would stay the same. He wanted to change us and make us holy in our daily
     lives. Romans 6:22, 12:1-2; Ephesians 2:10; Titus 3:8
  
  
-4) Colossians 1:22d – In saying, “    <em>present you before him holy, blameless and beyond reproach</em>,” Paul
+4) Colossians 1:22d – In saying, “    * present you before him holy, blameless and beyond reproach* ,” Paul
     was speaking of spiritual <strong><u>growth</u></strong>, not glorification
     as this passage will bear out.
  
@@ -2436,19 +2436,19 @@ b) Christ saved us because He wanted to present us    <strong><u>before</u></str
  
  
     5) Colossians 1:22e – …
-    <em>
+    * 
         in order to present you <strong>before Him</strong> holy and blameless
         and beyond reproach
-    </em>
+    * 
     . Christ wants to <strong><u>present</u></strong> you in maximum practical
     sanctification (full maturity) before the Father in your daily walk.
  
  
-a) <em>Before him</em> KATENOPION means before the    <strong><u>face</u></strong> of, before the presence of, in the sight of,
+a) * Before him*  KATENOPION means before the    <strong><u>face</u></strong> of, before the presence of, in the sight of,
     or before one as witness. 2 Corinthians 2:17, 4:2b; James 4:10
  
  
-    b) The idea of being on display <em>before him</em> (God) is sometimes used
+    b) The idea of being on display * before him*  (God) is sometimes used
 in the New Testament to describe God's view of us    <strong><u>here</u></strong> and now on earth. 2 Corinthians 12:19, 1
     Timothy 5:21, 1 Thessalonians 4:3a, Hebrews 12:14, 1 Peter 1:15-16, Jude 24
     <br/>
@@ -2477,18 +2477,18 @@ in the New Testament to describe God's view of us    <strong><u>here</u></strong
     <br/>
  
  
-    d) These three terms (<em>holy, blameless, and beyond reproach</em>) all
+    d) These three terms (* holy, blameless, and beyond reproach* ) all
     relate to Christian <strong><u>maturity</u></strong> and our daily
     sanctification and not exclusively to our future glorification. Job 1:1,
     Hebrews 11:5
  
  
     6) Colossians 1:22f –
-    <em>
+    * 
         Present you before him <strong>holy</strong>, blameless and beyond
         reproach
-    </em>
-    … The adjective <strong><em><u>holy</u></em></strong> HAGIOS literally
+    * 
+    … The adjective <strong>* <u>holy</u>* </strong> HAGIOS literally
     means different. Temples were described by this term, meaning they were not
     ordinary or mundane buildings. They were different in purpose and use.
  
@@ -2505,11 +2505,11 @@ to describe <strong><u>both</u></strong> the <strong>condition</strong> and    <
  
  
     7) Colossians 1:22g –
-    <em>
+    * 
         Present you before him holy, <strong>blameless</strong> and beyond
         reproach
-    </em>
-    … <em>Blameless</em> AMOMOS is an adjective that means not having any
+    * 
+    … * Blameless*  AMOMOS is an adjective that means not having any
     stain, <strong><u>flaw</u></strong>, shame or disgrace.
  
  
@@ -2523,17 +2523,17 @@ to describe <strong><u>both</u></strong> the <strong>condition</strong> and    <
  
  
     8) Colossians 1:22h –
-    <em>
+    * 
 Present you before him holy, blameless and        <strong>beyond reproach</strong>
-    </em>
-… <em>Beyond reproach</em> ANEGKLETOS describes    <strong><u>legal</u></strong> blamelessness.
+    * 
+… * Beyond reproach*  ANEGKLETOS describes    <strong><u>legal</u></strong> blamelessness.
  
  
     a) ANEGKLETOS is derived from A meaning <strong>not</strong> and EGKALEO
 meaning <strong>arraigned</strong>, or    <strong>accused before a court of <u>law</u></strong>.
  
  
-    b) A person who is <em>beyond reproach</em> is <strong><u>free</u></strong>
+    b) A person who is * beyond reproach*  is <strong><u>free</u></strong>
     from indictment or accusations. 1 Timothy 3:10, Titus 1:6-7
  
  
@@ -2542,9 +2542,9 @@ c. Colossians 1:23 – What did the Colossian believers need in order to    <str
     verse?
  
  
-1) Colossians 1:23a – <em>If indeed </em>(1<sup>st</sup> class condition)    <em>you continue in the <strong><u>faith</u></strong>…</em> Here Paul used
+1) Colossians 1:23a – * If indeed * (1<sup>st</sup> class condition)    * you continue in the <strong><u>faith</u></strong>…*  Here Paul used
     a first class condition in Greek as a caution or warning. This statement
-    could read <em>if… you continue in the faith</em> and let’s assume you
+    could read * if… you continue in the faith*  and let’s assume you
     will.
  
  
@@ -2557,29 +2557,29 @@ b) The Colossian believers’ practical daily sanctification was at    <strong><
  
  
     c) Although, by this first class condition the apostle Paul conveyed that
-he <strong><u>hoped</u></strong> they would indeed    <em>continue on in the faith</em>, it was not absolutely guaranteed that
+he <strong><u>hoped</u></strong> they would indeed    * continue on in the faith* , it was not absolutely guaranteed that
     they would. Ultimately their maturity depended on whether or not they would
-    continue <em>in the faith</em>. 1 Peter 1:15-16
+    continue * in the faith* . 1 Peter 1:15-16
  
  
-2) Colossians 1:23b –    <em>If indeed you continue in <strong>the <u>faith</u> </strong></em>TE
-    PISTEI… The phrase <em>the faith</em> refers to the whole body of Christian
+2) Colossians 1:23b –    * If indeed you continue in <strong>the <u>faith</u> </strong>* TE
+    PISTEI… The phrase * the faith*  refers to the whole body of Christian
     truth (God’s Word) which was taught to the saints through the apostles and
     prophets. Galatians 1:23, 1 Timothy 4:1, Jude 3
  
  
     a) The apostle Paul <strong><u>knew</u></strong> the importance of sticking
-    with sound doctrine. He knew that <strong><em>if</em></strong> we maintain
+    with sound doctrine. He knew that <strong>* if* </strong> we maintain
     the integrity of sound doctrine it affects our spiritual progress
     positively. 2 Timothy 4:7
  
  
-b) He equally knew how it could affect us negatively    <strong><em>if</em></strong> we did not <strong><u>stick</u></strong> with
+b) He equally knew how it could affect us negatively    <strong>* if* </strong> we did not <strong><u>stick</u></strong> with
     sound doctrine. 1 Timothy 1:19-20
  
  
-    c) It is important to understand that <em>the faith</em> mentioned here
-does not refer to our practical <strong><u>walk</u></strong> of    <em>faith</em>. Romans 1:17
+    c) It is important to understand that * the faith*  mentioned here
+does not refer to our practical <strong><u>walk</u></strong> of    * faith* . Romans 1:17
     <br/>
     <br/>
     <br/>
@@ -2587,20 +2587,20 @@ does not refer to our practical <strong><u>walk</u></strong> of    <em>faith</em
  
     3) Colossians 1:23c – Let us now examine Paul’s caution about our spiritual
     growth.
-    <em>
+    * 
         If indeed you continue in the faith <strong><u>firmly</u></strong>
         established and steadfast, and not moved away from the hope of the
         gospel
-    </em>
+    * 
     …
  
  
-    a) The phrase <em>firmly established</em> describes the fact that we have
+    a) The phrase * firmly established*  describes the fact that we have
     been solidly placed on a <strong><u>firm</u></strong> foundation and
     therefore have every reason to succeed in our sanctification.
  
  
-    (i) <em>Firmly established</em> THEMELIOO is a perfect tense participle
+    (i) * Firmly established*  THEMELIOO is a perfect tense participle
 that stresses a stability that was established at some point in time in the    <strong><u>past</u></strong> and continues on into the present.
  
  
@@ -2609,27 +2609,27 @@ that stresses a stability that was established at some point in time in the    <
     stability.
  
  
-(iii) Therefore, <em>if indeed we continue in the faith</em> based on the    <strong><u>fact</u></strong> that we have been <em>firmly established</em>
-on a solid foundation, we will be presented before the Lord as    <em>holy, blameless and beyond reproach</em>.
+(iii) Therefore, * if indeed we continue in the faith*  based on the    <strong><u>fact</u></strong> that we have been * firmly established* 
+on a solid foundation, we will be presented before the Lord as    * holy, blameless and beyond reproach* .
     <br/>
     <br/>
  
  
-b) <strong><em>If indeed you continue</em></strong>    <em> in the faith …steadfast.</em> The word <em>steadfast</em> HEDRAIOS
+b) <strong>* If indeed you continue* </strong>    *  in the faith …steadfast.*  The word * steadfast*  HEDRAIOS
     comes from the word <strong><u>chair</u></strong> HEDRA and conveys the
     idea of being settled or secure. A believer’s maturity depends on resting
     entirely, without budging, on the truth received.
  
  
-c) <strong><em>If indeed you continue</em></strong>    <em> in the faith …not <strong><u>moved</u></strong> away.</em>
+c) <strong>* If indeed you continue* </strong>    *  in the faith …not <strong><u>moved</u></strong> away.* 
  
  
-    (i) <em>Moved away</em> METAKINEO is a present tense participle stressing
+    (i) * Moved away*  METAKINEO is a present tense participle stressing
 that the road to maximum sanctification is to never    <strong>shift away from</strong> the <strong><u>hope</u></strong> found in
     the Gospel. Hebrews 3:6
  
  
-(ii) The <strong><u>three</u></strong> statements    <em>firmly established, steadfast</em> and <em>not moved away</em> would
+(ii) The <strong><u>three</u></strong> statements    * firmly established, steadfast*  and * not moved away*  would
     have an emotional connotation for the Colossians.
  
  
@@ -2642,24 +2642,24 @@ that the road to maximum sanctification is to never    <strong>shift away from</
  
  
     d)
-    <em>
+    * 
         Not moved away <strong>from the <u>hope</u> of the gospel</strong>…
-    </em>
+    * 
     means to not shift away or be shaken from a solid stance on the hope
-derived from the Gospel. Earlier we learned that the    <em>hope of the gospel</em> is essential to maintaining fruitfulness.
+derived from the Gospel. Earlier we learned that the    * hope of the gospel*  is essential to maintaining fruitfulness.
     Colossians 1:4-6
     <br/>
     <br/>
     <br/>
  
  
-    4) Colossians 1:23d – <em>The gospel…</em> Paul spoke of the dynamic
+    4) Colossians 1:23d – * The gospel…*  Paul spoke of the dynamic
     life-altering <strong><u>power</u></strong> that emanates from the Gospel.
     Romans 1:16
  
  
-    a) <em>The gospel that <strong>you <u>heard</u></strong>…</em> The Gospel
-is a dynamic message. Remember that    <em>faith comes by hearing and hearing by the word of God.</em> The
+    a) * The gospel that <strong>you <u>heard</u></strong>…*  The Gospel
+is a dynamic message. Remember that    * faith comes by hearing and hearing by the word of God.*  The
     Colossians had not only heard the Gospel, but we know they also believed
     it. Romans 10:17, Ephesians 1:13
     <br/>
@@ -2667,14 +2667,14 @@ is a dynamic message. Remember that    <em>faith comes by hearing and hearing by
  
  
     b)
-    <em>
+    * 
 The gospel that you heard,        <strong>which was proclaimed in all creation under heaven</strong>…
-    </em>
+    * 
     The <strong><u>Gospel</u></strong> is a message that is designed by God to
     be infectious, untamable and explosive. Romans 5:18
  
  
-c) <em>The gospel that you heard</em> …    <em>of which I, Paul, have become a <strong><u>servant</u></strong></em>.
+c) * The gospel that you heard*  …    * of which I, Paul, have become a <strong><u>servant</u></strong>* .
     Paul willingly suffered and sacrificed for the Gospel because he felt that
     investing in the Gospel was worth every ounce of his energy.
     <br/>
@@ -2687,7 +2687,7 @@ beyond reproach before the Lord in their daily lives, yet he    <strong><u>knew<
     endurance in the truths they had received.
  
  
-a) <strong><em>If</em></strong> they did not continue steadfastly in the    <strong><u>truth</u></strong> they had received<em>,</em> they would not
+a) <strong>* If* </strong> they did not continue steadfastly in the    <strong><u>truth</u></strong> they had received* ,*  they would not
     progress in their sanctification. They would not live holy, blameless and
     beyond reproach before God in their daily lives.
     <br/>
@@ -2696,7 +2696,7 @@ a) <strong><em>If</em></strong> they did not continue steadfastly in the    <str
  
     b) In the next chapter, Paul presented <strong><u>four</u></strong> threats
     that oppose sanctification (phase two salvation). Any of these threats
-could easily substitute for Christ and lead believers away from    <em>the faith</em>.
+could easily substitute for Christ and lead believers away from    * the faith* .
  
  
     c) Misunderstanding biblical <strong><u>truth</u></strong> will translate
@@ -2716,11 +2716,11 @@ could easily substitute for Christ and lead believers away from    <em>the faith
     Christ as he ministered to the church.
  
  
-a. Colossians 1:24a –    <em>Now, I <strong><u>rejoice</u></strong> in my suffering</em>… Paul
+a. Colossians 1:24a –    * Now, I <strong><u>rejoice</u></strong> in my suffering* … Paul
     counted his suffering to be a blessing. 2 Timothy 2:10, 2 Corinthians 1:5
  
  
-    1) <em>Rejoice</em> CHAIRO is a <strong><u>present</u></strong> tense verb
+    1) * Rejoice*  CHAIRO is a <strong><u>present</u></strong> tense verb
     highlighting Paul’s ongoing and continual rejoicing as he suffered for
     Christ’s body, the church. Acts 9:4, Romans 8:17-18
  
@@ -2732,13 +2732,13 @@ a. Colossians 1:24a –    <em>Now, I <strong><u>rejoice</u></strong> in my suff
     <br/>
  
  
-    b. Colossians 1:24b – …<em>in my flesh</em>… Paul experienced physical pain
+    b. Colossians 1:24b – …* in my flesh* … Paul experienced physical pain
 and suffering for Christ and His church. Even while he    <strong><u>wrote</u></strong> this letter, the apostle was under guards
     twenty-four hours a day, suffering in chains as a prisoner. 2 Corinthians
     7:4-5, Ephesians 4:1, Colossians 4:10, 2 Timothy 1:8
  
  
-c. Colossians 1:24c –    <em>I do my share on behalf of His <strong><u>body</u></strong></em>. Paul
+c. Colossians 1:24c –    * I do my share on behalf of His <strong><u>body</u></strong>* . Paul
     had a purpose in his suffering. In many ways and on multiple occasions Paul
     endured hazards including weariness, persecutions, and sickness as his
     contribution to the growth of the church, the body of Christ. 2 Corinthians
@@ -2748,16 +2748,16 @@ c. Colossians 1:24c –    <em>I do my share on behalf of His <strong><u>body</u
  
  
     d. Colossians 1:24d – …
-    <em>
+    * 
         in filling up what <strong><u>lacks</u></strong> in Christ’s
         afflictions
-    </em>
+    * 
     . Paul considered his sufferings for the church his way of vicariously
     suffering for Christ.
  
  
-1) Paul’s purpose in suffering was to <strong><em><u>fill</u></em></strong>    <em> up</em> that which was still lacking in Christ’s sufferings. The
-    phrase <em>fill up</em> ANTANAPLEROO communicates the idea of standing in
+1) Paul’s purpose in suffering was to <strong>* <u>fill</u>* </strong>    *  up*  that which was still lacking in Christ’s sufferings. The
+    phrase * fill up*  ANTANAPLEROO communicates the idea of standing in
     line and waiting patiently to do your part when your turn comes.
  
  
@@ -2768,9 +2768,9 @@ c. Colossians 1:24c –    <em>I do my share on behalf of His <strong><u>body</u
 intimate that Christ takes persecution against the    <strong><u>saints</u></strong> as a personal injury. Acts 9:4
  
  
-4) When you <strong><u>share</u></strong> in the    <em>afflictions of Christ</em> through persecution it actually turns out to
+4) When you <strong><u>share</u></strong> in the    * afflictions of Christ*  through persecution it actually turns out to
     be intimate fellowship with Christ and great spiritual benefit for the body
-    of Christ. <em>Death works in us but life in you</em>. 2 Corinthians
+    of Christ. * Death works in us but life in you* . 2 Corinthians
     4:10-12
     <br/>
     <br/>
@@ -2780,14 +2780,14 @@ intimate that Christ takes persecution against the    <strong><u>saints</u></str
     Christ’s church seriously.
  
  
-a. Colossians 1:25a –    <em>Of this church I was <strong><u>made</u></strong> a minister…</em> God
+a. Colossians 1:25a –    * Of this church I was <strong><u>made</u></strong> a minister…*  God
     commissioned Paul as a minister DIAKONOS to serve the entire body of
     Christ. The qualifications of a good steward are faithfulness (Col 1:7),
     trustworthiness (1 Cor. 4:2), and a heart to serve. 2 Corinthians 3:5,
     Philippians 1:21
  
  
-b. Colossians 1:25b – <em>I was made a minister </em>…    <em>according to the stewardship from God bestowed on me</em>. Stewardship
+b. Colossians 1:25b – * I was made a minister * …    * according to the stewardship from God bestowed on me* . Stewardship
 OIKONOMIA is a word that describes a superintendent who manages a    <strong><u>household</u></strong>.
  
  
@@ -2800,13 +2800,13 @@ OIKONOMIA is a word that describes a superintendent who manages a    <strong><u>
     nearly 20 centuries the church marches on. Matthew 16:18
  
  
-c. Colossians 1:25c –    <em>I was made a minister …for your <strong><u>benefit</u></strong>.</em>
+c. Colossians 1:25c –    * I was made a minister …for your <strong><u>benefit</u></strong>.* 
     Paul felt directly responsible for the Colossian church. We observe that
     Paul worked, prayed, taught and lived for the sole benefit of God’s family.
     He was not serving for personal gain or glory. 1 Thessalonians 2:1-12
  
  
-d. Colossians 1:25d – The apostle Paul worked very<strong><u>hard</u></strong> in his service for the church to    <em> fully carry out the preaching of the word of God</em>. Colossians 2:1
+d. Colossians 1:25d – The apostle Paul worked very<strong><u>hard</u></strong> in his service for the church to    *  fully carry out the preaching of the word of God* . Colossians 2:1
  
  
     1) He did not hold <strong><u>back</u></strong> anything that was
@@ -2820,16 +2820,16 @@ d. Colossians 1:25d – The apostle Paul worked very<strong><u>hard</u></strong>
 3. Colossians 1:26-27 – Paul’s goal was to reveal and clarify God’s    <strong><u>will</u></strong> for the church.
  
  
-    a. Colossians 1:26a – <strong><em>That is, the mystery</em></strong>
-    <em>
+    a. Colossians 1:26a – <strong>* That is, the mystery* </strong>
+    * 
         which has been <strong><u>hidden</u></strong> from the past ages and
         generations
-    </em>
+    * 
     … Paul’s task was to dispel any mysteries surrounding the Christian faith
     by clearly teaching the truth.
  
  
-1) Interestingly enough, terms like <em>mystery</em> MUSTERION and<em>hidden</em> APOKRUPTO were later misused by Gnostics to refer to their    <strong><u>secret</u></strong> ceremonies in their cult worship. They
+1) Interestingly enough, terms like * mystery*  MUSTERION and* hidden*  APOKRUPTO were later misused by Gnostics to refer to their    <strong><u>secret</u></strong> ceremonies in their cult worship. They
     claimed that only the initiated knew and understood mysteries.
  
  
@@ -2852,9 +2852,9 @@ d. Colossians 1:25d – The apostle Paul worked very<strong><u>hard</u></strong>
  
  
     b. Colossians 1:26b –
-    <em>
+    * 
 The mystery <strong>which has been</strong>        <strong>kept hidden from past ages and generations</strong>…
-    </em>
+    * 
     means that the Old Testament prophets and <strong><u>saints</u></strong>
     did not understand the things revealed to us by the apostles and prophets
     in the New Testament concerning the church. Matthew 13:16-17, 34-35; 1
@@ -2866,7 +2866,7 @@ The mystery <strong>which has been</strong>        <strong>kept hidden from past
  
  
     a) Romans 16:25 –
-    <em>
+    * 
         Now to Him who is able to establish you according to my gospel and the
         preaching of Jesus Christ, according
         <strong>
@@ -2874,40 +2874,40 @@ The mystery <strong>which has been</strong>        <strong>kept hidden from past
             for long ages past
         </strong>
         .
-    </em>
+    * 
  
  
-    b) Romans 16:26 – <strong><em>but now is manifested</em></strong>
-    <em>
+    b) Romans 16:26 – <strong>* but now is manifested* </strong>
+    * 
         , and by the Scriptures of the prophets, according to the commandment
         of the eternal God, has been made known to <strong><u>all</u></strong>
         the nations, leading to obedience of faith
-    </em>
+    * 
     .
  
  
     2) In the New Testament Jesus Christ is <strong><u>shown</u></strong> to be
-    both the revelation and essence of <em>the mystery</em>. Ephesians 3:1-10
+    both the revelation and essence of * the mystery* . Ephesians 3:1-10
  
  
     a) Ephesians 1:9-10 says, “
-    <em>
+    * 
 He made known to us the mystery of His will… that is, the        <strong>summing up of all things in <u>Christ</u></strong>, things in
         the heavens and things on the earth.
-    </em>
+    * 
     ” This speaks of Christ’s role in our reconciliation.
  
  
     b) Colossians 1:26 says, “
-    <em>
+    * 
         To whom God willed to make known what is the riches of the glory of
 this mystery among the Gentiles,        <strong>which is <u>Christ</u> in you</strong>, the hope of glory
-    </em>
+    * 
     .” This speaks of Christ’s role in our sanctification.
  
  
     c) Colossians 2:2 says, “
-    <em>
+    * 
         That their hearts may be encouraged, having been knit together in love,
         and attaining to all the <strong><u>wealth</u></strong> that comes from
         the full assurance of understanding,
@@ -2915,11 +2915,11 @@ this mystery among the Gentiles,        <strong>which is <u>Christ</u> in you</s
             resulting in a true knowledge of God's mystery, that is, Christ
             Himself
         </strong>
-    </em>
+    * 
     .” This speaks of Christ’s adequacy.
  
  
-    3) Our understanding of <em>mystery</em> in the New Testament revolves
+    3) Our understanding of * mystery*  in the New Testament revolves
     around the person and work of Jesus Christ.
  
  
@@ -2932,12 +2932,12 @@ this mystery among the Gentiles,        <strong>which is <u>Christ</u> in you</s
 then to each other? The mystery was resolved in    <strong><u>Christ</u></strong>.
  
  
-b) How would God make His reconciled ones holy in their conduct and living?<em>Christ in us</em> resolves the mystery of our being    <strong><u>holy</u></strong> in conduct.
+b) How would God make His reconciled ones holy in their conduct and living?* Christ in us*  resolves the mystery of our being    <strong><u>holy</u></strong> in conduct.
     <br/>
     <br/>
  
  
-c. Colossians 1:26c – <em>The mystery</em> …    <em>has now been manifested to His saints</em>. Paul openly disclosed the
+c. Colossians 1:26c – * The mystery*  …    * has now been manifested to His saints* . Paul openly disclosed the
     whole <strong><u>truth</u></strong> to God’s people.
  
  
@@ -2952,10 +2952,10 @@ ones to understand mysteries and gloat over having an inside    <strong><u>track
  
  
     d. Colossians 1:27a – It was to us the <strong><u>saints</u></strong>
-    <em>
+    * 
         God willed to make known what is the riches of the glory of this
         mystery <strong>among the gentiles</strong>.
-    </em>
+    * 
     What was so valuable about the mystery that God would take such great
     measures to reveal it to us who are Gentiles?
  
@@ -2965,20 +2965,20 @@ ones to understand mysteries and gloat over having an inside    <strong><u>track
  
  
     2) Note carefully that God did not merely reveal this mystery; He made
-known    <em>the<strong> <u>riches</u> of the glory</strong> of this mystery</em>.
+known    * the<strong> <u>riches</u> of the glory</strong> of this mystery* .
  
  
-3) There are great <em>riches</em> (PLOUTOS spiritual    <strong><u>wealth</u></strong>, blessing and abundance) involved in
+3) There are great * riches*  (PLOUTOS spiritual    <strong><u>wealth</u></strong>, blessing and abundance) involved in
     understanding this mystery. Ephesians 3:8-10, Romans 11:33
  
  
     4) So, what is the mystery? What makes it so valuable?
  
  
-e. Colossians 1:27c – The mystery is    <strong><em><u>Christ</u></em></strong><em> in you the hope of glory</em>.
+e. Colossians 1:27c – The mystery is    <strong>* <u>Christ</u>* </strong>*  in you the hope of glory* .
  
  
-    1) <em>Christ in you</em> means you have His adequacy available to you
+    1) * Christ in you*  means you have His adequacy available to you
 twenty-four hours a day. This is what makes the abundant    <strong><u>life</u></strong> possible.
  
  
@@ -3008,7 +3008,7 @@ twenty-four hours a day. This is what makes the abundant    <strong><u>life</u><
     the church.
  
  
-    a. Colossians 1:28a – <em>We proclaim Him</em>… Paul and the other apostles
+    a. Colossians 1:28a – * We proclaim Him* … Paul and the other apostles
     proclaimed a <strong><u>person</u></strong>, Jesus Christ, as God’s
     provision for abundant living. 1 Timothy 3:16
  
@@ -3025,12 +3025,12 @@ twenty-four hours a day. This is what makes the abundant    <strong><u>life</u><
     <br/>
  
  
-b. Colossians 1:28b – By …<strong><em>admonishing</em></strong>    <em> <strong><u>every</u></strong> man,</em> Paul sought to reveal the
+b. Colossians 1:28b – By …<strong>* admonishing* </strong>    *  <strong><u>every</u></strong> man,*  Paul sought to reveal the
     mystery to every believer. We can think of admonishment as teaching with a
     corrective twist.
  
  
-    1) <em>Admonish</em> NOUTHETEO is a present tense participle derived from
+    1) * Admonish*  NOUTHETEO is a present tense participle derived from
     NOUS meaning mind and TITHEMI meaning to place or put. Paul emphatically
     and repeatedly impressed the truth on their <strong><u>minds</u></strong>.
  
@@ -3048,7 +3048,7 @@ b. Colossians 1:28b – By …<strong><em>admonishing</em></strong>    <em> <str
     <br/>
  
  
-c. Colossians 1:28c – <strong><em>Teaching</em></strong>    <em> every <strong><u>man</u></strong> with all wisdom</em>. Paul not only
+c. Colossians 1:28c – <strong>* Teaching* </strong>    *  every <strong><u>man</u></strong> with all wisdom* . Paul not only
 corrected the church through <strong>admonishment</strong>, he    <strong>taught</strong> everyone by instruction. 2 Timothy 4:2, 24
  
  
@@ -3060,15 +3060,15 @@ corrected the church through <strong>admonishment</strong>, he    <strong>taught
     out truth.
  
  
-3) Although admonishment is always important, Paul went a step    <strong><u>further</u></strong>. He also <strong><em>taught</em></strong>
+3) Although admonishment is always important, Paul went a step    <strong><u>further</u></strong>. He also <strong>* taught* </strong>
     the whole church with great wisdom and careful instruction. 2 Timothy 4:2
  
  
     4) Through instruction he explained the <strong><u>life</u></strong>
-    -changing objectives of the mystery <em>Christ in you</em>.
+    -changing objectives of the mystery * Christ in you* .
  
  
-5) This is reiterated in the added phrase    <em>teaching …<strong>with <u>all</u> wisdom</strong></em>. The teaching
+5) This is reiterated in the added phrase    * teaching …<strong>with <u>all</u> wisdom</strong>* . The teaching
     Paul described here is not just the transfer of knowledge. Wisdom actually
     applies the acquired knowledge. Philippians 1:9-10
  
@@ -3079,16 +3079,16 @@ corrected the church through <strong>admonishment</strong>, he    <strong>taught
     12:2, 1 Thessalonians 1:5-6, 1 Timothy 1:5, 2 Timothy 3:16-17
  
  
-d. Colossians 1:28d – Paul proclaimed the mystery    <strong><em>Christ in you</em></strong> with a specific objective in mind.
-He taught and explained the mystery in order to    <em>present <strong><u>every</u></strong> man complete in Christ</em>.
+d. Colossians 1:28d – Paul proclaimed the mystery    <strong>* Christ in you* </strong> with a specific objective in mind.
+He taught and explained the mystery in order to    * present <strong><u>every</u></strong> man complete in Christ* .
  
  
-1) The phrase <strong><em>every man</em> </strong>PANTA ANTHROPON is found    <strong><u>three</u></strong> times in this verse and is a phrase that
+1) The phrase <strong>* every man*  </strong>PANTA ANTHROPON is found    <strong><u>three</u></strong> times in this verse and is a phrase that
     includes both genders, male and female.
  
  
     2) This phrase highlights the need we all have of understanding in a
-practical sense what <strong><em><u>Christ</u></em></strong>    <em> in you</em> really means.
+practical sense what <strong>* <u>Christ</u>* </strong>    *  in you*  really means.
  
  
     3) Christ lives in <strong><u>every</u></strong> believer but not all
@@ -3098,15 +3098,15 @@ practical sense what <strong><em><u>Christ</u></em></strong>    <em> in you</em>
  
  
     e. Colossians 1:28e – …
-    <em>
+    * 
 so that we may <strong>present</strong> every man        <strong><u>complete</u> in Christ</strong>
-    </em>
+    * 
     . Paul preached the mystery of Christ with the anticipation of presenting
     everyone complete and mature in Christ in his or her daily life. Galatians
     2:20, Colossians 1:22-23
  
  
-    1) The idea of <em>present</em> here is a flashback to verse 22 where he
+    1) The idea of * present*  here is a flashback to verse 22 where he
     spoke of presenting us before <strong><u>God</u></strong> holy, blameless
     and beyond reproach in our daily lives as believers.
  
@@ -3116,10 +3116,10 @@ so that we may <strong>present</strong> every man        <strong><u>complete</u>
     to God <strong><u>mature</u></strong>.
  
  
-    3) So what does it mean to present someone <em>complete in Christ</em>?
+    3) So what does it mean to present someone * complete in Christ* ?
  
  
-a) <em>Complete</em> is the Greek word TELEIOS and means    <strong><u>mature</u></strong> or fully-grown. It describes something that
+a) * Complete*  is the Greek word TELEIOS and means    <strong><u>mature</u></strong> or fully-grown. It describes something that
     has all its essential parts. What Paul was pursuing in his service was that
     every believer would <strong><u>grow</u></strong> and become fully mature.
  
@@ -3135,35 +3135,35 @@ a) <em>Complete</em> is the Greek word TELEIOS and means    <strong><u>mature</u
  
  
 d) Paul knew that completeness relied on how well they understood God’s    <strong><u>will</u></strong> for believers – the hope-giving mystery of the
-    abundant life – the mystery of <em>Christ in you</em>.
+    abundant life – the mystery of * Christ in you* .
     <br/>
     <br/>
  
  
-f. Colossians 1:29a –    <em>For this purpose I <strong><u>labor</u></strong>.</em> Paul was so
+f. Colossians 1:29a –    * For this purpose I <strong><u>labor</u></strong>.*  Paul was so
     absolutely convinced of the importance of the mystery he willingly gave his
     all for its expansion.
  
  
-    1) The Greek word <em>labor</em> KOPIAO means to work until one is
+    1) The Greek word * labor*  KOPIAO means to work until one is
     completely worn out and depleted of all <strong><u>energy</u></strong>.
     This word was used to describe exhausting labor. Paul did not give minimal
     effort; he strove to the point of exhaustion.
  
  
-    2) Paul used the term <strong><em><u>labor</u></em></strong> in the present
+    2) Paul used the term <strong>* <u>labor</u>* </strong> in the present
     tense to communicate his present ongoing intensive exertions for them.
  
  
-    3) In order to communicate <em>Christ in you, the hope of glory</em> to the
+    3) In order to communicate * Christ in you, the hope of glory*  to the
     church, Paul gave it his all, even to the <strong><u>point</u></strong> of
     extreme physical exhaustion.
  
  
-g. Colossians 1:29b –    <em>For this purpose I labor, <strong><u>striving</u></strong>…</em> The
-    word <em>striving</em> AGONIZOMAI was used to describe extreme effort
+g. Colossians 1:29b –    * For this purpose I labor, <strong><u>striving</u></strong>…*  The
+    word * striving*  AGONIZOMAI was used to describe extreme effort
     especially through discomfort. We get our English word agonize from this
-    Greek word<em>.</em>
+    Greek word* .* 
  
  
 1) In ancient writings the word AGONIZOMAI described the    <strong><u>extreme</u></strong> exertions of those who contended in public
@@ -3178,10 +3178,10 @@ g. Colossians 1:29b –    <em>For this purpose I labor, <strong><u>striving</u>
  
  
     h. Colossians 1:29c –
-    <em>
+    * 
 Striving according to his power which mightily works        <strong>within me</strong>
-    </em>
-… Notice the <strong><u>sphere</u></strong> in which God worked; it was    <em>within</em> Paul. This speaks of God being at work for the good of
+    * 
+… Notice the <strong><u>sphere</u></strong> in which God worked; it was    * within*  Paul. This speaks of God being at work for the good of
     others in and through a presented servant.
  
  
@@ -3195,7 +3195,7 @@ Striving according to his power which mightily works        <strong>within me</s
  
  
     b) God did not <strong><u>work</u></strong> through the apostle Paul based
-    on his heritage, even though he was a <em>Hebrew of the Hebrews</em>.
+    on his heritage, even though he was a * Hebrew of the Hebrews* .
     Romans 11:1, 2 Corinthians 11:22, Philippians 3:5
  
  
@@ -3221,32 +3221,32 @@ c) It was not because of his expert methodologies, his impressive    <strong><u>
  
  
     i. Colossians 1:29d – Finally, a literal translation of this verse reads,
-    <em>
+    * 
         “for which also I <strong><u>labor</u></strong>, striving according to
         his working
-    </em>
-    <strong><em>ENERGEIA</em></strong>
+    * 
+    <strong>* ENERGEIA* </strong>
      
-    <em>that is working </em>
-    <strong><em>ENERGEO</em></strong>
-    <em> in me in powerfully<strong> DYNAMEI</strong></em>
+    * that is working * 
+    <strong>* ENERGEO* </strong>
+    *  in me in powerfully<strong> DYNAMEI</strong>* 
     .”
  
  
-    1) <em>Striving according to His working</em>… <em>Working</em> ENERGEIA is
+    1) * Striving according to His working* … * Working*  ENERGEIA is
     a noun that means effective, <strong><u>active</u></strong> or pertaining
     to action.
  
  
-2) <em>That is working </em><em>ENERGEO</em><em> in me</em>… The verb    <em>working</em> ENERGEO is a present tense, middle voice participle in
+2) * That is working * * ENERGEO* *  in me* … The verb    * working*  ENERGEO is a present tense, middle voice participle in
     Greek. It means that <strong><u>God</u></strong> was the One energetically
     at work, being effective and producing results in and through the apostle.
     <br/>
     <br/>
  
  
-    3) <em>Working in me, in <strong><u>power</u> </strong>DYNAMIS</em>… The
-    noun <em>power</em> DYNAMIS communicates force, might or energy.
+    3) * Working in me, in <strong><u>power</u> </strong>DYNAMIS* … The
+    noun * power*  DYNAMIS communicates force, might or energy.
  
  
     4) The same nouns ENERGEIA and DUNAMIS, and the verb ENERGEO were used to
@@ -3256,17 +3256,17 @@ c) It was not because of his expert methodologies, his impressive    <strong><u>
     <br/>
  
  
-5) Ephesians 1:19-20 –<em>These are in accordance with the <strong>working</strong> </em><strong>ENERGEIA</strong> <em>of the strength of His might </em><strong>DUNAMIS</strong><em>, which He <strong>brought about</strong> </em>    <strong>ENERGEO</strong>
-    <em>
+5) Ephesians 1:19-20 –* These are in accordance with the <strong>working</strong> * <strong>ENERGEIA</strong> * of the strength of His might * <strong>DUNAMIS</strong>* , which He <strong>brought about</strong> *     <strong>ENERGEO</strong>
+    * 
         in Christ, when He <strong><u>raised</u></strong> Him from the dead
-    </em>
+    * 
     …
  
  
     6) We can conclude that Paul strove <strong><u>hard</u></strong> in his
     mission efforts but only by actively receiving a constant infusion of God’s
     power. He was not trusting in himself. He was trusting in the power of
-    Christ. Remember <em>Christ in you </em>is the mystery of God revealed.
+    Christ. Remember * Christ in you * is the mystery of God revealed.
     <br/>
     <br/>
     <br/>
@@ -3282,35 +3282,35 @@ c) It was not because of his expert methodologies, his impressive    <strong><u>
 1. Colossians 2:1 – Paul was engaged in a grueling and arduous    <strong><u>struggle</u></strong> for the churches of the Lycos valley.
  
  
-a. Colossians 2:1a – <em>For I want you to know</em>… The opening word    <strong><em><u>for</u></em></strong> ties this section back to the previous
+a. Colossians 2:1a – * For I want you to know* … The opening word    <strong>* <u>for</u>* </strong> ties this section back to the previous
     passage. This is not a new topic but a continuation of the apostle’s deep
     concern for the churches beginning back in Colossians 1:24.
     <br/>
     <br/>
  
  
-    b. Colossians 2:1b – <em>How great a struggle</em> conveys the idea of an
+    b. Colossians 2:1b – * How great a struggle*  conveys the idea of an
 enormous contest, conflict or battle. Paul was aggressively    <strong><u>fighting</u></strong> for the lasting existence of the church in
     that region of the world.
  
  
-    1) Paul was deeply distressing over them. The word <em>striving</em>
+    1) Paul was deeply distressing over them. The word * striving* 
     AGONIZOMAI in Colossians 1:29 has the same <strong><u>root</u></strong> as
-    the word <em>struggle</em> AGON in Colossians 2:1. We get our English word
+    the word * struggle*  AGON in Colossians 2:1. We get our English word
     agony from this term.
  
  
-    2) Paul used <em>struggle</em> as a <strong><u>present</u></strong> tense
+    2) Paul used * struggle*  as a <strong><u>present</u></strong> tense
     verb, communicating his ongoing pastoral care and concern for the
     Colossians. Day in and day out, Paul passionately struggled for their
     success.
  
  
     c. Colossians 2:1c –
-    <em>
+    * 
         How great a struggle I have on your behalf and for those who are at
         Laodicea, and for all those who have not personally seen my face
-    </em>
+    * 
     . Here we observe the <strong><u>depth</u></strong> of the conflict of soul
     Paul experienced for the Colossian church.
  
@@ -3326,21 +3326,21 @@ enormous contest, conflict or battle. Paul was aggressively    <strong><u>fighti
     <br/>
  
  
-2. Colossians 2:2 –    <em>That their <strong><u>hearts</u></strong> may be encouraged</em>… The
-    word <em>that</em> HINA conveys purpose. Paul had a two-fold purpose in his
+2. Colossians 2:2 –    * That their <strong><u>hearts</u></strong> may be encouraged* … The
+    word * that*  HINA conveys purpose. Paul had a two-fold purpose in his
     intercessory struggle for the believers: 1) that their hearts might be
     encouraged, and 2) that they might attain to <strong><u>all</u></strong>
     the wealth which was already theirs in Christ.
  
  
     a. Colossians 2:2a –
-    <em>
+    * 
 That their hearts may be encouraged, having been        <strong><u>knit</u></strong> together in love
-    </em>
-… The apostle Paul knew that when the body of Christ is    <em>knit together in love</em> it will result in encouraged believers.
+    * 
+… The apostle Paul knew that when the body of Christ is    * knit together in love*  it will result in encouraged believers.
  
  
-    1) The word <em>encourage</em> PARAKALEO means to come beside and urge
+    1) The word * encourage*  PARAKALEO means to come beside and urge
 forward. Encouragement comes from knowing you are not in the battle    <strong><u>alone</u></strong>; someone is at your side. Ephesians 4:15-16
  
  
@@ -3362,7 +3362,7 @@ forward. Encouragement comes from knowing you are not in the battle    <strong><
     unity in the body of Christ.
  
  
-b. Colossians 2:2b – <strong><em>And attaining</em></strong>    <em> to all the wealth…</em> Paul struggled in prayer for the believers to
+b. Colossians 2:2b – <strong>* And attaining* </strong>    *  to all the wealth…*  Paul struggled in prayer for the believers to
     know and understand all the <strong><u>wealth</u></strong> that was theirs
     in Christ.
  
@@ -3375,14 +3375,14 @@ b. Colossians 2:2b – <strong><em>And attaining</em></strong>    <em> to all th
     the Scriptures is a wealthy person indeed. Philippians 3:7-14
  
  
-    c. Colossians 2:2c – …<em>that comes from the full assurance</em>… In
+    c. Colossians 2:2c – …* that comes from the full assurance* … In
     contrast to the discouragement of uncertainty, God wants us to be
     encouraged, being <strong><u>fully</u></strong> assured of the truth of His
     Word and of His abundant grace so that we can come to truly bask in all the
     wealth that is ours in Christ.
  
  
-    1) The phrase <strong><em><u>full</u></em></strong><em> assurance </em>
+    1) The phrase <strong>* <u>full</u>* </strong>*  assurance * 
     reminds us that we can be certain of the truth of God’s Word.
  
  
@@ -3419,9 +3419,9 @@ be subjected to great uncertainty and insecurity and will not    <strong><u>enjo
  
  
     4) Paul stated that his goal was for believers to attain
-    <em>
+    * 
         to all the wealth that comes from the full assurance of understanding
-    </em>
+    * 
     . The purpose of the New Testament is not to <strong><u>cast</u></strong>
     doubts on our salvation but rather to provide solid assurance of our
     salvation. John 20:30-31, 2 Timothy 1:1, 1 John 5:10-13
@@ -3429,8 +3429,8 @@ be subjected to great uncertainty and insecurity and will not    <strong><u>enjo
     <br/>
  
  
-e. Colossians 2:2c –    <em>…that comes from the full assurance of understanding…</em> Paul used
-the phrase <em>assurance of understanding</em> to convey the idea of    <strong><u>reason</u></strong> based on logical deduction.
+e. Colossians 2:2c –    * …that comes from the full assurance of understanding…*  Paul used
+the phrase * assurance of understanding*  to convey the idea of    <strong><u>reason</u></strong> based on logical deduction.
  
  
     1) Having a scriptural understanding of <strong><u>Christ</u></strong> and
@@ -3453,10 +3453,10 @@ the phrase <em>assurance of understanding</em> to convey the idea of    <strong>
  
  
     f. Colossians 2:2d – …
-    <em>
+    * 
         resulting in a <strong><u>true</u></strong> knowledge of God's mystery,
         that is, Christ Himself
-    </em>
+    * 
     .
  
  
@@ -3472,7 +3472,7 @@ Colossian believers and the neighboring churches to    <strong><u>truly</u></str
  
  
 3. Colossians 2:3a – Paul wanted Christ, God’s mystery, to be    <strong><u>clearly</u></strong> understood by the Colossians because all
-the treasures of wisdom and knowledge are found only in    <strong><em>Christ</em></strong>. We need to know that the “secret” to
+the treasures of wisdom and knowledge are found only in    <strong>* Christ* </strong>. We need to know that the “secret” to
     spiritual living is found hidden in Christ.
  
  
@@ -3505,7 +3505,7 @@ secular philosophy must be acceptable, but just because    <strong><u>truth</u><
  
  
     1) Those who teach that you must keep the law to be a faithful Christian
-and pleasing to God end up replacing a life of    <em>grace through <strong><u>faith</u></strong></em> with human efforts.
+and pleasing to God end up replacing a life of    * grace through <strong><u>faith</u></strong>*  with human efforts.
  
  
     2) These individuals have not found Jesus Christ to be God’s unique
@@ -3569,7 +3569,7 @@ d. Colossians 2:20-23 – And finally the secret to godly living is not    <stro
     <br/>
  
  
-4. Colossians 2:3b – Christ is the person …<strong><em>in whom are <u>hidden</u> all the treasures</em></strong>    <em> of wisdom and knowledge.</em>
+4. Colossians 2:3b – Christ is the person …<strong>* in whom are <u>hidden</u> all the treasures* </strong>    *  of wisdom and knowledge.* 
  
  
     a. There are incredible <strong><u>riches</u></strong> in understanding the
@@ -3584,18 +3584,18 @@ d. Colossians 2:20-23 – And finally the secret to godly living is not    <stro
  
  
     5. Colossians 2:3c – Christ …
-    <em>
+    * 
 in whom are hidden all the treasures        <strong>of wisdom and knowledge</strong>
-    </em>
+    * 
     . Everything you need for abundant <strong><u>godly</u></strong> living is
     found in intimately knowing Jesus Christ.
  
  
-    a. <em>Knowledge</em> is God-given enlightenment to be able to understand
+    a. * Knowledge*  is God-given enlightenment to be able to understand
     His Word and <strong><u>will</u></strong>.
  
  
-    b. <em>Wisdom</em> is the God-given ability to go on and practically use
+    b. * Wisdom*  is the God-given ability to go on and practically use
     the knowledge of God’s Word and will in your <strong><u>daily</u></strong>
     living.
  
@@ -3612,15 +3612,15 @@ c. The believer who only superficially or academically knows the    <strong><u>L
     <strong>Colossians 2:4-5 – Paul warned of danger</strong>
  
  
-1. Colossians 2:4 –    <em>I say this so that no one will delude you with persuasive argument</em>
+1. Colossians 2:4 –    * I say this so that no one will delude you with persuasive argument* 
     . Paul warned the Colossians not to be <strong><u>tricked</u></strong>.
     Galatians 1:6-9, 3:1
  
  
-a. Colossians 2:4a – Paul was worried the Colossians might be in<strong><u>danger</u></strong> of delusion. …    <em>so that no one will delude you</em>… 2 Corinthians 11:3-4, 13-15
+a. Colossians 2:4a – Paul was worried the Colossians might be in<strong><u>danger</u></strong> of delusion. …    * so that no one will delude you* … 2 Corinthians 11:3-4, 13-15
  
  
-    1) The word <em>delude</em> PARALOGIZOMAI is a two-part word in Greek. PARA
+    1) The word * delude*  PARALOGIZOMAI is a two-part word in Greek. PARA
 means <strong>with</strong> or <strong>beside</strong> and LOGIZOMAI means    <strong>to reason</strong> or <strong>to use logic</strong>. You might say
     it means to add or combine something with <strong><u>reason</u></strong> or
     logic.
@@ -3637,7 +3637,7 @@ Colossian Christians because they were presently standing    <strong><u>firm</u>
     <br/>
  
  
-    b. Colossians 2:4b – <em>With persuasive argument…</em> False teachers
+    b. Colossians 2:4b – * With persuasive argument…*  False teachers
     often <strong><u>seek</u></strong> to win converts through wise-sounding
     arguments that are untrue. 2 Peter 2:1, 17-19
  
@@ -3671,19 +3671,19 @@ Colossian Christians because they were presently standing    <strong><u>firm</u>
  
  
     2. Colossians 2:5 –
-    <em>
+    * 
         For even though I am absent in body, nevertheless I am with you in
         spirit…
-    </em>
+    * 
     Paul used military lingo to compliment the Colossian believers on their
     readiness to <strong><u>fight</u></strong>.
  
  
     a. Colossians 2:5a –Even though Paul was not physically present in
-Colossae, in his <strong><u>spirit</u></strong> he was    <em>rejoicing to see [their] good discipline</em>.
+Colossae, in his <strong><u>spirit</u></strong> he was    * rejoicing to see [their] good discipline* .
  
  
-    1) In using the term <em>good discipline </em>TAXIS, Paul employed a
+    1) In using the term * good discipline * TAXIS, Paul employed a
 military concept used to describe a well-ordered, descending-in-    <strong><u>rank</u></strong>, combat-ready squadron of soldiers.
  
  
@@ -3696,10 +3696,10 @@ military concept used to describe a well-ordered, descending-in-    <strong><u>r
     when it comes to doctrinal differences? May this not be the case.
  
  
-b. Colossians 2:5b – Paul also rejoiced to see their<strong><u>stability</u></strong>.    <em>Rejoicing to see …the stability of your faith in Christ</em>.
+b. Colossians 2:5b – Paul also rejoiced to see their<strong><u>stability</u></strong>.    * Rejoicing to see …the stability of your faith in Christ* .
  
  
-1) The word for <em>stability</em> STEREOMA means firm,    <strong><u>solid</u></strong> or stable. Originally the term described the
+1) The word for * stability*  STEREOMA means firm,    <strong><u>solid</u></strong> or stable. Originally the term described the
     military stance developed by the Greeks where shields were overlapped and
     spears extended as troops moved forward in unison.
  
@@ -3709,7 +3709,7 @@ b. Colossians 2:5b – Paul also rejoiced to see their<strong><u>stability</u></
     unyielding and close-knit unit.
  
  
-3) Their stability was based on their    <strong><em><u>faith</u></em></strong><em> in Christ</em> not on their
+3) Their stability was based on their    <strong>* <u>faith</u>* </strong>*  in Christ*  not on their
     personal strengths. Paul perceived that they were firmly leaning on Christ
     and he knew this would ensure their ultimate victory.
  
@@ -3736,28 +3736,28 @@ b. Colossians 2:5b – Paul also rejoiced to see their<strong><u>stability</u></
  
  
     1. Colossians 2:6 –
-    <em>
+    * 
         Therefore as you have received Christ Jesus the Lord, so walk in Him
-    </em>
+    * 
     . This is the first <strong><u>directive</u></strong> given to believers in
     the book of Colossians.
  
  
-a. Colossians 2:6a –    <em>As you received Christ Jesus <strong><u>the</u></strong> Lord…</em> is
+a. Colossians 2:6a –    * As you received Christ Jesus <strong><u>the</u></strong> Lord…*  is
     a good translation of the Greek text.
  
  
     1) This verse should <strong><u>not</u></strong> read as the NIV, NET, and
-NLT Bible translators rendered it:    <em>as you received Christ Jesus <strong>as</strong> Lord</em>.
+NLT Bible translators rendered it:    * as you received Christ Jesus <strong>as</strong> Lord* .
  
  
     2) This would be the <strong><u>only</u></strong> place in the NT where the
-    word “<em>the</em>” (<em>ton</em>) is translated using the English word
+    word “* the* ” (* ton* ) is translated using the English word
     “as.”
  
  
     3) We did not receive Christ Jesus <strong>as</strong> Lord, but we did
-    receive <em>Christ Jesus <strong><u>the</u></strong> Lord</em>.
+    receive * Christ Jesus <strong><u>the</u></strong> Lord* .
  
  
     a) Our salvation was not a promise, effort or <strong><u>deal</u></strong>
@@ -3769,7 +3769,7 @@ b) We received Christ as our Savior by simple childlike    <strong><u>faith</u><
     Ephesians 2:8-9, John 3:16-17
  
  
-b. Colossians 2:6b –    <em>As you <strong><u>received</u></strong> Christ… so walk in Him…</em>
+b. Colossians 2:6b –    * As you <strong><u>received</u></strong> Christ… so walk in Him…* 
     Paul wanted the Colossian believers to continue to walk with Christ in the
     very same way they first received Him.
  
@@ -3794,17 +3794,17 @@ c) Hebrews 10:38 shows that if we as believers pull    <strong><u>back</u></stro
  
  
 d) Romans 1:17 teaches that the justified person is to    <strong><u>live</u></strong> from faith to faith.
-    <em>
+    * 
 For in it the righteousness of God is revealed        <strong>from faith to faith</strong>; as it is written, “BUT THE
         RIGHTEOUS man SHALL LIVE BY FAITH.”
-    </em>
+    * 
  
  
-2) Colossians 2:6c – What did Paul mean by … so    <strong><em><u>walk</u></em></strong><em> in Him</em>?
+2) Colossians 2:6c – What did Paul mean by … so    <strong>* <u>walk</u>* </strong>*  in Him* ?
  
  
-    a) The action verb <em>walk</em> PERIPATEO comes from PERI meaning around
-and PATEO to walk. Since Paul used the word <em>walk</em> as a    <strong><u>present</u></strong> tense command it communicated the
+    a) The action verb * walk*  PERIPATEO comes from PERI meaning around
+and PATEO to walk. Since Paul used the word * walk*  as a    <strong><u>present</u></strong> tense command it communicated the
     requirement to walk this way right now. Paul instructed the Colossians to
     daily walk with the Lord by faith.
  
@@ -3826,7 +3826,7 @@ d) We are to keep in step with the Holy Spirit,    <strong><u>yoked</u></strong>
     <br/>
  
  
-    3) Colossians 2:6d – …<strong><em><u>in</u></em></strong><em> Him</em>. At
+    3) Colossians 2:6d – …<strong>* <u>in</u>* </strong>*  Him* . At
     salvation all believers are placed into Christ. Galatians 3:27
  
  
@@ -3834,22 +3834,22 @@ a) When you became a believer, you were born again as a    <strong><u>new</u></s
     longer in Adam. You now have a new identity in Christ. 2 Corinthians 5:17
  
  
-b) Ephesians 1:3 – In Christ you have been <strong><u>blessed</u></strong>    <em>with every spiritual blessing in the heavenly places</em>. Colossian
+b) Ephesians 1:3 – In Christ you have been <strong><u>blessed</u></strong>    * with every spiritual blessing in the heavenly places* . Colossian
     3:1-3
     <br/>
     <br/>
  
  
     2. Colossians 2:7 – Using the metaphor of a <strong><u>tree</u></strong>,
-    Paul explained what your experience will be as you <em>walk </em>and mature
+    Paul explained what your experience will be as you * walk * and mature
     in Christ.
  
  
-    a. Colossians 2:7a – <em>Having been firmly rooted</em>… At salvation we
+    a. Colossians 2:7a – * Having been firmly rooted* … At salvation we
     became firmly <strong><u>rooted</u></strong> in Christ. Ephesians 3:17
  
  
-    1) Because this participle <strong><em><u>rooted</u></em></strong> RHIZOO
+    1) Because this participle <strong>* <u>rooted</u>* </strong> RHIZOO
     is in the perfect tense, it implies an ongoing present reality that was
     established at a past event.
  
@@ -3871,7 +3871,7 @@ b) Ephesians 1:3 – In Christ you have been <strong><u>blessed</u></strong>    
     <br/>
  
  
-    b. Colossians 2:7b – <em>And now being built up in Him</em>… You begin your
+    b. Colossians 2:7b – * And now being built up in Him* … You begin your
     Christian life by being rooted in <strong><u>Christ</u></strong>. God’s
     maturation process is that you continue to grow up into Christ.
  
@@ -3880,13 +3880,13 @@ b) Ephesians 1:3 – In Christ you have been <strong><u>blessed</u></strong>    
     practical, daily, faith-based fellowship with Christ. Ephesians 4:15b
  
  
-2) <em>Built up</em> EPOIKODOMEO means to be built up in    <strong><u>layers</u></strong>, one on top of the other. This is precisely
+2) * Built up*  EPOIKODOMEO means to be built up in    <strong><u>layers</u></strong>, one on top of the other. This is precisely
     how a tree grows. Every year a new layer is added on top of the old one.
     Usually there is about 1 month of new growth resulting in a new ring and
     then about 11 months of solidification.
  
  
-    3) Although <em>built up</em> is in the present tense, it is also in the
+    3) Although * built up*  is in the present tense, it is also in the
     passive voice. This means that not only is <strong><u>God</u></strong> the
     one who gives the growth, He is continually working to make you grow. 1
     Corinthians 3:6-10
@@ -3894,7 +3894,7 @@ b) Ephesians 1:3 – In Christ you have been <strong><u>blessed</u></strong>    
     <br/>
  
  
-c. Colossians 2:7c –    <em>And established in your faith just as you were instructed</em>… As you
+c. Colossians 2:7c –    * And established in your faith just as you were instructed* … As you
     mature, not only should you be built up and grow up into Christ, you should
     become established in your faith. This reminds us of a large tree standing
     beside the <strong><u>water</u></strong>. Psalm 1:3
@@ -3905,36 +3905,36 @@ c. Colossians 2:7c –    <em>And established in your faith just as you were ins
     4:11-14, 2 Timothy 3:14-15
  
  
-    2) The word <em>established</em> BEBAIOO is a present tense passive voice
+    2) The word * established*  BEBAIOO is a present tense passive voice
     participle that describes a believer who is in the process of becoming
-    firmly <strong><u>docked</u></strong> in <em>the faith</em>, the body of
+    firmly <strong><u>docked</u></strong> in * the faith* , the body of
     truth we believe.
  
  
     3) Epaphras had apparently<strong><u> taught</u></strong> the Colossian
-    believers very well, but the present tense verb <em>established</em>
+    believers very well, but the present tense verb * established* 
     highlights for us the ongoing need of being daily established in the truth.
     Ephesians 4:22-24
  
  
     4) Ephesians 4:12b-13 – …
-    <em>
+    * 
         to the building up of the body of Christ; <strong><u>until</u></strong>
         we all attain to the unity of the faith, and of the knowledge of God,
         to a mature man, to the measure of the stature which belongs to the
         fullness of Christ
-    </em>
+    * 
     .
     <br/>
     <br/>
  
  
-    d. Colossians 2:7d – <em>And overflowing with gratitude</em>. The metaphor
+    d. Colossians 2:7d – * And overflowing with gratitude* . The metaphor
     now pictures a <strong><u>fruit</u></strong>-bearing tree. We come to
     experience a bumper-crop of gratitude.
  
  
-    1) The word <em>overflowing</em> PERISSEUO means abounding, spilling over,
+    1) The word * overflowing*  PERISSEUO means abounding, spilling over,
     or <strong><u>filled</u></strong> to the brim. As we walk by faith we can
     expect to burst with gratitude.
  
@@ -3964,7 +3964,7 @@ c. Colossians 2:7c –    <em>And established in your faith just as you were ins
     philosophy. Proverbs 1:1-7
  
 ===
-a. Colossians 2:8a – The phrase …<em>see to it</em>… is a    <strong><u>present</u></strong> tense command followed by the Greek
+a. Colossians 2:8a – The phrase …* see to it* … is a    <strong><u>present</u></strong> tense command followed by the Greek
     negation ME giving the command an emphasis akin to, “Watch out!” Since the
     command is in the active voice, it was their personal responsibility to
     have ongoing vigilance.
@@ -3972,7 +3972,7 @@ a. Colossians 2:8a – The phrase …<em>see to it</em>… is a    <strong><u>pr
     <br/>
  
 === 
-b. Colossians 2:8b –    <em>See to it that no one takes you <strong><u>captive</u></strong></em>…
+b. Colossians 2:8b –    * See to it that no one takes you <strong><u>captive</u></strong>* …
     is language that was used to describe a person taken as a prisoner of war.
     In those days, being a POW meant you’d eventually be sold and become
     someone’s slave.
@@ -3990,15 +3990,15 @@ b. Colossians 2:8b –    <em>See to it that no one takes you <strong><u>captive
  
  
     c. Colossians 2:8c –
-    <em>
+    * 
         See to it that no one takes you captive <strong><u>through</u></strong>
         philosophy
-    </em>
+    * 
     . The heresy of philosophy is the error of falling prey to a deceptive
     human viewpoint.
  
 ===
-    1) In Greek the word <em>philosophy</em> PHILOSOPHIA is a compound word
+    1) In Greek the word * philosophy*  PHILOSOPHIA is a compound word
 derived from PHILOS friend and SOPHIA wisdom. It literally means the    <strong><u>love</u></strong> of wisdom or science. This is the only
     occurrence of this word in the Bible.
  
@@ -4109,46 +4109,46 @@ had little concern for religion. To them religion and ignorance went    <strong>
     for life’s answers.
  
  
-b) It is important to <strong><u>note</u></strong> that    <strong><em>philosophy</em></strong>, not <strong>knowledge</strong>, is
+b) It is important to <strong><u>note</u></strong> that    <strong>* philosophy* </strong>, not <strong>knowledge</strong>, is
     what is condemned here.
     <br/>
     <br/>
  
  
-d. Colossians 2:8d – According to Paul, philosophy is    <strong><em><u>empty</u></em></strong>.
+d. Colossians 2:8d – According to Paul, philosophy is    <strong>* <u>empty</u>* </strong>.
  
  
-1) When it came to explaining the issues of life, Paul called philosophy    <em>empty</em> <em>deception</em>. In Greek the word <em>empty</em> KENOS
+1) When it came to explaining the issues of life, Paul called philosophy    * empty*  * deception* . In Greek the word * empty*  KENOS
     means <strong><u>without</u></strong> substance; it describes the hollow or
     foolish distortion that leads to disillusionment. Philosophy cannot satisfy
     the nagging questions of life.
  
  
-2) In the Phillips New Testament this word was translated as    <em>high-sounding <strong><u>nonsense</u></strong></em>. That’s a pretty
+2) In the Phillips New Testament this word was translated as    * high-sounding <strong><u>nonsense</u></strong>* . That’s a pretty
     good description.
  
  
     3) In Deuteronomy 32:45-47 when relating God’s words to the Israelites,
     Moses said, “
-    <em>
+    * 
 For it is not an idle word for you; indeed it is your        <strong><u>life</u></strong>
-    </em>
+    * 
     .” God’s Word is not without substance. Quite the contrary. God’s Word
     gives life. Psalm 119:105, Proverbs 6:23, 2 Peter 1:19
     <br/>
     <br/>
  
  
-e. Colossians 2:8e – Philosophy is not only <em>empty,</em> it is    <strong><u>deceptive</u></strong>.
+e. Colossians 2:8e – Philosophy is not only * empty,*  it is    <strong><u>deceptive</u></strong>.
  
  
-    1) Philosophy is described as <em>deception</em> APETE. Deception is that
+    1) Philosophy is described as * deception*  APETE. Deception is that
     which gives a <strong><u>false</u></strong> impression or is unreliable or
     corrupt.
  
  
-    2) The word <em>deception</em> APETE means to <strong><u>trick</u></strong>
-    . Philosophy’s <em>empty deception</em> aptly describes mankind’s enticing
+    2) The word * deception*  APETE means to <strong><u>trick</u></strong>
+    . Philosophy’s * empty deception*  aptly describes mankind’s enticing
     words of intellectualism.
  
  
@@ -4167,7 +4167,7 @@ e. Colossians 2:8e – Philosophy is not only <em>empty,</em> it is    <strong><
 2. Colossians 2:8 – Paul showed why philosophy was    <strong><u>deficient</u></strong> and to be decisively rejected.
  
  
-a. Colossians 2:8f – We ought to reject philosophy because of its<strong><u>source</u></strong>. Philosophy is …    <em>according to the traditions of men</em>.
+a. Colossians 2:8f – We ought to reject philosophy because of its<strong><u>source</u></strong>. Philosophy is …    * according to the traditions of men* .
  
  
     1) Paul knew that the philosophy of his day and its adherents, e.g.,
@@ -4183,42 +4183,42 @@ Socrates, Plato, Aristotle, followed the traditions of    <strong><u>men</u></st
  
  
     3) 1 Corinthians 1:19-20 –
-    <em>
+    * 
         For it is written, "I WILL <strong><u>DESTROY</u></strong> THE WISDOM
         OF THE WISE, AND THE CLEVERNESS OF THE CLEVER I WILL SET ASIDE." Where
         is the wise man? Where is the scribe? Where is the debater of this age?
         Has not God made foolish the wisdom of the world
-    </em>
+    * 
     ?
  
  
     4) 1 Corinthians 1:21 – Fo
-    <em>
+    * 
         r since in the wisdom of God the world through its wisdom did not come
         to know God, God was well-pleased through the foolishness of the
         message preached to <strong><u>save</u></strong> those who believe
-    </em>
+    * 
     .
     <br/>
     <br/>
  
  
     5) 1 Corinthians 2:6 –
-    <em>
+    * 
         Yet we do speak wisdom among those who are mature; a wisdom, however,
         not of this age nor of the rulers of this age, who are passing away;
         but we speak God's wisdom in a mystery, the hidden wisdom which God
         predestined before the ages to our <strong><u>glory</u></strong>
-    </em>
+    * 
     .
     <br/>
     <br/>
  
  
-b. Colossians 2:8g – We should reject philosophy because of its<strong><u>substance</u></strong>. Philosophy is …    <em>according to the elementary principles of this world</em>.
+b. Colossians 2:8g – We should reject philosophy because of its<strong><u>substance</u></strong>. Philosophy is …    * according to the elementary principles of this world* .
  
  
-1) The word <em>elementary</em> STOICHEION comes from a word meaning to    <strong><u>line</u></strong> up or do the ABC's.
+1) The word * elementary*  STOICHEION comes from a word meaning to    <strong><u>line</u></strong> up or do the ABC's.
  
  
     2) Philosophy is a failed method used by the world to get people to behave.
@@ -4233,14 +4233,14 @@ b. Colossians 2:8g – We should reject philosophy because of its<strong><u>subs
     “no” to a child.
  
  
-4) The unsaved by default live their lives according to philosophy’s    <em>empty deception, traditions and elementary principles</em>. Saved
+4) The unsaved by default live their lives according to philosophy’s    * empty deception, traditions and elementary principles* . Saved
     people who walk according to the flesh typically live their lives by these
     very same principles.
     <br/>
     <br/>
  
  
-5) This is why Paul so strongly and clearly<strong><u>rejected</u></strong> philosophy as an empty substitute for    <em>Christ in you</em>, God’s mystery provision for living a spiritual
+5) This is why Paul so strongly and clearly<strong><u>rejected</u></strong> philosophy as an empty substitute for    * Christ in you* , God’s mystery provision for living a spiritual
     life. Paul told the Colossian believers to learn to walk by faith,
     dependent on Christ Jesus.
     <br/>
@@ -4248,13 +4248,13 @@ b. Colossians 2:8g – We should reject philosophy because of its<strong><u>subs
  
  
     c. Colossians 2:8h – Finally we are to reject philosophy because of its
-distorted <strong><u>shift</u></strong> in focus. Philosophy is    <em>not according to Christ</em>.
+distorted <strong><u>shift</u></strong> in focus. Philosophy is    * not according to Christ* .
  
  
     1) For scores of Christians the logic of philosophy either replaces Christ
     or <strong><u>makes</u></strong> Him too insignificant or insufficient for
     explaining life or even resolving life’s problems. Therefore, as Paul says,
-    philosophy is <em>not according to Christ</em>.
+    philosophy is * not according to Christ* .
  
  
     2) Philosophy fails <strong><u>first</u></strong> and foremost because it
@@ -4272,7 +4272,7 @@ distorted <strong><u>shift</u></strong> in focus. Philosophy is    <em>not accor
     1:21-22
  
  
-5) Christ is God’s one and only treasure chest filled with    <strong><em><u>all</u></em></strong><em> wisdom and understanding.</em>
+5) Christ is God’s one and only treasure chest filled with    <strong>* <u>all</u>* </strong>*  wisdom and understanding.* 
     John 10:10, Colossians 2:3
  
  
@@ -4288,13 +4288,13 @@ distorted <strong><u>shift</u></strong> in focus. Philosophy is    <em>not accor
  
     a. Colossians 2:9 – We choose Christ over philosophy because as God
     incarnate He alone is adequate for every need.
-    <em>
+    * 
         For in Him all the fullness of Deity <strong><u>dwells</u></strong>
-    </em>
-    (present tense)<em> in bodily form</em>. Colossian 1:19
+    * 
+    (present tense)*  in bodily form* . Colossian 1:19
  
  
-1) First we should understand that the phrase <strong><em>in</em></strong>    <em> <strong><u>Him</u></strong></em> is in an emphatic position in the
+1) First we should understand that the phrase <strong>* in* </strong>    *  <strong><u>Him</u></strong>*  is in an emphatic position in the
     Greek sentence deepening the contrast we find between Jesus Christ and any
     substitute.
  
@@ -4315,11 +4315,11 @@ distorted <strong><u>shift</u></strong> in focus. Philosophy is    <em>not accor
     in us. Colossians 1:28
  
  
-    5) The term <em>fullness</em> PLEROMA was originally used by cultic
+    5) The term * fullness*  PLEROMA was originally used by cultic
     religions to describe the <strong><u>sum</u></strong> total of the
     qualities of their false deity. Eventually under Gnosticism false teachers
     taught that Jesus Christ was merely one of many stepping-stones or
-    intermediaries leading to <em>fullness</em>.
+    intermediaries leading to * fullness* .
  
  
     6) Obviously this <strong><u>error</u></strong> was an affront to Christ’s
@@ -4328,7 +4328,7 @@ distorted <strong><u>shift</u></strong> in focus. Philosophy is    <em>not accor
     <br/>
  
  
-b. Colossians 2:10a –    <em>And in Him you have been <strong><u>made</u></strong> complete</em>. We
+b. Colossians 2:10a –    * And in Him you have been <strong><u>made</u></strong> complete* . We
     choose Christ over philosophy because in Him, as His people, we actually
     lack nothing.
  
@@ -4337,12 +4337,12 @@ b. Colossians 2:10a –    <em>And in Him you have been <strong><u>made</u></str
 position in Christ secures for us the blessing of lacking    <strong><u>nothing</u></strong> necessary for abundant and holy living.
  
  
-a) As we have observed, the verb <em>complete</em> PLEROO means to make    <strong><u>full</u></strong>. The fact that it is in the perfect tense in
+a) As we have observed, the verb * complete*  PLEROO means to make    <strong><u>full</u></strong>. The fact that it is in the perfect tense in
     Greek conveys that although the filling already took place in the past, it
     has an ongoing effect all the way to the present.
  
  
-b) In other words, we <strong><u>remain</u></strong> continually    <em>complete in Him</em>.
+b) In other words, we <strong><u>remain</u></strong> continually    * complete in Him* .
  
  
     2) Through the <strong><u>true</u></strong> knowledge of Jesus Christ, we
@@ -4353,10 +4353,10 @@ b) In other words, we <strong><u>remain</u></strong> continually    <em>complete
  
  
     c. Colossians 2:10b – Why choose Christ over philosophy? Because “
-    <em>
+    * 
         [Christ] is the <strong><u>head</u></strong> over all rule and
         authority
-    </em>
+    * 
     .”
  
  
@@ -4385,11 +4385,11 @@ or human; so don’t look to human philosophy or anyone who    <strong><u>claims
     over the sin nature.
  
  
-a. Colossians 2:11a – <em>And in Him…</em> Notice the use of the phrase    <em>in Him</em> in this verse. This statement reminds us all over again of
-our identification with Jesus Christ. All believers are positionally    <strong><u>found</u></strong> in Christ: <em>in Him</em>. Ephesians 1:3
+a. Colossians 2:11a – * And in Him…*  Notice the use of the phrase    * in Him*  in this verse. This statement reminds us all over again of
+our identification with Jesus Christ. All believers are positionally    <strong><u>found</u></strong> in Christ: * in Him* . Ephesians 1:3
  
  
-b. Colossians 2:11b – <strong><em>You were also circumcised</em></strong>    <em> with a circumcision made without hands… </em>By means of a spiritual
+b. Colossians 2:11b – <strong>* You were also circumcised* </strong>    *  with a circumcision made without hands… * By means of a spiritual
     operation <strong><u>done</u></strong> in you at the moment of your
     salvation, you now have true spiritual freedom from domination by your
     flesh.
@@ -4412,18 +4412,18 @@ b. Colossians 2:11b – <strong><em>You were also circumcised</em></strong>    <
     circumcised. Philippians 3:3
  
  
-c. Colossians 2:11c –    <em>You were also circumcised with a circumcision made without hands</em>.
+c. Colossians 2:11c –    * You were also circumcised with a circumcision made without hands* .
     At salvation we <strong><u>had</u></strong> the spiritual operation of
     circumcision done in us. Here we understand Paul to be talking about the
     nonliteral circumcision that is true of every believer and occurs at the
     moment of salvation. Romans 2:29
  
  
-    1) <em>You were also circumcised</em>… The believer’s circumcision is given
+    1) * You were also circumcised* … The believer’s circumcision is given
     as a <strong><u>fact</u></strong>.
  
  
-    2) <em>…with a circumcision made without hands</em>. We can see that it was
+    2) * …with a circumcision made without hands* . We can see that it was
     done <strong><u>without</u></strong> human doctors.
  
  
@@ -4438,18 +4438,18 @@ and was done without human hands, we conclude that it is    <strong>spiritual ci
     <br/>
  
  
-d. Colossians 2:11d – <strong><em>In the removal</em></strong>    <em> of the body of the flesh</em>… What happened in this circumcision and
+d. Colossians 2:11d – <strong>* In the removal* </strong>    *  of the body of the flesh* … What happened in this circumcision and
     what is its significance? The flesh, or our <strong><u>sin</u></strong>
     nature, was surgically severed from us and will eventually be destroyed.
     The Great Physician did this great work.
  
  
-    1) The word <em>removal</em> APEKDUSIS in Greek is a noun which means to
+    1) The word * removal*  APEKDUSIS in Greek is a noun which means to
 wholly put aside. This word was used to describe something set aside    <strong><u>never</u></strong> to be used again – like one might do with a
     worn out garment.
  
  
-2) The word <em>removal</em> connotes separation but    <strong><u>not</u></strong> obliteration or eradication.
+2) The word * removal*  connotes separation but    <strong><u>not</u></strong> obliteration or eradication.
  
  
     3) In circumcision, the flesh of the foreskin is surgically severed from
@@ -4469,7 +4469,7 @@ wholly put aside. This word was used to describe something set aside    <strong>
     <br/>
  
  
-e. Colossians 2:11e –    <em>In the removal <strong>of the body of the flesh</strong></em>… In the
+e. Colossians 2:11e –    * In the removal <strong>of the body of the flesh</strong>* … In the
     Scriptures, the word for body SOMA normally refers to the actual physical
 human body, yet this is obviously <strong>not</strong> saying our    <strong><u>human</u></strong> body was removed or laid aside.
  
@@ -4478,14 +4478,14 @@ human body, yet this is obviously <strong>not</strong> saying our    <strong><u>
  
  
 2) In verse 17 there is an example of Paul using this secondary meaning of    <strong><u>body</u></strong> SOMA.
-    <em>
+    * 
 Things which are a mere shadow of what is to come; but the        <strong>substance</strong>
-    </em>
-    SOMA <em>belongs to Christ.</em>
+    * 
+    SOMA * belongs to Christ.* 
  
  
-3) The phrase <em>body of the flesh</em> then refers to the fleshly    <strong><u>nature</u></strong> within us that was circumcised, disconnected
-    and laid aside by means of <em>the circumcision of Christ</em> when Christ
+3) The phrase * body of the flesh*  then refers to the fleshly    <strong><u>nature</u></strong> within us that was circumcised, disconnected
+    and laid aside by means of * the circumcision of Christ*  when Christ
     was cut off from life in His death on the cross.
  
  
@@ -4496,15 +4496,15 @@ Things which are a mere shadow of what is to come; but the        <strong>substa
     <br/>
  
  
-    f. Colossians 2:11f – <em>By the circumcision of Christ</em>… The flesh was
+    f. Colossians 2:11f – * By the circumcision of Christ* … The flesh was
 rendered powerless over us when Christ was killed, or cut off, on the    <strong><u>cross</u></strong>. Romans 6:6
  
  
-    1) In the NIV the phrase <em>the circumcision of Christ</em> is rendered
+    1) In the NIV the phrase * the circumcision of Christ*  is rendered
 the circumcision done by Christ. This translation does not    <strong><u>fit</u></strong> the passive grammar of the Greek structure.
  
  
-    2) The phrase <em>by the circumcision of Christ</em> refers to the death of
+    2) The phrase * by the circumcision of Christ*  refers to the death of
     Christ on the <strong><u>cross</u></strong> as the context confirms. The
     next verse confirms this interpretation, speaking about His burial and
     resurrection and our relationship to it. Daniel 9:26
@@ -4529,7 +4529,7 @@ c) God has separated from us our sin nature’s right to freely    <strong><u>go
     <br/>
  
  
-    4) <em>By the circumcision of Christ</em>… Now, because of this spiritual
+    4) * By the circumcision of Christ* … Now, because of this spiritual
     surgery done to us by God at salvation we do not have to obey the sin
     nature’s desires nor <strong><u>yield</u></strong> to its authority. This
     victory became ours through our being co-crucified with Christ. Romans
@@ -4545,13 +4545,13 @@ c) God has separated from us our sin nature’s right to freely    <strong><u>go
     </strong>
  
  
-    1) Colossians 2:12a – <em>Having been buried with Him in baptism</em>… When
+    1) Colossians 2:12a – * Having been buried with Him in baptism* … When
     Christ was cut off from <strong><u>life</u></strong> (circumcision) in His
     death on the cross, we died together with Him and we were also co-entombed
     with Him.
  
  
-    a) <em>Having been buried…</em> Here again we see the passive voice in the
+    a) * Having been buried…*  Here again we see the passive voice in the
     Greek in regard to our baptism <strong><u>into</u></strong> His death. This
     is something done to the believer by God and not something done by the
     believer.
@@ -4623,27 +4623,27 @@ e) These are two very different concepts: one is based on    <strong><u>human</u
  
  
     h. Colossians 2:12b –
-    <em>
+    * 
         In which you were also raised up with Him through faith in the working
         of God, who raised Him from the dead
-    </em>
+    * 
     . One of the greatest benefits of our co-resurrection with Christ is that
     we now have the <strong><u>power</u></strong> to live the abundant life.
  
  
-1) Colossians 2:12b –    <em>In which you were also <strong><u>raised</u></strong> up with Him</em>…
+1) Colossians 2:12b –    * In which you were also <strong><u>raised</u></strong> up with Him* …
     We were raised up with Christ so as to live life in a new or distinctive
     way. Romans 6:4b, 11
  
  
-    a) <em>You were also <strong><u>raised</u></strong> up with Him…</em> Here
+    a) * You were also <strong><u>raised</u></strong> up with Him…*  Here
     we have an aorist passive indicative verb. The aorist tense stresses that
     it already occurred at a specific point in time. The indicative mood gives
     an emphatic sense to the action. And the passive voice means it was
     something done to the believer rather than by the believer.
  
  
-    b) <em>Raised up with Him</em>… We are now alive from the dead in Christ.
+    b) * Raised up with Him* … We are now alive from the dead in Christ.
 Our former state of being dead in sin and dead to God has    <strong><u>changed</u></strong>. We now possess Christ’s life and as a
     result are alive unto God. Colossians 2:11, John 6:40, Ephesians 2:4-6,
     Colossians 3:1, 2 Corinthians 5:14-17
@@ -4653,10 +4653,10 @@ Our former state of being dead in sin and dead to God has    <strong><u>changed<
  
     2) Colossians 2:12c – Our death, burial and resurrection with Christ
     occurred …
-    <em>
+    * 
         through <strong><u>faith</u></strong> in the working of God who raised
         Him from the dead
-    </em>
+    * 
     .
  
  
@@ -4686,11 +4686,11 @@ Christ in this way, we were given the amazing gift of a    <strong><u>new</u></s
     non-existence. It means separation.
  
  
-    a) <em>When you were dead in your transgressions</em>. We were dead to God
+    a) * When you were dead in your transgressions* . We were dead to God
     because of our willful <strong><u>sins</u></strong>.
  
  
-    b) <em>When you were dead in … the uncircumcision of your flesh</em>. We
+    b) * When you were dead in … the uncircumcision of your flesh* . We
 were also dead to God because of our direct attachment to the sin    <strong><u>nature</u></strong>.
  
  
@@ -4707,7 +4707,7 @@ were also dead to God because of our direct attachment to the sin    <strong><u>
     <br/>
  
  
-    2) Colossians 2:13b – <em>He made you alive together with Him</em>. God be
+    2) Colossians 2:13b – * He made you alive together with Him* . God be
     praised that we are now <strong><u>alive</u></strong> with Christ.
  
  
@@ -4730,11 +4730,11 @@ Colossians 2:13-15 – Christ, not philosophy, gives us freedom from        <u>g
  
  
     a. Colossians 2:13c – Christ disposed of our <strong><u>sins</u></strong>
-    and our consuming guilt. <em>Having forgiven us all our transgressions</em>
+    and our consuming guilt. * Having forgiven us all our transgressions* 
     .
  
  
-    1) <em>Having <strong><u>forgiven</u></strong> us</em>… Paul rejoiced in
+    1) * Having <strong><u>forgiven</u></strong> us* … Paul rejoiced in
     the completed nature of our comprehensive forgiveness. 1 John 2:12
  
  
@@ -4749,30 +4749,30 @@ Colossians 2:13-15 – Christ, not philosophy, gives us freedom from        <u>g
     <br/>
  
  
-    2) <strong><em><u>All</u></em></strong><em> our transgressions</em>… Paul
-highlighted the comprehensive nature of God’s forgiveness, emphasizing    <strong><em>ALL</em></strong><em> our transgressions</em>, not merely some
+    2) <strong>* <u>All</u>* </strong>*  our transgressions* … Paul
+highlighted the comprehensive nature of God’s forgiveness, emphasizing    <strong>* ALL* </strong>*  our transgressions* , not merely some
     of them. Micah 7:18-19, Psalm 103:12
  
  
-    3) <em>All <strong>our</strong> transgressions</em>… Paul rejoiced in the
-personal nature of God’s forgiveness when he included himself and his<strong>own</strong> personal sins in the phrase    <em>all <strong><u>our</u></strong> transgressions</em>. Ephesians 4:32
+    3) * All <strong>our</strong> transgressions* … Paul rejoiced in the
+personal nature of God’s forgiveness when he included himself and his<strong>own</strong> personal sins in the phrase    * all <strong><u>our</u></strong> transgressions* . Ephesians 4:32
  
  
-4) <em>All our <strong>transgressions</strong></em>… Paul recognized our    <strong><u>sins</u></strong> for what they really are – transgressions. A
+4) * All our <strong>transgressions</strong>* … Paul recognized our    <strong><u>sins</u></strong> for what they really are – transgressions. A
     transgression is a deliberate and willful overstepping of the boundary, a
     blatant disregard for God’s righteous standards. Of course, this statement
     highlights the personal need for forgiveness. Romans 4:7
  
  
     b. Colossians 2:14a –
-    <em>
+    * 
         Having <strong><u>canceled</u></strong> out the certificate of debt…
-    </em>
+    * 
     Christ, not philosophy, discarded the certificate of debt that was held
     against us.
  
  
-1) The believer’s sin <strong><u>debt</u></strong> has been    <em>cancelled out</em> EXALEIPHO. The verb <em>cancelled out</em> EXALEIPHO
+1) The believer’s sin <strong><u>debt</u></strong> has been    * cancelled out*  EXALEIPHO. The verb * cancelled out*  EXALEIPHO
     means to wipe off, to expunge or to obliterate.
  
  
@@ -4782,10 +4782,10 @@ substitute. The accusations that were against us were placed to    <strong><u>Hi
  
  
     c. Colossians 2:14b –
-    <em>
+    * 
         …the certificate of debt consisting of decrees against us, which was
         hostile to us
-    </em>
+    * 
     … In New Testament days when someone was crucified, a notice was often
     attached above the <strong><u>head</u></strong> of the criminal delineating
     the crimes that had been committed.
@@ -4806,15 +4806,15 @@ substitute. The accusations that were against us were placed to    <strong><u>Hi
  
  
     d. Colossians 2:14c –
-    <em>
+    * 
         He has <strong><u>taken</u></strong> it out of the way, having nailed
         it to the cross.
-    </em>
+    * 
     Christ’s death, not philosophy, took every decree against us out of the way
     and acquitted us of all charges.
  
  
-    1) The Greek verb for <em>taken out</em> AIRO is in the perfect tense. This
+    1) The Greek verb for * taken out*  AIRO is in the perfect tense. This
     structure indicates that God took all the decrees against you out of the
 way at a specific point in time, namely at the point you put your    <strong><u>faith</u></strong> in Christ, with results extending all the way
     to the present time.
@@ -4833,7 +4833,7 @@ way at a specific point in time, namely at the point you put your    <strong><u>
 e. Colossians 2:15 – Christ, not philosophy, disarmed    <strong><u>Satan</u></strong> and his demons.
  
  
-1) Colossians 2:15a –    <em>When He had disarmed the rulers and authorities</em>. Here we find
+1) Colossians 2:15a –    * When He had disarmed the rulers and authorities* . Here we find
 another accomplishment of the cross of Christ. Christ triumphed    <strong><u>over</u></strong> Satan, having defeated him by His cross and
     subsequent resurrection.
  
@@ -4854,11 +4854,11 @@ a) We know that in the cross we have forgiveness of    <strong><u>sins</u></stro
     3:22
  
  
-(i) When the text says Christ <em>disarmed </em>APEKDUOMAI    <em>the rulers and authorities</em>, it literally means He stripped them
+(i) When the text says Christ * disarmed * APEKDUOMAI    * the rulers and authorities* , it literally means He stripped them
     off as when a person quickly <strong><u>removes</u></strong> clothing.
  
  
-(ii) <em>Disarmed</em> <strong>APEK</strong>DUOMAI has a double prefix APO    <strong>away from</strong> and EK <strong>out from</strong>, which
+(ii) * Disarmed*  <strong>APEK</strong>DUOMAI has a double prefix APO    <strong>away from</strong> and EK <strong>out from</strong>, which
     powerfully and meaningfully highlights the <strong><u>depth</u></strong> of
     the Christ’s disarmament of Satan.
  
@@ -4871,7 +4871,7 @@ a) We know that in the cross we have forgiveness of    <strong><u>sins</u></stro
     <br/>
  
  
-    2) Colossians 2:15b – <em>He made a public display of them.</em> Christ
+    2) Colossians 2:15b – * He made a public display of them.*  Christ
     made a <strong><u>public</u></strong> spectacle of Satan and his demons by
     triumphing over them in His cross. Scripture often uses this metaphor for
     triumph. The metaphor depicts the return of a general after an overwhelming
@@ -4922,7 +4922,7 @@ The army over which a general presided must have killed at least    <strong><u>5
  
  
     3) Colossians 2:15c – How did God make a public display of His enemies? He
-did this, <em>having triumphed over them through </em>    <strong><u>Christ</u></strong>.
+did this, * having triumphed over them through *     <strong><u>Christ</u></strong>.
  
  
     a) What might have seemed to be the <strong><u>demise</u></strong> of God’s
@@ -4935,7 +4935,7 @@ did this, <em>having triumphed over them through </em>    <strong><u>Christ</u><
     soundly defeated.
  
  
-c) The just died for the unjust, therefore    <em>the accuser of the brethren</em> has <strong><u>no</u></strong> case
+c) The just died for the unjust, therefore    * the accuser of the brethren*  has <strong><u>no</u></strong> case
     against us. 1 Peter 3:18, Revelation 12:10
     <br/>
     <br/>
@@ -5018,7 +5018,7 @@ b) Legalism actually moves the believer <strong><u>away</u></strong> from spirit
    
 ===
 
-2. Colossians 2:16 – Paul initiated his corrections aimed at the heresy of legalism by first teaching the Colossians to not <strong><u>allow</u></strong> anyone <em> …to act as [their] judge.</em>
+2. Colossians 2:16 – Paul initiated his corrections aimed at the heresy of legalism by first teaching the Colossians to not <strong><u>allow</u></strong> anyone *  …to act as [their] judge.* 
  
 ===
 
@@ -5026,7 +5026,7 @@ a. Colossians 2:16a – Paul commanded them to not fall prey to legalists with t
 
 ===
  
-1) This command to <em>not</em> let others …<em>act, as your judge</em> KRINETO is a present tense imperative. The present tense indicates that this type of judging was happening at the <strong><u>moment</u></strong> Paul wrote. The believers were told to stop letting others interfere or referee in their lives. Romans 14:3
+1) This command to * not*  let others …* act, as your judge*  KRINETO is a present tense imperative. The present tense indicates that this type of judging was happening at the <strong><u>moment</u></strong> Paul wrote. The believers were told to stop letting others interfere or referee in their lives. Romans 14:3
 
 ===
  
@@ -5034,7 +5034,7 @@ a. Colossians 2:16a – Paul commanded them to not fall prey to legalists with t
 
 ===
  
-b. Colossians 2:16b –<em>Therefore no one is to act as your judge in regard to food</em>… A legalist gets judgmental and demanding about your <strong><u>private</u></strong> life. Eating <em>food</em> is one of the most basic functions of life and the legalist wants to control it. Romans 14:1-4, Mark 7:5-23, 1 Timothy 4:3-4
+b. Colossians 2:16b –* Therefore no one is to act as your judge in regard to food* … A legalist gets judgmental and demanding about your <strong><u>private</u></strong> life. Eating * food*  is one of the most basic functions of life and the legalist wants to control it. Romans 14:1-4, Mark 7:5-23, 1 Timothy 4:3-4
 
 ===
  
@@ -5050,7 +5050,7 @@ b. Colossians 2:16b –<em>Therefore no one is to act as your judge in regard to
     
 ===
  
-c. Colossians 2:16c –<em>Therefore no one is to act as your judge in regard to</em>…    <em> drink</em>. While the Bible condemns drunkenness, the legalist wants to make what you drink a <strong><u>spiritual</u></strong> issue. Ephesians 5:18
+c. Colossians 2:16c –* Therefore no one is to act as your judge in regard to* …    *  drink* . While the Bible condemns drunkenness, the legalist wants to make what you drink a <strong><u>spiritual</u></strong> issue. Ephesians 5:18
 
 ===
  
@@ -5066,11 +5066,11 @@ c. Colossians 2:16c –<em>Therefore no one is to act as your judge in regard to
 
 ===
 
-d. Colossians 2:16d – <em>Therefore no one is to act as your judge in regard …to a festival or a new moon or a Sabbath day</em>. Legalists not only get judgmental and demanding about what you eat, they also make demands on how you <strong><u>worship</u></strong>. Romans 14:5-6, 10
+d. Colossians 2:16d – * Therefore no one is to act as your judge in regard…to a festival or a new moon or a Sabbath day* . Legalists not only get judgmental and demanding about what you eat, they also make demands on how you <strong><u>worship</u></strong>. Romans 14:5-6, 10
 
 ===
  
-1) <em>Festivals</em> were the <strong><u>holy</u></strong> days and feast days that Moses set forth in the Law. Galatians 4:9-11
+1) * Festivals*  were the <strong><u>holy</u></strong> days and feast days that Moses set forth in the Law. Galatians 4:9-11
  
 ===
 
@@ -5086,7 +5086,7 @@ c) Legalists believe that by observing these <strong><u>days</u></strong> they a
     
 ===
  
-2) Paul also mentioned <em>New <strong><u>Moon</u></strong></em> celebrations that legalists wanted to require. Isaiah 1:10-15
+2) Paul also mentioned * New <strong><u>Moon</u></strong>*  celebrations that legalists wanted to require. Isaiah 1:10-15
  
 ===
 
@@ -5106,7 +5106,7 @@ d) Religious legalists delight in <strong><u>imposing</u></strong> these types o
 
 ===
  
-3) Paul included a mention of <strong><em><u>Sabbath</u></em></strong> <em> days</em>. Legalists love to obligate Christians to observe their particular idea of a Sabbath day custom. Exodus 20:8-11
+3) Paul included a mention of <strong>* <u>Sabbath</u>* </strong> *  days* . Legalists love to obligate Christians to observe their particular idea of a Sabbath day custom. Exodus 20:8-11
 
 ===
 
@@ -5134,7 +5134,7 @@ e. In summary, we should note that all five elements of legalism mentioned in ve
 
 ===
  
-a. Colossians 2:17a –    <em> Things which are a mere shadow of what is to come.</em> Legalism is captivated with <strong><u>hollow</u></strong> or empty substitutes for real fellowship with the Lord.
+a. Colossians 2:17a –    *  Things which are a mere shadow of what is to come.*  Legalism is captivated with <strong><u>hollow</u></strong> or empty substitutes for real fellowship with the Lord.
 
 ===
  
@@ -5154,7 +5154,7 @@ a. Colossians 2:17a –    <em> Things which are a mere shadow of what is to com
   
 === 
  
-b. Colossians 2:17b –<em> But the substance </em>SOMA <em>belongs to Christ…</em> Freedom, versus the slavery of legalism, is found in Christ. Christ is the <strong><u>real</u></strong> substance; legalism on the other hand is external and only dimly reflective of Christ.
+b. Colossians 2:17b –*  But the substance * SOMA * belongs to Christ…*  Freedom, versus the slavery of legalism, is found in Christ. Christ is the <strong><u>real</u></strong> substance; legalism on the other hand is external and only dimly reflective of Christ.
  
 ===
 
@@ -5171,30 +5171,30 @@ b. Colossians 2:17b –<em> But the substance </em>SOMA <em>belongs to Christ…
     1. Colossians 2:18 – Let’s discern the dangers of mysticism.
  
  
-    a. Colossians 2:18a – <em>Let no <strong>one</strong>…</em> Paul again
+    a. Colossians 2:18a – * Let no <strong>one</strong>…*  Paul again
     started this section by <strong><u>warning</u></strong> believers against
     external control and manipulation. The heresy of mysticism typically has a
     charismatic and controlling leader who <strong>claims</strong> to have
     supernatural power, extraordinary faith, or the sign gifts.
  
  
-b. Colossians 2:18b – <strong><em>Let </em></strong><em>no one <strong>keep defrauding you</strong></em>… The phrase<em>let no one keep [on] defrauding you</em> is a    <strong><u>present</u></strong> tense imperative in Greek. The use of this
+b. Colossians 2:18b – <strong>* Let * </strong>* no one <strong>keep defrauding you</strong>* … The phrase* let no one keep [on] defrauding you*  is a    <strong><u>present</u></strong> tense imperative in Greek. The use of this
     verb tense indicates that this was a very present danger in Colossae. You
     too could succumb to this error, so you also should heed this command.
  
  
-c. Colossians 2:18c –    <em>Let no one keep defrauding you <strong>of your prize</strong></em>…
+c. Colossians 2:18c –    * Let no one keep defrauding you <strong>of your prize</strong>* …
     Paul commanded the Colossian believers to not tolerate interventions by
 anyone who might act as judge or referee and somehow    <strong><u>cheat</u></strong> them from true victory.
  
  
-1) <em>Defraud</em> is the word KATABRABEUO composed of KATA<strong>against</strong> and BRABEUO <strong>line-<u>judge</u></strong> or    <strong>referee</strong>. The use of this word implies that a referee might
+1) * Defraud*  is the word KATABRABEUO composed of KATA<strong>against</strong> and BRABEUO <strong>line-<u>judge</u></strong> or    <strong>referee</strong>. The use of this word implies that a referee might
     make an unfair call resulting in your loss.
  
  
-    2) Although the phrase <em>of your prize</em> is not found explicitly in
+    2) Although the phrase * of your prize*  is not found explicitly in
     the <strong><u>Greek</u></strong> text, the idea of disqualification is
-    implied in the word <em>defraud</em>.
+    implied in the word * defraud* .
  
  
     3) With its focus on experiences, the heresy of mysticism stealthily
@@ -5203,7 +5203,7 @@ presents itself under a guise of spirituality while in reality    <strong><u>rob
     <br/>
  
  
-d. Colossians 2:18e – <em>Let no one keep defrauding you </em>…    <em>by delighting in…</em> Mysticism will put an arbitrator between you and
+d. Colossians 2:18e – * Let no one keep defrauding you * …    * by delighting in…*  Mysticism will put an arbitrator between you and
 Jesus Christ. Defrauded of Jesus, you’ll delight yourself in the    <strong><u>wrong</u></strong> things.
     <br/>
     <br/>
@@ -5216,9 +5216,9 @@ Jesus Christ. Defrauded of Jesus, you’ll delight yourself in the    <strong><u
  
     a. Colossians 2:18f – <strong>Aspect 1</strong>: Typically the heresy of
     mysticism comes with a guru or spiritual leader who will ultimately
-    <em>
+    * 
 defraud you of your <strong><u>prize</u></strong> by delighting in        <strong>self-abasement</strong>
-    </em>
+    * 
     – your self-abasement not his.
  
  
@@ -5235,7 +5235,7 @@ defraud you of your <strong><u>prize</u></strong> by delighting in        <stron
 the <strong><u>flock</u></strong> unwittingly follows him, being drug    <strong>away from the Lord</strong>. Acts 20:30
  
  
-    4) Because of their delight with <em>self-abasement</em> they will usually
+    4) Because of their delight with * self-abasement*  they will usually
     require extreme submission from their followers. In their quest for
     supernatural power or miraculous experiences they often subject their
     followers to <strong><u>engage</u></strong> in debasing or humiliating
@@ -5257,7 +5257,7 @@ the <strong><u>flock</u></strong> unwittingly follows him, being drug    <strong
  
  
     7) As an outcome, you will see yourself negatively. You will consider
-yourself unworthy, being forced into the humility of<strong><em>self-abasement</em></strong>. You might    <strong><u>feel</u></strong> obligated to fast, spend long hours in prayer,
+yourself unworthy, being forced into the humility of<strong>* self-abasement* </strong>. You might    <strong><u>feel</u></strong> obligated to fast, spend long hours in prayer,
     practice overnight vigils, kneel, or let yourself be hit in the face or
     pushed down. 2 Corinthians 11:20
     <br/>
@@ -5271,19 +5271,19 @@ a) In the church, pastors and elders are called to tenderly shepherd the    <str
     heavy-handed control or forced submission. 1 Peter 5:2-4, 3 John 9-10
  
  
-    b) Since <strong><em>self-abasement</em></strong> is presented here in a
+    b) Since <strong>* self-abasement* </strong> is presented here in a
 negative light, it is obviously not speaking of    <strong><u>true</u></strong> humility. True humility is seen in James 4:6
     where
-    <em>
+    * 
         God resists the proud but gives grace to the <strong>humble</strong>
-    </em>
-and in 1 Peter 5:6 where God says, “<strong><em>Humble yourselves</em></strong>    <em> under the mighty hand of God</em>.”
+    * 
+and in 1 Peter 5:6 where God says, “<strong>* Humble yourselves* </strong>    *  under the mighty hand of God* .”
     <br/>
     <br/>
  
  
     b. Colossians 2:18g – <strong>Aspect 2</strong>: Don’t let anyone defraud
-    you by <em>…the worship of angels</em>. The heresy of mysticism misdirects
+    you by * …the worship of angels* . The heresy of mysticism misdirects
     believers into an unhealthy obsession with <strong><u>angels</u></strong>,
     whether good or bad (demons). 1 Timothy 4:1-2
  
@@ -5300,7 +5300,7 @@ and in 1 Peter 5:6 where God says, “<strong><em>Humble yourselves</em></strong
  
  
     c. Colossians 2:18h – <strong>Aspect 3</strong>: Don’t let anyone defraud
-    you by <em>…taking his stand on visions he has seen</em>… The heresy of
+    you by * …taking his stand on visions he has seen* … The heresy of
     mysticism teaches that supernatural or ecstatic experiences such as visions
     are the <strong><u>basis</u></strong>, or measure, of true spirituality.
  
@@ -5314,18 +5314,18 @@ can become more important to you than the truth of God’s    <strong><u>Word</u
     to superior spiritual power and authority.
  
  
-    3) The phrase <em>taking <strong>his</strong> stand</em> EMBATEOU came to
+    3) The phrase * taking <strong>his</strong> stand*  EMBATEOU came to
     be a special <strong><u>term</u></strong> used by mystery cults to describe
     the initiation process required to enter the inner circle of their false
     religion. It is interesting that the Holy Spirit had Paul use a word common
     to mysticism to expose their error.
  
  
-d. Colossians 2:18i – <strong>Aspect 4</strong>: Don’t let anyone who is …    <em>inflated <strong><u>without</u></strong> cause…</em> defraud you. The
+d. Colossians 2:18i – <strong>Aspect 4</strong>: Don’t let anyone who is …    * inflated <strong><u>without</u></strong> cause…*  defraud you. The
     heresy of mysticism inspires spiritual arrogance.
  
  
-1) <em>Inflated without cause</em> is being full of hot    <strong><u>air</u></strong>. It is spiritual pride.
+1) * Inflated without cause*  is being full of hot    <strong><u>air</u></strong>. It is spiritual pride.
  
  
     2) Mysticism claims <strong><u>humility</u></strong> while actually being
@@ -5333,22 +5333,22 @@ d. Colossians 2:18i – <strong>Aspect 4</strong>: Don’t let anyone who is …
  
  
     e. Colossians 2:18j – <strong>Aspect 5</strong>: Don’t let anyone defraud
-you since that individual would simply be …<em>inflated</em>    <em>without cause <strong>by his fleshly mind</strong></em>. The heresy of
+you since that individual would simply be …* inflated*     * without cause <strong>by his fleshly mind</strong>* . The heresy of
     mysticism is characterized by the <strong><u>fleshly</u></strong> mind
     being in control of the individual.
  
  
-    1) The phrase <em>by his fleshly mind</em> shows that the heresy of
+    1) The phrase * by his fleshly mind*  shows that the heresy of
     mysticism is nothing more than a work of the <strong><u>flesh</u></strong>.
  
  
-2) Mysticism creates a disconnection with Christ and allows the<em>fleshly mind</em> rather than the Lord to    <strong><u>control</u></strong> the individual or the church.
+2) Mysticism creates a disconnection with Christ and allows the* fleshly mind*  rather than the Lord to    <strong><u>control</u></strong> the individual or the church.
     <br/>
     <br/>
  
  
     f. Colossians 2:19a – <strong>Aspect 6</strong>: Don’t let anyone defraud
-    you by <em>…not holding fast to the head</em>… The ultimate peril of the
+    you by * …not holding fast to the head* … The ultimate peril of the
 error of mysticism is that it generates a detachment from the    <strong><u>headship</u></strong> of Jesus Christ.
  
  
@@ -5357,14 +5357,14 @@ error of mysticism is that it generates a detachment from the    <strong><u>head
     pseudo-spirituality of a charismatic leader.
  
  
-2) <em>And not holding fast </em>KRATEO… is a    <strong><u>present</u></strong> tense participle stressing the immediate
-necessity to hold tightly to Christ. In Acts 24:6 the same word for    <em>hold fast</em> KRATEO is used of the Jews who tightly seized Paul in
+2) * And not holding fast * KRATEO… is a    <strong><u>present</u></strong> tense participle stressing the immediate
+necessity to hold tightly to Christ. In Acts 24:6 the same word for    * hold fast*  KRATEO is used of the Jews who tightly seized Paul in
     the temple, firmly gripping him without relaxing.
     <br/>
     <br/>
  
  
-    3) Here Paul used the term <em>holding fast</em> KRATEO figuratively to
+    3) Here Paul used the term * holding fast*  KRATEO figuratively to
     communicate intensity and describe the <strong><u>peril</u></strong> the
     church could experience if it did not hold its head, Jesus Christ, with a
     tight grip.
@@ -5384,12 +5384,12 @@ necessity to hold tightly to Christ. In Acts 24:6 the same word for    <em>hold 
     </strong>
  
  
-    1. Colossians 2:19b – We are to consistently <em>hold fast</em> to our one
+    1. Colossians 2:19b – We are to consistently * hold fast*  to our one
     true <strong><u>head</u></strong>, Jesus Christ, and reject the heresy of
     mysticism.
  
  
-2. Colossians 2:19c –    <em>From whom the <strong><u>entire</u></strong> body…</em>
+2. Colossians 2:19c –    * From whom the <strong><u>entire</u></strong> body…* 
  
  
     a. Christ is the one and <strong><u>only</u></strong> head of the body.
@@ -5408,7 +5408,7 @@ functions of the body. Even the air, food and water that    <strong><u>sustain</
     expert.
  
  
-3. Colossians 2:19d –    <em>…being supplied and held together by the joints and ligaments...</em>
+3. Colossians 2:19d –    * …being supplied and held together by the joints and ligaments...* 
  
  
     a. As individual members of Christ’s body, we are to walk in unity and love
@@ -5423,7 +5423,7 @@ functions of the body. Even the air, food and water that    <strong><u>sustain</
     <br/>
  
  
-4. Colossians 2:19e – The entire body …<em>grows with a growth, which is from God</em>. True spiritual    <strong><u>growth</u></strong> comes from God alone and not from some
+4. Colossians 2:19e – The entire body …* grows with a growth, which is from God* . True spiritual    <strong><u>growth</u></strong> comes from God alone and not from some
     mysterious phenomena or mystical experience. We do not look to those things
     or to individuals who make great claims in that way.
  
@@ -5466,7 +5466,7 @@ a. Asceticism is erroneous teaching that suggests that self-    <strong><u>denia
     the positional truth of being dead with Christ to the world. Galatians 6:14
  
  
-    a. Colossians 2:20a – <em>If you have died</em>… <strong>First</strong>
+    a. Colossians 2:20a – * If you have died* … <strong>First</strong>
     Paul made it clear that asceticism does not work for holiness because we
     are <strong><u>dead</u></strong> people. Are you aware that you are dead
     with Christ and what that means practically?
@@ -5545,21 +5545,21 @@ b) 1 Corinthians 9:26-27 – When Paul stated that he disciplined his    <strong
  
  
     b. Colossians 2:20b –
-    <em>
+    * 
 If you died with Christ        <strong>to the elementary principles of the <u>world</u></strong>
-    </em>
+    * 
     … A <strong>second </strong>reason not to practice asceticism is because it
     is based on the world’s simplistic, or elementary, way of achieving
     morality.
  
  
-    1) <em>The elementary principles</em> STOICHEIA <em>of the world</em>
+    1) * The elementary principles*  STOICHEIA * of the world* 
     refers to the rudimentary, primary, or <strong><u>basic</u></strong>
     prescriptions the world imposes on society in order to enforce conformity.
     It is the world's method of controlling fleshly desires and indulgences.
  
  
-2) Typically going <strong><u>back</u></strong> to the    <em>elementary principles of the world</em> becomes the method that
+2) Typically going <strong><u>back</u></strong> to the    * elementary principles of the world*  becomes the method that
     out-of-control worldly Christians enthusiastically employ.
  
  
@@ -5569,13 +5569,13 @@ If you died with Christ        <strong>to the elementary principles of the <u>wo
     change of conduct. Romans 6:17-18
  
  
-c. Colossians 2:20c – Why, <em>as if living in the world</em>… A<strong>third </strong>reason we reject asceticism is because we understand    <strong><u>our</u></strong> heavenly position in Christ and the fact that
+c. Colossians 2:20c – Why, * as if living in the world* … A<strong>third </strong>reason we reject asceticism is because we understand    <strong><u>our</u></strong> heavenly position in Christ and the fact that
     we are not part of this cosmic system. This helps avoid worldly, simplistic
     methods for controlling people. Ephesians 2:6, Colossians 3:1-3
  
  
-    d. Colossians 2:20d – Why …<em>do you submit yourself to decrees</em>? In
-    the <strong>fourth </strong>place, asceticism relies on <em>decrees</em>
+    d. Colossians 2:20d – Why …* do you submit yourself to decrees* ? In
+    the <strong>fourth </strong>place, asceticism relies on * decrees* 
     DOGMATIZO or negative declarations. We do not practice asceticism because
 in reality it is basically a debasing form of    <strong><u>slavery</u></strong>. Asceticism relies on depriving or
     afflicting yourself in order to be spiritual.
@@ -5589,23 +5589,23 @@ in reality it is basically a debasing form of    <strong><u>slavery</u></strong>
     a. Colossians 2:21 – Sadly the error of asceticism is based on prohibitions
     and <strong><u>demands</u></strong> put on one’s self. Paul therefore asks,
     “
-    <em>
+    * 
         Why, as if you were living in the world, do you submit yourself to
         decrees, such as…?
-    </em>
+    * 
     ”
  
  
-    1) Don’t <strong><u>grab</u></strong> this! <em>Do not handle…</em>
+    1) Don’t <strong><u>grab</u></strong> this! * Do not handle…* 
  
  
-2) Don’t <strong><u>put</u></strong> that in your mouth!    <em>Do not taste</em>…
+2) Don’t <strong><u>put</u></strong> that in your mouth!    * Do not taste* …
  
  
-3) And don’t even think of laying a <strong><u>finger</u></strong> on it!    <em>Do not touch</em>…
+3) And don’t even think of laying a <strong><u>finger</u></strong> on it!    * Do not touch* …
  
  
-b. Colossians 2:22a –    <em>Which all refer to things destined to perish with use…</em> Next Paul
+b. Colossians 2:22a –    * Which all refer to things destined to perish with use…*  Next Paul
 appropriately pointed out that asceticism quickly    <strong><u>loses</u></strong> its effectiveness.
  
  
@@ -5620,14 +5620,14 @@ appropriately pointed out that asceticism quickly    <strong><u>loses</u></stron
     <br/>
  
  
-c. Colossians 2:22b – Asceticism is …    <em>in accordance with the commandments and teachings of men.</em>
+c. Colossians 2:22b – Asceticism is …    * in accordance with the commandments and teachings of men.* 
 Asceticism incorrectly follows earthly or human    <strong><u>logic</u></strong>.
  
  
     d. Colossians 2:23a –
-    <em>
+    * 
         These are matters, which have, to be sure, the appearance of wisdom
-    </em>
+    * 
     … Asceticism is <strong>very</strong> deceptive since on the outside it
     seems to be based on godly <strong><u>wisdom</u></strong>. James 3:13-18
  
@@ -5644,18 +5644,18 @@ Asceticism incorrectly follows earthly or human    <strong><u>logic</u></strong>
     <br/>
  
  
-e. Colossians 2:23b – Asceticism is wrapped up …<em>in self-made religion</em>… meaning contrived or homespun    <strong><u>piety</u></strong>. The pious nature of asceticism makes it
+e. Colossians 2:23b – Asceticism is wrapped up …* in self-made religion* … meaning contrived or homespun    <strong><u>piety</u></strong>. The pious nature of asceticism makes it
     attractive to sincere believers. Galatians 3:2-3
  
  
-    f. Colossians 2:23c – <em>In</em>…<em>self-abasement</em>… Asceticism
+    f. Colossians 2:23c – * In* …* self-abasement* … Asceticism
     requires that the individual be abased or <strong><u>forced</u></strong>
-    into subjection. <em>Self-abasement</em> TAPEINOPHROSUNE holds the idea of
+    into subjection. * Self-abasement*  TAPEINOPHROSUNE holds the idea of
     obligating yourself to experience a profound sense of insignificance. It is
     basically a form of beating up on yourself.
  
  
-g. Colossians 2:23d – Ultimately the heresy of asceticism requires …    <strong><em><u>severe</u></em></strong><em> treatment of the body</em>.
+g. Colossians 2:23d – Ultimately the heresy of asceticism requires …    <strong>* <u>severe</u>* </strong>*  treatment of the body* .
  
  
 1) Asceticism can go so far as to encourage cruel    <strong><u>torture</u></strong> of the human body in order to gain
@@ -5670,17 +5670,17 @@ g. Colossians 2:23d – Ultimately the heresy of asceticism requires …    <str
  
  
     4. Colossians 2:23 – Asceticism’s folly:
-    <em>
+    * 
         But are of no value <strong><u>against</u></strong> fleshly indulgence
-    </em>
+    * 
     . In this one phrase Paul discarded asceticism as woefully inadequate for
     creating change. Why?
  
  
-a. Initially in verse 20 we observed that asceticism is no more than the<em>elementary principles of the world</em> and therefore    <strong><u>empty</u></strong> and deceptive. Colossians 2:8
+a. Initially in verse 20 we observed that asceticism is no more than the* elementary principles of the world*  and therefore    <strong><u>empty</u></strong> and deceptive. Colossians 2:8
  
  
-b. Here we see that these futile efforts …<em>are of no value against fleshly indulgence</em>. They do not harness    <strong><u>evil</u></strong> desires or prevent selfish and immoral
+b. Here we see that these futile efforts …* are of no value against fleshly indulgence* . They do not harness    <strong><u>evil</u></strong> desires or prevent selfish and immoral
     behavior.
  
  
@@ -5695,7 +5695,7 @@ b. Here we see that these futile efforts …<em>are of no value against fleshly 
  
     3) Asceticism just cannot <strong><u>stop</u></strong> you from sinning or
     make you holy. The NET Bible puts it aptly, saying that instead of holy
-    living <em>they in reality result in fleshly indulgence</em>. Asceticism’s
+    living * they in reality result in fleshly indulgence* . Asceticism’s
     disaster is that it actually increases fleshly indulgence.
     <br/>
     <br/>
@@ -5741,17 +5741,17 @@ to the sin nature, putting emphasis on self's    <strong><u>ability</u></strong>
  
  
     1. Colossians 3:1a –
-    <em>
+    * 
         If then you have been <strong><u>raised</u></strong> up with Christ
-    </em>
+    * 
 … Our position in Christ is foundational to correct Christian living.     
  
  
     a.
-    <em>
+    * 
         If then you have been <strong><u>raised</u></strong> up with Christ…
-    </em>
-    The word<em> if</em> is a first class condition that could be understood
+    * 
+    The word*  if*  is a first class condition that could be understood
 as, “If you have been raised up with Christ,<strong>and let’s assume it is true</strong>… therefore...”     
  
  
@@ -5762,7 +5762,7 @@ the same conditional structure indicating that we did indeed    <strong><u>die</
  
     2) Here, instead of reminding the Colossian believers of their death with
     Christ, Paul went a step further and reminded them of their resurrection
-    together with Christ. <em>Raised up</em> denotes being both co-resurrected
+    together with Christ. * Raised up*  denotes being both co-resurrected
 and co-ascended <strong><u>with</u></strong> Christ. Ephesians 2:6     
  
  
@@ -5779,7 +5779,7 @@ and co-ascended <strong><u>with</u></strong> Christ. Ephesians 2:6
  
  
     b. Founded on the believer’s spiritual position of being raised up with
-Christ, the apostle gave the Colossian believers<strong><u>two</u></strong> important commands about desires and focus (    <em>keep seeking</em> and <em>set your mind</em>). 
+Christ, the apostle gave the Colossian believers<strong><u>two</u></strong> important commands about desires and focus (    * keep seeking*  and * set your mind* ). 
  
  
     c. <strong>Only</strong> based out of our position of co-raised with Christ
@@ -5789,17 +5789,17 @@ Christ, the apostle gave the Colossian believers<strong><u>two</u></strong> impo
      
  
  
-2. Colossians 3:1b – <strong><em>Keep seeking</em></strong><em> the things above… </em>Paul’s first command to<strong><em>keep seeking</em></strong> is related to our    <strong><u>desires</u></strong>.
+2. Colossians 3:1b – <strong>* Keep seeking* </strong>*  the things above… * Paul’s first command to<strong>* keep seeking* </strong> is related to our    <strong><u>desires</u></strong>.
  
  
-    a. The word <em>seek</em> ZETEO is a verb of intensity and passion that
+    a. The word * seek*  ZETEO is a verb of intensity and passion that
     implies a diligent <strong><u>search</u></strong>. This verb was used to
     describe people determined to get to the bottom of a matter. Matthew 2:13,
     6:33; Acts 21:31; 1 Peter 5:8
  
  
     b. Being a present active imperative shows that Paul was demanding an
-    immediate and proactive search into <em>the things above</em>.
+    immediate and proactive search into * the things above* .
  
  
     c. In order to advance our <strong><u>desire</u></strong> to seek heavenly
@@ -5809,7 +5809,7 @@ Christ, the apostle gave the Colossian believers<strong><u>two</u></strong> impo
  
  
     3. Colossians 3:1c – We are commanded to seek the things that have to do
-with Christ’s <strong>finished work</strong>.<strong><em>Keep seeking</em></strong>    <em> the things above <strong>where Christ is <u>seated</u></strong></em>…
+with Christ’s <strong>finished work</strong>.<strong>* Keep seeking* </strong>    *  the things above <strong>where Christ is <u>seated</u></strong>* …
  
  
     a. We have a risen and <strong><u>living</u></strong> Savior who is
@@ -5834,10 +5834,10 @@ b. Not only do we have a qualified Savior, but also we have been    <strong><u>f
  
  
     4. Colossians 3:1d – We are further commanded to seek the things that have
-to do with Christ’s <strong>supreme authority</strong>.    <strong><em>Keep seeking</em></strong>
-    <em>
+to do with Christ’s <strong>supreme authority</strong>.    <strong>* Keep seeking* </strong>
+    * 
 the things above where Christ is seated        <strong>at the <u>right</u> hand of God</strong>
-    </em>
+    * 
     .
  
  
@@ -5852,20 +5852,20 @@ b. He and no one else possesses this position of highest    <strong><u>honor</u>
  
     c. Since Christ is risen, seated and honored in this way, we can rest
     assured He is adequate for all our <strong><u>needs</u></strong>, wants,
-    problems and questions. We ought therefore to <em>keep seeking</em> Him. No
+    problems and questions. We ought therefore to * keep seeking*  Him. No
     one else is worthy or able to help us.
     <br/>
     <br/>
  
  
-5. Colossians 3:2a – Paul’s second command to    <strong><em>set your <u>mind</u></em></strong><em> on things above</em>
+5. Colossians 3:2a – Paul’s second command to    <strong>* set your <u>mind</u>* </strong>*  on things above* 
     relates to our focus.
  
  
     a. Set PHRONEO is another penetrating verb conveying the idea of
     pinpointing your focus or being very <strong><u>intent</u></strong> on
-    something. In Philippians 2:5 it is translated <em>have this attitude</em>
-    or <em>let this mind be in you</em>.
+    something. In Philippians 2:5 it is translated * have this attitude* 
+    or * let this mind be in you* .
  
  
 b. Paul appealed to our understanding of identification    <strong><u>truths</u></strong> by commanding us to focus on heavenly things
@@ -5873,14 +5873,14 @@ b. Paul appealed to our understanding of identification    <strong><u>truths</u>
     our position in Him. Proverbs 23:7a
  
  
-    c. The <em>things <strong><u>above</u></strong></em> should become the
+    c. The * things <strong><u>above</u></strong>*  should become the
     focus of our thinking. How much of our thinking is actually absorbed with
     heavenly matters? Philippians 4:8
     <br/>
     <br/>
  
  
-6. Colossians 3:2b –    <em>Set your mind <strong>on things above</strong></em>… Paul wanted them
+6. Colossians 3:2b –    * Set your mind <strong>on things above</strong>* … Paul wanted them
     to <strong><u>focus</u></strong> in on their heavenly position and
     possessions.
  
@@ -5917,7 +5917,7 @@ g. Did you know you have been made the partaker of a heavenly    <strong><u>call
     <br/>
  
  
-7. Colossians 3:2c – Don’t <em>set your mind</em> …    <em>on the things that are on <strong><u>earth</u></strong></em>.
+7. Colossians 3:2c – Don’t * set your mind*  …    * on the things that are on <strong><u>earth</u></strong>* .
  
  
     a. Reject <strong><u>cheap</u></strong> earthly substitutes like the
@@ -5951,7 +5951,7 @@ g. Did you know you have been made the partaker of a heavenly    <strong><u>call
     <strong>Colossians 3:3-4 – Why should we have a heavenly mindset?</strong>
  
  
-1. Colossians 3:3a – Why should we <em>seek</em> for and<em>set our minds</em> on heavenly things? Paul’s first reason was, “    <em>For you <strong><u>have</u></strong> died</em>.”
+1. Colossians 3:3a – Why should we * seek*  for and* set our minds*  on heavenly things? Paul’s first reason was, “    * For you <strong><u>have</u></strong> died* .”
  
  
     a. Paul wanted the Colossians to align their thinking with God’s thinking
@@ -5971,15 +5971,15 @@ c. The mention of our death with Christ was intentional since this    <strong><u
     doctrine of sanctification. Romans 6:1-11
  
  
-    d. Because you <em>have died</em>, or were <em>crucified with Christ</em>,
+    d. Because you * have died* , or were * crucified with Christ* ,
     your sin <strong><u>nature</u></strong> is without outright or absolute
     power over you. Romans 6:6; Colossians 2:11, 3:1-4
     <br/>
     <br/>
  
  
-    2. Colossians 3:3b – Paul gave a second reason why we are to <em>seek</em>
-for and <em>set our minds</em> on heavenly things. He stated, “    <em>And your life is <strong><u>hidden</u></strong> with Christ in God</em>
+    2. Colossians 3:3b – Paul gave a second reason why we are to * seek* 
+for and * set our minds*  on heavenly things. He stated, “    * And your life is <strong><u>hidden</u></strong> with Christ in God* 
     .”
  
  
@@ -5987,7 +5987,7 @@ for and <em>set our minds</em> on heavenly things. He stated, “    <em>And you
 security. This is not only eternal security it is    <strong><u>double</u></strong> eternal security.
  
  
-    b. In Greek Paul used the perfect tense in the phrase <em>is hidden</em>.
+    b. In Greek Paul used the perfect tense in the phrase * is hidden* .
     This grammar brings out the point that God hid your life at a point in time
     in the <strong><u>past</u></strong> with results continuing all the way to
     the present.
@@ -6007,9 +6007,9 @@ continues to be hidden all the way up to this very    <strong><u>hour</u></stron
     <br/>
  
  
-    3. Colossians 3:4a – Paul gave a third reason why we are to <em>seek</em>
-    for and <em>set our minds</em> on heavenly things. He stated that Christ is
-now our <strong><u>life</u></strong>.    <em>When Christ, <strong>who is our life</strong> is revealed…</em>
+    3. Colossians 3:4a – Paul gave a third reason why we are to * seek* 
+    for and * set our minds*  on heavenly things. He stated that Christ is
+now our <strong><u>life</u></strong>.    * When Christ, <strong>who is our life</strong> is revealed…* 
  
  
     a. John 15:1-5 – Jesus is our source for <strong><u>living</u></strong>.
@@ -6017,7 +6017,7 @@ now our <strong><u>life</u></strong>.    <em>When Christ, <strong>who is our lif
  
  
     b. Philippians 1:21 – Even though Paul considered death to be gain, every
-day he lived here below was for Christ and to    <strong><u>Christ</u></strong>. <em>For to me to live is Christ</em>…
+day he lived here below was for Christ and to    <strong><u>Christ</u></strong>. * For to me to live is Christ* …
  
  
     c. Galatians 2:20 – Paul considered his life as a believer as belonging to
@@ -6025,27 +6025,27 @@ day he lived here below was for Christ and to    <strong><u>Christ</u></strong>.
     living but Christ was living in him.
  
  
-d. Colossians 1:27 – Paul passionately revealed the mystery of    <em>Christ in you, the hope of <strong><u>glory</u></strong></em>. He
+d. Colossians 1:27 – Paul passionately revealed the mystery of    * Christ in you, the hope of <strong><u>glory</u></strong>* . He
     wanted believers to know what it means for Christ to live in and through
     the individual.
     <br/>
     <br/>
  
  
-4. Colossians 3:4b – Paul’s statement gives us a fourth reason to    <em>seek</em> for and <em>set our minds</em> on heavenly things. We do so
-because one day Christ will be <strong><u>openly</u></strong> manifested.    <em>When Christ, who is our life <strong>is revealed</strong>…</em> At the
+4. Colossians 3:4b – Paul’s statement gives us a fourth reason to    * seek*  for and * set our minds*  on heavenly things. We do so
+because one day Christ will be <strong><u>openly</u></strong> manifested.    * When Christ, who is our life <strong>is revealed</strong>…*  At the
     second coming, Christ will be revealed in all His glory. Romans 2:16,
     Revelation 19:11-16
  
  
-5. Colossians 3:4b – Paul’s fifth reason to <em>seek</em> for and    <em>set our minds</em> on heavenly things is because one day when Christ is
-revealed we too will be revealed with Him in <strong><u>glory</u></strong>.    <em>Then you also will be revealed <strong>with Him in glory</strong>…</em>
+5. Colossians 3:4b – Paul’s fifth reason to * seek*  for and    * set our minds*  on heavenly things is because one day when Christ is
+revealed we too will be revealed with Him in <strong><u>glory</u></strong>.    * Then you also will be revealed <strong>with Him in glory</strong>…* 
  
  
     a. There are no conditions <strong><u>given</u></strong> here. Paul did not
     say, “If you are worthy, you will be revealed with Christ in glory.” The
     truth is that not one of us is worthy. All believers are guaranteed
-    glorification because <em>Christ is our Life.</em> There are no
+    glorification because * Christ is our Life.*  There are no
     uncertainties in these words. Romans 8:18-19
  
  
@@ -6064,13 +6064,13 @@ there is. We are strangers here. Our citizenship is in    <strong><u>heaven</u><
  
     <strong>C. </strong>
     <strong>
-        Colossians 3:5-11 – Therefore <em>seeking the things above</em> and
-        having our <em>minds set on heavenly things</em>, how are we to now
+        Colossians 3:5-11 – Therefore * seeking the things above*  and
+        having our * minds set on heavenly things* , how are we to now
         live?
     </strong>
  
  
-    1. Colossians 3:5a – <em>Therefore</em>, in light of who you are in
+    1. Colossians 3:5a – * Therefore* , in light of who you are in
 Christ…. We will now shift to see how positional truth affects our    <strong><u>walk</u></strong> here below. Only to the degree you maintain a
     heavenly focus will you live victoriously here on earth; therefore, you
     must not disregard identification truth.
@@ -6082,22 +6082,22 @@ Christ…. We will now shift to see how positional truth affects our    <strong>
     b. You were raised <strong>up</strong> together with Christ. Colossians 3:1
  
  
-c. You have <strong><u>double</u></strong> eternal security. …    <em>hidden with Christ in God. </em>Colossians 3:3
+c. You have <strong><u>double</u></strong> eternal security. …    * hidden with Christ in God. * Colossians 3:3
  
  
-d. Your life is summed up in the name “Christ.” …    <em>when Christ who is our <strong><u>life</u></strong></em>… Colossians
+d. Your life is summed up in the name “Christ.” …    * when Christ who is our <strong><u>life</u></strong>* … Colossians
     3:4a
  
  
-e. You <strong><u>will</u></strong> be glorified, guaranteed.    <em>Then you also will be revealed with him in glory</em>… Colossians 3:4b
+e. You <strong><u>will</u></strong> be glorified, guaranteed.    * Then you also will be revealed with him in glory* … Colossians 3:4b
     <br/>
     <br/>
  
  
-    <em>2. </em>
-    Colossians 3:5b – <em>Consider …as dead… </em>The command here is to
-    literally <strong><em><u>make</u></em></strong><em> dead</em>. The Greek
-    word for “<em>consider…as dead</em>” NEKROO is an aorist, active,
+    * 2. * 
+    Colossians 3:5b – * Consider …as dead… * The command here is to
+    literally <strong>* <u>make</u>* </strong>*  dead* . The Greek
+    word for “* consider…as dead* ” NEKROO is an aorist, active,
     imperative verb. 
  
  
@@ -6114,8 +6114,8 @@ doing it. In this case, it might be understood as get    <strong><u>rid</u></str
  
  
     c. Clearly Paul based his command on what he just said about being
-    positionally <strong><u>dead</u></strong> with Christ. <em>Therefore, </em>
-    based on that fact, <em>put to death, </em>or by faith apply death to the
+    positionally <strong><u>dead</u></strong> with Christ. * Therefore, * 
+    based on that fact, * put to death, * or by faith apply death to the
     members of your bodies. Colossians 3:3
  
  
@@ -6124,7 +6124,7 @@ doing it. In this case, it might be understood as get    <strong><u>rid</u></str
     on his previous teaching and now teaching a form of asceticism.
  
  
-    2) When you <em>consider the members of your earthly body as dead</em>, you
+    2) When you * consider the members of your earthly body as dead* , you
     apply in a practical way the positional truth of your death with Christ to
 sin, to your present condition – to your daily walk here on this    <strong><u>earth</u></strong>. Romans 6:2, 11
     <br/>
@@ -6162,33 +6162,33 @@ in a number of disgraceful sins. By faith we are to make our    <strong><u>body<
     wasted his time in teaching against them.
  
  
-    1) <em>Immorality</em> PORNEIA engulfs a <strong><u>large</u></strong> area
+    1) * Immorality*  PORNEIA engulfs a <strong><u>large</u></strong> area
     of sexual deviations including premarital sex, adultery, homosexuality,
     incest, bestiality, prostitution and all forms of pornography.
  
  
-    2) <em>Impurity</em> AKATHARSIA is a broad term referring to moral
+    2) * Impurity*  AKATHARSIA is a broad term referring to moral
     filthiness in thought, word or deed. The impure or unclean person focuses
     on the <strong><u>dirty</u></strong> side of everything.
  
  
-3) <em>Passion</em> PATHOS describes sin’s depraved cravings or repulsive    <strong><u>drives</u></strong>.
+3) * Passion*  PATHOS describes sin’s depraved cravings or repulsive    <strong><u>drives</u></strong>.
  
  
-    4) <em>Evil desires</em> is a phrase that designates totally impure
+    4) * Evil desires*  is a phrase that designates totally impure
     cravings or a hunger for that which is <strong><u>vile</u></strong>.
  
  
-5) <em>Greed</em> PLEONEXIA is a compound word in Greek that means have-    <strong><u>more</u></strong>.
+5) * Greed*  PLEONEXIA is a compound word in Greek that means have-    <strong><u>more</u></strong>.
  
  
-6) <em>Greed, which is idolatry</em>… God equates    <strong><u>greed</u></strong> with idolatry.
+6) * Greed, which is idolatry* … God equates    <strong><u>greed</u></strong> with idolatry.
  
  
-a) In reality <em>idolatry</em> is the worship of an    <strong><u>object</u></strong> for personal advantage.
+a) In reality * idolatry*  is the worship of an    <strong><u>object</u></strong> for personal advantage.
  
  
-    b) In <em>idolatry</em> you give service (burn a candle, make a promise,
+    b) In * idolatry*  you give service (burn a candle, make a promise,
 give something, etc.) to an object of worship (image, statue or    <strong><u>icon</u></strong>) if you can get something in return
     (advantage, promotion, health or wealth) from that object.
  
@@ -6246,7 +6246,7 @@ should put to death the deeds of the body. If you do so, you will    <strong><u>
     judgment on those who are characterized by such sins.
  
  
-1) Colossians 3:6a – <strong><em>Because of these things</em></strong>    <em> the wrath of God is coming… </em>The unsaved, the ones who give
+1) Colossians 3:6a – <strong>* Because of these things* </strong>    *  the wrath of God is coming… * The unsaved, the ones who give
     themselves over to these kinds of sins, will <strong><u>not</u></strong>
     escape the coming wrath of God. Romans 1:18, 1 Corinthians 6:9-11,
     Galatians 5:21
@@ -6255,20 +6255,20 @@ should put to death the deeds of the body. If you do so, you will    <strong><u>
  
  
     2) Colossians 3:6b –
-    <em>
+    * 
 Because of these things the wrath of God is coming        <strong>on the sons of disobedience</strong>
-    </em>
-    . The phrase <em>on the <strong><u>sons</u></strong> of disobedience</em>
-    is key to understanding Paul’s warning. The <em>sons of disobedience</em>
+    * 
+    . The phrase * on the <strong><u>sons</u></strong> of disobedience* 
+    is key to understanding Paul’s warning. The * sons of disobedience* 
     refers to the unsaved world and not to saints. Ephesians 2:1-3
  
  
-a) Thankfully Scriptures testify that God’s children are guaranteed to    <strong><u>escape</u></strong> <em>the coming wrath </em>of God. John 3:36;
+a) Thankfully Scriptures testify that God’s children are guaranteed to    <strong><u>escape</u></strong> * the coming wrath * of God. John 3:36;
     Romans 5:9; 1 Thessalonians 1:10, 5:9
  
  
     b) Paul was saying that as saints we should <strong><u>never</u></strong>
-    be found involved in the sins that the <em>sons of disobedience</em>, the
+    be found involved in the sins that the * sons of disobedience* , the
     unsaved of the world who will be judged under the wrath of God, do as a way
     of life. Romans 6:20-23, Ephesians 5:6
     <br/>
@@ -6282,14 +6282,14 @@ a) Thankfully Scriptures testify that God’s children are guaranteed to    <str
     describe who we are now.
  
  
-    1) Colossians 3:7a – <em>And</em> <em>in them </em>(among those who commit
-    such evil sins)<em> you also once <strong><u>walked</u></strong></em>… We
+    1) Colossians 3:7a – * And*  * in them * (among those who commit
+    such evil sins)*  you also once <strong><u>walked</u></strong>* … We
     understand that these evils were part of our old manner of life.
     <br/>
     <br/>
  
  
-2) Colossians 3:7b –    <em>When you were <strong><u>living</u></strong> in them…</em> There was
+2) Colossians 3:7b –    * When you were <strong><u>living</u></strong> in them…*  There was
     once a time when we lived as part of those who commit such sins. Those
     kinds of sins are part of our old way of life and not who we are today.
     Romans 6:20-23
@@ -6303,7 +6303,7 @@ a) Thankfully Scriptures testify that God’s children are guaranteed to    <str
 Paul would not have taught the Colossians to put such things to    <strong><u>death</u></strong>.
  
  
-c) In the very next verse Paul went on to insist that we<strong><u>put</u></strong> such things away from our lives.    <em>But now you also, put them all aside</em>… Colossians 2:8a
+c) In the very next verse Paul went on to insist that we<strong><u>put</u></strong> such things away from our lives.    * But now you also, put them all aside* … Colossians 2:8a
  
  
     5. Colossians 3:8-9a – Paul moved on to
@@ -6311,40 +6311,40 @@ c) In the very next verse Paul went on to insist that we<strong><u>put</u></stro
     lives. We can call these evils temperament sins.
  
  
-a. Colossians 3:8a –     <em>But now you also, put them all aside</em>… Although these sins all
+a. Colossians 3:8a –     * But now you also, put them all aside* … Although these sins all
     belonged to our former manner of life, we tend to allow them as “acceptable
 sins” in our lives and churches. Paul said to put them off and lay them    <strong><u>aside</u></strong>, together with all the sins listed in verse
     five.
  
  
-b. Colossians 3:8b –    <strong> <em><u>Wrath</u></em></strong>, ORGE in Greek, describes the
+b. Colossians 3:8b –    <strong> * <u>Wrath</u>* </strong>, ORGE in Greek, describes the
     smoldering, long-term emotion that eventually boils forth in viciousness.
     <br/>
     <br/>
  
  
-c. Colossians 3:8c –    <strong> <em><u>Anger</u></em></strong> THUMOS is an impulsive emotion. It
+c. Colossians 3:8c –    <strong> * <u>Anger</u>* </strong> THUMOS is an impulsive emotion. It
     is a red-hot ember ready to burst into flames at the slightest provocation.
     Provocation does not produce this anger, but beware, it will reveal it.
  
  
-d. Colossians 3:8d –    <strong> <em><u>Malice</u></em></strong> KAKIA is a spiteful attitude that
+d. Colossians 3:8d –    <strong> * <u>Malice</u>* </strong> KAKIA is a spiteful attitude that
     has as its goal vengeance and harm to others.
  
  
-e. Colossians 3:8e –    <strong> <em><u>Slander</u></em></strong> BLASPHEMIA is making false
+e. Colossians 3:8e –    <strong> * <u>Slander</u>* </strong> BLASPHEMIA is making false
     charges that misrepresent and defame others. It is to verbally destroy
     someone.
     <br/>
     <br/>
  
  
-f. Colossians 3:8f –    <strong> <em><u>Abusive</u> speech</em></strong> AISCHROLOGIA includes
+f. Colossians 3:8f –    <strong> * <u>Abusive</u> speech* </strong> AISCHROLOGIA includes
     everything from words spoken in poor taste to obscenity and dirty language.
     Ephesians 5:4
  
  
-    g. Colossians 3:9a – <strong><em>Do not <u>lie</u></em></strong> ME
+    g. Colossians 3:9a – <strong>* Do not <u>lie</u>* </strong> ME
     PSEUDOMAI is the final statement in this list of sins and is
     self-explanatory.
     <br/>
@@ -6370,8 +6370,8 @@ f. Colossians 3:8f –    <strong> <em><u>Abusive</u> speech</em></strong> AISCH
     the <strong><u>sins</u></strong> of the flesh. 
  
  
-a. Colossians 3:9b –    <em>Since you <strong><u>laid</u></strong> aside the old self</em>… We
-    already <em>laid aside</em> the <em>old self</em> at the day of our
+a. Colossians 3:9b –    * Since you <strong><u>laid</u></strong> aside the old self* … We
+    already * laid aside*  the * old self*  at the day of our
     salvation. Romans 6:6a
  
  
@@ -6388,51 +6388,51 @@ a. Colossians 3:9b –    <em>Since you <strong><u>laid</u></strong> aside the o
     Ephesians 1:1-3
  
  
-    4) Then at the moment you were born again, you <em>laid aside</em> the old
+    4) Then at the moment you were born again, you * laid aside*  the old
 self. Your old rejected self was crucified with Christ and ceased to    <strong><u>exist</u></strong>. Romans 6:6a
  
  
-a) Here <em>laid aside</em> APEKDUOMAI means to completely    <strong><u>undress</u></strong>. APO means away from and EKDYO means
+a) Here * laid aside*  APEKDUOMAI means to completely    <strong><u>undress</u></strong>. APO means away from and EKDYO means
     stripped off. It is likely that Paul coined this word since it is not found
     in Greek writings previous to the time of Paul.
  
  
-    b) The word <em>laid aside</em> APEKDUOMAI in this verse is different from
-    the word <strong><em><u>put</u></em></strong><em> off</em> APOTITHEMI used
+    b) The word * laid aside*  APEKDUOMAI in this verse is different from
+    the word <strong>* <u>put</u>* </strong>*  off*  APOTITHEMI used
     in verse 8.
     <br/>
     <br/>
  
  
-c) In verse 8 we were told to <em>put off</em> specific sins but the word    <em>laid aside</em> here is not saying to put off the <em>old self</em>.
+c) In verse 8 we were told to * put off*  specific sins but the word    * laid aside*  here is not saying to put off the * old self* .
 Quite the contrary. It is stating this as an already accomplished    <strong><u>fact</u></strong>.
  
  
-    d) The verb <em>laid aside</em> is an aorist, middle voice participle
+    d) The verb * laid aside*  is an aorist, middle voice participle
     implying something that was already <strong><u>done</u></strong> at a point
     in time in the past and was done to you not by you.
     <br/>
     <br/>
  
  
-    e) The <strong><u>force</u></strong> of the word <em>laid aside</em>
+    e) The <strong><u>force</u></strong> of the word * laid aside* 
     describes the fact that at salvation God ripped off of you your old
-    identity in Adam (the <em>old self or old man</em>) and therefore that
-    person no longer exists. Your <em>old self</em> was crucified with Christ.
+    identity in Adam (the * old self or old man* ) and therefore that
+    person no longer exists. Your * old self*  was crucified with Christ.
     Romans 6:6
     <br/>
     <br/>
  
  
-    5) God stripped you of your <em>old self</em> so that your sin nature (also
-    called the <em>flesh</em> or <em>indwelling sin</em>) might be rendered
+    5) God stripped you of your * old self*  so that your sin nature (also
+    called the * flesh*  or * indwelling sin* ) might be rendered
     powerless <strong><u>over</u></strong> you. Romans 6:6b, 7:17-20
     <br/>
     <br/>
  
  
-b. Colossians 3:9c – Since you have    <em>laid aside the old self with its evil practices</em> (your old identity
-    in Adam no longer exists)<em>,</em> you should never go back and indulge
+b. Colossians 3:9c – Since you have    * laid aside the old self with its evil practices*  (your old identity
+    in Adam no longer exists)* ,*  you should never go back and indulge
     the <strong><u>flesh</u></strong> with either its sins of immorality or
     sins of temperament. Colossians 3:5, 3:8-9a
  
@@ -6444,31 +6444,31 @@ b. Colossians 3:9c – Since you have    <em>laid aside the old self with its ev
  
  
     2) Colossians 3:5 –
-    <em>
+    * 
 Therefore consider the members of your earthly body as        <strong><u>dead</u></strong>
-    </em>
+    * 
     …
  
  
-    3) Romans 6:2b – <em>How shall we who died to sin still live in it</em>?
+    3) Romans 6:2b – * How shall we who died to sin still live in it* ?
  
  
-    c. Colossians 3:10a – <em>And have put on the new self</em>… You have
-already been clothed with the <strong><em><u>new</u></em></strong>    <em> self.</em>
+    c. Colossians 3:10a – * And have put on the new self* … You have
+already been clothed with the <strong>* <u>new</u>* </strong>    *  self.* 
  
  
-1) Your <em>new self</em> is the new person you are    <strong><u>now</u></strong> in Christ. As far as God is concerned, the old
-    you is dead and gone. You have a new identity. You have <em>put on</em>
-    ENDUO <em>the new self</em>. Romans 5:12-18
+1) Your * new self*  is the new person you are    <strong><u>now</u></strong> in Christ. As far as God is concerned, the old
+    you is dead and gone. You have a new identity. You have * put on* 
+    ENDUO * the new self* . Romans 5:12-18
  
  
-    a) <em>Put on</em> ENDUO means to <strong><u>dress</u></strong> in. It is a
+    a) * Put on*  ENDUO means to <strong><u>dress</u></strong> in. It is a
     compound word in Greek that literally means to sink into.
  
  
     b) Here the word is an aorist, middle voice participle that shows that this
     action already happened to you at a point in time in the past and it was
-done to you not by you. At the point of salvation,    <strong><u>God</u></strong> dressed you in your <em>new self</em>.
+done to you not by you. At the point of salvation,    <strong><u>God</u></strong> dressed you in your * new self* .
  
  
     2) Your new self came into being the <strong><u>moment</u></strong> you
@@ -6484,34 +6484,34 @@ Through death you left Adam’s lineage and by    <strong><u>rebirth</u></strong
     1:3, 23
  
  
-    5) Since you have <em>put on the new self</em>, don’t indulge in the sins
+    5) Since you have * put on the new self* , don’t indulge in the sins
     of the <strong><u>flesh</u></strong>.
  
  
     d. Colossians 3:10b –
-    <em>
+    * 
 Put on the new self        <strong>who is being renewed to a true knowledge</strong>
-    </em>
-… Your <em>new self</em>, or the new you, is designed by    <strong><u>God</u></strong> to be refreshed and renewed on an ongoing
+    * 
+… Your * new self* , or the new you, is designed by    <strong><u>God</u></strong> to be refreshed and renewed on an ongoing
     basis. Romans 7:22, 2 Corinthians 4:16, Ephesians 4:22-24
  
  
-1) <em>…who is being renewed</em>… This renewal is something    <strong><u>God</u></strong> Himself does to us, and it is something He
+1) * …who is being renewed* … This renewal is something    <strong><u>God</u></strong> Himself does to us, and it is something He
     desires to do on a continual and ongoing basis.
  
  
-    2) <em>…to a true knowledge… </em>This literally reads “which is being
-renewed <strong><em>in</em></strong>    <em> <strong><u>true</u></strong> knowledge</em>.” In other words, as you
+    2) * …to a true knowledge… * This literally reads “which is being
+renewed <strong>* in* </strong>    *  <strong><u>true</u></strong> knowledge* .” In other words, as you
     personally fellowship with Christ, you will daily be renewed in your
     beliefs. 2 Corinthians 3:18; 2 Peter 1:3, 3:18
  
  
-e. Colossians 10c –    <em>…according to the image of the One who created him</em>. God planned
+e. Colossians 10c –    * …according to the image of the One who created him* . God planned
     for you to live the Christian life by needing consistent, ongoing, personal
     and intimate fellowship with <strong><u>Jesus</u></strong> Christ.
  
  
-1) God designed the <em>new self</em> to constantly    <strong><u>be</u></strong> refreshed and renewed into Christ’s likeness. As
+1) God designed the * new self*  to constantly    <strong><u>be</u></strong> refreshed and renewed into Christ’s likeness. As
     this happens, you grow. 2 Corinthians 3:18
  
  
@@ -6528,28 +6528,28 @@ e. Colossians 10c –    <em>…according to the image of the One who created hi
     3:1-4
  
  
-f. Colossians 3:11a –    <em>A <strong><u>renewal</u></strong> in which there is no distinction</em>
+f. Colossians 3:11a –    * A <strong><u>renewal</u></strong> in which there is no distinction* 
     … Lest we become self-righteous, Paul gave a list of diversities to show
-that there really are no differences among those who are    <strong><em>in Christ</em></strong>.
+that there really are no differences among those who are    <strong>* in Christ* </strong>.
  
  
-    1) <em>There is no distinction between Greek and Jew…</em>
+    1) * There is no distinction between Greek and Jew…* 
  
  
     a) The Greeks were the <strong><u>social</u></strong> elite class in New
-    Testament times. Paul said that what mattered was the <em>new self</em> not
+    Testament times. Paul said that what mattered was the * new self*  not
     pop-culture.
  
  
     b) The Jews were the <strong><u>religious</u></strong> elite of the day.
     Jewish people felt they were the only people in the world who could know
-    God. Paul said that what mattered was the <em>new self</em> not some
+    God. Paul said that what mattered was the * new self*  not some
     religious affiliation.
     <br/>
     <br/>
  
  
-    2) <em>There is no distinction between… circumcised and uncircumcised</em>…
+    2) * There is no distinction between… circumcised and uncircumcised* …
     Galatians 6:15
  
  
@@ -6563,11 +6563,11 @@ b) Uncircumcised was a term of disparity given by circumcised Jews to the    <st
     <br/>
  
  
-    3) <em>There is no distinction between… Barbarian, Scythian</em>…
+    3) * There is no distinction between… Barbarian, Scythian* …
  
  
 a) Barbarian was a term for anyone who did not    <strong><u>speak</u></strong> the Greek language. With time barbarian
-acquired the connotation of brutish or rude. What mattered was the    <em>new self</em> not education or language.
+acquired the connotation of brutish or rude. What mattered was the    * new self*  not education or language.
  
  
     b) Scythians were a <strong><u>group</u></strong> described by the Greek
@@ -6580,22 +6580,22 @@ c) Herodotus said that the Scythians drank the    <strong><u>blood</u></strong> 
     drinking-cups.
  
  
-    d) Paul would say that what mattered was the <em>new self</em>, not being a
+    d) Paul would say that what mattered was the * new self* , not being a
     cut above the <strong><u>savages</u></strong> of this world.
     <br/>
     <br/>
  
  
     4)
-    <em>
+    * 
         There is no distinction between… <strong>slave</strong> and freeman
-    </em>
+    * 
     …
  
  
     a) Slaves were the <strong><u>lowest</u></strong> class of humans in Greek
     society. Having this lot in life held great scorn. Paul stated that what
-    mattered was the <em>new man</em> and not status or lack thereof.
+    mattered was the * new man*  and not status or lack thereof.
  
  
     b) In Greek society, freemen were considered to be real people, and they
@@ -6609,25 +6609,25 @@ alone enjoyed rights. Paul would say that neither    <strong><u>liberty</u></str
  
  
     a) God sees only <strong><u>two</u></strong> kinds of people in this world:
-    those who are <em>in Christ</em> and those who are still <em>in Adam</em>.
+    those who are * in Christ*  and those who are still * in Adam* .
  
  
     b) Within the body of Christ, we are all on <strong><u>level</u></strong>
     ground. Galatians 3:26-28
  
  
-    g. Colossians 3:11b – <em>But Christ is all, and in all</em>. Christ, as
+    g. Colossians 3:11b – * But Christ is all, and in all* . Christ, as
     sovereign God, is adequate for <strong><u>all</u></strong> our needs.
  
  
-    1) <em>Christ <strong>is all</strong>…</em> Christ is everything to us, and
+    1) * Christ <strong>is all</strong>…*  Christ is everything to us, and
     He is all that really matters. Because of Christ, God defines us as His
     children. My level of education, my race, my social status or economic
-    state is not what defines me. Christ defines <em>who</em> I am. Christ
+    state is not what defines me. Christ defines * who*  I am. Christ
     alone <strong><u>gives</u></strong> me significance.
  
  
-2) <em>Christ is all <strong>and in all</strong>…</em> Christ lives in our    <strong><u>lives</u></strong>. He lives IN every believer without
+2) * Christ is all <strong>and in all</strong>…*  Christ lives in our    <strong><u>lives</u></strong>. He lives IN every believer without
     exception, no matter what our particular condition or status. Christ being
     in us gives us true significance. Ephesians 4:4-5, Colossians 3:3
     <br/>
@@ -6647,7 +6647,7 @@ alone enjoyed rights. Paul would say that neither    <strong><u>liberty</u></str
     </strong>
  
  
-    1. <em>So, as those who have been <strong>chosen</strong> of God</em>… As a
+    1. * So, as those who have been <strong>chosen</strong> of God* … As a
     believer in Christ you are a <strong><u>chosen</u></strong> EKLEKTOS
     (called out one) of God. By means of the Gospel, God called you forth from
     the vile world system in which you were mired down and ensnared. Colossians
@@ -6663,20 +6663,20 @@ alone enjoyed rights. Paul would say that neither    <strong><u>liberty</u></str
     God’s Elect One. Ephesians 1:4, 1 Peter 1:20
  
  
-    2. <em>So, as those who have been chosen of God, <strong>holy</strong></em>
+    2. * So, as those who have been chosen of God, <strong>holy</strong>* 
     … You are one of God’s <strong><u>holy</u></strong> ones. God already
     considers you to be set apart from the profane and godless world system. 1
     Corinthians 1:30, 1 Peter 2:9
  
  
     3.
-    <em>
+    * 
 So, as those who have been chosen of God, holy and        <strong>beloved</strong>
-    </em>
+    * 
 … Whether or not you accept it as a fact, you are a dearly    <strong><u>loved</u></strong> one of God. Romans 8:31-39, 1 John 3:1-2
  
  
-    a. <em>Beloved</em> is a perfect tense participle emphasizing that not only
+    a. * Beloved*  is a perfect tense participle emphasizing that not only
     were you loved in the <strong><u>past</u></strong>, you continue on in that
     state in the present. God’s love for you is unconditional and unending.
  
@@ -6690,32 +6690,32 @@ So, as those who have been chosen of God, holy and        <strong>beloved</stron
     </strong>
  
  
-    1. Colossians 3:12b –<strong> <em>Put on</em></strong>
-    <em>
+    1. Colossians 3:12b –<strong> * Put on* </strong>
+    * 
         a <strong><u>heart</u></strong> of compassion, kindness, humility,
         gentleness and patience
-    </em>
-    … <em>Put on</em> ENDUO is a middle voice aorist imperative that literally
+    * 
+    … * Put on*  ENDUO is a middle voice aorist imperative that literally
     means sink into. Figuratively we might say, “Let yourself be clothed in
     these.”
  
  
-    a. <em>A heart of <strong><u>mercy</u></strong></em> conveys compassion,
+    a. * A heart of <strong><u>mercy</u></strong>*  conveys compassion,
     tenderhearted love, pity and tender mercy toward others.
  
  
-    b. <em>Kindness</em> refers to <strong><u>kind</u></strong> feelings,
+    b. * Kindness*  refers to <strong><u>kind</u></strong> feelings,
     honest goodness and nonthreatening goodwill toward everyone in your world.
  
  
-    c. <em>Humility</em> speaks of a <strong><u>deep</u></strong> sense of your
+    c. * Humility*  speaks of a <strong><u>deep</u></strong> sense of your
     own personal smallness, being truly modest as opposed to being arrogant.
  
  
-d. <em>Gentleness</em> conveys a mild-mannered disposition and    <strong><u>quiet</u></strong> strength.
+d. * Gentleness*  conveys a mild-mannered disposition and    <strong><u>quiet</u></strong> strength.
  
  
-e. <em>Patience</em> speaks of discipline, the    <strong><u>power</u></strong> to undergo any suffering, a reluctance to
+e. * Patience*  speaks of discipline, the    <strong><u>power</u></strong> to undergo any suffering, a reluctance to
     avenge wrongs and endurance.
  
  
@@ -6741,27 +6741,27 @@ f. It is God who provides these graces as a true    <strong><u>garment</u></stro
     <br/>
  
  
-2. Colossians 3:13a – <strong><em><u>Bearing</u></em></strong>    <em> with one another</em>… As God’s chosen, holy and loved ones, we are
+2. Colossians 3:13a – <strong>* <u>Bearing</u>* </strong>    *  with one another* … As God’s chosen, holy and loved ones, we are
     also told to <strong>put up with</strong> one another.
     <br/>
     <br/>
  
  
     3. Colossians 3:13b –
-    <em>
+    * 
         And forgiving one another just as the Lord forgave you, so also should
         you.
-    </em>
+    * 
 As God’s chosen, holy and loved ones, we are to <strong>put on</strong>,    <strong>put up with</strong> and <strong>put <u>right</u></strong> all
     relationships. Matthew 18:21-22
  
  
-a. <em>And forgiving one another… </em>Unforgiveness is such a    <strong><u>killer</u></strong>. Unforgiveness leads to bitterness and
+a. * And forgiving one another… * Unforgiveness is such a    <strong><u>killer</u></strong>. Unforgiveness leads to bitterness and
     bitterness leads to more unforgiveness. It’s a cancer that will eat you
     alive. Hebrews 12:15
  
  
-b.    <em>Just as the Lord forgave you, <strong>so also should you</strong>.</em>
+b.    * Just as the Lord forgave you, <strong>so also should you</strong>.* 
     We are told to forgive in the <strong><u>same</u></strong> way that Christ
     has forgiven us. Luke 5:20-24; Romans 5:8, 17-19
  
@@ -6784,22 +6784,22 @@ b.    <em>Just as the Lord forgave you, <strong>so also should you</strong>.</em
  
  
     4. Colossians 3:14 – Finally and
-    <em>
+    * 
         beyond all these things put on <strong><u>love</u></strong>, which is
         the perfect bond of unity
-    </em>
+    * 
     . As God’s chosen, holy and loved ones, we are to put on, over and above
     all else, the mantle of love. Galatians 5:22a
  
  
     a. Above all else, you should be wearing love as an overcoat.
-    <em>
+    * 
 But now faith, hope, love, abide these three; but the        <strong>greatest</strong> of these is <strong><u>love</u></strong>.
-    </em>
+    * 
     1 Corinthians 13:13
  
  
-b. Love is the superglue, the    <em>perfect <strong><u>bond</u></strong> of unity</em>, that holds us all
+b. Love is the superglue, the    * perfect <strong><u>bond</u></strong> of unity* , that holds us all
     together as believers. Unity is love in action.
     <br/>
     <br/>
@@ -6807,17 +6807,17 @@ b. Love is the superglue, the    <em>perfect <strong><u>bond</u></strong> of uni
  
     <strong>C. </strong>
     <strong>
-        Colossians 3:15-17 – <em>Let</em> some important things happen to the
+        Colossians 3:15-17 – * Let*  some important things happen to the
         new you
     </strong>
      
  
  
-1. Colossians 3:15 – The first “let” command:    <strong><em>Let</em></strong>
-    <em>
+1. Colossians 3:15 – The first “let” command:    <strong>* Let* </strong>
+    * 
         the peace of Christ <strong><u>rule</u></strong> in your hearts, to
         which indeed you were called in one body; and be thankful.
-    </em>
+    * 
  
  
 a. Colossians 3:15a – The command is to    <strong><u>let</u></strong> peace rule. Don’t stop or disallow peace from
@@ -6846,7 +6846,7 @@ are to permit it to happen. This is not a directive to    <strong><u>create</u><
  
     b. Colossians 3:15b – Paul said for the Colossian
     believers to <strong><u>allow</u></strong> the peace that Christ gives to
-    be a mediator BRABEUO (<em>rule</em>) in their hearts.
+    be a mediator BRABEUO (* rule* ) in their hearts.
  
  
     1) We all know from personal experience that peace is not natural to the
@@ -6855,29 +6855,29 @@ are to permit it to happen. This is not a directive to    <strong><u>create</u><
  
  
     a) The prophet Jeremiah exclaimed, “The human heart is
-    <em>
+    * 
         …more <strong><u>deceitful</u></strong> than all else and is
         desperately sick; who can understand it
-    </em>
+    * 
     ?” Jeremiah 17:9
  
  
     b) Psalm 139:23 –
-    <em>
+    * 
 Search me, O God, and know my heart; try me and know my        <strong><u>anxious</u></strong> thoughts; and see if there be any
         hurtful way in me, and lead me in the way everlasting.”
         <br/>
         <br/>
-    </em>
+    * 
  
  
     2) God has made Christ’s <strong><u>peace</u></strong> available to us.
     Jesus told His disciples, “
-    <em>
+    * 
         Peace I leave with you; My peace I give to you; not as the world gives
         do I give to you. Do not let your heart be troubled, nor let it be
         fearful
-    </em>
+    * 
     .” John 14:27
  
  
@@ -6886,10 +6886,10 @@ Search me, O God, and know my heart; try me and know my        <strong><u>anxiou
  
  
     b) Isaiah 26:3 –
-    <em>
+    * 
         The steadfast of mind You will keep in perfect peace, because he trusts
         in <strong><u>You</u></strong>
-    </em>
+    * 
     .
  
  
@@ -6904,9 +6904,9 @@ prevailed on the believers in Colossae to allow Christ’s    <strong><u>peace</
  
  
     c. Colossians 3:15b –
-    <em>
+    * 
 Let the peace of Christ rule…to which indeed you were called in        <strong><u>one</u></strong> body
-    </em>
+    * 
     .
  
  
@@ -6940,9 +6940,9 @@ Let the peace of Christ rule…to which indeed you were called in        <strong
  
  
     d. Colossians 3:15d –
-    <em>
+    * 
         Let the peace of Christ rule …and be <strong><u>thankful</u></strong>
-    </em>
+    * 
     . Psalm 100:4
  
  
@@ -6960,14 +6960,14 @@ Let the peace of Christ rule…to which indeed you were called in        <strong
  
  
     a) To counteract despair, Paul encouraged the Thessalonians saying, “
-    <em>
+    * 
         In everything <strong><u>give</u></strong> thanks for this is God’s
         will for you in Christ Jesus
-    </em>
+    * 
     .” 1 Thessalonians 5:18
  
  
-    b) Giving thanks <em>in everything</em> includes verbal appreciation for
+    b) Giving thanks * in everything*  includes verbal appreciation for
     the good, the bad and the <strong><u>ugly</u></strong>. Romans 5:3
     <br/>
     <br/>
@@ -6975,20 +6975,20 @@ Let the peace of Christ rule…to which indeed you were called in        <strong
  
  
     2. Colossians 3:16-17 – Paul’s second “let” command:
-    <em>
+    * 
         Let the <strong><u>Word</u></strong> of Christ richly dwell within you
-    </em>
+    * 
     …
  
  
     a. Colossians 3:16a –
-    <em>
+    * 
         Let the Word of Christ richly <strong><u>dwell</u></strong> within you
-    </em>
+    * 
     is an opulent statement.
  
  
-    1) The word <strong><em><u>dwell</u></em></strong> ENOIKEO is a compound
+    1) The word <strong>* <u>dwell</u>* </strong> ENOIKEO is a compound
     word made up of EN meaning in and OIKEO to dwell. It means to inhabit as in
     a residence. Figuratively it communicated the idea of influencing by
     proximity.
@@ -7010,10 +7010,10 @@ academic way; He wants them to have a profound    <strong><u>impact</u></strong>
  
  
     c)
-    <em>
+    * 
         Let the Word of Christ richly <strong><u>dwell</u></strong> within you…
-    </em>
-can essentially be understood as a synonym for    <em>be filled with the Spirit</em> as seen in a comparison of Ephesians
+    * 
+can essentially be understood as a synonym for    * be filled with the Spirit*  as seen in a comparison of Ephesians
     5:18-21 with Colossians 3:16-17.
     <br/>
     <br/>
@@ -7029,7 +7029,7 @@ b. Colossians 3:16c-17 – When the Word of Christ    <strong><u>richly</u></str
     at ease, residing in your life. Ephesians 3:17, 5:18-21
  
  
-1) Colossians 3:16c –    <em>With all wisdom <strong><u>teaching</u></strong> one another…</em>
+1) Colossians 3:16c –    * With all wisdom <strong><u>teaching</u></strong> one another…* 
     First of all, having the Word of Christ at home in your heart will
 revolutionize your way of teaching.    <strong>Your message will be changed</strong>. Proverbs 10:31-32, 31:26
  
@@ -7042,7 +7042,7 @@ b) Teaching is typically a positive method of communicating the    <strong><u>tr
     your life gives you a constructive message. Proverbs 2:6, 1 Timothy 4:13
  
  
-2) Colossians 3:16b  – …    <em>with all wisdom… <strong>admonishing</strong> one another</em>.
+2) Colossians 3:16b  – …    * with all wisdom… <strong>admonishing</strong> one another* .
 Secondly, with the Word of Christ presiding over your life,<strong>your way of correcting others will <u>change</u></strong>    <strong>dramatically</strong>.
  
  
@@ -7077,16 +7077,16 @@ Christ dominant in your life<strong> will change your tune</strong>. Your    <st
     worship music would most aptly fit this category.
  
  
-    d) You’ll be <em>singing …<strong><u>with</u></strong> thankfulness</em>.
+    d) You’ll be * singing …<strong><u>with</u></strong> thankfulness* .
     The starting point of true worship is gratitude.
  
  
-    e) You’ll be <em>singing …in your <strong><u>hearts</u></strong></em> and
+    e) You’ll be * singing …in your <strong><u>hearts</u></strong>*  and
     not just with your lips. True worship flows out of the heart. Letting the
     Word of Christ reside in your heart will produce genuine worship.
  
  
-    f) You’ll be <em>singing …to God</em>. With the Word of Christ prevailing
+    f) You’ll be * singing …to God* . With the Word of Christ prevailing
     in your heart you will not be singing for the guy in the next pew. You’ll
     be singing for God’s sake, God’s <strong><u>ears</u></strong> and God’s
     glory alone.
@@ -7099,12 +7099,12 @@ Christ dominant in your life<strong> will change your tune</strong>. Your    <st
     labor for <strong><u>God’s</u></strong> glory and not man’s hollow praise.
  
  
-    a) When he said, “<em>Whatever you do in word or deed</em>,” Paul was
+    a) When he said, “* Whatever you do in word or deed* ,” Paul was
 emphasizing how the Word of Christ in our hearts will influence    <strong><u>all</u></strong> our <strong>actions</strong>. This shows that
     compartmentalization or Sunday Christianity is pure hypocrisy.
  
  
-b) When Paul said <strong><em><u>do</u></em></strong>    <em> all in the name of the Lord Jesus</em>… he showed the true motivation
+b) When Paul said <strong>* <u>do</u>* </strong>    *  all in the name of the Lord Jesus* … he showed the true motivation
 we are to have all day, every day. This emphasizes how our    <strong>attitudes</strong> can be transformed as the Word of Christ
     saturates our thinking.
  
@@ -7114,14 +7114,14 @@ we are to have all day, every day. This emphasizes how our    <strong>attitudes<
     spirituality to look good on the outside, but their motivations are wrong.
  
  
-(ii) When we simply go through the motions of the Christian life instead of<em>doing all in the name of the Lord Jesus</em> in order to    <strong><u>please</u></strong> God, we deceive others, but even more
+(ii) When we simply go through the motions of the Christian life instead of* doing all in the name of the Lord Jesus*  in order to    <strong><u>please</u></strong> God, we deceive others, but even more
     disastrously we cheat ourselves of the real purpose of life, bringing glory
     to God. 2 Peter 1:8-11
     <br/>
     <br/>
  
  
-5) Colossians 3:17b – Fifthly, as the Word of Christ permeates our thinking<strong>our appreciation for the <u>Lord</u> will change</strong>.    <em>Giving thanks through Him to God the Father</em>. We’ll develop an
+5) Colossians 3:17b – Fifthly, as the Word of Christ permeates our thinking<strong>our appreciation for the <u>Lord</u> will change</strong>.    * Giving thanks through Him to God the Father* . We’ll develop an
     attitude of gratitude.
     <br/>
     <br/>
@@ -7157,7 +7157,7 @@ b. Conversely, in Christianity, although the husband is the    <strong><u>head</
     2. Colossians 3:18 – Teaching for the Christian wife
  
  
-a. Colossians 3:18a – <strong><em>Wives</em></strong>    <em>, be subject to your husbands</em>… The biblical standard is for wives
+a. Colossians 3:18a – <strong>* Wives* </strong>    * , be subject to your husbands* … The biblical standard is for wives
     to voluntarily subject themselves to their <strong><u>own</u></strong>
     husbands.
  
@@ -7171,7 +7171,7 @@ a. Colossians 3:18a – <strong><em>Wives</em></strong>    <em>, be subject to y
     a straightforward, uncomplicated manner. We do well to follow his example.
  
  
-b. Colossians 3:18b – <em>Wives<strong> be subject</strong></em>…<em>Be subject</em> HUPOTASSO a compound word that was standard    <strong><u>military</u></strong> jargon. There is no weakness conveyed in
+b. Colossians 3:18b – * Wives<strong> be subject</strong>* …* Be subject*  HUPOTASSO a compound word that was standard    <strong><u>military</u></strong> jargon. There is no weakness conveyed in
     this expression at all.
  
  
@@ -7207,7 +7207,7 @@ b. Colossians 3:18b – <em>Wives<strong> be subject</strong></em>…<em>Be subj
     <br/>
  
  
-c. Colossians 3:18c –    <em>Wives, be subject <strong>to your husbands</strong></em>… This verse is
+c. Colossians 3:18c –    * Wives, be subject <strong>to your husbands</strong>* … This verse is
     not teaching that women should submit to <strong><u>men</u></strong> in
     general.
  
@@ -7227,13 +7227,13 @@ c. Colossians 3:18c –    <em>Wives, be subject <strong>to your husbands</stron
  
  
     d. Colossians 3:18a – An important understanding of a believing wife’s duty
-is incrusted in the statement    <em>as is fitting <strong><u>in</u></strong> the Lord</em>.
+is incrusted in the statement    * as is fitting <strong><u>in</u></strong> the Lord* .
  
  
-1) <em>As is fitting</em> ANEKO means appropriate or    <strong><u>suitable</u></strong>.
+1) * As is fitting*  ANEKO means appropriate or    <strong><u>suitable</u></strong>.
  
  
-2) <em>In the </em>Lord speaks of the daughter of God, who because she    <strong><u>belongs</u></strong> to the Lord, submits to her own husband.
+2) * In the * Lord speaks of the daughter of God, who because she    <strong><u>belongs</u></strong> to the Lord, submits to her own husband.
     Indeed, in like manner, Christ, her supreme example, willingly subjected
     Himself to the Father.
  
@@ -7244,9 +7244,9 @@ is incrusted in the statement    <em>as is fitting <strong><u>in</u></strong> th
  
     b) In Titus 2:5, speaking of the wife of the deacon, Paul further
     illustrated this:
-    <em>
+    * 
 Being subject to their <strong><u>own</u></strong> husbands,        <strong>so that the word of God will not be dishonored</strong>
-    </em>
+    * 
     .
  
  
@@ -7263,38 +7263,38 @@ Being subject to their <strong><u>own</u></strong> husbands,        <strong>so t
     wives from the book of Ephesians.
  
  
-a. Ephesians 5:22 – Here again we see the biblical rule:    <em>Wives be subject to your <strong><u>own</u> </strong>husbands</em>.
+a. Ephesians 5:22 – Here again we see the biblical rule:    * Wives be subject to your <strong><u>own</u> </strong>husbands* .
  
  
     1) Here the command is essentially the same as in Colossians 3:18, with the
-addition of the <strong><u>concept</u></strong>    <em>to your <strong>own</strong> husbands</em>.
+addition of the <strong><u>concept</u></strong>    * to your <strong>own</strong> husbands* .
  
  
     2) This is not a command for wives to submit to men in general, but rather
-specifically and very exclusively to their    <strong><em><u>own</u></em></strong><em> husbands</em>.
+specifically and very exclusively to their    <strong>* <u>own</u>* </strong>*  husbands* .
     <br/>
     <br/>
     <br/>
  
  
     b. Ephesians 5:33 – Paul further expanded on the command of submission to
-include <strong><u>respect</u></strong> saying, “    <em>And the wife must see to it that she respects her husband.</em>”
+include <strong><u>respect</u></strong> saying, “    * And the wife must see to it that she respects her husband.* ”
  
  
     1) Proverbs 12:4 says, “
-    <em>
+    * 
         An excellent wife is the crown of her husband, but she who shames [him]
         is like rottenness in his bones.
-    </em>
+    * 
     ” A woman who disrespects her husband <strong><u>shames</u></strong> him.
     This should never be true of the believing wife.
  
  
     2) Proverbs 31:12 and 23 state, “
-    <em>
+    * 
         She does him good and not evil all the days of her life …her husband is
         known in the gates, when he sits among the elders of the land.
-    </em>
+    * 
     ” When a believing wife respects her husband, he will be confident and hold
     his head <strong><u>high</u></strong> in everyday circumstances.
     <br/>
@@ -7308,8 +7308,8 @@ include <strong><u>respect</u></strong> saying, “    <em>And the wife must see
  
  
     c. In Ephesians 5:23a Paul went on to give an overarching principle for
-    submission: <em>For the husband is the <strong><u>head</u></strong> </em>
-    (God-ordained authority)<em> of the wife</em>.
+    submission: * For the husband is the <strong><u>head</u></strong> * 
+    (God-ordained authority)*  of the wife* .
  
  
     1) To be the <strong><u>head</u></strong> implies not only leadership but
@@ -7335,10 +7335,10 @@ this will be an ongoing challenge to your walk of    <strong><u>faith</u></stron
  
  
     e. Ephesians 5:24 –
-    <em>
+    * 
         But as the church is subject to Christ, so also the wives ought to be
         to their husbands in everything
-    </em>
+    * 
     . The believing wife should be subject to her own husband in every way just
     as the <strong><u>church</u></strong> is called to be subject to her head,
     Jesus Christ, in all things.
@@ -7352,15 +7352,15 @@ this will be an ongoing challenge to your walk of    <strong><u>faith</u></stron
  
  
     a. 1 Peter 3:1a –
-    <em>
+    * 
         In the <strong><u>same</u></strong> way, you wives, be submissive…
-    </em>
-    The phrase <em>in the same way</em> refers back to Christ’s example of
+    * 
+    The phrase * in the same way*  refers back to Christ’s example of
     resolute perseverance in the midst of the difficulties of life and death. 1
     Peter 2:21-25
  
  
-b. 1 Peter 3:1a – The instruction is: …    <em>wives, be submissive to your own husbands</em>.
+b. 1 Peter 3:1a – The instruction is: …    * wives, be submissive to your own husbands* .
  
  
     1) Peter and Paul had the <strong><u>same</u></strong> basic command for
@@ -7377,29 +7377,29 @@ b. 1 Peter 3:1a – The instruction is: …    <em>wives, be submissive to your 
  
  
     1) 1 Peter 3:1b-2 –
-    <em>
+    * 
         So that even if any of them are disobedient to the word, they may be
         won without a word…
-    </em>
+    * 
     Peter encouraged submission from believing wives because he concluded that
-even a disobedient-to-the-Word husband could be    <strong><em><u>won</u></em></strong> over for God without the wife even
+even a disobedient-to-the-Word husband could be    <strong>* <u>won</u>* </strong> over for God without the wife even
     opening her mouth.
  
  
     2) 1 Peter 3:2 –
-    <em>
+    * 
         …by the behavior of their wives, as they observe your chaste and
         respectful behavior.
-    </em>
+    * 
     The quiet manner of a wife speaks <strong><u>volumes</u></strong>. Sadly
     some believing women speak through every way except through a quiet spirit.
  
  
     d. 1 Peter 3:3-4a – Speaking to wives Peter added, “
-    <em>
+    * 
         Your adornment must not be merely external…but let it be the hidden
 person of the heart, with the imperishable quality of a        <strong><u>gentle</u></strong> and quiet spirit.
-    </em>
+    * 
     ”
  
  
@@ -7411,10 +7411,10 @@ person of the heart, with the imperishable quality of a        <strong><u>gentle
  
  
     2) Proverbs 31:30 states that c
-    <em>
+    * 
         harm is deceitful and beauty is <strong><u>vain</u></strong>, [but] a
         woman who fears the LORD, she shall be praised.
-    </em>
+    * 
  
  
     a) When a <strong><u>woman</u></strong> allows outward appearance to
@@ -7422,7 +7422,7 @@ person of the heart, with the imperishable quality of a        <strong><u>gentle
  
  
     b) The women of the world operate under the illusion that maintaining
-external beauty is central to happiness. The truth is that<strong><u>true</u></strong> attractiveness comes from the internal beauty    <em>of a gentle and quite spirit</em>.
+external beauty is central to happiness. The truth is that<strong><u>true</u></strong> attractiveness comes from the internal beauty    * of a gentle and quite spirit* .
     <br/>
     <br/>
  
@@ -7442,24 +7442,24 @@ external beauty is central to happiness. The truth is that<strong><u>true</u></s
  
     1) 1 Peter 3:4b – God esteems as <strong><u>priceless</u></strong> a
     believing wife’s gentle and quiet spirit.
-    <em>
+    * 
 With the imperishable quality of a gentle and quiet spirit,        <strong>which is precious in the sight of God</strong>.
-    </em>
+    * 
  
  
     2) 1 Peter 3:5 – In the Old Testament, the matriarchs of the faith adorned
     themselves by willing subjection to their husbands.
-    <em>
+    * 
         For in this way in former times the holy women also, who hoped in God,
         used to <strong><u>adorn</u></strong> themselves, being submissive to
         their own husbands;
         <br/>
         <br/>
-    </em>
+    * 
  
  
     3) 1 Peter 3:6a – Sarah’s faith in God exceeded her fears and allowed her
-to <strong><u>submit</u></strong> to Abraham.    <em> Just as Sarah obeyed Abraham, calling him lord.</em>
+to <strong><u>submit</u></strong> to Abraham.    *  Just as Sarah obeyed Abraham, calling him lord.* 
  
  
     a) It is a <strong><u>fearful</u></strong> thing to submit to another human
@@ -7469,16 +7469,16 @@ to <strong><u>submit</u></strong> to Abraham.    <em> Just as Sarah obeyed Abrah
     b) <strong><u>Sarah</u></strong> was an amazing example of a woman who
     struggled with her faith, i.e., laughing at God’s promise, while in the
     same moment meekly honoring her very imperfect husband, Abraham, referring
-    to him as, “<em>My lord</em>.” Genesis 18:12-15
+    to him as, “* My lord* .” Genesis 18:12-15
  
  
     4) 1 Peter 3:6b – Just as Abraham is the father of all who believe God’s
     Word, Sarah is the mother of all wives who submit to their husbands without
     being vanquished by fear.
-    <em>
+    * 
         And you have become her <strong><u>children</u></strong> if you do what
         is right without being frightened by any fear.
-    </em>
+    * 
  
  
     a) Since this command to submit to your husband is God’s command, you can
@@ -7506,18 +7506,18 @@ to <strong><u>submit</u></strong> to Abraham.    <em> Just as Sarah obeyed Abrah
 1. Colossians 3:19 – Paul gave two commands to the Christian    <strong><u>husband</u></strong>.
  
  
-a. Colossians 3:19a – Paul's first command was    <strong><u>positive</u></strong>: <em>Husbands love your wives</em>.
+a. Colossians 3:19a – Paul's first command was    <strong><u>positive</u></strong>: * Husbands love your wives* .
  
  
 1) The command for husbands to love their wives is clear and    <strong><u>simple</u></strong>.
  
  
     2) Proverbs 30:21-23 makes a powerful statement:
-    <em>
+    * 
         Under three things the earth trembles, under four it cannot bear up: a
 servant who becomes king, a fool who is full of food,        <strong>an <u>unloved</u> woman who is married</strong>, and a
         maidservant who displaces her mistress.
-    </em>
+    * 
  
  
     3) The biblical command to love one’s wife was extraordinary in a world
@@ -7545,14 +7545,14 @@ b) Biblical love is a dynamic pursuit in which a husband actively    <strong><u>
  
  
     b. Colossians 3:19b – Paul's <strong><u>second</u></strong> command was
-negative in nature, addressing a grave problem in many men:    <em>Husbands</em>…<em>do not be embittered against them</em>.
+negative in nature, addressing a grave problem in many men:    * Husbands* …* do not be embittered against them* .
  
  
     1) Simply put, the Christian husband must <strong><u>never</u></strong>
     treat his wife unkindly.
  
  
-2) The word translated <em>embittered</em> PIKRAINO speaks of bitterness,    <strong><u>anger</u></strong>, exasperation or irritability.
+2) The word translated * embittered*  PIKRAINO speaks of bitterness,    <strong><u>anger</u></strong>, exasperation or irritability.
  
  
     a) Interestingly, this command is in the passive voice indicating that you
@@ -7593,29 +7593,29 @@ a. The need for a believing husband to love his wife is repeated    <strong><u>t
     with this duty?
  
  
-1) Ephesians 5:25 –    <em>Husbands, <strong><u>love</u> your wives</strong></em>…
+1) Ephesians 5:25 –    * Husbands, <strong><u>love</u> your wives</strong>* …
  
  
     2) Ephesians 5:28 –
-    <em>
+    * 
         Husbands ought also to <strong><u>love</u> their own wives</strong> as
         their own bodies
-    </em>
+    * 
     …
  
  
     3) Ephesians 5:33 –
-    <em>
+    * 
 Each individual among you also is to        <strong><u>love</u> his own wife</strong> even as himself
-    </em>
+    * 
     …
  
  
     b. Ephesians 5:25-27 – The <strong>first</strong> supporting principle Paul
-gave in this passage for how a husband is to love his wife is …    <em>just as Christ loved the <strong><u>church</u></strong></em>.
+gave in this passage for how a husband is to love his wife is …    * just as Christ loved the <strong><u>church</u></strong>* .
  
  
-1) Ephesians 5:25a –    <em>Just as Christ loved the <strong><u>church</u></strong>…</em> Christ
+1) Ephesians 5:25a –    * Just as Christ loved the <strong><u>church</u></strong>…*  Christ
     loves the church based on grace, therefore His love for the church is
     unconditional and eternal.
  
@@ -7635,7 +7635,7 @@ gave in this passage for how a husband is to love his wife is …    <em>just as
     <br/>
  
  
-2) Ephesians 5:25b – <em>Just as Christ</em>…    <em>gave himself up for her</em>. Christ’s love for the church is a
+2) Ephesians 5:25b – * Just as Christ* …    * gave himself up for her* . Christ’s love for the church is a
     completely <strong><u>self</u></strong>-sacrificing love. Christ gave His
     life for her.
  
@@ -7658,10 +7658,10 @@ gave in this passage for how a husband is to love his wife is …    <em>just as
  
     3) Ephesians 5:26 – What is Christ’s purpose in unconditionally loving His
     church?
-    <em>
+    * 
         So that He might sanctify her, having cleansed her by the washing of
         water with the <strong><u>word</u></strong>
-    </em>
+    * 
     .
  
  
@@ -7677,10 +7677,10 @@ gave in this passage for how a husband is to love his wife is …    <em>just as
  
     4) Ephesians 5:27 – What is Christ’s ultimate goal in his love for the
     Church?
-    <em>
+    * 
 That He might present to Himself the church in all her        <strong><u>glory</u></strong>, having no spot or wrinkle or any such
         thing, but that she would be holy and blameless.
-    </em>
+    * 
  
  
     a) A Christian husband should <strong><u>teach</u></strong> his household
@@ -7700,15 +7700,15 @@ b) This kind of goal requires investment and the same selfless    <strong><u>lov
  
  
     c. Ephesians 5:28-33 – The <strong>second</strong> supporting principle
-Paul gave for how husbands are to love their wives is    <strong><em>as their own <u>bodies</u></em></strong>.
+Paul gave for how husbands are to love their wives is    <strong>* as their own <u>bodies</u>* </strong>.
  
  
     1) Ephesians 5:28 – We know that one of the top priorities of every human
     is to take <strong><u>care</u></strong> of his or her own body.
-    <em>
+    * 
         So husbands ought also to love their own wives as their own bodies. He
         who loves his own wife loves himself
-    </em>
+    * 
     .
  
  
@@ -7724,10 +7724,10 @@ and protect your wife as spontaneously and with as much    <strong><u>urgency</u
  
     2) Ephesians 5:29 – We know that Christ loves the church deeply
     and even now lives for her good.
-    <em>
+    * 
         For no one ever <strong><u>hated</u></strong> his own flesh, but
         nourishes and cherishes it, just as Christ also does the church.
-    </em>
+    * 
     John 13:34, Ephesians 5:2
  
  
@@ -7742,7 +7742,7 @@ and protect your wife as spontaneously and with as much    <strong><u>urgency</u
     men are to care for their wives.
  
  
-3) Ephesians 5:30 – Christ loves us individually …    <em>because we are members of His <strong><u>body</u></strong></em>.
+3) Ephesians 5:30 – Christ loves us individually …    * because we are members of His <strong><u>body</u></strong>* .
  
  
 a) Just like a person nourishes and cherishes his    <strong><u>own</u></strong> body, Christ nourishes and cherishes us because
@@ -7755,27 +7755,27 @@ applies to a Christian marriage and a husband’s responsibility to    <strong><
  
     4) Ephesians 5:31 – Paul quoted the key verse in the Bible that initially
     established the institution of marriage.
-    <em>
+    * 
         For this reason a man shall leave his father and mother and shall be
 joined to his wife, and        <strong>the two shall become one <u>flesh</u></strong>
-    </em>
+    * 
     . Genesis 2:24
  
  
     5) Ephesians 5:32 – The mystery of two different people melding together to
     form <strong><u>one</u></strong> body through marriage is a great mystery.
-    <em>
+    * 
         This mystery is great; but I am speaking with reference to Christ and
         the church.
-    </em>
+    * 
  
  
     6) Ephesians 5:33 – Although it is a great mystery, the fact that a husband
     and wife are one flesh is the reason a husband should love his wife to the
     same degree he loves himself.
-    <em>
+    * 
 Nevertheless, each individual among you also is to love his        <strong><u>own</u></strong> wife even as himself
-    </em>
+    * 
     .
  
  
@@ -7796,7 +7796,7 @@ b) For this reason he should love his wife as    <strong><u>himself</u></strong>
  
  
     a. 1 Peter 3:7a – Peter's first <strong><u>counsel</u></strong> was that
-    husbands should<em> …live with [their] wives in an understanding way</em>.
+    husbands should*  …live with [their] wives in an understanding way* .
  
  
     1) Peter did not say you must fully understand your wife. He said to live
@@ -7833,10 +7833,10 @@ b) Although a husband should actively study his wife by engaged    <strong><u>li
  
  
     b. 1 Peter 3:7b – Some people have misunderstood Peter’s next advice to
-    husbands. <strong><em><u>Live</u></em></strong>
-    <em>
+    husbands. <strong>* <u>Live</u>* </strong>
+    * 
 with your wives in an understanding way,        <strong>as with someone weaker, since she is a woman</strong>
-    </em>
+    * 
     . Let’s interpret this statement.
  
  
@@ -7860,15 +7860,15 @@ with your wives in an understanding way,        <strong>as with someone weaker, 
     <br/>
  
  
-c. 1 Peter 3:7c – Peter concludes his teaching to husbands saying, “    <strong><em>Show her honor</em></strong>
-    <em>
+c. 1 Peter 3:7c – Peter concludes his teaching to husbands saying, “    <strong>* Show her honor* </strong>
+    * 
         as a fellow <strong><u>heir</u></strong> of the grace of life, so that
         your prayers will not be hindered.
-    </em>
+    * 
     ”
  
  
-    1) <em>Show her <strong><u>honor</u></strong>…</em> reiterates our
+    1) * Show her <strong><u>honor</u></strong>…*  reiterates our
     interpretation of the fact that Peter was not teaching some Christian form
     of chauvinism. The wife is to be honored by the believing husband. Among
     religions, only biblical Christianity provides dignified respect for wives.
@@ -7877,16 +7877,16 @@ c. 1 Peter 3:7c – Peter concludes his teaching to husbands saying, “    <str
     <br/>
  
  
-    2) <em>As a <strong>fellow <u>heir</u></strong> of the grace of life…</em>
+    2) * As a <strong>fellow <u>heir</u></strong> of the grace of life…* 
     A believing wife is a fellow heiress of God’s grace.
  
  
 a) In God’s economy of grace, male and female are    <strong><u>equal</u></strong>. The ground at the foot of the cross is
     level.
-    <em>
+    * 
         There is neither Jew nor Greek, slave nor free, male nor female, for
         you are all one in Christ Jesus.
-    </em>
+    * 
     Galatians 3:28
  
  
@@ -7902,8 +7902,8 @@ a) In God’s economy of grace, male and female are    <strong><u>equal</u></str
     <br/>
  
  
-    3) <em>So that [their] prayers may not be <strong>hindered</strong>…</em>
-Peter’s directive to the Christian husband to treat his wife as    <em>a fellow heir of the <strong><u>grace</u></strong> of life… </em>was
+    3) * So that [their] prayers may not be <strong>hindered</strong>…* 
+Peter’s directive to the Christian husband to treat his wife as    * a fellow heir of the <strong><u>grace</u></strong> of life… * was
     very pragmatic, so that they could have an effective and unencumbered
     prayer life.
  
@@ -7925,23 +7925,23 @@ b) Sadly, when a believing husband does not give proper    <strong><u>honor</u><
     </strong>
  
  
-    1. Colossians 3:20 – <em>Children, be obedient to your parents…</em> To
+    1. Colossians 3:20 – * Children, be obedient to your parents…*  To
     believing children Paul gave <strong><u>one</u></strong> small command with
     huge implications. Proverbs 6:20
  
  
-a. Colossians 3:20a – <em>Children, be obedient… </em>The word    <em>obedient</em> HUPAKOUO is a compound word made up of HUPO meaning under
+a. Colossians 3:20a – * Children, be obedient… * The word    * obedient*  HUPAKOUO is a compound word made up of HUPO meaning under
     and AKOUO meaning to <strong><u>hear</u></strong> or listen.
  
  
-1) In a literal sense, <em>obey</em> HUPAKOUO means to    <strong><u>listen</u></strong> with submission or to hear in subjection.
+1) In a literal sense, * obey*  HUPAKOUO means to    <strong><u>listen</u></strong> with submission or to hear in subjection.
  
  
 2) By implication, this command means Christian children are to    <strong><u>heed</u></strong> their parents’ commands as being under their
     authority.
  
  
-3) The command to obey is <strong><u>straightforward</u></strong>. The verb    <em>obey</em> is in the present tense, active voice and imperative mood.
+3) The command to obey is <strong><u>straightforward</u></strong>. The verb    * obey*  is in the present tense, active voice and imperative mood.
  
  
 a) The present tense means that as a believing child you should obey    <strong><u>right</u></strong> away, not wait till you feel like it. As the
@@ -7952,21 +7952,21 @@ a) The present tense means that as a believing child you should obey    <strong>
     be a proactive response.
  
  
-c) Lastly the imperative mood makes <em>obey</em> a    <strong><u>direct</u></strong> command from God, commanding the Christian
+c) Lastly the imperative mood makes * obey*  a    <strong><u>direct</u></strong> command from God, commanding the Christian
     child to positively comply.
  
  
-b. Colossians 3:20 –    <em>Children, be obedient <strong>to your parents</strong></em>. Notice the
-    plural word <em>parents</em> here. The command is for the believing child
+b. Colossians 3:20 –    * Children, be obedient <strong>to your parents</strong>* . Notice the
+    plural word * parents*  here. The command is for the believing child
     to be obedient to <strong><u>both</u></strong> parents. Obviously broken
     homes make this difficult, but the spirit of this verse can be honored as
     the believing child trusts God.
  
  
     c. Colossians 3:20 –
-    <em>
+    * 
 Children, be obedient to your parents        <strong>in <u>all</u> things</strong>…
-    </em>
+    * 
  
  
     1) Children are to obey their parents in <strong><u>every</u></strong> way.
@@ -7997,12 +7997,12 @@ b) For a parent to ask a child to sin is rare, but it    <strong><u>might</u></s
  
  
     d. Colossians 3:20 –
-    <em>
+    * 
 Children, be obedient to your parents in all things,        <strong>for this is well-pleasing to the <u>Lord</u></strong>.
-    </em>
+    * 
  
  
-    1) The word <em>well-pleasing</em> EUARESTOS means fully agreeable. This
+    1) The word * well-pleasing*  EUARESTOS means fully agreeable. This
     means that God <strong><u>loves</u></strong> it when Christian children
     obey their moms and dads.
  
@@ -8034,16 +8034,16 @@ Children, be obedient to your parents in all things,        <strong>for this is 
  
  
     a. Ephesians 6:1 – Paul essentially gave the <strong><u>same</u></strong>
-command to the Ephesian children as to the Colossians when he said, “    <em>Children, obey your parents in the Lord, for this is right.</em>”
+command to the Ephesian children as to the Colossians when he said, “    * Children, obey your parents in the Lord, for this is right.* ”
  
  
-    1) Ephesians 6:1a – <em>Children obey… </em>Here we hear the same basic
+    1) Ephesians 6:1a – * Children obey… * Here we hear the same basic
     command to <strong><u>obey</u></strong> your parents restated.
     <br/>
     <br/>
  
  
-2) Ephesians 6:1b – Paul added the phrase, “    <em>In the <strong><u>Lord</u></strong></em>,” to his command. This phrase
+2) Ephesians 6:1b – Paul added the phrase, “    * In the <strong><u>Lord</u></strong>* ,” to his command. This phrase
     sometimes creates questions.
  
  
@@ -8053,16 +8053,16 @@ command to the Ephesian children as to the Colossians when he said, “    <em>C
     must obey them regardless of their spiritual state.
  
  
-    b) So what does <em>in the Lord</em> mean? <em>In the Lord</em> and as a
-believer are synonymous statements. <em>In the Lord</em> means because you    <strong><u>belong</u></strong> to God.
+    b) So what does * in the Lord*  mean? * In the Lord*  and as a
+believer are synonymous statements. * In the Lord*  means because you    <strong><u>belong</u></strong> to God.
  
  
     c) Of course all children ought to obey their parents, but Paul and the
     apostles never sought to <strong><u>correct</u></strong> the unsaved
-multitudes. Their focus was always specifically on those who are    <em>in the Lord</em>, speaking specifically of believers.
+multitudes. Their focus was always specifically on those who are    * in the Lord* , speaking specifically of believers.
  
  
-3) Ephesians 6:1c – We have the phrase …    <em>for this is <strong><u>right</u></strong></em>.
+3) Ephesians 6:1c – We have the phrase …    * for this is <strong><u>right</u></strong>* .
  
  
 a) Simply put, this means that this is your Christian    <strong><u>duty</u></strong>, or the right thing to do. God’s will for the
@@ -8082,10 +8082,10 @@ a) Simply put, this means that this is your Christian    <strong><u>duty</u></st
  
  
     b. Ephesians 6:2 – Paul reiterated his command to Christian children by
-    quoting from the Ten Commandments. <strong><em><u>Honor</u></em></strong>
-    <em>
+    quoting from the Ten Commandments. <strong>* <u>Honor</u>* </strong>
+    * 
         your father and mother, which is the first commandment with a promise
-    </em>
+    * 
     .
  
  
@@ -8100,9 +8100,9 @@ a) Simply put, this means that this is your Christian    <strong><u>duty</u></st
  
     c. Ephesians 6:3 – The command to honor our parents comes with a blessed
     promise:
-    <em>
+    * 
 So that it may be well with you, and that you may        <strong><u>live</u></strong> long on the earth.
-    </em>
+    * 
  
  
     1) In the wisdom of God, He not only gave children the commands to obey and
@@ -8127,10 +8127,10 @@ a) Simply put, situations like these are exceptions, not the    <strong><u>gener
  
  
     b) Proverbs 3:1-2 –
-    <em>
+    * 
 My son, do not forget my teaching, but let your heart        <strong><u>keep</u></strong> my commandments; for length of days and
         years of life and peace they will add to you.
-    </em>
+    * 
  
  
     c) Your decision by faith to honor your parents will set you on a path to
@@ -8161,16 +8161,16 @@ b) Young people, in your relationship with your parents you need to    <strong><
  
  
     1. Colossians 3:21 –
-    <em>
+    * 
 Fathers, do not exasperate your children, so that they will not        <strong><u>lose</u></strong> heart
-    </em>
+    * 
     . Paul commanded parents not to create <strong>discouragement</strong> in
     their children.
  
  
-    a. Colossians 3:21a – <strong><em><u>Fathers</u></em></strong> (plural) can
+    a. Colossians 3:21a – <strong>* <u>Fathers</u>* </strong> (plural) can
     legitimately be translated either dads or parents. In Hebrews 11:23 the
-    same Greek word is translated <em>parents</em>.
+    same Greek word is translated * parents* .
  
  
 1) From the context here in Colossians, it appears God is speaking to    <strong><u>parents</u></strong>, both moms and dads, and not to dads (men)
@@ -8184,22 +8184,22 @@ Fathers, do not exasperate your children, so that they will not        <strong><
     <br/>
  
  
-b. Colossians 3:21b –<em>Do not exasperate your <strong><u>children</u></strong></em>.    <em>Exasperate</em> ERETHIZO is a present tense command coupled with the
+b. Colossians 3:21b –* Do not exasperate your <strong><u>children</u></strong>* .    * Exasperate*  ERETHIZO is a present tense command coupled with the
     negation ME and means to stop provoking right away. The use of the present
     tense command leads us to the conclusion that provocation by parents was
     probably a current ongoing issue.
  
  
-1) The word <em>exasperate</em> ERETHIZO literally means to arouse,    <strong><u>incite</u></strong>, challenge, kindle, or to make passionate.
+1) The word * exasperate*  ERETHIZO literally means to arouse,    <strong><u>incite</u></strong>, challenge, kindle, or to make passionate.
     It can be either positive (2 Cor. 9:2) or negative. Colossians 3:21
  
  
-    2) Here <em>exasperate</em> ERETHIZO connotes the idea of passion by a
+    2) Here * exasperate*  ERETHIZO connotes the idea of passion by a
     direct challenge. For a <strong><u>parent</u></strong> to deliberately
     impassion a son or daughter is an affront to this command.
  
  
-3) The following examples are all possible translations of the word<em>exasperate</em> used in the negative sense; be    <strong><u>hard</u></strong> on, embitter, hassle, harass, irritate, make
+3) The following examples are all possible translations of the word* exasperate*  used in the negative sense; be    <strong><u>hard</u></strong> on, embitter, hassle, harass, irritate, make
     resentful, nag, pick at, pick on, poke fun at, provoke, ride, or vex, to
     name just a few.
  
@@ -8213,10 +8213,10 @@ b. Colossians 3:21b –<em>Do not exasperate your <strong><u>children</u></stron
  
  
     c. Colossians 3:21c – Why not nag or ride our children in our parenting
-    style? So <em>that they may not <strong><u>lose</u></strong> heart</em>.
+    style? So * that they may not <strong><u>lose</u></strong> heart* .
  
  
-    1) <em>Lose heart</em> ATHUMOS comes from A negation and THUMOS fierceness
+    1) * Lose heart*  ATHUMOS comes from A negation and THUMOS fierceness
     or <strong><u>passion</u></strong>. Through provocation, parents can
     literally take the fire (life) right out of their children.
  
@@ -8245,11 +8245,11 @@ sending them down the dark slippery slope of    <strong><u>despair</u></strong>.
 from the book of Ephesians. Don’t be the <strong><u>cause</u></strong> of    <strong>rebellion</strong> in your child.
  
  
-    a. Ephesians 6:4a – <em>And, fathers </em>PATER … Like the
+    a. Ephesians 6:4a – * And, fathers * PATER … Like the
 instruction on parenting in Colossians, this command is for both    <strong><u>parents</u></strong> equally.
  
  
-b. Ephesians 6:4b –    <em>Do not provoke your children to <strong><u>wrath</u></strong></em>.
+b. Ephesians 6:4b –    * Do not provoke your children to <strong><u>wrath</u></strong>* .
     Similar to the command from Colossians 3:21 to not awaken passion in your
     child, this command is against spurring your child on towards resentful
     anger (rebellion).
@@ -8271,7 +8271,7 @@ children. The fact that God gave this command is proof enough that parents    <s
     can both be possible results of errors in parenting.
  
  
-    4) The word PARORGIZETE translated <em>provoke to wrath</em> holds the
+    4) The word PARORGIZETE translated * provoke to wrath*  holds the
     connotation of irritating someone to the <strong><u>point</u></strong> of
     anger, or inciting to anger.
     <br/>
@@ -8286,7 +8286,7 @@ provoke your child to either despair or rebellion. So what    <strong><u>are</u>
     3. Ephesians 6:4 – Be the guiding influence in your child’s world. How?
  
  
-a. Ephesians 6:4c –    <em>But bring them <strong><u>up</u></strong></em>. Parents are challenged
+a. Ephesians 6:4c –    * But bring them <strong><u>up</u></strong>* . Parents are challenged
     to rear their children with purpose.
  
  
@@ -8295,23 +8295,23 @@ a. Ephesians 6:4c –    <em>But bring them <strong><u>up</u></strong></em>. Par
     God for your child’s rearing.
  
  
-    2) The word for <em>bring up</em> EKTREPHO means to nourish. It actually
+    2) The word for * bring up*  EKTREPHO means to nourish. It actually
     comes from a word that means fatten, <strong><u>nurse</u></strong>, support
-    or feed. To <em>bring up</em> or <em>nourish</em> is a primal concept
+    or feed. To * bring up*  or * nourish*  is a primal concept
     inherent in love. 1 Thessalonians 2:7-8
  
  
-    3) In Ephesians 5:29 <em>nourish</em> EKTREPHO is used to describe the
+    3) In Ephesians 5:29 * nourish*  EKTREPHO is used to describe the
     devoutness of men in <strong><u>caring</u></strong> for and protecting
     their own bodies.
     <br/>
     <br/>
  
  
-b. Ephesians 6:4d – <em>But <strong><u>bring</u></strong> them up</em>    <strong><em>in the discipline</em></strong><em>…</em>
+b. Ephesians 6:4d – * But <strong><u>bring</u></strong> them up*     <strong>* in the discipline* </strong>* …* 
  
  
-1) The word <em>discipline</em> PAIDEIA means    <strong><u>training</u></strong>, especially as it relates to children.
+1) The word * discipline*  PAIDEIA means    <strong><u>training</u></strong>, especially as it relates to children.
     Hebrews 12:5, 7, 11
  
  
@@ -8333,18 +8333,18 @@ b. Ephesians 6:4d – <em>But <strong><u>bring</u></strong> them up</em>    <str
  
  
     c. Ephesians 6:4e –
-    <em>
+    * 
         But bring them up in the discipline <strong>and instruction</strong>
-    </em>
+    * 
     …
  
  
-    1) The word <em>instruction</em> NOUTHESIA literally means to place
+    1) The word * instruction*  NOUTHESIA literally means to place
     instruction into the <strong><u>mind</u></strong>. NUOS means mind and
     TITHEMI means to put or to place.
  
  
-2) <em>Instruction</em> is typically the positive or informative    <strong><u>side</u></strong> of training whereas <em>discipline</em>
+2) * Instruction*  is typically the positive or informative    <strong><u>side</u></strong> of training whereas * discipline* 
     carries negative or corrective overtones. Instruction is more proactive
     whereas discipline is more reactive.
  
@@ -8371,9 +8371,9 @@ the things of the Lord unless they can do it in a fun way. This is    <strong><u
  
  
     d. Ephesians 6:4f –
-    <em>
+    * 
 But bring them up in the discipline and instruction        <strong>of the <u>Lord</u></strong>.
-    </em>
+    * 
  
  
     1) Don’t lose the focus of Paul’s instruction here. Paul’s focus was not on
@@ -8402,7 +8402,7 @@ b) You will only be successful as a parent to the degree you walk by    <strong>
     </strong>
  
  
-    1. Colossians 3:22a – <em>Slaves</em>… The word <em>slave</em> DOULOS is
+    1. Colossians 3:22a – * Slaves* … The word * slave*  DOULOS is
     the word for bondman or <strong><u>servant</u></strong>.
     <br/>
     <br/>
@@ -8432,12 +8432,12 @@ b. Even though legalized slavery is generally a thing of the<strong><u>past</u><
     <br/>
  
  
-2. Colossians 3:22b – <em>Obey</em> is the standard    <strong><u>word</u></strong> we find in this passage for slaves, and for
+2. Colossians 3:22b – * Obey*  is the standard    <strong><u>word</u></strong> we find in this passage for slaves, and for
     our application, Christian employees. The believing employee’s mission is
-    to <em>obey [his or her] master.</em>
+    to * obey [his or her] master.* 
  
  
-    a. The word <em>obey</em> HUPAKOUO means HUPO under and AKOUO hear.
+    a. The word * obey*  HUPAKOUO means HUPO under and AKOUO hear.
     Biblical obedience means <strong><u>listen</u></strong> as a subordinate.
  
  
@@ -8455,15 +8455,15 @@ c. This is a present, active, imperative command emphasizing the    <strong><u>n
  
  
     a.
-    <em>
+    * 
         Obey<strong> <u>your</u></strong> <strong>masters</strong> on earth
-    </em>
+    * 
     … The believing slave needed to obey his or her earthly master. Today we
     would encourage believing employees to faithfully comply with the
     instructions of their secular employers.
  
  
-    b. <em>Obey your masters <strong>on <u>earth</u></strong></em>… The Holy
+    b. * Obey your masters <strong>on <u>earth</u></strong>* … The Holy
     Spirit probably added this to forbid Christian slaves from
     self-emancipating based on the teaching that they had no master but God. 1
     Corinthians 7:20-24
@@ -8474,39 +8474,39 @@ c. This is a present, active, imperative command emphasizing the    <strong><u>n
     should be a part of every Christian’s work ethic.
  
  
-a. Colossians 3:22d – Be dependable:    <em>Obey… in <strong><u>all</u></strong> things</em>… A Christian worker
+a. Colossians 3:22d – Be dependable:    * Obey… in <strong><u>all</u></strong> things* … A Christian worker
     should obey always and in all ways. As we work, we are to willingly
     complete whatever tasks we are given, unless in doing so we would be
     breaking one of God’s laws.
  
  
-    b. Colossians 3:22e – Be diligent: <em>Obey… not with external service</em>
+    b. Colossians 3:22e – Be diligent: * Obey… not with external service* 
     … We are not to merely give an external <strong><u>show</u></strong>. God
     wants us to work diligently from a good attitude.
  
  
-c. Colossians 3:22f – Be faithful:<em>Obey…not as those who merely please men</em>… We are not to    <strong><u>just</u></strong> perform as people-pleasers.
+c. Colossians 3:22f – Be faithful:* Obey…not as those who merely please men* … We are not to    <strong><u>just</u></strong> perform as people-pleasers.
     <br/>
     <br/>
  
  
-d. Colossians 3:22g – Be honest:    <em>Obey… with sincerity of <strong><u>heart</u></strong></em>… The word
-    translated <em>sincerity</em> means uncomplicated. This directive counters
+d. Colossians 3:22g – Be honest:    * Obey… with sincerity of <strong><u>heart</u></strong>* … The word
+    translated * sincerity*  means uncomplicated. This directive counters
     duplicity of heart and communicates the need for honesty and integrity on
     the job.
  
  
-e. Colossians 3:22h – Be reverent:    <em>Obey… <strong><u>fearing</u></strong> the Lord</em>… We are to obey
+e. Colossians 3:22h – Be reverent:    * Obey… <strong><u>fearing</u></strong> the Lord* … We are to obey
     based on a reverent fear of God. One day soon we are going to answer to
     God, not man, about how we lived our secular lives.
  
  
-f. Colossians 3:23a – Be enthusiastic:    <em>Obey… <strong><u>heartily</u></strong>…</em> Whatever your task, work
-    at it enthusiastically from the heart. <em>Heartily</em> has the thought of
+f. Colossians 3:23a – Be enthusiastic:    * Obey… <strong><u>heartily</u></strong>…*  Whatever your task, work
+    at it enthusiastically from the heart. * Heartily*  has the thought of
     working both cheerfully and hard at the same time.
  
  
-g. Colossians 3:23b – Be principled:    <em>Obey… as for the <strong><u>Lord</u></strong> and not for men.</em> In
+g. Colossians 3:23b – Be principled:    * Obey… as for the <strong><u>Lord</u></strong> and not for men.*  In
     reality, as a believer, no matter what you do, you should be doing your
     responsibilities to please and honor God not people.
     <br/>
@@ -8520,10 +8520,10 @@ g. Colossians 3:23b – Be principled:    <em>Obey… as for the <strong><u>Lord
  
     a. Colossians 3:24a – Employees should give faithful obedience based on
     knowledge of their <strong><u>future</u></strong>.
-    <em>
+    * 
         Obey knowing that from the Lord you <strong>will receive</strong> the
         reward of the inheritance
-    </em>
+    * 
     .
  
  
@@ -8549,7 +8549,7 @@ g. Colossians 3:23b – Be principled:    <em>Obey… as for the <strong><u>Lord
  
  
     b. Colossians 3:24b – Employees should give faithful obedience based on
-knowing whom they are really serving. <em>Obey </em>…<em>knowing</em>…    <em>it is the Lord Christ whom you serve</em>… It is always so important to
+knowing whom they are really serving. * Obey * …* knowing* …    * it is the Lord Christ whom you serve* … It is always so important to
     understand that even in the secular realm we ultimately serve Christ and
     not <strong><u>man</u></strong>.
  
@@ -8559,28 +8559,28 @@ knowing whom they are really serving. <em>Obey </em>…<em>knowing</em>…    <e
     ensure proper motivation in day-to-day labor.
  
  
-    2) The name for Jesus given here is <em>LORD CHRIST</em>. This is the only
+    2) The name for Jesus given here is * LORD CHRIST* . This is the only
     place this title for Jesus appears in the Bible and it is significant
     because a slave could fully identify with that phrase. As believers, slaves
-    had a <strong><u>new</u></strong> master. The <em>Lord Christ</em> was
+    had a <strong><u>new</u></strong> master. The * Lord Christ*  was
     their true master now that they were believers.
     <br/>
     <br/>
  
  
     c. Colossians 3:25 – Employees should give faithful obedience based on
-    knowledge of the immediate consequences. <em>Obey …</em>knowing…
-    <em>
+    knowledge of the immediate consequences. * Obey …* knowing…
+    * 
         he who does <strong><u>wrong</u></strong> will receive the consequences
         of the wrong which he has done, and that without partiality.
-    </em>
+    * 
  
  
     1) Colossians 3:25a –
-    <em>
+    * 
         He who does wrong will receive the consequences of the wrong which he
         has done…
-    </em>
+    * 
 Notice Paul did not say that a slave would receive consequences    <strong>from the <u>Lord</u></strong>. That is not what this is saying.
  
  
@@ -8595,7 +8595,7 @@ Notice Paul did not say that a slave would receive consequences    <strong>from 
     <br/>
  
  
-    2) Colossians 3:25b – <em>And that without partiality. </em>Paul gave a
+    2) Colossians 3:25b – * And that without partiality. * Paul gave a
     very pragmatic reason to be faithful in service. Just as a slave master
     would not let a slave off the <strong><u>hook</u></strong> for being
     unfaithful just because he was a Christian, your employer is not likely let
@@ -8625,13 +8625,13 @@ Notice Paul did not say that a slave would receive consequences    <strong>from 
     are over today’s workforce.
  
  
-    a. Originally <em>master</em> or <em>lord</em> KURIOS was the word used to
+    a. Originally * master*  or * lord*  KURIOS was the word used to
     describe the <strong><u>gods</u></strong> of the Greek pantheon. In the New
-Testament the word <em>master</em> KURIOS is typically translated    <em>Lord</em> when speaking of God, or<em> master</em> when speaking of
+Testament the word * master*  KURIOS is typically translated    * Lord*  when speaking of God, or*  master*  when speaking of
     humans. Matthew 24:28
  
  
-    b. Unlike English where <em>master</em> means one who is sovereign, or the
+    b. Unlike English where * master*  means one who is sovereign, or the
     person of uncontested power and ownership, in the New Testament when KURIOS
     is used of humans it means the person with <strong><u>legal</u></strong>
     authority over his property and slave workforce.
@@ -8642,12 +8642,12 @@ Testament the word <em>master</em> KURIOS is typically translated    <em>Lord</e
     bosses in our day.
  
  
-    2. Colossians 4:1b – <em>Grant to your slaves justice and fairness</em>…
-    The mandate for employers is to <em>grant</em> <strong><u>two</u></strong>
+    2. Colossians 4:1b – * Grant to your slaves justice and fairness* …
+    The mandate for employers is to * grant*  <strong><u>two</u></strong>
     fundamental rights.
  
  
-a. Colossians 4:1b –<em>Masters<strong> grant</strong> to your slaves…</em> The word    <strong><em><u>grant</u></em></strong> PARECHO is a present tense command
+a. Colossians 4:1b –* Masters<strong> grant</strong> to your slaves…*  The word    <strong>* <u>grant</u>* </strong> PARECHO is a present tense command
     that means to furnish, present, afford or exhibit. This word stressed the
     ongoing need of masters to provide for their workers.
  
@@ -8658,12 +8658,12 @@ a. Colossians 4:1b –<em>Masters<strong> grant</strong> to your slaves…</em> 
 2) By way of application, God would have Christian employers grant (    <strong><u>offer</u></strong> or afford) their employees two rights.
  
  
-b. Colossians 4:1c –    <em>Masters grant… <strong><u>justice</u></strong>…</em> Paul instructed
+b. Colossians 4:1c –    * Masters grant… <strong><u>justice</u></strong>…*  Paul instructed
     believing masters to give justice to their workers.
  
  
     1) Justice DIKAIOS comes from the word DIKE meaning correct in the
-fulfillment of <strong><u>duties</u></strong>. In the New Testament    <em>justice</em> came to mean correctness that accords with God’s standards
+fulfillment of <strong><u>duties</u></strong>. In the New Testament    * justice*  came to mean correctness that accords with God’s standards
     or requirements, not merely with the requirements of society.
  
  
@@ -8684,8 +8684,8 @@ employees. In light of Paul’s command here, a    <strong><u>believing</u></str
     <br/>
  
  
-c. Colossians 4:1d –<em>Masters grant… <strong><u>fairness</u></strong>…</em> The word    <em>fairness</em> ISOTES literally means likeness in proportions. By
-    implication <em>fairness</em> means impartiality or equality.
+c. Colossians 4:1d –* Masters grant… <strong><u>fairness</u></strong>…*  The word    * fairness*  ISOTES literally means likeness in proportions. By
+    implication * fairness*  means impartiality or equality.
  
  
 1) As believers we should realize that nationality,    <strong><u>race</u></strong>, ethnicity, or any other supposed distinction
@@ -8693,7 +8693,7 @@ c. Colossians 4:1d –<em>Masters grant… <strong><u>fairness</u></strong>…</
  
  
     2) This verse fits very neatly with the last phrase in Colossians 3:25 that
-states, “<em>And that without partiality</em>.” Fairness    <strong><u>equates</u></strong> with impartiality.
+states, “* And that without partiality* .” Fairness    <strong><u>equates</u></strong> with impartiality.
  
  
 3) In light of this Scripture, Christian employers should seek to    <strong><u>treat</u></strong> their employees with equality.
@@ -8702,13 +8702,13 @@ states, “<em>And that without partiality</em>.” Fairness    <strong><u>equat
     <br/>
  
  
-3. Colossians 4:1e – <strong><em>Knowing</em></strong>    <em> that you too have a <strong><u>Master</u></strong> in heaven</em>.
+3. Colossians 4:1e – <strong>* Knowing* </strong>    *  that you too have a <strong><u>Master</u></strong> in heaven* .
     Because of chapter breaks we sometimes lose continuity in our studies.
  
  
-    a. The phrase <em>and that without partiality</em> in Colossians 3:25
+    a. The phrase * and that without partiality*  in Colossians 3:25
     neatly <strong><u>ties</u></strong> in with the spirit of this command to
-    Christian masters. They too served the <em>Lord Christ</em>.
+    Christian masters. They too served the * Lord Christ* .
  
  
 b. In terms of one’s standing in the church, masters were not    <strong><u>over</u></strong> the slaves they owned, and Paul reminded them
@@ -8725,9 +8725,9 @@ be today. It was totally possible that a slave could have become an    <strong><
  
  
     4. Colossians 4:1f –
-    <em>
+    * 
         Knowing that you <strong><u>too</u></strong> have a master in heaven
-    </em>
+    * 
     . Paul sought to correct the motivations of Christian masters or employers.
  
  
@@ -8772,34 +8772,34 @@ should cause you to relate to all your subordinates with    <strong><u>equity</u
     earnestly, watchfully, and gratefully.”
  
  
-a. Colossians 4:2a – <em>Devote yourselves to prayer</em>… We are to    <strong><u>pray</u></strong> with consistency. We are to be fervent in our
+a. Colossians 4:2a – * Devote yourselves to prayer* … We are to    <strong><u>pray</u></strong> with consistency. We are to be fervent in our
     prayer lives.
  
  
-    1) <strong><em><u>Devote</u></em></strong> PROSKARTEREO carries the
+    1) <strong>* <u>Devote</u>* </strong> PROSKARTEREO carries the
     overtone of perseverance or persistence. Six of the ten uses of this word
     in the New Testament are in association with prayer. Acts 1:14, 2:46, 6:4;
     Romans 12:12; Ephesians 6:18
  
  
-    2) Paul’s most fascinating use of the word <em>devoted</em> PROSKARTEREO is
+    2) Paul’s most fascinating use of the word * devoted*  PROSKARTEREO is
     found in Romans 13:6 where it describes the unceasing activity of
     government <strong><u>tax</u></strong> collectors. Just as tax collectors
     did not (and do not) give up on their task of tax collecting, we should not
     give up on our task of prayer.
  
  
-    3) <em>Devote</em> is a present tense imperative showing that prayer for
+    3) * Devote*  is a present tense imperative showing that prayer for
     the believer is to be a constant part of <strong><u>life</u></strong>.
     <br/>
     <br/>
  
  
-    b. Colossians 4:2b – <em>Keeping <strong><u>alert</u></strong> in it</em>…
+    b. Colossians 4:2b – * Keeping <strong><u>alert</u></strong> in it* …
     We are to be intentionally vigilant and watchful in prayer.
  
  
-1) To be <em>watchful</em> GREGOREUO means to waken or    <strong><u>rouse</u></strong> from sleep. It has the idea of being ready
+1) To be * watchful*  GREGOREUO means to waken or    <strong><u>rouse</u></strong> from sleep. It has the idea of being ready
     for danger or emergency, to be on the lookout.
  
  
@@ -8837,7 +8837,7 @@ a. Colossians 4:2a – <em>Devote yourselves to prayer</em>… We are to    <str
     <br/>
  
  
-c. Colossians 4:2c – <em>With [an attitude of] thanksgiving</em>… An    <strong><u>attitude</u></strong> of heartfelt appreciation to God, should
+c. Colossians 4:2c – * With [an attitude of] thanksgiving* … An    <strong><u>attitude</u></strong> of heartfelt appreciation to God, should
     overflow into thankfulness in our prayers.
  
  
@@ -8883,10 +8883,10 @@ c. Colossians 4:2c – <em>With [an attitude of] thanksgiving</em>… An    <str
  
  
     a. Colossians 4:3a –
-    <em>
+    * 
         Praying at the same time for us as well, that God will open up to us a
         door for the word
-    </em>
+    * 
 . Paul asked the Colossians to pray for an open    <strong><u>door</u></strong> to speak forth God’s Word.
  
  
@@ -8900,28 +8900,28 @@ c. Colossians 4:2c – <em>With [an attitude of] thanksgiving</em>… An    <str
  
  
     b. Colossians 4:3b –
-    <em>
+    * 
         So that we may <strong><u>speak</u></strong> forth the mystery of
         Christ.
-    </em>
+    * 
     God had commissioned Paul to make known the mystery of Christ. Paul asked
     the Colossian believers to pray that God would open up opportunities to
     accomplish this goal. Romans 1:14-17, 16:25; 1 Corinthians 9:16-17;
     Philippians 1:18-20
  
  
-    c. Colossians 4:3c – <em>For which I have also been imprisoned</em>. Paul
-considered himself to be incarcerated because of the<em>mystery of Christ</em>. He willingly suffered for the Gospel’s    <strong><u>sake</u></strong>. 2 Timothy 1:8, Hebrews 13:3
+    c. Colossians 4:3c – * For which I have also been imprisoned* . Paul
+considered himself to be incarcerated because of the* mystery of Christ* . He willingly suffered for the Gospel’s    <strong><u>sake</u></strong>. 2 Timothy 1:8, Hebrews 13:3
  
  
-    d. Colossians 4:4a – <em>That I may make it clear</em>… Paul also wanted
-them to pray for <strong><u>clarity</u></strong> in speaking the    <em>mystery of Christ</em>, the Gospel message. The mystery of Christ has
+    d. Colossians 4:4a – * That I may make it clear* … Paul also wanted
+them to pray for <strong><u>clarity</u></strong> in speaking the    * mystery of Christ* , the Gospel message. The mystery of Christ has
     to be believed by the unsaved for justification and by the saved for
     sanctification. Clarity in preaching is so important to accurate
     understanding.
  
  
-    e. Colossians 4:4b – <em>In the way I ought to speak.</em> The apostle Paul
+    e. Colossians 4:4b – * In the way I ought to speak.*  The apostle Paul
     asked for prayer that he would be <strong><u>faithful</u></strong> to the
     task God had given him. What a testimony and what a challenge for us as
     well. Ephesians 6:18-20
@@ -8933,7 +8933,7 @@ them to pray for <strong><u>clarity</u></strong> in speaking the    <em>mystery 
     <strong>Colossians 4:5-6 – Revitalizing our public testimonies</strong>
  
  
-1. Colossians 4:5a –    <em>Conduct yourselves with wisdom toward outsiders</em>. Paul gave an
+1. Colossians 4:5a –    * Conduct yourselves with wisdom toward outsiders* . Paul gave an
     important command concerning the believer’s behavior before unbelievers. He
     instructed believers to walk blamelessly <strong><u>before</u></strong> the
     world.
@@ -8943,12 +8943,12 @@ them to pray for <strong><u>clarity</u></strong> in speaking the    <em>mystery 
     the world does indeed matter.
  
  
-    b. <em>Conduct yourself</em> is a present tense active voice imperative
+    b. * Conduct yourself*  is a present tense active voice imperative
     emphasizing that this should be <strong><u>done</u></strong> as a normal
     part of everyday life.
  
  
-    c. <em>With wisdom</em> is more than mere knowledge. Wisdom is divine
+    c. * With wisdom*  is more than mere knowledge. Wisdom is divine
     understanding that prompts us how to properly <strong><u>apply</u></strong>
     what we know to our everyday situations. We desperately need God’s wisdom
     as we order our lives before the world.
@@ -8961,11 +8961,11 @@ them to pray for <strong><u>clarity</u></strong> in speaking the    <em>mystery 
  
  
     a. Colossians 4:5a – Be wise in your <strong><u>walk</u></strong>. First,
-    we are to <em>make the most of the opportunity</em>. We are to snatch up
+    we are to * make the most of the opportunity* . We are to snatch up
     daily opportunities to minister to the world.
  
  
-    1) The phrase <em>making the most of</em> EXAGORAZO literally means to buy
+    1) The phrase * making the most of*  EXAGORAZO literally means to buy
 out of or to redeem (as when something is purchased out from the    <strong><u>market</u></strong> place).
  
  
@@ -8974,11 +8974,11 @@ out of or to redeem (as when something is purchased out from the    <strong><u>m
     opportunities to share Christ with unbelievers.
  
  
-b. Colossians 4:6a – Be sharp in your <strong><u>talk</u></strong>. Second,    <em>let your speech always be with grace, as though seasoned with salt</em>
+b. Colossians 4:6a – Be sharp in your <strong><u>talk</u></strong>. Second,    * let your speech always be with grace, as though seasoned with salt* 
     . We are to be wise in our interaction with the unsaved world.
  
  
-    1) Our speech should always …<em>be with <strong><u>grace</u></strong></em>
+    1) Our speech should always …* be with <strong><u>grace</u></strong>* 
     . As a believer your communication before the world should be winsome at
     all times. In this world a pleasant word spoken at the right time will give
     you opportunities and open doors that lead to evangelistic opportunities.
@@ -8986,11 +8986,11 @@ b. Colossians 4:6a – Be sharp in your <strong><u>talk</u></strong>. Second,   
  
  
     2) This world is an unsavory place. Your speech with unsaved friends and
-neighbors should be    <em>seasoned as it were with <strong><u>salt</u></strong></em>. Pack your
+neighbors should be    * seasoned as it were with <strong><u>salt</u></strong>* . Pack your
     words with the undiluted flavor of the knowledge of our Lord Jesus Christ.
  
  
-c. Colossians 4:6c – Be ready, don’t <strong><u>balk</u></strong>. Third, …    <em>so that you may know how you should respond to each person.</em> Your
+c. Colossians 4:6c – Be ready, don’t <strong><u>balk</u></strong>. Third, …    * so that you may know how you should respond to each person.*  Your
     circumspect walk before the world will give you opportunities and God will
     supply the words. James 1:5, 2 Timothy 4:17
     <br/>
@@ -9030,7 +9030,7 @@ c. Colossians 4:6c – Be ready, don’t <strong><u>balk</u></strong>. Third, �
     and favorable messenger for Paul.
  
  
-    a. Colossians 4:7a – <em>As to all my affairs, Tychicus… </em>Tychicus was
+    a. Colossians 4:7a – * As to all my affairs, Tychicus… * Tychicus was
     a Gentile believer from the province of Asia and therefore he would have
 been familiar with the customs, mindset, culture and    <strong><u>needs</u></strong> of the Colossians believers. Paul made a wise
     decision in choosing him to be the bearer of the Colossian letter. Acts
@@ -9038,25 +9038,25 @@ been familiar with the customs, mindset, culture and    <strong><u>needs</u></st
  
  
     b. Colossians 4:7b –
-    <em>
+    * 
         Our beloved brother and faithful servant and fellow bond-servant in the
         Lord
-    </em>
+    * 
     … As a beloved and faithful bondservant of Christ, Tychicus was considered
     by Paul to be a dear <strong><u>friend</u></strong> and soul-mate in every
     respect.
  
  
-    c. Colossians 4:7c – …<em>will bring you information</em>. These comments
+    c. Colossians 4:7c – …* will bring you information* . These comments
     would be reason to carefully <strong><u>listen</u></strong> to him upon his
     arrival. Tychicus was going to share with them more information from Paul.
  
  
     d. Colossians 4:8 –
-    <em>
+    * 
 For I have sent him to you for this very        <strong><u>purpose</u></strong>, that you may know about our
         circumstances and that he may encourage your hearts
-    </em>
+    * 
     … Paul was sure Tychicus would answer their questions and encourage their
     hearts. Ephesians 6:21; 2 Timothy 2:2, 4:12; Titus 3:12
     <br/>
@@ -9068,22 +9068,22 @@ For I have sent him to you for this very        <strong><u>purpose</u></strong>,
     became <strong>useful</strong> to Paul in the ministry. Philemon 10-21
  
  
-    a. Colossians 4:9a – <em>And with him Onesimus</em>… Onesimus was a Gentile
+    a. Colossians 4:9a – * And with him Onesimus* … Onesimus was a Gentile
     believer from the <strong><u>town</u></strong> of Colossae. Colossians 4:12
  
  
     b. Colossians 4:9b –
-    <em>
+    * 
         Our faithful and beloved brother, who is <strong><u>one</u></strong> of
         your number
-    </em>
+    * 
     . Onesimus was a runaway slave who had been converted and changed by God’s
     grace under Paul’s prison ministry. As a testament to the transforming
     power of the Gospel, Paul now considered him to be a faithful and dear
     brother. Philemon 16
  
  
-c. Colossians 4:9c –    <em>They will inform you about the whole situation here</em>. Onesimus was
+c. Colossians 4:9c –    * They will inform you about the whole situation here* . Onesimus was
 to be a traveling companion of Tychicus. He would turn himself over to his    <strong><u>legal</u></strong> owner, Philemon, when he arrived at Colossae.
     Together with Tychicus, he would also report to the church concerning
     Paul’s prison sufferings.
@@ -9140,7 +9140,7 @@ admonished the Colossians to welcome him should he    <strong><u>come</u></stron
     <br/>
  
  
-c. Colossians 4:11a –    <em>Jesus, who is called Justus, also sends greetings</em>. Justus' name
+c. Colossians 4:11a –    * Jesus, who is called Justus, also sends greetings* . Justus' name
     meant <strong>righteous</strong>. Justus was a Jewish believer in Christ
     who became one of Paul’s <strong><u>fellow</u></strong> workers. There are
 a few possibilities in Scripture for the identity of this    <strong>righteous</strong> man.
@@ -9165,36 +9165,36 @@ a few possibilities in Scripture for the identity of this    <strong>righteous</
  
  
     d. Colossians 4:11b –
-    <em>
+    * 
         These are the only <strong><u>Jews</u></strong> among my co-workers…
-    </em>
+    * 
     For some unknown reason, Justus, Aristarchus and Mark were the only Jewish
     Christians who were working together with Paul at the time of his
     imprisonment in Rome.
  
  
-    e. Colossians 4:11c –<em> For the kingdom of God…</em> Paul was not saying
+    e. Colossians 4:11c –*  For the kingdom of God…*  Paul was not saying
     they were presently establishing the Kingdom, but he understood that the
     work we do now in the <strong><u>Church</u></strong> Age is a contribution
     to the coming Kingdom of God. Colossians 1:13
  
  
     1) In 2 Timothy 4:18 Paul shed some light on this when he said, “
-    <em>
+    * 
 The Lord will deliver me from every evil deed, and will        <strong><u>bring</u></strong> me safely to his heavenly kingdom
-    </em>
+    * 
     .” One day Paul would be taken to the future kingdom.
  
  
     2) Also in Acts 14:22b Paul said, “
-    <em>
+    * 
         Through many tribulations we must <strong><u>enter</u></strong> the
         kingdom of God
-    </em>
+    * 
     .” The kingdom is yet future and we will enter it.
  
  
-    f. Colossians 4:11b –<em> And they have proved a comfort to me</em>. Paul
+    f. Colossians 4:11b –*  And they have proved a comfort to me* . Paul
     confessed that these three Jewish Christians had been a true encouragement
     and <strong><u>help</u></strong> to him.
  
@@ -9203,28 +9203,28 @@ The Lord will deliver me from every evil deed, and will        <strong><u>bring<
  
  
     a. Colossians 4:12a –
-    <em>
+    * 
         Epaphras, who is one of your number, a bondslave of Jesus Christ sends
         you his greetings …
-    </em>
+    * 
 Epaphras was from the Colossian congregation and was very likely the key    <strong><u>person</u></strong> in the evangelism and establishment of the
     church. Colossians 1:7
  
  
-b. Colossians 4:12b –    <em>[He is] always laboring earnestly for you in his prayers…</em> Epaphras
+b. Colossians 4:12b –    * [He is] always laboring earnestly for you in his prayers…*  Epaphras
     was the <strong><u>only</u></strong> believer the apostle Paul ever singled
     out as a prayer warrior.
  
  
-1) Prayer for their spiritual growth – He prayed …    <em>that [they] may stand perfect…</em> This is similar in focus to Paul’s
-prayers for them in Colossians 1:9-12. Epaphras prayed for their    <strong><em>perfection</em></strong>, meaning that they would reach their
+1) Prayer for their spiritual growth – He prayed …    * that [they] may stand perfect…*  This is similar in focus to Paul’s
+prayers for them in Colossians 1:9-12. Epaphras prayed for their    <strong>* perfection* </strong>, meaning that they would reach their
     full <strong><u>goal</u></strong>, be finished, and achieve all the
     fullness that God wanted for them.
  
  
     2) Prayer for their spiritual understanding – Epaphras also prayed that
-they’d be    <em>…<strong><u>fully</u></strong> assured in all the will of God.</em> The
-    issue of <em>full assurance of understanding</em> concerning God’s will was
+they’d be    * …<strong><u>fully</u></strong> assured in all the will of God.*  The
+    issue of * full assurance of understanding*  concerning God’s will was
     also a focus in Paul’s prayers for the Colossians. Colossians 1:9, 2:1-3
  
  
@@ -9238,17 +9238,17 @@ they’d be    <em>…<strong><u>fully</u></strong> assured in all the will of G
  
  
     c. Colossians 4:13 –
-    <em>
+    * 
         For I testify for him that he has a deep concern for you and for those
         who are in Laodicea and Hierapolis
-    </em>
+    * 
     . Epaphras had a <strong><u>real</u></strong> passion for the well-being of
     the Colossians and their sister churches in the Lycos valley.
     <br/>
     <br/>
  
  
-5. Colossians 4:14 –    <em>Luke, the beloved physician, sends you his greetings</em>. Luke's name
+5. Colossians 4:14 –    * Luke, the beloved physician, sends you his greetings* . Luke's name
     meant <strong>light-giving</strong>. Luke was a medical doctor who became a
 beloved companion of the apostle Paul on his journeys. He indeed    <strong>brightened</strong> Paul’s <strong><u>life</u></strong> with his
     company. Luke was also a careful historian. He wrote the books of Luke and
@@ -9262,7 +9262,7 @@ beloved companion of the apostle Paul on his journeys. He indeed    <strong>brig
     for the world returned. Colossians 4:14, Philemon 24, 2 Timothy 4:10
  
  
-7. Colossians 4:15a –    <em>And also Nympha and the church that is in her house</em>… Nympha, a
+7. Colossians 4:15a –    * And also Nympha and the church that is in her house* … Nympha, a
     sister in the Lord whose name meant <strong>bride,</strong> hosted a local
 congregation, the <strong>bride</strong> of Christ, in her    <strong><u>home</u></strong>.
  
@@ -9285,38 +9285,38 @@ congregation, the <strong>bride</strong> of Christ, in her    <strong><u>home</u
  
  
     1. Colossians 4:15b – A <strong>G</strong>reeting to the churches of
-Laodicea: <strong><em><u>Greet</u></em></strong>    <em> the brethren who are in Laodicea.</em>
+Laodicea: <strong>* <u>Greet</u>* </strong>    *  the brethren who are in Laodicea.* 
  
  
 2. Colossians 4:16 – An <strong>O</strong>bligation to    <strong><u>read</u></strong> the Word:
-    <em>
+    * 
 When this letter is <strong>read</strong> among you, have it also        <strong>read</strong> in the church of the Laodiceans and you, for your
         part <strong>read</strong> my letter that is coming from Laodicea.
-    </em>
+    * 
     The letter coming from Laodicea was probably the book of Ephesians that
     would eventually make its way to Colossae.
  
  
 3. Colossians 4:17 – An <strong>O</strong>rder for Archippus to    <strong><u>fulfill</u></strong> his ministry:
-    <em>
+    * 
         Say to Archippus, “Take heed to the ministry which you have received in
         the Lord, that you may fulfill it.”
-    </em>
+    * 
     We do not know what ministry Archippus had, but he needed encouragement to
     accomplish it. Sometimes we also need encouragement to do our
     responsibilities.
  
  
-4. Colossians 4:18a – A <strong>D</strong>elineation:<strong><u>Paul's</u></strong> personal signature.    <em>I, Paul, write this greeting with my own hand</em>. This personal touch
+4. Colossians 4:18a – A <strong>D</strong>elineation:<strong><u>Paul's</u></strong> personal signature.    * I, Paul, write this greeting with my own hand* . This personal touch
     was Paul’s way of preventing forgeries. In those days, this was sometimes a
     problem. 1 Corinthians 16:21; 2 Thessalonians 2:2, 3:17
  
  
-5. Colossians 4:18b – A <strong>B</strong>urden to share:    <em>Remember <strong><u>my</u></strong> imprisonment.</em> Romans 12:15,
+5. Colossians 4:18b – A <strong>B</strong>urden to share:    * Remember <strong><u>my</u></strong> imprisonment.*  Romans 12:15,
     Hebrews 13:3
  
  
-6. Colossians 4:18c – A <strong>Y</strong>earning for them to enjoy the    <strong><u>grace</u></strong> of God: <em>Grace be with you</em>. The
+6. Colossians 4:18c – A <strong>Y</strong>earning for them to enjoy the    <strong><u>grace</u></strong> of God: * Grace be with you* . The
     apostle Paul desired that God’s unmerited favor and undeserved kindness be
     on them. Amen!
  
