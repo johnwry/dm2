@@ -4942,11 +4942,11 @@ c) The just died for the unjust, therefore    * the accuser of the brethren*  ha
  
 ===
 
-## C. Colossians 2:16 – Legalism, the second heresy ##
+## C. Colossians 2:16 – Legalism, the second heresy
 
 ===
  
-### 1. What is **<u>legalism</u>**? ###
+### 1. What is **<u>legalism</u>**?
 
 ===
  
