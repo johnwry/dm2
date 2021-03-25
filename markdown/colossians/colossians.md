@@ -4986,143 +4986,143 @@ c. Consider the following in relation to legalism. Galatians 5:4, Philippians 3:
 
 ===
  
-1) Whether it is for salvation or for sanctification, a legalist becomes captivated with human determination and doing good works to **<u>merit</u>**  God’s help or blessing. Matthew 7:22-23
+1) Whether it is for salvation or for sanctification, a legalist becomes captivated with human determination and doing good works to **<u>merit</u>** God’s help or blessing. Matthew 7:22-23
 
 ===
  
-2) Legalistic Christians are **<u>proud</u>** . They have not understood that they cannot please God by human effort. Romans 7:18
+2) Legalistic Christians are **<u>proud</u>**. They have not understood that they cannot please God by human effort. Romans 7:18
 
 ===
  
-3) A legalist is captivated with himself rather than with    **<u>Christ</u>** . His eyes are always on himself and his performance rather than on Christ and His adequacy. Legalists compare themselves with others. Galatians 5:15, 25-26
+3) A legalist is captivated with himself rather than with    **<u>Christ</u>**. His eyes are always on himself and his performance rather than on Christ and His adequacy. Legalists compare themselves with others. Galatians 5:15, 25-26
    
 ===
  
-4) Legalistic Christians do not rest **<u>solely</u>**  on Christ’s enabling power for living the Christian life; they feel they need to do their part. 2 Corinthians 3:4-6, 5:7; Galatians 3:3, 2:20
+4) Legalistic Christians do not rest **<u>solely</u>** on Christ’s enabling power for living the Christian life; they feel they need to do their part. 2 Corinthians 3:4-6, 5:7; Galatians 3:3, 2:20
  
 ===
 
-5) Some people contend that if they do **<u>not</u>**  live by laws, principles, or rules they will end up sinning.
+5) Some people contend that if they do **<u>not</u>** live by laws, principles, or rules they will end up sinning.
 
 ===
  
-a) The irony of this is that those who live by law with its rules and regulations, actually **<u>arouse</u>**  the sin nature to break the very rules they have set up for holy living. Romans 6:14; 7:5; 8-9, 11; 1 Corinthians 15:56
+a) The irony of this is that those who live by law with its rules and regulations, actually **<u>arouse</u>** the sin nature to break the very rules they have set up for holy living. Romans 6:14; 7:5; 8-9, 11; 1 Corinthians 15:56
 
 ===
  
-b) Legalism actually moves the believer **<u>away</u>**  from spiritual growth rather than closer to it. Galatians 5:4
+b) Legalism actually moves the believer **<u>away</u>** from spiritual growth rather than closer to it. Galatians 5:4
 
 ===
  
-6) In your present standing in Christ you have ** <u>all</u>**  of Christ’s abundance at your disposal. You are to walk by faith in Him. Colossians 2:3, 6, 10; John 15:4-5
+6) In your present standing in Christ you have **<u>all</u>** of Christ’s abundance at your disposal. You are to walk by faith in Him. Colossians 2:3, 6, 10; John 15:4-5
    
 ===
 
-2. Colossians 2:16 – Paul initiated his corrections aimed at the heresy of legalism by first teaching the Colossians to not ** <u>allow</u>**  anyone *  …to act as [their] judge.* 
+2. Colossians 2:16 – Paul initiated his corrections aimed at the heresy of legalism by first teaching the Colossians to not **<u>allow</u>**  anyone *…to act as [their] judge.* 
  
 ===
 
-a. Colossians 2:16a – Paul commanded them to not fall prey to legalists with their judgmental ** <u>spirit</u>** .
+a. Colossians 2:16a – Paul commanded them to not fall prey to legalists with their judgmental **<u>spirit</u>** .
 
 ===
  
-1) This command to * not*  let others …* act, as your judge*  KRINETO is a present tense imperative. The present tense indicates that this type of judging was happening at the ** <u>moment</u>**  Paul wrote. The believers were told to stop letting others interfere or referee in their lives. Romans 14:3
+1) This command to * not*  let others …* act, as your judge*  KRINETO is a present tense imperative. The present tense indicates that this type of judging was happening at the **<u>moment</u>**  Paul wrote. The believers were told to stop letting others interfere or referee in their lives. Romans 14:3
 
 ===
  
-2) Legalists always possess a judgmental spirit. Their austere and ungracious demeanor will not only ** <u>crush</u>**  your spirit but will lead you to error. If you fall into their ways, you will lose a faith-based intimate walk with the Lord and replace it with an unfruitful burdensome life of dos and don’ts. Galatians 5:15, 25-26
+2) Legalists always possess a judgmental spirit. Their austere and ungracious demeanor will not only **<u>crush</u>**  your spirit but will lead you to error. If you fall into their ways, you will lose a faith-based intimate walk with the Lord and replace it with an unfruitful burdensome life of dos and don’ts. Galatians 5:15, 25-26
 
 ===
  
-b. Colossians 2:16b –* Therefore no one is to act as your judge in regard to food* … A legalist gets judgmental and demanding about your ** <u>private</u>**  life. Eating * food*  is one of the most basic functions of life and the legalist wants to control it. Romans 14:1-4, Mark 7:5-23, 1 Timothy 4:3-4
+b. Colossians 2:16b –* Therefore no one is to act as your judge in regard to food* … A legalist gets judgmental and demanding about your **<u>private</u>**  life. Eating * food*  is one of the most basic functions of life and the legalist wants to control it. Romans 14:1-4, Mark 7:5-23, 1 Timothy 4:3-4
 
 ===
  
-1) Legalists lead you to believe that what you eat is of ** <u>extreme</u>**  ** spiritual**  significance. Legalists will tell you what you must or must not eat. They will control your diet, which biblically is none of their business. Romans 14:23
+1) Legalists lead you to believe that what you eat is of **<u>extreme</u>**  ** spiritual**  significance. Legalists will tell you what you must or must not eat. They will control your diet, which biblically is none of their business. Romans 14:23
 
 ===
  
-2) Paul predicted that in the last days the world would be fraught with ** <u>food</u>**  restrictions. 1 Timothy 4:3-4
+2) Paul predicted that in the last days the world would be fraught with **<u>food</u>**  restrictions. 1 Timothy 4:3-4
 
 ===
  
-3) Do you have people trying to control your diet by telling you their way of eating is more spiritual or that it is the ** <u>right</u>**  way? Matthew 15:11, 15-20; Luke 7:34
+3) Do you have people trying to control your diet by telling you their way of eating is more spiritual or that it is the **<u>right</u>**  way? Matthew 15:11, 15-20; Luke 7:34
     
 ===
  
-c. Colossians 2:16c –* Therefore no one is to act as your judge in regard to* …    *  drink* . While the Bible condemns drunkenness, the legalist wants to make what you drink a ** <u>spiritual</u>**  issue. Ephesians 5:18
+c. Colossians 2:16c –* Therefore no one is to act as your judge in regard to *…drink* . While the Bible condemns drunkenness, the legalist wants to make what you drink a **<u>spiritual</u>**  issue. Ephesians 5:18
 
 ===
  
-1) Romans 14:17 shows that the future kingdom of God is ** <u>not</u>**  about eating and drinking, implying that we should modulate our rhetoric accordingly.
+1) Romans 14:17 shows that the future kingdom of God is **<u>not</u>**  about eating and drinking, implying that we should modulate our rhetoric accordingly.
 
 ===
 
-2) Jesus said that it is not what you take into your body that defiles you but rather what comes ** <u>out</u>**  of your heart. Matthew 15:17-20
-
-===
- 
-3) 1 Corinthians 10:31 says that in all you eat or drink, do all to the ** <u>glory</u>**  of God.
-
-===
-
-d. Colossians 2:16d – * Therefore no one is to act as your judge in regard…to a festival or a new moon or a Sabbath day* . Legalists not only get judgmental and demanding about what you eat, they also make demands on how you ** <u>worship</u>** . Romans 14:5-6, 10
+2) Jesus said that it is not what you take into your body that defiles you but rather what comes **<u>out</u>**  of your heart. Matthew 15:17-20
 
 ===
  
-1) * Festivals*  were the ** <u>holy</u>**  days and feast days that Moses set forth in the Law. Galatians 4:9-11
+3) 1 Corinthians 10:31 says that in all you eat or drink, do all to the **<u>glory</u>**  of God.
+
+===
+
+d. Colossians 2:16d – *Therefore no one is to act as your judge in regard…to a festival or a new moon or a Sabbath day* . Legalists not only get judgmental and demanding about what you eat, they also make demands on how you **<u>worship</u>** . Romans 14:5-6, 10
+
+===
+ 
+1) * Festivals*  were the **<u>holy</u>**  days and feast days that Moses set forth in the Law. Galatians 4:9-11
  
 ===
 
-a) This is not referring to ** <u>holidays</u>**  or national observances celebrated in your country.
+a) This is not referring to **<u>holidays</u>**  or national observances celebrated in your country.
 
 ===
 
-b) This is referring to days observed by the religious establishment. It is referring to days that all so-called Christians have “** <u>always</u>** ” observed.
+b) This is referring to days observed by the religious establishment. It is referring to days that all so-called Christians have “**<u>always</u>** ” observed.
  
 ===
 
-c) Legalists believe that by observing these ** <u>days</u>**  they are being good people. They think that they please God by observing certain days and may judge you for not doing so, or for observing other days. Legalists always obligate you to do the same things they do.
+c) Legalists believe that by observing these **<u>days</u>**  they are being good people. They think that they please God by observing certain days and may judge you for not doing so, or for observing other days. Legalists always obligate you to do the same things they do.
     
 ===
  
-2) Paul also mentioned * New ** <u>Moon</u>** *  celebrations that legalists wanted to require. Isaiah 1:10-15
+2) Paul also mentioned * New **<u>Moon</u>** *  celebrations that legalists wanted to require. Isaiah 1:10-15
  
 ===
 
-a) The New Moon was an elaborate religious ** <u>day</u>**  in Israel. Special sacrifices were made at that time.
+a) The New Moon was an elaborate religious **<u>day</u>**  in Israel. Special sacrifices were made at that time.
 
 ===
  
-b) Historically a New Moon day would set the month’s calendar of religious activities in ** <u>Israel</u>** .
+b) Historically a New Moon day would set the month’s calendar of religious activities in **<u>Israel</u>** .
 
 ===
  
-c) On a New Moon celebration all work would be suspended and no private or public ** <u>feasts</u>**  or festivals were allowed.
+c) On a New Moon celebration all work would be suspended and no private or public **<u>feasts</u>**  or festivals were allowed.
 
 ===
  
-d) Religious legalists delight in ** <u>imposing</u>**  these types of religious observances on your life.
+d) Religious legalists delight in **<u>imposing</u>**  these types of religious observances on your life.
 
 ===
  
-3) Paul included a mention of ** * <u>Sabbath</u>* **  *  days* . Legalists love to obligate Christians to observe their particular idea of a Sabbath day custom. Exodus 20:8-11
+3) Paul included a mention of ***<u>Sabbath</u>***  *days* . Legalists love to obligate Christians to observe their particular idea of a Sabbath day custom. Exodus 20:8-11
 
 ===
 
-a) According to the Mosaic ** <u>Law</u>** , the Sabbath was a day to be faithfully remembered by national Israel.
-
-===
- 
-b) Failure to faithfully observe the Sabbath was supposed to result in the ** <u>death</u>**  penalty. Exodus 31:14-15
+a) According to the Mosaic **<u>Law</u>** , the Sabbath was a day to be faithfully remembered by national Israel.
 
 ===
  
-c) This law was never instituted for the ** <u>church</u>** , although even today legalists seek to enslave uninformed believers in a form of Sabbath observance.
+b) Failure to faithfully observe the Sabbath was supposed to result in the **<u>death</u>**  penalty. Exodus 31:14-15
 
 ===
  
-e. In summary, we should note that all five elements of legalism mentioned in verse 16 had their ** <u>source</u>**  in Judaism. Obviously legalistic Judaism was one of the heretical teachings disrupting the church of Colossae.
+c) This law was never instituted for the **<u>church</u>** , although even today legalists seek to enslave uninformed believers in a form of Sabbath observance.
+
+===
+ 
+e. In summary, we should note that all five elements of legalism mentioned in verse 16 had their **<u>source</u>**  in Judaism. Obviously legalistic Judaism was one of the heretical teachings disrupting the church of Colossae.
 
 ===
  
@@ -5130,31 +5130,31 @@ e. In summary, we should note that all five elements of legalism mentioned in ve
 
 ===
  
-1. Colossians 2:17 – In order to not fall victim to legalism you need to understand the ** <u>main</u>**  problem with legalism.
+1. Colossians 2:17 – In order to not fall victim to legalism you need to understand the **<u>main</u>**  problem with legalism.
 
 ===
  
-a. Colossians 2:17a –    *  Things which are a mere shadow of what is to come.*  Legalism is captivated with ** <u>hollow</u>**  or empty substitutes for real fellowship with the Lord.
+a. Colossians 2:17a –    *Things which are a mere shadow of what is to come.*  Legalism is captivated with **<u>hollow</u>**  or empty substitutes for real fellowship with the Lord.
 
 ===
  
-1) Legalism is like an infatuation with the ** <u>shadow</u>**  or reflection of an object rather than with the object itself.
+1) Legalism is like an infatuation with the **<u>shadow</u>**  or reflection of an object rather than with the object itself.
 
 ===
 
-2) If you get caught up in observing the things detailed in verse 16, you will be focused on the shadows of Christ previewed in ancient Judaism and not on the actual ** <u>person</u>**  of Christ as revealed in the New Testament.
+2) If you get caught up in observing the things detailed in verse 16, you will be focused on the shadows of Christ previewed in ancient Judaism and not on the actual **<u>person</u>**  of Christ as revealed in the New Testament.
 
 ===
  
-3) This could be compared to a photograph of a loved one who is far from home. Although the photograph ** <u>reminds</u>**  you of your loved one, it is not your loved one. Imagine hugging the photograph after your loved one’s return. That would be foolish.
+3) This could be compared to a photograph of a loved one who is far from home. Although the photograph **<u>reminds</u>**  you of your loved one, it is not your loved one. Imagine hugging the photograph after your loved one’s return. That would be foolish.
 
 === 
  
-4) Legalism is that kind of cheap substitute for a ** <u>real</u>**  and intimate relationship with Christ. Legalists become fixed on principles, rules and traditions they find in Scripture rather than on Christ Himself. Galatians 3:24-25
+4) Legalism is that kind of cheap substitute for a **<u>real</u>**  and intimate relationship with Christ. Legalists become fixed on principles, rules and traditions they find in Scripture rather than on Christ Himself. Galatians 3:24-25
   
 === 
  
-b. Colossians 2:17b –*  But the substance * SOMA * belongs to Christ…*  Freedom, versus the slavery of legalism, is found in Christ. Christ is the ** <u>real</u>**  substance; legalism on the other hand is external and only dimly reflective of Christ.
+b. Colossians 2:17b –*But the substance *SOMA * belongs to Christ…*  Freedom, versus the slavery of legalism, is found in Christ. Christ is the **<u>real</u>**  substance; legalism on the other hand is external and only dimly reflective of Christ.
  
 ===
 
@@ -5162,7 +5162,7 @@ b. Colossians 2:17b –*  But the substance * SOMA * belongs to Christ…*  Free
  
 === 
 
-2) To safeguard from legalism, do not allow anyone to become your ** <u>judge</u>**  and put you on a guilt trip by getting into the minutia of your personal or spiritual life.
+2) To safeguard from legalism, do not allow anyone to become your **<u>judge</u>**  and put you on a guilt trip by getting into the minutia of your personal or spiritual life.
   
 ===
 # E. Colossians 2:18-19a – Mysticism, the third heresy
