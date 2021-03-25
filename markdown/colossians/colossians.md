@@ -4946,7 +4946,7 @@ c) The just died for the unjust, therefore    <em>the accuser of the brethren</e
 
 ===
  
-1. What is <strong><u>legalism</u></strong>?
+1. What is **<u>legalism</u>**?
 
 ===
  
@@ -4954,7 +4954,7 @@ a. Legalism among the <strong><u>unsaved</u></strong>. Galatians 2:16; Acts 15:1
  
 ===
 
-1) This is the mental attitude of the false believer who seeks to    <strong><u>earn</u></strong> or merit salvation by religious rituals, human efforts or good works. Most cults, and virtually all religions, practice a form of legalism. Galatians 2:4
+1) This is the mental attitude of the false believer who seeks to  <strong><u>earn</u></strong> or merit salvation by religious rituals, human efforts or good works. Most cults, and virtually all religions, practice a form of legalism. Galatians 2:4
 
 ===
 
@@ -5152,7 +5152,7 @@ a. Colossians 2:17a –    <em> Things which are a mere shadow of what is to com
 === 
  
 4) Legalism is that kind of cheap substitute for a    <strong><u>real</u></strong> and intimate relationship with Christ. Legalists become fixed on principles, rules and traditions they find in Scripture rather than on Christ Himself. Galatians 3:24-25
-    <br/>
+  
 === 
  
 b. Colossians 2:17b –<em> But the substance </em>SOMA    <em>belongs to Christ…</em> Freedom, versus the slavery of legalism, is found in Christ. Christ is the <strong><u>real</u></strong> substance; legalism on the other hand is external and only dimly reflective of Christ.
