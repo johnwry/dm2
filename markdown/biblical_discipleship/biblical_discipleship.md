@@ -1,7 +1,7 @@
+# Biblical Discipleship
+<!-- .slide: data-background="green" -->
 <img title="cover" data-src="/markdown/biblical_discipleship/img/front_cover.png">
-
 ---
-
 The greatest challenge the church faces in any given generation is
 getting people engaged in the process of replication. This is
 especially difficult in circles were teachers deny the Great Commission
@@ -10,9 +10,7 @@ biblical impetus for churches to reproduce. If the church of Jesus
 Christ fails to reduplicate itself through effective discipleship,
 churches will slowly become vacant because new members stop being added
 to the body of Christ.
-
 ---
-
 Getting Christians into the game is the heart of this study. Don’t be
 derailed by the use of terms like <strong>discipleship</strong>, or
 becoming a <strong>disciple-maker</strong>, derived from Matthew
@@ -24,9 +22,7 @@ and in the world, is at stake. Will you leave someone to fill your
 place in church when you graduate to heaven? Will you do anything to
 fill the empty seat next to you while you’re still here?
 Godspeed!
-
 ---	 
-
 March 30, 2012
 	 
 	<em>(3<sup>rd</sup> Edition)</em>
@@ -48,7 +44,7 @@ copyrighted material. For a more complete disclosure of DM2® policy
 regarding the use of DM2® materials, please refer to the DM2 USA
 website at <a href="http://www.dm2usa.org">www.dm2usa.org</a>.
 	 
-
+---
 
 	<p align="center">
 <strong>Printed and Owned by:</strong>
@@ -77,16 +73,11 @@ website at <a href="http://www.dm2usa.org">www.dm2usa.org</a>.
 	 
 	<p align="center"><strong><a href="http://www.dm2usa.org">www.dm2usa.org</a></strong> 
 
-
+===
 
 	<h1  class="r-fit-text">Biblical Discipleship</h1>
-	<h2>
-<strong>Making Disciple Makers</strong>
-	</h2>
-
-
-
-	 
+	<h2><strong>Making Disciple Makers</strong></h2>
+===	 
 <strong>The Vision and Mission of Jesus Christ 7</strong>
 	 
 	 The Vision of Jesus Christ 7 
@@ -109,7 +100,7 @@ website at <a href="http://www.dm2usa.org">www.dm2usa.org</a>.
 	 The Response to the Gospel Dynamics 21
 	 
 	 Summarizing God’s Gospel Dynamics 21
-	 
+===
 	 <strong>The Biblical Model of Disciple-Making 22</strong>
 	 
 	 What Disciple-Making Is and Is Not 22
@@ -135,7 +126,7 @@ website at <a href="http://www.dm2usa.org">www.dm2usa.org</a>.
 	 <strong>A Workable Strategy 40</strong>
 	 
 	 A Basic Strategy for Implementing Organic Disciple-Making 40
-	 
+===	 
 	 Regional Ministry Directors 44
 	 
 	 Field Directors 47
@@ -155,10 +146,7 @@ website at <a href="http://www.dm2usa.org">www.dm2usa.org</a>.
 	 Empowered with the Gospel of Jesus Christ 50
 	 
 	 The Job of Worldwide Disciple-Making Can Be Done! 50
-	 
-
-
-
+===	 
 	<h1  class="r-fit-text">Making Disciple-Maker</h1>
 	<p align="center">Rediscovering the lost art of disciple-making 
 
