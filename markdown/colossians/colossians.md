@@ -5018,7 +5018,7 @@ b) Legalism actually moves the believer <strong><u>away</u></strong> from spirit
    
 ===
 
-2. Colossians 2:16 – Paul initiated his corrections aimed at the heresy of legalism by first teaching the Colossians to not<strong><u>allow</u></strong> anyone    <em> …to act as [their] judge.</em>
+2. Colossians 2:16 – Paul initiated his corrections aimed at the heresy of legalism by first teaching the Colossians to not <strong><u>allow</u></strong> anyone <em> …to act as [their] judge.</em>
  
 ===
 
@@ -5031,11 +5031,10 @@ a. Colossians 2:16a – Paul commanded them to not fall prey to legalists with t
 ===
  
 2) Legalists always possess a judgmental spirit. Their austere and ungracious demeanor will not only <strong><u>crush</u></strong> your spirit but will lead you to error. If you fall into their ways, you will lose a faith-based intimate walk with the Lord and replace it with an unfruitful burdensome life of dos and don’ts. Galatians 5:15, 25-26
-    <br/>
 
 ===
  
-b. Colossians 2:16b –    <em>Therefore no one is to act as your judge in regard to food</em>… A legalist gets judgmental and demanding about your    <strong><u>private</u></strong> life. Eating <em>food</em> is one of the most basic functions of life and the legalist wants to control it. Romans 14:1-4, Mark 7:5-23, 1 Timothy 4:3-4
+b. Colossians 2:16b –<em>Therefore no one is to act as your judge in regard to food</em>… A legalist gets judgmental and demanding about your <strong><u>private</u></strong> life. Eating <em>food</em> is one of the most basic functions of life and the legalist wants to control it. Romans 14:1-4, Mark 7:5-23, 1 Timothy 4:3-4
 
 ===
  
@@ -5055,7 +5054,7 @@ c. Colossians 2:16c –<em>Therefore no one is to act as your judge in regard to
 
 ===
  
-1) Romans 14:17 shows that the future kingdom of God is    <strong><u>not</u></strong> about eating and drinking, implying that we should modulate our rhetoric accordingly.
+1) Romans 14:17 shows that the future kingdom of God is <strong><u>not</u></strong> about eating and drinking, implying that we should modulate our rhetoric accordingly.
 
 ===
 
@@ -5063,7 +5062,7 @@ c. Colossians 2:16c –<em>Therefore no one is to act as your judge in regard to
 
 ===
  
-3) 1 Corinthians 10:31 says that in all you eat or drink, do all to the    <strong><u>glory</u></strong> of God.
+3) 1 Corinthians 10:31 says that in all you eat or drink, do all to the <strong><u>glory</u></strong> of God.
 
 ===
 
@@ -5107,7 +5106,7 @@ d) Religious legalists delight in <strong><u>imposing</u></strong> these types o
 
 ===
  
-3) Paul included a mention of <strong><em><u>Sabbath</u></em></strong>    <em> days</em>. Legalists love to obligate Christians to observe their particular idea of a Sabbath day custom. Exodus 20:8-11
+3) Paul included a mention of <strong><em><u>Sabbath</u></em></strong> <em> days</em>. Legalists love to obligate Christians to observe their particular idea of a Sabbath day custom. Exodus 20:8-11
 
 ===
 
@@ -5115,7 +5114,7 @@ a) According to the Mosaic <strong><u>Law</u></strong>, the Sabbath was a day to
 
 ===
  
-b) Failure to faithfully observe the Sabbath was supposed to result in the    <strong><u>death</u></strong> penalty. Exodus 31:14-15
+b) Failure to faithfully observe the Sabbath was supposed to result in the <strong><u>death</u></strong> penalty. Exodus 31:14-15
 
 ===
  
@@ -5127,7 +5126,7 @@ e. In summary, we should note that all five elements of legalism mentioned in ve
 
 ===
  
-<strong>D. </strong> <strong>Colossians 2:17 – How to safeguard yourself against the heresy of  legalism</srong>
+# D. Colossians 2:17 – How to safeguard yourself against the heresy of  legalism
 
 ===
  
@@ -5151,11 +5150,11 @@ a. Colossians 2:17a –    <em> Things which are a mere shadow of what is to com
 
 === 
  
-4) Legalism is that kind of cheap substitute for a    <strong><u>real</u></strong> and intimate relationship with Christ. Legalists become fixed on principles, rules and traditions they find in Scripture rather than on Christ Himself. Galatians 3:24-25
+4) Legalism is that kind of cheap substitute for a <strong><u>real</u></strong> and intimate relationship with Christ. Legalists become fixed on principles, rules and traditions they find in Scripture rather than on Christ Himself. Galatians 3:24-25
   
 === 
  
-b. Colossians 2:17b –<em> But the substance </em>SOMA    <em>belongs to Christ…</em> Freedom, versus the slavery of legalism, is found in Christ. Christ is the <strong><u>real</u></strong> substance; legalism on the other hand is external and only dimly reflective of Christ.
+b. Colossians 2:17b –<em> But the substance </em>SOMA <em>belongs to Christ…</em> Freedom, versus the slavery of legalism, is found in Christ. Christ is the <strong><u>real</u></strong> substance; legalism on the other hand is external and only dimly reflective of Christ.
  
 ===
 
@@ -5163,11 +5162,10 @@ b. Colossians 2:17b –<em> But the substance </em>SOMA    <em>belongs to Christ
  
 === 
 
-2) To safeguard from legalism, do not allow anyone to become your    <strong><u>judge</u></strong> and put you on a guilt trip by getting into the minutia of your personal or spiritual life.
+2) To safeguard from legalism, do not allow anyone to become your <strong><u>judge</u></strong> and put you on a guilt trip by getting into the minutia of your personal or spiritual life.
   
 ===
-    <strong>E. </strong>
-    <strong>Colossians 2:18-19a – Mysticism, the third heresy</strong>
+# E. Colossians 2:18-19a – Mysticism, the third heresy
  
  
     1. Colossians 2:18 – Let’s discern the dangers of mysticism.
