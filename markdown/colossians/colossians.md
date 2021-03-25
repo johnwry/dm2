@@ -388,8 +388,7 @@ b. Chapter 2 – Understanding your standing in Jesus Christ and that    <strong
     God.
     <br/>
     <br/>
- 
- 
+===
     <strong>D. </strong>
     <strong>Colossians 1:1-2a – The Authorship of Colossians</strong>
  
@@ -526,7 +525,7 @@ b. Timothy grew up in Lystra, where Paul was almost    <strong><u>stoned</u></st
     e. He was Paul’s <strong><u>faithful</u></strong> fellow servant. Acts
     14:6-23, 16-19; 1 Timothy 1:3; 2 Timothy 1:5, 3:15
  
- 
+===
     <strong>E. </strong>
     <strong>Colossians 1:2</strong>
     <strong>– The Addressees in Colossae</strong>
@@ -623,7 +622,7 @@ a. True peace comes from an understanding of God’s    <strong><u>grace</u></st
     <br/>
     <br/>
  
- 
+===
     <strong>II. </strong>
     <strong>Colossians 1:3-14 – Paul’s Three-focused Prayer</strong>
  
@@ -1639,7 +1638,7 @@ could be forgiven by simply asking for forgiveness, then    <strong><u>Christ</u
     without any pleading by the sinner since the sin penalty was already paid
     in full at Calvary.
  
- 
+===
     <strong>III. </strong>
     <strong>Colossians 1:15-18 – God’s Protection From Heresies: Understanding the Sovereign Authority of Christ
     </strong>
@@ -2132,7 +2131,7 @@ tense, active voice participle the answer would be, “    <strong><u>Always</u>
 c. In <strong>how many areas</strong> should Christ    <em>have first place</em>? “<em>In <strong><u>everything</u></strong></em>
     !”
  
- 
+===
     <strong>IV.</strong>
     <strong>
         Colossians 1:19-29 – God’s Protection from Heresies: Understanding the
@@ -3278,7 +3277,7 @@ c) It was not because of his expert methodologies, his impressive    <strong><u>
     <br/>
     <br/>
  
- 
+===
     <strong>V. </strong>
     <strong>
         Colossians 2:1-7 – God’s Protection From Heresies: Understanding the
@@ -3963,7 +3962,7 @@ c. Colossians 2:7c –    <em>And established in your faith just as you were ins
     is what God wants and this is only available in Christ, God’s revealed
     mystery. 1 Timothy 3:16
  
- 
+===
     <strong>VI.</strong>
     <strong>
         Colossians 2:8-23 – Examining the Four Heresies of Colossae
@@ -4955,91 +4954,90 @@ c) The just died for the unjust, therefore    <em>the accuser of the brethren</e
     <br/>
     <br/>
  
- 
-    <strong>C. </strong>
-    <strong>Colossians 2:16 – Legalism, the second heresy</strong>
- 
+===
+   <div id="col2.16"> <strong>C. </strong>
+    <strong>Colossians 2:16 – Legalism, the second heresy</strong></div>
+===
  
     1. What is <strong><u>legalism</u></strong>?
- 
+===
  
     a. Legalism among the <strong><u>unsaved</u></strong>. Galatians 2:16; Acts
     15:1, 8-11
  
- 
+===
 1) This is the mental attitude of the false believer who seeks to    <strong><u>earn</u></strong> or merit salvation by religious rituals, human
     efforts or good works. Most cults, and virtually all religions, practice a
     form of legalism. Galatians 2:4
  
- 
+====
+
     2) When anyone <strong><u>adds</u></strong> good works as a prerequisite or
     requirement for salvation to what Christ has already accomplished, they are
     guilty of legalism. Philippians 3:2-3
- 
- 
+===
     3) Legalistic unbelievers think, “Since I have done (fill in the blank) God
     now <strong><u>owes</u></strong> me salvation.”
     <br/>
     <br/>
- 
+===
  
     b. Legalism among the <strong><u>saved</u></strong>. Acts 15:5, 11-13;
     Galatians 2:4-5, 16, 3:3-5, 4:21-31
- 
- 
+===
     1) This refers to the believer who seeks to earn or merit God’s acceptance
     or <strong><u>blessing</u></strong> by religious rituals, human efforts, or
     through the fulfillment of requirements.
  
- 
+===
     2) Legalists feel that progressive sanctification is based on their works
     and human <strong><u>efforts</u></strong> rather than on the grace of God
     through a walk of faith in Christ.
- 
+===
  
     3) Legalistic Christians say, “Since I have done (fill in the blank), God
     now <strong><u>owes</u></strong> me blessings.”
     <br/>
     <br/>
- 
+===
  
     c. Consider the following in relation to legalism. Galatians 5:4,
     Philippians 3:1-9
- 
+===
  
     1) Whether it is for salvation or for sanctification, a legalist becomes
 captivated with human determination and doing good works to    <strong><u>merit</u></strong> God’s help or blessing. Matthew 7:22-23
- 
+===
  
     2) Legalistic Christians are <strong><u>proud</u></strong>. They have not
     understood that they cannot please God by human effort. Romans 7:18
- 
+===
  
 3) A legalist is captivated with himself rather than with    <strong><u>Christ</u></strong>. His eyes are always on himself and his
     performance rather than on Christ and His adequacy. Legalists compare
     themselves with others. Galatians 5:15, 25-26
     <br/>
     <br/>
- 
+===
  
     4) Legalistic Christians do not rest <strong><u>solely</u></strong> on
     Christ’s enabling power for living the Christian life; they feel they need
     to do their part. 2 Corinthians 3:4-6, 5:7; Galatians 3:3, 2:20
  
- 
+===
     5) Some people contend that if they do <strong><u>not</u></strong> live by
     laws, principles, or rules they will end up sinning.
- 
+===
  
     a) The irony of this is that those who live by law with its rules and
     regulations, actually <strong><u>arouse</u></strong> the sin nature to
     break the very rules they have set up for holy living. Romans 6:14; 7:5;
     8-9, 11; 1 Corinthians 15:56
- 
+===
  
     b) Legalism actually moves the believer <strong><u>away</u></strong> from
     spiritual growth rather than closer to it. Galatians 5:4
- 
+===
  
     6) In your present standing in Christ you have <strong><u>all</u></strong>
     of Christ’s abundance at your disposal. You are to walk by faith in Him.
@@ -5047,21 +5045,21 @@ captivated with human determination and doing good works to    <strong><u>merit<
     <br/>
     <br/>
  
- 
+===
     2. Colossians 2:16 – Paul initiated his corrections aimed at the heresy of
 legalism by first teaching the Colossians to not<strong><u>allow</u></strong> anyone    <em> …to act as [their] judge.</em>
  
- 
+===
     a. Colossians 2:16a – Paul commanded them to not fall prey to legalists
     with their judgmental <strong><u>spirit</u></strong>.
- 
+===
  
     1) This command to <em>not</em> let others …<em>act, as your judge</em>
     KRINETO is a present tense imperative. The present tense indicates that
     this type of judging was happening at the <strong><u>moment</u></strong>
     Paul wrote. The believers were told to stop letting others interfere or
     referee in their lives. Romans 14:3
- 
+===
  
     2) Legalists always possess a judgmental spirit. Their austere and
     ungracious demeanor will not only <strong><u>crush</u></strong> your spirit
@@ -5070,46 +5068,44 @@ legalism by first teaching the Colossians to not<strong><u>allow</u></strong> an
     burdensome life of dos and don’ts. Galatians 5:15, 25-26
     <br/>
     <br/>
- 
+===
  
 b. Colossians 2:16b –    <em>Therefore no one is to act as your judge in regard to food</em>… A
 legalist gets judgmental and demanding about your    <strong><u>private</u></strong> life. Eating <em>food</em> is one of the
     most basic functions of life and the legalist wants to control it. Romans
     14:1-4, Mark 7:5-23, 1 Timothy 4:3-4
- 
+===
  
 1) Legalists lead you to believe that what you eat is of    <strong><u>extreme</u></strong> <strong>spiritual</strong> significance.
     Legalists will tell you what you must or must not eat. They will control
     your diet, which biblically is none of their business. Romans 14:23
- 
+===
  
 2) Paul predicted that in the last days the world would be fraught with    <strong><u>food</u></strong> restrictions. 1 Timothy 4:3-4
- 
+===
  
     3) Do you have people trying to control your diet by telling you their way
     of eating is more spiritual or that it is the <strong><u>right</u></strong>
     way? Matthew 15:11, 15-20; Luke 7:34
     <br/>
     <br/>
- 
+===
  
 c. Colossians 2:16c –<em>Therefore no one is to act as your judge in regard to</em>…    <em> drink</em>. While the Bible condemns drunkenness, the legalist wants
     to make what you drink a <strong><u>spiritual</u></strong> issue. Ephesians
     5:18
- 
+===
  
 1) Romans 14:17 shows that the future kingdom of God is    <strong><u>not</u></strong> about eating and drinking, implying that we
     should modulate our rhetoric accordingly.
- 
- 
+===
     2) Jesus said that it is not what you take into your body that defiles you
     but rather what comes <strong><u>out</u></strong> of your heart. Matthew
     15:17-20
- 
+===
  
 3) 1 Corinthians 10:31 says that in all you eat or drink, do all to the    <strong><u>glory</u></strong> of God.
- 
- 
+===
     d. Colossians 2:16d –
     <em>
         Therefore no one is to act as your judge in regard …to a festival or a
@@ -5118,63 +5114,61 @@ c. Colossians 2:16c –<em>Therefore no one is to act as your judge in regard to
     . Legalists not only get judgmental and demanding about what you eat, they
     also make demands on how you <strong><u>worship</u></strong>. Romans
     14:5-6, 10
- 
+===
  
     1) <em>Festivals</em> were the <strong><u>holy</u></strong> days and feast
     days that Moses set forth in the Law. Galatians 4:9-11
  
- 
+===
     a) This is not referring to <strong><u>holidays</u></strong> or national
     observances celebrated in your country.
- 
- 
+===
     b) This is referring to days observed by the religious establishment. It is
 referring to days that all so-called Christians have “    <strong><u>always</u></strong>” observed.
  
- 
+===
     c) Legalists believe that by observing these <strong><u>days</u></strong>
     they are being good people. They think that they please God by observing
     certain days and may judge you for not doing so, or for observing other
     days. Legalists always obligate you to do the same things they do.
     <br/>
     <br/>
- 
+===
  
     2) Paul also mentioned <em>New <strong><u>Moon</u></strong></em>
     celebrations that legalists wanted to require. Isaiah 1:10-15
  
- 
+===
     a) The New Moon was an elaborate religious <strong><u>day</u></strong> in
     Israel. Special sacrifices were made at that time.
- 
+===
  
     b) Historically a New Moon day would set the month’s calendar of religious
     activities in <strong><u>Israel</u></strong>.
- 
+===
  
     c) On a New Moon celebration all work would be suspended and no private or
     public <strong><u>feasts</u></strong> or festivals were allowed.
- 
+===
  
     d) Religious legalists delight in <strong><u>imposing</u></strong> these
     types of religious observances on your life.
- 
+===
  
 3) Paul included a mention of <strong><em><u>Sabbath</u></em></strong>    <em> days</em>. Legalists love to obligate Christians to observe their
     particular idea of a Sabbath day custom. Exodus 20:8-11
- 
- 
+===
     a) According to the Mosaic <strong><u>Law</u></strong>, the Sabbath was a
     day to be faithfully remembered by national Israel.
- 
+===
  
 b) Failure to faithfully observe the Sabbath was supposed to result in the    <strong><u>death</u></strong> penalty. Exodus 31:14-15
- 
+===
  
     c) This law was never instituted for the <strong><u>church</u></strong>,
     although even today legalists seek to enslave uninformed believers in a
     form of Sabbath observance.
- 
+===
  
     e. In summary, we should note that all five elements of legalism mentioned
     in verse 16 had their <strong><u>source</u></strong> in Judaism. Obviously
@@ -5182,63 +5176,62 @@ b) Failure to faithfully observe the Sabbath was supposed to result in the    <s
     of Colossae.
     <br/>
     <br/>
- 
+===
  
     <strong>D. </strong>
     <strong>
         Colossians 2:17 – How to safeguard yourself against the heresy of
         legalism
     </strong>
- 
+===
  
     1. Colossians 2:17 – In order to not fall victim to legalism you
     need to understand the <strong><u>main</u></strong> problem with legalism.
- 
+===
  
 a. Colossians 2:17a –    <em> Things which are a mere shadow of what is to come.</em> Legalism is
     captivated with <strong><u>hollow</u></strong> or empty substitutes for
     real fellowship with the Lord.
- 
+===
  
     1) Legalism is like an infatuation with the <strong><u>shadow</u></strong>
     or reflection of an object rather than with the object itself.
- 
- 
+===
     2) If you get caught up in observing the things detailed in verse 16, you
     will be focused on the shadows of Christ previewed in ancient Judaism and
     not on the actual <strong><u>person</u></strong> of Christ as revealed in
     the New Testament.
- 
+===
  
     3) This could be compared to a photograph of a loved one who is far from
     home. Although the photograph <strong><u>reminds</u></strong> you of your
     loved one, it is not your loved one. Imagine hugging the photograph after
     your loved one’s return. That would be foolish.
- 
+=== 
  
 4) Legalism is that kind of cheap substitute for a    <strong><u>real</u></strong> and intimate relationship with Christ.
     Legalists become fixed on principles, rules and traditions they find in
     Scripture rather than on Christ Himself. Galatians 3:24-25
     <br/>
     <br/>
- 
+=== 
  
 b. Colossians 2:17b –<em> But the substance </em>SOMA    <em>belongs to Christ…</em> Freedom, versus the slavery of legalism, is
     found in Christ. Christ is the <strong><u>real</u></strong> substance;
     legalism on the other hand is external and only dimly reflective of Christ.
  
- 
+===
     1) Are you having fellowship with the person of Christ or are you simply
     going through the motions of religion? Are you doing church or are you
     enjoying fellowship with Christ?
  
- 
+=== 
 2) To safeguard from legalism, do not allow anyone to become your    <strong><u>judge</u></strong> and put you on a guilt trip by getting into
     the minutia of your personal or spiritual life.
     <br/>
     <br/>
  
- 
+===
     <strong>E. </strong>
     <strong>Colossians 2:18-19a – Mysticism, the third heresy</strong>
  
@@ -5804,7 +5797,7 @@ to the sin nature, putting emphasis on self's    <strong><u>ability</u></strong>
     <br/>
     <br/>
  
- 
+===
     <strong>VII. </strong>
     <strong>
         Colossians 3:1-11 – Changed Focus: Keeping a Focus on Heaven
@@ -9074,7 +9067,7 @@ c. Colossians 4:6c – Be ready, don’t <strong><u>balk</u></strong>. Third, �
     <br/>
     <br/>
  
- 
+===
     <strong>VIII. </strong>
     <strong>
         Colossians 4:7-18 – Closing Comments, Commendations and Concerns
