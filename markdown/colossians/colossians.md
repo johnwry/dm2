@@ -4962,19 +4962,19 @@ a. Legalism among the **<u>unsaved</u>**. Galatians 2:16; Acts 15:1, 8-11
 
 ===
 
-3) Legalistic unbelievers think, “Since I have done (fill in the blank) God now **<u>owes</u>**  me salvation.”
+3) Legalistic unbelievers think, “Since I have done (fill in the blank) God now **<u>owes</u>** me salvation.”
 
 ===
  
-b. Legalism among the ** <u>saved</u>** . Acts 15:5, 11-13; Galatians 2:4-5, 16, 3:3-5, 4:21-31
+b. Legalism among the **<u>saved</u>**. Acts 15:5, 11-13; Galatians 2:4-5, 16, 3:3-5, 4:21-31
 
 ===
 
-1) This refers to the believer who seeks to earn or merit God’s acceptance or ** <u>blessing</u>**  by religious rituals, human efforts, or through the fulfillment of requirements.
+1) This refers to the believer who seeks to earn or merit God’s acceptance or **<u>blessing</u>**  by religious rituals, human efforts, or through the fulfillment of requirements.
  
 ===
 
-2) Legalists feel that progressive sanctification is based on their works and human ** <u>efforts</u>**  rather than on the grace of God through a walk of faith in Christ.
+2) Legalists feel that progressive sanctification is based on their works and human **<u>efforts</u>**  rather than on the grace of God through a walk of faith in Christ.
 
 ===
  
@@ -4994,7 +4994,7 @@ c. Consider the following in relation to legalism. Galatians 5:4, Philippians 3:
 
 ===
  
-3) A legalist is captivated with himself rather than with    **<u>Christ</u>**. His eyes are always on himself and his performance rather than on Christ and His adequacy. Legalists compare themselves with others. Galatians 5:15, 25-26
+3) A legalist is captivated with himself rather than with **<u>Christ</u>**. His eyes are always on himself and his performance rather than on Christ and His adequacy. Legalists compare themselves with others. Galatians 5:15, 25-26
    
 ===
  
@@ -5022,11 +5022,11 @@ b) Legalism actually moves the believer **<u>away</u>** from spiritual growth ra
  
 ===
 
-a. Colossians 2:16a – Paul commanded them to not fall prey to legalists with their judgmental **<u>spirit</u>** .
+a. Colossians 2:16a – Paul commanded them to not fall prey to legalists with their judgmental **<u>spirit</u>**.
 
 ===
  
-1) This command to * not*  let others …* act, as your judge*  KRINETO is a present tense imperative. The present tense indicates that this type of judging was happening at the **<u>moment</u>**  Paul wrote. The believers were told to stop letting others interfere or referee in their lives. Romans 14:3
+1) This command to *not let others … act, as your judge*  KRINETO is a present tense imperative. The present tense indicates that this type of judging was happening at the **<u>moment</u>** Paul wrote. The believers were told to stop letting others interfere or referee in their lives. Romans 14:3
 
 ===
  
@@ -5034,23 +5034,23 @@ a. Colossians 2:16a – Paul commanded them to not fall prey to legalists with t
 
 ===
  
-b. Colossians 2:16b –* Therefore no one is to act as your judge in regard to food* … A legalist gets judgmental and demanding about your **<u>private</u>**  life. Eating * food*  is one of the most basic functions of life and the legalist wants to control it. Romans 14:1-4, Mark 7:5-23, 1 Timothy 4:3-4
+b. Colossians 2:16b –*Therefore no one is to act as your judge in regard to food* … A legalist gets judgmental and demanding about your **<u>private</u>** life. Eating *food*  is one of the most basic functions of life and the legalist wants to control it. Romans 14:1-4, Mark 7:5-23, 1 Timothy 4:3-4
 
 ===
  
-1) Legalists lead you to believe that what you eat is of **<u>extreme</u>**  ** spiritual**  significance. Legalists will tell you what you must or must not eat. They will control your diet, which biblically is none of their business. Romans 14:23
+1) Legalists lead you to believe that what you eat is of **<u>extreme</u>** **spiritual** significance. Legalists will tell you what you must or must not eat. They will control your diet, which biblically is none of their business. Romans 14:23
 
 ===
  
-2) Paul predicted that in the last days the world would be fraught with **<u>food</u>**  restrictions. 1 Timothy 4:3-4
+2) Paul predicted that in the last days the world would be fraught with **<u>food</u>** restrictions. 1 Timothy 4:3-4
 
 ===
  
-3) Do you have people trying to control your diet by telling you their way of eating is more spiritual or that it is the **<u>right</u>**  way? Matthew 15:11, 15-20; Luke 7:34
+3) Do you have people trying to control your diet by telling you their way of eating is more spiritual or that it is the **<u>right</u>** way? Matthew 15:11, 15-20; Luke 7:34
     
 ===
  
-c. Colossians 2:16c –* Therefore no one is to act as your judge in regard to *…drink*. While the Bible condemns drunkenness, the legalist wants to make what you drink a **<u>spiritual</u>** issue. Ephesians 5:18
+c. Colossians 2:16c –*Therefore no one is to act as your judge in regard to …drink*. While the Bible condemns drunkenness, the legalist wants to make what you drink a **<u>spiritual</u>** issue. Ephesians 5:18
 
 ===
  
@@ -5070,7 +5070,7 @@ d. Colossians 2:16d – *Therefore no one is to act as your judge in regard…to
 
 ===
  
-1) *Festivals*  were the **<u>holy</u>** days and feast days that Moses set forth in the Law. Galatians 4:9-11
+1) *Festivals* were the **<u>holy</u>** days and feast days that Moses set forth in the Law. Galatians 4:9-11
  
 ===
 
