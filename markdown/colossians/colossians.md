@@ -21,44 +21,48 @@
 
 
 
+===
 
 Copyright © **2018 by DM Multiplied, Inc** 
 
 All rights reserved.
 
 
-
+===
 
 Inspirado por el Espíritu de Dios, Pablo dictó esta carta a Tercio y la envió por medio de Febe a Roma. Su propósito era claro. 
 
 
+---
 
 *Mas os he escrito, hermanos, en parte con atrevimiento, como para haceros recordar, por la gracia que de Dios me es dada para ser ministro de Jesucristo a los gentiles, ministrando el evangelio de Dios, para que los gentiles le sean ofrenda agradable, santificada por el Espíritu Santo. Romanos 15:15-16*
 
-
+---
 
 Debido a la gracia que Dios le dio a Pablo, Romanos es aún utilizado para proclamar el evangelio de Dios a hombres y mujeres de todo el mundo. Dios está usando Romanos para inspirar a las personas a convertirse en una ofrenda aceptable para Dios, santificada por el Espíritu Santo. Te animamos a estudiar Romanos con una postura entusiasta y receptiva. Mientras lo haces, que la gracia de Dios revelada en este libro cautive tu corazón, como lo hizo con el del apóstol Pablo, y te conduzca a un vivir santo.
 
-
+---
 
 ¡A Dios sea la gloria!
 
-
+---
 
 Marzo, 2018
 
 Edición 5.5
 
-
+---
 
 ![](Aspose.Words.a2be8293-f622-4b40-bd1c-c50c6cb4228f.004.png)
 
 Derechos de Autor © **2013** **DM2** **International** **Inc.** Todos los derechos reservados
 
+---
+
 **Póliza de los Derechos de Autor.** Traducción no autorizada, re-publicación, duplicación del documento, página de la internet o distribución del correo electrónico de cualquier porción de este material de derechos de autor de cualquier forma, sin el expreso consentimiento escrito de DM2™ es estrictamente prohibido. Puedes usar los materiales de DM2 para tu propio estudio personal o para volverlos a enseñar en una clase, siempre y cuando, el logo de DM2 y esta póliza de los derechos de autor estén incluidos siempre en el material al ser enseñados. Puedes bajar una copia a tú PC, imprimirla o hacer copias para la clase o estudio de grupo Bíblico; sin embargo, no puedes cobrar por este material o por conducir una clase usando el mismo, excepto por el costo actual del copiado. NO puedes hacer cambios a este material, tiene derechos de autor. Para una más amplia exposición de la póliza del DM2 con respecto a los usos de sus materiales, por favor referirse a la página de la internet DM2-USA 
 al <http://www.dm2usa.org>. [DM2™]
 
-
+---
 
 **Impreso** **y** **Propiedad** **de:**
 
@@ -78,6 +82,7 @@ al <http://www.dm2usa.org>. [DM2™]
 
 **ROMANOS 1-8**
 
+---
 
 **Introducción											   7**
 
@@ -166,12 +171,19 @@ Presentaciones Confusas del Evangelio						 95
 **Resultados de Vivir Consistentemente una Vida Carnal.			 126**
 **
 
+===
 
 **Romanos 1-8**
 # **Introducción**
 ## **Importancia del libro de Romanos**
 ### El libro de Romanos es considerado por muchos la carta más importante de Pablo. Explica el marco teológico básico para las **creencias** y prácticas de la iglesia, el cuerpo de Cristo.
+
+===
+
 ### Los capítulos 1 al 8 de Romanos abordan la **fe**, la gracia, la ley, las obras, el pecado y la naturaleza carnal. La santificación, la identificación con Cristo y el ministerio del Espíritu Santo también son explicados.
+
+===
+
 ### Los capítulos 9 al 16 destacan a **Israel** en relación con el plan de Dios y abordan los dones espirituales y el amor piadoso. Estos capítulos también describen cómo los cristianos deben ver el ministerio y el gobierno, al igual que describen otros privilegios y responsabilidades que tienen los creyentes.
 ### El hecho de que el libro de Romanos abarca prácticamente todas las **principales** doctrinas de la Era de la Iglesia puede ser la razón por la cual los primeros líderes de la iglesia que organizaron el Nuevo Testamento colocaron Romanos justo después del libro de Hechos.
 ## **La ciudad de Roma**
