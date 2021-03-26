@@ -5165,6 +5165,33 @@ b. Colossians 2:17b –*But the substance *SOMA * belongs to Christ…* Freedom,
 2) To safeguard from legalism, do not allow anyone to become your **<u>judge</u>** and put you on a guilt trip by getting into the minutia of your personal or spiritual life.
   
 ===
+Characteristics of Legalism
+===
+Legalism...
+===
+Focuses on externals– on a person’s outward good works.
+===
+Focuses on people’s ability to be good and make themselves acceptable to God.
+===
+Encourages pride with its focus is on personal human effort.
+===
+Legalism always ends in despair because no one can consistently be good based on human performance.
+===
+Results in competition with others.
+===
+Results in being overly critical of oneself and of others.
+Leads to hypocrisy and phoniness.
+===
+Relies on and obligates misapplied or non-biblical rituals and traditions.
+===
+Is contrary to grace.
+===
+Grace puts all of the focus on Christ.
+===
+Legalism takes the focus away from Christ and puts it on man and his efforts
+
+===
+
 ## E. Colossians 2:18-19a – Mysticism, the third heresy
  
  
