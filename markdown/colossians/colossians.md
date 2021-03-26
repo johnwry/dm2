@@ -1,9372 +1,2020 @@
-# Colossians
 
-Copyright © ** 2016 by DM Multiplied, Inc** All rights reserved. 
+` `PAGE   \\* MERGEFORMAT 109
 
----
+![](Aspose.Words.a2be8293-f622-4b40-bd1c-c50c6cb4228f.001.jpeg)1-000.000
 
-    ** Copyright Policy.** 
-    Unauthorized translation, republishing, file duplication, website or email
-    distribution of any portion of this copyrighted material in any form,
-    without the express written consent of DM2® is strictly forbidden. You may
-    use the DM2® materials for your own personal study or for teaching a class
-    so long as the DM2® logo and this copyright policy is included on the
-    materials used to teach the class. You may download a copy to your PC,
-    print, or make paper photocopies for a class or Bible study group; however,
-    no charge may be made for this material or for conducting a class using
-    this material, except for the actual cost of copying. You may NOT make
-    changes to this copyrighted material. For a more complete disclosure of
-    DM2® policy regarding the use of DM2® materials, please refer to the DM2
-    USA website at www.dm2usa.org.
 
----
 
-** Printed and Owned by:** 
-** DM2®** 
-** Disciple Makers Multiplied** 
-** PO Box 7758** 
-** Beaumont, TX 77726-7758** 
-** For more information:** 
-** disciplemakersmultiplied@gmail.com** 
 
----
- 
-** www.DM2USA.org** 
-** COLOSSIANS** 
-<a href="#/col1.1">** Colossians 1:1-2 – ** An Introduction to the Book ** 7**  </a>
-<a href="#/col1.3">** Colossians 1:3-14 – ** Paul’s Three-focused Prayer ** 13** </a>
-<a href="#/col1.15">** Colossians 1:15-18 – ** God’s Protection from Heresies:</a><br/>
---Understanding the Sovereign Authority of Christ     ** 27** 
- 
-<a href="#/col1.19">** Colossians 1:19-29 – ** God’s Protection from Heresies:</a><br/>
-    --Understanding the Adequacy of Christ ** 34** 
- 
- 
-<a href="#/col2.1">** Colossians 2:1-7 – ** God’s Protection from Heresies</a>
-    <br/>--Understanding the Mystery of Christ ** 49** 
- 
- 
-<a href="#/col2.8">** Colossians 2:8-23 – ** Examining Four Heresies  ** 59** </a>
-<a href="#/col2.8">** Colossians 2:8-10 – ** Philosophy, the first heresy**  59** </a>
-<a href="#/col2.16">** Colossians 2:16 – ** Legalism, the second heresy**  72** </a>
-<a href="#/col2.18">** Colossians 2:18-19a – ** Mysticism, the third heresy**  76** </a>
-<a href="#/col2.20">** Colossians 2:20-23 – ** Asceticism, the fourth heresy**  80** </a>
-<a href="#/col3.1">** Colossians 3:1-11 – ** Changed Focus  ** 84** </a>
-<a href="#/col3.12">** Colossians 3:12-17 – ** Changed Person **  96** </a>
-<a href="#/col3.18">** Colossians 3:18-4:1 – ** Changed Relationships ** 102** </a>
-<a href="#/col4.2">** Colossians 4:2-7 – ** Changed Lives **  124** </a>
-<a href="#/col4.7">** Colossians 4:7-18 – ** Closing Comments**  127** </a>
- 
-     
- 
-=== 
 
-** Colossians** 
-** Christ is All You Need** 
- 
-===
 
-    Paul wrote this short letter of 95 verses from a prison cell in Rome. You
-    might call this Paul’s “95 Thesis” on the authority and adequacy of Christ.
-    You will never find a greater discourse on the greatness of Christ. A
-    careful study of Colossians will furnish a humble appreciation of the
-    supreme authority and absolute adequacy of Jesus Christ.
 
-===
- 
-    The apostle Paul expressed that Jesus Christ is the ultimate authority and
-    complete sustainer of the Christian. He proclaimed Christ as the one and
-    only fountain that is able to completely satisfy our thirst. Through the
-    apostle Paul, the Holy Spirit warned the Colossians of the shallowness of
-    philosophy, legalism, mysticism and asceticism. These are cheap substitutes
-    for Christ living in and through you. Paul showed that human philosophy
-    cannot provide an explanation for, or an understanding of, life. Each of
-    these errors takes your eyes off Jesus as the source and sustainer of your
-    life. Colossians answers the question: “Is Christ enough?” or more
-    specifically, “Is He enough for you?”
 
-===
- 
-    It is significant that the Holy Spirit is only mentioned once in this
-    narrative (Col. 1:8). By explaining the Christian life without stressing
-    the Holy Spirit, Paul removed the tendency toward mysticism by showing that
-    the Holy Spirit’s ministry is ultimately * Christ in you* . In an era
-    (AD 2016) when the Holy Spirit’s work is mystified, the emphasis of Paul in
-    Colossians is a must-study. Whereas some teach that believers are lacking
-    and need a second blessing or some novel experience to be complete,
-    Colossians emphasizes just the opposite, stating we are already complete in
-    Christ.
- 
- 
-    ** The Authority of Christ** 
-    – Do you believe that Jesus Christ the Creator rules supreme and sovereign
-    over His creation? Do you acknowledge that in creation He is above
-    everything including all so-called gods, angels, demons, animals and
-    people? All of us ought to pause and honestly ask if there is anything
-    eclipsing Christ in our thinking. Although many people in our day confess
-    that Christ is good or important, they see Him as just one authority among
-    many. If that describes you, the book of Colossians was designed to change
-    your mind.
- 
- 
-** The Adequacy of Christ** – Do you believe that Christ is adequate? Are you convinced that Jesus Christ is sufficient for all your spiritual needs? Is Jesus Christ** * part* **  of the answer or is He    ** * the* **  answer itself? Do you find yourself looking to religious activities like fasting, deeper devotion or penance to keep you in line spiritually? What influence does modern-day secular philosophy have on your mind? In the book of Colossians you will learn that nothing can ever replace Jesus Christ in meeting your spiritual needs. While many Christians believe that Christ is good for their lives, they are not quite convinced He is enough.
- 
- 
-Colossians exalts Jesus Christ and shows that anything that takes you away from a dependence on Him is illegitimate.
- 
-===
 
-** The Book of Colossians** 
-** * Christ is all you need<br/><br/>* ** 
-     
-===
- 
-** I. ** 
-** Colossians 1:1-2 – An Introduction to the Book** 
- 
- 
-** A. ** 
-** An analysis of Colossians** 
- 
- 
-1. A short ** <u>history</u>**  of Colossae
- 
- 
-a. Colossae was a town in ** <u>central</u>**  Asia Minor, or modern-day Turkey.
- 
- 
-    b. Historically it was a ** <u>major</u>**  city in the
-    southwestern part of the Phrygian Empire (BC 1200-800) that predated the
-    arrival of the Greeks under Alexander the Great.
- 
- 
-    c. There were two ** <u>cities</u>**  that formed a triangle
-    with the city of Colossae. They were Laodicea (Rev. 3:14-22) and
-    Hierapolis. Colossians 4:13
- 
- 
-1) By the time of Paul’s writing, Colossae had been dwarfed in both    ** <u>size</u>**  and importance by Laodicea and Hierapolis.
- 
- 
-    2) In his commentary on Colossians, Bishop Lightfoot wrote, “Without doubt
-    Colossae was the ** <u>least</u>**  important church to which
-    any epistle of St. Paul is addressed.”
- 
- 
-    d. Colossae hosted a prosperous ** <u>textile</u>**  industry
-    and was particularly famous for its dark (crimson, purple, or glossy black)
-    wool, called colosseum.
- 
- 
-    e. For centuries a major ** <u>trade</u>**  route (highway) that
-    went from Ephesus to the Upper Euphrates traversed Colossae.
- 
- 
-    1) Later, around the ** <u>fifth</u>**  century BC, the road was
-    rerouted through Laodicea.
- 
- 
-    2) Many conclude that this contributed to the weakening of Colossae,
-    eventually relegating it to a mere ** <u>country</u>**  village.
- 
- 
-    f. Occasionally invading ** <u>armies</u>**  traveling to or
-    from Europe trampled the area of Colossae.
- 
- 
-    2. The ** <u>state</u>**  of Colossae
- 
- 
-    a. The inhabitants of the city would have been mainly Gentile, though it is
-    said that the Assyrian Empire exiled some 2,000 or more Israelites to the
-    region in the fifth century BC. Even so, the majority of the inhabitants
-    were ** <u>native</u>**  Phrygians or Greeks.
- 
- 
-b. Though much smaller than its neighbors, Colossae enjoyed its share of    ** <u>wealth</u>** .
- 
- 
-    c. History tells us a terrible earthquake destroyed Colossae in AD 60
-    during the reign of the Emperor Nero. Even though it was later rebuilt,
-    Colossae never regained its former ** <u>status</u>**  – a
-    status that was already fading in Paul’s day.
- 
- 
-d. Due to Turkish incursions in the twelfth century AD, the    ** <u>city</u>**  fell and the site was completely abandoned.
- 
- 
-    e. Today Colossae lies in ruins in the Lycos Valley, smothered beneath 800
-    years of ** <u>dirt</u>**  and debris.
- 
- 
-    f. Only recently have excavations begun, causing excitement in both the
-    Christian and secular archeological ** <u>worlds</u>** .
- 
- 
-    3. The ** <u>church</u>**  of Colossae
- 
- 
-a. Paul likely traveled near the city on his second missionary    ** <u>journey</u>**  but did not have God’s approval to evangelize there. Acts 16:6-8, Colossians 2:1
- 
- 
-1) The evangelization of Colossae is believed to have been the    ** <u>work</u>**  of Epaphras (Col. 1:7, 4:12-13), a believer who may have been saved under Paul’s ministry (third missionary trip) during his three-year stint in Ephesus (100 miles to the east). Acts 19:10, 20:31
- 
- 
-    2) Additionally, it may have been during Paul’s stay in Ephesus that
-    Philemon was ** <u>led</u>**  to the Lord (Philemon 19). At some
-    point the church of Colossae chose to assemble in Philemon’s home for their
-    meetings.
- 
- 
-    b. Whatever the case, Paul heard about their ** <u>faith</u>** 
-    (Col. 1:4, 8, 9; 2:1) as well as some serious errors that required
-    immediate clarification and correction.
- 
- 
-    1) Amazingly, the writing of this text in AD 60-61 would have been just
-    before, or even just after, the earthquake of AD 60. Needless to say, Paul
-    seemed totally unaware of that ** <u>event</u>**  when he wrote.
- 
- 
-    2) As he penned this ** <u>epistle</u>** , Paul was enduring his
-    first incarceration in the city of Rome. He was awaiting trial due to his
-    appeal to Caesar.
- 
- 
-c. The Colossian church seems to have eventually succumbed to    ** <u>angel</u>**  worship. Michael the Archangel became known
-    as the protecting saint of the city. He supposedly saved it from a
-    disastrous flood as reflected in medieval art.
- 
- 
-    ** B. ** 
-    ** The attack on the Colossians** 
- 
- 
-    1. Satan attacks God’s work through the spreading of false gospels or
-    through teaching false ** <u>methods</u> ** of Christian living.
-    If the devil can distract a Christian from the adequacy of
-    Christ by any means, he is happy. Colossians 2:1-4; 2 Corinthians 2:11,
-    11:3, 14; Ephesians 6:12; 1 Peter 5:8-9; James 4:7
- 
- 
-2. The false teachings of ancient Colossae did not completely    ** <u>deny</u>**  Jesus Christ as Savior. Instead they cleverly
-    diminished His authority as God come in the flesh. They put Christ in an
-    inferior light in the minds of naive believers.
- 
- 
-3. False teaching on how to live a victorious Christian life almost always    ** <u>attacks</u>**  Christ’s authority and adequacy. The
-    message becomes, “Jesus Christ plus whatever (fill in the blank) equals
-    successful Christian living.”
- 
- 
-    4. What was taking the focus off the preeminence and adequacy of Christ in
-    Colossae?
- 
- 
-    a. ** Human philosophy** : This ** <u>error</u>** 
-    teaches that you need Christ plus philosophy for successful Christian
-    living.
- 
- 
-1) This subtle seduction suggests that there are those who are in the    ** <u>know</u>**  versus the ignorant.
- 
- 
-    2) This error keeps you ** <u>looking</u>**  to human knowledge
-    and secular philosophy for the answers to life’s questions instead of
-    looking to Christ alone. Colossians 2:6-10
-    <br/>
-    <br/>
- 
- 
-    b. ** Ritualistic legalism** : This falsehood teaches that by
-    strict obedience to certain rituals, rules or regulations you can come to
-    merit God’s favor. This error deceives you into taking your eyes off Christ
-    and putting them on your own ** <u>efforts</u>**  and
-    achievements to reach spirituality. Colossians 2:16-17
-    <br/>
-    <br/>
- 
- 
-    c. ** Experiential mysticism** : This erroneous belief implies
-    that you are lacking and in need of something ** <u>more</u>** 
-    in order to become a complete Christian. This error often involves a need
-    to have visions, personal prophecies, encounters with angels, or
-    supernatural experiences.
- 
- 
-    1) This ** <u>false</u>**  focus invariably thrives on emotions
-    and experiences over and above the Word of God.
- 
- 
-    2) This mistake causes believers to ** <u>look</u>**  to
-    experience for spirituality instead of to Christ. Colossians 2:18-19
-    <br/>
-    <br/>
- 
- 
-    d. ** Personal asceticism** : This popular concept proposes that
-    self-denial, austerity, isolation, self-depravation, or greater religious
-    fervor is the real ** <u>key</u>**  to spirituality.
- 
- 
-    1) Interestingly, Paul pointed out that these won’t keep you from indulging
-    your ** <u>flesh</u>** . Colossians 2:20-23
- 
- 
-2) Instead of the abundant life being by faith through    ** <u>grace</u>** , this concept erroneously looks at
-    self-depravation or self-abasement as the key to abundant living.
-    <br/>
-    <br/>
- 
- 
-    5. All four of these errors are constantly repackaged, often by
-    well-meaning Christian leaders or famous authors, and reoffered to the
-    church as the “key” or “** <u>secret</u>** ” to a deeper
-    Christian life.
- 
- 
-    6. All of these misconceptions were eventually encapsulated in Gnosticism,
-    which in one form or another still exists ** <u>today</u>** .
-    Without doubt, until Christ returns these heresies will remain an ongoing
-    and constant threat to our spiritual progress. Thank God for the
-    clarifications found in the book of Colossians.
- 
- 
-    ** C. ** 
-    ** The arrangement of Colossians** 
- 
- 
-    1. This epistle breaks up into ** <u>three</u>**  sections.
- 
- 
-a. Chapter 1 – Knowing Jesus Christ as preeminent and adequate for    ** <u>you</u>** 
- 
- 
-b. Chapter 2 – Understanding your standing in Jesus Christ and that    ** <u>true</u>**  spirituality comes by means of God’s grace
-    through dependent faith versus the counterfeits
- 
- 
-    c. Chapters 3-4 – Living your life by faith in the adequacy of Christ,
-    empowered by ** <u>Him</u>**  to do His will
- 
- 
-    2. There are 11 verses in this epistle that highlight our position in
-    Christ.
- 
- 
-    a. Colossians 1:2 – We are in ** <u>Christ</u>** .
- 
- 
-    b. Colossians 2:7 – We are ** <u>rooted</u>**  in Christ.
- 
- 
-    c. Colossians 2:7 – We are ** <u>built</u>**  up in Christ.
- 
- 
-    d. Colossians 2:10 – We are ** <u>complete</u>**  in Christ.
- 
- 
-    e. Colossians 2:11 – We have been ** <u>crucified</u>**  with
-    Christ.
- 
- 
-    f. Colossians 2:12 – We have been ** <u>buried</u>**  with
-    Christ.
- 
- 
-    g. Colossians 2:13 – We are ** <u>alive</u>**  now with Christ.
- 
- 
-    h. Colossians 2:20 – We are ** <u>dead</u>**  with Christ to the
-    world system.
- 
- 
-    i. Colossians 3:1 – We have been ** <u>raised</u>**  up together
-    with Christ.
- 
- 
-    j. Colossians 3:3 – We are ** <u>hidden</u>**  with Christ in
-    God.
-    <br/>
-    <br/>
-===
-# D. Colossians 1:1-2a – The Authorship of Colossians
- 
- 
-1. Colossians 1:1a – Paul signed his name as the    ** <u>author</u>**  of this letter.
- 
- 
-    a. At birth Paul was named Saul. Saul was a Jewish name that signified
-    “great one” or someone of ** <u>great</u>**  importance.
- 
- 
-    1) Paul was born to ** <u>Jewish</u>**  parents in the Roman
-    military enclave of Tarsus. His parents must have been somewhat affluent
-    since they had him tutored under Gamaliel, a premiere teacher of Judaism in
-    that day. Acts 22:3
- 
- 
-    2) Paul was ** <u>born</u>**  with Roman citizenship. His father
-    may have gained Roman citizenship through military service. To gain
-    citizenship by means of military service you needed to have served a
-    minimum of 25 years and received an honorable discharge. Acts 5:34,
-    22:25-29
- 
- 
-    3) History provides only one brief description of Paul from an uncertain
-    source:
-    * 
-        a man of ** <u>small</u>**  stature, with a bald head and
-        crooked legs, in a good state of body, with eyebrows meeting and nose
-        somewhat hooked, full of friendliness, for now he appeared like a man,
-        and now he had the face of an angel
-    * 
-    .
- 
- 
-    b. As we see in the epistles, Saul was later referred to almost exclusively
-    as ** <u>Paul</u>** , meaning small or little one.
- 
- 
-    1) He was ** <u>initially</u>**  identified as Paul on his first
-    missionary journey in Acts 13.
- 
- 
-    2) Constantly being called ** <u>Little</u>**  One would have
-    been an ongoing reminder to the apostle of his need for God’s grace. Paul’s
-    unreserved acceptance of this nickname showed genuine humility.
- 
- 
-    c. A ** <u>short</u>**  history of Paul
- 
- 
-    1) ** <u>Before</u>**  salvation, Paul was extremely religious
-    and self-righteous. Galatians 1:14, Philippians 3:4-9, 1 Timothy 1:12-15
- 
- 
-    2) Paul ** <u>was</u>**  an aggressive persecutor of Christians.
-    Acts 22:4, 26:10-11; Galatians 1:13
- 
- 
-3) Paul was saved in a dramatic and sudden occurrence on a    ** <u>road</u>**  that led to the city of Damascus. Acts 9
- 
- 
-    4) Paul was set apart by Christ as His ** <u>apostle</u>**  to
-    the Gentiles. Acts 9:15-16, 1 Corinthians 15:8-10, Galatians 2:8
- 
- 
-    5) Paul served God on ** <u>three</u>**  missionary journeys.
-    Acts 13-20
- 
- 
-    6) Paul ** <u>wrote</u>**  13 foundational books of the New
-    Testament.
- 
- 
-7) Paul suffered greatly for Christ with beatings, a    ** <u>stoning</u>** , imprisonments and finally execution in
-    Rome around AD 67. 2 Corinthians 11:23-28
- 
- 
-    2. Colossians 1:1a – In the church, Paul possessed God-given authority as
-    an ** <u>apostle</u>** .
- 
- 
-a. Paul was * an apostle of Jesus Christ* . Christ saved Paul and    ** <u>sent</u>**  him forth as an apostle, specifically
-    dedicated to the Gentiles. Acts 9:15-16, 22:21; Romans 11:13; Galatians
-    2:8; 1 Timothy 2:7; 2 Timothy 1:11
- 
- 
-    b. Paul was an apostle * by the will of ** <u>God</u>** * 
-    and not by personal ambition or human appointment. Let’s consider some
-    general information on apostleship. Galatians 1:1, 1 Corinthians 1:1, 2
-    Timothy 1:1
- 
- 
-    1) The word apostle means ** <u>sent</u>**  one. The apostles
-    were personally chosen and commissioned into service by the resurrected
-    Lord Jesus. 1 Corinthians 9:1, 15:7-9, Acts 9:3-6
- 
- 
-    2) As official representatives of Jesus Christ and divinely commissioned,
-    the apostles laid the foundation of the ** <u>church</u>** .
-    Apostles were God’s spokesmen. 1 Corinthians 9:1-2; 2 Corinthians 12:12;
-    Ephesians 2:19-20, 4:12-13; 2 Peter 3:2b
- 
- 
-3) Apostles became the spiritual authorities in the    ** <u>early</u>**  church and were used by God to write much of
-    the New Testament. 1 Corinthians 4:8-13, 12:28; 1 Thessalonians 2:6; Jude
-    17
- 
- 
-4) There were only twelve apostles appointed    ** <u>directly</u>**  by the Lamb (Rev. 21:14). There are no new
-    apostles being commissioned directly by God today. 1 Corinthians 15:7-10,
-    Ephesians 2:20
- 
- 
-3. Colossians 1:1b – * And Timothy our brother* … Timothy, a    ** <u>fellow</u>**  believer in Jesus Christ, was one of Paul’s
-    assistants in ministry.
- 
- 
-    a. Timothy was the son of a ** <u>Greek</u>**  father and a
-    believing Jewish mother. Acts 16:1, 2 Timothy 1:5
- 
- 
-b. Timothy grew up in Lystra, where Paul was almost    ** <u>stoned</u>**  to death. Acts 16:2
- 
- 
-    c. He trusted ** <u>Christ</u>**  through the ministry of Paul.
-    Acts 14:8-20
- 
- 
-    d. Timothy was a ** <u>great</u>**  encouragement to the apostle
-    Paul. Philippians 2:19-23
- 
- 
-    e. He was Paul’s ** <u>faithful</u>**  fellow servant. Acts
-    14:6-23, 16-19; 1 Timothy 1:3; 2 Timothy 1:5, 3:15
- 
-===
-    ** E. ** 
-    ** Colossians 1:2** 
-    ** – The Addressees in Colossae** 
- 
- 
-1. Colossians 1:2a –* To the saints and faithful brethren in Christ… * As a    ** <u>group</u>** , the recipients of this letter were
-    identified as holy and trustworthy brothers in Christ.
- 
- 
-    a. They were called ** * saints* ** * ,*  which means
-    sanctified or set ** <u>apart</u>**  ones. This is a positional
-    statement.
- 
- 
-1) Saints speaks of the Christian’s standing in    ** <u>perfect</u>**  righteousness before God as already holy.
-    This standing is true of all believers.
- 
- 
-    2) The description ** * saints* **  is the single most used
-    designation or ** <u>title</u>**  for Christians in the entire
-    New Testament.
- 
- 
-    3) This description, or title, speaks of the believer’s unchanging position
-in Christ based on God’s acceptance of the finished    ** <u>work</u>**  of Christ.
- 
- 
-    b. * And*  ** * faithful brethren* ** … This
-description of the Colossian believers depicts them as faithful    ** <u>family</u>**  members. This is a conditional statement.
- 
- 
-1) This description spotlighted the Colossians consistent walk of    ** <u>faith</u>** .
- 
- 
-2) The mention of ** * <u>faithful</u>* **     * brethren*  in Paul’s introduction suggests the possibility of the
-    existence of unfaithful believers in the church.
- 
- 
-3) Obviously God desires that a believer’s condition or    ** <u>daily</u>**  practice (* faithful brethren* ) be in
-    alignment with his or her unchanging position in Christ (* saints* ).
- 
- 
-    4) When this is a reality in a believer’s practice, we call it walking by
-    means of the Spirit or walking by ** <u>faith</u>** . 2
-    Corinthians 5:7, Galatians 5:16
- 
- 
-2. Colossians 1:2b – Paul addressed the faithful    ** * brethren* ** 
-    * 
-        ** <u>in Christ</u>** 
-        ** who are at Colossae** 
-    * 
-    . We see that even though they were physically residing in the city of
-    Colossae, spiritually they were found ** * in Christ* ** .
- 
- 
-    ** F. ** 
-    ** Colossians 1:2c – An amiable greeting to the Colossians** 
- 
- 
-    1. When Paul said, “** * <u>Grace</u>* **  * to you,* 
-    ” he was expressing his desire for a special blessing for the Colossian
-    believers.
- 
- 
-    a. ** <u>Every</u>**  epistle Paul wrote started and finished
-    with a statement about grace. Colossians 1:2, 4:18
- 
- 
-    b. Paul believed that ** <u>life</u>**  for the believer was to
-    be lived by grace. Do you?
- 
- 
-    2. * And ** <u>peace</u>** …*  Paul also desired God’s
-    peace to rest over them.
- 
- 
-a. True peace comes from an understanding of God’s    ** <u>grace</u>** .
- 
- 
-    b. Does peace describe ** <u>your</u>**  life?
- 
- 
-3. Colossians 1:2b – The statement ** * from* ** *  God the Father and Lord Jesus Christ*  shows the only true    ** <u>source</u>**  from which both grace and peace originate.
- 
- 
-    a. We should also notice the word ** <u>order</u>**  of grace
-    first and then peace.
- 
- 
-    b. Truly you cannot experience peace without ** <u>first</u>** 
-    being a recipient of God’s amazing grace.
-    <br/>
-    <br/>
-    <br/>
- 
-===
-# II. Colossians 1:3-14 – Paul’s Three-focused Prayer 
- 
- 
-    ** A. ** 
-    ** Colossians 1:3-6 – Part one: Paul’s prayer of thanksgiving** 
- 
- 
-    1. Colossians 1:3-6 constitutes a single ** <u>run-on</u>** 
-    sentence in Greek. Paul’s thanksgiving for God’s work of grace in these
-    believers overflowed into a prayer for them to grow in their understanding
-    of God’s will so that they would continue to bear fruit and please God.
-    <br/>
-    <br/>
- 
- 
-2. Colossians 1:3 – Paul gave God thanks for his    ** <u>fellow</u>**  believers in Colossae.
- 
- 
-    a. Colossians 1:3a – * We give thanks* … Typical of Paul, he began his
-    prayer by giving ** <u>thanks</u>**  for his readers.
-    Philippians 1:3, Romans 1:8, Ephesians 1:15-16
- 
- 
-    1) By saying, “** * <u>We</u>* ** *  give thanks,* ”
-    Paul made it obvious that other believers were involved in intercession for
-    the Colossians.
- 
- 
-    2) The Greek verb translated * give thanks*  EU** CARIS** 
-TOUMEN contains the word ** <u>grace</u>**  as its root.    * Give thanks*  literally means to joyfully speak of grace. In this
-    case, Paul was joyfully speaking of the grace ** of God** 
-    towards the Colossian believers.
- 
- 
-    3) The verb is in the present tense, denoting the continual aspect of
-Paul’s thanksgiving. Paul and his companions continually    ** <u>gave</u>**  thanks for the Colossians.
- 
- 
-    4) When you get a glimpse of God and start to grasp His undeserved
-    provisions, you cannot ** <u>help</u>**  but give Him thanks.
-    Thankfulness is a central motivation in living the Christian life. True to
-    this fact, Paul showed gratitude in every chapter of Colossians. Colossians
-    1:3, 1:12, 2:7, 3:15-17, 4:2
- 
- 
-5) We should not lose sight of the fact that Paul was in    ** <u>prison</u>**  as he gave thanks here. Are you full of
-    thanksgiving in the midst of your life’s trials? James 1:2
- 
- 
-b. Colossians 1:3b – He gave thanks to    * the ** <u>Father</u>**  of our Lord Jesus Christ* .
- 
- 
-    1) Paul could have simply stated, “We give thanks to God the Father,”
-without mentioning He was    * the ** <u>Father</u>**  of our Lord Jesus Christ* .
- 
- 
-    2) This statement should bring to mind that just as God was always a
-    faithful Father to our Lord Jesus Christ while He was on earth, He is a
-    faithful Father to ** <u>us</u>**  as well. Romans 8:15,
-    Galatians 4:6
- 
- 
-    3) The same privileged position ** <u>Jesus</u>**  enjoys as a
-    son, you also enjoy today. Ephesians 1:3, John 17:23
- 
- 
-    c. Colossians 1:3c – * Praying always for you* … Paul wanted to let
-    the Colossians know they were not ** <u>alone</u>**  in the
-    battle of life; he and his fellow believers were consistently praying for
-    them.
- 
- 
-    1) * Praying ** <u>always</u>** … * Paul reminded them he
-    was praying regularly for them.
- 
- 
-    2) Later at the end of this ** <u>letter</u>** , he directed
-    them in like manner to be devoted to prayer. Colossians 4:2
- 
- 
-3) Paul’s exhortation to those under his care to    ** * <u>pray</u>* ** *  always*  (Col. 4:2) came on
-    the heels of his example. In essence, Paul’s example says, “Do as I say and
-    do.” He was not communicating, “Do as I say, but not as I do.”
-    <br/>
-    <br/>
- 
- 
-    3. Colossians 1:4-5b – The motivation of Paul’s thankfulness was the
-    pervasive testimony of the faith, ** <u>love</u>**  and hope of
-    the Colossians.
- 
- 
-a. Colossians 1:4a – * Y*     * our ** <u>faith</u>**  in Christ Jesus* … Notice Paul
-    first focused on their faith, not on their works. Why might that be? If a
-    believer has a vibrant faith in Christ, his faith will translate into
-    commendable works before God. Romans 1:5, 16:26
- 
- 
-b. Colossians 1:4b – * Y*     * our faith ** <u>in</u> Christ Jesus** * … Next Paul
-    focused on their faith specifically being * in Christ Jesus* . Their
-    faith in the person of Christ inspired Paul’s thanksgiving.
- 
- 
-    1) Their*  …faith in Christ Jesus* … could refer to the fact that they
-    believed in Christ and were ** <u>saved</u>**  by faith, but in
-    this verse Paul included their faith together with their love, showing he
-    was not speaking solely of their initial faith in Christ for salvation. He
-    was also speaking about their daily walk of faith. Galatians 2:20
- 
- 
-    2) Paul referred to the fact that they were ** <u>daily</u>** 
-    walking by faith. This is comparable to Paul’s comments about the faith of
-    the Thessalonians:
-    * 
-        Constantly bearing in mind your work of faith and labor of love and
-        steadfastness of hope in our Lord Jesus Christ
-    * 
-    . 1 Thessalonians 1:3
- 
- 
-    a) If someone were to thank God for you, would they mention your walk of
-    faith?
- 
- 
-    b) What is the object of your faith today? Is your life built on an ongoing
-    walk of faith in the Lord Jesus Christ, or do you trust in men, or worse
-    yet your own strength? Jeremiah 17:5-8
- 
- 
-c. Colossians 1:4c –    * And of the love AGAPE which you have for all the saints* … Paul was
-thankful to hear of their unselfish love toward the whole    ** <u>body</u>**  of Christ. John 15:12
- 
- 
-1) Romans 5:8 describes AGAPE love as both unmerited and    ** <u>self</u>** -sacrificial.
- 
- 
-2) 1 Corinthians 13:4-8 details 16 interrelated qualities    ** <u>found</u>**  in AGAPE love.
- 
- 
-    3) In Galatians 5:16, 22-23 we learn that AGAPE love is a fruit of the
-    Spirit in the ** <u>life</u>**  of the believer as he or she
-    walks by faith in the power of the Holy Spirit and not the product of
-    self-effort or resolve. Colossians 1:8, Galatians 5:22, 1 Timothy 1:4-5
- 
- 
-    d. Colossians 1:5a – * Because of the hope laid up for you in heaven* 
-    … The Colossians’ walk of faith and love for one another were the result of
-    their sure ** <u>hope</u>** .
- 
- 
-    1) The Colossian believers were living with a ** <u>focus</u>** 
-    on eternity and not allowing their present sufferings to crush their
-    spirit. Ephesians 1:18, Colossians 3:2-4, Hebrews 12:1-3
- 
- 
-2) By definition, biblical hope is confident expectation as opposed to    ** <u>doubt</u>** . Hope in the New Testament denotes certainty.
- 
- 
-    3) As with faith, hope has an ** <u>object</u>** . Hope is
-    always based on God’s Word and His faithfulness. Romans 8:24-25, 15:13; 1
-    Corinthians 13:13
- 
- 
-    e. Colossians 1:5b – ** Hope**  …
-    * 
-        of which you previously ** <u>heard</u>**  in the word of
-        truth, the gospel
-    * 
-    . Paul gave thanks because ever since day one of their salvation they had
-    unwaveringly held on to their hope.
- 
- 
-    4. Colossians 1:5c-6 – Paul gave thanks to God for the extent of the
-Gospel’s ** <u>reach</u>** .    * …the word of truth, the gospel… which has come to you* .
- 
- 
-    a. Colossians 1:5c – What is * the word of truth, the gospel*  that
-    Paul mentioned here?
- 
- 
-    1) Paul is not using the word gospel here as a general term for good news.
-He is referring specifically to the message of    ** <u>truth</u>**  that is to be preached and believed for
-    salvation.
- 
- 
-    2) Gospel here refers to the ** <u>saving</u>**  message as
-    found in 1 Corinthians 15:3-4.
- 
- 
-    b. Colossians 1:6a – The Gospel …* which has come to you* . Remarkably
-    the Gospel had reached even as ** <u>far</u>**  as the declining
-    town of Colossae.
- 
- 
-c. Colossians 1:6b –    * …just as in ** all the world**  also* … Paul gave thanks
-    that the Gospel message had reached ** <u>them</u>** , just like
-    it was reaching all the rest of the world.
- 
- 
-    1) The life-changing Gospel message is for the entire world, whereas
-    typically false teachings are represented as for only the exclusive or
-    privileged ** <u>few</u>** . 1 Timothy 2:4
- 
- 
-    2) The worldwide offer of the Gospel stands in stark contrast to the
-    exclusive or ** <u>secret</u>**  messages taught by false
-    teachers.
- 
- 
-    d. Colossians 1:6c – * …constantly bearing fruit and increasing…* 
-Paul gave God thanks that the Gospel was spreading all over the    ** <u>world</u>** , and that as it spread, people were being
-    saved and lives transformed. Romans 1:17
- 
- 
-e. Colossians 1:6d – …    * even as ** it has been doing in you**  also…*  Paul gave
-particular ** <u>thanks</u>**  for the impact of the    * grace of God*  on the lives of the Colossian believers as proved by
-    their own personal transformation.
- 
- 
-    f. Colossians 1:6e – …* since the day you heard of it* … The unsaved
-    individual must ** <u>hear</u>**  the message of Christ’s death
-    for his sins and Christ’s resurrection in order to be able to respond by
-    faith and be saved. Romans 1:16, 10:17; Ephesians 1:13
- 
- 
-g. Colossians 1:6f – …    * and understood the grace of God in ** <u>truth</u>** * .
-    The realization of what we deserve for our sins and what God did for us in
-    Christ’s death becomes the appropriate basis for a correct understanding of
-    grace.
- 
- 
-1) An accurate understanding of the grace of God is essential for    ** <u>initial</u>**  salvation. Romans 1:17
- 
- 
-    a) Grace is not God’s ** <u>love</u>**  separate from God’s
-    justice. God did not ignore His justice in order to show us His grace.
-    Philippians 1:9, 2 Peter 3:18
- 
- 
-    b) When Christ died on the cross as our substitute, God not only revealed
-    His perfect ** <u>love</u>** , Christ also satisfied God’s
-    righteous demands on our behalf. There is no greater picture of justice
-    served than Christ’s death for sin. Romans 5:8, 8:32; 2 Corinthians 5:21;
-    Colossians 2:13-14
- 
- 
-    2) Understanding the grace of God in truth is not only important for our
-    eternal salvation from sin’s penalty (phase one salvation) but also for our
-    practical salvation from sin’s ** <u>power</u>**  (phase two
-    salvation).
- 
- 
-    a) We are not saved on the basis of our ** <u>works</u>** . We
-    are saved by faith in the person and work of Christ. Romans 11:6, Galatians
-    2:21, 1 Peter 5:12b
- 
- 
-    b) We cannot live the Christian life by our own works either. The Christian
-    life is by faith as we ** <u>depend</u>**  on Christ and His
-    provisions on our behalf. Romans 1:17, Galatians 2:20
- 
- 
-    5. Colossians 1:6 – …
-    * 
-        Since the day you heard of it [the gospel] and understood the grace of
-        God in truth
-    * 
-    . Let’s take a closer look at the ** <u>Gospel</u>**  from 1
-    Corinthians 15:1-10.
- 
- 
-    a. 1 Corinthians 15:1 – The New Testament word * gospel*  EUANGELION
-    simply means ** <u>good</u>**  news. The context defines the
-    good news. When it comes to the saving message or the Gospel of our
-    salvation, we discover the following:
- 
- 
-    1) God has some really good news for ** <u>all</u>**  of
-    humanity. Acts 17:30-31
- 
- 
-2) The good news is that God has done everything necessary for    ** <u>our</u>**  salvation. John 19:30
- 
- 
-    3) The good news is that ** <u>sin</u>**  has been paid in full
-    by the death of Jesus Christ God’s Son. Hebrews 10:12
- 
- 
-    4) The good news is that we can have eternal life because long ago Christ
-    died for our sins and ** <u>rose</u>**  again just as the
-    Scriptures predicted He would. Romans 4:24-25, 1 Corinthians 15:3-4, 1
-    Thessalonians 4:14a
- 
- 
-    5) The Gospel is all about what ** <u>God</u>**  has done to
-    save sinners through the person and work of Christ. 1 Corinthians 15:1-5a,
-    11
-    <br/>
-    <br/>
- 
- 
-    b. 1 Corinthians 15:3a –
-    * 
-For I delivered to you as of first importance what I also received,        ** that Christ** 
-    * 
-    … The ** <u>person</u>**  who authored the Gospel is Jesus
-    Christ.
- 
- 
-1) The word * Christ*  in Greek is a much more loaded    ** <u>word</u>**  than what we perceive in English. When Paul
-    used the term * the Christ*  he was talking about the one and only
-    prophesied Deliverer. Genesis 3:15, Acts 10:36, Romans 1:3-4
- 
- 
-2) We often think of the term * Christ*  as merely Jesus’    ** <u>last</u>**  name, but actually the concept is far more
-    meaningful than that. The * Christ*  was the coming Deliverer, or
-    Messiah, promised back in the Garden of Eden. He was to be God’s Anointed
-    One sent to rescue us. Luke 2:11, Acts 2:36
- 
- 
-a) The term Christ is the Greek equivalent of the    ** <u>Hebrew</u>**  word Messiah. Messiah means anointed one.
- 
- 
-    b) The concept of an ** anointed one**  comes from the Old
-    Testament where a ** <u>prophet</u>**  would anoint a chosen
-    person with oil to signify God’s selection of that person for service. 1
-    Samuel 24:6, Psalm 105:15, Matthew 12:17-18
- 
- 
-    3) The Christ was God’s chosen instrument set ** <u>apart</u>** 
-    for the work of saving all who come to God by faith.
- 
- 
-    4) As the Christ, or anointed one, Jesus was the one chosen by God to be
-    the Savior of the ** <u>world</u>** . Jesus Christ is the
-    long-awaited Messiah. Isaiah 42:1, 61:1, Luke 4:16-21
- 
- 
-    5) Therefore the Gospel had to do first of all with Jesus being the Christ
-    who was appointed by God to come as a ** <u>human</u>**  and
-    save mankind from sin. John 1:29-34
- 
- 
-    c. 1 Corinthians 15:3b – * Christ ** <u>died</u>** *  [in
-    our place, for our sins]. The Gospel message includes the work accomplished
-    by Christ’s substitutionary death for us. Luke 24:27
- 
- 
-    1) 1 Corinthians 15:3 – The phrase * Christ died * is at the heart of
-the Gospel. If for salvation you trust in anything    ** <u>other</u>**  than the death of Christ you will not be
-    saved. Your faith must rest in Christ alone.
- 
- 
-    2) The Bible affirms that * the wages for sin is death* . When Christ
-    died for our sins, He ** <u>paid</u>**  the price for our
-    forgiveness. Christ’s death was the appropriate, sufficient and only
-    payment for our redemption.
- 
- 
-d. 1 Corinthians 15:3c –    * Christ died for our ** <u>sins</u>** * … The great
-    accomplishment of the Gospel is Christ’s death for our personal sins. His
-    death was the once-for-all payment for sins. His one-time payment provided
-    everything necessary for our complete forgiveness.
- 
- 
-    1) Christ died so that God could ** <u>forgive</u>**  sin
-    forever. * For the wages of sin is death*  (Rom. 6:23). Through His
-    death, Christ paid your sin debt.
- 
- 
-    2) Nothing more needs to be done to resolve the sin issue between holy God
-and sinful man. Sin was completely dealt with on the    ** <u>cross</u>**  of Christ. There is no longer any need for a
-    sacrifice. 1 Peter 3:18
- 
- 
-e. 1 Corinthians 15:3d – ** * Christ died* ** …    * according to the Scriptures and was buried* . We have two great
-    confirmations that Christ did indeed ** <u>die</u>**  for our
-    sins. The first is fulfilled prophetic testimony from the Old Testament,
-    and the second is the fact that His lifeless body was placed in a tomb on a
-    day in history.
- 
- 
-f. 1 Corinthians 15:4-5a – …** * and that he was raised on the third day* **     *  according to the Scriptures, and that He appeared…*  We also have
-    two confirmations of Christ’s literal ** <u>bodily</u>** 
-    resurrection. First we have the literal fulfillment of Old Testament
-    Scripture and second we have eyewitness testimonies.
- 
- 
-    1) Christ is a ** <u>living</u>**  Savior. If Christ were still
-    dead, He could not to save anyone. Hebrews 7:25
- 
- 
-2) Christ is the source of eternal life. Having been    ** <u>raised</u>**  from the dead, Christ now offers eternal
-    life to all who believe in Him. Romans 4:24-25, John 6:40
-    <br/>
-    <br/>
- 
- 
-g. 1 Corinthians 15:11 – Concerning the Gospel message, Paul said, “…    * so we preach and so you ** <u>believed</u>** * .”
- 
- 
-    1) Because Christ died for our sins and rose again just as God’s Word says,
-    we do not ** <u>preach</u>**  any other message to the unsaved
-    for salvation. Romans 6:23
- 
- 
-    2) Many modern-day Gospel presentations ** <u>lack</u>**  the
-    central underlying message of the Gospel, which is the person and work of
-    Christ. 1 Corinthians 1:23, 2:2; Galatians 6:14
- 
- 
-3) If the Gospel we preach does not contain the    ** <u>core</u>**  issues outlined in 1 Corinthians 15:3-4, we
-    are not preaching the ** true**  Gospel as presented in the New
-    Testament.
- 
- 
-    4) Likewise, if the Gospel message we preach contains additions to Christ’s
-person and work we are not faithfully preaching the    ** <u>Gospel</u>**  of Christ.
-    <br/>
-    <br/>
- 
- 
-    ** B. ** 
-    ** Colossians 1:7-8 ** 
-    ** – ** 
-    ** Epaphras:** 
-    **  An interlude in ** 
-    ** Paul’s prayer** 
-     
- 
- 
-1. Colossians 1:7a –    * Just as you ** <u>learned</u>**  it from Epaphras* .
-    Epaphras was God’s witness who was the first to preach the Gospel of grace
-    to the Colossians. Epaphras was part of the Colossian church. Colossians
-    4:12, Philemon 23
- 
- 
-2. Colossians 1:7b – Paul spoke of Epaphras as …    * our beloved fellow bondservant* . Paul testified that he had a
-    loving companion and trustworthy ** <u>fellow</u>**  laborer in
-    the person of Epaphras.
- 
- 
-3. Colossians 1:7c – * W*     * ho is a faithful servant of Christ on our behalf* … Epaphras
-    ministered on behalf of Christ. By mentioning the faithfulness of Epaphras,
-    Paul astutely encouraged following Epaphras’ teachings and example as
-opposed to those who might ** <u>not</u>**  be    * faithful servants ** of Christ** * .
- 
- 
-    4. Colossians 1:8 –
-    * 
-        And he also informed us of your ** <u>love</u>**  in the
-        Spirit.
-    * 
-    Epaphras was the one who told Paul of the spiritual progress of the
-    Colossians, specifically of their love produced by the Holy Spirit.
- 
- 
-a. As mentioned in the introduction, this is the one and    ** <u>only</u>**  reference to the Holy Spirit in the entire
-    epistle.
- 
- 
-    b. In Colossians, Paul associated with ** <u>Christ</u>**  the
-    activities he might normally associate with the Holy Spirit. (Compare
-    Colossian 3:16 with Ephesians 5:18)
- 
- 
-    c. Paul may have made this shift in order to ** exalt**  Jesus
-    Christ in the thinking of the Colossians and to correct a flawed viewpoint
-    concerning the ** <u>true</u>**  ** source**  of
-    spirituality. This fact would help them appreciate and depend on both the
-    authority and adequacy of Christ.
-    <br/>
-    <br/>
- 
- 
-    ** C. ** 
-    ** Colossians 1:9-12 – ** 
-    ** Part two: ** 
-    ** Paul’s prayer for their continuing maturity** 
- 
- 
-1. Colossians 1:9 – The prayer of Paul and his companions was    ** <u>full</u>**  of heartfelt concern for the well-being of the
-    Colossians.
- 
- 
-    a. Colossians 1:9a –
-    * 
-        For this reason, since the ** <u>day</u>**  we heard of it…
-    * 
-    Paul pointed out that they began to pray for the Colossians from the day
-    they first got news of their salvation.
- 
- 
-b. Colossians 1:9b –    * We have not ceased to ** <u>pray</u>** …*  Paul and his
-    companions were persistent in their prayers, consistently remembering the
-    Colossians right up to the present day.
- 
- 
-    1) The phrase * not cease*  EU PAUOMETHA literally means to do
-    something without taking a ** <u>rest</u>** , or pausing.
- 
- 
-    2) Paul prayed because he knew that God is able to do in a believer’s life
-    * 
-        far more abundantly ** <u>beyond</u>**  all that we ask or
-        think
-    * 
-    . Ephesians 3:14-21
- 
- 
-    3) Consistency in ** <u>prayer</u>**  is as important as
-    consistency in teaching. Like Paul, we should dedicate ourselves to
-    intercession for God’s people.
- 
- 
-c. Colossians 1:9c –    * We have not ceased to pray ** for you** …*  The apostle’s
-genuine concern for the Colossian believers can be seen in the    ** <u>two</u>**  intimate words * for you* .
- 
- 
-d. Colossians 1:9d –    * We have not ceased to pray for you ** and to ask** … * To
-    ask AITEO means to ** <u>beg</u>** , or intensely plead, on
-    someone’s behalf. We see Paul and his prayer companions imploring God to
-    respond to their requests.
-    <br/>
-    <br/>
- 
- 
-    2. Colossians 1:9 – * To pray for you and to ask…*  We will now focus
-    in on the ** <u>heart</u>**  of Paul’s petition for the
-    Colossians. What was the central request of his prayer?
- 
- 
-a. Colossians 1:9e – Paul prayed    * that [they] may be filled with the knowledge*  of God’s will. Paul
-    wanted God to abundantly ** <u>fill</u>**  the Colossians with a
-    precise kind of knowledge.
- 
- 
-    1) The verb * filled*  PLEROO conveys the idea of being filled all the
-    way to the ** <u>top</u>** , even to the point of overflowing.
- 
- 
-    2) This verb PLEROO is in the passive voice meaning it would be someone
-    else – God in this case – who would ** <u>do</u>**  the filling.
- 
- 
-    3) Paul prayed that ** <u>God</u>**  would completely fill the
-    Colossian believers with * knowledge* .
- 
- 
-    a) The Greek word for * knowledge*  EPIGNOSIS is made up of the
-    preposition EPI meaning ** <u>apt</u>**  or fitting and the
-    common verb GNOSIS * knowledge* . This word therefore describes
-    experiential or firsthand knowledge and entails discernment, recognition or
-    perception.
- 
- 
-    b) When Paul prayed that God would give them ** <u>all</u>** 
-    the same knowledge EPIGNOSIS, he was giving an indirect rebuke to false
-    teachers who claimed to have secret knowledge, unknowable to the average
-    person.
- 
- 
-    c) Interestingly, the words ** mystery**  MUSTERION (Col.
-    1:26-27, 2:2, 4:3), ** knowledge**  GNOSIS, EPIGNOSIS (Col.
-    1:9-10, 2:2, 3:10), and ** fullness**  PLEROMA (Col. 1:19, 2:10)
-were all extensively used by Gnostics who taught that ** they**     ** alone**  had the ** <u>full</u>**  understanding
-    of mysteries.
- 
- 
-b. Colossians 1:9f – Paul specifically prayed for the Colossians to be    * filled with the knowledge ** of God’s <u>will</u>** * .
- 
- 
-1) Paul labored to help believers understand God’s will for them – the    ** <u>mystery</u>**  not revealed in past dispensations. 1
-    Corinthians 2:7, Ephesians 3:9, Colossians 1:26
- 
- 
-    2) Paul understood the immense ** <u>value</u>**  of
-    intercession. Even though Paul sought to explain God’s truth clearly, he
-    knew the only way for the Colossians to understand God’s will was for God
-    to teach them. 1 Corinthians 3:6
- 
- 
-3) From Paul’s example, we should learn not only the importance of    ** <u>prayer</u>**  but also what should be the content of our
-    prayers for other believers. Ephesians 1:16-19, 3:14-21
-    <br/>
-    <br/>
- 
- 
-    c. Colossians 1:9g – Paul specifically prayed the Colossian believers would
-be filled with an understanding of God’s will    * in all spiritual ** <u>wisdom</u>** * .
- 
- 
-    1) Spiritual wisdom can ** <u>only</u>**  be understood by the
-    believer who is taught by God’s Spirit. 1 Corinthians 2:6-14
- 
- 
-    2) An unsaved person cannot understand God’s ** <u>ways</u>** .
-    1 Corinthians 2:14
- 
- 
-    3) 1 Corinthians 2:6-7a –
-    * 
-Yet we do speak wisdom among those who are        ** <u>mature</u>** ; a wisdom, however, not of this age nor
-        of the rulers of this age, who are passing away; but we speak God’s
-        wisdom
-    * 
-    …
- 
- 
-d. Colossians 1:9h – Paul also prayed for the Colossian believers to be    ** <u>filled</u>**  with the knowledge of God’s will in all
-    spiritual*  …understanding* .
- 
- 
-1) The word * understanding*  SUNESIS in Greek literally    ** <u>means</u>**  a running together or a flowing together,
-    like the joining of two rivers. The word denotes the ability to understand
-    concepts and see relationships between them.
- 
- 
-    2) To * understand*  God’s will is a process of properly combining the
-    knowledge of the Word of God with ** <u>real</u>** -life
-    experience. Since this process must be divinely initiated, Paul correctly
-    made this a second aspect of his petition for the Colossians. John 14:26, 1
-    Corinthians 2:12, Ephesians 1:17-18
- 
- 
-    3) 1 Corinthians 3:6-7 –
-    * 
-        I planted, Apollos watered, but God was causing the growth. So then
-        neither the one who plants nor the one who water is anything, but God
-        who ** <u>causes</u>**  the growth
-    * 
-    . Colossians 2:19b
- 
- 
-4) Acquiring spiritual*  understanding*     ** <u>guards</u>**  you against reliving the first year of your
-    Christian life for the twentieth time. James 1:21-25
-    <br/>
-    <br/>
- 
- 
-    * 3. * 
-Colossians 1:10-11 – Being filled with the knowledge of God’s will* in all spiritual wisdom and understanding*  produces amazing    ** <u>results</u>** . Paul told the Colossians what they could
-    expect in answer to his prayer.  
- 
- 
-a. Colossians 1:10a – …    * to walk in a manner ** <u>worthy</u>**  of the Lord* .
-    The first blessing that would flow from knowing God’s will in all spiritual
-    wisdom and understanding would be a changed walk.
- 
- 
-    1) * To walk in a manner worthy of the Lord*  means that their lives
-    would be a ** <u>tribute</u>**  to the Lord and His amazing
-    grace. 1 Corinthians 15:10, Ephesians 2:7
- 
- 
-    2) Paul knew that if the Colossian believers were filled with the knowledge
-    of God’s will in all spiritual wisdom and understanding they would
-    inevitably ** <u>walk</u>** , or live their lives, in a way that
-    gave credit to God’s name. Titus 2:5b
- 
- 
-b. Colossians 1:10b – * …to please Him in all respects* … If they were    * filled with the knowledge of God’s will* , the Colossian believers
-    would be able to live a ** <u>life</u>**  completely pleasing to
-    God.
- 
- 
-    1) This amplifies the previous statement of walking in a worthy manner. The
-    outcome of a worthy walk is a life that ** <u>pleases</u>**  the
-    Father.
- 
- 
-    2) ** <u>Jesus</u>**  fully pleased the Father as seen in the
-    statement, “* This is my beloved Son, in whom I am well pleased* .”
-    Paul prayed for the Colossians because he wanted them also to be pleasing
-    to their God.
-    <br/>
-    <br/>
- 
- 
-    c. Colossians 1:10c – * Bearing fruit in every good work* … Knowing
-    God’s will in all spiritual wisdom and understanding would enable to the
-    Colossians to ** <u>bear</u>**  fruit in the good works God had
-    for each of them. Ephesians 2:10, Titus 2:14
- 
- 
-    1) A natural outcome of a worthy ** <u>walk</u>**  is
-    fruit-bearing. It was not Paul’s desire that they simply do good works;
-    Paul wanted their good works to be fruitful.
- 
- 
-    2) This verse implies that ** <u>not</u>**  all good works are
-    fruitful. How can that be? If good works are done in a believer’s own
-    strength, they are valueless and will not be recompensed at the Judgment
-    Seat of Christ. Romans 7:18, 24; 2 Corinthians 5:9-11; 2 Peter 1:8-10
- 
- 
-    a) Philippians 1:9 –
-    * 
-        And this I ** <u>pray</u>** , that your love may abound
-        still more and more in real knowledge and all discernment…
-    * 
-Paul prayed for the love of the Philippians to be based in    *  real knowledge*  and * all discernment * AISTHESIS, meaning
-    insight and full comprehension.
- 
- 
-    b) Philippians 1:10 – He prayed this
-    * 
-        so that [they might] approve the things that are excellent, in order to
-        be sincere and blameless until the day of Christ.
-    * 
-    ” In order to ** <u>please</u>**  God, the Philippians needed to
-    first have the knowledge and discernment of God’s will.
- 
- 
-    c) Philippians 1:11 – …
-    * 
-        having been filled with the fruit of righteousness, which comes through
-        Jesus Christ, to the glory and praise of God
-    * 
-    . Ultimately though, the ** <u>fruit</u>**  of righteousness
-    would be the product of Christ living His life through them as they walked
-    by faith in Him. John 15:4-5; Galatians 2:20, 5:22
- 
- 
-    3) The good deeds which will be rewarded are those produced through us by
-    Jesus Christ as we ** <u>walk</u>**  by faith. 1 Corinthians
-    3:12-13, 15:10; 2 Corinthians 4:7; Ephesians 3:16-17; Philippians 2:12-15;
-    Hebrews 13:21
-    <br/>
-    <br/>
- 
- 
-    d. Colossians 1:10d – As God answered Paul’s prayer for the Colossians to
-be filled with the knowledge of God’s will, they would be* increasing in the knowledge * EPIGNOSIS    *  of ** <u>God</u>** * .
- 
- 
-    1) A growing knowledge of God is essential for ** <u>life</u>** 
-    . The more you know God the less you depend on other things. Galatians 4:9
- 
- 
-    2) This speaks of ** <u>more</u>**  than mere intellectual
-    knowledge of God and His attributes, although our knowledge must start
-    there. This involves firsthand knowledge of God gained by learning to daily
-    lean on His Word in the midst of trials and tribulations. Psalm 9:10, John
-    17:3, 1 John 2:13
-    <br/>
-    <br/>
- 
- 
-    e. Colossians 1:11a – As a ** <u>result</u>**  of the Colossians
-    being filled with the knowledge of God’s will in all spiritual wisdom and
-understanding they would also be    * strengthened with all power, according to His glorious might* . 2
-    Peter 1:3-4
- 
- 
-    1) Through knowing God’s will in all spiritual wisdom and understanding we
-learn that He has provided for us    * His glorious ** <u>might</u>** * . Ephesians 1:18-19
- 
- 
-    2) God is not looking for inherently ** <u>strong</u>** 
-    believers. He is looking for humbly dependent believers. A weak believer
-    quickly learns to rely on God’s strength, while a supposedly strong
-    believer falls prey to self-sufficient arrogance. 1 Corinthians 10:12; 2
-    Corinthians 2:3-5, 12:9-10
- 
- 
-    f. Colossians 1:11b – As a result of being filled with the knowledge of
-    God’s will in all spiritual wisdom and understanding the Colossian
-    believers would ultimately grow to the point of
-    * 
-        attaining of ** <u>all</u>**  steadfastness and patience
-    * 
-    .
- 
- 
-    1) Steadfastness HYPOMONEN means to endure ** <u>under</u>** 
-    trials or to bear up under difficulties. This kind of stamina comes only
-    through our knowledge of God’s plan and will for us in Christ. Therefore,
-    stamina comes through the knowledge of what we have in Christ and who
-    Christ is for our sake.
- 
- 
-    2) Though similar concepts, the difference between * steadfastness* 
-    and * patience*  is that while * steadfastness*  has to do with
-bearing up under trials, * patience*  MAKROTHYMIAN has to do with    ** <u>long</u>** -term endurance in trials. Romans 5:3-5, James
-    1:2-4
- 
- 
-3) Clearly, the Colossians needed God’s glorious    ** <u>strength</u>**  to be able to patiently and steadfastly
-    persevere under hardship. Ephesians 3:16, Philippians 4:13
- 
- 
-    4) We should ** <u>grow</u>**  in our understanding of God’s
-    will to the point that we joyfully weather every trial, although in the end
-    it is Christ who gives us stamina and ultimately gets all the glory. 2
-    Corinthians 3:4-6
- 
- 
-    ** D. ** 
-    ** Colossians 1:12-14 – ** 
-    ** Part three: Paul’s prayer of worship** 
-     
- 
- 
-1. Colossians 1:11c-12a –    * Joyously ** <u>giving</u>**  thanks to the Father* … If
-    God would answer Paul’s prayer for the Colossian believers to be filled
-    with the knowledge of God’s will in all spiritual wisdom and understanding,
-    the Colossians would truly have ** <u>reason</u>**  to rejoice
-    and be thankful.
- 
- 
-    a. Paul prayed with the high hopes that the Colossians would joyfully and
-    continually give thanks* .*  Clearly this only occurs when one is
-    occupied with ** <u>Christ</u>** , living dependently on Him.
-    Colossians 3:15-16, Hebrews 12:1-2
- 
- 
-    b. When a believer is unthankful, something is wrong with his
-    understanding. Maybe he doesn’t know the truth, remember the truth,
-    appreciate the truth or is proudly choosing to ignore it, but whatever the
-    case, he will be ** <u>bitter</u>** .
-    <br/>
-    <br/>
- 
- 
-2. Colossians 1:12b –    * Giving thanks to the Father who has qualified us* … Paul’s prayer
-    continued with ** <u>praise</u>**  to God for their (our) future
-    blessings in Christ.
- 
- 
-a. Colossians 1:12b – Paul rejoiced because our heavenly** <u>Father</u>**  has already …    * qualified us to share in the inheritance.* 
- 
- 
-    1) As believers, we ** <u>share</u>**  in Christ’s inheritance.
-    Through our salvation we became co-heirs with Christ. Romans 8:17
- 
- 
-    2) Based upon the aorist tense of the verb * qualified*  HIKANOO (made
-    us fit), this is something God has already accomplished at a point in time
-    in the ** <u>past</u>** . As saints, our qualification to
-    inherit is a done deal. This is an issue that God has intentionally taken
-    upon Himself to provide for every believer.
- 
- 
-    3) Thankfully, according to this verse, God, ** <u>not</u>** 
-YOU, is the guarantor of your future inheritance. You will    ** never**  be qualified for it based on your own merits. Your
-    inheritance is not something you earn by good behavior. Hebrews 9:15, 1
-    Peter 1:4
- 
- 
-    4) The Holy ** <u>Spirit</u>**  who lives in every believer is
-    God’s guarantee of future participation in the inheritance. Ephesians
-    1:13-14
- 
- 
-    5) The promise of a future inheritance for the believer is just as secure
-    as our future hope of eternal ** <u>life</u>** . They go hand in
-    hand. Amazingly, God is the one who prequalified us to share in the
-    inheritance and He did so on the day of our salvation. Titus 3:7
-    <br/>
-    <br/>
- 
- 
-b. Colossians 1:12c – Paul praised God for the future    * inheritance ** of the saints in Light** * . This means
-    that just as we once owned a portion of the kingdom of darkness, now as
-believers we possess a portion in the soon-to-come kingdom of    ** <u>light</u>** . Acts 26:18, Ephesians 5:8
- 
- 
-1) In His foreknowledge, God predestined all who    ** <u>believe</u>**  in Christ to have a part in His
-    inheritance. Romans 8:28-30, Ephesians 1:11, 18
- 
- 
-2) The phrase * in light * speaks of our glorification and    ** <u>future</u>**  participation in God’s eternal kingdom. 1
-    Peter 1:3-8, Revelation 22:5
-    <br/>
-    <br/>
-    <br/>
- 
- 
-    c. 1 Peter 1:4 – As saints and ** <u>children</u>**  of God, we
-    have an inheritance that is permanent.
- 
- 
-    1) This verse marks a clear distinction between heaven and our inheritance.
-    According to this verse, heaven is not our inheritance, rather heaven is
-    the bank where our inheritance is ** <u>kept</u>** .
- 
- 
-    a) On this earth, people can die before they get their inheritance. Or
-    their inheritance can be stolen, lost, burned, corrupted, etc., but in
-    heaven there is no ** <u>fear</u>**  of losing your inheritance.
- 
- 
-    b) Peter stated that our inheritance is guaranteed for us in our promised
-    heavenly home. It is safe and secure and never merited, not even on our
-    best day. It cannot be ** <u>lost</u>** .
-    <br/>
-    <br/>
- 
- 
-    2) In this verse, Peter made several adamant declarations concerning the
-    certainty of our ** <u>future</u>**  participation in Christ’s
-    inheritance in heaven.
- 
- 
-    a) We have an * imperishable * inheritance. Being everlasting, our
-    inheritance can ** <u>never</u>**  be destroyed.
- 
- 
-b) We have an * undefiled * inheritance. Our inheritance can never be    ** <u>spoiled</u>** .
- 
- 
-    c) We have an * unfading * inheritance. Our inheritance will never
-    diminish or lose its ** <u>beauty</u>** .
- 
- 
-d) We have an inheritance that is    * reserved in ** <u>heaven</u>**  for * [us]* .*  Our
-    inheritance is permanently earmarked for us, being guarded for us by God in
-    heaven.
-    <br/>
-    <br/>
-    <br/>
- 
- 
-3. Colossians 1:13 – Paul continued his praise to God in prayer for their    ** <u>earlier</u>**  deliverance in Christ (justification).
- 
- 
-a. Colossians 1:13a – God rescued us from grave** <u>peril</u>** .    * For He delivered us from the domain of darkness,*  from Satan’s
-    power and jurisdiction. Colossians 2:15
- 
- 
-    1) Paul ** <u>used</u>**  the middle, or reflexive, voice for
-    the verb * delivered* , communicating an intimacy and compassion.
- 
- 
-    2) The grammar communicates a snatching or rescuing from danger with the
-    goal of drawing the one saved ** <u>under</u>**  one’s personal
-    care.
- 
- 
-    b. Colossians 1:13b – Paul also praised God for their future inclusion in
-    His eternal plan saying, “A* nd * [He]
-    * 
-        transferred us to the ** <u>kingdom</u>**  of His beloved
-        Son.
-    * 
-    ” This statement is a reality to be accepted by faith and not an experience
-    to be felt.
- 
- 
-    1) This word * transferred*  METHISTEMI was used to describe the
-    relocation of large ** <u>groups</u>**  of people such as
-    captured armies or refugees from one country to another.
- 
- 
-    2) History records that the Greek ruler Antiochus the Great, the sixth
-ruler of the Seleucid Empire who ruled from BC 222 to BC 187,    * transferred*  METHISTEMI (same word, conveyed or transported) some
-    2,000 ** <u>Jews</u>**  from Babylon to Colossae.
- 
- 
-3) This is a beautiful description of our position** <u>change</u>**  as believers. God removed us from being    * in Adam*  and placed us * in Christ* . This is part of our
-    inheritance as saints. 1Corinthians 12:22, Ephesians 2:1-6
-    <br/>
-    <br/>
- 
- 
-    4. Colossians 1:14 – Paul ** <u>ended</u>**  his prayer of
-    praise with a declaration of our gracious position as blameless. Ephesians
-    1:4, 7
- 
- 
-    a. Colossians 1:14a – * In whom we have redemption* … Paul burst forth
-    in praise for the ** <u>price</u>**  Christ paid to purchase our
-    spiritual freedom.
- 
- 
-1) Remarkably, this is the current possession of    ** <u>every</u>**  believer in Christ. Notice that we have this
-    redemption * in Him* , in Christ.
- 
- 
-    2) In the here and now, as a result of our union with Christ, we have been
-redeemed. By paying the required price, Christ purchased us out of the    ** <u>slave</u>**  market of sin.
- 
- 
-    3) This is not a blessing we obtained because of something we did or must
-    do, rather it is ours through the pure ** <u>grace</u>**  of
-    God.
-    <br/>
-    <br/>
- 
- 
-    b. Colossians 1:14b – …
-    * 
-        in whom we have redemption, ** the forgiveness of sins** 
-    * 
-    … Along with the apostle Paul, we should rejoice in praise and thanksgiving
-    for the remission of our ** <u>sins</u>**  because of Christ’s
-    death on our behalf.
- 
- 
-1) Because the penalty for sin has been paid in    ** <u>full</u>**  on our behalf, God was able to forgive us
-    eternally for all our sins.
- 
- 
-    2) Although the phrase “ask for forgiveness” is a very popular phrase in
-    modern evangelism, it is not a biblical requirement for salvation. If you
-could be forgiven by simply asking for forgiveness, then    ** <u>Christ</u>**  died needlessly.
- 
- 
-    3) When a person trusts in Christ, God recognizes Christ’s death as his or
-    her substitute. God is therefore ** <u>free</u>**  to forgive
-    without any pleading by the sinner since the sin penalty was already paid
-    in full at Calvary.
- 
-===
-# III. Colossians 1:15-18 – God’s Protection From Heresies: Understanding the Sovereign Authority of Christ
-    
- 
- 
-    ** A. ** 
-    ** Introduction: Attacks on the deity of Christ** 
- 
- 
-1. Philosophy: This error, referred to in Colossians 2:8, emphasizes
-following human philosophy and secular knowledge. It deceives    ** <u>believers</u>**  into thinking that Christ is insufficient and therefore they need to figure out life by means of philosophy.
- 
- 
-    a. Life based on philosophy places secular ** <u>logic</u>** 
-    and human reasoning over and above a living, breathing relationship with
-    Christ as found in Scripture.
- 
- 
-    b. Solomon, the wisest human (other than Jesus Christ) to ever live (wiser than Socrates, Plato, Aristotle, Buddha, Confucius, etc.), came to the conclusion that human philosophies and ideologies    ** <u>fall</u>**  miserably short of giving meaning to life. Ecclesiastes 1:2-3
- 
- 
-    c. Christ stated that He is the only ** <u>way</u>** , truth and
-    life. Peter added that all we need for life and godliness is found in the
-    true knowledge of Christ. 2 Peter 1:3
- 
- 
-d. Paul revealed in Colossians 1:27 that the mystery of life is    * Christ ** <u>in</u>**  you* . Colossians 2:2-3 further illustrates this truth.
- 
- 
-2. Legalism: Colossians 2:16-17 portrays a blending of ritualism and law with the truth of Christ. This error produces a    ** <u>works</u>** -based Christianity that becomes nothing more than an oppressive system of legalism. Acts 15:1-11
- 
- 
-    a. This ** <u>error</u>**  trades fellowship with Christ for
-    legalistic regulations and religious rituals. Many churches fall into the
-    trap of believing that godliness can be obtained by fulfilling rules and
-    doing rituals rather than through a vibrant, faith-based relationship with
-    Christ. Philippians 3:9
- 
- 
-    b. When Christians are bound up in this error, they are typically
-    characterized by rigidity, intolerance, self-righteousness and pride rather
-    than by ** <u>humble</u>**  authenticity.
- 
- 
-    c. Down through the centuries, this deviation has turned believers to
-    things that are merely symbols of Christ but devoid of Christ Himself. You
-    might say believers have focused on the ** <u>shadow</u>** 
-    rather than the substance, or on the reflection rather than the reality.
-    Colossians 2:17
-    <br/>
- 
- 
-3. Mysticism: Colossians 2:18 points out the error of* spiritual mysticism* . This error attracts believers to    ** <u>focus</u>**  on experiences and opens them to exploitation
-    by deceitful leaders.
- 
- 
-    a. This error enchants Christians by the fantastic, the inexplicable and
-    the supernatural. It ** <u>trades</u>**  the authenticity of a
-    faith-based fellowship with Christ for a “Christianity” based on so-called
-    signs, mystical experiences and spiritual exploits.
- 
- 
-    b. This deviation exalts the mystical. It often humiliates its adherents by
-    foolish requirements. Sometimes it promotes a fixation on spirit beings,
-    whether angels or demons. It boasts in ** <u>dreams</u>**  and
-    visions (prophesies).
- 
- 
-    c. This digression prefers miracles to the ** <u>Master</u>** 
-    and seeks the gifts over the Giver.
-    <br/>
 
- 
- 
-4. Asceticism: Colossians 2:20-23 describes a Christianity based on** <u>human</u>**  determination through the practice of    * asceticism* .
- 
- 
-    a. This error advocates the so-called spiritual disciplines and promotes
-    self-denial as the ** <u>key</u>**  to godliness. It exchanges a
-    sincere dependence on Christ with rigid self-determination.
- 
- 
-b. Instead of pointing people to a consistent walk of    ** <u>faith</u>**  in order to live the abundant life, this error wrongly requires believers to try to better themselves through human effort and self-reliance.
- 
- 
-c. This error detaches the believer from Christ, who is the true head of the church. It promotes reliance on human efforts rather than on the    ** <u>Christ</u>** .
-    <br/>
-    
- 
- 
-    5. In a study of church history, we find that * Gnosticism* 
-    ultimately developed from a ** <u>mixture</u>**  of all these
-    false concepts. Unfortunately, we are not out of danger today. These
-    heresies continue to daily assault the church.
- 
- 
-    a. According to history, during the second and third centuries after
-    Christ, Gnostics, in one ** <u>form</u>**  or another, embraced
-    and promoted these deviations.
- 
- 
-    b. We need to realize that the Colossian heresies remain a constant threat
-    to Christianity. One or more of these areas have almost certainly affected
-    every modern believer. Growth as a believer comes when God convinces us
-    that ** <u>Christ</u>**  is all we need and He has all the
-    answers.
-    <br/>
-    <br/>
- 
- 
-    6. So what do all these ** <u>errors</u>**  have in common?
- 
- 
-    a. Each error gives a perfunctory allegiance to Christ but does not promote
-    total dependence on His adequacy. Each one is first and foremost an affront
-    to Christ’s sufficiency for ** <u>living</u>**  the abundant
-    life.
- 
- 
-    b. In all these errors the Christian is duped into living by human effort
-    rather than
-    * 
-        by ** <u>faith</u>**  in the Son of God who loved us and
-        gave himself up for us
-    * 
-    . Galatians 2:20b
-    <br/>
-    <br/>
- 
- 
-    c. Ultimately these errors ** <u>demean</u>**  Christ’s
-    sufficiency and lead to the false notion that Christ is not enough. We
-    easily become like Esau and sell our birthright for a bowl of porridge.
- 
- 
-    ** B. ** 
-    ** Colossians 1:15-18 – Articulating the deity of Christ** 
- 
- 
-1. Colossians 1:15 – As God-made-visible, Jesus Christ holds    ** <u>first</u>**  place in all creation.
- 
- 
-a. Colossians 1:15a – ** * He is * ** * the image of the invisible God* … He is the greatest person to    ** <u>ever</u>**  emerge in human history. 2 Corinthians 4:4
- 
- 
-    1) In the incarnation, Jesus ** <u>came</u>**  in God’s
-    likeness. Jesus is both from God and God at the same time. John 1:1-2, 14;
-    Galatians 4:4; 1 Timothy 6:16
- 
- 
-    2) Since Christ is ** <u>God</u>** , He was able to become the
-    revelation of God to mankind. John 6:46, John 14:8-10
- 
- 
-3) Christ is the visible manifestation of the invisible God. Absolutely    ** <u>no</u>**  one else can validly make this claim. John 1:18
- 
- 
-b. Colossians 1:15b –    * He is the ** image**  of the invisible God* … Christ is the ** <u>exact</u>**  exemplification of God the Father. Hebrews 1:3
- 
- 
-1) Adam was created in God’s image and likeness. Even    ** <u>after</u>**  the fall, He continued to somewhat reflect God’s likeness, yet only Christ is the exact representation of God. Genesis 9:6, 1 Corinthians 11:7
- 
- 
-    2) Christ is the express ** <u>image</u>**  EIKON of the
-    invisible God.
- 
- 
-    a) This word * image*  EIKON was used of Caesar’s image on currency
-    (Lk. 20:24-25) and of idols representing men, ** <u>birds</u>** 
-    and other animals. Romans 1:23
- 
- 
-    b) A photographic ** <u>copy</u>**  of a document would be a
-    modern illustration of this word. A photographic copy of a document becomes
-    the exact representation (image) of the original document.
- 
- 
-c. Colossians 1:15c –    * He is the image of the ** invisible God** * . Why was this statement about God being invisible significant, especially to the Colossian believers?
- 
- 
-    1) The point made in this verse was ** <u>aimed</u>**  directly
-    at heresy. Church history shows that as the heresies of chapter two
-    advanced, Jesus Christ came to be viewed as one of many emanations of God.
-    Christ was seen as a mere stepping-stone in a multilevel progression toward
-    God.
- 
- 
-    2) If Jesus Christ is indeed the visible manifestation of the invisible
-God, we can come to know God by simply getting to    ** <u>know</u>**  Jesus. There are no steps needed and nothing is hidden in this process.
-    <br/>
- 
- 
-2. Colossians 1:15 – Jesus Christ holds first place as the    ** <u>premier</u>**  human of all time.
- 
- 
-a. Colossians 1:15d –* The ** firstborn**  of all creation…*  The word    * firstborn*  PROTOTOKOS in Greek means first in order or rank. Even
-though the word PROTOTOKOS can mean the firstborn in    ** <u>birth</u>**  order in a family, it is not restricted to
-that meaning.
- 
- 
-1) Historically a sibling ** <u>other</u>**  than the firstborn would oftentimes carry the title of * firstborn*  PROTOTOKOS.
- 
- 
-2) Adam might seem to have originally deserved that    ** <u>title</u>**  because of his position in human history, yet Christ eternally predated him and has far superseded him as God’s firstborn PROTOTOKOS among humans.
- 
- 
-b. Colossians 1:15e –    * The firstborn**  of all**  creation…*  means that He is the greatest man to ** <u>emerge</u>**  in human history.
- 
- 
-1) This does ** <u>not</u>**  mean that the Father created Christ. John 1:1-3
- 
- 
-2) Jesus Christ is called the firstborn of all creation because He    ** <u>holds</u>**  the premier position of first place among humankind. Acts 4:12, 1 Timothy 2:5
- 
- 
-c. Colossians 1:15f –    * The firstborn of all ** creation** * … Jesus Christ is
-    fully ** <u>man</u>** . The significance of the statement that
-    Jesus Christ is * the firstborn of all creation * demonstrates that He
-    alone is God’s preeminent man in human history. Only He holds this honor.
-    Romans 1:3-4
- 
- 
-3. Colossians 1:16-17 – Jesus Christ holds the    ** <u>place</u>**  of greatest honor on earth because He is the
-    Creator of everything.
- 
- 
-    a. Colossians 1:16 –
-    * 
-        For ** <u>by</u>**  Him all things were created, both in the
-        heavens and on earth, visible and invisible
-    * 
-    … Our reaction to this statement might be, “Wait a minute? I thought God
-    created the heavens and the earth.” (Gen. 1:1) If that is how you react,
-    Paul succeeded in his statement. John 1:3
- 
- 
-1) Colossians 1:16a – Jesus Christ is the originator of    ** <u>all</u>**  creation. …* by * (EN, denoting
-    instrumentality)*  him all things were created.* 
- 
- 
-    a) This verse begins with * …for by Him*  HOTI EN AUTO (Col 1:16), a
-    phrase that expresses ** <u>cause</u>**  or purpose. It can be
-    understood as ** because in Him** .
- 
- 
-b) In other words, this verse gives us the reasons why Jesus Christ came to    ** <u>merit</u>**  the designation of firstborn PROTOTOKOS of
-    all creation.
- 
- 
-    2) Colossians 1:16b –
-    * 
-For by Him all things were created        ** both in the heavens and on earth** 
-    * 
-    … Christ personally designed and ** <u>made</u>**  the entire
-    universe.
- 
- 
-3) Colossians 1:16c – * For by Him all things were created * …    ** * visible and invisible* ** … He made everything in both
-    the material and immaterial ** <u>realms</u>** .
- 
- 
-    4) Colossians 1:16d – * For by Him all things were created * …
-    ** 
-        * whether thrones or dominions or rulers or authorities* 
-    ** 
-… Christ is the one who created all the hierarchy of    ** <u>spirit</u>**  beings in the celestial realms as well as
-    all human authorities.
- 
- 
-    a) Under the inspiration of the Holy Spirit, Paul’s point is to show
-    Christ’s ** <u>place</u>**  in the universe as Creator and
-    owner, supreme above everything. He is over the unseen realms of angels and
-    demons and the visible realms of humankind.
- 
- 
-    b) Although Jesus Christ created spirit beings and their hierarchical chain
-of command, He is not a part of that structure. As Creator, He is    ** <u>above</u>**  all hierarchy.
- 
- 
-c) So did Christ create demons? No, He created holy and pure angels who    ** <u>became</u>**  evil and sinful when they willfully followed
-    Satan in his rebellion. Even so, their hierarchical chain of authority
-    remained intact. It did not change even in their sinful rebellion.
-    <br/>
-    <br/>
- 
- 
-b. Colossians 1:16 –    * All things were created through * DIA * Him.* 
-    Jesus Christ is the ** prime <u>source</u>**  of every created
-    thing. Hebrews 1:2
- 
- 
-    1) Colossians 1:16e – …** * all* ** *  things… * The
-    word * all*  PANTA is a comprehensive word used twice in this verse,
-    clearly indicating that absolutely ** nothing**  in all Creation
-    was created or ever existed ** <u>without</u>**  Jesus Christ.
- 
- 
-2) Colossians 1:16f – * …were created… * In Greek, the verb    * were created*  KTIZO is an aorist passive indicative verb that
-indicates these things did not create themselves or    ** <u>form</u>**  on their own, i.e., evolution. An outside
-    force acting upon them created them. Jesus Christ decisively created
-    everything.
- 
- 
-    3) Colossians 1:16g – * …** through ** Him…*  Creation
-    remains a testimony and proof of Christ’s monumental creative might.
-    Nothing was created in any ** <u>other</u>**  way or through any
-    other means than * through*  Jesus Christ.
-    <br/>
-    <br/>
- 
- 
-c. Colossians 1:16 – Jesus Christ is the    ** prime <u>purpose</u>**  behind all creation.
- 
- 
-1) Colossians 1:16h –    * …all things were created… ** for**  Him* … * For* 
-    EIS is a preposition that conveys purpose or ** <u>goal</u>** .
- 
- 
-2) Colossians 1:16i –    * …all things were created… for ** Him** * . Everything was
-    created to be Christ’s ** <u>own</u>**  possession and for His
-    own good pleasure. Creation’s ultimate purpose for existing can be found in
-    the holy, just and perfect counsels of its Creator Jesus Christ. Romans
-    11:36, Revelation 4:11
-    <br/>
-    <br/>
- 
- 
-d. Colossians 1:17 –    * He is ** <u>before</u>**  all things…*  Jesus Christ is
-    the ** prime precursor**  of everything. He existed eternally
-    before Creation was initiated. John 1:3
- 
- 
-1) Colossians 1:17a – ** * <u>He</u>* **     *  is before all things* … Because of the grammatical placement of the
-    pronoun * He* , this phrase could be understood as “He and no other.”
-    John 8:58
- 
- 
-    2) Colossians 1:17b – * He ** is**  before all things…*  We
-    should note the use of the present tense word * is*  in this verse in
-    contrast to the past tense was. He is (not ** <u>was</u>** )
-    before all things. This accentuates the fact that Jesus Christ, as eternal
-    God, always was and always ** is**  and always will be before
-    all things.
- 
- 
-e. Colossians 1:17 –    * …and in Him all things ** <u>hold</u>**  together* .
-    Jesus Christ is the ** prime supporter**  of all creation.
- 
- 
-    1) The thought of this verse progresses beyond the creation of all things
-to the preservation of all things. By implication,    ** <u>without</u>**  Christ everything would simply
-    disintegrate. Acts 17:28, Hebrews 1:3
- 
- 
-    2) This verse indicates that Jesus Christ is not distant or detached from
-    His creation. He is intimately involved in even the minutest affairs of
-    this ** <u>life</u>** , including the cares of every individual.
-    Psalm 139:1-18, Luke 12:6-7
-    <br/>
-    <br/>
- 
- 
-    4. Colossians 1:18 – * He is also head of the body, the church* …
-Christ holds first place of honor ** TO US**  because He is the    ** <u>head</u>**  of the church.
- 
- 
-a. Colossians 1:18a – Note that ** * He is <u>head</u>* **     *  of the body* , not ** * a* **  head of the body.
- 
- 
-    1) There is no authority in the body of Christ that is greater or can ever
-    take the ** <u>place</u>**  of Jesus Christ. Ephesians 1:22-23
- 
- 
-    2) Although the pastor and elders of a local body deserve respect, they are
-    not head of the church; they are ** <u>under</u>**  the headship
-    of Christ. 1 Timothy 5:17, 19, 1 Peter 5:1-5
- 
- 
-    3) There are Christian groups that claim that their leader holds the place
-    of Christ (Christ’s vicar). This is an ** <u>insult</u>**  to
-    Jesus Christ. Colossians 2:18-19
-    <br/>
-    <br/>
- 
- 
-    b. Colossians 1:18b – * He is head ** of the body** …* 
-    Christ alone is the head of His body, the church. Revelation 19:7
- 
- 
-1) Christ is the head of His body, which is one    ** <u>single</u>**  body made up of all Christians. 1
-    Corinthians 12:12-13, Ephesians 4:15
- 
- 
-2) In the human body, the body responds to the leading of the    ** <u>head</u>** . Colossians 2:19
- 
- 
-    3) When the head is not able to correctly ** <u>control</u>** 
-    the body, the body becomes dysfunctional or paralyzed, indicating serious
-    disease or injury. This is true of Christ’s body as well.
-    <br/>
-    <br/>
- 
- 
-c. Colossians 1:18c –    * He is also head of the body, ** the church** … * Christ
-    is ** <u>first</u>**  in the church. Ephesians 1:22
- 
- 
-1) Whether it is accepted or acknowledged, Jesus Christ is number    ** <u>one</u>**  in His church. The church ought therefore to
-    respond to Him exclusively.
- 
- 
-    2) Christ holds the ** <u>final</u>**  word of authority in
-    regards to His body and bride. He alone maintains the ultimate right to
-    decide if His church will continue to exist in a community or not.
-    Revelation 2-3
- 
- 
-5. Colossians 1:18 – …* and He is the beginning* … Jesus Christ    ** <u>holds</u>**  first place as the * beginning* .
- 
- 
-    a. This is ** <u>not</u>**  saying Christ appeared in the
-    beginning, rather that He is the initiator of everything that exists.
- 
- 
-    b. It is one thing to be the first one created, but quite another to be the
-source and reason for the existence of everything. Christ is the** <u>source</u>**  of all substance …    * for without him nothing came into being that has come into being* …
-    John 1:3
- 
- 
-    c. If you rewind the reels of history, you will arrive right at the feet of
-    Christ. He is the ** <u>author</u>**  and Creator of all that
-    exists.
-    <br/>
-    <br/>
- 
- 
-    6. Colossians 1:18c – …* the firstborn from the dead* … Jesus Christ
-holds first place as the firstborn PROTOTOKOS from among the    ** <u>dead</u>** . Acts 2:24
- 
- 
-    a. Christ was the first human being to ** <u>rise</u>**  from
-    the dead ** never to die again** . 1 Corinthians 15:20
- 
- 
-b. Quite simply, Christ is the first person to ever fully    ** <u>conquer</u>**  death. Romans 6:9
- 
- 
-    c. Christ did something no other person has ever done. He was not merely
-    resuscitated; He came back from death to ** <u>never</u>** 
-    again face death. Romans 6:10
-    <br/>
-    <br/>
- 
- 
-    d. Death’s defiant ** <u>womb</u>**  gave birth to a firstborn,
-    Jesus Christ. The word firstborn conveys the anticipating of more births to
-    follow. Romans 6:5, 8; Revelation 1:5
- 
- 
-1) Because He is the firstborn, the implication is that there is a new    ** <u>family</u>** . In fact, He was the start of a new
-    humanity, the firstborn of the new creation. 2 Corinthians 5:17, Hebrews
-    2:9-10, James 1:18
- 
- 
-    2) It is because Jesus Christ conquered death and rose again that we have
-    the confident expectation (** <u>hope</u>** ) that He can and
-    will also raise us up from the dead in the future. Acts 3:15, Romans 6:4-5
-    <br/>
-    <br/>
- 
- 
-    7. Colossians 1:18d – A summary statement: …
-    * 
-that He Himself might come to ** <u>have</u>**         ** first place in everything** 
-    * 
-    . Our Savior Jesus Christ holds first place in everything.
- 
- 
-    a. The word …* that* … in this phrase is a HINA clause, or a clause of
-    purpose. This clause in Greek informed the readers that everything
-    previously mentioned in verses 15-18 was mentioned for the purpose of
-showing Christ’s authority – that He holds the highest possible    ** <u>rank</u>**  in every realm.
- 
- 
-    b. ** How often**  should Christ * have first place*  in
-    your life? Since ** * first place* **  PROTEUO is a present
-tense, active voice participle the answer would be, “    ** <u>Always</u>** , continually, and right now.”
- 
- 
-c. In ** how many areas**  should Christ    * have first place* ? “* In ** <u>everything</u>** * 
-    !”
- 
-===
-# IV. Colossians 1:19-29 – God’s Protection from Heresies: Understanding the Adequacy of Christ
-   
- 
- 
-    ** A. ** 
-    ** 
-        Colossians 1:19-23 – The adequacy of Christ in His work of
-        reconciliation
-    ** 
- 
- 
-1. Colossians 1:19 – The wisdom of God in His choice of** <u>Christ</u>**  can be seen in this sentence:* For it was the Father’s good pleasure for all the fullness * PLEROMA    *  to dwell in Him* .
- 
- 
-a. It was totally pleasing to the Father to have    * all the fullness ** <u>dwell</u>**  in*  Christ.
- 
- 
-1) What this means practically for you is that you do    ** <u>not</u>**  have to go on a quest outside of Christ to find
-    life’s answers. Colossians 2:10
- 
- 
-    2) Everything you need for ** <u>godly</u>**  living is found in
-    the person of Christ. 2 Peter 1:2-4
- 
- 
-    b. Virtually all religions around the world claim to have completeness, or
-    full knowledge, yet true fullness is found only in Jesus Christ. Everything
-    necessary for understanding life ** <u>dwells</u>**  in Christ.
-    2 Peter 3:18
- 
- 
-1) In ** <u>Gnostic</u>**  writings the concept of    * fullness*  referred to a complex series of angelic emanations that
-    were portrayed as levels of mediation between God and man. 1 Timothy 2:5
- 
- 
-    2) Jesus, being ** <u>fully</u>**  God, expressed all the
-    fullness of God in His human body; therefore, if a person has Christ as
-    Savior there is no need for any supposed mediating agents, e.g., angels or
-    prayers to Mary and/or to other departed saints.
- 
- 
-3) Throughout the world and throughout history, the majority of    ** <u>cults</u>**  have rejected in some way or another the
-    adequacy of Christ (His fullness), saying you need something other than, or
-    in addition to, Christ. Matthew 11:27
- 
- 
-c. Jesus Christ is the only human who has ever existed who could answer    ** <u>all</u>**  life's questions. You do not need to look
-    beyond Him to make sense of life. Christ is truly all you need.
- 
- 
-2. Colossians 1:20 – The indescribable task of reconciling    ** <u>sinful</u>**  mankind and a ruined creation to God the
-    Father was given to Christ.
- 
- 
-    a. Colossians 1:20a –
-    * 
-        And through Him to reconcile ** all things**  to Himself…
-    * 
-    There is only one person who is ** <u>able</u>**  to reconcile
-    all of creation back to God and that is the man Christ Jesus. 1 Corinthians
-    15:20-28
- 
- 
-    1) The ultimate ** <u>goal</u>**  in reconciliation is to bring
-    about a complete restoration of man with his Creator God. 1 Timothy 2:5-6
- 
- 
-a) Back in the Garden of Eden humanity became God’s    ** <u>enemy</u>**  through sin. Jesus’ death for our sins and
-    resurrection provided the means for us to be brought back into friendship
-    with God. 1 Peter 2:24-25
- 
- 
-    b) Even though ** <u>mankind</u>**  needs to be reconciled to
-    God, when it comes to reconciliation, humanity has always been the problem.
-    Man’s sinful pride has kept him from being brought back to God. Romans
-    5:12, 16
- 
- 
-    c) Although mankind is at ** <u>fault</u>**  for creating the
-    enmity, God graciously solved the problem by providing Christ as an
-    appeasing sacrifice.
- 
- 
-    2) Reconciliation means that you completely ** <u>switch</u>** 
-    from being an enemy to becoming a friend. Reconciliation creates true and
-    lasting peace between former enemies. Romans 5:1, 8:1; 2 Corinthians
-    5:18-20; Ephesians 2:16
- 
- 
-    3) Since all human beings are at odds with God, each one of us needs
-    reconciliation. Every human being is totally ** <u>sinful</u>** 
-    and incapable of independently approaching the holy and sinless Creator.
-    Romans 5:10, Ephesians 2:13-18
- 
- 
-4) Jesus Christ’s substitutionary sacrificial death on the    ** <u>cross</u>**  provided the only adequate means of being
-    reunited with God. Man, by means of philosophy, religious works, mystical
-    experiences or self-reformation can never achieve restoration with God.
-    Colossians 1:20-22
- 
- 
-    5) God desired that ** <u>all</u>**  creation be reconciled to
-    Him and that is what Christ came to do through His death on the cross.
- 
- 
-    a) When this verse says God is reconciling all things to Himself through
-Christ it does not imply that all people will be    ** <u>saved</u>** .
- 
- 
-    b) The Bible never teaches universalism: the ** <u>false</u>** 
-    belief that all people will be saved in the end. Revelation 20:11-15
- 
- 
-    c) But God does ** <u>desire</u>**  that all be saved, and He
-    worked, and continues to work, toward that end. 2 Corinthians 5:15, 1
-    Timothy 2:4, 1 Peter 3:18
-    <br/>
-    <br/>
- 
- 
-    b. Colossians 1:20b –
-    * 
-Having made peace through the        ** <u>blood</u> of His cross** …
-    * 
-    Christ’s death was a blood sacrifice that allowed for the reconciliation of
-    all things to God. It could not be an animal, grain or oil sacrifice.
- 
- 
-    1) In His death as a sacrifice, Christ did not die smothered, strangled or
-    drowned; He ** <u>died</u>**  by means of the violent death of
-    bloodshed in crucifixion. Matthew 26:28; Romans 3:25, 5:9; Ephesians 1:7;
-    Colossians 1:14
- 
- 
-    2) Hebrews 9:22 –
-    * 
-        And according to the Law, one may almost say, all things are cleansed
-        with blood, and without shedding of ** <u>blood</u>**  there
-        is no forgiveness
-    * 
-    . Leviticus 17:11
-    <br/>
-    <br/>
- 
- 
-c. Colossians 1:20c –    * And through Him to reconcile all things to Himself* 
-    * 
-        …whether things on earth or things in ** <u>heaven</u>** 
-    * 
-    . This verse teaches that Christ was given the responsibility of the
-    reconciling of * all things * to Himself. This includes earth with
-    heaven (man with God), and heaven with earth (God with man). Romans 8:18-25
- 
- 
-    3. Colossians 1:21-23 – The all-encompassing and sufficient nature of
-    Christ’s ** <u>grace</u>**  is seen in the Father’s full
-    confidence in the Son. The Father was pleased to entrust to the Son the
-    responsibility of reconciling insubordinate humanity to Himself.
- 
- 
-    a. Colossians 1:21 – In our former condition, because of our sin, we were
-    outsiders and ** <u>aliens</u>**  to God.
- 
- 
-1) Colossians 1:21a –    * And although you were formerly ** alienated** …* 
-    Originally as enemies, we were estranged from ** <u>God</u>** .
- 
- 
-    a) * Alienated*  APALLOTRIOO in Greek is from APO which is a prefix
-    emphasizing ** separation**  plus the word ALLOTRIOS, a verb
-meaning to ** alienate** . We were completely alienated    ** <u>from</u>**  God.
- 
- 
-    b) Our original ** <u>state</u>**  of alienation portrayed
-    unfriendliness, hostility and unresponsiveness in relation to God.
-    <br/>
-    <br/>
- 
- 
-2) Colossians 1:21b –    * You were formerly alienated and ** hostile in mind** …* 
-    In our lost state, we ** <u>were</u>**  hostile enemies of God
-    in our way of thinking.
- 
- 
-a) The word * hostile*  ECHTHROS means hateful,    ** <u>enemy</u>** , adversary or opponent.
- 
- 
-    b) As unbelievers, all our thoughts towards God were adversarial. This is
-    the natural condition of ** <u>lost</u>**  humanity. Genesis
-    6:5-6, Jeremiah 17:9, Matthew 15:18-20, Ephesians 2:1-3
- 
- 
-c) Even for the believer, sin starts * in * [the]    *  ** <u>mind</u>** * . When we permit wrong thinking we
-    become hostile toward God. Romans 8:7, Ephesians 4:17-19
- 
- 
-    3) Colossians 1:21b – * Engaged in evil deeds…*  In our former
-    lifestyle we were ** <u>evil</u>**  in our conduct. We were
-    separated from God not only in our evil thinking but also in our actions.
-    <br/>
-    <br/>
- 
- 
-    b. Colossians 1:22 – Conversely, now in our ** <u>new</u>** 
-    standing we have friendship with God.
- 
- 
-    1) Colossians 1:22a –
-    * 
-Yet He has ** <u>now</u>**  reconciled you        ** in His fleshly body**  through death…
-    * 
-    While in His earthy body Christ reconciled us by means of death. Hebrews
-    10:10, 19-20; 1 Peter 2:23-24, 3:18
- 
- 
-a) Paul stated the Colossian believers’ reconciliation as a** <u>fact</u>**  when he said, “    * He has now reconciled you.”*  * Now*  is the word NUNI, meaning
-    at this very moment.
- 
- 
-b) Your reconciliation is an act of restoration that happened at a    ** <u>point</u>**  in time, the moment you believed. Although
-    you were alienated from God, at salvation you were permanently restored to
-    your rightful owner. Romans 5:10
- 
- 
-    c) Your reconciliation is based on the sacrifice of Christ on the cross and
-happened at the precise moment you believed. It is not based on your good    ** <u>works</u>** . Colossians 1: 3-6, 20
- 
- 
-    d) Since reconciliation is based on the work of Christ, it lasts forever.
-    You are either reconciled or you are ** <u>not</u>** 
-    reconciled. Your reconciliation does not depend on faithfulness after
-    salvation. John 5:24, 1 Peter 1:3-5
-    <br/>
-    <br/>
- 
- 
-2) Colossians 1:22b – Christ reconciled us    * …in His fleshly body through ** <u>death</u>** * . In His
-    death on the cross, in his physical body, Christ won our reconciliation. 1
-    Peter 2:24
- 
- 
-    a) It is interesting to note that here in this passage Paul pointed out
-that our reconciliation is based on the physical, bodily death of    ** <u>Christ</u>**  on the cross and not merely on the spiritual
-    aspect of Christ’s death. Hebrews 9:28; 10:5,10
-    <br/>
-    <br/>
- 
- 
-    b) Gnostics propagated a ** <u>heresy</u>**  called Docetism,
-    which proposed that Jesus Christ did not in reality have a material body.
-    They hypothesized that He only seemed to have a material body and
-    therefore the physical death of Christ had no value in our reconciliation.
-    1 John 4:2, 2 John 1:7
- 
- 
-    (i) Based on this philosophy, the Gnostics wholly rejected the incarnation
-    and Christ’s literal ** <u>physical</u>**  death, as do many
-    cults today. Acts 5:30
- 
- 
-    (ii) The Gnostics based their heresy on a philosophy that all physical or
-    material substances are inherently ** <u>evil</u>** . Therefore
-    they erroneously supposed that if Christ had had a physical body He would
-    have been innately corrupt.
- 
- 
-    (iii) The Gnostics wrongly concluded that Christ did not actually die
-physically since according to their belief He did not have a physical    ** <u>body</u>** . This heresy was of course an affront to the
-    Gospel that includes the physical and spiritual death of Christ. John 1:14,
-    1 Peter 3:18
-    <br/>
-    <br/>
- 
- 
-    c) In relation to the doctrines of salvation, we should be careful not to
-    exaggerate or understate either the physical or spiritual aspects of
-    Christ’s ** <u>death</u>**  on the cross.
-    <br/>
-    <br/>
- 
- 
-    3) Colossians 1:22c – It was * in order to present you before him* …
-    Christ had a specific ** <u>purpose</u>**  for us * in * 
-    time as well as in eternity when He saved us. He did not save us so that we
-    would stay the same. He wanted to change us and make us holy in our daily
-    lives. Romans 6:22, 12:1-2; Ephesians 2:10; Titus 3:8
- 
- 
-4) Colossians 1:22d – In saying, “    * present you before him holy, blameless and beyond reproach* ,” Paul
-    was speaking of spiritual ** <u>growth</u>** , not glorification
-    as this passage will bear out.
- 
- 
-    a) In our future glorification, holiness, blamelessness and being beyond
-reproach are guaranteed. These things will be true of every believer in    ** <u>heaven</u>** , but that is not what Paul was referring to
-    here. Philippians 2:15
- 
- 
-b) Christ saved us because He wanted to present us    ** <u>before</u>**  the Father in maximum practical
-    sanctification (second tense salvation) in time. This is one of His goals
-    in reconciling us to God. Genesis 6:9, Luke 1:6, 1 Thessalonians 2:10
-    <br/>
-    <br/>
-    <br/>
- 
- 
-    5) Colossians 1:22e – …
-    * 
-        in order to present you ** before Him**  holy and blameless
-        and beyond reproach
-    * 
-    . Christ wants to ** <u>present</u>**  you in maximum practical
-    sanctification (full maturity) before the Father in your daily walk.
- 
- 
-a) * Before him*  KATENOPION means before the    ** <u>face</u>**  of, before the presence of, in the sight of,
-    or before one as witness. 2 Corinthians 2:17, 4:2b; James 4:10
- 
- 
-    b) The idea of being on display * before him*  (God) is sometimes used
-in the New Testament to describe God's view of us    ** <u>here</u>**  and now on earth. 2 Corinthians 12:19, 1
-    Timothy 5:21, 1 Thessalonians 4:3a, Hebrews 12:14, 1 Peter 1:15-16, Jude 24
-    <br/>
-    <br/>
- 
- 
-    c) What this is saying is that God’s ultimate goal in reconciling you to
-    Himself is so that Christ can present you before God in maximum practical
-    sanctification while you are still ** <u>living</u>**  this
-    life. John 17:17; Ephesians 4:13, 5:25-27; Philippians 3:12-15
- 
- 
-    (i) This by no means describes or implies ** <u>sinless</u>** 
-    perfection.
- 
- 
-    (ii) The heresies that were developing in the Colossian church would have
-    severely jeopardized the prospect of maximum practical sanctification in
-    their ** <u>daily</u>**  lives (maturity).
- 
- 
-    (iii) For this reason in verse 23, as we will see, Paul gave a condition to
-    this goal, an “if” statement, to believers who were at risk of not becoming
-    holy, blameless and beyond reproach in their daily living.
-    <br/>
-    <br/>
- 
- 
-    d) These three terms (* holy, blameless, and beyond reproach* ) all
-    relate to Christian ** <u>maturity</u>**  and our daily
-    sanctification and not exclusively to our future glorification. Job 1:1,
-    Hebrews 11:5
- 
- 
-    6) Colossians 1:22f –
-    * 
-        Present you before him ** holy** , blameless and beyond
-        reproach
-    * 
-    … The adjective ** * <u>holy</u>* **  HAGIOS literally
-    means different. Temples were described by this term, meaning they were not
-    ordinary or mundane buildings. They were different in purpose and use.
- 
- 
-    a) The New Testament authors further developed the meaning of holy HAGIOS
-to describe ** <u>both</u>**  the ** condition**  and    ** position**  of the believer. The context will indicate which
-    is being referenced. 1 Corinthians 1:2
- 
- 
-    b) Believers are to be separated from ** <u>sin</u>**  and set
-    apart for God’s specific use in time (Rom. 6:22, 2 Cor. 7:1) and will
-    ultimately be separated eternally from sin and set apart for God’s specific
-    use in future glory. Ephesians 5:25-27, 1 Thessalonians 3:12-13
- 
- 
-    7) Colossians 1:22g –
-    * 
-        Present you before him holy, ** blameless**  and beyond
-        reproach
-    * 
-    … * Blameless*  AMOMOS is an adjective that means not having any
-    stain, ** <u>flaw</u>** , shame or disgrace.
- 
- 
-    a) A in AMOMOS means without, and MOMOS means ** <u>spot</u>** 
-    or blemish.
- 
- 
-    b) In this context Paul used this term to describe how God wants to see us
-    in our ** <u>lives</u>**  here below. Ephesians 5:27,
-    Philippians 2:15
- 
- 
-    8) Colossians 1:22h –
-    * 
-Present you before him holy, blameless and        ** beyond reproach** 
-    * 
-… * Beyond reproach*  ANEGKLETOS describes    ** <u>legal</u>**  blamelessness.
- 
- 
-    a) ANEGKLETOS is derived from A meaning ** not**  and EGKALEO
-meaning ** arraigned** , or    ** accused before a court of <u>law</u>** .
- 
- 
-    b) A person who is * beyond reproach*  is ** <u>free</u>** 
-    from indictment or accusations. 1 Timothy 3:10, Titus 1:6-7
- 
- 
-c. Colossians 1:23 – What did the Colossian believers need in order to    ** <u>benefit</u>**  from the adequacy of Christ in relation to
-    their sanctification? Well, let’s look at the information found in this
-    verse?
- 
- 
-1) Colossians 1:23a – * If indeed * (1<sup>st</sup> class condition)    * you continue in the ** <u>faith</u>** …*  Here Paul used
-    a first class condition in Greek as a caution or warning. This statement
-    could read * if… you continue in the faith*  and let’s assume you
-    will.
- 
- 
-a) In other words, he assumed his statement to be    ** <u>true</u>**  for the sake of argument. By this grammar he
-    wanted to get his readers’ attention.
- 
- 
-b) The Colossian believers’ practical daily sanctification was at    ** <u>risk</u>** . It was not guaranteed. By using an “if”
-    statement Paul was trying to get them to stop and think.
- 
- 
-    c) Although, by this first class condition the apostle Paul conveyed that
-he ** <u>hoped</u>**  they would indeed    * continue on in the faith* , it was not absolutely guaranteed that
-    they would. Ultimately their maturity depended on whether or not they would
-    continue * in the faith* . 1 Peter 1:15-16
- 
- 
-2) Colossians 1:23b –    * If indeed you continue in ** the <u>faith</u> ** * TE
-    PISTEI… The phrase * the faith*  refers to the whole body of Christian
-    truth (God’s Word) which was taught to the saints through the apostles and
-    prophets. Galatians 1:23, 1 Timothy 4:1, Jude 3
- 
- 
-    a) The apostle Paul ** <u>knew</u>**  the importance of sticking
-    with sound doctrine. He knew that ** * if* **  we maintain
-    the integrity of sound doctrine it affects our spiritual progress
-    positively. 2 Timothy 4:7
- 
- 
-b) He equally knew how it could affect us negatively    ** * if* **  we did not ** <u>stick</u>**  with
-    sound doctrine. 1 Timothy 1:19-20
- 
- 
-    c) It is important to understand that * the faith*  mentioned here
-does not refer to our practical ** <u>walk</u>**  of    * faith* . Romans 1:17
-    <br/>
-    <br/>
-    <br/>
- 
- 
-    3) Colossians 1:23c – Let us now examine Paul’s caution about our spiritual
-    growth.
-    * 
-        If indeed you continue in the faith ** <u>firmly</u>** 
-        established and steadfast, and not moved away from the hope of the
-        gospel
-    * 
-    …
- 
- 
-    a) The phrase * firmly established*  describes the fact that we have
-    been solidly placed on a ** <u>firm</u>**  foundation and
-    therefore have every reason to succeed in our sanctification.
- 
- 
-    (i) * Firmly established*  THEMELIOO is a perfect tense participle
-that stresses a stability that was established at some point in time in the    ** <u>past</u>**  and continues on into the present.
- 
- 
-    (ii) This participle is also in the passive voice communicating that
-    someone else, ** <u>God</u>**  in this case, provides this
-    stability.
- 
- 
-(iii) Therefore, * if indeed we continue in the faith*  based on the    ** <u>fact</u>**  that we have been * firmly established* 
-on a solid foundation, we will be presented before the Lord as    * holy, blameless and beyond reproach* .
-    <br/>
-    <br/>
- 
- 
-b) ** * If indeed you continue* **     *  in the faith …steadfast.*  The word * steadfast*  HEDRAIOS
-    comes from the word ** <u>chair</u>**  HEDRA and conveys the
-    idea of being settled or secure. A believer’s maturity depends on resting
-    entirely, without budging, on the truth received.
- 
- 
-c) ** * If indeed you continue* **     *  in the faith …not ** <u>moved</u>**  away.* 
- 
- 
-    (i) * Moved away*  METAKINEO is a present tense participle stressing
-that the road to maximum sanctification is to never    ** shift away from**  the ** <u>hope</u>**  found in
-    the Gospel. Hebrews 3:6
- 
- 
-(ii) The ** <u>three</u>**  statements    * firmly established, steadfast*  and * not moved away*  would
-    have an emotional connotation for the Colossians.
- 
- 
-    (iii) The Lycos Valley, where the small town of Colossae was situated, was
-    a very geologically unstable ** <u>region</u>**  and could have
-    been dubbed earthquake alley. At about the time of the writing of this
-    epistle, that entire region suffered a massive earthquake.
-    <br/>
-    <br/>
- 
- 
-    d)
-    * 
-        Not moved away ** from the <u>hope</u> of the gospel** …
-    * 
-    means to not shift away or be shaken from a solid stance on the hope
-derived from the Gospel. Earlier we learned that the    * hope of the gospel*  is essential to maintaining fruitfulness.
-    Colossians 1:4-6
-    <br/>
-    <br/>
-    <br/>
- 
- 
-    4) Colossians 1:23d – * The gospel…*  Paul spoke of the dynamic
-    life-altering ** <u>power</u>**  that emanates from the Gospel.
-    Romans 1:16
- 
- 
-    a) * The gospel that ** you <u>heard</u>** …*  The Gospel
-is a dynamic message. Remember that    * faith comes by hearing and hearing by the word of God.*  The
-    Colossians had not only heard the Gospel, but we know they also believed
-    it. Romans 10:17, Ephesians 1:13
-    <br/>
-    <br/>
- 
- 
-    b)
-    * 
-The gospel that you heard,        ** which was proclaimed in all creation under heaven** …
-    * 
-    The ** <u>Gospel</u>**  is a message that is designed by God to
-    be infectious, untamable and explosive. Romans 5:18
- 
- 
-c) * The gospel that you heard*  …    * of which I, Paul, have become a ** <u>servant</u>** * .
-    Paul willingly suffered and sacrificed for the Gospel because he felt that
-    investing in the Gospel was worth every ounce of his energy.
-    <br/>
-    <br/>
-    <br/>
- 
- 
-    5) Quick summary: Paul wanted the Colossians to be holy, blameless and
-beyond reproach before the Lord in their daily lives, yet he    ** <u>knew</u>**  that it was contingent on ongoing steadfast
-    endurance in the truths they had received.
- 
- 
-a) ** * If* **  they did not continue steadfastly in the    ** <u>truth</u>**  they had received* ,*  they would not
-    progress in their sanctification. They would not live holy, blameless and
-    beyond reproach before God in their daily lives.
-    <br/>
-    <br/>
- 
- 
-    b) In the next chapter, Paul presented ** <u>four</u>**  threats
-    that oppose sanctification (phase two salvation). Any of these threats
-could easily substitute for Christ and lead believers away from    * the faith* .
- 
- 
-    c) Misunderstanding biblical ** <u>truth</u>**  will translate
-    into inhibited spiritual growth. 2 Timothy 3:15, Hebrews 5:12-6:1, 1 Peter
-    2:2
-    <br/>
-    <br/>
- 
- 
-    ** B. ** 
-    ** 
-        Colossians 1:24-29 – The adequacy of Christ in the church, His bride
-    ** 
- 
- 
-    1. Colossians 1:24 – ** <u>Paul</u>**  gladly suffered for
-    Christ as he ministered to the church.
- 
- 
-a. Colossians 1:24a –    * Now, I ** <u>rejoice</u>**  in my suffering* … Paul
-    counted his suffering to be a blessing. 2 Timothy 2:10, 2 Corinthians 1:5
- 
- 
-    1) * Rejoice*  CHAIRO is a ** <u>present</u>**  tense verb
-    highlighting Paul’s ongoing and continual rejoicing as he suffered for
-    Christ’s body, the church. Acts 9:4, Romans 8:17-18
- 
- 
-    2) Paul rejoiced because of the eternal ** <u>value</u>**  of
-    suffering together with Christ. 2 Corinthians 12:9-10, 1 Timothy 1:12-13, 1
-    Peter 1:6
-    <br/>
-    <br/>
- 
- 
-    b. Colossians 1:24b – …* in my flesh* … Paul experienced physical pain
-and suffering for Christ and His church. Even while he    ** <u>wrote</u>**  this letter, the apostle was under guards
-    twenty-four hours a day, suffering in chains as a prisoner. 2 Corinthians
-    7:4-5, Ephesians 4:1, Colossians 4:10, 2 Timothy 1:8
- 
- 
-c. Colossians 1:24c –    * I do my share on behalf of His ** <u>body</u>** * . Paul
-    had a purpose in his suffering. In many ways and on multiple occasions Paul
-    endured hazards including weariness, persecutions, and sickness as his
-    contribution to the growth of the church, the body of Christ. 2 Corinthians
-    11:23-28
-    <br/>
-    <br/>
- 
- 
-    d. Colossians 1:24d – …
-    * 
-        in filling up what ** <u>lacks</u>**  in Christ’s
-        afflictions
-    * 
-    . Paul considered his sufferings for the church his way of vicariously
-    suffering for Christ.
- 
- 
-1) Paul’s purpose in suffering was to ** * <u>fill</u>* **     *  up*  that which was still lacking in Christ’s sufferings. The
-    phrase * fill up*  ANTANAPLEROO communicates the idea of standing in
-    line and waiting patiently to do your part when your turn comes.
- 
- 
-2) Since the enemy cannot get at Christ, he targets Christ’s    ** <u>people</u>** . 1 Timothy 3:12, Philippians 3:10
- 
- 
-    3) The union between Christ and His body, the church, is so strong and
-intimate that Christ takes persecution against the    ** <u>saints</u>**  as a personal injury. Acts 9:4
- 
- 
-4) When you ** <u>share</u>**  in the    * afflictions of Christ*  through persecution it actually turns out to
-    be intimate fellowship with Christ and great spiritual benefit for the body
-    of Christ. * Death works in us but life in you* . 2 Corinthians
-    4:10-12
-    <br/>
-    <br/>
- 
- 
-    2. Colossians 1:25 – Paul took His ** <u>service</u>**  to
-    Christ’s church seriously.
- 
- 
-a. Colossians 1:25a –    * Of this church I was ** <u>made</u>**  a minister…*  God
-    commissioned Paul as a minister DIAKONOS to serve the entire body of
-    Christ. The qualifications of a good steward are faithfulness (Col 1:7),
-    trustworthiness (1 Cor. 4:2), and a heart to serve. 2 Corinthians 3:5,
-    Philippians 1:21
- 
- 
-b. Colossians 1:25b – * I was made a minister * …    * according to the stewardship from God bestowed on me* . Stewardship
-OIKONOMIA is a word that describes a superintendent who manages a    ** <u>household</u>** .
- 
- 
-1) In those days the steward was typically a trusted and skilled    ** <u>slave</u>**  who would look after his master’s affairs and
-    resources. Luke 12:42
- 
- 
-2) In Paul’s case he was caring for the most important entity on earth, the    ** <u>church</u>**  of Jesus Christ. Since Paul’s day, nations
-    have risen and fallen, organizations have come and gone, and yet after
-    nearly 20 centuries the church marches on. Matthew 16:18
- 
- 
-c. Colossians 1:25c –    * I was made a minister …for your ** <u>benefit</u>** .* 
-    Paul felt directly responsible for the Colossian church. We observe that
-    Paul worked, prayed, taught and lived for the sole benefit of God’s family.
-    He was not serving for personal gain or glory. 1 Thessalonians 2:1-12
- 
- 
-d. Colossians 1:25d – The apostle Paul worked very** <u>hard</u>**  in his service for the church to    *  fully carry out the preaching of the word of God* . Colossians 2:1
- 
- 
-    1) He did not hold ** <u>back</u>**  anything that was
-    profitable for them in His teaching. Acts 20:20, 2 Thessalonians 2:4
- 
- 
-    2) He taught them the ** <u>whole</u>**  counsel of God just as
-    we should in our ministry to the church. Acts 20:26-27, 2 Corinthians 2:17
- 
- 
-3. Colossians 1:26-27 – Paul’s goal was to reveal and clarify God’s    ** <u>will</u>**  for the church.
- 
- 
-    a. Colossians 1:26a – ** * That is, the mystery* ** 
-    * 
-        which has been ** <u>hidden</u>**  from the past ages and
-        generations
-    * 
-    … Paul’s task was to dispel any mysteries surrounding the Christian faith
-    by clearly teaching the truth.
- 
- 
-1) Interestingly enough, terms like * mystery*  MUSTERION and* hidden*  APOKRUPTO were later misused by Gnostics to refer to their    ** <u>secret</u>**  ceremonies in their cult worship. They
-    claimed that only the initiated knew and understood mysteries.
- 
- 
-2) Under inspiration, Paul included these terms in his    ** <u>letter</u>**  to dispel mysteries and openly correct
-    flawed understanding concerning how to live the abundant life.
- 
- 
-    3) Without doubt, by means of the book of Colossians, the Holy Spirit
-    preempted the Gnostic heresy as well as many related errors present today.
-    It would be very wise for every individual believer to give special
-    attention to the ** <u>truth</u>**  found in Colossians.
- 
- 
-    4) The truth has already been revealed and the mystery dispelled. You do
-    not need some ** <u>secret</u>**  supernatural revelation or
-    some special new prophecy. You only need to know what has already been
-    revealed in the Word. 2 Corinthians 11:2-4
-    <br/>
-    <br/>
- 
- 
-    b. Colossians 1:26b –
-    * 
-The mystery ** which has been**         ** kept hidden from past ages and generations** …
-    * 
-    means that the Old Testament prophets and ** <u>saints</u>** 
-    did not understand the things revealed to us by the apostles and prophets
-    in the New Testament concerning the church. Matthew 13:16-17, 34-35; 1
-    Peter 1:10-12
- 
- 
-1) A New Testament mystery refers to openly revealed    ** <u>truth</u>**  that was not previously understood in the Old
-    Testament.
- 
- 
-    a) Romans 16:25 –
-    * 
-        Now to Him who is able to establish you according to my gospel and the
-        preaching of Jesus Christ, according
-        ** 
-            to the revelation of the mystery which has been kept <u>secret</u>
-            for long ages past
-        ** 
-        .
-    * 
- 
- 
-    b) Romans 16:26 – ** * but now is manifested* ** 
-    * 
-        , and by the Scriptures of the prophets, according to the commandment
-        of the eternal God, has been made known to ** <u>all</u>** 
-        the nations, leading to obedience of faith
-    * 
-    .
- 
- 
-    2) In the New Testament Jesus Christ is ** <u>shown</u>**  to be
-    both the revelation and essence of * the mystery* . Ephesians 3:1-10
- 
- 
-    a) Ephesians 1:9-10 says, “
-    * 
-He made known to us the mystery of His will… that is, the        ** summing up of all things in <u>Christ</u>** , things in
-        the heavens and things on the earth.
-    * 
-    ” This speaks of Christ’s role in our reconciliation.
- 
- 
-    b) Colossians 1:26 says, “
-    * 
-        To whom God willed to make known what is the riches of the glory of
-this mystery among the Gentiles,        ** which is <u>Christ</u> in you** , the hope of glory
-    * 
-    .” This speaks of Christ’s role in our sanctification.
- 
- 
-    c) Colossians 2:2 says, “
-    * 
-        That their hearts may be encouraged, having been knit together in love,
-        and attaining to all the ** <u>wealth</u>**  that comes from
-        the full assurance of understanding,
-        ** 
-            resulting in a true knowledge of God's mystery, that is, Christ
-            Himself
-        ** 
-    * 
-    .” This speaks of Christ’s adequacy.
- 
- 
-    3) Our understanding of * mystery*  in the New Testament revolves
-    around the person and work of Jesus Christ.
- 
- 
-    4) Jesus Christ is the summation of everything God wanted to accomplish.
-    Christ was the ** <u>answer</u>**  to every dilemma man ever
-    had. All the big eternal questions are resolved in Him.
- 
- 
-    a) How would God reconcile Jews, Gentiles and even creation to Himself and
-then to each other? The mystery was resolved in    ** <u>Christ</u>** .
- 
- 
-b) How would God make His reconciled ones holy in their conduct and living?* Christ in us*  resolves the mystery of our being    ** <u>holy</u>**  in conduct.
-    <br/>
-    <br/>
- 
- 
-c. Colossians 1:26c – * The mystery*  …    * has now been manifested to His saints* . Paul openly disclosed the
-    whole ** <u>truth</u>**  to God’s people.
- 
- 
-    1) What a contrast to false teachers who love to boast about being the only
-ones to understand mysteries and gloat over having an inside    ** <u>track</u>**  with God.
- 
- 
-    2) Rather than encrypt the message, true Christianity always seeks to make
-    the ** <u>whole</u>**  church understand the mysteries.
-    <br/>
-    <br/>
- 
- 
-    d. Colossians 1:27a – It was to us the ** <u>saints</u>** 
-    * 
-        God willed to make known what is the riches of the glory of this
-        mystery ** among the gentiles** .
-    * 
-    What was so valuable about the mystery that God would take such great
-    measures to reveal it to us who are Gentiles?
- 
- 
-    1) Notice that when God revealed the mystery through the preaching of Paul,
-    He willingly decided to include the ** <u>Gentiles</u>** .
- 
- 
-    2) Note carefully that God did not merely reveal this mystery; He made
-known    * the**  <u>riches</u> of the glory**  of this mystery* .
- 
- 
-3) There are great * riches*  (PLOUTOS spiritual    ** <u>wealth</u>** , blessing and abundance) involved in
-    understanding this mystery. Ephesians 3:8-10, Romans 11:33
- 
- 
-    4) So, what is the mystery? What makes it so valuable?
- 
- 
-e. Colossians 1:27c – The mystery is    ** * <u>Christ</u>* ** *  in you the hope of glory* .
- 
- 
-    1) * Christ in you*  means you have His adequacy available to you
-twenty-four hours a day. This is what makes the abundant    ** <u>life</u>**  possible.
- 
- 
-    2) This is the unique aspect of Christianity that was never revealed in the
-    Old Testament. This is what gives you a future ** <u>hope</u>** 
-    of glory. John 7:38-39, Romans 8:23-24, 2 Corinthians 1:22, Ephesians 1:14
- 
- 
-    3) The Old Testament did reveal a coming King who would set up a physical
-    kingdom on earth. The Old Testament revealed that this king would be
-    Immanuel, ** <u>God</u>**  with us.
- 
- 
-    4) But the fact that God Himself, in the person of Jesus Christ, would come
-    to
-    ** 
-        indwell <u>each</u> individual believer including the Gentiles
-    ** 
-    is not found anywhere in the Old Testament. This fact was truly an
-    unrevealed mystery.
-    <br/>
-    <br/>
-    <br/>
- 
- 
-4. Colossians 1:28-29 – Paul described ongoing and extensive    ** <u>labor</u>**  in His ministry of revealing God’s mystery to
-    the church.
- 
- 
-    a. Colossians 1:28a – * We proclaim Him* … Paul and the other apostles
-    proclaimed a ** <u>person</u>** , Jesus Christ, as God’s
-    provision for abundant living. 1 Timothy 3:16
- 
- 
-    1) Paul did not preach some program, system of religion, catechism,
-    process, experience or philosophy as the ** <u>answer</u>**  for
-    living a victorious Christian life.
- 
- 
-    2) In the same way, we ought to proclaim dependence on Jesus Christ, the
-    person of God’s mystery, as the ** <u>sole</u>**  fountain out
-    of which we live the abundant life. John 7:37-39
-    <br/>
-    <br/>
- 
- 
-b. Colossians 1:28b – By …** * admonishing* **     *  ** <u>every</u>**  man,*  Paul sought to reveal the
-    mystery to every believer. We can think of admonishment as teaching with a
-    corrective twist.
- 
- 
-    1) * Admonish*  NOUTHETEO is a present tense participle derived from
-    NOUS meaning mind and TITHEMI meaning to place or put. Paul emphatically
-    and repeatedly impressed the truth on their ** <u>minds</u>** .
- 
- 
-    2) This is like a ** <u>parent</u>**  who brandishes something
-    into a child’s thinking by repeated warning. Admonish is a stronger concept
-    than mere teaching. 1 Thessalonians 2:11
- 
- 
-    3) By implication, we as Bible teachers should persevere in the task of
-    putting the truth of God’s Word into the ** <u>hearts</u>**  of
-    our audience. We do this practically by repeated warning, caution, reproof
-    and exhortation.
-    <br/>
-    <br/>
- 
- 
-c. Colossians 1:28c – ** * Teaching* **     *  every ** <u>man</u>**  with all wisdom* . Paul not only
-corrected the church through ** admonishment** , he    ** taught**  everyone by instruction. 2 Timothy 4:2, 24
- 
- 
-    1) Teaching is a ministry of explanation and clarification as opposed to
-    the corrective ** <u>nature</u>**  of admonishment.
- 
- 
-    2) Teaching is the process of systematically ** <u>laying</u>** 
-    out truth.
- 
- 
-3) Although admonishment is always important, Paul went a step    ** <u>further</u>** . He also ** * taught* ** 
-    the whole church with great wisdom and careful instruction. 2 Timothy 4:2
- 
- 
-    4) Through instruction he explained the ** <u>life</u>** 
-    -changing objectives of the mystery * Christ in you* .
- 
- 
-5) This is reiterated in the added phrase    * teaching …** with <u>all</u> wisdom** * . The teaching
-    Paul described here is not just the transfer of knowledge. Wisdom actually
-    applies the acquired knowledge. Philippians 1:9-10
- 
- 
-    6) We discern a very practical ** <u>goal</u>**  in Paul’s
-    teaching. His learners were not merely filling up notebooks with Bible
-    truth; their lives were actually being changed by truth. John 17:17, Romans
-    12:2, 1 Thessalonians 1:5-6, 1 Timothy 1:5, 2 Timothy 3:16-17
- 
- 
-d. Colossians 1:28d – Paul proclaimed the mystery    ** * Christ in you* **  with a specific objective in mind.
-He taught and explained the mystery in order to    * present ** <u>every</u>**  man complete in Christ* .
- 
- 
-1) The phrase ** * every man*  ** PANTA ANTHROPON is found    ** <u>three</u>**  times in this verse and is a phrase that
-    includes both genders, male and female.
- 
- 
-    2) This phrase highlights the need we all have of understanding in a
-practical sense what ** * <u>Christ</u>* **     *  in you*  really means.
- 
- 
-    3) Christ lives in ** <u>every</u>**  believer but not all
-    believers understand the life-changing significance of this fact. This
-    verse shows how Paul put his life on the line to communicate to every
-    believer this foundational truth.
- 
- 
-    e. Colossians 1:28e – …
-    * 
-so that we may ** present**  every man        ** <u>complete</u> in Christ** 
-    * 
-    . Paul preached the mystery of Christ with the anticipation of presenting
-    everyone complete and mature in Christ in his or her daily life. Galatians
-    2:20, Colossians 1:22-23
- 
- 
-    1) The idea of * present*  here is a flashback to verse 22 where he
-    spoke of presenting us before ** <u>God</u>**  holy, blameless
-    and beyond reproach in our daily lives as believers.
- 
- 
-    2) Paul did not simply want to evangelize people. He worked tirelessly to
-    see those who believe achieve the ultimate goal. He strove to present them
-    to God ** <u>mature</u>** .
- 
- 
-    3) So what does it mean to present someone * complete in Christ* ?
- 
- 
-a) * Complete*  is the Greek word TELEIOS and means    ** <u>mature</u>**  or fully-grown. It describes something that
-    has all its essential parts. What Paul was pursuing in his service was that
-    every believer would ** <u>grow</u>**  and become fully mature.
- 
- 
-    b) Paul wanted all believers in the church to ** <u>enjoy</u>** 
-    the full richness of the abundant life and not to stumble through life or
-    simply exist. John 10:10b
- 
- 
-    c) He did not want even ** <u>one</u>**  son or daughter of God
-    to fail to achieve spiritual completeness. Galatians 4:19; Ephesians
-    3:14-19, 4:13; Philippians 3:10-14
- 
- 
-d) Paul knew that completeness relied on how well they understood God’s    ** <u>will</u>**  for believers – the hope-giving mystery of the
-    abundant life – the mystery of * Christ in you* .
-    <br/>
-    <br/>
- 
- 
-f. Colossians 1:29a –    * For this purpose I ** <u>labor</u>** .*  Paul was so
-    absolutely convinced of the importance of the mystery he willingly gave his
-    all for its expansion.
- 
- 
-    1) The Greek word * labor*  KOPIAO means to work until one is
-    completely worn out and depleted of all ** <u>energy</u>** .
-    This word was used to describe exhausting labor. Paul did not give minimal
-    effort; he strove to the point of exhaustion.
- 
- 
-    2) Paul used the term ** * <u>labor</u>* **  in the present
-    tense to communicate his present ongoing intensive exertions for them.
- 
- 
-    3) In order to communicate * Christ in you, the hope of glory*  to the
-    church, Paul gave it his all, even to the ** <u>point</u>**  of
-    extreme physical exhaustion.
- 
- 
-g. Colossians 1:29b –    * For this purpose I labor, ** <u>striving</u>** …*  The
-    word * striving*  AGONIZOMAI was used to describe extreme effort
-    especially through discomfort. We get our English word agonize from this
-    Greek word* .* 
- 
- 
-1) In ancient writings the word AGONIZOMAI described the    ** <u>extreme</u>**  exertions of those who contended in public
-    sports, fights and wrestling matches. 1 Corinthians 9:25
- 
- 
-2) AGONIZOMAI conveyed the idea of straining to the extreme to    ** <u>win</u>** . We might understand the meaning of the word
-    when we compare it with the thrust of an athlete who, in order to win,
-    strains on even while every muscle screams, “Quit.”
-    <br/>
-    <br/>
- 
- 
-    h. Colossians 1:29c –
-    * 
-Striving according to his power which mightily works        ** within me** 
-    * 
-… Notice the ** <u>sphere</u>**  in which God worked; it was    * within*  Paul. This speaks of God being at work for the good of
-    others in and through a presented servant.
- 
- 
-    1) God’s ** <u>work</u>**  through Paul was not primarily based
-    on Paul’s abilities. It was based on God’s enablement. 2 Corinthians 3:4-5
- 
- 
-    a) It was not ** <u>through</u>**  his superior education in
-    Judaism that God worked, even though, to be sure, his education was
-    extensive and impressive. Acts 22:3, Philippians 3:6-8
- 
- 
-    b) God did not ** <u>work</u>**  through the apostle Paul based
-    on his heritage, even though he was a * Hebrew of the Hebrews* .
-    Romans 11:1, 2 Corinthians 11:22, Philippians 3:5
- 
- 
-c) It was not because of his expert methodologies, his impressive    ** <u>mission</u>**  strategies or even his great work ethic
-    that God was able to work through Paul. Romans 15:15-18, 1 Corinthians
-    15:9-11
- 
- 
-2) God was able to work through Paul simply because Paul was a presented    ** <u>vessel</u>**  God could freely use. God empowers presented
-    people for effective service. Romans 15:13, 2 Corinthians 4:7
- 
- 
-    a) This is something totally ** <u>foreign</u>**  to the
-    experience of the unsaved.
- 
- 
-    b) This is also something that ** <u>carnal</u>**  believers do
-    not appreciate and seldom experience practically because they live relying
-    on human wisdom rather than on the power of God. Jeremiah 17:5-8, 1
-    Corinthians 2:4-5
-    <br/>
-    <br/>
- 
- 
-    i. Colossians 1:29d – Finally, a literal translation of this verse reads,
-    * 
-        “for which also I ** <u>labor</u>** , striving according to
-        his working
-    * 
-    ** * ENERGEIA* ** 
-     
-    * that is working * 
-    ** * ENERGEO* ** 
-    *  in me in powerfully**  DYNAMEI** * 
-    .”
- 
- 
-    1) * Striving according to His working* … * Working*  ENERGEIA is
-    a noun that means effective, ** <u>active</u>**  or pertaining
-    to action.
- 
- 
-2) * That is working * * ENERGEO* *  in me* … The verb    * working*  ENERGEO is a present tense, middle voice participle in
-    Greek. It means that ** <u>God</u>**  was the One energetically
-    at work, being effective and producing results in and through the apostle.
-    <br/>
-    <br/>
- 
- 
-    3) * Working in me, in ** <u>power</u> ** DYNAMIS* … The
-    noun * power*  DYNAMIS communicates force, might or energy.
- 
- 
-    4) The same nouns ENERGEIA and DUNAMIS, and the verb ENERGEO were used to
-    describe the ** <u>power</u>**  God exerted in the resurrection
-    of Christ from the dead.
-    <br/>
-    <br/>
- 
- 
-5) Ephesians 1:19-20 –* These are in accordance with the ** working**  * ** ENERGEIA**  * of the strength of His might * ** DUNAMIS** * , which He ** brought about**  *     ** ENERGEO** 
-    * 
-        in Christ, when He ** <u>raised</u>**  Him from the dead
-    * 
-    …
- 
- 
-    6) We can conclude that Paul strove ** <u>hard</u>**  in his
-    mission efforts but only by actively receiving a constant infusion of God’s
-    power. He was not trusting in himself. He was trusting in the power of
-    Christ. Remember * Christ in you * is the mystery of God revealed.
-    <br/>
-    <br/>
-    <br/>
- 
-===
-# V.  Colossians 2:1-7 – God’s Protection From Heresies: Understanding the Mystery of Christ
- 
- 
-    ** A. ** 
-    ** Colossians 2:1-3 – Paul waged a war** 
- 
- 
-1. Colossians 2:1 – Paul was engaged in a grueling and arduous    ** <u>struggle</u>**  for the churches of the Lycos valley.
- 
- 
-a. Colossians 2:1a – * For I want you to know* … The opening word    ** * <u>for</u>* **  ties this section back to the previous
-    passage. This is not a new topic but a continuation of the apostle’s deep
-    concern for the churches beginning back in Colossians 1:24.
-    <br/>
-    <br/>
- 
- 
-    b. Colossians 2:1b – * How great a struggle*  conveys the idea of an
-enormous contest, conflict or battle. Paul was aggressively    ** <u>fighting</u>**  for the lasting existence of the church in
-    that region of the world.
- 
- 
-    1) Paul was deeply distressing over them. The word * striving* 
-    AGONIZOMAI in Colossians 1:29 has the same ** <u>root</u>**  as
-    the word * struggle*  AGON in Colossians 2:1. We get our English word
-    agony from this term.
- 
- 
-    2) Paul used * struggle*  as a ** <u>present</u>**  tense
-    verb, communicating his ongoing pastoral care and concern for the
-    Colossians. Day in and day out, Paul passionately struggled for their
-    success.
- 
- 
-    c. Colossians 2:1c –
-    * 
-        How great a struggle I have on your behalf and for those who are at
-        Laodicea, and for all those who have not personally seen my face
-    * 
-    . Here we observe the ** <u>depth</u>**  of the conflict of soul
-    Paul experienced for the Colossian church.
- 
- 
-    1) Paul wanted the ** <u>entire</u>**  church body to know he
-    was waging all-out war through intercessory prayer for them.
- 
- 
-2) Remarkably, even though Paul did not personally    ** <u>know</u>**  most of these churches, he nonetheless prayed
-    intensely for their spiritual progress. What a call to action for us today
-    to pray even for churches we do not personally know.
-    <br/>
-    <br/>
- 
- 
-2. Colossians 2:2 –    * That their ** <u>hearts</u>**  may be encouraged* … The
-    word * that*  HINA conveys purpose. Paul had a two-fold purpose in his
-    intercessory struggle for the believers: 1) that their hearts might be
-    encouraged, and 2) that they might attain to ** <u>all</u>** 
-    the wealth which was already theirs in Christ.
- 
- 
-    a. Colossians 2:2a –
-    * 
-That their hearts may be encouraged, having been        ** <u>knit</u>**  together in love
-    * 
-… The apostle Paul knew that when the body of Christ is    * knit together in love*  it will result in encouraged believers.
- 
- 
-    1) The word * encourage*  PARAKALEO means to come beside and urge
-forward. Encouragement comes from knowing you are not in the battle    ** <u>alone</u>** ; someone is at your side. Ephesians 4:15-16
- 
- 
-2) Although we are many members in the body of Christ, Christ has only    ** <u>one</u>**  body. Christ wants all the members of His body
-    to work together for mutual growth and then as one unit to be the pillar of
-    light and truth in the world. 1 Corinthians 12:11-14, Ephesians 2:21-22,
-    Philippians 1:27, 1 Timothy 3:15
- 
- 
-3) Great encouragement comes in true Christian    ** <u>unity</u>** . Christians get involved in all sorts of
-    dead-end activities supposing they’ll find inspiration for life. We must
-    understand that we will never find true encouragement outside of Christ and
-    His body. Philippians 2:2
- 
- 
-    4) Unity has the power to ** <u>calm</u>**  and console our
-    hearts. Paul understood the importance of unity so keenly that without
-    hesitation he fell to his knees in spiritual combat, begging God for true
-    unity in the body of Christ.
- 
- 
-b. Colossians 2:2b – ** * And attaining* **     *  to all the wealth…*  Paul struggled in prayer for the believers to
-    know and understand all the ** <u>wealth</u>**  that was theirs
-    in Christ.
- 
- 
-    1) In Christ we have been ** <u>blessed</u>**  with unfathomable
-    spiritual wealth. Ephesians 1:3, 3:8-9; 2 Peter 3:18
- 
- 
-2) A person, whether rich or poor, who comes to    ** <u>know</u>**  God’s mystery, Jesus Christ, as revealed in
-    the Scriptures is a wealthy person indeed. Philippians 3:7-14
- 
- 
-    c. Colossians 2:2c – …* that comes from the full assurance* … In
-    contrast to the discouragement of uncertainty, God wants us to be
-    encouraged, being ** <u>fully</u>**  assured of the truth of His
-    Word and of His abundant grace so that we can come to truly bask in all the
-    wealth that is ours in Christ.
- 
- 
-    1) The phrase ** * <u>full</u>* ** *  assurance * 
-    reminds us that we can be certain of the truth of God’s Word.
- 
- 
-2) We live in a world where people jokingly say that nothing is sure except    ** <u>death</u>**  and taxes. Popular culture likewise teaches
-    there is no absolute truth. John 18:38
- 
- 
-    3) On the contrary, the cry of Jesus, the apostle Paul, and virtually all
-    of Scripture is that you can ** <u>know</u>**  truth and that
-    truth brings freedom. John 8:32
-    <br/>
-    <br/>
- 
- 
-    d. We live in a day when many teachers assert that it is good to live with
-    a healthy ** <u>doubt</u>**  concerning salvation. To these
-    preachers it is a good thing to have a degree of uncertainty and insecurity
-    about your salvation.
- 
- 
-    1) Some teachers say that you cannot ever truly know if you are actually
-    saved until you die. They contend that if you continue faithful to Christ
-    all your life then, and only then, can you be ** <u>sure</u>** 
-    you were truly saved.
- 
- 
-    2) Sadly, those who believe this become ** <u>guilty</u>**  of
-    teaching a gospel of salvation by works.
- 
- 
-    3) When you believe that good works play a part in your salvation, you will
-be subjected to great uncertainty and insecurity and will not    ** <u>enjoy</u>**  the assurance Paul wanted the Colossians to
-    possess.
- 
- 
-    4) Paul stated that his goal was for believers to attain
-    * 
-        to all the wealth that comes from the full assurance of understanding
-    * 
-    . The purpose of the New Testament is not to ** <u>cast</u>** 
-    doubts on our salvation but rather to provide solid assurance of our
-    salvation. John 20:30-31, 2 Timothy 1:1, 1 John 5:10-13
-    <br/>
-    <br/>
- 
- 
-e. Colossians 2:2c –    * …that comes from the full assurance of understanding…*  Paul used
-the phrase * assurance of understanding*  to convey the idea of    ** <u>reason</u>**  based on logical deduction.
- 
- 
-    1) Having a scriptural understanding of ** <u>Christ</u>**  and
-    His salvation is absolutely essential for assurance. Without assurance of
-    our position in Christ and the grace in which we stand, we cannot enjoy all
-    the wealth that is ours in Christ. 2 Peter 1:3-4
- 
- 
-    2) The ** <u>false</u>**  teaching infiltrating the church of
-    Colossae mirrored much of what we see in churches today. We are told that
-    Christ is not sufficient for our needs. We are led to believe we need a new
-    philosophy, more rules and regulations, new experiences, or more
-    self-control to dominate our desires.
- 
- 
-    3) All these errors ** <u>remove</u>**  believers from Christ’s
-    adequacy and diminish His value as the resolver of life’s problems.
-    <br/>
-    <br/>
- 
- 
-    f. Colossians 2:2d – …
-    * 
-        resulting in a ** <u>true</u>**  knowledge of God's mystery,
-        that is, Christ Himself
-    * 
-    .
- 
- 
-    1) The unfathomable ** <u>riches</u>** , wealth and grace God
-    has for us are found solely in the person of Jesus Christ. 2 Peter 1:3-4
- 
- 
-    2) Paul struggled (Col. 2:1) and labored (Col. 1:29) in prayer for the
-Colossian believers and the neighboring churches to    ** <u>truly</u>**  understand God’s mystery, which is Christ
-    Himself.
-    <br/>
-    <br/>
- 
- 
-3. Colossians 2:3a – Paul wanted Christ, God’s mystery, to be    ** <u>clearly</u>**  understood by the Colossians because all
-the treasures of wisdom and knowledge are found only in    ** * Christ* ** . We need to know that the “secret” to
-    spiritual living is found hidden in Christ.
- 
- 
-a. Colossians 2:8-9 – In this chapter we will see that the    ** <u>secret</u>**  to godly living is not found in some human
-    philosophy.
- 
- 
-    1) A ** <u>new</u>**  philosophy or someone claiming to have
-    higher knowledge could have easily bedazzled some first century believers.
- 
- 
-    2) Even today some believers teach that life’s answers are found in a mix
-    of Freudian thought and ** <u>biblical</u>**  truth.
- 
- 
-    3) Since many say, “All truth is God’s truth,” some believers teach that
-secular philosophy must be acceptable, but just because    ** <u>truth</u>**  belongs to God does not mean that the
-    philosophy of this world is correct. James 3:13-18
- 
- 
-    4) We can know with certainty that the treasure trove of wisdom and
-    knowledge is found ** <u>only</u>**  in God’s mystery, Jesus
-    Christ. Colossians 2:3
-    <br/>
-    <br/>
- 
- 
-    b. Colossians 2:16-17 – The secret to godly living is not found in
-    ritualistic or religious ** <u>legalism</u>** .
- 
- 
-    1) Those who teach that you must keep the law to be a faithful Christian
-and pleasing to God end up replacing a life of    * grace through ** <u>faith</u>** *  with human efforts.
- 
- 
-    2) These individuals have not found Jesus Christ to be God’s unique
-provision for godly living. They replace fellowship with Christ for a    ** <u>list</u>**  of rules and regulations.
- 
- 
-    3) On the outside, legalistic Christians may seem to be doing everything
-    right, but they are missing out on the joy of ** <u>true</u>** 
-    fellowship with Jesus Christ. These believers tend to be mechanical in
-    their Christianity while lacking the vibrancy of fellowship with Christ. 2
-    Timothy 3:5
- 
- 
-    4) The Pharisees lived barren lives. On the outside you could not find
-    fault with their way of living, but they were ** <u>cold</u>** 
-    -hearted, selfish and covetous on the inside and devoid of a real
-    relationship with God. Matthew 23:25, Luke 11:39, John 8:19
- 
- 
-    5) Legalists tend to be judgmental, ** <u>harsh</u>**  and
-    unyielding, smugly feeling that they are the only ones truly right with
-    God.
-    <br/>
-    <br/>
- 
- 
-c. Colossians 2:18-19 – The secret to godly living is not found in having    ** <u>mystical</u>**  experiences.
- 
- 
-1) Those who teach this error replace a biblical relationship with    ** <u>Christ</u>**  for supernatural experiences.
- 
- 
-    2) If they have to make a choice, they are be apt place higher value on
-    their experiences than on the ** <u>Word</u>**  of God.
- 
- 
-    3) If they have to decide between something they saw or experienced and
-    what the ** <u>Bible</u>**  actually says, they usually go with
-    the former over the written Word of God.
-    <br/>
-    <br/>
- 
- 
-d. Colossians 2:20-23 – And finally the secret to godly living is not    ** <u>found</u>**  in personal asceticism.
- 
- 
-    1) The ascetic Christian believes that by self-imposed harshness or
-    personal humiliation he will gain greater spirituality and freedom from
-    indulging in fleshly ** <u>sins</u>** .
- 
- 
-2) Things like eastern yoga, transcendental meditation and special    ** <u>diets</u>**  do not hold the answer to true peace and
-    prosperous living. The fact is that the reverse actually happens.
- 
- 
-    3) As long as a believer continues to faithfully apply the pressures of
-    asceticism, he or she can produce external conformity, but the moment one
-    relaxes, the ** <u>flesh</u>**  comes back with a vengeance.
-    Colossians 2:23
-    <br/>
-    <br/>
- 
- 
-4. Colossians 2:3b – Christ is the person …** * in whom are <u>hidden</u> all the treasures* **     *  of wisdom and knowledge.* 
- 
- 
-    a. There are incredible ** <u>riches</u>**  in understanding the
-    plans and purposes of God. There is incomprehensible wealth in a complete
-    knowledge of God’s infinite thoughts and insights stockpiled in knowing
-    Christ Jesus our Lord.
- 
- 
-    b. There is not one ounce of ** <u>wisdom</u>**  or knowledge
-    that you need for living this life that is not already accessible to you in
-    intimately knowing Jesus Christ. 2 Peter 1:3
- 
- 
-    5. Colossians 2:3c – Christ …
-    * 
-in whom are hidden all the treasures        ** of wisdom and knowledge** 
-    * 
-    . Everything you need for abundant ** <u>godly</u>**  living is
-    found in intimately knowing Jesus Christ.
- 
- 
-    a. * Knowledge*  is God-given enlightenment to be able to understand
-    His Word and ** <u>will</u>** .
- 
- 
-    b. * Wisdom*  is the God-given ability to go on and practically use
-    the knowledge of God’s Word and will in your ** <u>daily</u>** 
-    living.
- 
- 
-c. The believer who only superficially or academically knows the    ** <u>Lord</u>**  does not truly possess or experience this
-    understanding. Christ is a person to intimately know not a school subject
-    to learn. To know the Lord translates into a dependent walk of faith. Psalm
-    9:10, Daniel 11:32, John 17:3, Hebrews 12:1-2
-    <br/>
-    <br/>
- 
- 
-    ** B. ** 
-    ** Colossians 2:4-5 – Paul warned of danger** 
- 
- 
-1. Colossians 2:4 –    * I say this so that no one will delude you with persuasive argument* 
-    . Paul warned the Colossians not to be ** <u>tricked</u>** .
-    Galatians 1:6-9, 3:1
- 
- 
-a. Colossians 2:4a – Paul was worried the Colossians might be in** <u>danger</u>**  of delusion. …    * so that no one will delude you* … 2 Corinthians 11:3-4, 13-15
- 
- 
-    1) The word * delude*  PARALOGIZOMAI is a two-part word in Greek. PARA
-means ** with**  or ** beside**  and LOGIZOMAI means    ** to reason**  or ** to use logic** . You might say
-    it means to add or combine something with ** <u>reason</u>**  or
-    logic.
- 
- 
-2) Deceit is exactly that. It is a clever combination of falsehood with    ** <u>good</u>**  reasoning.
- 
- 
-    3) Even though in the very next verse Paul was complimentary of these
-Colossian Christians because they were presently standing    ** <u>firm</u>** , it is clear from this warning that even the
-    “strongest” Christian can be deceived and must therefore remain on guard
-    and take heed to this warning. Colossian 2:5
-    <br/>
-    <br/>
- 
- 
-    b. Colossians 2:4b – * With persuasive argument…*  False teachers
-    often ** <u>seek</u>**  to win converts through wise-sounding
-    arguments that are untrue. 2 Peter 2:1, 17-19
- 
- 
-1) False teachers seldom come through the front    ** <u>door</u>**  proclaiming their unorthodoxies in clear
-    language. Acts 20:29-31
- 
- 
-    a) Instead false teachers use persuasive ** <u>words</u>**  to
-    gain an audience with unsuspecting believers. They then stealthily steer
-    them towards their devious goals. 2 Corinthians 2:17a; Jude 4, 8, 10-16,
-    18-19
- 
- 
-    b) Your real protection is putting on Christ as portrayed in the individual
-    pieces of the ** <u>armor</u>**  of God. Romans 13:12-14,
-    Ephesians 6:10-18
- 
- 
-    2) The Colossians already owned the full treasure of God’s wisdom and
-    knowledge in the person of Jesus Christ; they did not need to look beyond
-    Him for acquiring ** <u>truth</u>** . Colossians 2:3, 3:15-16
- 
- 
-    3) What kind of logic might charm you? What smooth sounding rhetoric might
-    trick you? Acceptance of what ** <u>seems</u>**  to be right,
-    without checking it against the Word of God, has led to the downfall of
-    many. Acts 17:11
-    <br/>
-    <br/>
- 
- 
-    2. Colossians 2:5 –
-    * 
-        For even though I am absent in body, nevertheless I am with you in
-        spirit…
-    * 
-    Paul used military lingo to compliment the Colossian believers on their
-    readiness to ** <u>fight</u>** .
- 
- 
-    a. Colossians 2:5a –Even though Paul was not physically present in
-Colossae, in his ** <u>spirit</u>**  he was    * rejoicing to see [their] good discipline* .
- 
- 
-    1) In using the term * good discipline * TAXIS, Paul employed a
-military concept used to describe a well-ordered, descending-in-    ** <u>rank</u>** , combat-ready squadron of soldiers.
- 
- 
-    2) Even though there were ** <u>false</u>**  teachers afoot, the
-    apostle felt confident that the Colossians were battle-ready.
- 
- 
-    3) Are we set for defense when it comes to false teaching? Have we adopted
-    the modern don’t-rock-the-boat mindset of ** <u>tolerance</u>** 
-    when it comes to doctrinal differences? May this not be the case.
- 
- 
-b. Colossians 2:5b – Paul also rejoiced to see their** <u>stability</u>** .    * Rejoicing to see …the stability of your faith in Christ* .
- 
- 
-1) The word for * stability*  STEREOMA means firm,    ** <u>solid</u>**  or stable. Originally the term described the
-    military stance developed by the Greeks where shields were overlapped and
-    spears extended as troops moved forward in unison.
- 
- 
-    2) By using this term, Paul metaphorically described the unity of the
-    Colossian church. He considered them a ** <u>firm</u>** ,
-    unyielding and close-knit unit.
- 
- 
-3) Their stability was based on their    ** * <u>faith</u>* ** *  in Christ*  not on their
-    personal strengths. Paul perceived that they were firmly leaning on Christ
-    and he knew this would ensure their ultimate victory.
- 
- 
-    c. In summary, Paul rejoiced because he was sure the Colossian believers
-    were on guard ** <u>against</u>**  false teaching.
- 
- 
-1) They stood as a well-prepared and disciplined group of    ** <u>soldiers</u>** .
- 
- 
-2) They stood with an arm-in-arm posture in their active    ** <u>faith</u>**  in Christ.
- 
- 
-    3) Quite obviously Paul had done a ** <u>great</u>**  job of
-    discipleship with Epaphras. As a disciple-maker, Epaphras had gone forth
-    and duplicated Paul’s efforts in the lives of the Colossians.
-    <br/>
-    <br/>
- 
- 
-    ** C. ** 
-    ** Colossians 2:6-7 – Paul pointed toward Christ** 
- 
- 
-    1. Colossians 2:6 –
-    * 
-        Therefore as you have received Christ Jesus the Lord, so walk in Him
-    * 
-    . This is the first ** <u>directive</u>**  given to believers in
-    the book of Colossians.
- 
- 
-a. Colossians 2:6a –    * As you received Christ Jesus ** <u>the</u>**  Lord…*  is
-    a good translation of the Greek text.
- 
- 
-    1) This verse should ** <u>not</u>**  read as the NIV, NET, and
-NLT Bible translators rendered it:    * as you received Christ Jesus ** as**  Lord* .
- 
- 
-    2) This would be the ** <u>only</u>**  place in the NT where the
-    word “* the* ” (* ton* ) is translated using the English word
-    “as.”
- 
- 
-    3) We did not receive Christ Jesus ** as**  Lord, but we did
-    receive * Christ Jesus ** <u>the</u>**  Lord* .
- 
- 
-    a) Our salvation was not a promise, effort or ** <u>deal</u>** 
-    we struck with God whereby we made Him Lord of our lives in order to merit
-    salvation.
- 
- 
-b) We received Christ as our Savior by simple childlike    ** <u>faith</u>**  in the person and work of Christ. Acts 16:31,
-    Ephesians 2:8-9, John 3:16-17
- 
- 
-b. Colossians 2:6b –    * As you ** <u>received</u>**  Christ… so walk in Him…* 
-    Paul wanted the Colossian believers to continue to walk with Christ in the
-    very same way they first received Him.
- 
- 
-1) What we see here is that in the same way we received Christ by    **  <u>faith</u>**  at salvation we are now commanded to daily
-    walk in Him.
- 
- 
-a) According to John 1:12, to receive Jesus Christ is to    ** <u>believe</u>**  in His name. His name represents who He is
-    and what He did. As Christ, He is the God-man who died for our sins and
-    rose again the third day.
- 
- 
-    b) Galatians 3:3 shows that we began our Christian walk by means of the
-    Holy Spirit and therefore we are to continue on in the power of the Holy
-    Spirit and ** <u>not</u>**  resort to the power of the flesh. By
-    faith we walk according to the Holy Spirit. 2 Corinthians 5:7
- 
- 
-c) Hebrews 10:38 shows that if we as believers pull    ** <u>back</u>**  from a walk of faith we displease our Lord.
-    Hebrews 11:6
- 
- 
-d) Romans 1:17 teaches that the justified person is to    ** <u>live</u>**  from faith to faith.
-    * 
-For in it the righteousness of God is revealed        ** from faith to faith** ; as it is written, “BUT THE
-        RIGHTEOUS man SHALL LIVE BY FAITH.”
-    * 
- 
- 
-2) Colossians 2:6c – What did Paul mean by … so    ** * <u>walk</u>* ** *  in Him* ?
- 
- 
-    a) The action verb * walk*  PERIPATEO comes from PERI meaning around
-and PATEO to walk. Since Paul used the word * walk*  as a    ** <u>present</u>**  tense command it communicated the
-    requirement to walk this way right now. Paul instructed the Colossians to
-    daily walk with the Lord by faith.
- 
- 
-    b) We are to go about walking with Jesus in the same way we first trusted
-    in Him. We received Him by faith and that is ** <u>how</u>**  we
-    are to now walk with Him. Galatians 3:2-3
- 
- 
-    c) Every day you should wake up and walk about trusting Christ to live His
-    life in and through you. In both ** <u>public</u>**  and private
-    aspects of your life you are commanded to walk by faith. We are to daily,
-    not just on Sunday, walk in this way. Galatians 2:20
- 
- 
-d) We are to keep in step with the Holy Spirit,    ** <u>yoked</u>**  together with Him. Romans 8:13, Galatians
-    5:16
-    <br/>
-    <br/>
- 
- 
-    3) Colossians 2:6d – …** * <u>in</u>* ** *  Him* . At
-    salvation all believers are placed into Christ. Galatians 3:27
- 
- 
-a) When you became a believer, you were born again as a    ** <u>new</u>**  creation into the body of Christ. You are no
-    longer in Adam. You now have a new identity in Christ. 2 Corinthians 5:17
- 
- 
-b) Ephesians 1:3 – In Christ you have been ** <u>blessed</u>**     * with every spiritual blessing in the heavenly places* . Colossian
-    3:1-3
-    <br/>
-    <br/>
- 
- 
-    2. Colossians 2:7 – Using the metaphor of a ** <u>tree</u>** ,
-    Paul explained what your experience will be as you * walk * and mature
-    in Christ.
- 
- 
-    a. Colossians 2:7a – * Having been firmly rooted* … At salvation we
-    became firmly ** <u>rooted</u>**  in Christ. Ephesians 3:17
- 
- 
-    1) Because this participle ** * <u>rooted</u>* **  RHIZOO
-    is in the perfect tense, it implies an ongoing present reality that was
-    established at a past event.
- 
- 
-2) The believer was rooted in Christ at the point of    ** <u>faith</u>**  alone in Christ alone for salvation.
-    Afterward in daily living the believer continues on deeply rooted in Christ
-    as His source.
- 
- 
-    3) Being rooted speaks of stability. There is no greater stability than
-    being ** <u>firmly</u>**  rooted in Jesus Christ, God Himself,
-    who fully paid our sin-debt and rose again on our behalf. Romans 8:31-39
- 
- 
-4) Being rooted speaks of nourishment. Truly our ability to stand in    ** <u>life</u>**  comes from Christ alone. He is the life-giving
-    vine and we are the branches. Without Him we can indeed do nothing. Psalm
-    92:13; Jeremiah 17:7-8; John 15:1, 2
-    <br/>
-    <br/>
- 
- 
-    b. Colossians 2:7b – * And now being built up in Him* … You begin your
-    Christian life by being rooted in ** <u>Christ</u>** . God’s
-    maturation process is that you continue to grow up into Christ.
- 
- 
-    1) God would have you expand ** <u>upward</u>**  through
-    practical, daily, faith-based fellowship with Christ. Ephesians 4:15b
- 
- 
-2) * Built up*  EPOIKODOMEO means to be built up in    ** <u>layers</u>** , one on top of the other. This is precisely
-    how a tree grows. Every year a new layer is added on top of the old one.
-    Usually there is about 1 month of new growth resulting in a new ring and
-    then about 11 months of solidification.
- 
- 
-    3) Although * built up*  is in the present tense, it is also in the
-    passive voice. This means that not only is ** <u>God</u>**  the
-    one who gives the growth, He is continually working to make you grow. 1
-    Corinthians 3:6-10
-    <br/>
-    <br/>
- 
- 
-c. Colossians 2:7c –    * And established in your faith just as you were instructed* … As you
-    mature, not only should you be built up and grow up into Christ, you should
-    become established in your faith. This reminds us of a large tree standing
-    beside the ** <u>water</u>** . Psalm 1:3
- 
- 
-    1) We become firmly established in our lives by retaining what we were
-    originally ** <u>taught</u>** . Galatians 5:7-8, Ephesians
-    4:11-14, 2 Timothy 3:14-15
- 
- 
-    2) The word * established*  BEBAIOO is a present tense passive voice
-    participle that describes a believer who is in the process of becoming
-    firmly ** <u>docked</u>**  in * the faith* , the body of
-    truth we believe.
- 
- 
-    3) Epaphras had apparently** <u> taught</u>**  the Colossian
-    believers very well, but the present tense verb * established* 
-    highlights for us the ongoing need of being daily established in the truth.
-    Ephesians 4:22-24
- 
- 
-    4) Ephesians 4:12b-13 – …
-    * 
-        to the building up of the body of Christ; ** <u>until</u>** 
-        we all attain to the unity of the faith, and of the knowledge of God,
-        to a mature man, to the measure of the stature which belongs to the
-        fullness of Christ
-    * 
-    .
-    <br/>
-    <br/>
- 
- 
-    d. Colossians 2:7d – * And overflowing with gratitude* . The metaphor
-    now pictures a ** <u>fruit</u>** -bearing tree. We come to
-    experience a bumper-crop of gratitude.
- 
- 
-    1) The word * overflowing*  PERISSEUO means abounding, spilling over,
-    or ** <u>filled</u>**  to the brim. As we walk by faith we can
-    expect to burst with gratitude.
- 
- 
-2) This thanksgiving speaks of internal transformation, a true    ** <u>mark</u>**  of someone who is walking by faith and growing
-    in Christ.
- 
- 
-3) Pseudo-spirituality, created by the heresies we are about to see,    ** <u>changes</u>**  our actions but not our attitudes.
- 
- 
-    4) The four heresies of Colossians 2 are merely external modifications. On
-    the contrary, the metaphor of ** <u>growth</u>**  as shown in
-    this passage deals with internal change that results in fruit-bearing. This
-    is what God wants and this is only available in Christ, God’s revealed
-    mystery. 1 Timothy 3:16
- 
-===
-# VI. Colossians 2:8-23 – Examining the Four Heresies of Colossae
- 
- 
-    ** A. ** 
-    ** Colossians 2:8-10 – Philosophy, the first heresy** 
- 
- 
-    1. Colossians 2:8 – Paul ** <u>warned</u>**  of the danger of
-    philosophy. Proverbs 1:1-7
- 
-===
-a. Colossians 2:8a – The phrase …* see to it* … is a    ** <u>present</u>**  tense command followed by the Greek
-    negation ME giving the command an emphasis akin to, “Watch out!” Since the
-    command is in the active voice, it was their personal responsibility to
-    have ongoing vigilance.
-    <br/>
-    <br/>
- 
-=== 
-b. Colossians 2:8b –    * See to it that no one takes you ** <u>captive</u>** * …
-    is language that was used to describe a person taken as a prisoner of war.
-    In those days, being a POW meant you’d eventually be sold and become
-    someone’s slave.
- 
-===
-1) Most casualties or converts to cults come out of    ** <u>churches</u>**  rather than directly from the unsaved
-    world.
- 
- 
-    2) In other words, unsuspecting and unguarded Christians easily fall
-    captive to ** <u>cults</u>** . You must not forget that you are
-    in a deadly battle. You should not fall asleep in your good profession of
-    Christ or get complacent in your faith. That is dangerous. 1 Timothy
-    1:18-20
- 
- 
-    c. Colossians 2:8c –
-    * 
-        See to it that no one takes you captive ** <u>through</u>** 
-        philosophy
-    * 
-    . The heresy of philosophy is the error of falling prey to a deceptive
-    human viewpoint.
- 
-===
-    1) In Greek the word * philosophy*  PHILOSOPHIA is a compound word
-derived from PHILOS friend and SOPHIA wisdom. It literally means the    ** <u>love</u>**  of wisdom or science. This is the only
-    occurrence of this word in the Bible.
- 
- 
-2) Thayer’s Lexicon defines philosophy as the “love and    ** <u>pursuit</u>**  of wisdom.” Thayer stated that philosophy
-    was used in Greek writings to describe skill in, or zeal for, any art,
-    science or branch of knowledge.
-===
- 
-    3) Interestingly, Paul’s singular use of the word came with a negative
-    overtone describing worthless human speculation and misleading substitutes
-    for ** <u>truth</u>** .
- 
- 
-    4) It would be good here to consider the ** <u>major</u>** 
-    schools of philosophy embraced in Roman society at the time. These
-    philosophies are still very prevalent in one form or another in our world
-    today.
-===
- 
-    a) ** <u>Five</u>**  schools of philosophy were important or
-    prominent in the time of Paul’s writings. They were Cynicism, Hedonism,
-    Skepticism, Stoicism and Epicureanism.
- 
- 
-b) By the time of Paul, Greek philosophy had undergone a    ** <u>change</u>**  in focus from what ancient philosophers
-    wanted to understand. Originally they tried to understand the primary
-    principles of existence, knowing, substance, cause, identity, time and
-    space (metaphysics).
-    <br/>
-    <br/>
-===
- 
-    c) However, in the days of the writing of the New Testament, philosophers
-    were more interested in knowing how to be dignified and live a good life
-    than to understand the basis of life itself. Their focus shifted to
-    understanding issues of ** <u>ethics</u>** , virtue and quality
-    of character.
-    <br/>
-    <br/>
- 
- 
-    d) Two schools of philosophy ought to be considered because their devotees
-    are mentioned in Acts 17:18. These philosophers ridiculed Paul’s teachings
-    about the Christ and the resurrection of the ** <u>dead</u>** .
-    <br/>
-    <br/>
-===
- 
-    (i) The first school of philosophy was Stoicism.
- 
- 
-    (a) Zeno of Citium founded stoicism in Athens circa 300 BC. This teaching
-claimed that wisdom was gained by abstinence from    ** <u>passion</u>** .
- 
- 
-    (b) Stoics believed that wisdom was attainable through meditation and an
-    indifference to ** <u>pain</u>**  and pleasure.
- 
-===
-(c) Stoicism postulated that wisdom occurs when    ** <u>reason</u>**  controls passions. Conversely evil occurs
-    when passion controls a person.
- 
- 
-    (d) Interestingly, Stoic philosophies ** <u>led</u>**  to
-    virtuous living by relying on self-discipline and self-restraint.
-    <br/>
-    <br/>
- 
-===
-    (ii) The second school of philosophy was Epicureanism.
- 
- 
-    (a) Generally Epicureanism, established in Athens circa BC 300 by Epicurus,
-had little concern for religion. To them religion and ignorance went    ** <u>hand</u>**  in hand.
- 
- 
-(b) According to their reasoning, gods existed, but    ** <u>far</u>**  off in space, and they were generally
-    disinterested in humanity.
- 
- 
-    (c) Epicureans did not believe in ** <u>life</u>**  after death,
-    making them the Greek version of Jewish Sadducees.
-===
-    (d) Epicureanism was typically the philosophy of the nobility who wanted to
-    be deemed ** <u>wise</u>**  and virtuous in public, yet in their
-    private lives they practiced hedonism, or carnal pleasure, since ultimately
-    happiness was the true goal of their lives.
-    <br/>
-    <br/>
- 
- 
-(iii) Even though these two philosophies were based on    ** <u>vastly</u>**  different paradigms, their outworking in
-    society was similar. In public life, both Stoics and Epicureans sought to
-    be virtuous.
-    <br/>
-    <br/>
- 
- 
-    5) Philosophy does not have the ** <u>Word</u>**  of God as its
-    authority. Ultimately all philosophies seek to explain or understand life
-    apart from Christ as our source and adequacy.
- 
- 
-    a) Because of this sad fact, without doubt any human philosophy will
-    ultimately lead you ** <u>away</u>**  from God. Instead of
-    leading you to rely on God, it will lead you to rely on the wisdom of men
-    for life’s answers.
- 
- 
-b) It is important to ** <u>note</u>**  that    ** * philosophy* ** , not ** knowledge** , is
-    what is condemned here.
-    <br/>
-    <br/>
- 
- 
-d. Colossians 2:8d – According to Paul, philosophy is    ** * <u>empty</u>* ** .
- 
- 
-1) When it came to explaining the issues of life, Paul called philosophy    * empty*  * deception* . In Greek the word * empty*  KENOS
-    means ** <u>without</u>**  substance; it describes the hollow or
-    foolish distortion that leads to disillusionment. Philosophy cannot satisfy
-    the nagging questions of life.
- 
- 
-2) In the Phillips New Testament this word was translated as    * high-sounding ** <u>nonsense</u>** * . That’s a pretty
-    good description.
- 
- 
-    3) In Deuteronomy 32:45-47 when relating God’s words to the Israelites,
-    Moses said, “
-    * 
-For it is not an idle word for you; indeed it is your        ** <u>life</u>** 
-    * 
-    .” God’s Word is not without substance. Quite the contrary. God’s Word
-    gives life. Psalm 119:105, Proverbs 6:23, 2 Peter 1:19
-    <br/>
-    <br/>
- 
- 
-e. Colossians 2:8e – Philosophy is not only * empty,*  it is    ** <u>deceptive</u>** .
- 
- 
-    1) Philosophy is described as * deception*  APETE. Deception is that
-    which gives a ** <u>false</u>**  impression or is unreliable or
-    corrupt.
- 
- 
-    2) The word * deception*  APETE means to ** <u>trick</u>** 
-    . Philosophy’s * empty deception*  aptly describes mankind’s enticing
-    words of intellectualism.
- 
- 
-3) Paul, being well-acquainted with the philosophies of his    ** <u>day</u>** , regarded them with suspicion and rejection. He
-    was quick to call them deceptive and misleading.
- 
- 
-    4) What place does philosophy hold in your life? Are you getting your
-    understanding for life from philosophy’s human viewpoints found in
-    self-help books, media, the Internet, the education system, or from the
-    precious Word of Christ? Colossians 3:15-16
-    <br/>
-    <br/>
- 
- 
-2. Colossians 2:8 – Paul showed why philosophy was    ** <u>deficient</u>**  and to be decisively rejected.
- 
- 
-a. Colossians 2:8f – We ought to reject philosophy because of its** <u>source</u>** . Philosophy is …    * according to the traditions of men* .
- 
- 
-    1) Paul knew that the philosophy of his day and its adherents, e.g.,
-Socrates, Plato, Aristotle, followed the traditions of    ** <u>men</u>** .
- 
- 
-    2) The Greek culture’s ancestors had ** <u>passed</u>**  down
-    philosophy from generation to generation in a written format. So when Paul
-    described where philosophy originated, he was quick to show that its source
-    was man, not God. James 3:13-18
-    <br/>
-    <br/>
- 
- 
-    3) 1 Corinthians 1:19-20 –
-    * 
-        For it is written, "I WILL ** <u>DESTROY</u>**  THE WISDOM
-        OF THE WISE, AND THE CLEVERNESS OF THE CLEVER I WILL SET ASIDE." Where
-        is the wise man? Where is the scribe? Where is the debater of this age?
-        Has not God made foolish the wisdom of the world
-    * 
-    ?
- 
- 
-    4) 1 Corinthians 1:21 – Fo
-    * 
-        r since in the wisdom of God the world through its wisdom did not come
-        to know God, God was well-pleased through the foolishness of the
-        message preached to ** <u>save</u>**  those who believe
-    * 
-    .
-    <br/>
-    <br/>
- 
- 
-    5) 1 Corinthians 2:6 –
-    * 
-        Yet we do speak wisdom among those who are mature; a wisdom, however,
-        not of this age nor of the rulers of this age, who are passing away;
-        but we speak God's wisdom in a mystery, the hidden wisdom which God
-        predestined before the ages to our ** <u>glory</u>** 
-    * 
-    .
-    <br/>
-    <br/>
- 
- 
-b. Colossians 2:8g – We should reject philosophy because of its** <u>substance</u>** . Philosophy is …    * according to the elementary principles of this world* .
- 
- 
-1) The word * elementary*  STOICHEION comes from a word meaning to    ** <u>line</u>**  up or do the ABC's.
- 
- 
-    2) Philosophy is a failed method used by the world to get people to behave.
-    It comes down to human effort and the futility of stopping the flesh by
-    merely saying no to ** <u>sin</u>** . Colossians 2:23
-    <br/>
-    <br/>
- 
- 
-    3) Philosophy is the world’s ** <u>way</u>** , not God’s way, of
-    changing people and society. This way of control is very basic like saying,
-    “no” to a child.
- 
- 
-4) The unsaved by default live their lives according to philosophy’s    * empty deception, traditions and elementary principles* . Saved
-    people who walk according to the flesh typically live their lives by these
-    very same principles.
-    <br/>
-    <br/>
- 
- 
-5) This is why Paul so strongly and clearly** <u>rejected</u>**  philosophy as an empty substitute for    * Christ in you* , God’s mystery provision for living a spiritual
-    life. Paul told the Colossian believers to learn to walk by faith,
-    dependent on Christ Jesus.
-    <br/>
-    <br/>
- 
- 
-    c. Colossians 2:8h – Finally we are to reject philosophy because of its
-distorted ** <u>shift</u>**  in focus. Philosophy is    * not according to Christ* .
- 
- 
-    1) For scores of Christians the logic of philosophy either replaces Christ
-    or ** <u>makes</u>**  Him too insignificant or insufficient for
-    explaining life or even resolving life’s problems. Therefore, as Paul says,
-    philosophy is * not according to Christ* .
- 
- 
-    2) Philosophy fails ** <u>first</u>**  and foremost because it
-    diminishes Jesus Christ as the answer and dismisses or displaces Him as
-    inadequate.
- 
- 
-3) The fact is, philosophy always disappoints. It leaves you looking for    ** <u>more</u>** . Yet in Jesus Christ every believer has
-    everything necessary for life and godliness. 2 Peter 1:3-4, 3:17-18
- 
- 
-    4) Any time anyone tells you they have the answer to life, if their answer
-    does not lead to Jesus Christ as ** <u>able</u>**  and adequate,
-    it is mere philosophy and will in the end fail you, guaranteed. Romans
-    1:21-22
- 
- 
-5) Christ is God’s one and only treasure chest filled with    ** * <u>all</u>* ** *  wisdom and understanding.* 
-    John 10:10, Colossians 2:3
- 
- 
-    ** B. ** 
-    ** 
-        Colossians 2:9-15 – Understanding Christ’s person and work safeguards
-        against heresy
-    ** 
- 
- 
-1. Colossians 2:9-10 – Understanding Christ as God’s provision    ** <u>guards</u>**  us against the heresy of philosophy.
- 
- 
-    a. Colossians 2:9 – We choose Christ over philosophy because as God
-    incarnate He alone is adequate for every need.
-    * 
-        For in Him all the fullness of Deity ** <u>dwells</u>** 
-    * 
-    (present tense)*  in bodily form* . Colossian 1:19
- 
- 
-1) First we should understand that the phrase ** * in* **     *  ** <u>Him</u>** *  is in an emphatic position in the
-    Greek sentence deepening the contrast we find between Jesus Christ and any
-    substitute.
- 
- 
-    2) A philosopher may ** <u>offer</u>**  you superior knowledge,
-    but no one other than Jesus Christ can offer himself as the God-man.
- 
- 
-    3) The fullness or completeness of Christ communicates to us that
-    ultimately He has all the ** <u>answers</u>**  to life’s
-    perplexities. Fullness is found in no one other than Jesus Christ, so if
-    you want answers to life’s questions, look no further. If you trust in
-    philosophy, you will come away disappointed. Romans 9:33b
- 
- 
-    4) Jesus Christ is superior to any philosophy because He is God come in
-    human flesh, and thankfully He now ** <u>abides</u>**  forever
-    in us. Colossians 1:28
- 
- 
-    5) The term * fullness*  PLEROMA was originally used by cultic
-    religions to describe the ** <u>sum</u>**  total of the
-    qualities of their false deity. Eventually under Gnosticism false teachers
-    taught that Jesus Christ was merely one of many stepping-stones or
-    intermediaries leading to * fullness* .
- 
- 
-    6) Obviously this ** <u>error</u>**  was an affront to Christ’s
-    adequacy for providing us with the abundant life. John 10:10
-    <br/>
-    <br/>
- 
- 
-b. Colossians 2:10a –    * And in Him you have been ** <u>made</u>**  complete* . We
-    choose Christ over philosophy because in Him, as His people, we actually
-    lack nothing.
- 
- 
-    1) This truth ought to be trumpeted all throughout Christendom. Our
-position in Christ secures for us the blessing of lacking    ** <u>nothing</u>**  necessary for abundant and holy living.
- 
- 
-a) As we have observed, the verb * complete*  PLEROO means to make    ** <u>full</u>** . The fact that it is in the perfect tense in
-    Greek conveys that although the filling already took place in the past, it
-    has an ongoing effect all the way to the present.
- 
- 
-b) In other words, we ** <u>remain</u>**  continually    * complete in Him* .
- 
- 
-    2) Through the ** <u>true</u>**  knowledge of Jesus Christ, we
-    have all we need for life and godliness. There is no such thing as a
-    second-rate, less-than-complete believer. 2 Peter 1:3-4
-    <br/>
-    <br/>
- 
- 
-    c. Colossians 2:10b – Why choose Christ over philosophy? Because “
-    * 
-        [Christ] is the ** <u>head</u>**  over all rule and
-        authority
-    * 
-    .”
- 
- 
-    1) There are ** <u>many</u>**  supposed authorities that tell
-    you Christ is not sufficient. This verse tells us that Christ is over all
-    the so-called authorities that say such vanities. Wise men can tell you all
-    sorts of lofty falsehoods, but the greatest authority of all, Jesus Christ,
-    has the final word.
- 
- 
-    2) ** <u>Christ</u>**  is truly supreme. He alone is over, and
-    not part of, the angelic, or supposed enlightened, realm. As God, He is
-    Creator, and as man, He is the firstborn, the premiere man of all time.
- 
- 
-    3) Christ is supreme beyond measure, above all authorities whether angelic
-or human; so don’t look to human philosophy or anyone who    ** <u>claims</u>**  to have the answers. Look to Christ alone
-    and allow His Word to abundantly dwell within you. Colossians 3:16
-    <br/>
-    <br/>
-    <br/>
- 
- 
-    2. Colossians 2:11-13a – We ought to understand how our identification with
-    Christ and not philosophy gives us true ** <u>victory</u>** 
-    over the sin nature.
- 
- 
-a. Colossians 2:11a – * And in Him…*  Notice the use of the phrase    * in Him*  in this verse. This statement reminds us all over again of
-our identification with Jesus Christ. All believers are positionally    ** <u>found</u>**  in Christ: * in Him* . Ephesians 1:3
- 
- 
-b. Colossians 2:11b – ** * You were also circumcised* **     *  with a circumcision made without hands… * By means of a spiritual
-    operation ** <u>done</u>**  in you at the moment of your
-    salvation, you now have true spiritual freedom from domination by your
-    flesh.
- 
- 
-    1) Physical circumcision separated the Israelite nation from other nations,
-    making it unique, set ** <u>apart</u>**  unto God. In this
-    physical surgery there was a cutting away of unnecessary skin, a separation
-    in the flesh of the physical body.
- 
- 
-    2) We recall that physical circumcision was a ** <u>sign</u>** 
-    of the covenant between God and Abraham and between God and Abraham’s
-    physical descendants.
- 
- 
-    3) We know from Scripture that physical circumcision has never been a
-    requirement for Christians for either salvation or sanctification, but
-    spiritually speaking ** <u>every</u>**  Christian has been
-    circumcised. Philippians 3:3
- 
- 
-c. Colossians 2:11c –    * You were also circumcised with a circumcision made without hands* .
-    At salvation we ** <u>had</u>**  the spiritual operation of
-    circumcision done in us. Here we understand Paul to be talking about the
-    nonliteral circumcision that is true of every believer and occurs at the
-    moment of salvation. Romans 2:29
- 
- 
-    1) * You were also circumcised* … The believer’s circumcision is given
-    as a ** <u>fact</u>** .
- 
- 
-    2) * …with a circumcision made without hands* . We can see that it was
-    done ** <u>without</u>**  human doctors.
- 
- 
-a) Grammatically this circumcision is in the passive    ** <u>voice</u>**  showing that it was done to the believer and
-    not by the believer.
- 
- 
-    b) Since this is said to be true of ** <u>all</u>**  believers
-and was done without human hands, we conclude that it is    ** spiritual circumcision**  done by God at the point of
-    salvation.
-    <br/>
-    <br/>
- 
- 
-d. Colossians 2:11d – ** * In the removal* **     *  of the body of the flesh* … What happened in this circumcision and
-    what is its significance? The flesh, or our ** <u>sin</u>** 
-    nature, was surgically severed from us and will eventually be destroyed.
-    The Great Physician did this great work.
- 
- 
-    1) The word * removal*  APEKDUSIS in Greek is a noun which means to
-wholly put aside. This word was used to describe something set aside    ** <u>never</u>**  to be used again – like one might do with a
-    worn out garment.
- 
- 
-2) The word * removal*  connotes separation but    ** <u>not</u>**  obliteration or eradication.
- 
- 
-    3) In circumcision, the flesh of the foreskin is surgically severed from
-    the human body and laid ** <u>aside</u>** . Later this piece of
-    flesh is discarded.
- 
- 
-4) In spiritual circumcision, the sin nature was severed, losing    ** <u>direct</u>**  connection to us. Eventually in the rapture
-    when our bodies are changed forever, the sin nature that was cut off at
-    salvation will be completely eliminated.
- 
- 
-    5) For now we are to understand that the sin nature’s direct impact and
-    effect in our ** <u>lives</u>**  has been cut off. This is of
-    great significance and is another way of affirming Romans 6:2, 6, 10-11.
-    <br/>
-    <br/>
- 
- 
-e. Colossians 2:11e –    * In the removal ** of the body of the flesh** * … In the
-    Scriptures, the word for body SOMA normally refers to the actual physical
-human body, yet this is obviously ** not**  saying our    ** <u>human</u>**  body was removed or laid aside.
- 
- 
-1) A secondary meaning of the word body SOMA is the** substance or <u>core</u>**  of an object in contrast to its    ** shadow or silhouette** . This is the meaning Paul used here.
- 
- 
-2) In verse 17 there is an example of Paul using this secondary meaning of    ** <u>body</u>**  SOMA.
-    * 
-Things which are a mere shadow of what is to come; but the        ** substance** 
-    * 
-    SOMA * belongs to Christ.* 
- 
- 
-3) The phrase * body of the flesh*  then refers to the fleshly    ** <u>nature</u>**  within us that was circumcised, disconnected
-    and laid aside by means of * the circumcision of Christ*  when Christ
-    was cut off from life in His death on the cross.
- 
- 
-    4) From Romans 6:11 we know that as we reckon by faith on this fact we can
-    enjoy freedom from the flesh’s tyranny. Because of spiritual circumcision,
-    the flesh has lost its ** <u>rights</u>**  to control us.
-    <br/>
-    <br/>
- 
- 
-    f. Colossians 2:11f – * By the circumcision of Christ* … The flesh was
-rendered powerless over us when Christ was killed, or cut off, on the    ** <u>cross</u>** . Romans 6:6
- 
- 
-    1) In the NIV the phrase * the circumcision of Christ*  is rendered
-the circumcision done by Christ. This translation does not    ** <u>fit</u>**  the passive grammar of the Greek structure.
- 
- 
-    2) The phrase * by the circumcision of Christ*  refers to the death of
-    Christ on the ** <u>cross</u>**  as the context confirms. The
-    next verse confirms this interpretation, speaking about His burial and
-    resurrection and our relationship to it. Daniel 9:26
- 
- 
-    3) The ** <u>glory</u>**  of the cross is that the work of
-    Christ not only deals with our sins (plural); it also deals with our sin
-    (singular), also referred to as the sin nature, the flesh or the fleshly
-    nature. Romans 6:9-10
- 
- 
-a) When we were crucified together with Christ, direct    ** <u>access</u>**  by our sinful flesh to our hearts and lives
-    was surgically severed. Galatians 2:20
- 
- 
-    b) The flesh (sin nature) was not immediately destroyed, but its direct
-line of access to us was instantly severed, or cut    ** <u>off</u>** .
- 
- 
-c) God has separated from us our sin nature’s right to freely    ** <u>govern</u>**  in our mortal bodies. Romans 6:12
-    <br/>
-    <br/>
- 
- 
-    4) * By the circumcision of Christ* … Now, because of this spiritual
-    surgery done to us by God at salvation we do not have to obey the sin
-    nature’s desires nor ** <u>yield</u>**  to its authority. This
-    victory became ours through our being co-crucified with Christ. Romans
-    6:6-7
-    <br/>
-    <br/>
- 
- 
-    g. Colossians 2:12a – The benefit of your co-death and co-burial with
-    Christ is the simple fact that
-    ** 
-        you don’t have to kill the flesh. You are <u>already</u> dead to it.
-    ** 
- 
- 
-    1) Colossians 2:12a – * Having been buried with Him in baptism* … When
-    Christ was cut off from ** <u>life</u>**  (circumcision) in His
-    death on the cross, we died together with Him and we were also co-entombed
-    with Him.
- 
- 
-    a) * Having been buried…*  Here again we see the passive voice in the
-    Greek in regard to our baptism ** <u>into</u>**  His death. This
-    is something done to the believer by God and not something done by the
-    believer.
- 
- 
-    b) Romans 6:3-5 shows our identification with the person of Christ as being
-    absolutely ** <u>real</u>**  in the mind of God.
-    <br/>
-    <br/>
- 
- 
-    c) At the ** <u>moment</u>**  of salvation we were placed into
-    Jesus Christ and eternally identified with Him in both his death and
-    burial. Romans 6:8; Galatians 2:20; Colossians 2:20, 3:3
- 
- 
-    d) Because of this fact, God counts us as ** <u>dead</u>**  to
-    the sin nature and alive unto God in Christ. Our sin nature is not dead,
-    but in our co-crucifixion with Christ the fleshly nature’s direct line of
-    control and influence was slashed. Romans 6:2, 7
-    <br/>
-    <br/>
- 
- 
-2) Baptism is of great spiritual significance since it is an    ** <u>act</u>**  of identification.
- 
- 
-    a) In the ancient world with all its initiation rites, it was very
-    important to the Spirit of God to ** <u>make</u>**  a
-    clarification here.
- 
- 
-    b) The mystery cults like the Gnostics and the ancient Essenes practiced
-    baptisms or ceremonial washings as part of becoming an enlightened or
-    devoted ** <u>follower</u>** .
- 
- 
-    c) What Colossians 2:12 shows is that in Christ, and with Christ, we have
-received a spiritual baptism (identification) that spiritually speaking    ** <u>placed</u>**  us in the tomb together with Christ.
-    <br/>
-    <br/>
- 
- 
-    d) Christ’s death has become ** <u>our</u>**  death. Often
-    well-meaning Christians say things like, “You need to die,” or “You need to
-    crucify yourself,” instead of saying, “You should now enjoy your positional
-    standing as one who has already died with Christ.” Colossians 2:20
- 
- 
-e) These are two very different concepts: one is based on    ** <u>human</u>**  effort and striving to become dead, and the
-    other is based on faith in the fact that God already united us with Christ
-    in His cross, tomb and resurrection.
- 
- 
-    f) You should consider the following.
- 
- 
-    (i) When a Christian is baptized in water, he is reenacting as a public
-    testimony the spiritual ** <u>fact</u>**  that he was already
-    placed into the death, burial and resurrection of Christ at the moment he
-    believed.
- 
- 
-(ii) The Holy Spirit baptized you into Christ at the precise    ** <u>instant</u>**  of your faith in Christ alone for
-    salvation. Galatians 3:27, 1 Corinthians 12:13
-    <br/>
-    <br/>
-    <br/>
- 
- 
-    h. Colossians 2:12b –
-    * 
-        In which you were also raised up with Him through faith in the working
-        of God, who raised Him from the dead
-    * 
-    . One of the greatest benefits of our co-resurrection with Christ is that
-    we now have the ** <u>power</u>**  to live the abundant life.
- 
- 
-1) Colossians 2:12b –    * In which you were also ** <u>raised</u>**  up with Him* …
-    We were raised up with Christ so as to live life in a new or distinctive
-    way. Romans 6:4b, 11
- 
- 
-    a) * You were also ** <u>raised</u>**  up with Him…*  Here
-    we have an aorist passive indicative verb. The aorist tense stresses that
-    it already occurred at a specific point in time. The indicative mood gives
-    an emphatic sense to the action. And the passive voice means it was
-    something done to the believer rather than by the believer.
- 
- 
-    b) * Raised up with Him* … We are now alive from the dead in Christ.
-Our former state of being dead in sin and dead to God has    ** <u>changed</u>** . We now possess Christ’s life and as a
-    result are alive unto God. Colossians 2:11, John 6:40, Ephesians 2:4-6,
-    Colossians 3:1, 2 Corinthians 5:14-17
-    <br/>
-    <br/>
- 
- 
-    2) Colossians 2:12c – Our death, burial and resurrection with Christ
-    occurred …
-    * 
-        through ** <u>faith</u>**  in the working of God who raised
-        Him from the dead
-    * 
-    .
- 
- 
-    a) ** <u>God</u>**  was the actor here. The moment you were
-    saved, God identified you with Christ in His death, burial and
-    resurrection.
- 
- 
-    b) The very ** <u>power</u>**  that raised Jesus Christ from the
-    dead is the power that raised us up together with Him so that we are able
-    now to serve in the supernatural energy of the Holy Spirit. Ephesians
-    1:19-20
- 
- 
-    c) When God included us in the death, burial and resurrection of Jesus
-Christ in this way, we were given the amazing gift of a    ** <u>new</u>**  way of life that included liberation from
-    absolute obedience to the sin nature.
-    <br/>
-    <br/>
- 
- 
-    i. Colossians 2:13 – Paul next summarized verses 11-12, emphasizing once
-    again these positional ** <u>truths</u>** .
- 
- 
-1) Colossians 2:13a – Let’s look at the two senses in which we were    ** <u>dead</u>** . Remember that biblical death does not mean
-    non-existence. It means separation.
- 
- 
-    a) * When you were dead in your transgressions* . We were dead to God
-    because of our willful ** <u>sins</u>** .
- 
- 
-    b) * When you were dead in … the uncircumcision of your flesh* . We
-were also dead to God because of our direct attachment to the sin    ** <u>nature</u>** .
- 
- 
-    (i) We were dead in the sense that we were detached from God who is the
-    source and ** <u>giver</u>**  of life.
- 
- 
-    (ii) In our natural condition of spiritual uncircumcision, we were
-    hopelessly captive to the ** <u>flesh</u>** .
- 
- 
-(iii) Thankfully those terrible problems were resolved when we were made    ** <u>alive</u>**  in Christ.
-    <br/>
-    <br/>
- 
- 
-    2) Colossians 2:13b – * He made you alive together with Him* . God be
-    praised that we are now ** <u>alive</u>**  with Christ.
- 
- 
-    a) As part of our salvation package, in our identification with Christ God
-    the Father made us ** <u>alive</u>**  together with Christ. This
-    positional truth describes our new identity in Christ.
- 
- 
-    b) We are now God’s new creation. We have been created, or made alive in,
-    the ** <u>person</u>**  of Jesus Christ. 2 Corinthians 5:14-21,
-    Ephesians 4:23
-    <br/>
-    <br/>
- 
- 
-    3.
-    ** 
-Colossians 2:13-15 – Christ, not philosophy, gives us freedom from        <u>guilt</u>.
-    ** 
- 
- 
-    a. Colossians 2:13c – Christ disposed of our ** <u>sins</u>** 
-    and our consuming guilt. * Having forgiven us all our transgressions* 
-    .
- 
- 
-    1) * Having ** <u>forgiven</u>**  us* … Paul rejoiced in
-    the completed nature of our comprehensive forgiveness. 1 John 2:12
- 
- 
-    a) The unbeliever is never told to ** <u>ask</u>**  for
-    forgiveness of sins in order to be saved. Acts 16:31
- 
- 
-    b) On the contrary, the unbeliever is promised forgiveness of sins if he
-    will simply ** <u>believe</u>**  on the Lord Jesus Christ. Acts
-    10:43, 13:39
-    <br/>
-    <br/>
- 
- 
-    2) ** * <u>All</u>* ** *  our transgressions* … Paul
-highlighted the comprehensive nature of God’s forgiveness, emphasizing    ** * ALL* ** *  our transgressions* , not merely some
-    of them. Micah 7:18-19, Psalm 103:12
- 
- 
-    3) * All ** our**  transgressions* … Paul rejoiced in the
-personal nature of God’s forgiveness when he included himself and his** own**  personal sins in the phrase    * all ** <u>our</u>**  transgressions* . Ephesians 4:32
- 
- 
-4) * All our ** transgressions** * … Paul recognized our    ** <u>sins</u>**  for what they really are – transgressions. A
-    transgression is a deliberate and willful overstepping of the boundary, a
-    blatant disregard for God’s righteous standards. Of course, this statement
-    highlights the personal need for forgiveness. Romans 4:7
- 
- 
-    b. Colossians 2:14a –
-    * 
-        Having ** <u>canceled</u>**  out the certificate of debt…
-    * 
-    Christ, not philosophy, discarded the certificate of debt that was held
-    against us.
- 
- 
-1) The believer’s sin ** <u>debt</u>**  has been    * cancelled out*  EXALEIPHO. The verb * cancelled out*  EXALEIPHO
-    means to wipe off, to expunge or to obliterate.
- 
- 
-    2) This was made possible because the perfect Lord Jesus died as our
-substitute. The accusations that were against us were placed to    ** <u>His</u>**  account and therefore our debts are gone
-    forever.
- 
- 
-    c. Colossians 2:14b –
-    * 
-        …the certificate of debt consisting of decrees against us, which was
-        hostile to us
-    * 
-    … In New Testament days when someone was crucified, a notice was often
-    attached above the ** <u>head</u>**  of the criminal delineating
-    the crimes that had been committed.
- 
- 
-1) Such signs were designed to show the legitimacy of the    ** <u>death</u>**  penalty.
- 
- 
-    2) In the mind of God, the list of ** <u>crimes</u>**  that were
-    against us was nailed to the cross of Christ.
- 
- 
-    3) On the cross, Christ died for the crimes ** <u>we</u>** 
-    committed so that the list of sins that denounced us could be blotted out
-    forever.
-    <br/>
-    <br/>
- 
- 
-    d. Colossians 2:14c –
-    * 
-        He has ** <u>taken</u>**  it out of the way, having nailed
-        it to the cross.
-    * 
-    Christ’s death, not philosophy, took every decree against us out of the way
-    and acquitted us of all charges.
- 
- 
-    1) The Greek verb for * taken out*  AIRO is in the perfect tense. This
-    structure indicates that God took all the decrees against you out of the
-way at a specific point in time, namely at the point you put your    ** <u>faith</u>**  in Christ, with results extending all the way
-    to the present time.
- 
- 
-    2) This verse gives us the clear understanding that our future judgment
-    will not be for ** <u>sins</u>** . Our certificate of debt has
-    been taken away. Because Christ was already judged for our sins, we will
-    not be judged for our sins in the future. John 3:18
- 
- 
-    3) Thank God for the cross of Christ where our ** sin**  debt
-    was paid in full. Romans 8:34
- 
- 
-e. Colossians 2:15 – Christ, not philosophy, disarmed    ** <u>Satan</u>**  and his demons.
- 
- 
-1) Colossians 2:15a –    * When He had disarmed the rulers and authorities* . Here we find
-another accomplishment of the cross of Christ. Christ triumphed    ** <u>over</u>**  Satan, having defeated him by His cross and
-    subsequent resurrection.
- 
- 
-a) We know that in the cross we have forgiveness of    ** <u>sins</u>**  (plural). 1 Corinthians 15:3-4
- 
- 
-    b) We also know that in the cross God ** <u>cut</u>**  free all
-    direct control the sin nature had over us through the enactment of a
-    spiritual circumcision. Colossians 2:11; Romans 6:10
-    <br/>
-    <br/>
- 
- 
-    c) What we may not know is that in the cross Christ also made Satan's
-    absolute ** <u>power</u>**  over us ineffective. John 12:31; 1
-    Corinthians 15:23-26; Ephesians 1:20-22, 3:10; Colossians 2:15; 1 Peter
-    3:22
- 
- 
-(i) When the text says Christ * disarmed * APEKDUOMAI    * the rulers and authorities* , it literally means He stripped them
-    off as when a person quickly ** <u>removes</u>**  clothing.
- 
- 
-(ii) * Disarmed*  ** APEK** DUOMAI has a double prefix APO    ** away from**  and EK ** out from** , which
-    powerfully and meaningfully highlights the ** <u>depth</u>**  of
-    the Christ’s disarmament of Satan.
- 
- 
-    (iii) The cross work of Christ spelled ** <u>doom</u>**  for all
-    the rulers and authorities, especially Satan, since with great gusto and
-    passion Christ victoriously hurled them off.
-    <br/>
-    <br/>
-    <br/>
- 
- 
-    2) Colossians 2:15b – * He made a public display of them.*  Christ
-    made a ** <u>public</u>**  spectacle of Satan and his demons by
-    triumphing over them in His cross. Scripture often uses this metaphor for
-    triumph. The metaphor depicts the return of a general after an overwhelming
-    victory. Ephesians 4:8-11
- 
- 
-    a) The ** <u>Romans</u>**  in particular, whenever they returned
-    from war, would parade their enemies by herding them chained in the rear of
-    their military precession. 2 Corinthians 2:14-16
-    <br/>
-    <br/>
- 
- 
-    b) From Roman literature we know of ** <u>four</u>**  important
-    criteria that had to be met for a conquering general to receive a
-    celebrated triumphal entry upon his return to Rome.
- 
- 
-(i) The Roman general had to be the actual victor. He could not    ** <u>claim</u>**  victory for another. He had to personally be
-    in command on the battlefield when the wars were actually fought and won.
- 
- 
-(ii) The military campaign could not be a mere    ** <u>partial</u>**  victory. His victory had to be an
-    overwhelming success. A triumphant entry was never enacted for victories in
-    civil wars or for repelling invaders.
- 
- 
-    (iii) There was also a numeric requirement for a triumphal entry parade.
-The army over which a general presided must have killed at least    ** <u>5,000</u>**  enemy combatants during the campaign.
- 
- 
-    (iv) The military campaign had to have ** <u>added</u>** 
-    significant new territories to the Roman Empire.
-    <br/>
-    <br/>
- 
- 
-    c) Obviously Christ’s ** <u>victory</u>**  was much greater than
-    any Roman general’s victory, since His success was against the greatest
-    enemy of all time, Satan. Hebrews 9:26
- 
- 
-    d) In Christ we are considered to be ** <u>more</u>**  than
-    conquers. This is a positional honor given to every believer at the point
-    of salvation. Romans 8:37, 1 John 5:4-5
-    <br/>
-    <br/>
- 
- 
-    3) Colossians 2:15c – How did God make a public display of His enemies? He
-did this, * having triumphed over them through *     ** <u>Christ</u>** .
- 
- 
-    a) What might have seemed to be the ** <u>demise</u>**  of God’s
-    plans, and even God’s King, actually became the greatest victory heaven and
-    earth has ever known. 1 Corinthians 2:8
- 
- 
-    b) By means of the cross, God conquered ** <u>Satan</u>**  and
-    all demonic foes. Everything that stood in the way of our salvation was
-    soundly defeated.
- 
- 
-c) The just died for the unjust, therefore    * the accuser of the brethren*  has ** <u>no</u>**  case
-    against us. 1 Peter 3:18, Revelation 12:10
-    <br/>
-    <br/>
- 
-===
+![DM2special](Aspose.Words.a2be8293-f622-4b40-bd1c-c50c6cb4228f.002.png)![DM2special](Aspose.Words.a2be8293-f622-4b40-bd1c-c50c6cb4228f.002.png)
 
-## C. Colossians 2:16 – Legalism, the second heresy
+![](Aspose.Words.a2be8293-f622-4b40-bd1c-c50c6cb4228f.003.png)
 
-===
- 
-### 1. What is **<u>legalism</u>**?
 
-===
- 
-a. Legalism among the **<u>unsaved</u>**. Galatians 2:16; Acts 15:1, 8-11
- 
-===
 
-1) This is the mental attitude of the false believer who seeks to  **<u>earn</u>**  or merit salvation by religious rituals, human efforts or good works. Most cults, and virtually all religions, practice a form of legalism. Galatians 2:4
 
-===
 
-2) When anyone **<u>adds</u>**  good works as a prerequisite or requirement for salvation to what Christ has already accomplished, they are guilty of legalism. Philippians 3:2-3
 
-===
 
-3) Legalistic unbelievers think, “Since I have done (fill in the blank) God now **<u>owes</u>** me salvation.”
+Copyright © **2018 by DM Multiplied, Inc** 
 
-===
- 
-b. Legalism among the **<u> saved </u>**. Acts 15:5, 11-13; Galatians 2:4-5, 16, 3:3-5, 4:21-31 
+All rights reserved.
 
-===
 
-1) This refers to the believer who seeks to earn or merit God’s acceptance or **<u>blessing</u>** by religious rituals, human efforts, or through the fulfillment of requirements.
- 
-===
 
-2) Legalists feel that progressive sanctification is based on their works and human **<u>efforts</u>** rather than on the grace of God through a walk of faith in Christ.
 
-===
- 
-3) Legalistic Christians say, “Since I have done (fill in the blank), God now **<u>owes</u>** me blessings.”
-   
-===
- 
-c. Consider the following in relation to legalism. Galatians 5:4, Philippians 3:1-9
+Inspirado por el Espíritu de Dios, Pablo dictó esta carta a Tercio y la envió por medio de Febe a Roma. Su propósito era claro. 
 
-===
- 
-1) Whether it is for salvation or for sanctification, a legalist becomes captivated with human determination and doing good works to **<u>merit</u>** God’s help or blessing. Matthew 7:22-23
 
-===
- 
-2) Legalistic Christians are **<u>proud</u>**. They have not understood that they cannot please God by human effort. Romans 7:18
 
-===
- 
-3) A legalist is captivated with himself rather than with **<u>Christ</u>**. His eyes are always on himself and his performance rather than on Christ and His adequacy. Legalists compare themselves with others. Galatians 5:15, 25-26
-   
-===
- 
-4) Legalistic Christians do not rest **<u>solely</u>** on Christ’s enabling power for living the Christian life; they feel they need to do their part. 2 Corinthians 3:4-6, 5:7; Galatians 3:3, 2:20
- 
-===
+*Mas os he escrito, hermanos, en parte con atrevimiento, como para haceros recordar, por la gracia que de Dios me es dada para ser ministro de Jesucristo a los gentiles, ministrando el evangelio de Dios, para que los gentiles le sean ofrenda agradable, santificada por el Espíritu Santo. Romanos 15:15-16*
 
-5) Some people contend that if they do **<u>not</u>** live by laws, principles, or rules they will end up sinning.
 
-===
- 
-a) The irony of this is that those who live by law with its rules and regulations, actually **<u>arouse</u>** the sin nature to break the very rules they have set up for holy living. Romans 6:14; 7:5; 8-9, 11; 1 Corinthians 15:56
 
-===
- 
-b) Legalism actually moves the believer **<u>away</u>** from spiritual growth rather than closer to it. Galatians 5:4
+Debido a la gracia que Dios le dio a Pablo, Romanos es aún utilizado para proclamar el evangelio de Dios a hombres y mujeres de todo el mundo. Dios está usando Romanos para inspirar a las personas a convertirse en una ofrenda aceptable para Dios, santificada por el Espíritu Santo. Te animamos a estudiar Romanos con una postura entusiasta y receptiva. Mientras lo haces, que la gracia de Dios revelada en este libro cautive tu corazón, como lo hizo con el del apóstol Pablo, y te conduzca a un vivir santo.
 
-===
- 
-6) In your present standing in Christ you have **<u>all</u>** of Christ’s abundance at your disposal. You are to walk by faith in Him. Colossians 2:3, 6, 10; John 15:4-5
-   
-===
 
-2. Colossians 2:16 – Paul initiated his corrections aimed at the heresy of legalism by first teaching the Colossians to not **<u>allow</u>** anyone *…to act as [their] judge.* 
- 
-===
 
-a. Colossians 2:16a – Paul commanded them to not fall prey to legalists with their judgmental **<u>spirit</u>**.
+¡A Dios sea la gloria!
 
-===
- 
-1) This command to *not let others … act, as your judge*  KRINETO is a present tense imperative. The present tense indicates that this type of judging was happening at the **<u>moment</u>** Paul wrote. The believers were told to stop letting others interfere or referee in their lives. Romans 14:3
 
-===
- 
-2) Legalists always possess a judgmental spirit. Their austere and ungracious demeanor will not only **<u>crush</u>** your spirit but will lead you to error. If you fall into their ways, you will lose a faith-based intimate walk with the Lord and replace it with an unfruitful burdensome life of dos and don’ts. Galatians 5:15, 25-26
 
-===
- 
-b. Colossians 2:16b –*Therefore no one is to act as your judge in regard to food* … A legalist gets judgmental and demanding about your **<u>private</u>** life. Eating *food* is one of the most basic functions of life and the legalist wants to control it. Romans 14:1-4, Mark 7:5-23, 1 Timothy 4:3-4
+Marzo, 2018
 
-===
- 
-1) Legalists lead you to believe that what you eat is of **<u>extreme</u>** **spiritual** significance. Legalists will tell you what you must or must not eat. They will control your diet, which biblically is none of their business. Romans 14:23
+Edición 5.5
 
-===
- 
-2) Paul predicted that in the last days the world would be fraught with **<u>food</u>** restrictions. 1 Timothy 4:3-4
 
-===
- 
-3) Do you have people trying to control your diet by telling you their way of eating is more spiritual or that it is the **<u>right</u>** way? Matthew 15:11, 15-20; Luke 7:34
-    
-===
- 
-c. Colossians 2:16c – *Therefore no one is to act as your judge in regard to…drink.* While the Bible condemns drunkenness, the legalist wants to make what you drink a **<u>spiritual</u>** issue. Ephesians 5:18
 
-===
- 
-1) Romans 14:17 shows that the future kingdom of God is **<u>not</u>** about eating and drinking, implying that we should modulate our rhetoric accordingly.
+![](Aspose.Words.a2be8293-f622-4b40-bd1c-c50c6cb4228f.004.png)
 
-===
+Derechos de Autor © **2013** **DM2** **International** **Inc.** Todos los derechos reservados
 
-2) Jesus said that it is not what you take into your body that defiles you but rather what comes **<u>out</u>** of your heart. Matthew 15:17-20
+**Póliza de los Derechos de Autor.** Traducción no autorizada, re-publicación, duplicación del documento, página de la internet o distribución del correo electrónico de cualquier porción de este material de derechos de autor de cualquier forma, sin el expreso consentimiento escrito de DM2™ es estrictamente prohibido. Puedes usar los materiales de DM2 para tu propio estudio personal o para volverlos a enseñar en una clase, siempre y cuando, el logo de DM2 y esta póliza de los derechos de autor estén incluidos siempre en el material al ser enseñados. Puedes bajar una copia a tú PC, imprimirla o hacer copias para la clase o estudio de grupo Bíblico; sin embargo, no puedes cobrar por este material o por conducir una clase usando el mismo, excepto por el costo actual del copiado. NO puedes hacer cambios a este material, tiene derechos de autor. Para una más amplia exposición de la póliza del DM2 con respecto a los usos de sus materiales, por favor referirse a la página de la internet DM2-USA 
+al <http://www.dm2usa.org>. [DM2™]
 
-===
- 
-3) 1 Corinthians 10:31 says that in all you eat or drink, do all to the **<u>glory</u>** of God.
 
-===
 
-d. Colossians 2:16d – *Therefore no one is to act as your judge in regard…to a festival or a new moon or a Sabbath day*. Legalists not only get judgmental and demanding about what you eat, they also make demands on how you **<u>worship</u>**. Romans 14:5-6, 10
+**Impreso** **y** **Propiedad** **de:**
 
-===
- 
-1) *Festivals* were the **<u>holy</u>** days and feast days that Moses set forth in the Law. Galatians 4:9-11
- 
-===
+**DM2**
 
-a) This is not referring to **<u>holidays</u>** or national observances celebrated in your country.
+**Disciple** **Makers** **Multiplied**
 
-===
+**PO Box 7758**
 
-b) This is referring to days observed by the religious establishment. It is referring to days that all so-called Christians have “**<u>always</u>**” observed.
- 
-===
+**Beaumont, TX 77726**
 
-c) Legalists believe that by observing these **<u>days</u>** they are being good people. They think that they please God by observing certain days and may judge you for not doing so, or for observing other days. Legalists always obligate you to do the same things they do.
-    
-===
- 
-2) Paul also mentioned *New **<u>Moon</u>*** celebrations that legalists wanted to require. Isaiah 1:10-15
- 
-===
+**Para** **más** **información:**
 
-a) The New Moon was an elaborate religious **<u>day</u>** in Israel. Special sacrifices were made at that time.
+**disciplemakersmultiplied@gmail.com**
 
-===
- 
-b) Historically a New Moon day would set the month’s calendar of religious activities in **<u>Israel</u>**.
+**DM2USA.org**
 
-===
- 
-c) On a New Moon celebration all work would be suspended and no private or public **<u>feasts</u>** or festivals were allowed.
+**ROMANOS 1-8**
 
-===
- 
-d) Religious legalists delight in **<u>imposing</u>** these types of religious observances on your life.
 
-===
- 
-3) Paul included a mention of ***<u>Sabbath</u>*** *days*. Legalists love to obligate Christians to observe their particular idea of a Sabbath day custom. Exodus 20:8-11
+**Introducción											   7**
 
-===
+**Romanos 1:1-17 – Dirigiéndose a la Iglesia en Roma				 10**
 
-a) According to the Mosaic **<u>Law</u>**, the Sabbath was a day to be faithfully remembered by national Israel.
+**Romanos 1:18-3:20 – La Justicia de Dios hacia los Pecadores 		 16**
 
-===
- 
-b) Failure to faithfully observe the Sabbath was supposed to result in the **<u>death</u>** penalty. Exodus 31:14-15
+Romanos 1:18-32 – El juicio de Dios sobre el pecador inmoral			 16
 
-===
- 
-c) This law was never instituted for the **<u>church</u>**, although even today legalists seek to enslave uninformed believers in a form of Sabbath observance.
+Romanos 2:1-16 – El juicio de Dios sobre el pecador moral			 20
 
-===
- 
-e. In summary, we should note that all five elements of legalism mentioned in verse 16 had their **<u>source</u>** in Judaism. Obviously legalistic Judaism was one of the heretical teachings disrupting the church of Colossae.
+Romanos 2:17-29 – El juicio de Dios sobre el pecador religioso			 23
 
-===
- 
-## D. Colossians 2:17 – How to safeguard yourself against the heresy of  legalism
+Romanos 3:1-8 – Pablo anticipó preguntas						 26
 
-===
- 
-1. Colossians 2:17 – In order to not fall victim to legalism you need to understand the **<u>main</u>** problem with legalism.
+Romanos 3:9-20 – En conclusión: Todo el mundo es culpable de pecado	 27
 
-===
- 
-a. Colossians 2:17a – *Things which are a mere shadow of what is to come.*  Legalism is captivated with **<u>hollow</u>** or empty substitutes for real fellowship with the Lord.
+Hagamos un viaje a través de la escuela de Leyes					 29
 
-===
- 
-1) Legalism is like an infatuation with the **<u>shadow</u>** or reflection of an object rather than with the object itself.
+**Romanos 3:21-5:11 – Justificación: Declarado Legalmente Justo		 33**
 
-===
+Romanos 3:21-31 – Pablo explicó cómo Dios justifica a los pecadores		 33
 
-2) If you get caught up in observing the things detailed in verse 16, you will be focused on the shadows of Christ previewed in ancient Judaism and not on the actual **<u>person</u>** of Christ as revealed in the New Testament.
+Romanos 4:1-25 – Ejemplos del Antiguo Testamento de justificación por fe	 36
 
-===
- 
-3) This could be compared to a photograph of a loved one who is far from home. Although the photograph **<u>reminds</u>** you of your loved one, it is not your loved one. Imagine hugging the photograph after your loved one’s return. That would be foolish.
+Romanos 5:1-11 – Las bendiciones inmerecidas de la justificación por fe	 42
 
-=== 
- 
-4) Legalism is that kind of cheap substitute for a **<u>real</u>** and intimate relationship with Christ. Legalists become fixed on principles, rules and traditions they find in Scripture rather than on Christ Himself. Galatians 3:24-25
-  
-=== 
- 
-b. Colossians 2:17b –*But the substance *SOMA * belongs to Christ…* Freedom, versus the slavery of legalism, is found in Christ. Christ is the **<u>real</u>** substance; legalism on the other hand is external and only dimly reflective of Christ.
- 
-===
+**Romanos 5:12-21 – La Doctrina de la Identificación				 46**
 
-1) Are you having fellowship with the person of Christ or are you simply going through the motions of religion? Are you doing church or are you enjoying fellowship with Christ?
- 
-=== 
+**Romanos 6:1-10 – Verdad Posicional		 				 	 49**
 
-2) To safeguard from legalism, do not allow anyone to become your **<u>judge</u>** and put you on a guilt trip by getting into the minutia of your personal or spiritual life.
-  
-===
+Romanos 6:1-2 – ¿Por qué no pecar?							 49
 
-Characteristics of Legalism
+Romanos 6:3-5 – Conociendo la historia de tu muerte con Cristo al pecado	 52
 
-===
+Romanos 6:6-10 – Conociendo el significado de tu muerte con Cristo		 54
 
-Legalism...
+**Romanos 6:11-23 – Haciendo Práctica la Santificación				 57**
 
-===
+Romanos 6:11 – Contando con tu nueva identidad					 57
 
-Focuses on externals– on a person’s outward good works.
+Romanos 6:12-14 – Presentando tus miembros					 58
 
-===
+Romanos 6:15-18 – ¿Quién es tu señor?						 59
 
-Focuses on people’s ability to be good and make themselves acceptable to God.
+Romanos 6:19-23 – La santificación hecha simple					 61
 
-===
+**Romanos 7:1-25 – Tu Nueva Relación con la Ley 			 		 62**
 
-Encourages pride with its focus is on personal human effort.
+Romanos 7:1-6 – Casados con Cristo							 63
 
-===
+Romanos 7:7-13 – Vida bajo la Ley							 65
 
-Legalism always ends in despair because no one can consistently be good based on human performance.
+Romanos 7:14-23 – Una vida frustrada						 67
 
-===
+Romanos 7:24-25 – El reconocimiento de Pablo de la liberación en Cristo	 69
 
-Results in competition with others.
+**Romanos 8:1-17 – La santificación y el Espíritu Santo				 69**
 
-===
+Romanos 8:1-4 – Un nuevo principio para la vida					 70
 
-Results in being overly critical of oneself and of others.
-Leads to hypocrisy and phoniness.
+Romanos 8:5-8 – Características de la mente puesta en la carne/Espíritu	 73
+
+Romanos 8:9-11 – El creyente está en el Espíritu					 74
+
+Romanos 8:12-17 – Tu responsabilidad como creyente en Cristo		 75
+
+**Romanos 8:18-39 – Glorificación								 79**
+
+Romanos 8:18 – Esperando ser glorificado						 79
+
+Romanos 8:19-27 – Gimiendo para ser glorificado					 79
+
+Romanos 8:28-30 – Garantizado para ser glorificado				 81
+
+Romanos 8:31-39 – Glorificación verificada y probada				 86
+
+**El Mensaje del Evangelio 									 88**
+
+Presentaciones Confusas del Evangelio						 95
+
+**Seguros por Siempre 										 107**
+
+**Cinco Personas que Deberías Conocer 						 120**
+
+**Resultados de Vivir Consistentemente una Vida Carnal.			 126**
+**
+
+
+**Romanos 1-8**
+# **Introducción**
+## **Importancia del libro de Romanos**
+### El libro de Romanos es considerado por muchos la carta más importante de Pablo. Explica el marco teológico básico para las **creencias** y prácticas de la iglesia, el cuerpo de Cristo.
+### Los capítulos 1 al 8 de Romanos abordan la **fe**, la gracia, la ley, las obras, el pecado y la naturaleza carnal. La santificación, la identificación con Cristo y el ministerio del Espíritu Santo también son explicados.
+### Los capítulos 9 al 16 destacan a **Israel** en relación con el plan de Dios y abordan los dones espirituales y el amor piadoso. Estos capítulos también describen cómo los cristianos deben ver el ministerio y el gobierno, al igual que describen otros privilegios y responsabilidades que tienen los creyentes.
+### El hecho de que el libro de Romanos abarca prácticamente todas las **principales** doctrinas de la Era de la Iglesia puede ser la razón por la cual los primeros líderes de la iglesia que organizaron el Nuevo Testamento colocaron Romanos justo después del libro de Hechos.
+## **La ciudad de Roma**
+### Cuando el libro de Romanos fue escrito, Roma era la **capital** del Imperio Romano y la ciudad más influyente sobre la tierra. De hecho, Roma gobernaba todo el mundo conocido de aquel momento, y esta dominación de expansión posibilitó un periodo de paz conocido históricamente como la Pax Romana (en latín para Paz Romana). 
+### Se estima que, en el tiempo de Jesucristo, Roma tenía una población de un 1.000.000 de habitantes, siendo **esclavos** entre el 15 al 30 por ciento de la población. Aparte de los esclavos, habían al menos otras dos clases de personas más, la clase obrera y la aristócrata.
+### El Imperio Romano no solamente construyó canales y **caminos**, también promovió el griego como lengua unificadora. Gálatas 4:4
+### La ciudad era bien conocida por sus imponentes edificios públicos, música refinada y entretenimiento. También era conocida por sus concursos de gladiadores inmortales y peleas de animales brutales, donde tanto hombres como animales a menudo eran obligados a **luchar** hasta la muerte.
+### Roma se jactaba de contar con una prestigiosa unidad militar llamada Guardia Pretoriana. La Guardia Pretoriana era una unidad **élite** de soldados que luego sirvió como guardaespaldas del emperador. Eventualmente, sin embargo, se convirtió en una institución traidora, incluso derrocando emperadores y nombrando sucesores.
+### Aunque Claudio había expulsado a todos los **judíos** que no eran ciudadanos de Roma en el año 50 d. C., hubo muchos judíos con ciudadanía romana que continuaron viviendo en la ciudad. Hechos 18:2
+## **Autor, localización y fecha de escritura** 
+### Autor: Es comúnmente aceptado que **Pablo** fue el autor del libro de Romanos.
+#### En Romanos 1:1, Pablo claramente firmó su **nombre** como el autor del libro.
+#### En Romanos 11:1, el autor afirmó ser de la tribu de Benjamín. También sabemos que Pablo era de la **tribu** de Benjamín por Filipenses 3:5
+#### Los planes de viaje y ministerio de Pablo descritos en Hechos coinciden con los **planes** expresados en Romanos. Hechos 19:21; Romanos 1:10-13, 15; 15:22-32
+### Localización: Pablo posiblemente escribió este libro desde la **ciudad** de Corinto.
+#### Aunque Pablo no mencionó específicamente a Corinto en Romanos, sí mencionó a una mujer llamada Febe quien transportó la **carta** de Pablo a Roma. Febe era de la iglesia de Cencrea, una pequeña ciudad portuaria cerca de Corinto. Romanos 16:1
+#### En Romanos 16:23, Pablo mencionó a Gayo como uno de sus compañeros en la **escritura** de Romanos. 1 Corintios 1:14 muestra que Gayo era de Corinto. 
+#### Pablo también mencionó a Erasto, el tesorero de la ciudad. En tiempos recientes, un **adoquín** que data de esa época y que lleva el nombre de Erasto fue descubierto en Corinto. Se cree que es la misma persona.
+### Fecha: Pablo posiblemente escribió este libro en el invierno o a inicios de la primavera del año 57 d.C., cerca del final de su tercer **viaje** misionero. Esto habría sido justo antes de su viaje de regreso a Jerusalén, en el que llevó una ofrenda de las iglesias de Macedonia y Acaya a los cristianos pobres de Jerusalén. 1 Corintios 16:1-8, 2 Corintios 8:1-5
+#### En Hechos 20:16 leemos acerca del plan de Pablo de llegar a Jerusalén para la **fiesta** de Pentecostés. Muchos eruditos bíblicos creen que este viaje ocurrió en el año 57 d. C. Hechos 20:3, 6, 16; Romanos 15:26
+#### Si el libro de Romanos fue escrito en el año 57 d. C., habría sido escrito durante la primera parte del reinado de **Nerón**, quien fue César en los años 54-68 d.C.
+## **El propósito de Pablo para escribir Romanos**
+### A pesar de que él era un ciudadano romano, Pablo jamás había visitado la iglesia romana, por lo tanto, escribió para prepararlos para una posible **visita**. Romanos 1:8-13, Hechos 19:21
+#### Romanos 1:9-10 – Un viaje para visitar la iglesia Romana había estado en el **corazón** de Pablo y en sus oraciones durante un largo tiempo.
+#### Romanos 1:11 – Pablo quería visitar para *comunicarles algún **don** espiritual*. 
+#### Romanos 1:13 – Pablo quería ***segar** alguna cosecha* en Roma. En otras palabras, él quería compartir el evangelio en Roma. Hechos 28:17-31, 1 Corintios 9:15-18
+#### Romanos 1:14-17 – Pablo también quería darle a la iglesia romana enseñanzas claras sobre el **evangelio** que él predicaba. Judas 3
+### Del texto de Romanos, percibimos que Pablo escribió para ayudar a **subsanar** una división cultural entre creyentes judíos y gentiles. Romanos 1:18-3:20; Romanos 9, 10, 11
+### Romanos 15:22-29 muestra que Pablo escribió con la esperanza de obtener apoyo financiero y de oración por parte de la iglesia romana. Pablo claramente quería **iniciar** su próxima campaña misionera en España partiendo de Roma.
+### Pablo también escribió para obtener el apoyo de **oración** de los creyentes romanos para su protección personal y física. Romanos 15:30-32
+### Curiosamente, al final del libro de Hechos, Pablo está bajo arresto domiciliario en la ciudad de **Roma**. Así que finalmente pudo ir a Roma, pero no de la forma que él hubiera deseado. Hechos 28:16
+## **Los destinatarios del libro**
+### En Romanos 1:7, Pablo dirigió el libro *a todos los que están en Roma, amados de Dios, llamados a ser santos*. Posiblemente habían creyentes de muchas iglesias-**hogares** en Roma, similares a la que se encontraba en el hogar de Aquila y Priscilla. Romanos 16:5, 10, 11, 15
+### Las iglesias en Roma consistían tanto de creyentes judíos como **gentiles** (Romanos 16:7, 11). A pesar de que Roma era una ciudad gentil y la capital de un vasto imperio, se jactaba de una gran población judía de ciudadanos romanos. Hechos 28:17-29; Romanos 1:5, 13; 11:13
+### Al final del libro, Pablo saludó específicamente a 28 personas por su **nombre**, junto con varios grupos de personas.
+## **Tema y esquema para el libro de Romanos**
+### El **tema** del libro de Romanos es la justicia de Dios. Romanos 1:16-17
+### En los capítulos 1 al 8 de Romanos, aprendemos acerca de la justicia requerida para entrar al **cielo** y la gracia que Dios proveyó para la humanidad en la persona de Jesucristo.
+#### Justificación: Esta es la provisión de Dios de una **posición** justa delante de Él para todos los que creen. En los escritos de Pablo, ser justificado significa ser declarado legalmente justo por Dios, el Juez supremo del cielo. Romanos 3:21-5:11
+#### Santificación: Este es el trabajo progresivo del Espíritu Santo en la vida de un creyente, haciéndole más y más justo en la conducta **diaria**. Romanos 5:12-8:17
+#### Glorificación: Esta es la finalización de la obra de Dios en la vida del creyente. Esto sucederá en el rapto cuando el creyente sea hecho **completamente** justo. Romanos 8:18-39, 1 Corintios 15:50-57, Filipenses 1:6
+### En los capítulos 9-11 de Romanos, la justicia de Dios es vista en Su fidelidad para con Su pueblo **Israel**. Estos tres capítulos explican el estado pasado, presente y futuro de Israel.
+### En Romanos capítulos 12-16, la justicia de Dios es vivida por el pueblo de Dios a través de numerosas relaciones **humanas**.
+# **Romanos 1:1-17 – Dirigiéndose a la Iglesia en Roma** 
+## **Romanos 1:1–7 – Un ministerio para el mundo**
+### Romanos 1:1 – La misión de Pablo
+#### Romanos 1:1a – “*Pablo, siervo*...” Antiguamente un **violento** perseguidor de la iglesia, Pablo se convirtió al cristianismo por medio de un encuentro milagroso con el Señor Jesucristo. Hechos 9:1-6, 1 Timoteo 1:12-16
+#### Romanos 1:1b – “*Pablo, siervo* (DOULOS) *de Jesucristo*...” Pablo se refirió a sí mismo como un esclavo. Pocos líderes en el cristianismo moderno se presentan tan humildemente. La norma moderna es dar una larga lista de calificadores y credenciales. Pablo simplemente se consideraba, por encima de todo, un **esclavo** y *de* *Je*sucristo. 2 Corintios 12:11
+#### Romanos 1:1c – “*…llamado a ser apóstol*...” Aunque la palabra apóstol en su forma más simple significa mensajero, con el advenimiento de la Era de la Iglesia, el término apóstol se convirtió en el **título** oficial de los elegidos directamente por Cristo para sentar las bases de la iglesia. Efesios 2:20
+##### Pablo declaró su apostolado en numerosos **pasajes** tales como 1 Corintios 1:1, 2 Corintios 1:1, Colosenses 1:1, 1 Timoteo 1:1 y 2 Timoteo 1:1.
+##### De acuerdo con Gálatas 1:1, Pablo no fue enviado por ninguna persona u organización. Fue enviado directamente por el Señor Jesucristo como Su **enviado** especial al mundo gentil.
+##### Ya que hubo **falsos** apóstoles al comienzo de la Era de la Iglesia (2 Cor. 11:13, Rom. 16:17-18, Ap. 2:2), Pablo se tomó el tiempo de aclarar sus cualificaciones.
+##### Un apóstol del Señor Jesucristo tuvo que haber sido un testigo **ocular** del Cristo resucitado. Hechos 1:21-22, 1 Corintios 9:1
+#### Romanos 1:1d – *“*…*apartado para el evangelio*...” En Hechos 9:1-6, vemos que Pablo fue llamado por Jesucristo para el propósito específico de difundir el mensaje del evangelio. Este no era un trabajo secundario; iba a ser el **enfoque** principal y la vocación de vida de Pablo. Gálatas 1:13-16
+#### Romanos 1:1e – *“…apartado para el evangelio de **Dios***.” Dios es el originador del evangelio, las buenas nuevas de Dios. En Romanos 2:16, Pablo se refirió a él como mi evangelio, no porque pensara que era creación suya, sino porque era muy personal para él. Romanos 1:9, Gálatas 1:6-9
+### Romanos 1:2-4 – La responsabilidad de Pablo
+#### Romanos 1:2 – *El evangelio de Dios ...”que él había prometido antes por sus profetas en las santas Escrituras,”* (Rom. 15:8). El evangelio, que significa buenas **noticias**, fue la culminación y el cumplimiento de las profecías del Antiguo Testamento. Isaías 52:7, 1315, 53:1-12; Lucas 24:25-27
+##### Romanos 1:2a – “…*que él había prometido antes*...” El evangelio fue prometido hace mucho tiempo. El evangelio no fue algo que la gente inventó después de que Jesús murió. El evangelio fue el **plan** de Dios desde el principio. Génesis 3:15; Hechos 2:23, 4:27-28; Romanos 16:25-27; Apocalipsis 13:8
+##### Romanos 1:2b – “…*por sus profetas en las santas Escrituras*,” El evangelio fue predicho por los **escritores** del Antiguo Testamento. El Antiguo Testamento fue una confirmación pre-escrita de que el evangelio fue diseñado y realizado por Dios mismo. Génesis 3:15, 15:1-6; Hechos 3:18, 24; Lucas 24:25-27, 44; Hebreos 1:1
+#### Romanos 1:3a – “...*acerca de su **Hijo***,...” El evangelio se refiere a una persona específica, Jesucristo, el Hijo de Dios. Si quitas la identidad bíblica de Jesús del evangelio, no tienes mensaje del evangelio alguno. Entonces, ¿quién era Jesús? Juan 1:14, 8:24; Filipenses 2:5-8; Colosenses 2:9
+#### Romanos 1:3b – “…*nuestro Señor Jesucristo*,…” Al identificar a Cristo utilizando Su **título** completo, Pablo eliminó todas las dudas con respecto a la identidad de Jesús. El nombre Jesús habla de Su humanidad. El título Cristo muestra que Él era el Libertador, o el Mesías, prometido en el Antiguo Testamento. *Nuestro Señor* afirma su deidad. Isaías 7:14, 9:6-7; Jeremías 23:5-6; Romanos 9:5
+#### Romanos 1:3c – “…*que era del linaje de **David** según la carne,*...” Aquí Pablo verificó la humanidad de Jesucristo. Romanos 9:5
+##### Como ser humano, Jesús nació de María, una **virgen**. Él nació de la línea real del Rey David. 2 Samuel 7:12-16; Mateo 1:1, 15:22; Marcos 12:35-37; Apocalipsis 22:16
+##### La humanidad de Cristo es muy importante, tenía que ser **completamente** humano a fin de morir como un sustituto idóneo para las personas. 1 Timoteo 2:5; Hebreos 2:17, 9:12
+###### Un animal **jamás** funcionó como un sustituto aceptable para la humanidad. Era necesario un humano justo. Juan 1:29; Hebreos 10:1-4, 11
+###### Un ángel (ser espiritual) tampoco podía **morir** como sustituto de la humanidad. Solo un humano justo podría ser suficiente como sustituto de los humanos injustos. Romanos 5:17, Gálatas 3:13, 1 Corintios 15:21
+#### Romanos 1:4 – “…*que fue declarado Hijo de Dios*...” Jesucristo no solo era 100% humano, también era 100% **Dios**. Pablo verificó la deidad de Jesucristo de muchas maneras convincentes. Tito 2:13
+##### Romanos 1:4a – Jesucristo fue “...*declarado Hijo de Dios **con poder***...” Jesucristo nuestro Señor fue afirmado ser el Hijo de Dios por Sus muchas muestras de poder divino. Sus muchos **milagros** son una prueba histórica de su divinidad. Mateo 14:33, 16:16; Marcos 1:27, 4:41, 5:42, 7:37; Romanos 9:5; Hebreos 1:2-3
+##### Romanos 1:4b – “…*declarado Hijo de Dios*...***según el Espíritu de santidad,***...” Jesucristo fue declarado Hijo de Dios por medio del **Espíritu** Santo que vino sobre Él en Su bautismo y lo dirigió durante toda Su vida. Marcos 1:10-13; Lucas 3:22; 4:1, 14, 18; Juan 1:32, 3:34; Hechos 10:38 
+##### Romanos 1:4c – “…*declarado Hijo de Dios... **por la resurrección de entre los muertos,***...” La resurrección se erige como la más grande exhibición de poder de Dios. Verifica la **afirmación** de que Cristo era Dios el Hijo. Romanos 4:25, 1 Corintios 6:14, Efesios 1:19-20, Filipenses 3:10
+### Romanos 1:5-7 – La comisión de Pablo
+#### Romanos 1:5 – Pablo aclaró sus **razones** para servir al Señor.
+##### Romanos 1:5a – “…*y por quien*...” Esto hace referencia nuevamente a Jesucristo nuestro Señor en el versículo anterior. Pablo declaró que fue a través de Jesucristo que recibió su **llamado** para difundir las buenas nuevas.
+##### Romanos 1:5b – “…[Nosotros] *recibimos la **gracia***” En el griego, el pronombre *nosotros* se refiere a Pablo y los otros apóstoles. Por medio de Cristo, recibieron la **gracia** habilitadora de Dios para ser Sus mensajeros. La gracia de Dios proporciona el poder y la provisión de Dios para cumplir Sus mandamientos. 1 Corintios 15:9-10
+##### Romanos 1:5c – “…*recibimos... el **apostolado***,...” El término apostolado implica responsabilidad. A Pablo y los otros apóstoles les fue dada la urgente **tarea** de ser embajadores de Cristo. Al propagar el evangelio por todas partes, jugaron un papel principal en la fundación de la iglesia. Romanos 15:16-19, 1 Corintios 9:15-19, 2 Corintios 5:20-21
+##### Romanos 1:5d – “…*para la obediencia a la fe*...” La obediencia a la que se refiere en este pasaje brota de la **fe**, no de la fuerza de voluntad humana o la resolución mental. Romanos 4:18-21, 15:18, 16:26 
+##### Romanos 1:5e – “…*en todas las naciones*...” La razón por la cual a Pablo le fue dada gracia y apostolado fue para inspirar la obediencia de la fe entre los **grupos** de personas no judías del mundo. Hechos 9:15; Romanos 1:8, 11:13; Gálatas 1:15-16
+##### Romanos 1:5f – “…*por amor de su nombre*;” El propósito para promover la obediencia que brota de la fe es que el **nombre** de Dios sea glorificado en todo el mundo. Mateo 28:18-20
+#### Romanos 1:6-7b – Pablo identificó a los destinatarios de su **carta** como cristianos en Roma. Romanos 16:1-16
+##### Romanos 1:6a – “…*entre las cuales estáis también vosotros,…”* Pablo consideraba a los creyentes romanos incluidos en su alcance del **deber**.
+##### Romanos 1:6b – “…*llamados a ser de Jesucristo*;” En el Nuevo Testamento, los *llamados* son personas que han respondido por fe al evangelio. Puesto que los creyentes romanos ahora pertenecían a Cristo, ellos eran parte de este grupo de **llamados**. Romanos 8:29-30, 1 Pedro 2:9, Judas 1:1
+##### Romanos 1:7a – “…*a todos los que estáis en Roma, amados de Dios,*…” Los creyentes romanos eran los amados de Dios. Todos los hijos de Dios son **amados** por Él sin reserva. Romanos 8:39, Efesios 3:19
+##### Romanos 1:7b – “*…llamados a ser santos:*…” Pablo también llamó *santos* a los creyentes romanos. Un **santo** es una persona que es apartada para Dios. Los creyentes en Roma eran las posesiones especiales de Dios, escogidos para Sus propósitos únicos.
+#### Romanos 1:7 – Pablo deseaba bendiciones **especiales** para los romanos. Romanos 1:1112
+##### Romanos 1:7c – “*Gracia y paz a vosotros,*…” En este saludo, Pablo dio a los creyentes romanos una bendición de dos partes. Él deseaba que la gracia y la paz **reposaran** sobre ellos. La gracia es bondad inmerecida y la paz es tranquilidad mental. Todos los santos necesitan estas dos bendiciones. Romanos 16:20
+##### Romanos 1:7d – “…*de Dios nuestro Padre y del Señor Jesucristo*.” La verdadera gracia y paz provienen solo de Dios el Padre y de Dios el Hijo. Aunque el Espíritu Santo no es mencionado aquí, Él es el que silenciosamente administra estas bendiciones en la **vida** de los creyentes. Romanos 8:11, 15:13; 2 Corintios 13:14
+## **Romanos 1:8-15 – Amor por los Romanos**
+### Romanos 1:8-10 – Pablo **oró** por los Cristianos en Roma. 
+#### Romanos 1:8 – Pablo **agradeció** a Dios por los Cristianos en Roma.
+##### Romanos 1:8a – “***Primeramente** doy gracias a mi Dios…”* Pablo comenzó su oración agradeciendo a Dios.
+##### Romanos 1:8b – “…***mediante** Jesucristo*…” Jesús es el que abrió la puerta para que los creyentes puedan acercarse a Dios en oración. Romanos 5:1-2, Efesios 3:11-12
+##### Romanos 1:8c – *“…con respecto a todos vosotros, de que vuestra fe se divulga por todo el **mundo***.” Pablo estaba agradecido de que la gente, a lo largo y ancho del mundo, estuvieran escuchando acerca de la fe de los creyentes romanos. Romanos 16:19, 1 Tesalonicenses 1:8
+######
+######
+#### Romanos 1:9 – Pablo **oraba** continuamente.
+##### Romanos 1:9a – “*Pues Dios, a quien sirvo en mi espíritu en la predicación del evangelio de su Hijo…”* [LBLA] A Pablo le apasionaba **servir** a Dios predicando las buenas nuevas de Jesucristo.
+##### Romanos 1:9b – *Porque testigo me es Dios, “…de que sin cesar hago mención de vosotros siempre en mis oraciones,”* Pablo llamó a Dios mismo como **testigo** de que él oraba continuamente por los creyentes romanos. El amor de Pablo lo demostró orando siempre por ellos. 
+#### Romanos 1:10 – Pablo oraba con **propósito**.
+##### Romanos 1:10a – “*rogando que de alguna manera tenga al fin,…”* Pablo tenía **peticiones** de oración específicas por los creyentes en Roma. La Biblia de las Américas lo traduce; “…*siempre en mis oraciones, implorando*…” Filipenses 4:6
+##### Romanos 1:10b –Pablo oraba para que Dios le **permitiera** finalmente poder hacerles una visita personal. El deseaba “…*por la voluntad de Dios, [tener] un próspero viaje para ir a [ellos]*…” Romanos 15:28-33
+### Romanos 1:11-15 – Pablo planeaba **visitar** la congregación romana.
+#### Romanos 1:11a – “*Porque deseo **veros***…” Pablo anhelaba una visita cara a cara con los creyentes romanos. Romanos 15:22-24; Filipenses 1:8, 4:1
+#### Romanos 1:11b – Pablo tenía un **propósito** específico en mente para su visita. “…*para comunicaros algún don espiritual, a fin de que seáis confirmados;…”* 
+##### El *don espiritual* al que Pablo se refirió aquí no debe ser confundido con los **dones** espirituales específicos dados por Dios el Espíritu Santo a los creyentes individuales al momento de la salvación. 1 Corintios 12:4-11
+##### *“…para* *comunicaros algún don espiritual,…”* Pablo quiso decir que quería ser una bendición espiritual para la **iglesia** para ayudar a establecerlos en su fe. Efesios 1:3, Filipenses 1:25
+#### Romanos 1:12a – “…*esto es, para ser mutuamente confortados…”* Por medio de una visita cara a **cara**, Pablo creía que podían alentarse mutuamente los unos a los otros.
+#### Romanos 1:12b – “…*por la fe que nos es común a vosotros y a mí*.” Pablo comunicó una asombrosa **humildad** cuando aseguró a los creyentes romanos que sería impactado por la fe de ellos, tal como ellos serían impactados por la de él.
+#### Romanos 1:13a – “*Pero no quiero, hermanos, que ignoréis que muchas veces me he propuesto ir a vosotros (pero hasta ahora he sido estorbado),…*” Aunque Pablo había planeado numerosas **veces** ir a verlos, algo siempre se lo impedía. Romanos 15:22
+##### Sabemos que a veces **Dios** el Espíritu Santo le impidió a Pablo el ir a un lugar u otro. Hechos 16:6-7
+##### Otras veces Dios permitió que **Satanás** le impidiera a Pablo hacer un viaje. 1 Tesalonicenses 2:18
+##### Ahora, como siempre, ya sea Dios o el enemigo, todas las cosas aún obran para **bien** para *los que aman a Dios*, para *los que conforme a su propósito son llamados*. Romanos 8:28
+#### Romanos 1:13b – “*para tener también entre vosotros algún fruto, como entre los demás gentiles*.” Pablo quería cosechar algún **fruto** en Roma, tal como lo había hecho en todos los otros lugares donde ministraba. Esto significaba que quería agregar creyentes a la iglesia romana por medio de compartir las buenas nuevas.
+#### Romanos 1:14 – El amplio **rango** de responsabilidades de Pablo en la enseñanza del evangelio incluía alcanzar personas de todos los niveles de la sociedad.
+##### Romanos 1:14a – “*A griegos y a no griegos,...” soy deudor*... Pablo estaba comprometido a predicar el evangelio **tanto** a los cultos (los griegos) como a los incultos (los bárbaros).
+##### Romanos 1:14b – “…*a sabios y a no sabios soy deudor.”* Pablo se sentía **igualmente** obligado tanto a los educados como a los no educados.
+#### Romanos 1:15 – “*Así que, en cuanto a mí, pronto estoy a anunciaros el evangelio también a vosotros que estáis en Roma.”* Aunque Pablo anhelaba visitar la iglesia en Roma, la cual incluía personas de un **estatus** social más alto que la mayoría de las iglesias, él sentía una responsabilidad hacia todas las personas, sin importar cuál era su posición social en la vida. 
+## **Romanos 1:16-17 – Una pasión por el evangelio**
+### Romanos 1:16 – La **actitud** de Pablo hacia el evangelio
+#### Romanos 1:16a – “*Porque no me **avergüenzo** del evangelio...”* Ninguna cosa acerca del mensaje del evangelio hizo que Pablo sintiera vergüenza, culpa o deshonra. 1 Corintios 1:18-25, 9:16‑17
+#### Romanos 1:16b – “…*porque es poder de Dios para salvación...”* Pablo tenía confianza absoluta en la capacidad del evangelio para **salvar** a los pecadores. Juan 3:36
+#### Romanos 1:16c – “…*a todo aquel que **cree**;...”* Si se cree el evangelio, el resultado es salvación eterna. Si es rechazado en incredulidad, no hay salvación. Increíblemente, toda persona que cree el evangelio pasa instantáneamente de la muerte a la vida. Juan 5:24
+#### Romanos 1:16d – “…*al judío primeramente, y también al griego.”* Históricamente, el evangelio fue **ofrecido** primero al pueblo judío y después de eso a las naciones gentiles (griegos). Aunque en la actualidad Cristo está llamando personas de entre los gentiles, Israel todavía ocupa un lugar muy querido en su corazón, como vemos en Romanos 911. Hechos 1:8
+#####
+### Romanos 1:17 – La **gratitud** de Pablo por el evangelio (1 Timoteo 1:12-17)
+#### Romanos 1:17a – “*Porque en el evangelio la justicia de Dios se revela…”* El evangelio trajo a la **luz** la manera de Dios de declarar justos a los pecadores. Job 25:4
+##### En primer lugar, la justicia de Dios es vista en los **hechos** históricos del evangelio. 
+###### Ya que la pena por el pecado es la **muerte**, la muerte de Cristo en la cruz por los pecados de la humanidad cumplió los requisitos justos de Dios. 2 Corintios 5:21, 1 Pedro 3:18
+###### La resurrección de Cristo **demostró** que las demandas justas de Dios habían sido completamente satisfechas. Romanos 4:25, Filipenses 2:8-11
+##### Y ahora, gracias a que las demandas justas de Dios se cumplieron, Dios puede declarar legalmente justos a los pecadores sin comprometer Sus estándares **legales** de justicia. Romanos 4:5, 2 Corintios 5:21, Gálatas 2:16-21
+#### Romanos 1:17b – “…*por fe y para fe…”* El evangelio afirma que la justicia de Dios es obtenida sólo a través de la **fe**.
+##### “…*por fe…”* La justificación, ser salvo de la pena del pecado, es por fe o de la fe. La justicia ante Dios viene en el momento en que un pecador **confía** en Cristo.
+##### “…*para fe,…”* De igual modo, la santificación, ser salvo del poder del pecado, es a través de la fe, o para fe. A través de la fe continua en Cristo, el creyente continúa **aprendiendo** a vivir rectamente día tras día. Gálatas 2:20, Filipenses 3:9
+#### Romanos 1:17c – “…*como está escrito: Mas el justo **por** la fe vivirá.”* Aquellos declarados justos por la fe, deben así mismo, vivir justamente por la fe.
+##### Al citar Habacuc 2:4b, “…*mas el justo por su fe vivirá.*”, Pablo destacó el hecho de que Dios siempre ha esperado que las personas justas, incluso en el Antiguo Testamento, **vivan** por fe. Hebreos 11:6
+##### ¿Qué significa la palabra justo? En hebreo es la palabra TSADDIYQ (pronunciada sa-dik), significa justo o legal. En griego, la palabra es DIKAIOS (pronunciado di-ka-yos), significa justo o sin culpa, específicamente justo a los ojos de Dios o sin culpa a la **vista** de Dios.
+# **Romanos 1:18-3:20 – La Justicia de Dios hacia los Pecadores**
+## **Romanos 1:18-32 – El juicio de Dios del pecador inmoral**
+### Romanos 1:18-20 – Dios tiene razón cuando condena a los pecadores inmorales porque con su conducta rebelde, **reprimen** la verdad.
+#### Romanos 1:18 – De acuerdo con Romanos 1:17, *la justicia de Dios se revela* a la humanidad a través del evangelio. Por el contrario, aquí en Romanos 1:18, la **ira** de Dios se revela desde el cielo contra todo lo injusto.
+#####
+##### Romanos 1:18a – “*Porque la ira de Dios se revela desde el cielo...”* Desde el cielo Dios hace **pública** Su ira hacia el pecado. Job 36:29-37:5
+###### Dios permite a todos los pecadores **cosechar** las consecuencias destructivas de su rebelión. Salmos 69:22, Santiago 1:15
+###### Dios también **condena** a aquellos que mueren sin haber creído el evangelio a la separación eterna de Él en el Lago de Fuego. Salmos 7:11
+##### Romanos 1:18b – “…*contra toda impiedad…”* La impiedad es rebelión contra Dios. La impiedad de la humanidad hace caso omiso del carácter justo de Dios. Cualquier cosa que se opone al carácter o existencia de Dios es **impía**, o no semejante a Dios, y se convierte en supresión de la verdad.
+##### Romanos 1:18c – *contra toda “…injusticia de los hombres…”* La impiedad es injusticia. Particularmente involucra **crímenes** contra el prójimo. Finalmente, toda injusticia suprime la verdad.
+##### Romanos 1:18d – “*…que detienen con injusticia la verdad*;” En su rebelión, la humanidad **pecaminosa** amordaza la verdad y provoca la ira de Dios.
+#### Romanos 1:19 – Aunque en sus corazones todas las personas conocen la verdad de la existencia y el carácter justo de Dios, en su naturaleza caída, eligen **negar** esa verdad.
+##### Romanos 1:19a – “…*porque lo que de Dios se conoce les es manifiesto*,” **Toda** persona en la tierra posee de forma innata un conocimiento de Dios. Dios ha escrito un conocimiento básico de Su existencia en el corazón de cada persona. Eclesiastés 3:11, Hechos 14:15-17
+##### Romanos 1:19b – “…*pues Dios se lo manifestó.”* Todas las civilizaciones y culturas tienen un conocimiento de Dios, porque Dios ha colocado este conocimiento en sus **corazones**. Este es el por qué, generalmente hablando, la mayoría de las personas son de alguna manera religiosas y abrazan fácilmente la existencia de alguna deidad. Génesis 1:26-27, Romanos 2:14-16
+#### Romanos 1:20 – No sólo el hombre tiene un testimonio interno de la existencia de Dios, desde el mismo principio de los tiempos, la **creación** ha declarado el mensaje de la existencia de Dios en un lenguaje tangible y universal que todo corazón entiende. Salmos 19:1-6
+##### Romanos 1:20a – “*Porque las cosas invisibles de él, su eterno poder y deidad, se hacen claramente **visibles** desde la creación del mundo,…”* Día y noche, la creación testifica continuamente del carácter perfecto de nuestro Creador, Su poder ilimitado y Su extrema supremacía como Dios. Hechos 17:22-28
+##### Romanos 1:20b – “…*siendo entendidas por medio de las cosas **hechas**, de modo que no tienen excusa*.”
+###### Todo el mundo sabe que una hermosa pintura es obra de un gran artista. La literatura bien escrita **refleja** a un autor talentoso, y estructuras magníficas, son levantadas por constructores expertos, arquitectos brillantes e ingenieros habilidosos.
+###### Esto demuestra que cuando las personas no reconocen la grandeza, majestad y sabiduría obvias del Creador del universo, no tienen **excusa**. Proverbios 30:4, Jeremías 10:11-13
+### Romanos 1:21-23 – Dios está en lo correcto cuando condena a los pecadores inmorales porque lo **menosprecian** deliberadamente.
+#### Romanos 1:21 – “*Pues habiendo conocido a Dios, no le glorificaron como a Dios, ni le dieron gracias,…”* En el pasado, el fracaso de la humanidad para reconocer, honrar y dar **gracias** a Dios trajo resultados terribles, como el diluvio, la destrucción ardiente (Sodoma y Gomorra), y el cautiverio. Incluso ahora, como la gente rechaza a Dios, la historia está destinada a repetirse.
+##### Romanos 1:21a – “…*sino que se envanecieron en sus razonamientos,…”* Su desprecio deliberado de Dios dio paso a teorías y suposiciones **inútiles**. Hechos 17:28-29
+##### Romanos 1:21b – “…*y su necio corazón fue entenebrecido*.” El rechazo de la verdad por parte de la humanidad resultó en una falta de **comprensión** y discernimiento. Esto le sucedió a Israel cuando se apartaron de Dios (Jeremías 4:22, 5:21). Esto le sucederá a cualquier civilización que menosprecie la verdad de Dios. Efesios 4:17-19
+#### Romanos 1:22 – “*Profesando ser sabios, se hicieron necios,*…” Los humanos llamaron a sus **ideas** sabiduría, pero en realidad sus ideas eran totalmente sin sentido. 
+#### Romanos 1:23a – “…*y cambiaron la gloria del Dios incorruptible en semejanza de imagen…”* Ellos rechazaron al Dios eterno e indestructible y adoraron **ídolos** en su lugar. Génesis 3:8, Isaías 44:9-20
+#### Romanos 1:23b – “…*de hombre corruptible, de aves, de cuadrúpedos y de reptiles*.” Los humanos crearon ídolos modelados a partir de criaturas que representaban a **dioses** que podían manipular y controlar. Jeremías 10:1-5
+### Romanos 1:24-27 – Dios está en lo **correcto** y justo cuando condena a los pecadores inmorales porque no reconocen la autoridad y supremacía de su Creador.
+#### Romanos 1:24a – “*Por lo cual también Dios los entregó a la inmundicia, en las concupiscencias de sus corazones,…” Dios los **entregó*** significa que Dios dejó de ponerles limitaciones.
+#### Romanos 1:24b – “…*de modo que deshonraron entre sí sus propios cuerpos*,” En el pasado, cuando la humanidad rebelde lo rechazaba a propósito, Dios les dejó hacer todas las cosas vergonzosas e impactantes que querían con los **cuerpos** de los demás. 
+#### Romanos 1:25a – “*ya que cambiaron la verdad de Dios por la mentira,…”* Estos pecadores inmorales querían a Dios fuera de sus vidas. Ellos escogieron creer una **mentira** en lugar de la verdad. Romanos 8:13, Santiago 1:15
+#### Romanos 1:25b – “*…honrando y dando culto a las criaturas antes que al Creador,…”* En lugar de dar **alabanza** al Creador, ellos adoraron los seres que Él creó.
+#### Romanos 1:25c – “…*al **Creador**, el cual es bendito por los siglos. Amén*.” Sus acciones insultaron al Dios verdadero, quien solo merece toda la alabanza y admiración para siempre. 
+#### Romanos 1:26a – “*Por esto Dios los entregó a pasiones vergonzosas;…”* Cuando las personas decidieron a propósito creer una mentira en lugar de la verdad y se rehusaron a reconocer la autoridad de Dios como Creador, Dios les **permitió** hacer las cosas vergonzosas que querían hacer.
+##### Romanos 1:26b – “…*pues aun sus mujeres cambiaron el uso natural por el que es contra naturaleza*,” El sexo dentro del matrimonio es *natural* porque fue **diseñado** por Dios. Dios etiqueta la prostitución y otros pecados sexuales como *contra naturaleza*. Hebreos 13:4
+##### Romanos 1:27 – “*y de igual modo también los hombres, dejando el uso natural de la mujer, se encendieron en su lascivia unos con otros, cometiendo hechos vergonzosos hombres con hombres, y recibiendo en sí mismos la retribución debida a su **extravío***.” 
+###### Dios llamó inmoral a estas desviaciones **sexuales** y dejó preparar su propia destrucción a aquellos que cometían estos actos vergonzosos y antinaturales. 
+###### Cuando el pecado sigue su curso, siempre acarrea **muerte** para el pecador. Santiago 1:15
+### Romanos 1:28 – Dios tiene razón cuando condena a los pecadores inmorales porque **ignoran** totalmente a Dios.
+#### Romanos 1:28a – “*Y como ellos no aprobaron tener en cuenta a Dios, Dios los entregó a una mente reprobada,*…” Cuando los pecadores inmorales abandonaban el **verdadero** conocimiento de Dios, se deterioraban intelectualmente. 
+#### Romanos 1:28b – “*…para hacer cosas que no **convienen***;” En la decadencia de sus mentes depravadas, terminaron pecando en formas inapropiadas para cualquier tipo de sociedad. Efesios 4:17-19
+### Romanos 1:29-31 – Dios está en lo correcto cuando condena a los pecadores inmorales porque al final, su pecado no conoce **límites**. Todo es visto como permisible.
+#### Romanos 1:29 – Se **lastiman** y se destruyen los unos a los otros sin pensarlo dos veces. “*estando atestados de toda injusticia, fornicación, perversidad, avaricia, maldad; llenos de envidia, homicidios, contiendas, engaños y malignidades;”* [se convierten en murmuradores y detractores].
+#### Romanos 1:30-31 – Puesto que el pecado nunca está inactivo, el mal cava cada vez más **profundo**. Los pecadores inmorales se vuelven “*murmuradores, detractores, aborrecedores de Dios, injuriosos, soberbios* [lo que significa irrespetuosos y groseros]*, altivos, inventores de males, desobedientes a los padres, necios, desleales, sin afecto natural, implacables, sin misericordia*;”
+### Romanos 1:32 – Así que Dios está en lo **correcto** cuando condena a los pecadores inmorales porque incluso ante el juicio inminente, se atreven a desafiarlo. Romanos 1:18
+#### Romanos 1:32a – “*quienes habiendo entendido el juicio de Dios,…”* El pecador inmoral **conoce** instintivamente el estándar de Dios de lo correcto y lo incorrecto.
+#### Romanos 1:32b – “…*que los que practican tales cosas son dignos de muerte,…”* El pecador inmoral sabe muy bien que su rebelión merece la **muerte**.
+#### Romanos 1:32c – “…*no sólo las hacen,…”* El pecador inmoral no solo provoca a Dios a través de la rebelión personal, sino que osadamente va un **paso** más allá.
+#### Romanos 1:32d – “…*sino que también se complacen con los que las practican*.” Lamentablemente, el **pecador** inmoral incluso llega tan lejos como animar a otros a hacer las cosas que él o ella sabe que merecen la muerte.
+## **Romanos 2:1-16 – El juicio de Dios del pecador moral**
+### Romanos 2:1-3 – La **opinión** de Dios acerca de los pecadores morales
+#### Romanos 2:1 – Pablo demostró que los individuos morales que desvergonzadamente **juzgan** a los “pecadores inmorales” también son culpables.
+##### Romanos 2:1a – “*Por lo cual eres inexcusable, oh hombre, quienquiera que seas tú que juzgas*;…” Los pecadores morales que **pronuncian** juicio sobre otros son inexcusables.
+##### Romanos 2:1b – “…*pues en lo que juzgas a otro, te condenas a ti mismo; porque tú que juzgas haces lo mismo*.” Los pecadores morales se condenan a sí mismos, porque hacen las **mismas** cosas que los que ellos critican.
+#### Romanos 2:2-3 – El juicio de Dios sobre los pecadores morales es **correcto**.
+##### Romanos 2:2 – “*Y sabemos que el juicio de Dios justamente **cae** sobre los que practican tales cosas*.” *[LBLA]* Aquellos que apuntan con el dedo a otros y, sin embargo, cometen pecados similares merecen justamente el juicio de Dios. 
+##### Romanos 2:3a – “*¿Y piensas esto, oh hombre, tú que juzgas a los que tal hacen,…?”* Los pecadores morales usan su propia ley para compararse con otros que piensan que son **peores** que ellos. Por supuesto, ellos siempre ganan la partida.
+##### Romanos 2:3b – “*…y haces lo mismo, que tú escaparás del juicio de Dios?”* De todas formas, los pecadores morales son inexcusables. Cuando juzgan a otros, ellos **prueban** que distinguen lo correcto de lo incorrecto; y, sin embargo, cometen los mismos pecados que hacen otros y que ellos condenan. Eclesiastés 12:14, Mateo 12:36 
+### Romanos 2:4-6 – La **misericordia** de Dios sobre los pecadores morales 
+#### Romanos 2:4a – “*¿O menosprecias las riquezas de su benignidad, paciencia y longanimidad,…?”* Sólo porque Dios es **paciente** con los pecadores morales no significa que Él apruebe lo que están haciendo.
+#### Romanos 2:4b – “…*ignorando que su benignidad te guía al arrepentimiento?”* Dios es tolerante con los pecadores morales porque Él quiere que cambien de **pensamiento** y confíen en Su bondad en lugar de confiar en la suya propia.
+#### Romanos 2:5a – “*Pero por tu dureza y por tu corazón no arrepentido, atesoras para ti mismo ira…”* Los pecadores morales serán juzgados por su **orgullo**, porque rechazan tercamente la bondad de Dios y se niegan a cambiar de opinión cuando Él los convence de su pecado.
+#### Romanos 2:5b – “*…para el día de la ira y de la revelación del justo juicio de Dios*,” En el Día del Juicio, Dios dará un **veredicto** preciso sobre las acciones de todo pecador moral.
+#### Romanos 2:6 – “*el cual pagará a cada uno conforme a sus obras*:” Como **juez** perfecto y confiable, Dios le dará a cada persona exactamente lo que se merece, nada más y nada menos.
+### Romanos 2:7-11 – La **imparcialidad** de Dios con los pecadores morales
+#### Romanos 2:7-10 – El juicio de Dios no es **parcial**. Él juzgará a todos los pecadores justa y objetivamente, ya sea que hubiesen sido considerados morales o inmorales durante su vida en la tierra.
+##### Romanos 2:7 – “*vida eterna a los que, perseverando en bien hacer, buscan gloria y honra e inmortalidad*.” Dios, el Juez justo, **recompensará** con la vida eterna a todas y cada una de las personas que lo merezcan, porque continuamente hicieron lo que era bueno cada minuto de cada día de su vida entera. Romanos 2:10
+###### La pregunta es, ¿podemos encontrar a alguien en esta categoría que siempre sea bueno? ¿Puede alguien merecer la vida eterna por su propia obediencia? Romanos 3:10-12, 23
+###### Eclesiastés 7:20 dice, “*Ciertamente no hay hombre justo en la tierra, que haga el bien y **nunca** peque*.”
+###### Isaías 64:6 dice, “*Si bien todos nosotros somos como suciedad* [por nuestros pecados], *y todas nuestras justicias* [nuestros mejores esfuerzos] *como trapo de inmundicia.*” Este versículo revela un **problema** doble para toda la humanidad. Uno, todos hemos pecado; y dos, nuestros mejores esfuerzos son lastimosamente inadecuados.
+##### Romanos 2:8 – “*pero ira y enojo a los que son contenciosos y no obedecen a la verdad, sino que obedecen a la injusticia*;” Si bien es cierto que Dios **recompensaría** a todos los que hacen el bien con la vida eterna (versículo 7), es igualmente cierto que Dios castigará imparcialmente con ira y furia a todos los que pecan. Santiago 2:10
+##### Romanos 2:9 – “*tribulación y angustia sobre todo ser humano que hace lo malo, el judío primeramente y también el griego*,” Todos los que pecan serán juzgados. No importa quienes son, judíos o griego. Si han pecado, serán juzgados, y el pago por el pecado es **muerte** eterna en el Lago de Fuego. Esto hace necesaria la salvación de Dios. 
+##### Romanos 2:10 – “*pero gloria y honra y paz a todo el que hace lo bueno, al judío primeramente y también al griego*,” El apóstol Pablo repitió que si una persona persistía sin **fallar** en ser bueno todos los días de su vida, Dios el juez justo, recompensaría a tal persona con la vida eterna.
+#### Romanos 2:11 – “*Porque no hay acepción de personas para con Dios*.” Dios es un **juez** justo, imparcial y objetivo. Si alguien mereciera vida eterna por alcanzar la perfección de alguna manera, Dios sin vacilar les concedería vida eterna.
+### Romanos 2:12-16 – El juicio **perfecto** de Dios sobre los pecadores morales 
+#### Romanos 2:12 – Todo pecador debe enfrentar la pena por el pecado, la cual es la **muerte**. Romanos 6:23
+##### Romanos 2:12a – “*Porque todos los que sin ley han pecado, sin ley también perecerán;…”* Todo el que peca sin conocimiento de las leyes de Dios **perecerá**. Romanos 5:12-14, Santiago 1:15
+##### Romanos 2:12b – “…*y todos los que bajo la ley han pecado, por la ley serán juzgados*;” Toda persona que conoce las leyes de Dios y sin embargo las **quebranta**, será juzgada de acuerdo a la Ley de Dios y declarada culpable. 1 Corintios 15:56, Santiago 2:10
+#### Romanos 2:13 – El pecador moral puede tener todas las respuestas correctas, pero Dios juzga de acuerdo a las **acciones** de uno, no simplemente de acuerdo con las palabras de uno.
+##### Romanos 2:13a – “*Porque no son los oidores de la ley los justos ante Dios,*…” Algunos podrían pensar erróneamente que serán aceptados por Dios simplemente porque están familiarizados con la Ley del Antiguo Testamento o porque pueden hablar con conocimiento acerca de los Diez Mandamientos. Pero el conocimiento de la ley no **justifica** a una persona. 
+##### Romanos 2:13b – “…*sino los hacedores de la ley serán justificados*.” Para que un pecador moral sea declarado justo delante Dios por la Ley, él o ella necesitaría ser un perfecto **hacedor** de la Ley. 
+###### Para ganar la vida eterna por obras, una persona tendría que obedecer perfectamente las leyes de Dios en **cada** momento de su vida. La justicia de Dios no puede ser ignorada o anulada. Romanos 2:16, 3:19-20; Gálatas 5:4; Santiago 2:10
+###### Romanos 2:7 declara que si quieres **ganar** la vida eterna haciendo buenas obras, tienes que hacerlo “*perseverando en bien hacer”*. En otras palabras, tienes que obedecer continuamente toda la Ley a lo largo de toda tu vida. Esto es algo que ningún humano, excepto Jesucristo, ha logrado jamás. Eclesiastés 7:20
+#### Romanos 2:14-15 – En el Día del Juicio, Dios utilizará la conciencia humana como **testigo** contra los pecadores morales. Apocalipsis 20:11-15
+##### Romanos 2:14 – “*Porque cuando los gentiles que no tienen ley, hacen por naturaleza lo que es de la ley, éstos, aunque no tengan ley, son ley para sí mismos,*” Aquellos que no tienen los Diez Mandamientos serán juzgados basado en una comprensión natural del bien y el mal, que todas las personas en todas partes **poseen**.
+##### Romanos 2:15a – “*mostrando la obra de la ley escrita en sus corazones,*…” Cuando las personas que no tienen la Ley escrita, instintivamente hacen lo que la Ley de Dios dice, **prueban** que tienen la Ley escrita en sus corazones. Ellos no serán excusados basados en la ignorancia.
+##### Romanos 2:15b – “…*dando testimonio su conciencia, y acusándoles o defendiéndoles sus razonamientos*,” La conciencia de una persona es su **juez** constante. Dentro de la mente, la conciencia está siempre acusando o felicitando al individuo.
+#### Romanos 2:16 – En el futuro, en el Juicio del Gran Trono Blanco, usando la conciencia como testigo, Cristo revelará los **secretos** de la gente. “*en el día en que Dios juzgará por Jesucristo los secretos de los hombres, conforme a mi evangelio*.” Los pecadores morales serán condenados porque Dios es consciente de todos sus pensamientos y pecados secretos. 
+## **Romanos 2:17-29 – El juicio de Dios sobre el pecador religioso**
+### Romanos 2:17-20 – Los pecadores religiosos no son justificados ante Dios por su celo o su sinceridad religiosa. Pablo estaba calificado para dar este ejemplo, ya que había sido un distinguido **líder** religioso en la religión judía. Filipenses 3:4-9
+#### Romanos 2:17a – “*He aquí, tú tienes el sobrenombre de judío,…”* Para dar vida a esta verdad, Pablo optó apropiadamente por destacar el judaísmo, su propia **religión** étnica. Se centró en aquellos que *tiene[n] el sobrenombre de judío*. 
+#### Romanos 2:17b – “…*y te apoyas en la ley,*…” Los pecadores religiosos en el judaísmo se apoyaban en la **Ley** del Antiguo Testamento para obtener justicia
+#### Romanos 2:17c – “…*y te glorías en Dios,”* Se **enorgullecían** de tener al Dios verdadero como su deidad nacional o étnica.
+#### Romanos 2:18a – “*y conoces su voluntad,…”* Estos pecadores religiosos afirmaban saber cómo **agradar** a Dios. Se enorgullecían de saber lo que uno debe y no debe hacer para honrar a Dios.
+#### Romanos 2:18b – “…*e instruido por la ley…”* En este caso, estos pecadores religiosos tenían confianza en sí mismos porque tenían la misma Ley de Dios, la **norma** más precisa de todas.
+#### Romanos 2:18c – “…*apruebas lo mejor,”* Las personas religiosas siempre aseguran **saber** lo que una persona debe hacer para ser aceptable ante Dios.
+#### Romanos 2:19-20 – Los pecadores religiosos están convencidos de que ellos son expertos con respecto a cosas espirituales. Parafraseando, Pablo dijo de estos practicantes religiosos judíos, “Tú … *confías en que eres* un **regalo** de Dios a la humanidad.”
+##### Romanos 2:19a – “…*guía de los ciegos,*…” Las personas religiosas se ven a sí mismas sin rival en la **guía** de almas pobres y sin discernimiento a Dios.
+##### Romanos 2:19b – “…*luz de los que están en tinieblas*,” Puesto que están seguros de que **poseen** la verdad, quieren iluminar el camino para los no informados.
+##### Romanos 2:20a – “*instructor de los indoctos,*…” Las personas religiosas se sienten **calificadas** para determinar qué está bien y qué está mal para las masas ignorantes.
+##### Romanos 2:20b – “…*maestro de niños,*…” Suponiendo de que ellos son la élite **madura** y privilegiada, las personas religiosas hacen de la capacitación de bebés espirituales su prioridad.
+##### Romanos 2:20c – “…*que tienes en la ley la forma de la ciencia y de la verdad*.” Armados con una gran abundancia de verdad bíblica, estos **elitistas** religiosos se vuelven auto engañados y arrogantes.
+### Romanos 2:21-23 – ¿Cuál es la evaluación de Dios de los pecadores religiosos?
+#### Romanos 2:21a – “*Tú, pues, que enseñas a otro, ¿no te enseñas a ti mismo?...”* Los pecadores religiosos presumen ser espiritualmente responsables del destino eterno de otros (los ciegos, los ensombrecidos, los necios y los inmaduros) mientras ignoran sus propias deficiencias espirituales y su condición **perdida**.
+##### Dios le pregunta al pecador religioso si practica lo que **predica**.
+##### Pablo desafió a los pecadores religiosos a que se examinaran a sí mismos de forma personal y cercana, y que aplicaran las leyes de Dios **primeramente** a ellos mismos. 1 Timoteo 1:8-11
+#### Romanos 2:21b – “…*Tú que predicas que no se ha de hurtar, ¿hurtas?”* Pablo alentó a los pecadores religiosos, quienes insistían en que era incorrecto robar, a que se **observaran** a sí mismos con honestidad. ¿Habían sido alguna vez culpables de robo?
+#### Romanos 2:22a – “*Tú que dices que no se ha de adulterar, ¿adulteras?...”* Prácticamente todas las personas religiosas dicen que está **mal** cometer adulterio, así que Pablo los puso en la mira al preguntarles directamente si alguna vez habían cometido adulterio.
+##### En Mateo 5:28 Jesús confrontó este mismo problema cuando dijo, *“Pero yo os digo que cualquiera que mira a una mujer para **codiciarla**, ya adulteró con ella en su corazón.”*
+##### ¿Han vivido los pecadores religiosos su vida entera sin jamás haber mirado con lujuria a otra persona? Pablo quería **demostrar** a los pecadores religiosos que ellos eran tan culpables como aquellos a quienes intentaban corregir y convertir.
+#### Romanos 2:22b – “…*Tú que abominas de los ídolos, ¿cometes **sacrilegio**?”* Pablo señaló la hipocresía de estos pecadores religiosos.
+##### Una práctica común, que se remonta a los días del Imperio griego, era aquella de **saquear** templos, ya que muchos templos albergaban grandes tesoros. Muchos judíos religiosos razonaron que dado que los dioses extraños no eran realmente reales, era totalmente aceptable saquear sus templos.
+##### Estaban orgullosos porque no adoraban ídolos, pero al mismo tiempo, estaban robando. Guardaban una ley y **quebrantaban** otra.
+#### Romanos 2:23 – “*Tú que te jactas de la ley, ¿con infracción de la ley deshonras a Dios?”* Estos pecadores religiosos trajeron deshonra a Dios por su hipocresía. Por un lado, afirmaban que estaba mal adorar **ídolos**, pero por el otro justificaban su práctica de robo. 
+##### Cuando las personas religiosas se **jactan** de su conocimiento de la Biblia pero fallan en vivir de acuerdo con lo que la Biblia dice, deshonran a Dios.
+##### Las acciones de los pecadores religiosos **anulan** sus palabras, causando que las personas rechacen al Dios de la Biblia.
+### Romanos 2:24-29 – La reprensión de Pablo a los pecadores religiosos
+#### Romanos 2:24 – “*Porque como está escrito, el nombre de Dios es blasfemado entre los gentiles por causa de vosotros.”* La hipocresía de los pecadores religiosos judíos convirtió el nombre de Dios en una palabra de **maldición** cotidiana.
+#### Romanos 2:25-27 – Pablo demostró cómo la hipocresía de los devotos religiosos judíos invalidó el **ritual** de la circuncisión. Los pecadores religiosos frecuentemente destruyen el verdadero significado de los rituales legítimos.
+##### Romanos 2:25a – “*Pues en verdad la circuncisión aprovecha, si guardas la ley;*…” La circuncisión era un ritual que identificaba a un hombre como judío, uno de los del pueblo **elegido** por Dios. Pero Pablo dijo que la circuncisión solo era valiosa si la persona cumplía la Ley en su totalidad.
+##### Romanos 2:25b – “*...pero si eres transgresor de la ley, tu circuncisión viene a ser incircuncisión*.” Si un varón circuncidado no se preocupaba por Dios o seguía Su Ley, su circuncisión no significaba **nada**. Bien podría no ser circuncidado. Romanos 9:6-8, Jeremías 9:24-25
+##### Romanos 2:26 – Lo contrario también era cierto. *“Si, pues, el incircunciso guardare las ordenanzas de la ley, ¿no será tenida su incircuncisión como circuncisión?”* Si un gentil incircuncidado obedecía la ley de Dios, la gente naturalmente lo **consideraría** como circuncidado.
+##### Romanos 2:27 – “*Y el que físicamente es incircunciso, pero guarda perfectamente la ley, te condenará a ti, que con la letra de la ley y con la circuncisión eres transgresor de la ley*.” Si un gentil guardaba la Ley, sería un **testigo** válido contra el judío circuncidado que no la guardaba.
+#### Romanos 2:28-29 – Un ritual externo como la circuncisión, el bautismo o la comunión puede hacerte un judío, un protestante o un católico (etc.) de nombre, pero no te transformará en el **interior**. 1 Samuel 16:7
+##### Romanos 2:28 – De hecho, Pablo dijo, *“Pues no es judío el que lo es exteriormente, ni es la circuncisión la que se hace exteriormente en la carne*.” Un ritual externo, como la circuncisión, no produce un **cambio** interno o espiritual.
+##### Romanos 2:29a – “*Sino que es judío el que lo es en lo interior, y la circuncisión es la del corazón, en espíritu, no en letra;…”* Solo la *circuncisión* *del corazón*, [hecha] por el *Espíritu* en la salvación tiene **poder** transformador. Deuteronomio 30:6, Jeremías 4:4, Filipenses 3:3, Tito 3:5
+##### Romanos 2:29b – “…*la alabanza del cual no viene de los hombres, sino de Dios*.” Solo la persona nacida de nuevo que ha recibido cirugía espiritual en su corazón por medio del Espíritu Santo trae **honor** a Dios. Efesios 1:13-14
+## **Romanos 3:1-8 – Pablo anticipó preguntas concernientes a los pecadores religiosos**
+### Romanos 3:1-2 – Pablo anticipó la primera pregunta, que concernía a Israel. Puesto que Pablo utilizó a su propia gente como un ejemplo negativo de los pecadores religiosos, alguien podría preguntar, “¿Qué de bueno hay en ser **judío** entonces?”
+#### Romanos 3:1 – “*¿Qué ventaja tiene, pues, el judío? ¿O de qué aprovecha la circuncisión?”* ¿Había algún beneficio en ser un israelita? La respuesta de Pablo fue **sí**.
+#### Romanos 3:2 – “*Mucho, en todas maneras. Primero, ciertamente, que les ha sido confiada la palabra de Dios*.” La principal ventaja que el judío tenía, a diferencia del gentil, era la posesión de las Escrituras del Antiguo Testamento. El Antiguo Testamento preparó misericordiosamente a Israel para confiar en Jesús el **Mesías**. Juan 5:39, 46; Gálatas 3:24
+### Romanos 3:3-4 – Una segunda pregunta concerniente a los pecadores religiosos que Pablo anticipó fue esta: “Si los pecadores religiosos son hipócritas, ¿Hacen a Dios un **mentiroso**?” Cuando las personas religiosas son hipócritas, ¿Invalidan a Dios?
+#### Romanos 3:3 – “*¿Pues qué, si algunos de ellos han sido incrédulos? ¿Su incredulidad habrá hecho nula la fidelidad de Dios?”* Si una persona religiosa posee la verdad bíblica pero no la **cree** o no la maneja correctamente, ¿Elimina eso de alguna manera la fidelidad de Dios? Por supuesto, la respuesta es no.
+#### Romanos 3:4a – *“De ninguna manera;…”* Cuando los pecadores religiosos demuestran que no creen en el Dios que predican, esto genera **dudas** con respecto a la confiabilidad de Dios, pero Pablo enfatizó que Dios nunca es el culpable.
+#### Romanos 3:4b – *“…antes bien sea Dios veraz, y todo hombre mentiroso;…”* A pesar de la hipocresía de los pecadores religiosos, Dios siempre dice la **verdad**. Dios siempre es justo y es bueno, incluso cuando aquellos que dicen seguirlo no caminan de acuerdo a Su verdad. Salmos 116:11, Romanos 2:21-24
+#### Romanos 3:4c – “…*como está escrito: Para que seas justificado en tus palabras, Y venzas cuando fueres juzgado.”* Esta cita del Antiguo Testamento confirma que cada vez que la integridad de Dios sea cuestionada, Dios siempre tendrá la **razón**.
+### Romanos 3:5-8 – Una tercera pregunta podría ser, “¿Va Dios demasiado lejos cuando condena a los pecadores religiosos?”
+#### Romanos 3:5 – “*Y si nuestra injusticia hace resaltar la justicia de Dios, ¿qué diremos? ¿Será injusto Dios que da castigo? (Hablo como hombre.)”* Una persona religiosa podría concluir: “Estoy ayudando a Dios cuando peco, porque mis errores magnifican la **bondad** de Dios”.
+##### Cuando la convicción es profunda, las personas religiosas **defienden** sus fallas con excusas baratas y ridículas. Génesis 3:12
+##### ¿Cómo deberíamos responder si alguien **afirma** que su conducta pecaminosa es buena, ya que eleva la justicia de Dios?
+#### Romanos 3:6a – Una vez más, la respuesta de Pablo fue: “*En ninguna manera;…*”. Nuestros actos pecaminosos no promueven el nombre de Dios ni Sus objetivos. Nuestro pecado nunca **beneficia** a Dios ni Dios jamás condona el pecado.
+#### Romanos 3:6b – *“…de otro modo, ¿cómo juzgaría Dios al mundo?”* Si en ocasiones Dios excusara el pecado porque de alguna manera lo beneficiara a Él, Él no sería un **juez** objetivo y justo.
+#### Romanos 3:7 – Los pecadores religiosos siempre buscan formas de **excusarse** a sí mismos. “*Pero si por mi mentira la verdad de Dios abundó para su gloria, ¿por qué aún soy juzgado como pecador?*”
+##### Esta pregunta **necia** es, “¿Cómo puede Dios juzgarme por ser un pecador si mi pecado de alguna manera lo beneficia a Él?” Pablo no se tomó el tiempo para responder esta pregunta.
+##### Al rehusarse a responder, Pablo expuso la locura de pensar que una mentira pudiera **beneficiar** a Dios. Proverbios 26:4-5
+#### Romanos 3:8a – Si Pablo enseñaba que Dios excusaba el pecado por alguna razón, él habría sido **culpable** de enseñar anarquía. Pablo no excusó ningún tipo de ilegalidad, aunque algunos lo acusaron de hacerlo. “*¿Y por qué no decir (como se nos calumnia, y como algunos afirman que nosotros decimos): Hagamos el mal para que venga el bien?”* [LBLA]* 
+#### Romanos 3:8b – Pablo dijo que aquellos que lo acusaban de promover el pecado **merecían** el juicio que seguramente iban a obtener. “…*La condenación de los tales es justa.”* [LBLA]
+##### ¿Por qué habría sido Pablo acusado de promover la anarquía? Cuando un creyente predica la salvación por gracia solamente, sin ningún tipo de obras, los legalistas religiosos pueden fácilmente **acusarlo** de excusar e incluso promover el pecado.
+##### Si los legalistas religiosos no te acusan de esta manera, probablemente necesites verificar para ver si realmente estás enseñando la **gracia**.
+## **Romanos 3:9-20 – En conclusión: Todo el mundo es culpable de pecado.**
+### Romanos 3:9 – Pablo concluyó que todas las **personas**, morales, inmorales y religiosas, son pecadores culpables. “*¿Qué, pues? ¿Somos nosotros* [judíos étnicos] *mejores que ellos* [paganos Gentiles] *En ninguna manera; pues ya hemos acusado a judíos y a gentiles, que todos están bajo pecado.”* Gálatas 3:22
+#### ¿Con qué autoridad hizo Pablo tan poderoso veredicto?
+#### Veremos que Pablo confió exclusivamente en la **Palabra** de Dios para defender su caso.
+### Romanos 3:10-18 – Pablo acusó a toda la humanidad de **pecado**, ya sea moral, inmoral o religiosa. Las acusaciones de Pablo se centraron en tres áreas: la naturaleza de la humanidad, el discurso de la humanidad y la conducta de la humanidad. 
+#### Romanos 3:10-12 – El primer conjunto de acusaciones de Pablo se centró en la **naturaleza** corrupta de la humanidad. Según la Palabra de Dios, la naturaleza carnal de la humanidad es totalmente depravada. Efesios 2:1-3
+##### Romanos 3:10 – Nadie en toda la creación tiene la **aprobación** de Dios. “*Como está escrito: No hay justo, ni aun uno*;” Salmos 14:1
+##### Romanos 3:11a – Nadie comprende o entiende realmente la **verdad** de Dios. “*No hay quien entienda,*…” Salmos 53:2a
+##### Romanos 3:11b – Nadie **busca** a Dios o desea conocerlo. “…*No hay quien busque a Dios*.” Salmos 53:2b, Juan 6:44
+##### Romanos 3:12a – Todo ser humano ha rechazado a Dios y se ha vuelto **inútil**. *“Todos se desviaron, a una se hicieron inútiles;…”* Salmos 53:3a
+##### Romanos 3:12b – Nunca ha habido una sola persona que haya hecho lo que es **correcto**. *“…No hay quien haga lo bueno, no hay ni siquiera uno.”* Salmo 53:3b
+#### Romanos 3:13-14 – El segundo conjunto de acusaciones de Pablo se centró en lo ofensivo de la **comunicación** verbal de la humanidad. La Biblia muestra que el discurso de la humanidad es totalmente corrupto y destructivo.
+##### Romanos 3:13a – La fosa de la cual brota el discurso de la humanidad es tan fétido como una **tumba** abierta. “*Sepulcro abierto es su garganta;*…” Salmos 5:9a
+##### Romanos 3:13b – La lengua de la humanidad dice continuamente **mentiras**. “…*Con su lengua engañan.*…” Salmos 5:9b
+##### Romanos 3:13c – Los **labios** de la humanidad, el instrumento que expresa sus pensamientos, esconden el veneno de una serpiente mortal. “…*Veneno de áspides hay debajo de sus labios*;” Salmos 140:3
+##### Romanos 3:14 – La boca de la humanidad **arroja** profanidades. “*Su boca está llena de maldición y de amargura.”* Salmos 10:7
+#### Romanos 3:15-18 – El tercer conjunto de acusaciones de Pablo se centró en las **acciones** de la humanidad. Utilizando las Escrituras, Pablo simplemente mostró cuán perversamente las personas actúan delante Dios.
+##### Romanos 3:15 – La humanidad se **apresura** a volverse violenta. “*Sus pies se apresuran para derramar sangre*;” Proverbios 6:18, Isaías 59:7a
+##### Romanos 3:16 – La humanidad deja un **rastro** de fatalidad y desesperación a donde quiera que va. “*Quebranto y desventura hay en sus caminos*;” Isaías 59:7b
+##### Romanos 3:17– La humanidad no sabe cómo **vivir** sin guerra. “*Y no conocieron camino de paz*.” Génesis 6:5-7, 11-12, 13; Isaías 59:8
+##### Romanos 3:18 – La humanidad no **respeta** a Dios. “*No hay temor de Dios delante de sus ojos*.” Salmos 36:1
+### Romanos 3:19-20 – Pablo resumió su apreciación de la humanidad. Él demostró que, de acuerdo con la Ley de Dios, judíos y gentiles igualmente son todos ***culpables** ante Dios*.
+#### Romanos 3:19a – “*Pero sabemos que todo lo que la ley dice, lo dice a los que están bajo la ley,…”* Antes que todo, la ley se aplicó a Israel. Estando bajo la **Ley**, experimentaron las consecuencias de su desobediencia de primera mano. Deuteronomio 28:15-68
+#### Romanos 3:19b – A pesar de que la Ley fue dada específicamente a Israel, se extendió a todas las personas de todas partes. Pablo dijo que la ley fue dada “…*para que **toda** boca se cierre…”* Dios dio la Ley para que todas las excusas fueran detenidas y la arrogancia del mundo fuera silenciada.
+#### Romanos 3:19c – La Ley **hace** que “…*todo el mundo quede bajo el juicio de Dios*;” Dios dio la Ley para que todos en la tierra se volvieran responsables de sus malas acciones.
+#####
+#### Romanos 3:20a – ”*ya que por las obras de la ley ningún ser humano será justificado delante de él;*…” El **propósito** de los Diez Mandamientos nunca fue hacer justas a las personas, ya que nadie es capaz de cumplir perfectamente la Ley. Hechos 13:39, Gálatas 2:16, Santiago 2:10
+#### Romanos 3:20b – “…*porque por medio de la ley es el conocimiento del pecado*.” El propósito de la Ley es **mostrar** la pecaminosidad de la humanidad. 1 Timoteo 1:8-11
+## **Hagamos un viaje por la Escuela del Derecho.**
+### Primero que nada, debemos responder la pregunta: “¿Es la Ley (los Diez Mandamientos) mala?”
+#### La ley es buena si es utilizada correctamente. La ley debe ser aplicada específicamente a aquellos que aún no son salvos. 1 Timoteo 1:8-9a dice, “*Pero sabemos que la ley es **buena**, **si uno la usa legítimamente**; conociendo esto, que la ley no fue dada para el justo, sino para los transgresores y desobedientes,…*”
+#### Romanos 7:7 dice, “*¿Qué diremos, pues? ¿La ley es pecado? En ninguna manera.*” Esto deja claro que la Ley no es **pecaminosa** ni defectuosa.
+#### Romanos 7:12 dice, “*De manera que la ley a la verdad es santa, y el mandamiento santo, justo y bueno.*” La Biblia confirma que la Ley es **perfecta**.
+### La Ley (los Diez Mandamientos) no fue dada para hacer lo siguiente:
+#### La Ley no fue dada para **salvar** a las personas de sus pecados. Romanos 8:3 dice, “*Porque lo que era imposible para la ley, por cuanto era débil por la carne, Dios, enviando a su Hijo en semejanza de carne de pecado y a causa del pecado, condenó al pecado en la carne*.” Santiago 2:10
+#### La Ley no fue dada para **hacer** a una persona justa ante Dios. Romanos 3:28 dice, “*Concluimos, pues, que el hombre es justificado por fe sin las obras de la ley*.” Romanos 3:20; Gálatas 3:11, 2:16; Hebreos 7:19
+#### La Ley no fue dada para impartir **vida**, ni eterna ni abundante. Gálatas 3:21b dice, “*Porque si la ley dada pudiera vivificar, la justicia fuera verdaderamente por la ley*.”
+#### La Ley no fue dada para liberar a los creyentes en Cristo del pecado o **santificarlos** en su vida cristiana. Romanos 6:14 dice, “*Porque el pecado no se enseñoreará de vosotros; pues no estáis bajo la ley, sino bajo la gracia.*” Gálatas 3:2, 5, 10; 5:18; Filipenses 3:9
+#### La Ley no fue dada para ser un manual para la **vida** cristiana. Dios dio Su Espíritu para guiar a los creyentes en Cristo a la piedad. Gálatas 5:18 dice “*Pero si sois guiados por el Espíritu, no estáis bajo la ley*.” 1 Timoteo 1:8-9a
+### Dios dio la Ley (los Diez Mandamientos) para **hacer** lo siguiente:
+#### La ley fue dada para **silenciar** toda defensa. Romanos 3:19a dice, “*Pero sabemos que todo lo que la ley dice, lo dice a los que están bajo la ley, para que toda boca se cierre*…”
+#### La **Ley** fue dada para hacer al mundo entero responsable de sus pecados ante Dios. Romanos 3:19 dice, “*Pero sabemos que todo lo que la ley dice, lo dice a los que están bajo la ley para que… todo el mundo quede bajo el juicio de Dios*;”
+#### La Ley fue dada para **inculpar** a las personas injustas de pecado. 1 Timoteo 1:8-9a dice, “*Pero sabemos que la ley es buena, si uno la usa legítimamente; conociendo esto, que la ley no fue dada para el justo, sino para los transgresores y desobedientes*,…” Romanos 3:20; 5:20; 7:7, 13b
+#### La Ley fue dada como un instructor para guiar a los no salvos a confiar solamente en **Cristo** para justificación. Gálatas 3:24-25 dice, “*De manera que la ley ha sido nuestro ayo, para llevarnos a Cristo, a fin de que fuésemos justificados por la fe. Pero venida la fe, ya no estamos bajo ayo*.”
+#### La Ley **mantiene** a los pecadores bajo custodia hasta el día en que depositan su fe en Cristo solamente. Gálatas 3:23 dice, “*Pero antes que viniese la fe, estábamos confinados bajo la ley, encerrados para aquella fe que iba a ser revelada*.”
+#### La Ley fue dada para revelar el carácter santo de Dios en contraste con nuestro estado **pecaminoso**. Fue diseñada para mostrar a la humanidad su necesidad de un Salvador mediador. Éxodo 34:6-7, 20:18-20
+#### La Ley también resalta las características justas del Mesías. Cristo ni una sola vez quebrantó la ley. Sólo **Cristo** cumplió todas las normas de justicia de la ley. Éxodo capítulos 12 y 25 al 30; Deuteronomio 18:15; Hebreos 7:26-28, 8:4-6, 9:11-14
+### Discutamos la aplicación de la **Ley** (o los Diez Mandamientos).
+#### La ley debe usarse con aquellos que todavía están en sus **pecados**. 1 Timoteo 1:9 dice, *“…conociendo esto, que la ley no fue dada para el justo, sino para los transgresores y desobedientes, para los impíos y pecadores, para los irreverentes y profanos, para los parricidas y matricidas, para los homicidas.*”
+#### **Jesús** aplicó la ley correctamente. Él usó la ley para mostrar a la gente que eran pecadores. Jesús aplicó intencionalmente la Ley a aquellos que se consideraban a sí mismos buenos, a fin de mostrarles su necesidad del Salvador. Lucas 18:18-23
+#### La correcta aplicación de la Ley va de la mano con la obra del Espíritu Santo, ya que Él **convence** al mundo de pecado, justicia y juicio. Juan 16:8 dice, “*Y cuando él venga [el Espíritu Santo], convencerá al mundo de pecado, de justicia y de juicio*.”
+### Es útil utilizar los Diez Mandamientos de Dios cuando se comparte el **Evangelio**. Cuando se usan apropiadamente, los Diez Mandamientos enseñan a los que no son salvos que no cumplen con los requerimientos justos de Dios y, por lo tanto, necesitan un Salvador. Éxodo 20:1-17; Romanos 3:23, 6:23; Santiago 2:10
+#### **Ley #1** – “*No tendrás dioses ajenos delante de mí”* (Ex. 20:3). El Dios de la Biblia es el único Dios vivo y verdadero. El hombre debe **honrarlo** sólo a Él. Isaías 42:8, Mateo 22:37
+#### **Ley** **#2** – “*No te harás imagen, ni ninguna semejanza de lo que esté arriba en el cielo, ni abajo en la tierra, ni en las aguas debajo de la tierra. No te **inclinarás** a ellas, ni las honrarás; porque yo soy Jehová tu Dios, fuerte, celoso,…”* (Éxodos 20:4-5a).
+##### Dios prohíbe la fabricación de cualquier **objeto** con la intención de adorarlo o inclinarse ante él. Jeremías 10:3-4
+##### Quemar velas delante de un ídolo o **rezarle** a un ídolo o un ícono es desobedecer este mandamiento. Salmos 135:15-18
+#### **Ley** **#3** – “*No tomarás el nombre de Jehová tu Dios en **vano**; porque no dará por inocente Jehová al que tomare su nombre en vano*” (Éxodos 20:7).
+##### Dios y Su **nombre** deben ser respetados. El nombre de Dios nunca debe ser utilizado de manera descuidada o irrespetuosa.
+##### Usar el nombre de Dios como una palabra de maldición o un **signo** de exclamación verbal es quebrantar esta ley. 
+#### **Ley** **#4** – “*Acuérdate del día de reposo para santificarlo. Seis días trabajarás, y harás toda tu obra; mas el séptimo día ...no hagas en él obra alguna...Porque en seis días hizo Jehová los cielos y la tierra, el mar, y todas las cosas que en ellos hay, y **reposó** en el séptimo día, ...Jehová bendijo el día de reposo y lo santificó”* (Éxodos 20:8-11). 
+##### Dios ordenó a los israelitas recordar siempre el **día** en que Él descansó de su obra de creación como un recordatorio de que Él era su Creador y ellos Sus criaturas. Génesis 2:1-3
+##### Eclesiastés 12:1 te recuerda acordarte *de tu Creador*. Creer en la evolución **quebranta** este cuarto mandamiento porque niega el relato de la creación de Dios.
+#### **Ley** **#5** – “***Honra** a tu padre y tu madre,…”* (Éxodo 20:12a).
+##### Dios ordena a todos los hijos a honrar a sus **padres**. Efesios 6:1-3
+##### Como hijo, **desobedecer** a un padre es deshonrarlo. Colosenses 3:20
+#### **Ley** **#6** – “*No **matarás***” (Éxodo 20:13).
+##### Dios ha **dado** vida a toda la humanidad. Solo Dios tiene el derecho de decidir dónde y cuándo terminará una vida. 
+##### En Mateo 5:21-22, Jesús amplió la interpretación de esta ley para incluir la malicia y el odio. De acuerdo con Dios, el **odio** es tan vil como el asesinato. Santiago 4:2; 1 Juan 2:9-11, 3:15
+##### A pesar de que Dios les da a los gobiernos el derecho legal de **ejecutar** criminales (Gn. 9:5-6), Dios prohíbe matar vidas inocentes. Tristemente, algunos gobiernos exceden su autoridad dada por Dios al perseguir y matar al inocente.
+##### Debemos ver una distinción importante entre matar una vida inocente y matar en defensa propia. Aunque Dios prohíbe estrictamente el **asesinato**, Él no prohíbe la auto defensa ni la protección de nuestras familias, vecinos o el inocente. 
+#### **Ley** **#7** – “*No cometerás **adulterio***” (Éxodos 20:14).
+##### Dios ordena que toda la humanidad se **abstenga** del adulterio, la fornicación y cualquier otro tipo de pecado sexual. Levítico 18:20
+##### Dios declara que el matrimonio es el único lugar legítimo para el sexo. El sexo **fuera** del matrimonio está estrictamente prohibido. Hebreos 13:4
+##### En Mateo 5:27-28, Jesucristo expandió esta ley para incluir la **lujuria**, que incluiría la pornografía, etc. Proverbios 6:29
+#### **Ley** **#8** – “*No **hurtarás***”(Ex. 20:15).* Maltratar a otra persona al robarle infringe esta ley. Robar el tiempo a un empleador, robar las respuestas de un examen o quitarle la propiedad intelectual a alguien son formas en que esta ley a menudo es infringida. Romanos 13:9
+#### **Ley** **#9** – “*No hablarás contra tu prójimo **falso** testimonio*” (Éxodos 20:16).
+##### Está mal decir una **mentira**. Mentir sobre alguien o difundir chismes hirientes es quebrantar este mandamiento. Proverbios 19:5
+##### La Biblia enseña que **Satanás** es un mentiroso. Cualquiera que dice mentiras está siguiendo sus caminos. Juan 8:44, Apocalipsis 21:8
+#### **Ley** **#10** – “*No **codiciarás**…* *cosa alguna de tu prójimo”* (Ex. 20:17). Desear lo que le pertenece a otra persona es pecado. Dios quiere que estés contento con lo que tienes. Proverbios 27:20, Hebreos 13:5
+# **Romanos 3:21-5:11 – Justificación: Declarado Legalmente Justo delante de Dios**
+## **Romanos 3:21-31 – Pablo explicó cómo Dios justifica a los pecadores**
+### Romanos 3:21 – La justificación es otorgada aparte del **mérito** personal.
+#### Romanos 3:21a – “*Pero ahora…”* Después de probar que todas las personas son pecadores culpables, Pablo procedió a dar **esperanza** a los desesperanzados.
+#### Romanos 3:21b – “*…aparte de la ley, se ha manifestado la justicia de Dios,…”* Dios ha revelado una **manera** de declarar a personas indignas e impías, legalmente justas ante Sus ojos, completamente aparte de la Ley. Esto es llamado justificación.
+##### Dios declara que gente indigna es legalmente justa a Sus ojos, totalmente aparte de sus **buenas** obras.
+##### Dios justifica a los pecadores **aparte** de que ellos hagan cualquier cosa para merecerlo.
+#### Romanos 3:21c – “…*testificada por la ley y por los profetas;*” El Antiguo Testamento (la Ley y los Profetas) predijo y confirmó que en el futuro, a personas indignas les sería otorgada una forma de ser declaradas **justas** ante Dios. En el capítulo 4 de Romanos, Pablo citó a dos testigos del Antiguo Testamento, Abraham y David, como prueba de este hecho.
+### Romanos 3:22-23 – La justificación es provista por medio de la **fe**.
+#### Romanos 3:22a – “*la justicia de Dios por medio de la fe en Jesucristo,*…” Dios, el Juez, justifica. Esto significa que aquellos que **confían** personalmente en Cristo son declarados legalmente justos. La justificación quiere decir ser declarado justo por Dios, ser contado irreprensible y sin mancha.
+#### Romanos 3:22b – “…*para todos los que creen en él. …”* Esta acción legal de declarar a una persona justa es hecha, sin excepción, para todo y cada pecador que **cree** en Cristo.
+#### Romanos 3:22c – “*…Porque no hay diferencia*,” Puesto que todas las personas son igualmente pecaminosas, toda persona en el mundo igualmente necesita que Dios la **declare** justa.
+#### Romanos 3:23a – ¿Qué cosa tienen en común todos los humanos? No son iguales en educación, riqueza o estatus social, pero son iguales en que “…*todos pecaron*,…” Ya que todos hemos pecado **igualmente**, todos igualmente necesitamos que Dios, el Juez del universo, nos declare afablemente justos ante Sus ojos.
+#### Romanos 3:23b – Del mismo modo, todos estamos *“…destituidos de la gloria de Dios*,…” Ninguna persona jamás, ha estado a la altura del perfecto **estándar** de justicia de Dios.
+### Romanos 3:24 – La justificación por la fe viene a través de la **gracia**. La gracia es un favor inmerecido.
+#### Romanos 3:24a – “*siendo justificados gratuitamente…”* Pablo declaró que la justificación es un **regalo** totalmente gratuito. Dios declara que todos los que creen en Cristo están legalmente bien con Él.
+#### Romanos 3:24b – *“…por su gracia,…”* La justificación nunca se basa en el mérito; sólo viene por gracia. Es gracias al **favor** amoroso y completamente inmerecido de Dios, que Él declara que todos los que creen en Cristo están legalmente bien con Él. 
+### Romanos 3:24 – La justificación por la fe es posible porque el **precio** de nuestra redención fue pagado en su totalidad.
+#### Romanos 3:24c – *“…mediante la redención que es en Cristo Jesús,”* Dios puede declararnos justos con Él porque el precio de nuestra redención fue **pagado** en su totalidad por Jesucristo, a través de Su muerte sacrificial sustitutiva en el Calvario.
+#### Romanos 3:24d – “*…la redención que es en Cristo Jesús,”* La redención habla del hecho de que, como parte esencial de nuestra justificación, necesitábamos ser adquiridos del mercado de **esclavos** del pecado. Éramos esclavos, sometidos al pecado, pero el sacrificio de Cristo proveyó el precio de compra para nuestra libertad.
+### Romanos 3:25 – La justificación por la fe viene a través de la propiciación. La propiciación es una ofrenda por el pecado que satisface plenamente la ira de Dios. Todas las exigencias justas de Dios para nuestra justificación fueron satisfechas en la **muerte** de Cristo.
+#### Romanos 3:25a – “*a quien Dios puso como propiciación por medio de la fe en su sangre,*…” La Escritura dice que *el alma que pecare, esa **morirá***. Ezequiel 18:4
+##### La muerte de Cristo en la cruz fue una validación **pública** de que la pena de muerte requerida por el pecado fue pagada en su totalidad por todas las personas, una vez por todas. Juan 19:30, Romanos 6:10, Hebreos 9:25-29
+##### Era importante para Cristo ser oficialmente ejecutado (crucificado) a través de un proceso legal a la **vista** clara de muchos testigos, para que cuando Dios ahora declare a alguien justo, Su justicia no sea cuestionada.
+##### La **ira** de Dios hacia la humanidad pecadora fue apaciguada (propiciada) cuando el inocente Señor Jesús murió en la cruz en lugar de todos los pecadores. 2 Corintios 5:21, 1 Juan 2:2
+#### Romanos 3:25b – “…*para manifestar su justicia, a causa de haber pasado por alto, en su paciencia, los pecados pasados*,” Nuestra justificación ahora se basa en el hecho de que las demandas de Dios fueron **completamente** satisfechas a través de la muerte sacrificial de Cristo en nuestro lugar. Romanos 4:25, Hebreos 9:28
+##### La ejecución pública de Jesús explicó la paciencia de Dios para no destruir a toda la humanidad por sus pecados, desde **Adán** hasta la cruz. Hechos 17:30-31, Hebreos 9:15
+##### En su infinita precognición, Dios **sabía** que un día Cristo proveería un sacrificio pacificador. Génesis 3:15, 1 Pedro 1:19-20, Apocalipsis 13:8
+### Romanos 3:26 – La justificación por fe viene por un medio perfectamente **legal**.
+#### Romanos 3:26a – “*con la mira de manifestar en este tiempo su justicia, a fin de que él sea el justo,…”* La ejecución pública de Jesús es una prueba de que Dios es justo cuando ahora declara que los pecadores son justos y los libera de la pena de muerte. La **pena** de muerte por el pecado exigida por la Ley fue pagada en su totalidad por Jesucristo.
+#### Romanos 3:26b – “…*y el que justifica al que es de la fe de Jesús*.” La muerte sustitutiva de Cristo le permite a Dios justificar a cada individuo pecador que **confía** en Cristo. La justificación libera al pecador de sufrir la muerte eterna. Hebreos 9:12-14
+### Romanos 3:27 – La justificación por la fe quita todo **orgullo**.
+#### Romanos 3:27a – “*¿Dónde, pues, está la jactancia? Queda excluida.”* Puesto que Cristo hizo toda la obra para nuestra justificación, no tenemos nada de qué **alardear**. Gálatas 6:14, Efesios 2:9
+#### Romanos 3:27b – “… *¿Por cuál ley? ¿Por la de las obras?* No,…” Un principio de **obras** solo fomentaría la arrogancia. Nuestras obras no nos justifican.
+#### Romanos 3:27c – “…*No, sino por la ley de la fe*. Toda jactancia es eliminada por un principio de fe.” Dado que la fe es la cúspide de las cosas no basadas en las obras, nadie puede **jactarse** de haber hecho ninguna contribución a su justificación. Romanos 4:5
+### Romanos 3:28 – La justificación por fe es independiente de la **Ley**. La justificación por fe anula la justificación por medio de la ley.
+#### Romanos 3:28a – Pablo dijo, “***Concluimos**, pues, que el hombre es justificado por fe…*” ¿Sostienes tú de la misma manera la verdad de que la justificación es solamente por la fe sola en Cristo?
+#### Romanos 3:28b – Pablo añadió, “*Concluimos, pues, que el hombre es justificado…* *sin las obras de la ley*.” Pablo sostenía firmemente la posición de que una persona está justificada independientemente, y claramente aparte, de **hacer** las buenas obras encontradas en el cumplimiento de la ley. ¿Sostienes del mismo modo firmemente esta verdad? Gálatas 2:16
+### Romanos 3:29-30 – La justificación por fe es la **misma** para todas las personas. Dios no tiene favoritos. Judíos y no judíos por igual son todos declarados justos con Dios de la misma manera.
+#### Romanos 3:29 – “*¿Es Dios solamente Dios de los judíos? ¿No es también Dios de los gentiles? Ciertamente, también de los gentiles*.” Ya que los humanos, judíos y gentiles por igual, todos tienen el mismo **Dios** verdadero, todos debemos ser declarados justos con Él de la misma manera.
+#### Romanos 3:30 – “*Porque Dios es uno, y él justificará por la fe a los de la circuncisión, y por medio de la fe a los de la incircuncisión*.” Si cualquiera, un judío o un gentil **cree** en Cristo, él o ella son instantáneamente declarados justos por el mismo Dios verdadero.
+### Romanos 3:31 – La justificación por fe no quita autoridad a la **Ley**. 
+#### Romanos 3:31a – “*¿Luego por la fe invalidamos la ley?...”* En otras palabras, si somos hechos justos para con Dios por la fe, suena como que estuviéramos diciendo que la Ley es inútil. Pero Pablo dijo, “…*En **ninguna** manera,…*” La justificación por fe no invalida la Ley.
+#### Romanos 3:31b – *Sino que confirmamos la ley*. Cuando enseñamos la justificación por fe en la muerte sustitutiva de Cristo, en realidad confirmamos la autoridad de la Ley, ya que estamos de acuerdo con la Ley de que la paga por el pecado es la **muerte**. Romanos 6:23
+## **Romanos 4:1-25 – Ejemplos del Antiguo Testamento de la justificación por la fe**
+### Romanos 4:1-5 – Abraham fue declarado justo **delante** Dios por fe, sin obras.
+#### Romanos 4:1 – “*¿Qué, pues, diremos que halló Abraham, nuestro padre según la carne?”* Pablo demostrará que Abraham descubrió que un hombre es declarado justo con Dios por la fe, aparte de cualquier tipo de buenas **obras**.
+##### A fin de explicar esto, Pablo primero mostró la diferencia entre la justificación de Abraham ante los **hombres** y su justificación delante Dios.
+###### La justificación ante los hombres no tiene ningún **valor** salvador, y en realidad abre la puerta a la jactancia.
+###### La justificación delante Dios no tiene nada que ver con las obras, y por lo tanto cierra la puerta a todo **orgullo**.
+##### En el versículo dos, Pablo **aclaró** la diferencia entre ser justificado por las obras y ser justificado por la fe.
+#### Romanos 4:2a – “*Porque si Abraham fue justificado por las obras, tiene de qué gloriarse,…”* Ya que esta declaración de “si” es una condición de primera clase en el griego bíblico, podría ser traducido: “Puesto que Abraham fue justificado por las obras, y asumamos que fue, él tenía algo de qué **jactarse**”.
+##### **Santiago** estuvo de acuerdo en que Abraham en efecto fue justificado por las obras. “*¿No fue justificado por las obras Abraham nuestro padre, cuando ofreció a su hijo Isaac sobre el altar?*” Santiago 2:21
+##### ¿Cómo podemos entender esta afirmación que parece contradecir lo que Pablo acaba de enseñar en Romanos 3:21-31, donde claramente comunicó que somos justificados por **fe** a través de la gracia y no por ningún tipo de obras?
+##### Necesitamos entender la gran diferencia entre ser justificado por las obras, ante los hombres, y ser justificado por la fe, ante Dios. En Romanos 4:2a y Santiago 2:21, se muestra a Abraham como justificado ante las **personas**, no ante Dios. Sus obras no lo ayudaron a ser declarado justo ante Dios.
+##### La disposición de Abraham de sacrificar a Isaac, como se registra en Génesis 22:1-18, fue vista como una prueba para la humanidad de que era un hombre justo. Debido a ese acto justo, Abraham fue *justificado por las obras* ante las personas. Por lo tanto, desde un punto de vista **humano**, él podría haberse jactado justificadamente.
+#### Romanos 4:2b – *“Porque si Abraham fue justificado por las obras, tiene de qué gloriarse, pero no para con Dios*.” Basado en sus obras, Abraham podría haberse jactado ante los hombres, pero nunca ante **Dios**. ¿Por qué?
+##### Porque Abraham no fue justificado por obras *delante de Dios*. Como observamos en el Antiguo Testamento (Gn. 15:6; Romanos 4:3, 9, 20, 22; Gálatas 3:6), Abraham fue justificado ante Dios por fe muchos años antes del **nacimiento** y el sacrificio de Isaac.
+##### Ya que Abraham fue declarado justo ante Dios por fe, aparte de cualquier tipo de obra, no tenía nada de qué **jactarse** ante Dios. La fe anula la jactancia. Romanos 3:27-28, Efesios 2:8-9
+#### Romanos 4:3 – “*Porque ¿qué dice la Escritura? Creyó Abraham a Dios, y **le** fue contado por justicia.”*
+##### Las Escrituras confirman que en el momento en que Abraham creyó a Dios, la justicia de Dios se le acreditó como un regalo **gratuito**.
+##### Puesto que Abraham fue declarado justo como un **regalo** gratuito y no sobre la base de ninguna de las obras que había hecho, él no tenía nada de qué presumir ante Dios. 
+#### Romanos 4:4 – “*Pero al que obra, no se le cuenta el salario como gracia, sino como deuda*;” Los **salarios** se pagan a una persona que los gana a través del trabajo. Los salarios nunca son considerados un regalo o un favor; Los salarios son un pago merecido.
+#### Romanos 4:5a – Abraham descubrió que Dios no **clasifica** la fe como una obra. *“mas al que no obra, sino cree…”* Para Dios, la fe es lo opuesto a la obra.
+##### La **fe** no es algún tipo de esfuerzo o contribución dada a Dios a cambio de la salvación. Romanos 3:27
+##### De hecho, la fe bíblica es la cesación de todo **esfuerzo** humano; por lo tanto, dado que la fe no es trabajo o esfuerzo de ningún tipo, una persona no puede recibir un pago o recompensa por ello. Romanos 4:16a, 11:6
+##### Es importante notar que la fe bíblica no es un **sentimiento** de buena voluntad acerca de Dios, como algunas personas sugieren.
+#### Romanos 4:5b – “…*sino cree en **aquel**…”* En el caso de Abraham, su fe estaba en Dios. Abraham creyó en nuestro bondadoso Dios quien gratuitamente declara a personas indignas, justas a Su vista.
+##### La fe bíblica siempre tiene un objeto, como se ve en la frase “*sino cree en aquel*.” El **objeto** digno de la fe de Abraham era el Mesías venidero. Abraham creyó que el Mesías venidero era totalmente capaz de salvarlo. Hebreos 11:13
+##### Aunque Abraham no conocía el nombre del Mesías ni la obra precisa que haría para nuestra salvación, a pesar de ello, confió en Él. En Juan 8:56, Jesús dijo, “*Abraham vuestro padre se gozó de que había de ver **mi** día; y lo vio, y se gozó*.”
+##### Hoy en día, el objeto de nuestra fe es todavía el Mesías, Jesucristo, quien vino y murió por nuestros pecados y resucitó. Dios **atribuye** justicia a toda persona que cree en él. Juan 6:29, Romanos 4:23-25, 2 Timoteo 1:2
+#### Romanos 4:5c – “...*que justifica al impío*,…” Abraham se regocijó al saber que Dios declara al pecador justo con Él a través de la fe, no como una recompensa por ser una **buena** persona.
+### Romanos 4:6-8 – Del mismo modo, el Rey **David** fue justificado por gracia ante Dios. 
+#### Romanos 4:6 – “*Como también David habla de la bienaventuranza del hombre a quien Dios atribuye justicia sin obras,”* En el Salmo 32, David proclamó la justificación por gracia cuando escribió cuán maravilloso fue que Dios lo declarara justo, aparte de sus **obras**.
+#### Romanos 4:7-8 – David, un asesino y adúltero, estaba extremadamente agradecido de que Dios lo declarara justo basado en la **gracia**. David se regocijó en tres aspectos de la justificación.
+##### Romanos 4:7a – “…*Bienaventurados aquellos cuyas iniquidades son perdonadas,…”* David se regocijó de que Dios **perdonó** sus pecados, especialmente porque no merecía perdón por las cosas que había hecho. Salmos 32:1a 
+##### Romanos 4:7b – *Bienaventurados aquellos “…cuyos pecados son cubiertos*.” David se regocijó porque Dios quitó sus pecados de Su **vista**. Salmos 32:1b, Salmos 103:12
+##### Romanos 4:8 – “*Bienaventurado el varón a quien el Señor no inculpa de pecado.”* David se regocijó de que Dios no **contó** su pecado contra él, sino que lo contó como justo. 2 Corintios 5:19, Hebreos 9:26
+### Romanos 4:9 – La justificación de Abraham por gracia a través de la fe, prueba que la justificación no tiene nada que ver con ser parte de **Israel**.
+#### Romanos 4:9a – “*¿Es, pues, esta bienaventuranza solamente para los de la circuncisión, o también para los de la incircuncisión?...”* ¿Es la justificación por fe a través de la gracia para la nación judía solamente? No, es para todas las **personas**. ¿Cómo sabemos esto con certeza?
+#### Romanos 4:9b – *“…Porque decimos que a Abraham le fue contada la fe por justicia.”* ¿Era Abraham un judío cuando Dios lo justificó? ¡No! En Génesis 15:6, cuando Dios lo declaró justo por fe, Abraham todavía era un gentil incircunciso. Esto significa que judíos y gentiles **por igual**, pueden ser justificados por fe.
+### Romanos 4:10-12 – La justificación de Abraham por fe prueba que la justificación está aparte de cualquier tipo de **ritual**. Génesis 17:9-14, 23-27
+#### Romanos 4:10 – “*¿Cómo, pues, le fue contada? ¿Estando en la circuncisión, o en la incircuncisión? No en la circuncisión, sino en la incircuncisión*”. La justificación de Abraham ocurrió **antes** del establecimiento del ritual de la circuncisión, lo que prueba que la circuncisión no es necesaria para la justificación.
+#### Romanos 4:11a – “*Y recibió la circuncisión como señal, como **sello** de la justicia de la fe que tuvo estando aún incircunciso;…”*
+##### Puesto que el ritual de la circuncisión se realizó en Abraham **después** de que él ya estaba justificado ante Dios, prueba que el ritual no tuvo ningún papel en su justificación.
+##### Abraham fue circuncidado para **mostrar** que creía en Dios. 
+#### Romanos 4:11b – “…*para que fuese padre de todos los creyentes no circuncidados, a fin de que también a ellos la fe les sea contada por justicia*;” Cualquier persona en el mundo, judía o no judía, circuncidada o no circuncidada, puede ser **salva** sin ningún ritual.
+##### Los rituales religiosos como el **bautismo**, la comunión, la confirmación, el bautismo de infantes, la circuncisión, ir a la iglesia, hacer una oración, encender una vela, caminar por el pasillo de la iglesia, etc., no afectan nuestra justificación de ninguna manera.
+##### Los rituales religiosos no salvan a la gente. Una persona es justificada ante Dios al creer en el Hijo de Dios quien **murió** como sacrificio por sus pecados y resucitó al tercer día.
+#### Romanos 4:12 – Muchos israelitas confiaron en su circuncisión para la salvación. Pablo señaló su error cuando se refirió a Abraham como “…***padre** de la circuncisión, para los que no solamente son de la circuncisión, sino que también siguen las pisadas de la fe que tuvo nuestro padre Abraham antes de ser circuncidado*.”
+##### Abraham es el padre de los judíos circuncidados **sólo** si creen en el Mesías como lo hizo él mientras aún estaba incircunciso. En caso contrario, si no creen en Cristo, no son los verdaderos descendientes de Abraham, aunque sean judíos circuncidados. Romanos 9:6
+##### Al igual que con Abraham, creerle a Dios garantiza la justificación de una persona, sin confiar en algún ritual realizado. Dios dice que quien sea que crea en Su Hijo no perecerá, mas tiene **vida** eterna. Juan 3:16
+### Romanos 4:13-15 – La justificación de Abraham por la fe (Gn. 15:6) demuestra que la salvación viene aparte de **guardar** los Diez Mandamientos. Gálatas 3:15-18
+#### Romanos 4:13 – “*Porque no por la ley fue dada a Abraham o a su descendencia la promesa de que sería heredero del mundo, sino por la justicia de la fe.*” Dios no cumplió Sus promesas a Abraham y sus descendientes porque Abraham obedeció la **Ley**, sino porque creyó a Dios.
+#### Romanos 4:14 – “*Porque si los que son de la ley son los herederos, vana resulta la fe, y anulada la promesa.”* Si la justicia, o la salvación, pudieran venir por medio de obedecer los Diez Mandamientos, **dos** cosas serían ciertas. Gálatas 5:2
+##### Romanos 4:14a – “…***vana** resulta la fe,*…” Si la salvación viniera a través de la obediencia a la Ley, la fe en la muerte de Cristo en la cruz y la resurrección serían innecesarias. Gálatas 3:5-6, Tito 3:5-6
+##### Romanos 4:14b – “…*y* *anulada la promesa*.” Si la salvación viniera a través de la obediencia a la Ley, no habría necesidad de la promesa de **vida** eterna y el perdón de pecados. Romanos 3:23
+#### Romanos 4:15 – “…*Pues la ley produce ira; pero donde no hay ley, tampoco hay transgresión.”* Cuidado, tú que crees que las personas se salvan al obedecer la ley. 
+##### La ley no trae salvación; más bien, ¡acarrea la **ira** de Dios! Romanos 3:19‑20, 1 Corintios 15:56, 2 Corintios 3:7-9
+##### Recuerda: Abraham fue declarado justo con Dios 430 años antes de que la Ley existiera, verificando que las personas pueden ser declaradas **justas** con Dios totalmente aparte de la Ley. Romanos 3:28
+### Romanos 4:16-17a – La justificación de Abraham por gracia a través de la fe ilustra que la fe encaja perfectamente con la **gracia**.
+#### Romanos 4:16a – “*Por tanto, es por fe, para que sea por gracia,…”* La fe va de la mano con la gracia; las dos se complementan **perfectamente**. Efesios 2:8-9
+##### La gracia y las obras no van juntas. Romanos 4:4 dice, “*Pero al que obra, no se le cuenta el salario como gracia, sino como deuda.*” Si trabajas por ello, es **ganado**. Cuando se trata de la justificación, la gracia y las obras son mutuamente excluyentes.
+##### La gracia es inmerecida. Es un **regalo**. No trabajas por ella. Simplemente la recibes por fe. “*Y si por gracia, ya no es por obras; de otra manera la gracia ya no es gracia*” (Romanos 11:6a)
+#### Romanos 4:16b – “…*a fin de que la promesa sea firme para toda su descendencia; no solamente para la que es de la ley, sino también para la que es de la fe de Abraham, el cual es padre de todos nosotros*”. La **gracia** de Dios se muestra a todos los que creen en Cristo, independientemente de la etnicidad nacional o cultural.
+##### Dios le prometió a Abraham que en él *todas las familias de la tierra* [serían] *benditas* (Gen. 12:3) y que él llegaría a ser el *padre de muchedumbre de **gentes***. Génesis 17:3-6
+##### Cuando creemos en Cristo, Abraham se convierte en nuestro **padre** espiritual. Sin embargo, esto no significa que como creyentes nos convertimos en Israel, étnicamente, espiritualmente o de cualquier otra manera. Gálatas 3:6-9
+#### Romanos 4:17a – *“(como está escrito: Te he puesto por padre de muchas gentes)…”* Este versículo enseña que una persona puede pertenecer a Abraham espiritualmente, llamándolo “padre”, sin convertirse en Israel. Es importante notar que la **iglesia** no reemplaza a Israel.
+### Romanos 4:17b-21 – Puesto que Abraham fue justificado por la fe, Pablo examinó más de cerca la **naturaleza** de la fe de Abraham. Gálatas 2:16, Romanos 5:1
+#### Romanos 4:17b – La fe de Abraham no estaba basada en sus propias habilidades. “…*delante de Dios, a quien creyó, el cual da vida a los muertos, y llama las cosas que no son, como si fuesen*.” Abraham confió en la **capacidad** sobrenatural de Dios para proveer milagrosamente para sus necesidades.
+##### Muchas personas afirman que la Biblia enseña que Dios **ayuda** a los que se ayudan a sí mismos. Este dicho no se encuentra en la Biblia.
+##### La Biblia de hecho enseña lo contrario. La Biblia enseña que Dios ayuda a aquellos que **no pueden** ayudarse a sí mismos. Efesios 2:4-6, Romanos 5:6-10
+##### Dios se complace cuando dejamos de confiar en nosotros mismos y **confiamos** solamente en Él para salvarnos. Eso es fe. Hebreos 11:6
+#### Romanos 4:18 – La fe de Abraham no estaba basada en los sentimientos*. “El creyó en esperanza contra esperanza, para llegar a ser padre de muchas gentes, conforme a lo que se le había dicho: Así será tu descendencia.”* Abraham creyó las promesas de Dios, incluso cuando tenía todas las razones para **dudar**.
+#### Romanos 4:19 – La fe de Abraham no estaba basada en posibilidades **humanas**. “*Y no se debilitó en la fe al considerar su cuerpo, que estaba ya como muerto (siendo de casi cien años), o la esterilidad de la matriz de Sara*.” Hebreos 11:11-12
+#### Romanos 4:20a – La fe de Abraham no estaba basada en la **vista**. “…*Tampoco dudó, por incredulidad, de la promesa de Dios,…”* La fe de Abraham se mantuvo firme a lo largo del tiempo, incluso cuando muchas de las promesas de Dios permanecían sin cumplirse.
+#### Romanos 4:20b – La fe de Abraham se **fortaleció** aún más con el paso del tiempo. Cuanto más fuerte se hacía su fe, más alababa a Dios por la fidelidad de Dios hacia él. “…*sino que se fortaleció en fe, dando gloria a Dios*,”. Génesis 22:5, Hebreos 11:13
+#### Romanos 4:21 – La fe de Abraham no estaba basada en experiencias o circunstancias, sino más bien en la fiabilidad de Dios. “*plenamente convencido de que era también poderoso para **hacer** todo lo que había prometido;”*. Hebreos 11:17-19
+### Romanos 4:22-25 – La declaración de Génesis 15:6 de que Abraham fue justificado por fe fue registrada para nuestro **bien** tanto como lo fue para Abraham.
+#### Romanos 4:22 – *“por lo cual también su fe le fue contada por justicia*.” Esto es una vez más un recordatorio de que cuando Abraham creyó en Dios, él fue considerado **justo** por Dios delante de Él. Abraham fue justificado por fe.
+#### Romanos 4:23 – “*Y no solamente con respecto a él se escribió que le fue contada*,” Cuando el Antiguo Testamento declara que *creyó Abraham a Dios, y le fue contado por justicia*, se registra principalmente para **nuestro** bien. Dios quiere que sepas que Abraham no es el único salvo por fe. Tú también lo eres.
+#### Romanos 4:24 – “*sino también con respecto a nosotros a quienes ha de ser contada, esto es, a los que creemos en el que levantó de los muertos a Jesús, Señor nuestro*,” Este verso declara que tal como Abraham, nosotros también somos Declarado justos con Dios en el **momento** en que creemos en Aquel que resucitó a Jesús nuestro Señor de los muertos.
+#### Romanos 4:25 – “*el cual fue entregado por nuestras transgresiones, y resucitado para nuestra justificación*.” Jesucristo fue entregado a la muerte por nuestros **pecados**, pero fue resucitado para nuestra justificación.
+##### Esta es la buena **noticia**. Cristo murió por nuestros pecados y resucitó al tercer día. Hechos 13:28-30, 37-39; 1 Corintios 15:3-4
+##### Nosotros también fuimos declarados justos con Dios cuando personalmente **confiamos** en Cristo y en Su muerte por nuestros pecados y su resurrección. 1 Corintios 15:1-4
+##### ¿Has creído personalmente en el Evangelio, confiando en Cristo, que Él murió por tus pecados y resucitó al tercer día? 1 Juan 5:13
+## **Romanos 5:1-11 – Las bendiciones inmerecidas de la justificación por fe**
+### Romanos 5:1-5 – Los privilegios de nuestra justificación por **fe**
+#### Romanos 5:1a – “*Justificados, pues, por la fe,…”* Pablo ahora describió varios **beneficios** sorprendentes que resultan de nuestra justificación por fe.
+#### Romanos 5:1b – “…*tenemos paz para con Dios por medio de nuestro Señor Jesucristo;”* El primer beneficio de haber sido *justificados por la fe* en Cristo es que instantáneamente ganamos **paz** con Dios.
+##### La paz con Dios no debe confundirse con la paz de Dios que podemos experimentar de manera algo inconsistente. Nuestro gozo de la paz de Dios a menudo **cambia** de acuerdo con nuestras circunstancias y nuestro caminar. Filipenses 4:7, Colosenses 3:15
+##### La paz con Dios es una condición fija. Significa que ya no somos enemigos de Dios; la **guerra** entre Dios y nosotros está eternamente terminada. Ahora somos amigos de Dios. Romanos 5:10, Efesios 2:1-3
+#### Romanos 5:2a – “*por quien también tenemos entrada por la fe a esta gracia en la cual estamos firmes,*…” Existe también un **segundo** beneficio de nuestra justificación; es la gracia continua de Dios para la vida diaria. 
+##### En la salvación, a través de la fe en Cristo, recibimos una posición permanente ante Dios en **gracia**. Dios nunca nos separa de nuestra posición en gracia, incluso en los días más oscuros de nuestros mayores fracasos.
+##### Como resultado de nuestra justificación, nos encontramos debajo de la cascada de la bondad inmerecida de Dios, cayendo en abundancia sobre nosotros con Su **poder** infinito para vivir victoriosamente. Efesios 1:19, 2 Corintios 12:9
+#### Romanos 5:2b – “*…y nos gloriamos en la esperanza de la gloria de Dios.”* En tercer lugar, hay un beneficio prospectivo de nuestra justificación por fe. Como resultado de nuestra justificación, podemos mantener nuestras cabezas en alto con la absoluta confianza de que experimentaremos todo el alcance de la **gloria** de Dios durante toda la eternidad. Efesios 1:18
+#### Romanos 5:3-5 – En cuarto lugar, nuestra justificación por fe nos lleva a una nueva **perspectiva** sobre las dificultades de esta vida. En lugar de dudar del amor de Dios en momentos de dificultad, comenzamos a regocijarnos en nuestras pruebas. Hechos 16:24-25
+##### Romanos 5:3a – “*Y no sólo esto, sino que también nos gloriamos en las tribulaciones,*…”
+###### Antes de que un creyente entienda las verdades de la justificación por fe, las pruebas son interpretadas fácilmente como una señal del **rechazo** de Dios.
+###### Pero cuando estamos convencidos de nuestra posición justa ante Dios, aceptamos de buena gana nuestras pruebas como **dádivas** de gracia de parte de Dios. Romanos 8:28, 31-32
+##### Romanos 5:3b – *…sabiendo que la tribulación produce paciencia.* Paciencia [o *perseverancia* según BAD] significa que no te **rindes**. 
+###### Sabiendo que las pruebas son de hecho beneficiosas para nosotros, podemos ser **pacientes** cuando las atravesemos. Santiago 1:2-4, Hebreos 12:3-11
+###### Puedes continuar adelante con fe, sabiendo que Dios está haciendo que todo obre para tu **crecimiento** y madurez espiritual. Romanos 8:28
+##### Romanos 5:4a – “*y la paciencia, prueba;…”* [o *carácter probado*… según LBLA] La perseverancia da como resultado un carácter **probado**. 
+###### *Prueba* o carácter probado significa que has superado la prueba y se puede confiar en que te mantengas **estable** y sin cambios. Esta es la madurez espiritual. Santiago 1:2-4
+###### *Prueba* o carácter probado significa que eres una persona de integridad en la que se puede confiar que no **vacilará** según las circunstancias. Filipenses 1:20, 1 Pedro 1:6-7
+##### Romanos 5:4b – “…*y la prueba, esperanza*;” Finalmente, las pruebas de hecho crean **esperanza**. Cuando confías en Dios a través de tus pruebas, descubres que Dios nunca falla; Él siempre permanece fiel a Su palabra y Sus promesas. Romanos 15:13
+##### Romanos 5:5 – “*y la esperanza no avergüenza; porque el amor de Dios ha sido derramado en nuestros corazones por el Espíritu Santo que nos fue **dado***.” 
+###### En el instante en que creíste las buenas nuevas de la muerte y resurrección de Cristo, el Espíritu Santo vino a **vivir** en ti. Efesios 1:13-14, 4:30
+###### A través del Espíritu Santo que vive en ti, Dios Padre derrama Su amor en tu **corazón**. Efesios 3:17-19, Romanos 15:13
+###### Ahora que eres creyente, Dios te acepta y te **ama** tanto como ama a Jesús. Juan 15:9, Juan 17:26; Efesios 1:6-7; 1 Juan 3:1
+###### No importa cuán dura o larga sea la prueba, tu fe en Dios puede permanecer fuerte debido al amor de Dios derramado sobre ti. Ninguna prueba puede ***separar*[nos]** *del amor de Dios, que es en Cristo Jesús Señor nuestro*. Romanos 8:31-39
+### Romanos 5:6-8 – El **alcance** de la justificación por la fe
+#### Romanos 5:6a – ¿Bajo qué circunstancia murió Cristo? “*Porque Cristo, cuando aún éramos débiles…murió por los impíos*.” Cuando todavía éramos **inútiles** para salvarnos, el Señor Jesucristo, nuestro perfecto sustituto, murió, pagando completamente nuestra deuda de pecado.
+#### Romanos 5:6b – ¿En qué momento murió Cristo? “*Cristo… a su tiempo murió…”* En el **plan** soberano de Dios, Jesús murió en el momento perfecto en la historia humana. Dios preparó el escenario para el sacrificio de Cristo por nuestros pecados, y Cristo murió en el momento exacto que Dios planeó. Juan 10:17-18, Hechos 3:17-18, Gálatas 4:4-5, Apocalipsis 13:8
+#### Romanos 5:6c – ¿Por **quién** murió Cristo? Cristo murió “…*por los impíos*.”
+##### Cristo murió por **todos**. Hebreos 2:9 dice, “*Pero vemos…a Jesús, coronado de gloria y de honra, a causa del padecimiento de la muerte, para que por la gracia de Dios gustase la muerte por todos.*”
+###### Cristo murió por **todos**. Isaías 53:6 dice, “*Todos nosotros nos descarriamos como ovejas, cada cual se apartó por su camino; mas Jehová cargó en él el pecado de **todos nosotros**.*” 1 Corintios 15:3
+###### Cristo murió por todas las **personas**. Romanos 5:18 dice, “*Así que, como por la transgresión de uno vino la condenación a todos los hombres, de la misma manera por la justicia de uno vino a todos los hombres la justificación de vida*.”
+###### Cristo murió en **rescate** por todos. 1 Timoteo 2:5-6 dice, “*Porque hay un solo Dios, y un solo mediador entre Dios y los hombres, Jesucristo hombre, el cual se dio a sí mismo en rescate por todos, de lo cual se dio testimonio a su debido tiempo*.”
+##### Cristo murió por **muchos**. Mateo 20:28 dice, “*Como el Hijo del Hombre no vino para ser servido, sino para servir, y para dar su vida en rescate por muchos*.”
+##### Cristo murió por el **mundo**. Juan 3:16 dice, “*Porque de tal manera amó Dios al mundo, que ha dado a su Hijo unigénito, para que todo aquel que en él cree, no se pierda, mas tenga vida eterna*.”
+##### Cristo murió por Sus **ovejas**. Juan 10:11 dice, “*Yo soy el buen pastor; el buen pastor su vida da por las ovejas*.” 
+##### Cristo murió por la **nación** de Israel. Juan 11:51 dice, “*Esto no lo dijo por sí mismo, sino que como era el sumo sacerdote aquel año, profetizó que Jesús había de morir por la nación*.” 
+##### Cristo murió por los **pecadores**. Romanos 5:8 dice, “*Mas Dios muestra su amor para con nosotros, en que siendo aún pecadores, Cristo murió por nosotros*.”
+##### Cristo murió por **mí** personalmente. En Gálatas 2:20b, Pablo dijo, “*…lo que ahora vivo en la carne, lo vivo en la fe del Hijo de Dios, el cual me amó y se entregó a sí mismo por mí*.”
+##### Cristo murió por los pecados del mundo **entero**. 1 Juan 2:2 dice, “*Y él es la propiciación por nuestros pecados; y no solamente por los nuestros, sino también por los de todo el mundo*.”
+##### Cristo murió por la **iglesia**. Efesios 5:25 dice, “*Maridos, amad a vuestras mujeres, así como Cristo amó a la iglesia, y se entregó a sí mismo por ella*.” Hechos 20:28
+##### Cristo murió incluso por **falsos** maestros que lo niegan. 2 Pedro 2:1 dice, “*Pero hubo también falsos profetas entre el pueblo, como habrá entre vosotros falsos maestros, que introducirán encubiertamente herejías destructoras, y aun negarán al Señor que los rescató.*” 1 Corintios 6:20a
+#### Romanos 5:7 – “*Ciertamente, apenas morirá alguno por un justo; con todo, pudiera ser que alguno osara morir por el bueno*.” Aunque es **raro**, puede haber alguien allí afuera con el coraje y el amor para morir por una buena persona. Pero Dios mostró mayor amor que morir por una buena persona.
+#### Romanos 5:8 – “*Mas Dios muestra su amor para con nosotros, en que siendo aún pecadores, Cristo murió por nosotros*.” Dios demostró la superioridad de su amor al hacer que Cristo muriera por nosotros, no cuando éramos **buenos** o dignos, sino cuando éramos Sus enemigos rebeldes y detestables. Romanos 5:10
+### Romanos 5:9-10 – El resultado de nuestra salvación por la fe se ve en los tres **tiempos** de nuestra salvación: pasado, presente y futuro.
+#### Romanos 5:9a – “*Pues mucho más, estando ya justificados en su sangre,…”* El tiempo **pasado** de nuestra salvación es la justificación. En el momento en que creímos, fuimos salvos de la pena del pecado por medio de la muerte sacrificial de Cristo en nuestro nombre.
+#### Romanos 5:9b – “…*por él seremos salvos de la ira*.” El tiempo **futuro** de nuestra salvación es la glorificación. En el rapto, seremos salvos de la presencia del pecado. Romanos 6:5, 1 Corintios 15:50-57, 1 Tesalonicenses 1:10, 1 Juan 3:2
+#### Romanos 5:10 – Entre la justificación y la glorificación está la santificación, el tiempo **presente** de la salvación. “*Porque si siendo enemigos, fuimos reconciliados con Dios por la muerte de su Hijo, mucho más, estando reconciliados, seremos salvos por su vida*.” Hebreos 7:25
+##### En la santificación, estamos siendo salvos en el tiempo presente del **poder** del pecado en nuestras vidas a través de la vida de Cristo. 1 Corintios 1:18
+##### Cristo en nosotros es el “misterio” de Dios para vivir en santidad. Colosenses 1:27 dice, “*a quienes Dios quiso dar a conocer las riquezas de la gloria de este misterio entre los gentiles; que es **Cristo en vosotros**, la esperanza de gloria*.” 
+##### Cristo en ti hace posible experimentar verdaderamente una vida abundante. Colosenses 3:4 dice, “*Cuando Cristo, **vuestra vida**, se manifieste, entonces vosotros también seréis manifestados con él en **gloria***.” Juan 7:38
+##### Pablo explicó que él vivía la vida cristiana por fe en el Señor Jesús. Gálatas 2:20 – “*Con Cristo estoy juntamente crucificado, y ya no vivo yo, **mas vive Cristo en mí**; y lo que ahora vivo en la carne, lo vivo en la **fe** del Hijo de Dios, el cual me amó y se entregó a sí mismo por mí*.” 
+### Romanos 5:11 – El **resultado** de nuestra justificación por fe
+#### Romanos 5:11a – “*Y no sólo esto, sino que también nos gloriamos en Dios por el Señor nuestro Jesucristo,…”* Cuando entendemos el alcance amplio de nuestra justificación, lo **celebramos** de todo corazón. Nos regocijamos en la gracia de Dios.
+#### Romanos 5:11b – *“…por el Señor nuestro Jesucristo, por quien hemos recibido ahora la reconciliación*.” Nos regocijamos porque Jesucristo **ganó** la aceptación de Dios por nosotros.
+# **Romanos 5:12-21 – La Doctrina de la Identificación: El Acceso a la Santificación**
+## **1 Corintios 15:20-22, 45-49 – Dos identidades**
+### Dios identifica a toda la humanidad con uno de dos hombres: el primer Adán o el postrer Adán, Cristo. Adán y Cristo son como **líderes** nacionales, o representantes patriarcales, que representan dos divisiones distintas de la humanidad. Juan 3:3, 5-6; 1 Corintios 15:45-50
+### Dios te considera miembro de uno de estos dos linajes. En la apreciación de Dios, todo lo que es cierto de tu cabeza, Cristo o Adán, es **cierto** de ti. 1 Corintios 15:22 dice, “*Porque así como en Adán todos mueren, también en Cristo todos serán vivificados*.” 
+### Debido a que **naciste** de nuevo, Dios ahora te identifica con Cristo las veinticuatro horas del día, los siete días de la semana, para siempre. Efesios 2:6, Colosenses 3:3
+### En muchas de sus epístolas, Pablo se refirió a los creyentes como estando *en **Cristo***. Efesios 1:3, 4, 6, 7, 10-11, 13
+### La pregunta es: ¿Con quién te identificas? En cualquier momento dado, ya sea en casa o en público, ya sea en acción o en pensamiento, te estás identificando ya sea con Adán, tu antigua cabeza, o con Cristo, tu nueva **cabeza**. Juan 15:4-5
+### Necesitas **crecer** en tu comprensión de quién eres en Cristo para que puedas disfrutar tu salvación al máximo. 2 Corintios 5:17
+## **Romanos 5:12-15 – Dos linajes**
+### Romanos 5:12-14 – **Adán**, nuestra **antigua** cabeza, nos dio una terrible herencia.
+#### Romanos 5:12a – “*Por tanto, como el pecado entró en el mundo por un hombre,…”* El primer hombre, Adán, trajo el pecado a la **raza** humana.
+######
+#####
+#### Romanos 5:12b – “…*y por el pecado la muerte,*…” Dado que la **pena** por el pecado es la muerte, el pecado de Adán introdujo la muerte en el mundo.
+#### Romanos 5:12c – “…*así la muerte pasó a todos los hombres,…”* Debido a nuestra relación con Adán, la **muerte** fue transmitida a todos nosotros.
+#### Romanos 5:12d – “*…por cuanto todos pecaron*.” No solamente heredamos la muerte de parte de Adán, también merecemos personalmente la muerte, porque como Adán, todos nosotros **pecamos**. Romanos 3:23
+#### Romanos 5:13a – “*Pues antes de la ley, había pecado en el mundo;…”* A pesar de que los Diez Mandamientos no **existieron** desde la época de Adán hasta Moisés, la gente pecaba.
+#### Romanos 5:13b – “…*pero donde no hay ley, no se inculpa de pecado*.” Cuando no hay leyes que romper, las personas no pueden ser **juzgadas** como infractores de la ley. 
+#### Romanos 5:14a – “*No obstante, reinó la muerte desde Adán hasta Moisés,…”* Pero a pesar de que la gente durante este tiempo no tenía leyes específicas, las exigencias básicas de la ley estaban grabadas en la conciencia de cada persona. La gente pecaba de todos modos y la penalidad por el pecado era la **muerte**. Romanos 2:14-15
+#### Romanos 5:14b – “…*aun en los que no pecaron a la manera de la transgresión de Adán,…”* Pese a que la gente de los tiempos de Adán a Moisés no infringió una ley **directa** como Adán lo hizo, todos murieron, porque todos ellos fueron destituidos de la gloria de Dios. Romanos 3:23
+#### Romanos 5:14c – “…*el cual es figura del que había de venir*.” **Adán** era un tipo de Cristo. ¿Cómo prefiguró Adán a Cristo?
+##### Adán fue un tipo de Cristo en que él fue el originador, o antecesor, de una **rama** de la humanidad, quienes todos llevaban su imagen y características. 1 Corintios 15:4449
+##### Como un **tipo** de Cristo, Adán se presenta ante Dios como el representante de su rama de la humanidad, tal como Cristo ahora se presenta ante Dios como el representante de Su rama de la humanidad.
+##### De la misma manera, todos los hijos de Adán **heredan** el pecado, la muerte y la condenación de Adán ante Dios, todos los que son nacidos de nuevo en la “familia” de Cristo reciben automáticamente la posición justa de Cristo ante Dios.
+### Romanos 5:15 – **Cristo**, nuestra **nueva** cabeza, nos dio una herencia bendita.
+#### Romanos 5:15a – “*Pero el don no fue como la transgresión;”* En lugar de dar muerte a Su rama de la humanidad, todos los que son nacidos de nuevo en la familia de Cristo reciben la **vida** eterna como un regalo gratuito de Dios.
+#### Romanos 5:15b – *“…porque si por la transgresión de aquel uno murieron los muchos,…”* Una transgresión es el quebrantamiento deliberado de una ley. Adán murió porque **rompió** la única ley de Dios; Él comió el fruto del árbol del conocimiento del bien y del mal. Como resultado, pasó la pena de muerte a todos los que son sus descendientes. Romanos 6:23
+#### Romanos 5:15c – “…*abundaron mucho más para los muchos la gracia y el don de Dios por la gracia de un hombre, Jesucristo*.” Al igual que Adán pasó la muerte a todo su linaje, a través de Jesucristo, el **don** gratuito de la gracia de Dios es ahora transmitido a Su linaje entero.
+## **Romanos 5:16 – Dos legados**
+### Romanos 5:16a – “*Y con el don no sucede como en el caso de aquel uno que pecó;…”* Pablo comparó el **legado** que recibimos de Adán con el legado que recibimos de Cristo. 
+### Romanos 5:16b – “…*porque ciertamente el juicio vino a causa de un solo pecado para condenación,…”* En el caso de **Adán**, **un pecado resultó en juicio**, lo que trajo un legado de condenación a toda la raza humana.
+### Romanos 5:16c – “…*pero el don vino a causa de muchas transgresiones para justificación.”* En el caso de ***Cristo***, sin embargo, **muchos pecados resultaron en un regalo gratuito**, que resultó en justificación para todos los que creen. Debido a que Cristo murió por nuestros pecados y resucitó, Dios puede declararnos legalmente justos ante Él y darnos el regalo gratuito de la vida eterna.
+## **Romanos 5:17 – Dos dominios**
+### Romanos 5:17a – “*Pues si por la transgresión de uno solo reinó la muerte,…”* La transgresión de **Adán** trajo el dominio de la muerte, haciendo que todos sus descendientes estuvieran bajo la maldición de la muerte. Desde la caída, debido al pecado de Adán, todos nacemos en un mundo en el cual la muerte **gobierna**. 1 Corintios 15:21-22
+### Romanos 5:17b – “…*mucho más **reinarán** en vida por uno solo, Jesucristo, los que reciben la abundancia de la gracia y del don de la justicia.”* La buena noticia es que, aunque éramos dominados por la muerte, los dones de gracia y justicia de **Cristo** proporcionan vida abundante a todos los que creen en Él. Juan 7:38
+## **Romanos 5:18-19 – Dos resultados**
+### Romanos 5:18a – “*Así que, como por la transgresión de uno vino la condenación a todos los hombres,…”* **Adán** escogió **desobedecer** a su Creador. Su pecado trajo juicio sobre toda la raza humana. Génesis 3:6
+### Romanos 5:18b – “…*de la misma manera por la justicia de uno vino a todos los hombres la justificación de vida*.” Contrariamente, **Cristo** eligió **obedecer** al Padre. Filipenses 2:8 dice, “*…se humilló a sí mismo, haciéndose obediente hasta la muerte, y muerte de cruz.”* El sacrificio de Cristo trajo a toda la raza humana la oportunidad de ser justificados.
+### Romanos 5:19a – “*Porque así como por la desobediencia de un hombre los muchos fueron constituidos pecadores,…”* La desobediencia de **Adán** trajo la **tragedia** a la humanidad. La desobediencia de Adán afectó adversamente a toda su raza. Su desobediencia estableció a todo su linaje como pecadores; por lo tanto, todos nacimos en pecado.
+### Romanos 5:19b – *“…así también por la obediencia de uno, los muchos serán constituidos justos*.” Por el contrario, la obediencia de **Cristo** *“…hasta la muerte, y muerte de **cruz***.”(Flp. 2:8), trajo liberación a todos los que creen en Él. La obediencia de Cristo hasta la muerte ha establecido a todos Sus *muchos* creyentes como *justos*. Juan 3:3
+## **Romanos 5:20-21 – Dos esferas: la ley frente a la gracia**
+### Romanos 5:20a – “*Pero la ley se introdujo para que el pecado abundase;…”* La Ley **prueba** que todas las personas son totalmente corruptas. Romanos 2:13, 3:19-20, 7:7 
+### Romanos 5:20b – “…*mas cuando el pecado abundó, sobreabundó la gracia*;” Sin embargo, la **gracia** de Dios superabundó para **pagar** el pecado de toda la humanidad. 1 Timoteo 1:12-14
+### Romanos 5:21 – “*para que así como el pecado reinó para muerte, así también la gracia reine por la justicia para vida eterna mediante Jesucristo, Señor nuestro.*” El **pecado** había ganado el control de la humanidad, causando la muerte. A través de la justicia de Cristo, la gracia vino y venció al pecado. La gracia proveyó un camino para que los pecadores fueran declarados justos y recibieran la vida eterna. Tito 2:11-13
+# **Romanos 6:1-10 – La Doctrina de la Santificación - Verdad Posicional**
+## **Romanos 6:1-2 – ¿Por qué no pecar?**
+### Romanos 6:1a – “*¿Qué, pues, diremos? ¿Perseveraremos en el pecado…?”* La santificación comienza con un entendimiento de nuestra nueva relación con el **pecado**. Sin esta comprensión, nuestro crecimiento seguirá atrofiado. 
+#### La santificación es el proceso por el cual los creyentes **crecen** para ser más parecidos a Cristo. Implica ser salvos del poder del pecado en nuestras vidas diarias. Romanos 8:29
+#### Nuestra santificación se **basa** en el fundamento de nuestra posición **en Cristo** como resultado de nuestra justificación. 1 Corintios 3:11
+### Romanos 6:1b – “*¿Qué, pues, diremos? ¿Perseveraremos en el pecado…?”* La pregunta es si deberíamos continuar **en pecado** (un sustantivo), no si deberíamos continuar **pecando** (un verbo).
+#### La forma **verbal** de la palabra pecado (HAMARTANO) aparece 7 veces en Romanos. De los 7 usos de pecado como verbo, 4 se encuentran en los capítulos de la santificación. La forma verbal de pecado se refiere al acto de pecar, no particularmente a la fuente de los pecados, que es la naturaleza del pecado.
+#### Es importante notar que la forma del sustantivo de la palabra pecado (HAMARTIA) aparece más de **40** veces en los pasajes que tratan sobre la santificación (Rom. 5:12-8:17). Esto es importante, porque cuando el pecado es usado como sustantivo, se refiere particularmente a la fuente del pecado, en lugar de señalar el acto o la acción de pecar.
+##### En el capítulo 5:12-21, el pecado como sustantivo aparece **7** veces.
+##### En el capítulo 6, el pecado como sustantivo aparece **16** veces.
+##### En el capítulo 7, el pecado como sustantivo aparece **16** veces.
+##### En el capítulo 8:1-10, el pecado como sustantivo aparece **5** veces.
+##### Sorprendentemente, en los primeros cuatro capítulos de Romanos que tratan con los incrédulos, el pecado como sustantivo aparece solo **4** veces.
+##### En la sección que trata los problemas de la vida cristiana, Romanos 8:11 a 16:27, la palabra pecado aparece solo **2** veces.
+##### La forma plural de pecado (pecados) aparece solo **3** veces en todo el libro de Romanos y solo una vez en los capítulos que tratan sobre la santificación. La importancia de este hecho se aclarará a medida que avancemos. Romanos 4:7, 7:5, 11:27
+#### El gran número de usos de la palabra pecado en los capítulos de la santificación muestra cuán preocupado está Dios por el **pecado** en la vida del creyente.
+#### En Romanos 5-8, la forma sustantiva de la palabra *pecado* en griego está usualmente en singular y acompañada por el artículo definido **el**, haciéndolo “el pecado”. En Romanos 7:17-18, vemos que “el pecado” se refiere a la naturaleza de pecado que mora en nosotros.
+##### Cuando Pablo se refirió al pecado en la vida del creyente, utilizó deliberadamente el término “el pecado”. **El pecado** indica la **fuente** del pecado, en otras palabras, la naturaleza de pecado, y no el fruto producido por la naturaleza de pecado, lo que sería los pecados en plural.
+##### Al enseñar sobre la santificación, Pablo se enfocó en la **raíz** del pecado.
+##### Pablo entendió que la única manera de controlar los **pecados** individuales en la vida de un creyente es ir a la raíz.
+#### El diablo y el mundo están curiosamente **ausentes** en este pasaje que trata con el pecado en la vida del creyente. Demasiados cristianos culpan a Satanás o al mundo por todos sus problemas, y por lo tanto nunca tratan con el problema de raíz, su propia naturaleza pecaminosa. Romanos 6-8 trata directamente con la naturaleza de pecado. Santiago 1:14
+### Romanos 6:1c – “*¿Qué, pues, diremos? ¿Perseveraremos en el pecado para que la gracia abunde?*” Esta es una continuación natural a la declaración enorme de Pablo al final del capítulo cinco, “*mas cuando el **pecado** abundó, sobreabundó la gracia*.”
+#### La **gracia** de Dios es siempre más grande para el perdón que la capacidad del pecado para condenar. 
+#### Debido a la superabundante naturaleza de la gracia, algunos creyentes pueden verse tentados a **abusar** de la gracia de Dios y continuar pecando.
+### Romanos 6:2a – ¿Cuál fue la respuesta de Pablo a su propia pregunta?, “*¿Perseveraremos en el pecado para que la gracia abunde?*”
+#### “*En **ninguna** manera. …”* Definitivamente, no debemos seguir pecando. Pero ¿por qué? 
+#### ¿Cuál crees que es la razón **más** importante para no pecar? Marca tu **mejor** opción o escribe una respuesta mejor a continuación.
+##### \_\_\_\_\_\_\_\_\_ No peques porque el pecado te lastima. 
+##### \_\_\_\_\_\_\_\_\_ No peques porque el pecado lastima a los que amas. 
+##### \_\_\_\_\_\_\_\_\_ No peques porque el pecado ofende a Dios. 
+##### \_\_\_\_\_\_\_\_\_ No peques porque el pecado te hace perder gozo o recompensas. 
+##### \_\_\_\_\_\_\_\_\_ No peques porque el pecado es sumisión al diablo y al mundo. 
+##### \_\_\_\_\_\_\_\_\_ No peques porque el pecado traerá la disciplina de Dios. 
+##### \_\_\_\_\_\_\_\_\_ No peques porque el pecado quebranta la ley. 
+##### No peques, porque \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.
+### Romanos 6:2b – “…*Porque los que hemos muerto al pecado,…”* Observa que el pronombre ***nosotros*** es implícito y esto se refiere exclusivamente a los creyentes.
+### Romanos 6:2c – Nosotros*, “…los que hemos muerto al pecado, ¿cómo viviremos aún en él?”* La única razón de Pablo de por qué los cristianos no debemos pecar tenía que ver con comprender que a través de nuestra posición en Cristo estamos **muertos** al pecado. 
+#### Nosotros “*…los que hemos muerto al pecado,…*” describe la posición del creyente en Cristo, mientras que “…*viviremos aún en él?*” describe la **conducta** diaria del creyente. El conocimiento de nuestra posición debería afectar nuestra conducta.
+#### La declaración *hemos muerto al pecado* **no** significa lo siguiente:
+##### *Hemos muerto al pecado* no significa que la **naturaleza** de pecado está muerta en nosotros. Algunos enseñan una doctrina de erradicación, lo que significa que ya no tenemos una naturaleza de pecado. Esto no se encuentra en la declaración *hemos muerto al pecado.*
+######
+######
+##### *Hemos muerto al pecado* no significa que debes matar o crucificar la naturaleza de pecado. El verbo *muerto* está en el tiempo aoristo griego, lo que significa que sucedió en un punto específico del tiempo en el pasado. *Hemos muerto al pecado* es una afirmación de **hecho**, no una orden a obedecer. No es algo que nosotros mismos debemos hacer.
+##### Todos los **esfuerzos** para erradicar tu naturaleza de pecado en tu propia fuerza conducirán a la mera frustración. No puedes restringir o crucificar tu naturaleza de pecado.
+#### ¿Qué significa realmente la declaración *hemos **muerto** al pecado*?
+##### *Hemos muerto al pecado* podría traducirse, *hemos muerto* a [el] *pecado*. Como creyentes, estamos muertos a nuestra naturaleza de pecado, porque en la salvación, Dios sobrenaturalmente nos **unió** con Cristo en su muerte. Esta es una obra que Dios hizo. Gálatas 2:20
+##### *Hemos muerto al pecado* significa que en la muerte de Cristo fuimos identificados con Él y, consecuentemente, morimos en todo el **reino** del pecado, incluyendo los pecados individuales, Satanás, el mundo e incluso nuestra naturaleza de pecado. Romanos 6:10
+##### *Hemos muerto al pecado* significa que, en la estimación de Dios, cada creyente ha muerto, habiendo sido crucificado con Cristo. En esa posición, poseemos la **victoria** de Cristo sobre el pecado. Colosenses 2:20, 3:1-3
+##### Junto con Cristo, hemos sido sobrenaturalmente liberados del **derecho** absoluto de la naturaleza de pecado a gobernar nuestras vidas. Romanos 6:6
+##### En conclusión, la única **razón** de Pablo para que no continuemos en el pecado fue simplemente porque *hemos muerto al pecado*.
+## **Romanos 6:3-5 – Conociendo la historia de tu muerte al pecado con Cristo**
+### Romanos 6:3a – “*¿O no **sabéis**…?”* Saber que estás muerto al pecado y entender cómo eso se convirtió en tu realidad puede cambiar dramáticamente toda tu forma de vivir.
+#### Saber que estás muerto al pecado te detendrá de intentar **derrotar**, erradicar o borrar el pecado a través de tu propio esfuerzo humano.
+#### El **esfuerzo** humano para lidiar con el pecado lleva solo a frustrantes y fallidas estrategias hechas por el hombre, tales como el legalismo, el misticismo o incluso el nocivo maltrato del cuerpo. Colosenses 2:20-23
+#### Saber que estás muerto al pecado te permite **descansar** en tu posición de victoria sobre el pecado basado en el poderoso significado de tu nueva identidad en Cristo.
+### Romanos 6:3b – “*…que todos…”* Esta verdad es cierta de ***todos*** los creyentes. Si eres un hijo de Dios, estas verdades te pertenecen.
+####
+### Romanos 6:3c – Necesitas saber que “…*todos los que hemos sido bautizados **en** Cristo Jesús, hemos sido bautizados en su muerte?*”
+#### La palabra *bautizados* (BAPTIZO) significa ser identificado o **colocado** dentro de. En el punto de tu salvación, el Espíritu Santo te colocó en Cristo.
+##### 1 Corintios 12:13 – “*Porque por un solo **Espíritu** fuimos todos bautizados en un cuerpo,*…”
+##### Gálatas 3:27 – “*porque todos los que habéis sido bautizados en Cristo, de Cristo estáis **revestidos***.”
+#### Este pasaje no se refiere a un bautismo en **agua**. Explica el bautismo espiritual, en el cual fuiste colocado en, o identificado con Cristo. Marcos 1:8; Lucas 13:16; Hechos 1:5, 11:16
+#### Como parte de tu nuevo **nacimiento**, fuiste tomado de Adán y colocado en Cristo. Cristo, no Adán, es ahora tu cabeza nacional, y todo lo que es cierto de Cristo, es cierto de ti. 
+#### Lo creas o no, este es **quién** eres. Esta es tu realidad ante Dios. Ahora depende de ti vivir en la realidad de lo que Dios dice que es cierto de ti en Cristo.
+### Romanos 6:3d – “*…todos los que hemos sido bautizados en Cristo Jesús, hemos sido bautizados en su **muerte**?”* Cuando el Espíritu Santo te colocó en Cristo, fuiste identificado con Cristo en Su muerte. En Cristo moriste. Su muerte llegó a ser tu muerte.
+### Romanos 6:4 – “*Porque somos sepultados juntamente con él para muerte por el bautismo, a fin de que como Cristo resucitó de los muertos por la gloria del Padre, así también nosotros **andemos** en vida nueva*.” Dios ahora te ve como una persona que murió, fue sepultada y luego resucitó a novedad de vida.
+#### No solamente moriste con Cristo; también fuiste **resucitado** con Él. Efesios 2:4-6
+#### El **hecho** de que fuiste resucitado con Cristo hace posible para ti caminar *en vida nueva*. Colosenses 3:1-4
+#### No tienes que vivir en el fracaso y la derrota. Ahora puedes vivir en la **victoria** de Cristo y experimentar la *nueva* vida abundante que Cristo promete. Juan 10:10, 2 Corintios 5:17
+### Romanos 6:5 – “*Porque si fuimos plantados juntamente con él en la semejanza de su muerte, así también lo seremos en la de su resurrección*. Dios te considera **unido** a Cristo tanto en su muerte como en su resurrección;” 1 Corintios 15:20-26
+#### Tu futura resurrección corporal se basa en el **hecho** de que, en la apreciación de Dios, tú estás unido a Cristo. 
+#### Si Dios considera que este hecho es verdadero acerca de ti, ¿no puedes hacer lo mismo hoy? Si **fallas** en reconocer y abrazar la verdad de que estás unido a Cristo en Su muerte y resurrección, tu crecimiento como cristiano será cohibido.
+#####
+######
+## **Romanos 6:6-10 – Conociendo el significado de tu muerte al pecado con Cristo**
+### Romanos 6:6a – *“sabiendo esto, que nuestro **viejo hombre** fue crucificado juntamente con él*,”
+#### La frase *viejo hombre* se refiere a tu antigua identidad en **Adán**. Tu **antiguo yo** es **todo lo que eras en Adán** antes de la salvación. 
+##### Debido a que tu *viejo hombre* fue crucificado con Cristo en la cruz, ya no estás relacionado con Adán. Tu vieja **identidad** en Adán se ha ido; es historia pasada.
+##### En la salvación, asumiste una nueva identidad. Naciste de nuevo y te convertiste en una **nueva** creación en Cristo. 2 Corintios 5:17 
+##### El *viejo hombre* no es sinónimo de tu vieja naturaleza, también llamada la carne o la naturaleza de pecado. El viejo hombre está crucificado y se ha **ido**, mientras que la vieja naturaleza permanece con nosotros siempre que estemos aún en estos cuerpos carnales recibidos de Adán. 1 Corintios 15:45
+#### La palabra *crucificado* implica ser **condenado** a muerte por ley. Tu *viejo hombre*, esa persona que eras en Adán, fue legalmente condenada a muerte; *fue crucificado*.
+#### ¿Qué más **logró** Dios a través de esta crucifixión?
+### Romanos 6:6b – Dios nos crucificó juntamente con Cristo “…*para que el cuerpo del pecado sea destruido,…”* El término *cuerpo del pecado* no se refiere al **cuerpo** humano. Romanos 7:17-19
+#### Aunque el cuerpo humano está bajo la maldición de Dios y aún no está glorificado, no es **malo** por naturaleza. El cuerpo no es la fuente raíz del pecado en la vida de un creyente. Romanos 8:22
+#### Tu cuerpo humano es en el presente el **templo** del Espíritu Santo. Si tu cuerpo fuera naturalmente malo, Dios no viviría allí. 1 Corintios 6:13-20
+#### Dios también nos dice que **presentemos** nuestros cuerpos como un sacrificio vivo. En el Antiguo Testamento, los corderos sacrificados por los israelitas tenían que ser aceptables. Dios no aceptaría tu cuerpo como un sacrificio si fuera intrínsecamente malvado. Romanos 12:1-2
+#### Concluimos entonces que el término *cuerpo del pecado* se refiere a la naturaleza de pecado. La naturaleza de pecado es innata e incurablemente **malvada**. Tu cuerpo humano solo se convierte en un instrumento del pecado cuando está dominado por la naturaleza de pecado. Romanos 6:12
+### Romanos 6:6c – “…*sea destruido,…”* La frase *sea destruido* (KATARGEO) significa ser despojado de poder o estar fuera de actividad. No significa aniquilación. La naturaleza de pecado no fue aniquilada en la salvación, pero Dios destruyó su autoridad sobre nosotros. A fin de liberarnos para el servicio, Dios despojó de **poder** a la naturaleza de pecado.
+#### Aquellos que enseñan que la naturaleza de pecado fue erradicada en la salvación afirman que pecamos debido a profundos surcos en el cerebro formados por malos hábitos. Creen que la forma de dejar de pecar es volver a entrenar el cerebro formando nuevos **hábitos**. Sin embargo, esto sólo resulta en un auto esfuerzo perdido.
+#### Estos maestros asumen falsamente que la santidad viene por controlar el **cuerpo** humano. Ellos enseñan erróneamente el legalismo, el misticismo, la dura auto moderación u otras filosofías humanas como formas de combatir el pecado en la vida del creyente. Colosenses 2
+#### Sin embargo, la provisión de Dios para una vida piadosa no depende del esfuerzo humano sino más bien de caminar a la luz de nuestra **identidad** en Cristo.
+### Romanos 6:6d – “…*a fin de que no **sirvamos** más al pecado.”* La esclavitud obligatoria a la naturaleza de pecado terminó cuando el viejo hombre, la persona que éramos en Adán, fue crucificado con Cristo. Gálatas 2:20
+#### Toma en cuenta que Pablo no dijo que ya no debemos ser esclavos del cuerpo humano; él dijo que ya no debemos ser esclavos del **pecado**.
+#### Aquí en el griego, como en el español, la palabra pecado es en realidad “**el** pecado” y se refiere a la naturaleza de pecado, no a los pecados individuales. Como creyentes, identificados con Cristo, ya no debemos ser esclavos de la naturaleza de pecado.
+### Romanos 6:7 – “*Porque el que ha muerto, ha sido justificado del pecado*.” Tu libertad del **poder** de la naturaleza de pecado se basa en tu nueva identidad. Como creyentes, “…*fuimos plantados juntamente con él en la semejanza de su muerte,…”* Romanos 6:5
+#### *“Porque el que ha muerto,…”* Es importante recordar una vez más que en la obra de identificación de Dios, **morimos** (Rom. 6:2, 7) a la naturaleza de pecado. La naturaleza de pecado no murió.
+#### Debido a nuestra identificación con Cristo en Su muerte, hemos _sido **justificado**_**[s]** _del pecado_. Aunque la naturaleza de pecado no está erradicada, ya no tiene ninguna autoridad para dominar nuestras vidas. Romanos 8:3-4
+### Romanos 6:8 – “*Y si morimos con Cristo,* [entonces] *creemos que también viviremos con él;”* Dios considera que esta verdad con respecto a nuestra identificación con Cristo es 100% una **realidad** y nosotros también debemos hacerlo.
+#### Romanos 6:8a – “*Y si…”* (*si* es una condición griega de primera clase, que quiere decir que el que habla asume una realidad) “…*morimos con Cristo,…”* (y lo hicimos), [entonces*] “…creemos que también **viviremos** con él;”* (y lo haremos).
+##### Puesto que, en la estimación de Dios, la muerte de Cristo ya **cuenta** por tu muerte, no debes intentar morir a ti mismo.
+##### Como creyente ya has muerto con Cristo. Es un **hecho** histórico, no una acción futura que debas iniciar.
+#### Romanos 6:8b – *“…creemos que también **viviremos** con él*;” Como creyente, tu muerte con Cristo es tan válida para Dios que, a pesar de que “…*está establecido para los hombres que mueran una sola vez*,…” (Heb. 9:27), si el rapto ocurriera hoy, irías directamente al cielo sin que tu cuerpo experimentara una muerte física.
+### Romanos 6:9 – “*sabiendo que Cristo, habiendo resucitado de los muertos, ya no muere; la **muerte** no se enseñorea más de él.”* Cristo conquistó la muerte, y porque estás identificado con Cristo, tú también conquistaste la muerte a través de Él. 
+#### Necesitamos saber que Cristo murió *una vez* y fue resucitado de entre los muertos *una vez*, y en estas acciones, Él conquistó la muerte ***una vez*** por todas.
+#### Cristo permitió que la muerte lo dominara una vez, pero nunca lo volverá a hacer. Cristo ahora domina a la muerte. Él posee las **llaves** de la muerte y del infierno. Hebreos 2:1415, Apocalipsis 1:18
+### Romanos 6:10a – “*Porque en cuanto murió, **al pecado** murió…”* ¿Cuál es el significado de la muerte de Cristo en este versículo?
+#### Sabemos que “…*Que Cristo murió por nuestros pecados*,…” (1 Cor. 15:3, 1 Ped. 3:18), pero aquí Pablo incluyó otro **aspecto** de la muerte de Cristo. Cristo también murió “…*al pecado…”* en nuestro nombre. Romanos 8:3; 1 Pedro 2:24 (LBLA)
+#### El pecado aquí es un **sustantivo** singular que se refiere a la naturaleza de pecado. Romanos 7:17-18
+#### Ya que Cristo murió *al pecado* en nuestro nombre, en Él estamos **muertos** a la naturaleza de pecado. Esta es nuestra realidad ante Dios y no hay nada que podamos hacer para hacerlo más verdadero de lo que ya es. Simplemente necesitamos creer lo que ya es cierto de nosotros. 1 Pedro 2:24 (LBLA)
+#####
+### Romanos 6:10b– *“…al pecado murió **una** **vez…”*** Cristo no necesita volver a morir. Él murió una vez; por lo tanto, en Él tú también moriste una vez a todo el reino del pecado. Hebreos 7:27, 9:28
+####
+### Romanos 6:10c – *“…al pecado murió una vez **por** **todas;…”*** Su única muerte fue por toda la humanidad, a pesar de que sólo los que creen en Él se benefician. Su única muerte fue suficiente para liberarnos de todas las formas de maldad, incluyendo a Satanás, el mundo, los pecados en plural, y específicamente en este contexto, a la naturaleza de pecado. Hebreos 2:9, 10:10
+####
+### Romanos 6:10d – “…*mas en cuanto vive, para **Dios** vive*.”
+#### La vida que vive Cristo (tiempo presente), Él la **vive** para Dios solamente.
+#####
+#### La vida de resurrección de Cristo es la base de tu **poder** para vivir tu vida para Dios también. Efesios 1:19-20; Colosenses 1:27b, 3:4
+#### Porque Dios ahora te identifica con el Cristo viviente, en Cristo no sólo estás muerto al pecado, sino también maravillosamente **vivo** para Dios. 2 Timoteo 2:11
+# **Romanos 6:11-23 – La Doctrina de la Santificación - Haciendo Práctica la Santificación**
+## **Romanos 6:11 – Contando con tu nueva identidad**
+### Romanos 6:11 – “*Así también vosotros consideraos muertos al pecado, pero **vivos** para Dios en Cristo Jesús, Señor nuestro*.”
+#### Esta es la primera orden para los cristianos en el **libro** de Romanos.
+#### Si bien es maravilloso saber acerca de tu identidad en Cristo, el conocimiento por sí solo no es suficiente. Lo que sabes no te ayuda a menos que **cuentes** con ello por fe.
+#### En otras palabras, puedes saber que fuiste colocado en la muerte, sepultura y resurrección de Cristo, y sin embargo, nunca **beneficiarte** de ello. ¿Qué vas a hacer con el conocimiento de tu identificación con Cristo recientemente explicado en Romanos 6:1-10?
+### Romanos 6:11a – “*Así también vosotros consideraos*…” ¿Qué significa **considerar**?
+#### El verbo griego *considerarse* (LOGIZOMAI) es traducido **pensar** (*pensad*) en algunas traducciones antiguas de la Biblia. Este verbo es utilizado al menos 20 veces en romanos. 
+#### *Considerar* (LOGIZOMAI) es un concepto contable o matemático. Las matemáticas y la contabilidad tratan con certezas. Por ejemplo, dos más dos siempre son cuatro. Cuando se trata de **matemáticas**, lo que es verdad hoy sigue siendo verdad mañana. 
+#### Considerarse, o contarse, significa contar con certezas. Significa contar con hechos que son siempre ciertos. Tu co-crucifixión con Cristo es **cierta** acerca de ti ya sea que lo creas o no.
+#### Considerarse, o contarse, no significa…
+##### No es pensamiento **creativo** o imaginativo.
+##### No es intentar **convencerte** a ti mismo de que algo es verdad. 
+##### No es existencialismo, en el que lo que crees se convierte en tu **verdad** personal, sea verdaderamente cierto o no.
+##### No es meramente un pensamiento **positivo**.
+#### ¿Dónde te deja esto? 
+##### Estás muerto al pecado y vivo para Dios, punto. Pero a menos que tú personalmente, por fe, cuentes con que este hecho es cierto acerca de ti, no tendrá ningún **valor** para tu diario vivir.
+##### Si no **cuentas** con este hecho bíblico diariamente por fe, tienes garantizado ser dominado por la naturaleza del pecado, a pesar de que no tiene que ser así.
+######
+### Romanos 6:11b – Tú debes* considerarte *“…muerto* [*de cierto*, RVA 1909] *al **pecado***,…” Colosenses 2:20, 3:1-3
+#### De Romanos 6:1-10, sabemos que estamos muertos a la naturaleza de pecado, pero ahora por fe, Dios quiere que comencemos a contar con este hecho. Esto es importante, porque no importa cuánto tiempo hayas sido creyente, por **defecto** enfrentas la tentación de caminar según la naturaleza de pecado todos los días de tu vida. Romanos 6:6
+#### Debido a que moriste a la naturaleza de pecado, ya no tienes ninguna obligación con ella. La naturaleza de pecado ya no tiene ninguna autoridad en tu vida. Dios te ordena personalizar esta verdad. Él quiere que **confíes** continuamente en esta realidad.
+### Romanos 6:11d – También se te ordena considerarte *“…**vivo** para Dios en Cristo Jesús, Señor nuestro*.” Colosenses 3:4
+#### En Adán, estabas **muerto** en tus pecados. No tenías para nada relación alguna con Dios. De hecho, eras Su enemigo. Efesios 2:1-3
+#### En Cristo, por otro lado, estás vivo para Dios. Cuando moriste con Cristo en la cruz, la persona que eras en Adán murió y naciste de nuevo con una nueva **vida** y una nueva identidad. 2 Corintios 5:17, Santiago 1:18
+#### Ahora que estás vivo para Dios, tienes una relación con Él. Puedes venir **confiadamente** a la presencia de Dios. Puedes conocer al Dios del universo y arrojar todas tus preocupaciones sobre Él. 1 Corintios 1:9, Efesios 2:5-6, Colosenses 3:3, Hebreos 4:16, 1 Pedro 1:23
+#### Estando vivo para Dios, eres capaz de **agradar** a Dios y vivir para Sus propósitos y gloria. Filipenses 1:21
+## **Romanos 6:12-14 – Presentando tus miembros** 
+### Romanos 6:12 – [*Por tanto*, LBLA] *“No reine, pues, el pecado en vuestro cuerpo mortal, de modo que lo obedezcáis en sus concupiscencias*.” Este es la segunda orden en el libro de romanos. Por fe, no debes permitir que tu cuerpo sea **usado** por la naturaleza de pecado.
+#### *Por tanto*… [LBLA]. La orden en Romanos 6:11 de considerarte, por **fe**, muerto al pecado y vivo para Dios – debe afectar tu vida diaria.
+#### *“No reine, pues, el pecado en vuestro cuerpo mortal, de modo que lo obedezcáis en sus concupiscencias*.” Este mandato – de no permitir que tu **cuerpo** sea gobernado por la naturaleza de pecado – se basa en el hecho de que estás legalmente muerto a la naturaleza de pecado y no tienes ninguna obligación de responder a ella.
+##### Pablo no estaba diciendo que se **resista** a la naturaleza de pecado ordenándole que se fuera o diciéndole “no”. Esto sería volver al esfuerzo humano.
+##### Tú no debes pelear u oponerte a la naturaleza de pecado en tu propia fuerza. Más bien, basado en el hecho de que estás muerto a ella, no debes **responder** a sus estimulaciones. En relación con la naturaleza de pecado, estás muerto. Créelo.
+### Romanos 6:13a – Pablo continuó clarificando el pensamiento anterior. “*ni tampoco presentéis vuestros miembros al pecado como instrumentos de iniquidad*,…” *Miembros* significa partes. Por fe, debes dejar de presentar las partes de tu cuerpo a la naturaleza de pecado como **herramientas** o armas para la injusticia. 
+### Romanos 6:13b – “…*sino **presentaos** vosotros mismos a Dios como vivos de entre los muertos, y vuestros miembros a Dios como instrumentos de justicia*.”	
+#### El verbo *presentar* (PARISTEMI) significa acercarse y permanecer. PARISTEMI como palabra compuesta es derivada de PARA que significa “junto a” y HISTEMI que significa “**parar**” o "pararse firme”.
+#### Esta palabra podría usarse para describir una unidad militar que se mantiene atenta. En el ejército, los soldados se presentan voluntariamente, armados y listos, esperando **órdenes**.
+#### Basado en tu nueva vida junto con Cristo, debes por **fe**, no por esfuerzo humano, presentar tus miembros a Dios como Sus instrumentos de la justicia.
+#### En algunos idiomas traducen *presentéis* como *ceder o entregar*, pero esto transmite un concepto erróneo. No es la mejor traducción de la palabra **griega** PARISTEMI. Ceder y entregar implican un esfuerzo humano en lugar de ser simplemente una cuestión de fe. Romanos 12:1-2
+### Romanos 6:14a – “*Porque el pecado no se enseñoreará de vosotros; pues no estáis bajo la ley,…”* En otras palabras, si estuvieras viviendo bajo la ley, el pecado **sería** tu amo. El legalismo te hace en realidad un esclavo de la naturaleza de pecado. Las leyes y reglas motivan, en lugar de desmotivar, el pecado. Romanos 7:5
+### Romanos 6:14b – “*Porque el pecado no se enseñoreará de vosotros; pues …estáis …bajo la gracia*.” La vida *bajo la **gracia*** es superior. La gracia de Dios te guarda de convertirte en esclavo de la naturaleza de pecado. La gracia es el poder de Dios para cambiar nuestras vidas. Vive por gracia y la naturaleza de pecado no será tu amo. Tito 2:11
+## **Romanos 6:15-18 – ¿Quién es tu señor?**
+### Romanos 6:15-16 – Necesitamos entender las consecuencias destructivas de vivir **bajo** la naturaleza de pecado como amo.
+#### Romanos 6:15a – “*¿Qué, pues? ¿Pecaremos, porque no estamos bajo la ley, sino bajo la gracia?...”* Ya que estamos bajo la gracia, ¿por qué no seguir pecando? La mayoría de la gente piensa que la gracia conduce a pecar. Ellos piensan que la forma de guardarse de pecar es a través de **normas** y regulaciones.
+#### Romanos 6:15b – La respuesta de Pablo fue, “*En ninguna manera”* Sólo porque no estás bajo la ley, no significa que eres libre de pecar. Pablo no **enseñó** que los cristianos debían pecar.
+#### Romanos 6:16a – “*¿No sabéis que si os sometéis a alguien como esclavos para obedecerle, sois **esclavos** de aquel a quien obedecéis,…?”*
+##### Aquí Pablo dio una segunda razón por la cual los cristianos no deberían pecar: *sois esclavos de aquel a quien **obedecéis***.
+##### Todas las **personas** sobre la tierra, tanto creyentes como incrédulos, son esclavos. 
+###### Las personas no salvas **no** tienen elección de quién será su amo. Están atrapados en esclavitud a su naturaleza de pecado. 
+###### Los cristianos pueden **elegir** de quién serán esclavos. Esta es una verdad crítica.
+##### Como cristiano, te conviertes en esclavo de aquel a quien te presentas. En cualquier momento dado, eres ya sea, un esclavo de Dios, lo que resulta en justicia, o un esclavo de la naturaleza de pecado, lo que resulta en **muerte**. Gálatas 6:7-8
+##### El **éxito** o fracaso de tu vida cristiana depende de si te consideras o no muerto al pecado y vivo para Dios y presentas tus miembros a Dios como instrumentos de justicia. 
+#### Romanos 6:16b – “*¿No sabéis que …*sois esclavos de aquel a quien obedecéis, sea del pecado para muerte, o sea de la obediencia para justicia?” Te conviertes en esclavo de aquel a quien te **presentas**. 
+##### Los dos amos que se presentan aquí son paralelos a Gálatas 5:16-25 (LBLA) en el cual la naturaleza de pecado y el Espíritu Santo **guerrean** por el control sobre ti. Mateo 6:24
+##### Si te presentas a la naturaleza de pecado que mora dentro, cosecharás, sin excepción, una **cosecha** de muerte. Romanos 6:21, Gálatas 6:8a
+##### Pero si te presentas ante el **Espíritu** Santo que mora en ti, el resultado será justicia. Romanos 6:22, Gálatas 6:8b
+### Romanos 6:17-18 – La única forma de dejar de pecar es, por fe, **aplicar** las verdades enseñadas en este capítulo.
+#### Romanos 6:17 – “*Pero gracias a Dios, que aunque erais esclavos del pecado, habéis obedecido de corazón a aquella forma de doctrina a la cual fuisteis entregados*;” Aunque los creyentes romanos habían sido esclavos de su naturaleza de pecado, estaban comenzando a **disfrutar** de la libertad al vivir de acuerdo con estas verdades de identificación.
+#### Romanos 6:18 – “*y libertados del pecado, vinisteis a ser siervos de la justicia*.” Los creyentes romanos no solo deben haber entendido su libertad del **pecado**, sino que, obviamente, también contaron con ello por fe, porque Pablo dijo que ellos vinieron *a ser siervos de la justicia*.
+## **Romanos 6:19-23 – La santificación hecha simple** 
+### Romanos 6:19 –** Antes de que fueras creyente, presentabas con entusiasmo tu cuerpo físico a la naturaleza de pecado. Ahora, si de la misma manera presentas tus miembros al Señor, el **resultado** será la santificación, el proceso de llegar a ser más parecido a Cristo.
+#### Romanos 6:19a – **“***Hablo como humano, por vuestra humana debilidad;…”* Tendemos a complicar la vida cristiana, pero Pablo quería hacer que esta **verdad** se entendiera tan fácilmente como fuera posible. 2 Corintios 11:3
+#### Romanos 6:19b – **“…***que así como para iniquidad presentasteis vuestros miembros para servir a la inmundicia y a la iniquidad,…”* Antes de que fueras salvo, ibas presentando las **partes** de tu cuerpo (manos, ojos, pies, mente, etc.) a la naturaleza de pecado para cometer actos de pecado. Esto resultó en más y más maldad en tu vida.
+#### Romanos 6:19c – **“…***así ahora para santificación presentad vuestros miembros para servir a la justicia*.” De la misma manera que solías presentar las partes de tu cuerpo a la naturaleza de pecado, **preséntalas** ahora a Dios y crecerás para ser más y más como Cristo.
+### Romanos 6:20 – “*Porque cuando erais esclavos del pecado, erais libres acerca de la justicia*.” Cuando aún no eras salvo, eras totalmente eximido de hacer lo que era **correcto**. Dios no te importaba en absoluto.
+### Romanos 6:21 – “*¿Pero qué fruto teníais de aquellas cosas de las cuales ahora os avergonzáis? Porque el fin de ellas es muerte*." Tu esclavitud a la naturaleza de pecado no te consiguió más que fracaso, **vergüenza** y muerte.
+### Romanos 6:22a – “*Mas ahora que habéis sido libertados del pecado*…” A través de la obra de Dios de identificarte con Cristo en Su muerte y resurrección, has sido liberado del **antiguo** amo malvado, la naturaleza de pecado. Gálatas 5:1
+### Romanos 6:22b – “…*y hechos siervos de Dios,*…” Como **hijo** de Dios y creyente en Jesucristo, Dios es tu nuevo amo y Señor. 1 Corintios 6:19-20
+### Romanos 6:22c – “…*tenéis por vuestro fruto la santificación,…”* A medida que te presentas al Señor, comienzas a **vivir** justamente, y, de hecho, sacas partido del poder de Dios sobre el pecado en tu vida.
+### Romanos 6:22e – “…*y como fin, la vida eterna.”* La vida eterna es tanto una cantidad de **vida** (interminable) como también una calidad de vida (abundante). Juan 17:3
+#### Aunque **cada** creyente tiene la *vida eterna* como una posesión permanente, en este versículo, Pablo habló de nuestra *vida eterna* como la calidad de vida que el creyente disfruta como resultado de haber *“…sido libertados del pecado y hechos siervos de Dios,…”*
+#### La *vida eterna* no es meramente una vida infinita a poseer, es también una calidad de **vida** a experimentar. Esta es la vida abundante que Cristo prometió. Puedes comenzar a vivir verdaderamente en este mismo momento. Juan 10:10b, Gálatas 2:20, Colosenses 3:3-4, 1 Timoteo 6:12, 2 Timoteo 1:10
+### Romanos 6:23 – “*Porque la paga del pecado es muerte, mas la dádiva de Dios es vida eterna en Cristo Jesús Señor nuestro*.” Entonces, ¿qué será para ti, la **vida** o la muerte?
+#### A menudo usamos Romanos 6:23 cuando compartimos el evangelio, pero el **contexto** real se refiere a la cosecha que recibimos del amo a quien nos presentamos como creyentes.
+#### En la vida cristiana, el resultado de presentarte en esclavitud a la naturaleza de pecado es una ruptura en la comunión con Dios, o un tipo de **muerte** de la comunión. Esto no significa que pierdes tu salvación, pero ciertamente pierdes tu gozo. 1 Juan 1:6
+#### A la inversa, el resultado de presentarse ante Dios, basado en tu posición en Cristo de estar muerto al pecado y vivo para Dios, es el regocijo tanto de vida eterna como **abundante**. ¿Estás viviendo esta maravillosa vida eterna hoy? Juan 17:3, 1 Juan 1:3b-4
+# **Romanos 7:1-25 – La Doctrina de la Santificación - Tu Nueva Relación con la Ley**
+## **Definiendo términos**
+### **Muerte** – Cuando ves la palabra **muerte** en las Escrituras, debes determinar su significado.
+#### El término **bíblico** para muerte no significa cesación de la existencia o aniquilación.
+#### El concepto de muerte en la Biblia normalmente transmite un **estado** de separación.
+##### La **muerte física** es la separación del espíritu y el alma del **cuerpo** (Gn. 5:5). La Biblia enseña que incluso después de la muerte física, el alma y el espíritu continúan viviendo. Lucas 16:22-23, 23:43; Filipenses 1:21-26
+##### La **muerte espiritual** es la separación del cuerpo, el alma y el espíritu de **Dios**, la Fuente y el Dador de la vida. 
+###### Todas las personas nacen en esta condición de **muerte** espiritual. Génesis 2:17; Juan 3:3-5; Efesios 2:1, 5
+###### A fin de ser hechas **vivas** para Dios, las personas necesitan nacer de nuevo en la familia de Dios. Efesios 2:5-6, Colosenses 2:13
+##### La **muerte eterna**, también llamada la **segunda** muerte, es la separación de Dios por la eternidad en el Lago de Fuego. Apocalipsis 20:11-15
+##### La **muerte de comunión** es una **brecha** en la comunicación con Dios u otros creyentes. Esta también es llamada muerte temporal. 1 Timoteo 5:6, Apocalipsis 3:1
+###### Esta es una condición temporal que no anula el estatus legal de aceptación ante Dios de uno, pero sí **limita** la comunión de uno con Dios.
+###### La carnalidad, el legalismo y la mundanalidad, todas **llevan** a los creyentes a este malestar espiritual.
+### **Ley** – Cuando ves la palabra **ley** en la Biblia, debes determinar su significado.
+#### La ley puede referirse a las leyes **civiles** o sociales que gobiernan todas las sociedades humanas. Romanos 7:2; Daniel 6:8, 15
+#### La ley puede significar un principio que encontramos en la naturaleza o en la **vida**. La ley de la gravedad es un ejemplo de una ley natural. Romanos 8:2
+#### La ley puede referirse a las Escrituras del Antiguo Testamento en general, puede también referirse a las más de 600 leyes del Antiguo Testamento, o incluso más específicamente puede referirse a los **Diez** Mandamientos. Lucas 16:16-17
+## **Romanos 7:1-6 – Casados con Cristo**
+### Romanos 7:1 – “*¿Acaso ignoráis, hermanos (pues hablo con los que conocen la ley), que la ley se enseñorea del hombre entre tanto que éste vive?*” En esta sección, Pablo usó un ejemplo de la ley social para enseñar una importante **verdad** espiritual con respecto a la libertad del creyente del legalismo.
+#### Toda sociedad en la tierra entiende que cuando un individuo muere, las leyes de la sociedad **dejan** de tener autoridad sobre esa persona. Por ejemplo, las personas muertas no son convocadas, procesadas o encarceladas.
+#### Utilizando una ley específica, la ley del matrimonio, Pablo comparó la forma en que la muerte afecta la relación de una persona con la ley social del matrimonio con la forma en que la muerte afecta la relación de un creyente con el **legalismo** y la Ley de Moisés.
+### Romanos 7:2-3 – Pablo usó las leyes sociales que gobiernan el matrimonio para explicar nuestra **nueva** relación con el legalismo y la Ley del Antiguo Testamento, ahora que estamos en Cristo.
+#### Romanos 7:2a – “*Porque la mujer casada está sujeta por la ley al marido mientras éste vive;…”* Básicamente, en todo el mundo, de acuerdo con las leyes societarias del matrimonio, una mujer casada está legalmente atada a su esposo entre tanto que él **viva**.
+#### Romanos 7:2b – “…*pero si el marido muere, ella queda libre de la ley del marido*.” Pero si el esposo de la mujer **muere**, ella es inmediatamente liberada de la ley del matrimonio.
+#### Romanos 7:3a – “*Así que, si en vida del marido se uniere a otro varón, será llamada adúltera;…”* De acuerdo con la ley del matrimonio, si una mujer casada vive con otro hombre mientras su marido aún **vive**, se la considera culpable de adulterio.
+#####
+######
+#### Romanos 7:3b – “…*pero si su marido muriere, es libre de esa ley, de tal manera que, si se uniere a otro marido, no será adúltera.”* Pero si su esposo muere, ella queda **libre** de la ley del matrimonio y puede casarse legalmente con otro hombre. 
+### Romanos 7:4 – Comprender esta enseñanza puede **salvarte** de una vida de legalismo. Puede liberarte de la inútil frustración de tratar de guardar los Diez Mandamientos o intentar seguir otras listas de qué se debe y no se debe hacer.
+#### Romanos 7:4a – “*Así también vosotros, hermanos míos, habéis muerto a la ley mediante el cuerpo de Cristo,…”* Al igual que la mujer casada que es liberada de la ley del matrimonio por la muerte de su esposo, tú estás liberado de la Ley del Antiguo Testamento por tu **muerte** junto a Cristo. Gálatas 2:19-20
+##### Todo creyente ha *muerto a la ley* (Gal. 2:19). Esto significa que debido a tu co-crucifixión con Cristo, ya no estás bajo la jurisdicción de la **Ley** de Moisés, incluyendo los Diez Mandamientos, así como también todas las demás leyes dadas a la nación de Israel. Romanos 6:14, 7:6; Gálatas 3:24-35, 5:18
+##### Puesto que la Ley ya no tiene ninguna autoridad sobre ti, no tienes que vivir bajo el **aplastante** peso de sus obligaciones. Hechos 15:10, Gálatas 5:1
+##### Ya no tienes que intentar **ganarte** la aceptación de Dios por medio de la obediencia a la Ley. Como creyente en Cristo, ya eres plenamente aceptado como Su hijo. Colosenses 2:13-14
+##### ¿Por qué te era necesario **morir** a la Ley?
+#### Romanos 7:4b – *“…para que seáis de **otro**, del que resucitó de los muertos,…”* Cuando moriste con Cristo, la ley perdió su autoridad sobre ti y fuiste liberado *para que seáis de otro*. Ahora estás unido a Jesucristo, quien no es un capataz cruel como la Ley, sino un colaborador misericordioso.
+#### Romanos 7:4c – “…*a fin de que llevemos fruto para Dios*.” Mientras estabas bajo la Ley y su legalismo resultante, eras incapaz de agradar a Dios. Sin embargo, ahora que estás unido a Cristo, Él en gracia produce **frutos** para Dios a través de ti. Romanos 8:3, Gálatas 2:19-20, Filipenses 1:11
+### Romanos 7:5 – Cuando todavía eras un incrédulo, en la **carne** y casado con la Ley, la vida era casi insoportable.
+#### Romanos 7:5a – “*Porque mientras estábamos en la carne, las pasiones pecaminosas que eran por la ley obraban…”* Cuando todavía eras un incrédulo, la Ley desencadenaba tus deseos pecaminosos, por lo que querías hacer las mismas cosas que la Ley decía que **no** hicieras.
+#### Romanos 7:5b – “*…las pasiones pecaminosas …obraban en nuestros miembros…”* Tus **deseos** pecaminosos despertados por la naturaleza de pecado, se expresaban en múltiples actividades pecaminosas a través de las diversas partes de tu cuerpo humano.
+#####
+#### Romanos 7:5c – “*…llevando fruto para muerte*.” Tus pasiones pecaminosas acarrearon la **muerte** para ti.
+##### Esto no está hablando de muerte física inmediata, sino de una ruptura en la comunión con **Dios** y con los demás. 1 Juan 1:5-6
+##### El **resultado** de tu cuerpo siendo manejado por sus pasiones pecaminosas fue quebrantamiento, angustia y destrucción. Gálatas 6:8, Santiago 1:14-15
+### Romanos 7:6 – ¿A qué debe **asemejarse** tu vida ahora que estás casado con Cristo?
+#### Romanos 7:6a – “*Pero ahora estamos libres de la ley, por haber muerto para aquella en que estábamos sujetos,…”* Cuando moriste con Cristo en el momento de la salvación, fuiste liberado de la esclavitud a la Ley y su resultante **legalismo**. Colosenses 2:20-23, Gálatas 4:8-11, Efesios 2:1-3
+##### Cuando sientes que debes guardar **reglas** para servir al Señor, la vida se convierte en una carga pesada. Esta miserable consecuencia debería servir como una llamada de atención para alertarnos sobre el hecho de que algo está mal. 2 Corintios 3:4-8
+##### Algunos cristianos se consumen tratando de agradar a Dios a través de sus **propios** esfuerzos. Necesitamos el poder de Dios para hacer la obra de Dios.
+#### Romanos 7:6b – “…*de modo que sirvamos bajo el régimen nuevo del Espíritu y no bajo el régimen viejo de la letra*.” Esta frase bajo *el régimen viejo de la letra* se refiere a la Ley de Moisés. Ahora que estás bajo la **gracia**, no la Ley, y ahora que Cristo vive a través de ti, la vida puede ser verdaderamente gozosa y digna de ser vivida. 2 Corintios 5:17, 1 Juan 1:4
+## **Romanos 7:7-13 – La vida bajo la Ley**
+### Romanos 7:7 – Pablo mostró quién era el verdadero **culpable** de su pecado, y no era la Ley.
+#### *“¿Qué diremos, pues? ¿La ley es pecado?...”* Esencialmente, la pregunta que Pablo formuló fue esta: “¿Es la ley la de alguna manera **culpable** de mis acciones pecaminosas?” 
+#### *“…En ninguna manera. …”* La respuesta de Pablo fue: “¡Ni pensarlo!” La ley no es pecaminosa. La ley es **perfecta**, porque su autor es perfecto.
+#### *“…Pero yo no conocí el pecado sino por la ley;…”* La ley, en efecto, hizo su **trabajo**; le definió claramente el pecado a Pablo. Fue una excelente maestra. Gálatas 3:19, Romanos 3:19
+#### *“…porque tampoco conociera la codicia, si la ley no dijera: No codiciarás.”* Sin la ley, Pablo no habría sabido que era incorrecto **codiciar**. Romanos 3:19-20
+### Romanos 7:8-9 – Pablo reveló que la culpable era la **naturaleza** de pecado, no la ley.
+#### Romanos 7:8a – “*Mas el pecado, tomando ocasión por el mandamiento, produjo en mí toda codicia;…”* Era a la naturaleza de pecado a la que se debía culpar; la naturaleza de pecado **usó** la buena Ley de Dios para tentar a Pablo a pecar.
+#### Romanos 7:8b – “*…porque sin la ley el pecado está muerto*.” La naturaleza de pecado es alimentada por la Ley. Sin la ley para **desafiar**, la naturaleza de pecado permanece inactiva.
+#### Romanos 7:9a – “*Y yo sin la ley **vivía** en un tiempo;…”* Antes de que entendiera la Ley, Pablo vivía una vida despreocupada con respecto a cualquier responsabilidad por el pecado. Romanos 3:20
+#### Romanos 7:9b – “…*pero venido el mandamiento, el pecado revivió y yo morí*.” Una vez que Pablo escuchó y entendió la Ley, su naturaleza de pecado cobró vida, provocándole experimentar la **muerte**. Romanos 6:23
+### Romanos 7:10-11 – Pablo relató su frustración bajo la **Ley**.
+#### Romanos 7:10 – “*Y hallé que el mismo mandamiento que era para vida, a mí me resultó para muerte*;” La Ley que Pablo pensó que le ayudaría a **vivir** una buena vida resultó en traerle muerte.
+#### Romanos 7:11 – “*porque el pecado, tomando ocasión por el mandamiento, me engañó, y por él me mató*.” La naturaleza de pecado de Pablo utilizó la buena Ley de Dios como una oportunidad para destruirlo. La naturaleza de pecado lo engañó al **inducirlo** a quebrantar las leyes de Dios, causándole experimentar la muerte.
+### Romanos 7:12-13 – **Resumen** de las declaraciones de Pablo sobre la ley y la naturaleza de pecado
+#### Romanos 7:12 – “*De manera que la ley a la verdad es santa, y el mandamiento santo, justo y bueno*.” Como en el versículo 7, Pablo **nuevamente** reconoció la perfección de la Ley.
+#### Romanos 7:13a – “*¿Luego lo que es bueno, vino a ser muerte para mí? En ninguna manera;…”* Entonces, ¿causó la buena Ley de Dios la muerte de Pablo? **Nunca**. ¡Ni pensarlo! Él nunca culparía a la Ley perfecta de Dios por su pecado. Fue su naturaleza de pecado la que se aprovechó de la Ley y desencadenó su muerte. 
+#### Romanos 7:13b – *“…sino que el pecado* [la naturaleza de pecado]*, para mostrarse pecado* [o pecaminoso, sin artículo definido aquí] *produjo en mí la muerte por medio de lo que es bueno,…”* Fue la naturaleza de pecado de Pablo la que causó su muerte al aprovecharse **audazmente** de la buena Ley de Dios y hacerle pecar.
+##### La naturaleza de pecado es tan terriblemente **malvada** que tiene la audacia de aprovecharse de la buena y perfecta Ley de Dios para hacer pecar a una persona y causarle su muerte.
+##### El hecho de tener este discernimiento con respecto a la naturaleza de pecado no significa que no seas personalmente responsable de tus acciones pecaminosas, pero sí te **ayuda** a reconocer la fuente del pecado en tu vida.
+######
+#### Romanos 7:13c – “…*a fin de que por el mandamiento el pecado llegase a ser sobremanera pecaminoso*.” ¿Cómo **utiliza** Dios el abuso de tu naturaleza de pecado de la Ley y tu fracaso para tu bien?
+##### Dios usa esta nueva comprensión de cómo actúa tu **malvada** naturaleza de pecado para animarte a contar con las verdades de Romanos 6:11. Por fe, debes considerarte muerto a la naturaleza de pecado y vivo para Dios en Cristo.
+##### Esta comprensión debería estimularte a **presentar** las partes de tu cuerpo como instrumentos de justicia para Dios, como Romanos 6 lo enseña. Juan 15:5, 2 Corintios 12:9-10
+## **Romanos 7:14-23 – Una vida frustrada**
+### Romanos 7:14 – Pablo identificó la **raíz** del problema del pecado en su vida.
+#### Romanos 7:14a – “*Porque sabemos que la ley es espiritual*;…” Dado que la ley viene de **Dios**, es totalmente buena y perfecta. Es espiritual, no carnal.
+#### Romanos 7:14b – “*…mas yo soy carnal* (SARKIKÓS),…” Esta frase es traducible, “Soy de la carne o **carnal**”. Pablo se puso a sí mismo como ejemplo de lo que un creyente experimenta cuando camina según la carne. Él conocía esta frustración por experiencia personal, tal como la conocemos nosotros, si somos honestos.
+##### Cuando él dijo, “*…mas yo soy carnal*,…” Pablo no estaba confesando que él estaba caminando según la **carne** mientras escribía.
+##### Además, Pablo no estaba escribiendo sobre su vida **pasada** como persona no salva. De lo contrario, habría utilizado una descripción de los no salvos, similar a la que usó en Romanos 7:5 – “…*mientras estábamos en la carne,…”*.
+#### Romanos 7:14c – “…*mas yo soy carnal, vendido al pecado.”* Esto podría entenderse como: “Soy de la carne **cuando** me esclavizo a la naturaleza del pecado”. Pablo sabía a quién culpar por el pecado en su vida.
+##### En este versículo, Pablo se estaba refiriendo a la batalla que un creyente enfrenta cuando camina según la carne. Gracias a su propia experiencia personal, Pablo pudo usarse como un ejemplo del **creyente** que se encuentra bajo la dominación de la naturaleza pecaminosa.
+##### Cada vez que los creyentes se presentan a la naturaleza de pecado, los miembros de su cuerpo humano son utilizados por la naturaleza de pecado, lo que instantáneamente los hace de la carne o **carnales**. Gálatas 5:17
+### Romanos 7:15 – Pablo estaba perplejo por el hecho de que sus deseos y sus acciones no **coincidían**. Esto es exactamente lo que también nosotros experimentamos cuando caminamos por medio de la naturaleza de pecado.
+#### Romanos 7:15a – “*Porque lo que hago, no lo entiendo;…”* Pablo estaba frustrado porque no entendía sus propias **acciones**.
+#### Romanos 7:15b – “…*pues no hago lo que quiero,…”* Aunque él deseaba hacer lo que era **correcto**, en la práctica fue un total fracaso.
+#### Romanos 7:15c – “*…sino lo que aborrezco, eso hago*.” En lugar de hacer lo que era correcto, él continuó haciendo las cosas terribles que odiaba. Este tipo de **fracaso** es característico de un creyente cuando él o ella peca y se siente sin esperanzas de cambiar.
+### Romanos 7:16-20** – Pablo explicó la **miseria** de ser dominado por la naturaleza de pecado.
+#### Romanos 7:16 – En su **nueva** naturaleza, Pablo quería hacer lo que era correcto. 
+##### Romanos 7:16a – “*Y si lo que no quiero, esto hago,*…” Esto muestra que Pablo tenía una nueva naturaleza. La nueva persona que era en Cristo **deseaba** hacer lo que la Ley ordenaba.
+##### Romanos 7:16b – *“…apruebo que la ley es buena.”* La nueva naturaleza de Pablo sabía que la Ley era buena y quería **acatarla**.
+#### Romanos 7:17a – “*De manera que ya no soy yo quien hace aquello, sino el pecado que mora en mí*.” Pablo no estaba eludiendo su responsabilidad aquí. Él simplemente estaba confirmando que, obviamente, no era su nueva naturaleza la que lo estaba **haciendo** pecar.
+#### Romanos 7:17b – Pablo entendió que “…*el pecado que **mora**…”*interiormente*,* o sea su naturaleza de pecado, producía pecados en su vida anterior. En la vida del creyente la raíz del problema de pecar y fracasar es la misma naturaleza de pecado.
+#### Romanos 7:18 – “*Yo sé que en mí, esto es, en mi carne, no mora el bien; porque el querer el bien está en mí, pero no el hacerlo.”* La nueva naturaleza siempre desea hacer lo correcto (1 Juan 3:9); sin embargo, la naturaleza de pecado es absolutamente **incapaz** de agradar a Dios. Es incapaz de guardar la ley.
+#### Romanos 7:19 – “*Porque no hago el bien que quiero, sino el mal que no quiero, eso hago*.” Pablo nuevamente repitió su fracaso y frustración. Esto era obviamente un gran problema para él, como lo es para todos los creyentes. Cuando un creyente camina por el esfuerzo humano y no por el poder de Dios, él o ella **fracasará** cada vez. Gálatas 5:1624 (LBLA)
+#### Romanos 7:20 – “*Y si hago lo que no quiero, ya no lo hago yo, sino el pecado que mora en mí*.” Cuando ves pecados en tu vida, la **raíz** del problema es la naturaleza de pecado – *EL pecado que mora en mí*. Romanos 7:15, 16, 19, 20
+### Romanos 7:21-23 – Pablo concluyó que hay un principio de **maldad** en cada creyente.
+#### Romanos 7:21 – “*Así que, queriendo yo hacer el bien, hallo esta ley: que el mal está en mí*.” Pablo describió la lucha del creyente que desea hacer lo correcto sin la **ayuda** del Espíritu Santo. Él conocía muy bien la misma batalla espiritual que se libra dentro de nosotros las 24 horas del día, los siete días de la semana. Gálatas 5:17
+#### Romanos 7:22 – “*Porque según el hombre interior, me deleito en la ley de Dios*;” La nueva naturaleza de Pablo, su hombre **interior**, estaba muy feliz de hacer lo correcto en obediencia a la Ley de Dios. Efesios 3:16
+#### Romanos 7:23a – “…*pero veo otra ley en mis miembros, que se rebela contra la ley de mi mente,…”* Aunque Pablo deseaba hacer lo correcto, había una **guerra** librándose en su interior. Su naturaleza de pecado estaba luchando en contra, y venciendo, los deseos de su nueva naturaleza. Gálatas 5:16-17 (LBLA)
+#### Romanos 7:23b – “…*y que me lleva cautivo a la ley del pecado que está en mis miembros*.” Pablo estaba perdiendo la guerra porque su nueva naturaleza no era rival para su naturaleza pecaminosa. Necesitaba el **poder** del Espíritu Santo, el cual pasó a explicar en Romanos 8. Romanos 7:14-15
+## **Romanos 7:24-25 – El reconocimiento de Pablo de la liberación en Cristo**
+### Romanos 7:24a – “*!Miserable de mí!...”* Pablo estaba totalmente exasperado en esta **batalla** con su naturaleza de pecado. Reconoció su propio fracaso e insuficiencia. Él estaba al límite de sí mismo y de sus propios esfuerzos humanos.
+### Romanos 7:24b – “…*¿quién me librará de este cuerpo de muerte?”* Pablo estaba haciendo la pregunta correcta cuando preguntó **quién** lo liberaría en lugar de **qué** lo libraría. La libertad que buscaba se encontraba en una **persona** y no en un método. 1 Corintios 1:30
+#### Pablo intuyó que necesitaba ser liberado de *este cuerpo de muerte*. No era de su cuerpo **físico** que necesitaba liberación.
+#### Él necesitaba ser liberado del *cuerpo de muerte*, o la naturaleza de **pecado**, que pesaba fuertemente sobre su cuerpo terrenal.
+### Romanos 7:25a – La liberación que Pablo buscaba viene a través de Jesucristo nuestro **Señor**. “*Gracias doy a Dios, por Jesucristo Señor nuestro. …”* Pablo no explicó las dinámicas de esta liberación en este pasaje, solo su confianza que viene a través de Jesucristo. Romanos 8; Gálatas 5:16, 24 (LBLA)
+### Romanos 7:25b – Resumen de la **batalla**: “…*Así que, yo mismo con la mente sirvo a la ley de Dios, mas con la carne a la ley del pecado*.”
+#### En su **nueva** naturaleza, Pablo quería gozosamente obedecer las leyes de Dios.
+#### Pero, por otro lado, con la naturaleza de pecado dominándolo, tristemente **servía** a la ley, o principio, del pecado.
+### Entonces, ¿cuál es la provisión de Dios para vivir la vida cristiana? Los detalles específicos no se encuentran en Romanos 7. Esto nos lleva a Romanos 8 y al ministerio del Espíritu **Santo** en nuestra santificación.
+###
+###
+###
+# **Romanos 8:1-17 – La Doctrina de la Santificación y el Espíritu Santo**
+## **Introducción**
+### El clamor de Pablo en Romanos 7:24 fue, *“!Miserable de mí! ¿**Quién** me librará de este cuerpo de muerte?*” Y su respuesta en el versículo siguiente fue, “*Gracias doy a Dios, por Jesucristo Señor nuestro*.”
+### A través de **Cristo**, Dios no solo proveyó para nuestra liberación eterna, Él también proveyó para nuestra liberación diaria. En este capítulo, Pablo dio una explicación detallada de la abundante provisión de Dios para nosotros en Cristo.
+## **Romanos 8:1-4 – Un nuevo principio para vivir**
+### Romanos 8:1a – “*Ahora, pues, ninguna condenación hay para los que están en Cristo Jesús*,…” Ahora que Dios nos identifica con Cristo Jesús, no necesitamos **temer** que seremos eternamente condenados. Romanos 8:33-34
+#### La palabra *condenación* (KATAKRIMA) significa juzgar **digno** de castigo. Los creyentes nunca están en peligro de ser considerados dignos de castigo y ser condenados al Lago de Fuego. Juan 3:18, 5:24
+#### “…*para los que están en Cristo Jesús,…”* Nuestra identificación con Jesucristo nos ha **liberado** de toda condenación. Su justicia ha llegado a ser nuestra justicia. Si aún así fuéramos condenados, Cristo también sería condenado, porque como creyentes estamos posicionados *en Cristo Jesús*. 2 Corintios 5:21; Efesios 1:3-5, 2:4-7; Colosenses 3:1-3
+### Romanos 8:1b – “…*los que no andan conforme a la carne, sino conforme al Espíritu*.” Debido a estar *en Cristo Jesús*, ningún creyente, espiritual o carnal, enfrentará **jamás** la condenación eterna. Los creyentes carnales a menudo enfrentan una auto condenación severa y debilitante por su comportamiento pecaminoso.
+### Romanos 8:2a – “*Porque la ley del Espíritu de vida en Cristo Jesús me ha librado de la ley del pecado y de la muerte*.” No solo somos libres del temor a la condenación, sino que ahora gozamos de un nuevo principio – *el Espíritu de vida en Cristo Jesús*. En esta **nueva** posición en Cristo, hemos sido liberados de la dominación obligatoria por la naturaleza del pecado. Romanos 7:25
+#### Romanos 8:2a – *“Porque la ley del Espíritu de vida en Cristo Jesús me ha librado…”* Observa que Pablo llamó a este nuevo principio el *Espíritu de vida en Cristo Jesús*. A través del Espíritu Santo, Cristo está **vivo** en nosotros. Romanos 8:9-11
+##### En Gálatas 2:20, Pablo confirmó esta verdad cuando escribió, “*Con Cristo estoy juntamente crucificado, y ya no vivo yo, mas vive **Cristo** en mí; y lo que ahora vivo en la carne, lo vivo en la fe del Hijo de Dios, el cual me amó y se entregó a sí mismo por mí*.” Colosenses 1:27
+##### En Juan 15:4-5 Jesús dijo, “*Permaneced en mí, y yo en vosotros. Como el pámpano no puede llevar fruto por sí mismo, si no permanece en la vid, así tampoco vosotros, si no permanecéis en mí. Yo soy la vid, vosotros los pámpanos; el que permanece en mí, y yo **en** él, éste lleva mucho fruto; porque separados de mí nada podéis hacer*.”
+##### Cristo nos hace **completos**. En Cristo tenemos todo lo que necesitamos para vivir la vida en abundancia. Colosenses 2:9-10a dice, “*Porque en él habita corporalmente toda la plenitud de la Deidad, y vosotros estáis completos en él.*” 
+##### Cristo es nuestra misma **vida**. Colosenses 3:4 dice, “*Cuando Cristo, vuestra vida, se manifieste, entonces vosotros también seréis manifestados con él en gloria.*”
+##### Para el apóstol Pablo, Cristo le dio a la vida un **nuevo** significado. Filipenses 1:21 dice, “*Porque para mí el vivir es Cristo, y el morir es ganancia*.”
+##### El mayor **deseo** de Pablo en la vida era ser justo en su conducta al confiar en Cristo. Él no quería volver a luchar para obtener algún tipo de justicia legalista y auto-realizada.
+###### Filipenses 3:9 – “*y ser hallado en él, no teniendo mi propia justicia, que es por la **ley**, sino la que es por la fe de Cristo, la justicia que es de Dios por la fe;”*.
+###### Filipenses 3:10-11 – “*A fin de conocerle, y el **poder** de su resurrección, y la participación de sus padecimientos, llegando a ser semejante a él en su muerte, si en alguna manera llegase a la resurrección de entre los muertos*.”
+#### Romanos 8:2b – El principio *del* *Espíritu de vida en Cristo Jesús “...me ha librado de la ley del pecado y de la muerte.”* Gracias a nuestra nueva posición en Cristo, ahora podemos experimentar total libertad del **antiguo** principio del pecado y la muerte.
+##### En el capítulo anterior, Pablo describió vívidamente el principio del pecado y la muerte. Compartió con franqueza que cuando la naturaleza de pecado lo estaba dominando, solo producía muerte y **ruina**. Él había estado atrapado en un ciclo interminable de pecado y fracaso, una muerte viviente.
+##### Bajo el nuevo principio del *Espíritu de vida en Cristo Jesús,* Dios nos proporciona Su Espíritu para que podamos llevar frutos para Dios. En lugar de muerte y ruina, ahora somos libres para experimentar **vida** abundante. Romanos 7:6; Gálatas 5:1, 16-18; Efesios 4:17-24
+### Romanos 8:3 – Dios **hizo** lo que la ley nunca podría hacer.
+#### Romanos 8:3a – “*Porque lo que era imposible para la ley, por cuanto era débil por la carne,…”* Debido a la forma en que la naturaleza de pecado se aprovecha de la santa y buena ley de Dios, la ley no tiene poder para **impedir** que una persona peque. Romanos 7:8, 11-13, 17-18, 20, 23
+##### Cuando éramos incrédulos, la ley no pudo **justificarnos** ante Dios. Romanos 3:20, Gálatas 2:16
+##### Y ahora que somos creyentes, la Ley no puede hacernos **santos** en nuestra conducta diaria.
+#### Romanos 8:3b – “*Porque lo que era imposible para la ley, por cuanto era débil por la carne, Dios,…”* lo hizo. Pablo no estaba hablando aquí solamente de nuestra justificación en el momento de la **salvación**.
+##### Pablo se estaba refiriendo a nuestra **libertad** del principio destructivo del pecado y la muerte.
+##### Dios hizo lo que la ley era incapaz de hacer. Dios creó un camino para que podamos **vivir** diariamente una vida justa y victoriosa.
+#### Romanos 8:3c – Dios lo hizo: “…*enviando a su Hijo en semejanza de carne de pecado y a causa del pecado, condenó al pecado en la **carne**;”* La respuesta a nuestra libertad de la dominación del pecado se encuentra en la venida del único Hijo de Dios, Jesucristo.
+##### La frase “…*en semejanza* (HOMOIOMA) *de carne de pecado…”* nos dice que Jesucristo fue humano de verdad. Él era **completamente** humano. Él tenía nuestra forma exacta y semejanza. Su cuerpo humano no era diferente de nuestros cuerpos humanos. Gálatas 4:4, Filipenses 2:6, Hebreos 2:17
+##### Este versículo no implica, sin embargo, que Cristo tuvo la misma naturaleza pecaminosa que el resto de la humanidad. Si eso fuera cierto, Cristo hubiera sido un pecador, pero sabemos que Él **nunca** pecó. Isaías 53:9, 2 Corintios 5:21, 1 Pedro 2:22
+##### Dios envió a su Hijo, como un humano genuino, para cumplir lo que la Ley era **incapaz** de hacer, es decir, traer justicia para todos nosotros.
+#### Romanos 8:3d – “…*Dios, enviando a su **Hijo** en semejanza de carne de pecado y a causa del pecado*,…”
+##### Aquí la frase “*a causa del pecado,*” en la Reina Valera (1960) no es la **mejor** traducción del texto original.
+##### Una mejor traducción de este verso podría ser; “Pues lo que la ley no pudo hacer ...Dios lo hizo: enviando a su propio Hijo en semejanza de carne de pecado... **por el pecado**.”
+##### La palabra **pecado** aquí es nuevamente singular, refiriéndose a la naturaleza de pecado.
+##### Literalmente, esto está diciendo que Dios Padre envió a Su propio Hijo por “el” pecado. Cristo vino a tratar con la naturaleza de pecado en nuestras vidas. Dios envió a Jesús, como humano, para **resolver** el problema de la naturaleza de pecado por nosotros.
+#### Romanos 8:3e – “…c*ondenó al pecado en la carne;”* Mientras estaba en la **cruz**, Cristo condenó la naturaleza de pecado que reside en nuestros cuerpos mortales.
+##### El propósito de la muerte de Cristo en la cruz no fue sólo perdonar nuestros pecados (plural), como vemos en 1 Corintios 15:3, sino también condenar a muerte nuestra naturaleza de pecado. Cristo no sólo trató con nuestros pecados, Él también trató con la **fuente** de nuestros pecados, más precisamente, la naturaleza de pecado. Romanos 6:10
+##### A través de Su muerte en la cruz, Cristo condenó la naturaleza de pecado en nosotros al dejarla **inoperante**. Romanos 6:6,** 12
+##### Cuando un edificio es clausurado y acordonado porque es declarado inoperante y destinado a la destrucción, aunque el edificio continúa existiendo hasta el **día** de su demolición, ya no es legalmente habitable.
+##### De manera similar, nuestra naturaleza pecaminosa está **sentenciada** a muerte. Va a ser destruida, ya sea en el momento de nuestra muerte o en el rapto de la iglesia.
+##### A pesar de que cualquier creyente honesto admitirá que su naturaleza de pecado todavía existe, la mayoría de los creyentes no comprenden que su naturaleza de pecado ha sido condenada por Cristo y ya no tiene autoridad irresistible para **controlar** sus vidas.
+#### Romanos 8:4 – “*para que la justicia de la ley se cumpliese en nosotros, que no andamos conforme a la carne, sino conforme al Espíritu*.” Debido a que tu naturaleza de pecado ha sido condenada, ahora eres **libre** de vivir una vida justa.
+##### Como creyente, puede **caminar** ya sea *conforme a la carne o conforme al Espíritu*. Puedes vivir tu vida cristiana bien conforme el principio del espíritu de vida o bien conforme al principio del pecado y la muerte.
+##### El creyente que camina según el Espíritu agradará a Dios y experimentará la **vida** abundante. Gálatas 5:16 (LBLA)
+##### Pero el creyente que se deja dominar por la naturaleza de pecado experimentará la **muerte** de comunión y la ruina eventual. Gálatas 6:8
+## **Romanos 8:5-8 – Características de la mente puesta en la carne y la mente puesta en el Espíritu**
+### Romanos 8:5 – Pablo contrastó una vida influenciada por la carne, o la naturaleza de pecado, con una vida influenciada por el **Espíritu** Santo. Gálatas 5:17
+#### Romanos 8:5a – En la Biblia de las Américas, la frase *“Porque los que son de la carne*…” es traducido, *“Porque los que viven conforme a la carne,*…”. Los incrédulos siempre viven de acuerdo a la carne; Ese es su **único** recurso. Romanos 7:5
+#####
+######
+##### Sin embargo, cuando los creyentes se **presentan** a la naturaleza de pecado, también están caminando *conforme a la carne* y los resultados son los mismos.
+##### Cuando los creyentes caminan de acuerdo a su naturaleza de pecado, se vuelven **mundanos**, carnales y no espirituales en su comportamiento. 1 Corintios 3:1-3
+#### Romanos 8:5b – “*…piensan en las cosas de la carne;…”* Los que viven conforme a la carne, ponen la mente en las cosas de la carne. Pensar o poner tu mente en las cosas de la carne significa **ocupar** tu pensamiento en los deseos pecaminosos de tu naturaleza de pecado.
+#### Romanos 8:5c – “…*pero los que son del Espíritu, en las cosas del Espíritu.”* En contraste, aquellos creyentes que caminan de acuerdo al Espíritu llenan sus mentes con las cosas que **agradan** a Dios.
+### Romanos 8:6 – Una mente puesta en la carne experimenta muerte carnal, mientras que una mente puesta en el Espíritu disfruta **vida** y paz. 
+#### Romanos 8:6a – “*Porque el ocuparse de la carne es muerte*,…” Muerte es un **sustantivo** aquí, enfatizando el estado miserable de la persona que pone su mente en la carne. Él o ella vivirá una vida sin sentido, carente de propósito y sin fruto. Juan 6:63
+#### Romanos 8:6b – *“…pero el ocuparse del Espíritu es vida y paz.”* La mente del creyente que camina de acuerdo al Espíritu Santo está llena de vida y **paz**.
+##### *Vida* (ZOE) en este contexto implica vida **real**. El resultado de caminar de acuerdo con el Espíritu es vida abundante. Juan 10:10, Efesios 3:19, 1 Timoteo 6:12
+##### Si caminas conforme al Espíritu, estarás en paz. La mayoría de los creyentes anhelan **disfrutar** paz interior verdadera. Juan 14:27, 16:33; Filipenses 4:7
+### Romanos 8:7 – “*Por cuanto los designios de la carne son **enemistad** contra Dios; porque no se sujetan a la ley de Dios, ni tampoco pueden*;” Todo lo que nace de la naturaleza de pecado es contrario a Dios. Gálatas 5:17
+#### La **mente** puesta en la carne es *enemistad contra Dios.* Quienes caminan por la carne son resistentes a Dios. Ellos a menudo culpan a Dios por ser distante o silencioso, mientras que el problema real es su propia carnalidad. Efesios 2:3
+#### La mente puesta en la carne *no se **sujeta** a la ley de Dios*. Aquellos que caminan por la carne no son sumisos a la Palabra de Dios. No creen lo que Dios dice ni hacen lo que Él quiere. 
+#### La mente puesta en la carne *tampoco **puede*** obedecer la ley de Dios. Es imposible para el creyente que camina por medio de la naturaleza de pecado complacer a Dios. Isaías 64:6 
+#### Cuando carecemos de paz, nos sentimos **lejos** de Dios, no queremos orar o experimentamos múltiples relaciones rotas, ciertamente estamos caminando de acuerdo con la carne y no de acuerdo con el Espíritu. Los cristianos que andan por la carne son fríos hacia Dios. Gálatas 5:16 (LBLA)
+### Romanos 8:8 – “*y los que viven según la carne no pueden agradar a Dios.”* Esta declaración está hablando específicamente de aquellos que no han creído en Jesucristo, los que están en la carne todavía y no pueden agradar a Dios en absoluto. Sabemos que los incrédulos viven según la carne en todo momento y son totalmente **incapaces** de agradar a Dios. Efesios 2:1-3
+#### Hablando de los incrédulos, el apóstol Pablo en Romanos 7:5 nos dijo: “*Porque mientras estábamos **en la carne**, las pasiones pecaminosas que eran por la ley obraban en nuestros miembros llevando fruto para **muerte**.*”
+#### A pesar de que este versículo describe al incrédulo, de la misma forma, todo creyente que escoge **caminar** según la carne instantáneamente deja de agradar a Dios. Romanos 8:4-5
+## **Romanos 8:9-11 – El creyente está *en el Espíritu***
+### Romanos 8:9a – “*Mas vosotros no vivís según la carne, sino según el Espíritu*,…” Los **creyentes** son descritos aquí como los que viven según el Espíritu. Esto es en contraste con los que incrédulos que por defecto, siempre viven según la carne.
+### Romanos 8:9b – “*…si es que el Espíritu de Dios mora en vosotros. …”* Todos los creyentes tienen el **Espíritu** Santo morando dentro de ellos. Juan 14:17; Efesios 1:13-14, 4:30; Santiago 4:5
+### Romanos 8:9c – *“…Y si alguno no tiene el Espíritu de Cristo, no es de él*.” Cualquier persona que no posee el Espíritu Santo no **pertenece** a Cristo, punto. 1 Corintios 12:13
+### Romanos 8:10 – “*Pero si Cristo está en vosotros, el cuerpo en verdad está muerto a causa del pecado, mas el espíritu vive a causa de la justicia*.” Si Cristo mora en ti por medio del Espíritu Santo, a pesar de que tu cuerpo físico esté sujeto a la muerte debido al pecado, tu espíritu humano está **vivo** porque has nacido de nuevo.
+### Romanos 8:11 – “*Y si el Espíritu de aquel que levantó de los muertos a Jesús mora en vosotros, el que levantó de los muertos a Cristo Jesús vivificará también vuestros cuerpos mortales por su Espíritu que mora en vosotros*.” Este versículo podría estar hablando de nuestra resurrección futura, pero en este contexto, creemos que está hablando de la habilitación **presente** del Espíritu Santo.
+#### Es cierto que en el futuro el Espíritu Santo **resucitará** el cuerpo mortal de cada creyente. Esto ocurrirá en el rapto. 1 Corintios 15:21-22
+#### También es cierto que el Espíritu Santo **refresca** diariamente a los creyentes en nuestros cuerpos físicos actuales, dándonos poder para el servicio. Juan 6:63, 68; 7:38-39
+#### El mismo Espíritu Santo que trajo a Jesucristo a la **vida**, vive actualmente dentro de ti para fortalecerte para un servicio fructífero. Romanos 12:1, Efesios 1:19-20, Colosenses 3:4
+## **Romanos 8:12-17 – Tu responsabilidad como creyente en Cristo**
+### Romanos 8:12-14 – “*Así que, hermanos,*…” A la luz del hecho de que la ley del Espíritu de vida nos ha liberado de la ley del pecado y la muerte, debemos **elegir** definitivamente vivir de acuerdo con el Espíritu. 
+#### Romanos 8:12 – “*Así que, hermanos, deudores somos, no a la **carne**, para que vivamos conforme a la carne*;” Como creyente, no tienes ninguna obligación de vivir de acuerdo con la carne, ser explotado por ella o forzado a soportar sus horribles consecuencias. Gálatas 6:7-8
+##### Muchos creyentes piensan que no tienen **esperanza** de cambiar alguna vez; imaginan que su naturaleza de pecado es más fuerte que la naturaleza de pecado de cualquier otra persona. 
+##### Estos creyentes están atrapados en el tipo de existencia de Romanos 7. Ellos intentan y **fracasan**, y eventualmente, muchos incluso dejan de buscar la santificación por completo. Romanos 7:24-25
+#### Romanos 8:13a – “*porque si vivís conforme a la carne, **moriréis**;…”* La muerte espera a aquellos que viven según la carne. Gálatas 6:7-8
+##### La frase “*moriréis”* podría ser traducida “estás a **punto** de morir”.
+##### Cuando caminas según la carne, **avanzas** hacia la muerte. ¿Cómo?
+###### Puedes experimentar muerte de comunión con el Señor y con otros creyentes al ser separado del **cuerpo** de Cristo por disciplina de la iglesia. 1 Corintios 5:1-13, 1 Timoteo 1:19-20
+###### Al ser entregado a **Satanás**, podrías ser atormentado o incluso morir físicamente en sus manos. Juan 15:6, 1 Timoteo 1:19-20
+###### Podrías experimentar la muerte repentinamente mediante la fuerte disciplina de Dios. Esto es referido a veces como pecado de **muerte**. Hechos 5:1-11, 1 Corintios 11:30, 1 Juan 5:16
+###### Podrías morir debido a los **resultados** innatos del pecado, como se observa en los siguientes versículos. Job 4:8; Romanos 6:16, 21-23; 8:2; Gálatas 6:7-8
+#### Romanos 8:13b – “…*mas si por el Espíritu hacéis morir las obras de la carne, viviréis.”* Dios promete que si por el Espíritu Santo, haces *morir las obras de la carne, **viviréis**.*
+##### No hacemos *morir las obras de la carne* por nuestra propia fuerza de voluntad. Esto es una cuestión de **fe**, no de obras. A medida que caminamos por fe y contamos con nuestra unión con Cristo en Su muerte (al pecado) y Su resurrección (a la novedad de vida), en realidad estamos aplicando la muerte de Cristo a las obras de nuestros cuerpos. Romanos 6:10-11
+##### Por fe, contamos con el **hecho** de que en Cristo morimos a la naturaleza de pecado, que es la raíz de todas las obras pecaminosas. Gálatas 5:24
+##### No solo estamos muertos al pecado en Cristo, sino que Dios también nos ha dado Su Espíritu. Es por el **poder** de Dios a través del Espíritu Santo dentro de nosotros que somos capaces de hacer morir las obras de la carne. Gálatas 5:16-23 (LBLA)
+######
+##### La frase “*viviréis*” es importante. Vivir de acuerdo con la carne acarrea muerte, pero, por otro lado, vivir de acuerdo con el Espíritu trae **vida**. Romanos 6:23
+###### Como ejemplo de cómo vivir abundantemente, Pablo escribió, “*Porque partiendo de vosotros ha sido divulgada la palabra del Señor, no sólo en Macedonia y Acaya, sino que también en todo lugar vuestra **fe** en Dios se ha extendido, de modo que nosotros no tenemos necesidad de hablar nada*” (1 Tesalonicenses 1:8).
+###### Los creyentes tesalonicenses estaban claramente viviendo por medio del poder habilitador del Espíritu Santo y su **testimonio** se estaba expandiendo poderosamente.
+Romanos 8:14 – “*Porque todos los que son guiados por el Espíritu de Dios, éstos son hijos de Dios*.” Caminar conforme al Espíritu no sólo resultará en vida abundante, caminar consistentemente conforme al Espíritu **resultará** en madurez.
+Gálatas 5:16, 22-23 (LBLA)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+##### En este versículo, Pablo no estaba poniendo en duda la salvación de aquellos creyentes que no estaban siendo consistentemente guiados por el Espíritu Santo en sus vidas; más bien, estaba haciendo una distinción práctica entre hijos **maduros** e inmaduros.
+##### La palabra que Pablo utilizó en este versículo para *hijos* (HUIOS) generalmente habla de hijos que son considerados maduros y responsables. Jesús usó este **término** cuando se describió a sí mismo como el Hijo de Dios y el Hijo del Hombre. Juan 1:49
+##### Sólo los creyentes que son guiados por el Espíritu Santo en sus vidas diarias son **hijos** (HUIOS) maduros y responsables.
+##### En Romanos 8:16-17, el término más general para hijos (TEKNON) es traducido como *hijos*. TEKNON generalmente describe cualquier descendencia. Juan 1:12 dice, “*Mas a todos los que le recibieron, a los que **creen** en su nombre, les dio potestad de ser hechos hijos* (TEKNON) *de Dios*.”
+### Romanos 8:15-17 – Sin embargo, ya sea que seamos guiados por el Espíritu o no, todos los creyentes somos aceptados como hijos **queridos** de Dios.
+#### Romanos 8:15 – “*Pues no habéis recibido el espíritu de esclavitud para estar otra vez en temor, sino que habéis recibido el espíritu de adopción, por el cual clamamos:!Abba, **Padre***!” Como creyente, deberías vivir en las verdades de Romanos 8 en lugar de vivir en la auto condenación descrita en la última sección de Romanos 7.
+##### Romanos 8:15a – “*Pues no habéis recibido el espíritu de esclavitud…”* Dios no quiere que tengas la mentalidad de un **esclavo**, tratando de sobrevivir manteniendo normas y regulaciones.
+##### Romanos 8:15b – “…*para estar otra vez en **temor***,…” Vivir por la ley conduce al temor al castigo. Aunque Dios disciplina a Sus hijos, nunca debemos temer el castigo eterno, porque Jesucristo llevó nuestro castigo sobre sí mismo en la cruz. Isaías 53:5-6, Romanos 8:1, 2 Tesalonicenses 1:8-9, 1 Juan 4:18
+##### Romanos 8:15c – “*…sino que habéis recibido el espíritu de adopción,…”* Como **hijo** de Dios, has sido liberado de la tiranía de la esclavitud a la Ley. 
+###### El término *adopción* (HUIOTHESIA) se deriva de las palabras griegas *hijo* (HUIOS) y *colocar* (TITHÉMI), que significa ser colocado como hijo, o adoptado. En una familia grecorromana, solo podrías **heredar** si eras legalmente adoptado como hijo.
+###### Muchas veces, un hijo biológico no era adoptado legalmente por su padre. Tal hijo nunca experimentaría un sentimiento de pertenecer a la familia, ni **recibiría** una herencia de su padre.
+###### El punto de Pablo aquí es que a todos los creyentes les ha sido dado un espíritu de adopción. Como creyente, tú has sido adoptado legalmente y tienes todos los **derechos** de un legítimo heredero de Dios. Gálatas 4:1-7, Efesios 1:5
+##### Romanos 8:15d – “*…por el cual clamamos: ¡Abba, Padre!”* La confianza en tu posición como hijo amado de Dios debería conducirte a experimentar intimidad con el Señor en tu vida diaria. Si Dios parece **distante**, te estás perdiendo este importante sentido de pertenencia que está disponible para todos los hijos de Dios. 1 Pedro 1:23, 1 Juan 3:1
+#### Romanos 8:16 – “*El Espíritu mismo da testimonio a nuestro espíritu, de que somos hijos de Dios*.” Tu nuevo nacimiento te dio una nueva identidad como hijo de Dios. Uno de los ministerios prácticos del Espíritu Santo es **asegurarte** este hecho. Gálatas 4:6
+##### Cuando caminamos de acuerdo con el Espíritu, escuchamos fácilmente el testimonio del Espíritu Santo confirmando nuestro lugar en la familia. Pero cuando caminamos de acuerdo con la carne, **regresamos** fácilmente a la mentalidad de un esclavo temeroso. 
+##### Nunca podemos salir de la familia de Dios, pero podemos perder el sentido de pertenencia. La inseguridad es debilitante y no es la voluntad de Dios para la vida de ningún creyente. A pesar de que Jesús **amaba** a todos los discípulos por igual, deberíamos tener la actitud del apóstol Juan, quien se describió a sí mismo como *el discípulo al cual Jesús amaba*. Juan 13:23, 20:2, 21:20
+#### Romanos 8:17a – “*Y si hijos, también herederos;…”* Tu **unión** con Cristo garantiza una herencia.
+##### No sólo son todos los creyentes hijos de Dios, independientemente de si son carnales o maduros; Todos somos también **herederos** legales. Efesios 1:11
+##### Tu herencia no debe ser confundida con recompensas, posiciones o coronas, porque todas esas son **ganadas** y no garantizadas. 
+#### Romanos 8:17b – *“…herederos de Dios y coherederos con Cristo,…”* Como hijos e hijas legalmente adoptados, somos herederos **juntamente** con Cristo. Todo lo que Él ha heredado lo hemos coheredado con Él. Esta bendición es 100% inmerecida, pero está garantizada debido a nuestra unión con Cristo. Efesios 2:4-7, Colosenses 1:12
+#### Romanos 8:17c – “…*si es que padecemos juntamente con él, para que juntamente con él seamos glorificados.”* Puesto que ser un hijo de Dios incluye el **honor** de participar en los sufrimientos de Cristo, Pablo nos aseguró que igualmente participaremos en Su gloria. 1 Pedro 4:13
+##### Aquí Pablo utilizó una declaración de condición **menos** común – *si en verdad* (EIPER) – que significa “si es así” o “ya que efectivamente”. Vemos esta declaración de condición (EIPER) en Romanos 3:30, donde se traduce *porque en verdad* [LBLA].
+##### Este versículo podría entenderse como: “Ya que de hecho sufrimos con Él, es lógico que también compartamos Su **gloria**”.
+##### En otras palabras, Pablo no estaba deduciendo que sólo aquellos creyentes que **sufren** serán glorificados, mas bien, él estaba asegurando a todos los creyentes que, dado que ellos sufren con Cristo, un día serán glorificados con Él, como observamos en los siguientes versículos. Romanos 8:35-39
+##### La lógica es que si sufres con alguien, es razonable esperar **compartir** sus honores. Filipenses 3:10, 1 Pedro 2:21-23
+# **Romanos 8:18-39 – Glorificación**
+## **Romanos 8:18 – Esperando ser glorificados** 
+### Romanos 8:18a – “*Pues tengo por cierto que las aflicciones del tiempo presente…”* Dios quiere que tengas una perspectiva **eterna** con respecto a tu sufrimiento presente.
+### Romanos 8:18b – “…*no son comparables con la gloria venidera que en nosotros ha de manifestarse*.” Pablo comparó nuestro presente sufrimiento con nuestro glorioso **futuro** y descubrió que no podían ser comparados. A la luz de tu sufrimiento presente, aquí hay algunos hechos a considerar.
+#### En primer lugar, como cristiano, se espera que **sufras**. El sufrimiento es parte del plan de Dios para tu vida. 2 Timoteo 3:10-12
+#### En segundo lugar, puesto que ciertamente sufrirás, necesitas recordar que tu **gloria** futura es inmensamente superior a tu sufrimiento presente. 2 Corintios 4:16-18
+#### En tercer lugar, serás glorificado; ¡Ese es un **hecho**! Romanos 8:30
+## **Romanos 8:19-27 – Gimiendo por ser glorificados**
+### Romanos 8:19-22 – La **naturaleza** gime.
+#### Romanos 8:19 – “*Porque el anhelo ardiente de la creación es el aguardar la manifestación de los hijos de Dios*.” Toda la naturaleza está esperando ansiosamente el **día** en que los hijos de Dios serán revelados con sus cuerpos glorificados. ¿Por qué? Apocalipsis 19:7-9, Apocalipsis 19:14
+#### Romanos 8:20 – “*Porque la creación fue sujetada a vanidad, no por su propia voluntad, sino por causa del que la sujetó en esperanza*;” Allá en el Jardín del Edén, Dios maldijo la creación debido al pecado de Adán. La creación está esperando con impaciencia que Dios finalmente **revierta** la maldición. Génesis 3:17-19, Isaías 11:6-10
+#### Romanos 8:21a – “*porque también la creación misma será libertada de la esclavitud de corrupción,…”* En la segunda venida, en *la manifestación de los **hijos** de Dios*, cuando regresemos con Cristo para establecer Su reino, la mayoría de la maldición habrá sido quitada. Isaías 35:1-10
+#### Romanos 8:21b – “…*a la libertad gloriosa de los hijos de Dios*.” Dios promete que la naturaleza será **liberada** de su esclavitud a la corrupción en el día que los hijos de Dios sean revelados en toda su gloria. Mateo 22:2, Apocalipsis 19:9
+#### Romanos 8:22 – “*Porque sabemos que toda la creación gime a una, y a una está con dolores de parto hasta ahora*;” Cada parte de la creación está sufriendo como en **dolores** de parto, esperando el nacimiento de un día nuevo y perfecto. Esto sucederá al comienzo del reinado milenial de Cristo.
+### Romanos 8:23-25 – Los **creyentes** gimen.
+#### Romanos 8:23a – “*y no sólo ella, sino que también nosotros mismos,… gemimos…”* Al igual que la creación, los creyentes también **gemimos** mientras esperamos ansiosamente la redención futura de nuestros cuerpos.
+#### Romanos 8:23b – “…*que tenemos las primicias del Espíritu,…”* Cuando creíste el Evangelio, recibiste inmediatamente el **Espíritu** Santo como garantía de tu glorificación futura. Efesios 1:14 
+##### Sin embargo, tener el Espíritu Santo no significa que no **sufrirás**. 2 Corintios 5:1-5 
+##### Es importante señalar esto, ya que muchas personas enseñan erróneamente que los cristianos nunca fueron destinados a sufrir físicamente, mentalmente, materialmente o de otra manera. Este pasaje enseña lo **contrario**. Deja que esto sea un estímulo para ti mientras luchas en la vida.
+#### Romanos 8:23c – “…*nosotros también gemimos dentro de nosotros mismos, esperando la adopción, la redención de nuestro cuerpo*.” Finalmente, en nuestra glorificación, cuando Dios cambie nuestros cuerpos, todo gemido **cesará**. 1 Corintios 15:50-54, 1 Tesalonicenses 4:13-18, 1 Juan 3:1-2
+#### Romanos 8:24a – “*Porque en **esperanza** fuimos salvos;…”* Fuimos salvos cuando creímos en Cristo, confiados en que Su pago por nuestros pecados nos aseguró la esperanza de la vida eterna. Esto habla de nuestra **justificación**. Tito 1:2
+#### Romanos 8:24b – “…*pero la esperanza que se ve, no es esperanza; porque lo que alguno ve, ¿a qué esperarlo?”* Esta esperanza es aún futura. Depende de Dios quien hizo la promesa. Esto habla de nuestra **glorificación** venidera. Hebreos 11:6
+#### Romanos 8:25 – “*Pero si esperamos lo que no vemos, con paciencia lo aguardamos*.” Esta esperanza segura e innegable de glorificación nos hace **ansiosos** por la eternidad, mientras nos mantiene estimulados en el presente. Esto habla de nuestra **santificación**. 1 Corintios 15:58, 1 Tesalonicenses 1:3, Hebreos 11:13-16
+### Romanos 8:26-27 – El **Espíritu** Santo gime.
+#### Romanos 8:26a – “*Y de igual manera el Espíritu nos **ayuda** en nuestra debilidad;…”* El Espíritu Santo nos ayuda en nuestras debilidades, no en nuestras fortalezas. Además, ¿tenemos realmente alguna fortaleza?
+#### Romanos 8:26b – “*…pues qué hemos de pedir como conviene, no lo sabemos*,…”* Esto no dice que a veces no **sabemos** cómo orar. Esta declaración general dice que en lo absoluto, no sabemos orar como deberíamos.
+#### Romanos 8:26c – “…*pero el Espíritu mismo intercede por nosotros con gemidos indecibles*.” El Espíritu Santo **hace** intercesión por nosotros.
+##### El Espíritu Santo gime *por* nosotros, no a **través** de nosotros. Él es el que gime, no nosotros. Este no es un lenguaje celestial o angelical que hablamos; es algo que el Espíritu Santo hace por nosotros.
+##### De hecho, estos gemidos son demasiado profundos para las palabras humanas. Estas son, literalmente, palabras impronunciables. Estos gemidos no salen de **nuestra** boca, sino que son hechos, a causa nuestra, por el Espíritu Santo en la presencia de Dios. Hebreos 4:16
+#### Romanos 8:27a – “*Mas el que escudriña los corazones sabe cuál es la intención del Espíritu,…”* Dios el **Padre** sabe lo que el Espíritu Santo tiene en mente para nosotros y responde apropiadamente a los *gemidos* del Espíritu Santo. Nosotros podríamos pedir algo de Dios que está fuera de Su voluntad, pero el Espíritu Santo nunca lo hará. 1 Corintios 2:10-13
+#### Romanos 8:27b – “…*porque conforme a la voluntad de Dios intercede por los santos*.” El Espíritu Santo solicitará a Dios el Padre **únicamente** aquello que esté de acuerdo con Su voluntad.
+## **Romanos 8:28-30 – Garantizado ser glorificado**
+### Romanos 8:28 – “*Y sabemos que a los que aman a Dios, todas las cosas les ayudan a bien, esto es, a los que conforme a su propósito son llamados*.” Dios promete **terminar** la obra que Él comenzó en la vida de cada creyente. Romanos 14:4, Filipenses 1:6, 1 Tesalonicenses 5:24, Judas 24-25
+#### Romanos 8:28a – “*Y **sabemos** que a los que aman a Dios, todas las cosas les ayudan a bien,*…” Puedes experimentar un tremendo alivio cuando sabes que Dios estará trabajando contigo hasta el final.
+#### Romanos 8:28b – “*Y sabemos que …todas las cosas les ayudan a bien,*…” Sabemos que Dios **hace** que todas las cosas cooperen. La frase, *les ayudan a bien* (SUNERGEÓ), está en tiempo presente, voz activa y modo indicativo. Esta es una declaración enfática de que ahora mismo, en este preciso momento, tu Padre Celestial está activa y decisivamente trabajando en tu nombre.
+#### Romanos 8:28c – “*Y **sabemos** que …todas las cosas les ayudan a bien,*…” ¿Qué está diciendo exactamente este versículo? 
+##### Primero que todo, es importante comprender que esta promesa no es verdadera para todas las personas. Es verdadera sólo para los **creyentes**.
+##### Esta promesa no nos está diciendo que todas las cosas son buenas. Por ejemplo, Satanás, el pecado, la falsa doctrina, la violación y el **asesinato** no son buenos. 1 Juan 2:16
+##### Esta promesa no significa que Dios está obrando todas las cosas para tu bien físico o **material**. 
+##### Esta promesa no está dándote una excusa para tomar decisiones irresponsables. La Biblia expresa claramente que, si vives de acuerdo con la carne, **cosecharás** las consecuencias. Gálatas 6:7-8
+#### Romanos 8:28d – “…*ayudan a **bien***,…” En griego la palabra *bien* (AGATHOS) significa bueno en carácter o beneficioso. 
+##### Esta promesa tiene como centro tu bienestar espiritual. Dios siempre está trabajando activamente en tu nombre para hacer que todas las interminables complejidades de la vida **encajen** para tu éxito y madurez como creyente. 
+##### Dios promete que usará cada situación en tu vida, sea sufrimiento por las consecuencias de tus propias malas decisiones o disciplina de Su mano, para promover tu madurez y conformarte a la **imagen** de Su Hijo. Hebreos 12:9-11
+#### Romanos 8:28f – Esta promesa es “…*a los que aman a Dios*,…” Quienes aman a Dios describe a **todos** los creyentes. 1 Corintios 2:9, Efesios 6:24
+##### Quienes lo *aman* no describe una clase **especial** de creyentes particularmente fieles o amorosos. Esta promesa es para todos los creyentes en Jesucristo. ¿Por qué? 1 Juan 4:19
+##### Sabemos que los creyentes pueden **abandonar** su amor por Dios como lo hizo la iglesia en Éfeso (Ap. 2:4-5a). Nadie ama a Dios a la perfección, y sin embargo, Dios continúa trabajando en todos los creyentes para su bien. 1 Corintios 8:2-3
+#### Romanos 8:28g – Esta promesa es igualmente “…*a los que conforme a su propósito son llamados*.” Quienes son llamados también es una descripción de **todos** los creyentes sin acepción.
+##### Puesto que todos los que alguna vez han creído lo han hecho en respuesta al llamado de Dios, todos los creyentes son mencionados como los **llamados**. Juan 6:44, Romanos 1:6
+##### Los creyentes espirituales, los creyentes bebés e incluso los creyentes carnales son **parte** de esta categoría de llamados. Efesios 1:13
+#### Romanos 8:28h – “…*a los que conforme a su propósito son llamados.”* ¿Cuál es el buen **plan** que Dios quiere obrar en las vidas de todos los creyentes? Esto será desarrollado en los siguientes versículos.
+### Romanos 8:29-30 – “*Porque a los que **antes** conoció, también los predestinó para que fuesen hechos conformes a la imagen de su Hijo, para que él sea el primogénito entre muchos hermanos. Y a los que predestinó, a éstos también llamó; y a los que llamó, a éstos también justificó; y a los que justificó, a éstos también glorificó*.”
+#### Romanos 8:29a – “*Porque a los que antes conoció,*…” 
+##### El plan de Dios para cada creyente tiene **cuatro** aspectos: predestinación, llamamiento, justificación y glorificación. Cada uno de estos está basado en la presciencia de Dios.
+###### Dios es el único actor en cada una de estas realidades. Ninguna de ellas se basa en el esfuerzo **humano** o en las obras. Debido a que Dios conocía de antemano, Él predestinó, Él llamó, Él justificó y Él glorificó.
+###### Observa que la santificación **no se encuentra** presente aquí. ¿Por qué? Porque Dios no es el único actor en tu santificación; tu santificación depende de tu cooperación. Si como creyente no vives por medio del Espíritu Santo, tu santificación será obstaculizada.
+##### ¿A quién se refiere esto? *Antes conoció* (PROGINOSKO) es una palabra compuesta, conformada de PRO, que significa de antemano, y GINOSKO, que significa **conocer**. La precognición no es lo mismo que la predestinación.
+###### Dios conocía de antemano a **cada** persona que viviría en el linaje de Adán. De igual manera, antes que el mundo comenzara, Dios en la eternidad conocía a todos aquellos que llegarían a pertenecer a Cristo.
+###### Dios no puede **evitar** saber todo antes de que suceda. Dios vive fuera de los confines del tiempo. 2 Timoteo 1:9, Efesios 1:4, 1 Pedro 1:20, 1 Juan 3:20
+###### Si Dios no conociera **siempre** el futuro, no podría ser Dios. Nunca, ni siquiera por un momento, Dios ha dejado de saberlo todo.
+###### Pero sólo porque Dios sabe algo antes de que suceda, no **significa** que Él lo predeterminó o lo causó. Saber algo de antemano no es lo mismo que hacer que suceda.
+###### Dios sabía de antemano que el pecado existiría, pero Dios no originó ni orquestó el pecado. Él no quería que el pecado estuviera. Sin embargo, a pesar de que Dios no planeó ni originó el pecado, sí planeó misericordiosamente tratar con el **pecado** a través del evangelio. Santiago 1:13, Apocalipsis 13:8
+###### Si eres un creyente, Dios ya sabía que ibas a pertenecer a Cristo, y por lo tanto, en la eternidad pasada, antes de que el tiempo comenzara, misericordiosamente te incluyó en Su **plan** eterno.
+###### El hecho de que tú vas ha ser conformado a la imagen de Cristo fue planeado de acuerdo con Su presciencia; no fue una elección **aleatoria** hecha sin conocimiento del futuro. Juan 17:24
+#### Romanos 8:29b – Dios dice “…*a los que antes conoció, también los predestinó*…” La palabra predestinó (PROORIZÓ) es una palabra compuesta derivada de PRO, que significa de antemano, y HORIZO, que significa declarar, determinar o confinar **límites**.
+##### Es importante entender que la Biblia no usa la palabra predestinación para determinar quién será o no será **salvo**. 
+##### Como se mencionó anteriormente, la predestinación se **basa** en el omnisciente conocimiento previo de Dios. La predestinación no es una decisión arbitraria, ignorante del futuro que Dios tomó al azar en la eternidad pasada.
+##### Desde antes del principio y conociendo todos los **hechos**, Dios predeterminó ciertas cosas. Todo lo que Dios predestinó en el pasado ha sucedido y/o sucederá sin falta, tal como lo planeó.
+##### La predestinación fue utilizada en referencia a la **muerte** de Cristo. En Hechos 4:2728, la palabra *predestinar* se usa para mostrar cómo Dios orquestó todo lo relacionado con la muerte de Cristo, para que ocurriera exactamente como Él lo determinó de antemano. 1 Pedro 1:19-20
+##### En 1 Corintios 2:7, la predestinación es utilizada para describir la iluminación de la verdad. “*Mas hablamos sabiduría de Dios en misterio, la **sabiduría** oculta, la cual Dios predestinó antes de los siglos para nuestra gloria*,” Dios predestinó que los creyentes en la Era de la Iglesia tuvieran mayor comprensión de su plan.
+##### En Efesios 1:5, hablando de nuestra adopción como hijos, la cual es parte de nuestra futura glorificación, Pablo dijo, “*en amor habiéndonos predestinado para ser adoptados hijos suyos por medio de Jesucristo, según el puro afecto de su voluntad*,” Dios predestinó que todos los creyentes serían adoptados como **hijos**.
+##### En Efesios 1:11, hablando de nuestra herencia, que es otra parte de nuestra futura glorificación, Pablo dijo: “*En él asimismo tuvimos herencia, habiendo sido predestinados conforme al propósito del que hace todas las cosas según el designio de su **voluntad**,*” Todos los creyentes han sido predestinados a recibir una herencia.
+#### Romanos 8:29c – *“…también los predestinó* [a estos] *para que fuesen hechos conformes a la imagen de su Hijo,*…” Esto habla del **objetivo** final de Dios de hacer a los creyentes como Cristo, el cual Él está trabajando diariamente a través de nuestro proceso de santificación y que finalmente logrará en nuestra glorificación en la eternidad.
+#### Romanos 8:29d – “…*para que él sea el primogénito entre muchos hermanos.”* Dios planeó conformar a todos los creyentes a la imagen de Cristo. Tal como tú naciste llevando la imagen de Adán, fuiste nacido **de nuevo** con el plan de que en la eternidad llevaras plenamente la imagen del Hijo de Dios, Jesucristo. Juan 1:12, 3:3; Romanos 2:29
+#### Romanos 8:30a – “…*a éstos también llamó;…”* Los creyentes son aquellos que han respondido al **llamado** de Dios. Toda persona en Cristo es hijo de Dios en respuesta a la fe en el llamado del evangelio de Dios. 1 Corintios 1:24
+##### Fuimos llamados de las tinieblas a la **luz** de Dios. 1 Pedro 2:9 dice: “…*de aquel que os llamó de las tinieblas a su luz admirable*;”
+##### Fuimos llamados a través del evangelio. 2 Tesalonicenses 2:14 dice: “*a lo cual os llamó mediante nuestro **evangelio**, para alcanzar la gloria de nuestro Señor Jesucristo*.” Romanos 1:6
+##### Fuimos llamados por la **gracia** del Señor Jesucristo. Gálatas 1:6 dice: “*Estoy maravillado de que tan pronto os hayáis alejado del que os llamó por la gracia de Cristo, para seguir un evangelio diferente*.”
+##### Somos llamados Sus **hijos**. 1 Juan 3:1 dice: “*Mirad cuál amor nos ha dado el Padre, para que seamos llamados hijos de Dios*;” Romanos 9:25-26
+##### Somos llamados Sus **santos**. Romanos 1:7 dice: “*a todos los que estáis en Roma, amados de Dios, llamados a ser santos:*…” 1 Corintios 1:2, Judas 1:1
+##### Fuimos llamados a Su **servicio**. 2 Timoteo 1:9a dice: “*quien nos salvó y llamó con llamamiento santo,…*” 1 Tesalonicenses 5:24
+##### Fuimos llamados a seguir Sus sufrimientos. 1 Pedro 2:21 dice: “*Pues para esto fuisteis llamados; porque también Cristo padeció por nosotros, dejándonos ejemplo, para que sigáis sus pisadas*;”
+##### Fuimos llamados a pertenecer a Su reino y a experimentar Su **gloria** para siempre. 1 Tesalonicenses 2:12 dice : “…*que anduvieseis como es digno de Dios, que os llamó a su reino y gloria*.” 1 Pedro 5:10
+##### Fuimos llamados a heredar una **bendición**. 1 Pedro 3:9 dice: “*no devolviendo mal por mal, ni maldición por maldición, sino por el contrario, bendiciendo, sabiendo que fuisteis llamados para que heredaseis bendición*.”
+######
+##### Fuimos llamados a experimentar paz y **unidad** en la iglesia mientras esperamos pacientemente Su aparición. Colosenses 3:15 dice: “*Y la paz de Dios gobierne en vuestros corazones, a la que asimismo fuisteis llamados en un solo cuerpo; y sed agradecidos*.”
+##### Estos versículos demuestran por qué a nosotros, como creyentes, se nos titula los ***llamados***.
+#### Romanos 8:30b – “…*a éstos también justificó;…”* Los justificados aquí se refiere sólo a aquellos que han **creído** en Cristo.
+##### Fuimos justificados por **fe**. Romanos 5:1 dice: “*Justificados, pues, por la fe, tenemos paz para con Dios por medio de nuestro Señor Jesucristo*;”
+##### Fuimos justificados gratuitamente por la **gracia** de Dios. Romanos 3:24 dice: “*siendo justificados gratuitamente por su gracia, mediante la redención que es en Cristo Jesús*,” Tito 3:7
+##### Fuimos justificados aparte de obedecer la **ley**. Romanos 3:28 dice: “*Concluimos, pues, que el hombre es justificado por fe sin las obras de la ley*.” 
+##### Fuimos justificados aparte de hacer buenas **obras**. Romanos 4:5 dice, “*mas al que no obra, sino cree en aquel que justifica al impío, su fe le es contada por justicia*.” Gálatas 2:16, 3:11
+##### Fuimos justificados por el asombroso **poder** de Dios. 1 Corintios 6:11 dice: “*Y esto erais algunos; …ya habéis sido justificados en el nombre del Señor Jesús, y por el Espíritu de nuestro Dios*.”
+#### Romanos 8:30c – “…*a éstos también glorificó.”* Aún no estamos glorificados, pero la palabra glorificado está en tiempo **pasado** porque Dios garantiza absolutamente que seremos glorificados. En lo que respecta a Dios, ya es un hecho consumado. Romanos 8:17
+## **Romanos 8:31-39 – Glorificación probada y demostrada**
+### Romanos 8:31a – Pregunta de Pablo # 1: En respuesta al hecho de que somos predestinados, llamados, justificados y glorificados, Pablo preguntó, “*¿Qué, pues, diremos a esto?...”* La respuesta anticipada es: “¡**Amén**! ¡Gracias Señor!”
+### Romanos 8:31b – Pregunta de Pablo # 2: A continuación, Pablo preguntó, “…*Si Dios es por nosotros, ¿quién contra nosotros?*” La respuesta esperada es, por supuesto, “**Nadie**”. Ya que Dios mismo está abogando por nosotros, nadie puede oponerse exitosamente a nosotros.
+####
+#####
+### Romanos 8:32 – Pregunta de Pablo # 3: Luego preguntó, “*El que no escatimó ni a su propio Hijo, sino que lo entregó por todos nosotros, ¿cómo no nos dará también con él todas las cosas?*” Si Dios envió Su más **precioso** tesoro para comprar nuestra libertad mientras aún estábamos en nuestros pecados, ¿no es razonable que Él cuide de nuestras necesidades diarias ahora que somos Sus hijos?
+### Romanos 8:33 – Pregunta de Pablo # 4: “*¿Quién acusará a los **escogidos** de Dios? Dios es el que justifica.”* Puesto que Dios es el que legalmente nos declaró justos, no hay nadie que pueda acusarnos con éxito.
+### Romanos 8:34 – Pregunta de Pablo # 5: “*¿**Quién** es el que condenará?...”* 
+#### Romanos 8:34a – “…*Cristo es el que murió;…”* No puede ser Cristo quien nos condene, porque Cristo murió para **pagar** por nuestros pecados, no para condenarnos. Juan 3:17
+#### Romanos 8:34b – *“…más aun, el que también resucitó,…”* No puede ser Cristo quien nos condene, porque Dios demostró que estaba satisfecho con el pago de Cristo cuando lo **resucitó** de entre los muertos.
+#### Romanos 8:34c – “…*el que además está a la diestra de Dios, el que también intercede por nosotros.”* No puede ser Cristo quien nos **condene**, porque Cristo se sienta en el lugar del honor a la diestra de Dios en el cielo mediando para siempre por nosotros. Juan 3:17, Hebreos 7:25, 1 Juan 2:2
+### Romanos 8:35 – Pregunta de Pablo # 6: *“¿Quién nos separará del **amor** de Cristo?...”* Pablo dio siete escenarios potenciales que podrían hacernos sentir que Dios nos ha abandonado.
+#### ***Tribulación** …nos separará del amor de Cristo?* ¿Qué si enfrentamos infortunio o alguna terrible aflicción? 2 Corintios 4:8-11
+#### ***Angustia** …nos separará del amor de Cristo?* ¿Qué si sufrimos una calamidad terrible y tenemos que pasar por tiempos malos? 2 Corintios 7:5-6
+#### ***Persecución** …nos separará del amor de Cristo?* ¿Qué si somos odiados, cazados, torturados o incluso asesinados? Hechos 8:1
+#### ***Hambre** …nos separará del amor de Cristo?* ¿Qué si no tenemos suficiente para comer y sufrimos hambre? Hechos 11:28-30
+#### ***Desnudez** …nos separará del amor de Cristo?* ¿Qué si terminamos sin hogar y sufrimos exposición con poca o ninguna ropa? Hebreos 11:37-38
+#### ***Peligro** …nos separará del amor de Cristo?* ¿Qué si somos amenazados y enfrentamos peligros indecibles? 2 Corintios 11:23-27
+#### ***Espada** …nos separará del amor de Cristo?* ¿Qué si somos traicionados y/o sufrimos una muerte violenta? ¿Qué si estamos atrapados en una guerra horrible? Hechos 7:588:2
+#####
+######
+#### ¿Significan pruebas como estas que Dios nos ha abandonado o ha dejado de cuidarnos? ¿Alguna vez los creyentes han enfrentado alguna de estas clases de pruebas? **Sí**, lo han hecho y lo hacen.
+### Romanos 8:36 – Pablo citó el Salmo 44:22 para mostrar que estas dificultades potenciales son posibilidades reales para los creyentes: “*Pero por causa de ti nos matan cada día; Somos contados como **ovejas** para el matadero*.”
+#### El hecho es que, a veces, este mundo ama **masacrar** cristianos. En los días de Pablo, Nerón perseguía y mataba severamente a los cristianos. Juan 16:33
+#### Si algún día te enfrentas a la muerte porque eres cristiano, no te sientas tentado a suponer que Dios te ha abandonado en ese momento. Él no te habrá dejado. Él todavía te **amará** mucho. Hebreos 13:5-6
+### Romanos 8:37 – “*Antes, en **todas** estas cosas somos más que vencedores por medio de aquel que nos amó*.” No importa qué tipo de prueba podamos sufrir, somos súper vencedores gracias a Cristo, quien nos amó y murió por nosotros. A pesar de cualquier posible retroceso o rechazo, seremos glorificados y viviremos con Dios por toda la eternidad. 2 Corintios 4:18, 1 Juan 4:4-5
+### Romanos 8:38a – “*Por lo cual estoy seguro…”* Pablo enfrentó muchas pruebas terribles. Sin embargo, a través de todas ellas él nunca dudó del **amor** de Dios por él. ¿Estás convencido de lo mismo?
+### Romanos 8:38b – *“de que ni la muerte, ni la vida,…”* Pablo estaba convencido de que ninguna forma de existencia, incluida la muerte o la **vida**, podía separarlo del amor de Dios en Cristo. Romanos 8:35
+### Romanos 8:38c – “*…ni ángeles, ni principados,*…” Ningún **poder** sobrenatural puede separarnos del amor de Dios en Cristo. Romanos 8:35
+#### ¿Está Satanás incluido en esta declaración? Sí. Recuerda, Satanás es un **ángel** caído.
+#### Ni siquiera Satanás puede **separarnos** del amor de Dios.
+### Romanos 8:38d – “*…ni potestades, ni lo presente, ni lo por venir*,” Ninguna realidad presente o posibilidad futura tiene el **poder** de separarnos del amor de Dios en Cristo. Romanos 8:35
+#### **Tú** no puedes hacer nada ahora (presente), ni siquiera en el futuro (por venir), para separarte del amor de Dios. 
+#### ¿Qué acerca de tus pecados futuros o tu incredulidad futura o tus dudas futuras? ¿Qué hay de tus futuros retrocesos o incluso tus posibilidades de volver a la carnalidad? No, ni siquiera las posibilidades negativas **futuras** pueden separarte del amor de Dios.
+### Romanos 8:39a – “*ni lo alto, ni lo profundo,…”* Ningún extremo de ubicación en el cosmos, incluidas las alturas o las **profundidades**, pueden separarte del amor de Dios en Cristo.
+#### ¿Puedes ser llevado tan **lejos** que el amor de Dios no pueda alcanzarte? Salmos 139:716
+#### No, ni siquiera el **valle** más profundo (el lugar de las pruebas más profundas), ni la elevación más alta (el lugar donde el temor a caer podría prevalecer) pueden separarte del amor de Dios en Cristo Jesús.
+#### Ya sea que estés arriba o abajo como creyente, no puedes **distanciarte** del amor de Dios. Podrías distanciarte de Su compañerismo, pero nunca de Su amor. 
+#### En Lucas 15:11-32, incluso el hijo pródigo era todavía un **hijo** cuando no tenía comunión con su padre. Incluso mientras se encontraba lejos, Su padre lo amaba profundamente y estaba entusiasmado cuando finalmente regresó a casa.
+### Romanos 8:39b – “…*ni ninguna otra cosa creada nos podrá separar del amor de Dios,…”* Ningún ser creado o **cosa** creada puede separarte del profundo amor de Dios. Efesios 3:1719
+#### ¿Eres un ser creado? Sí, lo eres. Ni siquiera **tú** puedes apartarte del amor de Dios. ¡Puedes dejar de amar a Dios, pero Dios nunca dejará de amarte a ti!
+#### Algunos enseñan erróneamente que puedes separarte del amor de Dios devolviendo Su regalo gratuito de salvación. Pero Romanos 11:29 dice que *irrevocables son los dones y el llamamiento de Dios*. No puedes **devolver** tu ADN espiritual a Dios y volverte nonato. 1 Pedro 1:23
+### Romanos 8:39b – “…*del amor de Dios, que es en Cristo Jesús Señor nuestro.”* Debido a tu unión con Cristo, no hay absolutamente **nada** en toda la Creación que pueda hacer que Dios deje de amarte. Él tendría que dejar de amar a Jesús, y Él nunca hará eso.
+#### ¿Estás tan convencido de esto como el **hombre** que lo escribió? Pablo dijo en Romanos 8:38, “*Por lo cual estoy seguro…”* ¿Podrías confiadamente hacer esta misma declaración con toda certeza? 
+#### Ciertamente, en ningún caso somos dignos de este tipo de amor o glorificación futura. Es completamente por la asombrosa **gracia** de Dios, basada en lo que Jesús hizo por nosotros al morir en la cruz por nuestros pecados y resucitar. ¡Las gracias sean a Dios!
+# **El mensaje del evangelio**
+## **Definiendo el evangelio**
+### Romanos 1:16 dice, “*Porque no me avergüenzo del **evangelio**, porque es poder de Dios para salvación a todo aquel que cree; al judío primeramente, y también al griego*.” ¿Qué es el evangelio? La palabra *evangelio* (EUAGGELION) significa buenas noticias. Gálatas 1:6-9
+### El evangelio es la buena **noticia** sobre la obra que Dios hizo para nuestra salvación a través de Jesucristo en un fin de semana en la historia hace casi dos mil años. Es un mensaje que debe ser creído. Los cuatro evangelios dan una explicación extensa de aquel evento súper transformador, pero en resumen, aquí hay algunos versos que lo explican.
+#### 1 Pedro 2:24a – “*…[Cristo] llevó él mismo nuestros **pecados** en su cuerpo sobre el madero*,…”.
+#### Hechos 5:30 – “*El Dios de nuestros padres levantó a Jesús, a quien vosotros matasteis colgándole en un **madero***.”
+#### Hechos 13:28-29 – “*Y sin hallar en él causa digna de muerte, pidieron a Pilato que se le matase. Y habiendo cumplido todas las cosas que de él estaban escritas, quitándolo del madero, lo pusieron en el **sepulcro***.”
+#### Hechos 13:30-32 – “*Mas Dios le levantó de los muertos. Y él se apareció durante muchos días a los que habían subido juntamente con él de Galilea a Jerusalén, los cuales ahora son sus testigos ante el pueblo. Y nosotros también os anunciamos el evangelio de aquella **promesa** hecha a nuestros padres,”*
+#### Los resultados de creer en el evangelio son encontrados en Hechos 13:38-39 – “*Sabed, pues, esto, varones hermanos: que por medio de él se os anuncia perdón de pecados, y que de todo aquello de que por la ley de Moisés no pudisteis ser justificados, en él es **justificado** todo aquel que cree*.”
+### Pablo explicó el evangelio en 1 Corintios 15:3-4 – “*Porque primeramente os he enseñado lo que asimismo recibí: Que Cristo murió por nuestros pecados, conforme a las Escrituras; y que fue sepultado, y que **resucitó** al tercer día, conforme a las Escrituras*;”
+### Hablando de manera concisa, el mensaje que debes creer para ser salvo tiene que ver con una persona en particular (Cristo) y lo que Él hizo en tu nombre: Cristo **murió** por tus pecados y resucitó.
+## **El evangelio es un mensaje objetivo**
+### El evangelio es un mensaje objetivo acerca del evento histórico más importante que jamás haya tenido lugar. Es el informe de noticias con respecto a lo que Jesucristo **hizo**: Él murió en la cruz y resucitó tres días después. Él hizo esto para perdonarnos nuestros pecados, salvarnos de la justa ira de Dios y proporcionarnos la vida eterna.
+### El evangelio no es un mensaje subjetivo, de procedimientos, o un **método** paso a paso utilizado para llevar personas a través de un proceso que conduce a la salvación.
+### El evangelio no cambia de persona a persona. Es el **relato** históricamente verificable de cómo Dios trajo la salvación a la humanidad a través de la persona y obra de Jesucristo. 
+## **Componentes esenciales del evangelio de 1 Corintios 15:3-11**
+### 1 Corintios 15:3a – “…***Cristo** murió*…” Cristo es la persona en quien debes creer para salvación. 1 Timoteo 3:16
+#### Jesús es el Cristo, el Mesías prometido del Antiguo Testamento. Él es la **persona** principal del mensaje del evangelio. A fin de ser salvo, la fe de una persona debe descansar exclusivamente en Jesucristo. Lucas 24:44-48, Romanos 1:2-4, Hebreos 2:10
+#### *Cristo*, o CHRISTOS en griego, es la traducción de la palabra hebrea **Mesías**. El término *Cristo* tiene tanto deidad como humanidad incorporada en su significado.
+#####
+#### Dios predijo que el Cristo sería un ser **humano**, la Semilla de la mujer. Génesis 3:15, Juan 1:14
+#### Dios también predijo que el Cristo sería **deidad**. Él era Emmanuel, Dios con nosotros. Isaías 7:14, 9:6; Juan 8:23-24; Tito 2:13
+### 1 Corintios 15:3b – *Cristo **murió***… Esto describe la obra de Cristo para nuestra salvación. Colosenses 2:14, Hebreos 2:9; 1 Pedro 2:24 (LBLA)
+#### Cristo sufrió en la cruz la muerte **espiritual** por nosotros en que fue separado de Dios el Padre cuando tomó todos los pecados de la humanidad sobre sí mismo. En Mateo 27:46 leemos, *“Cerca de la hora novena, Jesús clamó a gran voz, diciendo: Elí, Elí, ¿lama sabactani? Esto es: Dios mío, Dios mío, ¿por qué me has desamparado?”* 
+#### Cristo sufrió la muerte **física** en nuestro nombre cuando Su alma y espíritu se separaron de Su cuerpo. 1 Pedro 2:24 – “*Quien llevó él mismo nuestros pecados en su cuerpo sobre el madero,…”* Hechos 13:29b – *“…quitándolo del madero, lo pusieron en el sepulcro.”* Lucas 23:46, Hebreos 10:10
+#### Cristo sufrió las implicaciones de la muerte **eterna**. Si Cristo estuvo separado de Su Padre por un minuto o un millón de años no hizo ninguna diferencia, ya que Dios vive fuera de la esfera del tiempo. Hebreos 9:26, 10:12, 1 Pedro 3:18 
+### 1 Corintios 15:3c-4a – “…*Cristo murió **por nuestros pecados***,…” Cristo murió en nuestro nombre para salvarnos de la pena que merecíamos por nuestros pecados. Al sufrir la muerte por nosotros, Cristo nos salvó de tener que enfrentar la pena de muerte y estar separados de Dios por toda la eternidad. Pablo dio dos verificaciones muy importantes de la muerte de Cristo.
+#### Prueba #1 – Profecías detalladas cumplidas: 1 Corintios 15:3d – “…*Cristo murió...* *conforme a las Escrituras*;” La muerte de Cristo fue un **evento** profético que sucedió exactamente como el Antiguo Testamento lo predijo. Salmos 22:17-18, 69:11; Isaías 53:3-6; Zacarías 12:10; Lucas 24:46; Hechos 10:43; Romanos 1:2-4
+#### Prueba #2 – La sepultura de Cristo: 1 Corintios 15:4a – “…*Cristo murió...* y *fue **sepultado***,…” La sepultura de Cristo proporciona prueba perdurable de su muerte. Los vivos no son sepultados. Hechos 13:29
+### 1 Corintios 15:4b – “*...y que resucitó al tercer día,…”* La resurrección de Cristo es una parte integral del mensaje del evangelio que debe ser creído para que una persona sea **salva** de la pena del pecado. La resurrección validó tanto la victoria de Cristo sobre el pecado como sobre la muerte. Pablo proporcionó dos verificaciones importantes para la resurrección. Romanos 4:23-25
+#### Prueba #1 – Profecías detalladas cumplidas: 1 Corintios 15:4b – “...*y que resucitó …conforme a las Escrituras;”* Tal como las profecías cumplidas con precisión demuestran la validez de la muerte de Cristo, las profecías cumplidas con precisión también **prueban** la resurrección de Cristo. Job 19:25-26; Salmos 16:9-10; Isaías 25:8, 53:10 
+#### Prueba #2 – Testigos oculares múltiples: 1 Corintios 15:5-9 – “*y que **apareció***...” Más de 500 testigos oculares se presentan como prueba concluyente de la resurrección. 1 Juan 1:1-2
+##### 1 Corintios 15:5a – “*y que apareció a Cefas,…”* Pedro, uno de los amigos más íntimos de Jesús y uno de los cristianos más conocidos de todos los tiempos, vio al Cristo resucitado. Más tarde, Pedro fue martirizado porque creyó que Jesús murió por nuestros pecados y **resucitó**.
+##### 1 Corintios 15:5b – *“…y después a los doce* [discípulos].”* Mientras todavía dudaban de la resurrección de Cristo, los doce **discípulos** lo vieron. Esta declaración puede incluir a Matías de Hechos 1:26, quien también atestiguó de la resurrección de Cristo.
+##### 1 Corintios 15:6 – “*Después apareció a más de quinientos hermanos a la vez, de los cuales muchos viven aún, y otros ya duermen*.” Cristo se apareció a más de 500 personas a la vez. La mayoría de estos testigos todavía estaban con **vida** en el momento en que 1 Corintios fue escrito y podrían haber sido interrogados para su verificación.
+##### 1 Corintios 15:7a – *“Después apareció a Jacobo;…”* El Jacobo al que se hace referencia aquí es el medio **hermano** de Cristo, quien vio a Jesús después de que Él resucitó de entre los muertos. Habiendo crecido con Jesús, Jacobo podía confirmar o negar fácilmente la identidad de Cristo. Es significativo que él no llamó al Cristo resucitado un fraude, sino que más bien se convirtió en un creyente.
+##### 1 Corintios 15:7b – “*...después a todos los apóstoles;”* Los **apóstoles**, los que Cristo personalmente comisionó para contarle al mundo entero acerca de su muerte y resurrección, vieron al Cristo resucitado. Apocalipsis 21:14
+##### 1 Corintios 15:8-9 – “*y al último de todos, como a un abortivo, me apareció a mí. Porque yo soy el más pequeño de los apóstoles, que no soy digno de ser llamado apóstol, porque perseguí a la iglesia de Dios*.” El apóstol **Pablo**, un antiguo blasfemo y destructor de la iglesia, también vio a Cristo vivo y creyó en Él.
+## **El único requisito para la salvación: fe en Cristo**
+### Es significativo que más de 160 versículos en el Nuevo Testamento muestren la fe, o **creencia**, en Jesucristo como el único pre requisito para la salvación.
+### Hechos 16:30b-31 – *“…les dijo: Señores, ¿qué debo hacer para ser salvo? Ellos dijeron: **Cree** en el Señor Jesucristo, y serás salvo, tú y tu casa.”*
+### Juan 3:16 – “*Porque de tal manera amó Dios al mundo, que ha dado a su Hijo unigénito, para que todo aquel que en él **cree**, no se pierda, mas tenga vida eterna*.”
+### Juan 6:47 – “*De cierto, de cierto os digo: El que **cree** en mí, tiene vida eterna*.”
+### Juan 8:24 – “*Por eso os dije que moriréis en vuestros pecados; porque si no **creéis** que yo soy, en vuestros pecados moriréis*.”
+### Juan 11:25-26 – “*Le dijo Jesús: Yo soy la resurrección y la vida; el que cree en mí, aunque esté muerto, vivirá. Y todo aquel que vive y **cree** en mí, no morirá eternamente. ¿Crees esto?”*
+### Juan 20:30-31 – “*Hizo además Jesús muchas otras señales en presencia de sus discípulos, las cuales no están escritas en este libro. Pero éstas se han escrito para que **creáis** que Jesús es el Cristo, el Hijo de Dios, y para que creyendo, tengáis vida en su nombre*.”
+## **Hechos bíblicos acerca de la fe o creencia en Cristo**
+### Es importante entender que las palabras **fe** y creer tienen el mismo significado, aunque no es tan obvio en el español. En griego, creer (PISTEUO) es el verbo, mientras que fe (PISTIS) es el sustantivo. Ambas palabras (PISTEUO y PISTIS) tienen el mismo significado básico: confiar en, depender de, tener fe en o creer.
+### No es el tamaño de la fe de una persona lo que importa, lo importante es el objeto en el que una persona está confiando. Tu fe es tan buena como su **objeto**. Jeremías 17:5-8
+#### Mateo 17:20 – “…*porque de cierto os digo, que si tuviereis fe como un **grano** de mostaza, diréis a este monte: Pásate de aquí allá, y se pasará; y nada os será imposible*.”
+#### 1 Pedro 1:8 [LBLA] – “*a quien sin haberle visto, le amáis, y a quien ahora no **veis**, pero creéis en El, y os regocijáis grandemente con gozo inefable y lleno de gloria*,” 
+### La fe no es un concepto ilusorio. La fe se basa en el conocimiento que viene de la Palabra de Dios. Romanos 10:17 – “*Así que la fe es por el **oír**, y el oír, por la palabra de Dios.”*
+### La fe **no** es una obra, y por lo tanto no se basa en el mérito. Dado que la fe no es una obra, y la gracia es el favor de Dios aparte de las obras, la fe y la gracia encajan perfectamente como anillo al dedo.
+#### Romanos 4:5 – *“mas al que no **obra**, sino cree en aquel que justifica al impío, su fe le es contada por justicia*.”
+#### Romanos 4:16a – “*Por tanto, es por fe, para que sea por **gracia***,…” Romanos 11:6, Efesios 2:8-9
+### Es importante saber que la Biblia no hace una distinción entre la fe de **mente** y la fe del corazón.
+#### En los tiempos del Nuevo Testamento, la **mente** de una persona era considerada ser una parte del corazón, y el corazón era el lugar en el cual la fe ocurría. Romanos 10:10a – “*Porque con el corazón se cree para justicia,…”*
+#### Obviamente, alguien puede conocer intelectualmente los **hechos** del evangelio sin confiar personalmente en la obra terminada de Cristo para la salvación. En ese caso, tal persona no es salva. 
+##### Sin embargo, debemos ser cuidadosos de **no** medir la sinceridad de una persona utilizando términos como fe de mente, fe de corazón, fe verdadera o fe salvadora.
+##### Algunos de estos términos han sido agregados a traducciones recientes de la Biblia, pero estos calificativos no se encuentran en los manuscritos originales de la Escritura y pueden producir confusión e incluso **duda** paralizadora.
+#### Bíblicamente, una persona cree o no cree. Creencia en el Evangelio es confianza personal en Jesucristo, en quién es Él y en lo que Él hizo para salvarte. Si has creído en el Señor Jesucristo, eres **salvo**, y si no, todavía estás muerto en tus pecados.
+##### Juan 8:24 – “*Por eso os dije que moriréis en vuestros pecados; porque si no creéis que yo soy, en vuestros pecados **moriréis***.”
+##### 1 Juan 5:13 – “*Estas cosas os he escrito a vosotros que creéis en el nombre del Hijo de Dios, para que **sepáis** que tenéis vida eterna, y para que creáis en el nombre del Hijo de Dios*.”
+## **¿Por qué es importante presentar un evangelio claro?**
+### La mayoría de los creyentes asienten con la cabeza cuando escuchan el evangelio **verdadero**, pero cuando señalas presentaciones del evangelio poco claras, puedes obtener muchas respuestas diferentes, incluyendo conmoción, tristeza, culpa o incluso la negación de la verdad del evangelio.
+### La intención de esta sección no es criticar, sino más bien desafiar nuestro pensamiento. Esta sección se presenta con la confianza de que, como cristianos, todos queremos ser claros y **fieles** con el mensaje más importante sobre la tierra.
+### Dado que muchos de nosotros fuimos salvos a pesar de presentaciones **poco claras** del Evangelio, podríamos sentirnos tentados a pensar que la precisión no es tan importante y que las presentaciones poco claras con las que crecimos son aceptables, a pesar de que no sean completamente precisas.
+### Sin embargo, deberíamos procurar presentar el mensaje del evangelio tan **claramente** como sea posible.
+#### Refiriéndose a la claridad, en 1 Corintios 14:7-8, Pablo dijo, “*Ciertamente las cosas inanimadas que producen sonidos, como la flauta o la cítara, si no dieren distinción de voces, ¿cómo se **sabrá** lo que se toca con la flauta o con la cítara? Y si la trompeta diere sonido incierto, ¿quién se preparará para la batalla?*”
+#### De manera similar, en Efesios 6:19-20, Pablo dijo, “*y por mí, a fin de que al abrir mi boca me sea dada palabra para dar a conocer con denuedo el misterio del evangelio, por el cual soy embajador en cadenas; que con **denuedo** hable de él, como debo hablar*.”
+#### En Hechos 18:25-26, Priscila y Aquila ayudaron a Apolos a ser más preciso – “*Este había sido instruido en el camino del Señor; ...hablaba y enseñaba diligentemente lo concerniente al Señor, ... pero cuando le oyeron Priscila y Aquila, le tomaron aparte y le expusieron **más** exactamente el camino de Dios*.”
+### Las Escrituras son firmes al declarar lo que el evangelio es y no es. Aquí hay algunos ejemplos de este hecho.
+
+
+|SALVO POR:|NO SALVO POR:|
+| :-: | :-: |
+|Efesios 2:8-9|
+|*Porque por gracia sois salvos por medio de la fe*|*y esto no de vosotros*|
+|*pues es don de Dios*|*no por obras, para que nadie se gloríe*|
+|Hechos 13:39|
+|*en él es justificado todo aquel que cree*|*y que de todo aquello de que por la ley de Moisés no pudisteis ser justificados.*|
+|Tito 3:5|
+|*Nos salvó*|*no por obras de justicia que nosotros hubiéramos hecho* |
+|*sino por su misericordia, por el lavamiento de la regeneración y por la renovación en el Espíritu Santo*|* |
+|2 Timoteo 1:9|
+|*quien nos salvó y llamó con llamamiento santo* |*no conforme a nuestras obras*|
+|*sino según el propósito suyo y la gracia que nos fue dada en Cristo Jesús antes de los tiempos de los siglos* ||
+|Gálatas 2:16|
+||*Sabiendo que el hombre no es justificado por las obras de la ley*|
+|*sino por la fe de Jesucristo,*||
+|*nosotros también hemos creído en Jesucristo,* ||
+|*para ser justificados por la fe de Cristo*|*y no por las obras de la ley,* |
+||*por cuanto por las obras de la ley nadie será justificado.*|
+
+
+
+
+
+## **Presentaciones No Claras del Evangelio**
+### **Confusión: Cree y haz buenas obras**
+#### Casi todos los **falsos** evangelios requieren que el pecador haga alguna obra para salvación, pero el evangelio no es fe en Cristo más buenas obras.
+#### La Biblia enseña que la salvación es la obra de Dios. Apocalipsis 7:10 – “*y clamaban a gran voz, diciendo: La salvación pertenece a nuestro **Dios** que está sentado en el trono, y al Cordero*.” Salmos 3:8, Jonás 2:9b
+#### No podemos agregar nada a la **obra** de Cristo en la cruz. Él logró la completa y total salvación para toda la humanidad, sin la ayuda de nadie. Por fe confiamos en lo que Él ya logró. Hebreos 1:3, 10:12
+#### Efesios 2:8-9 – “*Porque por gracia sois salvos por medio de la fe; y esto no de vosotros, pues es don de Dios; no **por obras**, para que nadie se gloríe*.” 
+#### Tito 3:5 – “*Nos salvó, no **por obras** de justicia que nosotros hubiéramos hecho, sino por su misericordia, por el lavamiento de la regeneración y por la renovación en el Espíritu Santo*.”
+### **Confusión: Cree y guarda los Diez Mandamientos**
+#### La confusión acerca de guardar los Diez Mandamientos para ganar la aceptación de Dios, hoy todavía prevalece en nuestro mundo. La Biblia habla claramente contra este evangelio **equivocado**.
+#### Gálatas 2:16 – *“sabiendo que el hombre no es justificado por las **obras** de la ley, sino por la fe de Jesucristo, nosotros también hemos creído en Jesucristo, para ser justificados por la fe de Cristo y no por las obras de la ley, por cuanto por las obras de la ley nadie será justificado*.”
+#### Hechos 13:39 – *“y que de todo aquello de que por la **ley** de Moisés no pudisteis ser justificados, en él es justificado todo aquel que cree*.” 
+#### Romanos 3:20 – *“ya que por las obras de la ley ningún ser humano será justificado delante de él; porque por medio de la ley es el conocimiento del **pecado***.” 
+#### Gálatas 3:11 – “*Y que por la ley ninguno se justifica para con Dios, es evidente, porque: El justo por la **fe** vivirá;”*
+#### Recordemos la sección “Escuela de leyes” de este manual, donde aprendimos que la Ley fue otorgada para ser nuestra maestra de escuela, para enseñarnos a reconocer nuestra **necesidad** de salvación, pero nunca fue dada para salvarnos. Sólo Jesucristo puede salvar.
+### **Confusión: Cree y sé bautizado**
+#### El bautismo en agua es un testimonio público de salvación para las personas que **han** creído en la obra de Jesucristo en la cruz, pero no es un requisito o el medio de salvación para los que no son salvos. Hechos 8:26-40, 10:43-48
+#### Si el bautismo en agua fuese requerido para la salvación, Pablo cometió un grave error cuando en 1 Corintios 1:17 dijo, “*Pues no me envió Cristo a **bautizar**, sino a predicar el evangelio; no con sabiduría de palabras, para que no se haga vana la cruz de Cristo*.”
+#### El ladrón en la cruz fue indiscutiblemente salvo sin ser bautizado en agua, lo cual es otra confirmación de que el **ritual** del bautismo no es necesario para la salvación. Lucas 23:42-43
+### **Confusión: Cree y sé circuncidado**
+#### Aunque este falso evangelio no es común en el día de hoy, fue un problema en la iglesia primitiva cuando la mayoría de los cristianos todavía eran **judíos**. Muchos de estos creyentes judíos creían que para que los gentiles fueran salvos, ellos también necesitaban ser circuncidados.
+#### Hechos 15:1 – “*Entonces algunos que venían de Judea enseñaban a los hermanos: Si no os circuncidáis conforme al rito de **Moisés**, no podéis ser salvos.”*
+#### Gálatas 5:2-3 – “*He aquí, yo Pablo os digo que si os circuncidáis, de nada os aprovechará Cristo. Y otra vez testifico a todo hombre que se circuncida, que está obligado a guardar toda la **ley***.”
+#### Dios dejó en claro que si una persona estaba confiando en la circuncisión para ser salva, necesitaría guardar **toda** la Ley, no solo las exigencias de la circuncisión. Dado que nadie ha podido jamás cumplir toda la Ley, cualquier esfuerzo por obtener la vida eterna a través de la circuncisión fracasa miserablemente.
+#### La circuncisión era una **señal** del Pacto Abrahámico, el cual era un acuerdo entre Dios y Abraham que data de la época en que Israel se convirtió por primera vez en nación. A todos los niños israelitas se les exigía ser circuncidados ocho días después del nacimiento. Este ritual, sin embargo, no salvaba a nadie de sus pecados. Génesis 17:9-14
+### **Confusión: Cree y confiesa tus pecados**
+#### La confesión de pecados no es un requisito para la salvación. Sin embargo, aunque la confesión de pecado no es un requisito para la salvación, todas las personas deben entender que son **pecadores** en necesidad del Salvador. Reconocer que eres un pecador antes de la salvación no es lo mismo que confesar tus pecados individuales.
+##### Primero que nada, posiblemente nadie pueda recordar **cada** pecado que haya cometido. De hecho, ¡a la mayoría de nosotros nos cuesta recordar lo que comimos en la cena la noche anterior!
+##### En segundo lugar, tratar de confesar todos tus pecados causaría dudas y un examen de conciencia angustioso. Si crees que debes confesar todos tus pecados para ser salvo, **nunca** estarás seguro de tu salvación, sabiendo que has olvidado muchos de tus pecados.
+#### Los incrédulos serán condenados al Lago de Fuego porque no creyeron en el Señor Jesucristo, no porque fallaron en confesar sus pecados. Juan 3:18 dice, “*El que en él cree, no es condenado; pero el que no cree, ya ha sido condenado, porque no ha **creído** en el nombre del unigénito Hijo de Dios*.”
+#### La confesión de pecado es para la persona salva, una que ya es un hijo de Dios. Cometer un pecado deliberadamente causa que el hijo de Dios pierda comunión con Dios. En tales ocasiones, los creyentes deben confesar sus pecados para **restaurar** su comunión con Dios.
+##### 1 Juan 1:9 – *“Si* [los creyentes] *confesamos nuestros pecados, él es fiel y justo para **perdonar** nuestros pecados, y limpiarnos de toda maldad*.”
+##### La palabra griega traducida *confesamos* (HOMOLOGEO) es de HOMO, que significa lo mismo, y LOGEO, que significa hablar. Confesar es decir la **misma** cosa. Significa estar de acuerdo con Dios con respecto a tu pecado.
+### **Confusión: Cree y pide perdón**
+#### Dios no exige que una persona **pida** perdón para ser salva. Esto es similar a la confusión previa de exigir la confesión de los pecados para la salvación.
+#### La verdad es que, en el momento en que creemos en Cristo, somos totalmente perdonados incluso sin pedir perdón. Efesios 1:7 dice, “*en quien tenemos redención por su sangre, el perdón de pecados según las **riquezas** de su gracia*,”
+#### El perdón viene como **resultado** de creer las buenas nuevas de la muerte y resurrección de Cristo, no porque le pedimos perdón a Dios. El perdón es un subproducto de creer el evangelio. Nos es concedido en el momento en que creemos en Jesucristo.
+#### Colosenses 2:13-14 dice, “*Y a vosotros, estando muertos en pecados ...os dio vida juntamente con él, **perdonándoos** todos los pecados, anulando el acta de los decretos que había contra nosotros, que nos era contraria, quitándola de en medio y clavándola en la cruz*.”
+### **Confusión: Arrepiéntete de tus pecados**
+#### La Palabra de Dios no ordena el arrepentimiento de los **pecados** a fin de ser salvo. 
+##### Las frases arrepiéntete **de** tus pecados y arrepiéntete **por** tus pecados no se encuentran en ninguna parte de la Biblia (aunque hay una excepción en la Nueva Traducción Viviente donde la frase “de tus pecados” fue añadida por los traductores).
+##### Al mismo tiempo, dicho esto, **toda** persona que alguna vez haya creído en Cristo para la salvación se ha arrepentido de algo. Como 2 Pedro 3:9 enseña, “*El Señor no retarda su promesa, según algunos la tienen por tardanza, sino que es paciente para con nosotros, no queriendo que ninguno perezca, sino que todos procedan al arrepentimiento*.”
+#### Con el fin de entender correctamente el uso bíblico de las palabras arrepentirse (verbo) y arrepentimiento (sustantivo), debemos observar la palabra **griega** original como fue utilizada en el Nuevo Testamento y no en la definición moderna del diccionario español.
+##### La palabra griega arrepentimiento (METANOIA) significa literalmente, cambio de mentalidad o cambio de pensamiento. META significa cambio y NOIA significa mente. De lo que nos arrepentimos, o de lo que cambiamos de opinión, puede variar. Podemos arrepentirnos de cosas buenas o malas. El arrepentimiento en sí y por sí mismo es **neutral**. 
+##### Desafortunadamente, nuestra comprensión moderna del arrepentimiento no fue derivada de la palabra griega METANOIA, que fue la palabra usada en la Biblia. En su lugar, fue derivada de la palabra latina medieval REPOENITĒRE, que significa **lamentarse** o sentirse triste. REPOENITĒRE es una alteración de una palabra latina anterior PAENITĒRE, que significaba ser penitente.
+##### Esta confusión con respecto al significado de la palabra arrepentirse comenzó con Jerónimo (347–420 d.C.), cuando escogió utilizar la palabra **latina** PAENITENTIAM (penitencia) para traducir la palabra griega METANOIA (cambio de mente) en la traducción Vulgata Latina del Nuevo Testamento.
+##### La traducción de la Vulgata latina de Jerónimo se convirtió en la Biblia estándar de los cristianos por muchos siglos, ocasionando un cambio en la comprensión común de arrepentirse, de un cambio de mentalidad a hacer penitencia o sentir **tristeza** por el pecado. Esta mala traducción afecta nuestra comprensión incluso hoy.
+##### El arrepentimiento bíblico es un cambio de mentalidad, no un cambio de conducta. El arrepentimiento no es una **obra** que un incrédulo debe agregar a la salvación. Esto no sería consecuente con la salvación por gracia solamente, aparte de las obras.
+#### Cómo se relaciona el arrepentimiento con la salvación.
+##### Todos los incrédulos en el mundo tienen alguna **falsa** esperanza en la que se están apoyando para la salvación eterna o alguna falsa idea que les permite ignorar el tema por completo. Hebreos 6:1
+##### Cuando los incrédulos **confían** en Cristo para salvación, es porque han cambiado su mentalidad. En lugar de confiar en la falsa esperanza que anteriormente sostenían, ahora confían sólo en Cristo para salvación. Hechos 20:21
+##### Cuando compartimos el **evangelio**, debemos alentar a los incrédulos a que cambien de pensamiento acerca de lo que han estado confiando (una religión, filosofía o esfuerzo propio) e instarlos a creer exclusivamente en Jesucristo. Hechos 11:18
+##### En Hechos 19:4, Pablo dijo, “…*Juan bautizó con bautismo de arrepentimiento, diciendo al pueblo que **creyesen** en aquel que vendría después de él, esto es, en Jesús el Cristo*.”
+##### Aunque no es necesario arrepentirte de tus pecados para ser salvo, debes arrepentirte (**cambiar** de mentalidad) a fin de creer en el Señor Jesucristo. Como Hechos 17:30 declara, “*Pero Dios, habiendo pasado por alto los tiempos de esta ignorancia, ahora manda a todos los hombres en todo lugar, que se arrepientan*;”.
+##### El arrepentimiento no debe ser enseñado como un requisito **adicional** para la salvación.
+##### El arrepentimiento no es un cambio de **vida** o un cambio de dirección. Una persona no necesita limpiar su vida de alguna manera con el fin de ser salva. Dios no requiere este paso adicional, u obra humana, para la salvación. Isaías 64:6 llama a nuestras justicias “…*trapo de inmundicia;…*”
+### **Confusión: Invita a Cristo a tu vida; pide a Jesús que entre en tu corazón**
+#### El evangelio no se trata de invitar o pedirle a Jesús que **entre** en tu vida o corazón. La respuesta correcta al evangelio es simplemente creer en Cristo y en Su obra, en que Él murió por tus pecados y resucitó.
+#### No eres salvo por suplicar, invitar o convencer a Cristo para que entre en tu vida. En el momento en que crees que Jesucristo murió por tus pecados y resucitó, recibes la vida eterna como un **regalo** totalmente gratuito. En ese momento, eres colocado en unión con Cristo y el Espíritu Santo viene a vivir dentro de ti.
+#### Efesios 1:13-14 – “*En él también vosotros, habiendo oído la palabra de verdad, el evangelio de vuestra salvación, y habiendo **creído** en él, fuisteis sellados con el Espíritu Santo de la promesa, que es las arras de nuestra herencia hasta la redención de la posesión adquirida, para alabanza de su gloria*.”
+#### Siempre que una persona confía en Cristo como Salvador, Dios el Espíritu Santo viene a vivir en su vida, pero la Biblia no nos enseña **pedirle** a Jesús que viva en nosotros. Él no viene porque lo pidamos. Él viene porque creemos.
+#### Es importante entender el correcto significado de Apocalipsis 3:20 – “*He aquí, yo estoy a la **puerta** y llamo; si alguno oye mi voz y abre la puerta, entraré a él, y cenaré con él, y él conmigo*.”
+##### Este versículo es a menudo citado en apoyo para que los no salvos pidan a Jesús entrar en sus corazones para salvación. En primer lugar, este versículo no estaba dirigido a los incrédulos, y, en segundo lugar, las palabras **pedir** y **corazón** están **ausentes**. 
+##### Este versículo fue escrito a cristianos de la **iglesia** de Laodicea (Ap. 3:14-22). Osadamente, de todas las personas, estos creyentes habían excluido a Cristo de sus reuniones. Como creyentes, necesitaban reabrirle la puerta de la comunión a Él. 
+### **Confusión: Dale tu vida a Dios; dale tu corazón a Jesús; haz un compromiso con Cristo**
+#### El evangelio no se trata de **entregar** tu vida, tu corazón o cualquier otra cosa a Dios a cambio de la vida eterna. De hecho, la salvación es todo lo contrario. La dirección de la salvación es de Dios al hombre, no del hombre a Dios.
+#### Si la salvación (ser salvo de la pena de nuestro pecado) se recibe a través de algún tipo de trato o intercambio que hacemos con Dios, ya no es un regalo **gratuito**.
+#### Romanos 11:6 – “*Y si por gracia, ya no es por obras; de otra manera la gracia ya no es **gracia***. …”
+#### La buena noticia del evangelio es que **Cristo** se entregó a sí mismo por nuestros pecados, muriendo por nosotros como nuestro sustituto en el Calvario. Nosotros no nos entregamos a Dios; Él se entregó a sí mismo por nosotros.
+##### Efesios 5:2 – “…*como también Cristo nos amó, y se **entregó** a sí mismo por nosotros, ofrenda y sacrificio a Dios en olor fragante*.”
+##### Gálatas 2:20b – El “…*Hijo de Dios, el cual me **amó** y se entregó a sí mismo por mí*.”
+#### De ningún modo acepta Dios **algo** de ti a cambio de la salvación, no importa cuán sincero seas. No hacemos ninguna contribución o pago a cambio de la salvación. De principio a fin, la salvación es un regalo totalmente gratuito, dado a nosotros sólo por la gracia de Dios cuando creemos.
+### **Confusión: Pasa al frente y haz una profesión pública de fe**
+#### Esta confusión implica que debes hacer una profesión pública **verbal** de tu fe en Cristo a fin de completar tu salvación.
+#### Si esto fuera requerido, la obra de Cristo en la cruz para pagar por tus pecados no fue **suficiente**. Para completar tu salvación, necesitarías añadir tu obra imperfecta de confesión pública a Su ya perfecta obra de morir por tus pecados.
+#### Cristo **solo** ganó nuestra completa salvación. Nada más puede ser añadido para mejorar lo que Él hizo. Efesios 2:9, Tito 3:6-7
+#### Es cierto que ante Dios en el cielo, recibirás recompensas por confesar públicamente a Cristo o se te negarán recompensas por negarlo, pero testificar públicamente no **gana** ni asegura tu salvación. Mateo 10:33
+##### Es importante entender el significado correcto de 2 Timoteo 2:11-12 – “*Palabra fiel es esta: Si somos muertos con él, también viviremos con él; Si sufrimos, también reinaremos con él; Si le negáremos, él también nos **negará***.”
+##### Lo que este versículo está diciendo es que Él nos **negará** recompensas, coronas o autoridad gobernante por infidelidad, pero no nos negará la entrada al cielo. 1 Corintios 3:15
+##### 2 Timoteo 2:13 – “*Si fuéremos infieles, él permanece fiel; Él no puede **negarse** a sí mismo*.” Incluso si nos volviéramos totalmente infieles, Él permanecería fiel a nosotros, Sus hijos.
+#### Romanos 10:9-10 es **citado** a menudo para apoyar el concepto de que un incrédulo debe proclamar a Cristo públicamente para ser salvo.
+##### Primero que nada, los capítulos 9, 10 y 11 de Romanos fueron escritos específicamente para abordar la condición espiritual pasada, presente y futura de **Israel**. Estos capítulos no fueron escritos pensando en los gentiles no salvos.
+##### Romanos 10:9-10 – *“que si confesares con tu boca que Jesús es el Señor, y creyeres en tu corazón que Dios le levantó de los muertos, serás **salvo**. Porque con el corazón se cree para justicia, pero con la boca se confiesa para salvación*.”
+##### En el contexto de este pasaje, si un israelita invocaba el nombre del Señor con su voz, sería porque **ya** había creído en el Señor en su corazón. Romanos 10:14 confirma esto, diciendo, “*¿Cómo, pues, invocarán a aquel en el cual no han creído?...*”
+##### Incluso hasta el día hoy, el pueblo judío no confesará que Jesucristo es el **SEÑOR** Yahvé del Antiguo Testamento a menos que ya hayan creído en Él en sus corazones. 
+##### La confesión simplemente confirma verbalmente lo que ya ha ocurrido en la privacidad del **corazón**, pero no es un requisito para la salvación. 1 Corintios 12:3
+### **Confusión: Haz la oración del pecador**
+#### Una persona es salva basada en la **fe** en Cristo y no por orar una oración. Hechos 16:30-31 dice, “*y sacándolos, les dijo: Señores, ¿qué debo hacer para ser salvo? Ellos dijeron: Cree en el Señor Jesucristo, y serás salvo, tú y tu casa.*”
+#### No hay ningún **ejemplo** en la Biblia de una persona a la que se le haya requerido orar una oración para ser salva. Si la oración fuera requerida para la salvación, Dios nos lo habría comunicado claramente. La oración es una buena obra, y ya sabemos que no somos salvos por hacer obras. Tito 3:5
+#### ¿Estamos dando a entender que la oración es mala? **Nunca**. La Biblia insta a los creyentes a orar sin cesar (1 Tes. 5:17) y a orar en todo tiempo (Ef. 6:18), pero la oración no es un requisito para la salvación de los incrédulos. La fe en el evangelio es lo que salva, no ser guiado por alguien para orar una oración.
+### **Confusión: Simplemente di sí a Jesús**
+#### Mientras esto puede parecer una respuesta muy **positiva** al mensaje del evangelio, no es sinónimo de “*Cree en el Señor Jesucristo y serás salvo*.” Hechos 16:31
+#### Esta declaración es confusa, ya que no especifica que debemos creer en la muerte y resurrección de Cristo para la salvación. Muchas personas bien intencionadas llegan a convencerse fácilmente de que van al cielo en base a una **actitud** positiva hacia Jesús. 
+#### La salvación no se basa en un “**sí**” como declaración al Señor. ¿A qué exactamente le estaría diciendo una persona que sí? Si decirle sí al Señor fuera parte de algún tipo de promesa o voto al Señor, entonces sería una obra humana. Sabemos por la Palabra de Dios que nuestras obras no nos salvan. Tito 3:5
+#### De hecho, Mateo 7:22-23 habla de personas que fueron muy positivas hacia el Señor y, sin embargo, no fueron salvas. A este tipo de personas, Jesús les dirá, “*Muchos me **dirán** en aquel día: Señor, Señor, ¿no profetizamos en tu nombre, y en tu nombre echamos fuera demonios, y en tu nombre hicimos muchos milagros? Y entonces les declararé: Nunca os conocí; apartaos de mí, hacedores de maldad*.”
+### **Confusión: Ama a Dios**
+#### Esta confusión enseña que puedes ganar la salvación amando a Dios y amando a tu prójimo como a ti mismo. En realidad, es imposible producir este tipo de **amor** antes de la salvación. Efesios 2:1-3
+#### Este mensaje **falso** del evangelio sale de Deuteronomio 6:5 – “*Y amarás a Jehová tu Dios de todo tu corazón, y de toda tu alma, y con todas tus fuerzas*.”
+#### Aunque **Jesús** dijo que este era el más grande mandamiento (Lucas 10:27), Él no implicó que una persona pudiera ganar la salvación por obedecerla.
+#### Hay muchos mandatos similares dados en la Palabra de Dios, pero estos son para que los **hijos** de Dios obedezcan, no los incrédulos.
+#### Es por creer las buenas nuevas acerca de Jesús lo que **salva** a un alma, no por amar a Dios y a los demás.
+### **Confusión: Sigue a Jesús; toma tu cruz**
+#### Es importante entender el **contexto** de Mateo 16:24-26. “*Entonces Jesús dijo a sus discípulos: Si alguno quiere venir en pos de mí, niéguese a sí mismo, y tome su cruz, y sígame. Porque todo el que quiera salvar su vida, la perderá; y todo el que pierda su vida por causa de mí, la hallará. Porque ¿qué aprovechará al hombre, si ganare todo el mundo, y perdiere su alma? ¿O qué recompensa dará el hombre por su alma?”*
+#### La clave para entender este pasaje es entender que Jesús estaba dirigiéndose a creyentes: “…*Jesús dijo a **sus** discípulos…”*. Ya que Jesús estaba hablando con sus discípulos, sabemos que este es un pasaje de santificación en lugar de un pasaje de cómo ser salvos.
+#### Cuando Jesús hablaba de alguien perdiendo su vida y perdiendo su alma, Él no estaba hablando de creyentes perdiendo sus almas en el **infierno**. Si eso fuera así, contradeciría muchos versículos sobre la naturaleza eterna de nuestra salvación, como veremos. 
+#### Jesús estaba advirtiendo a los creyentes no **perder** la vida abundante y volverse infructuosos en el servicio aquí en la tierra. Él estaba hablando en contra del creyente que se vende al mundo. Romanos 12:2, 1 Juan 2:15-17
+### **Confusión: Haz a Cristo Señor de tu vida; sométete al señorío de Jesús.**
+#### Es cierto que para ser salvo debes creer que Jesús es el **Señor** Dios. Juan 8:24 dice, “*Por eso os dije que moriréis en vuestros pecados; porque si no creéis que yo soy* [Él]*, en vuestros pecados moriréis*.” 
+##### El **título** de Jesús, Cristo, significa que Jesús es el Señor. En Mateo 16:16, cuando Jesús le preguntó a Pedro quién era Él, “*Respondiendo Simón Pedro, dijo: Tú eres el Cristo, el Hijo del Dios viviente.”* Hechos 2:36, Lucas 2:11, Juan 4:25, 1 Juan 2:22-23
+##### Sería absurdo confiar en Jesús para la salvación si pensaras que Él fuese simplemente un **humano** ordinario y pecador como tú.
+#### Sin embargo, si bien debes creer que Cristo es el Señor Dios a fin de ser salvo, hacerlo Señor de tu vida no te salvará. Si ese fuera el caso, tu salvación no estaría basada en la obra terminada de Cristo, sino en la adición de **tu** obra de convertirlo en tu Señor. La salvación estaría basada en tus frágiles esfuerzos para someterte a Él. Tito 3:5-6
+##### Hacer a Cristo el Señor de tu vida no es una decisión que tomas momentos **antes** de creer. 
+##### ¿Cómo puede un incrédulo que está muerto en delitos y pecados (Efe 2:1-3), bajo el control de Satanás y sin el Espíritu de Dios en su vida, honestamente y con éxito, prometer **sumisión** al señorío de Jesucristo? Si hacer a Jesús el Señor de tu vida fuera un requisito para la salvación, nadie podría ser salvo.
+#### El señorío es una cuestión de discipulado para el **creyente**, no una cuestión de salvación para el incrédulo.
+##### Sabemos que el Señor Jesucristo quiere ser el Señor de cada miembro de Su **cuerpo**. Él inicia este proceso de por vida en el momento en que una persona cree en Él y Él promete continuar trabajando hacia este objetivo hasta el segundo en que muramos. Filipenses 1:6, 2:12‑13; 1 Pedro 1:13-16
+##### Como creyentes, todos luchamos con el pecado y, a veces, nos **encontramos** luchando contra el señorío de Cristo en alguna área de nuestras vidas. Romanos 7:18, 1 Juan 1:8
+##### Sin embargo, cuando de manera consistente **presentamos** los miembros de nuestro cuerpo como instrumentos de justicia al Señor, el señorío de Cristo sobre nuestras vidas aumenta. Romanos 6:19-22
+### **Confusión: Sólo ten fe**
+#### Decirle a un incrédulo que sólo tenga fe, es decir, una vibra positiva hacia Dios o hacia la vida, es confuso porque el **objeto** de la fe no está establecido o claramente definido. Muchas personas creen erróneamente que serán salvadas porque tienen optimismo positivo acerca de la vida o acerca de Dios. Lamentablemente, este es un error fatal.
+#### El concepto de tener fe es bíblico, pero para la salvación, la fe debe estar específicamente en Cristo. Juan 6:29 – “*Respondió Jesús y les dijo: Esta es la obra de Dios, que creáis en **el** **que** él ha enviado.”*
+#### Para muchos pensadores modernos, Jesús es un buen hombre indefinido o un buen ejemplo. Cristo se convierte en un **ideal** para alcanzar a la larga por simplemente tener una buena perspectiva de la vida. Muchas de estas personas ven la fe como un tipo de Karma místico o una fuerza cósmica sagrada.
+#### Debido a que las declaraciones “sólo ten fe” o “cree” no describen una fe puesta en la muerte del Señor Jesucristo por nuestros **pecados** y Su resurrección, este es un mensaje engañoso. Hechos 16:29-34, 1 Corintios 15:1-4
+### **Confusión: Mantén la fe**
+#### Este mensaje falso del evangelio implica que la salvación se trata de mantener tu fe en Cristo. Si **dejases** de creer, perderás tu salvación e irás al infierno.
+#### En este escenario, la razón por la que las personas van al cielo es porque **ellos** defendieron fielmente su fe y no por la fiabilidad de Cristo para defenderlos. El objeto de su fe para la salvación es su propia capacidad para guardar o mantener su fe.
+#### En 2 Timoteo 1:12, el apóstol Pablo declaró, “…*yo sé a quién he creído, y estoy seguro que* [**Él**] *es poderoso para guardar mi depósito para aquel día*.”
+#### Este error se reduce a confiar en tu propia **fe** en lugar de en la obra terminada de Cristo para la salvación. 
+### **Confusión: El evangelio sin cruz; el evangelio de la promesa solamente**
+#### Este falso evangelio invalida la fe en quién es Cristo (el Dios-Hombre) y lo que Él hizo (murió por nuestros pecados y resucitó). Estos detalles esenciales son vistos como información **adicional** y verdades innecesarias para la salvación.
+#### Algunos predicadores del evangelio sin cruz llegan al punto de decir que si exiges fe en la persona y obra de Cristo, estás de hecho **agregando** al evangelio.
+#### Los promotores de este falso evangelio **afirman** que estas son verdades no esenciales para la vida eterna. A menudo llaman al mensaje a ser creído para la vida eterna como el “mensaje salvador”, diciendo que la palabra evangelio se refiere a toda la Biblia.
+#### Este **falso** evangelio enseña que, para la salvación, una persona debe creer en la promesa de Jesús de darnos la vida eterna. Para estos maestros, todo lo esencial para la salvación es la fe en la seguridad eterna a través de un hombre llamado Jesús.
+#### Si bien es cierto que Cristo nos da vida eterna cuando creemos en Él, no se nos dice que creamos meramente en la **promesa** de Cristo de darnos vida eterna.
+#### Ambos, Pedro y Pablo, predicaban la persona y la obra de Cristo cuando compartían el evangelio con los **perdidos**.
+##### Cuando Pedro predicó en el día de Pentecostés (Hechos 2:23-24, 36), predicó la deidad, la muerte y la resurrección de Cristo: *“a éste… matasteis por manos de inicuos, crucificándole; al cual Dios levantó... Por lo tanto ...Sepa[n], pues, ciertísimamente ...que a este Jesús a quien vosotros crucificasteis, Dios le ha hecho **Señor** y Cristo*.”
+##### Pablo predicaba la cruz a los inconversos. 1 Corintios 2:1-2 – “*Así que, hermanos, cuando fui a vosotros para anunciaros el testimonio de Dios, no fui con excelencia de palabras o de sabiduría. Pues me propuse no saber entre vosotros cosa alguna sino a Jesucristo, y a éste **crucificado**.”* 1 Corintios 1:18, 23; Gálatas 1:1-9, 3:1
+##### Pablo predicaba la resurrección a los no son salvos. Hechos 17:32 – “*Pero cuando oyeron lo de la resurrección de los muertos, unos se **burlaban,…”***.
+## **Resumiendo lo que el evangelio no es**
+### El evangelio no es un mensaje subjetivo.
+#### El evangelio no es algo que decimos o hacemos en nuestros **corazones**.
+#### El evangelio no es una **experiencia** que hemos tenido.
+### El evangelio no es una fórmula.
+#### El evangelio no es repetir alguna **frase**.
+#### El evangelio no es lo que decimos o lo que alguien nos **dice** que digamos.
+### El evangelio no es decir la denominada “**oración** del pecador”.
+### El evangelio no es una emoción.
+#### El evangelio no es una **demostración** de remordimiento o auto flagelamiento.
+#### El evangelio no es una exhibición de lágrimas, **gozo** o tristeza.
+### El evangelio no es una experiencia eufórica o mística.
+#### El evangelio no es hablar en **lenguas**.
+#### El evangelio no es ser **inmolado** en el espíritu.
+#### El evangelio no es una especie de conjuro **mágico**.
+### El evangelio no es una promesa o compromiso que **hacemos**.
+### El evangelio no es algo que **hacemos** por Dios.
+### El evangelio no es un **trato** que hacemos con Dios. Dios no dice,
+#### ` `“Si me **haces** Señor, entonces te salvaré.”
+#### ` `“Si me **das** tu vida, tu corazón o tu todo, entonces te daré la salvación.”
+### El evangelio no es algo que debemos pedir o rogar a Dios.
+#### El evangelio no es pedir a Cristo que entre en tu corazón o en tu **vida**.
+#### El evangelio no es **rogar** por perdón o confesar tus pecados.
+### El evangelio no es tu capacidad de creer.
+#### El evangelio no es confiar en tu **fe**.
+#### El evangelio no es tu habilidad para ser **sincero**.
+#### El evangelio no es tu habilidad para **echar** fuera todas las dudas.
+### En resumen, el **evangelio** no es hacer buenas obras, guardar los Diez Mandamientos, ser bautizado, ser circuncidado, confesar tus pecados, pedir perdón, arrepentirte de tus pecados, invitar a Jesús a tu corazón, entregar tu vida a Dios, hacer una profesión pública de fe, hacer la oración del pecador, decirle sí a Dios, amar a Dios, seguir a Jesús, hacer a Cristo Señor de tu vida, tener fe en ti mismo o mantener la fe.
+#### ¿Cómo podría el evangelio ser **todas** estas cosas?
+#### ¿Quién podría jamás satisfacer estos requerimientos? **Fallaríamos** con seguridad si tan sólo uno de estos fuese requerido.
+### Claro y directo, el evangelio es el mensaje objetivo de que Cristo **murió** por tus pecados y resucitó al tercer día. ¿Crees en Cristo y lo que Él hizo por ti? Si es así, eres salvo. 1 Juan 5:13
+## **Cuídate de predicar cualquier otro evangelio. Gálatas 1:6-9**
+### Gálatas 1:6 – “*Estoy maravillado de que tan pronto os hayáis alejado del que os llamó por la gracia de Cristo, para seguir un evangelio diferente*." Tristemente, un creyente puede **abandonar** el evangelio, como estaba sucediendo en las iglesias de Galacia.
+### Gálatas 1:7 – “*No que haya otro, sino que hay algunos que os perturban y quieren pervertir el evangelio de Cristo*.” El evangelio es que Cristo murió por tus pecados y resucitó. No **existe** ningún otro evangelio. Desafortunadamente, los engañadores nos perturban constantemente con distorsiones del simple, pero transformador, mensaje del evangelio.
+### Gálatas 1:8 – “*Mas si aun nosotros, o un ángel del cielo, os anunciare otro evangelio **diferente** del que os hemos anunciado, sea anatema.”* Pablo declaró que cualquiera, ángeles u otros que prediquen otro evangelio, deben ser malditos.
+### Gálatas 1:9 – “*Como antes hemos dicho, también ahora lo repito: Si alguno os predica diferente evangelio del que habéis recibido, sea anatema.”* El hecho de que Pablo repitiera su fuerte hostilidad hacia los **falsos** evangelios y los que los predican muestra cuán serio es esto para Dios.
+### Gálatas 1:10 – “*Pues, ¿busco ahora el favor de los hombres, o el de Dios? ¿O trato de agradar a los hombres? Pues si todavía agradara a los hombres, no sería siervo de Cristo*.” Debemos **resistir** a toda costa la tentación de predicar un mensaje popular, diluido o atractivo del Evangelio, porque si lo hacemos, ya no estamos sirviendo a Cristo.
+## **¿Estás convencido de que Jesús es el único camino?**
+### En Juan 14:6, Jesús dijo, “…*Yo soy el camino, y la verdad, y la vida; nadie viene al Padre, sino por mí*.” ¿Le crees a Jesús? ¿Crees que Él es el **único** camino a Dios? ¿O estaba Él equivocado? ¿Hay otra manera?
+####
+### ¿Hay muchas puertas o caminos a Dios? ¡No! En Juan 10:9, Jesús no dio lugar a excepción alguna, sino que especificó exclusivamente, “*Yo soy la **puerta**; el que por mí entrare, será salvo; y entrará, y saldrá, y hallará pastos*.” No hay puertas múltiples.
+### Necesitamos recordar que la salvación no puede ser la **obra** de Dios y la nuestra al mismo tiempo. Ni siquiera puede ser 99% Cristo y 1% nosotros. La salvación es 100% el regalo gratuito de Dios. Efesios 2:8-9, Isaías 42:8
+### Debemos confiar únicamente en la obra de Cristo; no hay **término** medio. No es Cristo más alguna cosa. Hechos 4:12 dice, “*Y en ningún otro hay salvación; porque no hay otro nombre bajo el cielo, dado a los hombres, en que podamos ser salvos*.” Isaías 42:8
+### La razón por la que debemos ser **precisos** con el mensaje más importante en la tierra es porque es una cuestión de vida o muerte.
+#### Si tuvieras un tumor cerebral maligno, por ejemplo, querrías que sólo un cirujano calificado se encargara de la cirugía y querrías que él usara una gran precisión. 
+#### El evangelio es incluso más importante que una cirugía cerebral porque tiene consecuencias **eternas**.
+### Por estas razones, buscamos ser concisos y claros con el mensaje del evangelio. Nuestro objetivo en esta enseñanza no es juzgar, menospreciar o desanimar a los hijos de Dios. Si has sido culpable de **no ser claro** con el mensaje del evangelio, confíe en el Señor y pídele a Dios que haga que tu presentación del evangelio sea más clara que nunca. 1 Tesalonicenses 2:4, 2 Timoteo 2:15
+## **Cristo nos llama a compartir un evangelio claro en todo lugar.**
+### En Marcos 16:15, el Señor Jesucristo ordenó, “…*Id por **todo** el mundo y predicad el evangelio a toda criatura*.”
+### Cristo nos llamó a hacer discípulos en todas las naciones. Mateo 28:19-20 dice, “*Por tanto, id, y haced discípulos a todas las **naciones**, bautizándolos en el nombre del Padre, y del Hijo, y del Espíritu Santo; enseñándoles que guarden todas las cosas que os he mandado; y he aquí yo estoy con vosotros todos los días, hasta el fin del mundo. Amén*.”
+### En Hechos 1:8, justo antes de regresar al cielo, Jesús añadió, “*pero recibiréis poder, cuando haya venido sobre vosotros el Espíritu Santo, y me seréis **testigos** en Jerusalén, en toda Judea, en Samaria, y hasta lo último de la tierra*.”
+### Debido a que es una cuestión de vida o muerte, asegurémonos de ser exactos y **precisos** al enseñar a otros la buena nueva de que Cristo murió por sus pecados y resucitó al tercer día.
+# **Seguros Por Siempre**
+## **El papel de Dios en salvarnos y mantenernos salvos**
+### Es Dios quien nos **salva**. Apocalipsis 7:10b dice*,* “…*La salvación pertenece a nuestro Dios que está sentado en el trono, y al Cordero.*” No nos salvamos a nosotros mismos. Ese es el trabajo de Dios. Isaías 45:22
+### Dios, el **autor** de nuestra salvación, dice que la salvación es eterna. Hebreos 5:9a dice, “*y habiendo sido perfeccionado, [*Jesús*] vino a ser autor de eterna salvación*…” Isaías 51:6b
+### Ya que la salvación es la obra de Dios, la única manera en que un creyente podría alguna vez perder su salvación sería si Dios fallara de alguna manera. Pero Dios no fallará. El apóstol Pablo estaba **seguro** de eso. Él escribió, “*estando persuadido de esto, que el que comenzó en vosotros la buena obra, la perfeccionará hasta el día de Jesucristo*;” Filipenses 1:6
+### La Biblia enseña que la protección de Dios mantiene a los creyentes a **salvo** y seguros todo el camino hasta la eternidad.
+#### Hebreos 13:5b – “…*No te **desampararé**, ni te dejaré*;”
+#### Juan 10:28 – “*y yo les doy vida eterna; y no perecerán **jamás**, ni nadie las arrebatará de mi mano*.”
+#### Hebreos 7:25 – *“por lo cual puede también salvar **perpetuamente** a los que por él se acercan a Dios, viviendo siempre para interceder por ellos*.”
+### En Su misericordia, Dios mismo preserva y mantiene nuestra salvación completamente **aparte** de nuestras buenas obras. Tito 3:5 dice, “*nos salvó, no por obras de justicia que nosotros hubiéramos hecho, sino por su misericordia, por el lavamiento de la regeneración y por la renovación en el Espíritu Santo*,”
+### Nuestra salvación está segura en base a las promesas de **Dios**, no en nuestros éxitos o fracasos. 1 Juan 2:25 dice, “*Y esta es la promesa que él nos hizo, la vida eterna*.”
+### Aunque Dios es el que mantiene y preserva nuestra salvación, un creyente puede tener dudas con respecto a este asunto. Debemos dejar siempre que la Biblia sea nuestra guía, no nuestras opiniones, experiencias, sentimientos, dogmas o denominaciones personales. La Palabra de Dios tiene que ser la autoridad **final** en materia de la seguridad de nuestra salvación. Hechos 17:11
+### Eres responsable de examinar la Biblia para asegurarte de que esta enseñanza es realmente lo que la Biblia dice. Haz como los bereanos en Hechos 17:11, “*Y éstos eran más nobles que los que estaban en Tesalónica, pues recibieron la palabra con toda solicitud, escudriñando **cada día** las Escrituras para ver si estas cosas eran así*.”
+1. **Eternamente seguros**
+> ***Argumentos Lógicos de la Seguridad Eterna***
+Un argumento de **definición**:
+¿Cuánto dura la vida **eterna**? Eterno significa para siempre. Si la salvación pudiera perderse, Dios la habría llamado vida temporal o de corto plazo. En cambio, la Biblia insiste en que la salvación es eterna y que todos los creyentes tienen vida eterna. Juan 3:16
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#### Juan 3:15 – “*para que todo aquel que en él cree, no se pierda, mas tenga vida **eterna***.”
+#####
+#### Juan 3:36 – “*El que cree en el Hijo tiene vida eterna; pero el que rehúsa creer en el Hijo no verá la vida, sino que la **ira** de Dios está sobre él*.”
+Un argumento de **relación biológica**:
+Juan 1:11-13 declara, “*A lo suyo vino, y los suyos no le recibieron. Mas a todos los que le recibieron, a los que creen en su nombre, les dio potestad de ser hechos hijos de Dios; los cuales no son engendrados de sangre, ni de voluntad de carne, ni de voluntad de varón, sino de **Dios***;”
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#### Cuando naciste en este mundo, tu madre hizo todo el trabajo. De manera similar, cuando naciste de nuevo, **Dios** te dio un nuevo nacimiento por la acción del Espíritu Santo en el momento en que creíste en Cristo. Juan 3:6-8, Gálatas 3:26
+#### El nacimiento es un evento de una sola dirección que jamás puede ser revertido. Tal como es imposible volverse no nacido físicamente, es imposible volverse no nacido espiritualmente. Una vez que naces de nuevo, eres la descendencia de Dios y un **miembro** de Su familia para siempre.
+#### En 1 Pedro 1:23, Pedro dijo, “*siendo renacidos, no de **simiente** corruptible, sino de incorruptible, por la palabra de Dios que vive y permanece para siempre*.” Dios nos dio un nuevo nacimiento por medio de una simiente imperecedera. La simiente de Dios no puede ser corrompida.
+#### Figurativamente ahora poseemos ADN divino. Y así como es imposible eliminar el ADN de tus padres, es imposible **eliminar** el ADN espiritual de Dios, por así decirlo, o Su simiente imperecedera, de dentro de nosotros. 
+Un argumento de **lazos familiares**:
+Si Dios hizo **tanto** por nosotros enviando a Jesús a morir por nosotros cuando éramos criminales culpables, muertos en nuestros delitos y pecados, hijos de Satanás, ¿Qué nos hace pensar que Él hará menos por nosotros ahora que somos sus propios hijos queridos?
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#### Romanos 8:32 – “*El que no escatimó ni a su propio Hijo, sino que lo entregó por todos nosotros, ¿cómo no nos **dará** también con él todas las cosas?”*
+#### Mateo 7:11 – “*Pues si vosotros, siendo malos, sabéis dar buenas dádivas a vuestros hijos, ¿cuánto más vuestro Padre que está en los cielos dará **buenas** cosas a los que le pidan?”*
+#### Santiago 1:17 – “*Toda buena dádiva y todo don **perfecto** desciende de lo alto, del Padre de las luces, en el cual no hay mudanza, ni sombra de variación.”*
+Un argumento de la naturalidad de un **don gratuito**:
+Efesios 2:8-9 dice, “Porque por gracia sois salvos por medio de la fe; y esto no de vosotros, pues es **don** de Dios; no por obras, para que nadie se gloríe.”
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+#### No puedes **ganar** la salvación por buenas obras o por una vida santa. La salvación es un don gratuito de Dios. 
+#### Si pudieras ganar tu salvación, tendrías algo de qué enorgullecerte, pero no puedes. Solo Dios merece ser alabado y agradecido por Su **regalo** de amor y bondad, llamado salvación.
+Un argumento de que los **dones de Dios son perdurables**:
+Cuando Dios da un regalo, Él no lo retoma. Todos los dones de Dios son **permanentes**.
+---------------------------------------------------------------------------------------
+#### Romanos 11:29 – “*Porque irrevocables son los dones y el llamamiento de Dios*.” Cuando Dios da un regalo, Él nunca lo **tomará** de regreso. Cuando Él te da un regalo, es tuyo para siempre. Es permanentemente tuyo.
+#### Santiago 1:17 – “*Toda buena dádiva y todo don perfecto desciende de lo alto, del Padre de las luces, en el cual no hay mudanza, ni sombra de variación*.” *No hay …variación* significa que Dios no **cambia**. Malaquías 3:6
+#### Romanos 6:23 – “*Porque la paga del pecado es muerte, mas la **dádiva** de Dios es vida eterna en Cristo Jesús Señor nuestro*.” La vida eterna es un don gratuito. Depende de la fidelidad de Dios, no de la tuya. Dios no te la dio porque la merecías y no tienes que continuar mereciéndola para poder conservarla.
+Un argumento de la **naturaleza incomparable de la fe**:
+Somos salvos por fe, no por obras. Tito 3:5 dice, “*nos salvó, no por obras de justicia que nosotros hubiéramos hecho,…”* Tal como no hicimos obras para ganar nuestra salvación, las buenas obras no nos mantienen salvos, y la falta de buenas obras no causa que perdamos nuestra salvación.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#### Gálatas 3:3 – “*¿Tan necios sois? ¿Habiendo comenzado por el Espíritu, ahora vais a acabar por la **carne**?”*
+#### Romanos 4:5 – *“mas al que no obra, sino **cree** en aquel que justifica al impío, su fe le es contada por justicia*.”
+#### Gálatas 2:16 – “*sabiendo que el hombre no es justificado por las obras de la ley, sino por la **fe** de Jesucristo, nosotros también hemos creído en Jesucristo, para ser justificados por la fe de Cristo y no por las obras de la ley, por cuanto por las obras de la ley nadie será justificado*.”
+Un argumento de la firmeza de **un cumplidor de promesas**:
+Incluso si eres infiel a Cristo, Él permanecerá **fiel** a ti para siempre. Él no puede romper Sus promesas. 
+-------------------------------------------------------------------------------------------------------------
+#### 2 Timoteo 2:13 – “*Si fuéremos infieles, él **permanece** fiel; Él no puede negarse a sí mismo*.”
+#### Tito 1:2 – “…*Dios …no **miente***…”
+#### Hebreos 10:23 – “*Mantengamos firme, sin fluctuar, la profesión de nuestra esperanza, porque fiel es el que **prometió***.”
+Un argumento de **ancla para el alma**:
+Dios es fiel para cumplir todas Sus promesas de salvación al creyente. Él protege a todos los que han tomado refugio en Él. Nuestra esperanza es tan segura que es como un ancla sujeta a una **roca** sólida.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#### Hebreos 6:18-19 – *“para que por dos cosas inmutables, en las cuales es imposible que Dios mienta, tengamos un fortísimo consuelo los que hemos acudido para asirnos de la esperanza puesta delante de nosotros. La cual tenemos como **segura** y firme ancla del alma, y que penetra hasta dentro del velo*”.
+#### Salmos 62:6 – “*El solamente es mi **roca** y mi salvación. Es mi refugio, no **resbalaré***”. Salmo 118:8-9
+Un argumento de **la palabra escrita**:
+1 Juan 5:13 – *“Estas cosas os he escrito a vosotros que creéis en el nombre del Hijo de Dios, para que sepáis que tenéis vida eterna, y para que creáis en el nombre del Hijo de Dios*.” Estás eternamente seguro porque la Biblia lo dice. Sin arrogancia, puedes ciertamente saber que estás salvo y seguro en Cristo porque la **Palabra** de Dios lo dice así.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+***Argumentos Legales de la Seguridad Eterna***
+Un argumento de la **eliminación de la culpa**:
+Juan 1:29 dice, “*He aquí el Cordero de Dios, que **quita** el pecado del mundo.*” Jesús fue en efecto el sacrificio de Dios para quitar nuestros pecados. Tus pecados, pasados, presentes y futuros, fueron borrados por Cristo. Si más tarde fueras juzgado por tus pecados, Su obra habría sido incompleta, y eso no es posible. Hebreos 10:12
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Un argumento de los **pecados olvidados**:
+Dios perdonó y **olvidó** todos tus pecados para siempre. Si el pecado pudiera mantenerte fuera del cielo, Dios no te perdonó completamente.
+--------------------------------------------------------------------------------------------------------------------------------------------
+#### Salmos 103:10-12 – “*No ha hecho con nosotros conforme a nuestras iniquidades, ni nos ha pagado conforme a nuestros pecados. Porque como la altura de los cielos sobre la tierra, engrandeció su misericordia sobre los que le temen. Cuanto está lejos el oriente del occidente, hizo **alejar** de nosotros nuestras rebeliones*.”
+#### Colosenses 2:13 – “*Y a vosotros, estando muertos en pecados y en la incircuncisión de vuestra carne, os dio vida juntamente con él, **perdonándoos** todos los pecados*,”
+#### Hebreos 8:12 – “*Porque seré propicio a sus injusticias, y nunca más me acordaré de sus **pecados** y de sus iniquidades*.”
+Un argumento de **inmunidad**:
+Dios promete que en Cristo serás salvo de la futura condenación. Pero si pudieras perder tu salvación, serías una vez más condenado al infierno. En ese caso, las promesas de Cristo llegarían a ser **falsas**.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+####
+#### Juan 3:18 dice, “*El que en él cree, no es **condenado**; pero el que no cree, ya ha sido condenado, porque no ha creído en el nombre del unigénito Hijo de Dios*.”
+#### En Juan 5:24 Jesús dijo, “*De cierto, de cierto os digo: El que oye mi palabra, y cree al que me envió, tiene vida eterna; y no vendrá a condenación, mas ha **pasado** de muerte a vida*.”
+Un argumento de **inocencia**:
+Ninguna acusación puede incriminarnos eternamente, ahora que estamos en Cristo. Romanos 8:33-34 dice, “*¿Quién **acusará** a los escogidos de Dios? Dios es el que justifica*.” Romanos 8:1
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+####
+Un argumento del **mediador**:
+Puesto que Jesucristo se sienta a la diestra del Padre y **media** constantemente por nosotros, nadie puede jamás ir delante de Dios y presentar una acusación contra nosotros que pudiera causar nuestra condenación. 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#### Jesucristo es nuestro abogado defensor que siempre media ante Dios el Padre en nuestro nombre. Él no sólo es el mejor **abogado** de todos los tiempos, Él puede defendernos audaz y legalmente porque Él, el Dios-Hombre perfecto, pagó en su totalidad la pena por nuestros pecados.
+#### Romanos 8:34 – “*¿Quién es el que condenará? Cristo es el que murió; más aún, el que también resucitó, el que además está a la diestra de Dios, el que también **intercede** por nosotros*.”
+#### Hebreos 7:25 – “*por lo cual puede también salvar perpetuamente a los que por él se acercan a Dios, **viviendo** siempre para interceder por ellos*.”
+#### 1 Juan 2:1b-2 – *“…y si alguno hubiere pecado, **abogado** tenemos para con el Padre, a Jesucristo el justo. y él es la propiciación* [pago satisfactorio] *por nuestros pecados; y no solamente por los nuestros, sino también por los de todo el mundo*.” Apocalipsis 12:9-10
+***Argumentos de la Realidad de la Seguridad Eterna***
+Un argumento de **posesión presente**:
+Juan 3:36a dice, “*El que cree en el Hijo tiene vida eterna;…*” Si has creído en el Hijo de Dios, Jesucristo, tú ya **posees** la vida eterna. La vida eterna es tu posesión y eso no puede cambiar. 1 Juan 5:11-12
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Un argumento de **un** **hecho consumado**:
+Si pudieras **perder** tu salvación, la obra de Cristo en la cruz no habría sido completada, pero sabemos que ese no es el caso en absoluto. El sacrificio de Cristo fue una obra terminada.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#### Juan 19:30 – “*Cuando Jesús hubo tomado el vinagre, dijo: **Consumado** es. Y habiendo inclinado la cabeza, entregó el espíritu*.”
+#### Hebreos 7:27 – *“que no tiene necesidad cada día, como aquellos sumos sacerdotes, de ofrecer primero sacrificios por sus propios pecados, y luego por los del pueblo; porque esto lo hizo **una vez** para siempre, ofreciéndose a sí mismo*.”
+#### Hebreos 10:10 – “*En esa voluntad somos santificados mediante la ofrenda del cuerpo de Jesucristo hecha una vez para **siempre***.”
+#### Hebreos 10:14 – *“porque con una sola ofrenda hizo perfectos para **siempre** a los santificados*.”
+#### Hebreos 10:18 – “*Pues donde hay remisión de éstos, **no hay más** ofrenda por el pecado*.”
+Un argumento de **un** **producto terminado**:
+Sabemos que Dios termina todo lo que comienza. Puesto que Él comenzó nuestra salvación, Él la continuará hasta que Cristo regrese. Filipenses 1:6 dice, “*estando persuadido de esto, que el que comenzó en vosotros la buena obra, la perfeccionará **hasta** el día de Jesucristo;*” 1 Corintios 1:8
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Un argumento de **tener o no tener**:
+Tú, o **posees** la vida eterna gracias a Cristo, o estás todavía muerto en tus pecados. 1 Juan 5:11-12 dice, “*Y este es el testimonio: que Dios nos ha dado vida eterna; y esta vida está en su Hijo. El que tiene al Hijo, tiene la vida; el que no tiene al Hijo de Dios no tiene la vida.*”
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+***Argumentos de Completitud de la Seguridad Eterna***
+Un argumento de **total satisfacción**:
+Si pudieras perder tu salvación, nuevamente llegarías a estar espiritualmente hambriento y sediento, pero Cristo prometió que nadie que cree en Él volverá a tener **sed** o hambre jamás.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#### Juan 4:14 – “*mas el que bebiere del agua que yo le daré, no tendrá sed jamás; sino que el agua que yo le daré será en él una fuente de agua que salte para **vida** eterna*.”
+#### Juan 6:35 – “*Jesús les dijo: Yo soy el pan de vida; el que a mí viene, nunca tendrá hambre; y el que en mí cree, no tendrá sed **jamás***.”
+Un argumento de **total aceptación**:
+Jesucristo prometió nunca expulsar a nadie que vino a Él en fe. Si has confiado en Cristo, Él nunca te desechará ni **rechazará**. ¡Nunca!
+------------------------------------------------------------------------------------------------------------------------------------------
+#### En Juan 6:37 [LBLA] Jesús dijo, “*Todo lo que el Padre me da, vendrá a mí; y al que viene a mí, **de ningún modo** lo echaré fuera*.”
+#### Juan 6:39a – “*Y esta es la voluntad del Padre, el que me envió: Que de todo lo que me diere, no pierda yo **nada***,…” Cristo nunca perderá a ninguno de los hijos de Dios.
+Un argumento de **total pertenencia**:
+Eres completamente bendecido en Cristo, aparte de cualquier mérito personal. Efesios 1:6-7 – *“para alabanza de la gloria de **su** gracia, con la cual nos hizo aceptos en el Amado, en quien tenemos redención por su sangre, el perdón de pecados según las riquezas de su gracia*,”
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+####
+#####
+Un argumento de **total protección**:
+Si pudieras perder tu salvación, perecerías, pero Cristo prometió que ningún creyente **perecerá** ni será arrebatado jamás. Juan 3:16
+--------------------------------------------------------------------------------------------------------------------------------------
+#### Dios **siempre** cumple sus promesas. Romanos 3:4a dice, “*…sea Dios veraz, y todo hombre mentiroso*;…”
+#### Juan 10:27-28a – “*Mis ovejas oyen mi voz, y yo las conozco, y me siguen, y yo les doy vida eterna; y no perecerán **jamás***,…”
+Un argumento de **total defensa**:
+Nadie, ni siquiera tú ni **Satanás**, pueden arrebatarte de la protección de Cristo.
+------------------------------------------------------------------------------------
+#### Cristo te protege en su mano. Juan 10:28b declara, “*…ni nadie las **arrebatará** de mi mano.*”
+#### Dios el Padre te protege en su mano también. Juan 10:29-30 añade, “*Mi Padre que me las dio, es mayor que todos, y nadie las puede arrebatar de la **mano** de mi Padre. Yo y el Padre uno somos*.”
+#### Colosenses 3:3b declara, “*…vuestra vida está **escondida** con Cristo en Dios*.”
+Un argumento de **total amor**:
+Si pudiéramos perder nuestra salvación, seríamos quitados del amor de Dios, pero Dios prometió que nada puede separarnos de Su amor en Jesucristo. Ni siquiera **tú**, una *cosa creada [te] podrá[s] separar del amor de Dios, que es en Cristo Jesús Señor nuestro*. El poder de Dios no permitirá esto.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#### Romanos 8:35, 37 – “*¿Quién nos separará del amor de Cristo? ¿Tribulación, o angustia, o persecución, o hambre, o desnudez, o peligro, o espada? … Antes, en todas estas cosas somos más que **vencedores** por medio de aquel que nos amó*.”
+#### Romanos 8:38-39 – “*Por lo cual estoy seguro de que ni la muerte, ni la vida, ni ángeles, ni principados, ni potestades, ni lo presente, ni lo por venir, ni lo alto, ni lo profundo, ni ninguna otra cosa **creada** nos podrá separar del amor de Dios, que es en Cristo Jesús Señor nuestro*.”
+#### 1 Pedro 1:5 – “*que sois guardados por el **poder** de Dios mediante la fe, para alcanzar la salvación que está preparada para ser manifestada en el tiempo postrero*.”
+#### Judas 1:24 – “*Y a aquel que es **poderoso** para guardaros sin caída, y presentaros sin mancha delante de su gloria con gran alegría*,”
+Un argumento de **total victoria**:
+Hablando de cristianos débiles en Romanos 14:4, Pablo afirmó, “*¿Tú quién eres, que juzgas al criado ajeno? Para su propio señor está en pie, o cae; pero estará firme, porque **poderoso** es el Señor para hacerle estar firme*.”
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+####
+#### Filipenses 2:13 – *“porque Dios es el que en vosotros produce así el querer como el hacer, por su buena voluntad*.” Aunque a veces puedes **caer**, tú nunca “caerás fuera” de la salvación. 
+#### Judas 24-25 [LBLA] – “*Y a aquel que es poderoso para guardaros sin caída y para presentaros sin mancha en presencia de su gloria con gran alegría, al único Dios nuestro Salvador, por medio de Jesucristo nuestro Señor, sea gloria, majestad, dominio y **autoridad**, antes de todo tiempo, y ahora y por todos los siglos. Amén*.”
+#### Dios prometió guardarnos de caer y presentarnos ante Su trono en la eternidad. 2 Corintios 4:14 – “*sabiendo que el que resucitó al Señor Jesús, a nosotros también nos resucitará con Jesús, y nos **presentará** juntamente con vosotros*.”
+Un argumento de **total posesión**:
+Dios nos **posee** porque fuimos comprados con un precio. Él protegerá fielmente lo que le pertenece.
+-----------------------------------------------------------------------------------------------------
+#### Juan 6:39 – “*Y esta es la voluntad del Padre, el que me envió: Que de todo lo que me diere, no **pierda** yo nada, sino que lo resucite en el día postrero*.” Juan 6:37, 6:54
+#### 1 Corintios 6:19-20 – “*¿O ignoráis que vuestro cuerpo es templo del Espíritu Santo, el cual está en vosotros, el cual tenéis de Dios, y que no sois vuestros? Porque habéis sido comprados por **precio**; glorificad, pues, a Dios en vuestro cuerpo y en vuestro espíritu, los cuales son de Dios*.”
+Un argumento de ser **totalmente guardado**:
+Él **guardará** tu alma hasta la muerte o el rapto. 2 Timoteo 1:12 dice, “*Por lo cual asimismo padezco esto; pero no me avergüenzo, porque yo sé a quién he creído, y estoy seguro que es poderoso para guardar mi depósito para aquel día*.”
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Un argumento de **nunca ser abandonado**:
+Cristo prometió que **nunca** te dejará ni te abandonará.
+---------------------------------------------------------
+#### Hebreos 13:5b-6 – *“…porque él dijo: No te **desampararé**, ni te dejaré; de manera que podemos decir confiadamente: El Señor es mi ayudador; no temeré lo que me pueda hacer el hombre.”*
+#### Para perder tu salvación, Dios tendría que dejarte y abandonarte. Ya que nuestro Señor Jesús nunca nos **abandonará**, podemos descansar en Su protección amorosa.
+#####
+######	
+######
+######
+######
+######
+***Argumentos de Justicia de la Seguridad Eterna***
+Un argumento de **perfecta justicia**:
+La salvación se basa en la justicia de Cristo y no en la nuestra. Filipenses 3:9 dice, “*y ser hallado en él, no teniendo **mi** propia justicia, que es por la ley, sino la que es por la fe de Cristo, la justicia que es de Dios por la fe*;” 2 Corintios 5:21
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Un argumento de **justicia imputada**: 
+No se nos mantiene salvos en **base** a nuestra justicia, sino en base a la justicia de Dios, y Su justicia siempre será lo suficientemente buena. Gálatas 3:6
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+#### 2 Corintios 5:21 – “*Al que no conoció pecado, por nosotros lo **hizo pecado**, para que nosotros fuésemos hechos justicia de Dios en él*.”
+#### En el momento en que creímos, la justicia de Cristo fue transferida a nosotros. Instantáneamente llegamos a ser aptos para **permanecer** en la presencia del Dios santo y perfecto. Génesis 15:6, Romanos 4:8
+Un argumento de **justicia declarada**:
+Debido a que hemos sido declarados justos, no tenemos que pagar el justo castigo por nuestros pecados y ser separados de Dios para siempre. De acuerdo con la verdad de la justificación, este veredicto **legal** no puede ser revertido. 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+####
+#### Romanos 5:1 – “***Justificados**, pues, por la fe, tenemos paz para con Dios por medio de nuestro Señor Jesucristo*;”
+#### Romanos 5:8-9 – “*Mas Dios muestra su amor para con nosotros, en que siendo aún pecadores, Cristo murió por nosotros*. *Pues mucho más, estando ya justificados en su sangre, por él seremos salvos de la **ira***.”
+***Argumentos de Identidad de la Seguridad Eterna***
+Un argumento de **identificación en Cristo**:
+No podemos ser condenados a juicio en el infierno por quienes somos ahora en Cristo. Nuestra **identidad** está envuelta en la identidad de Cristo, de modo que todo lo que es cierto acerca de Él es ahora cierto acerca de nosotros. Él es nuestra victoria. Ya que espiritualmente estamos establecidos y seguros en los lugares celestiales en Él, no podemos perdernos.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#### Romanos 8:1 – “*Ahora, pues, ninguna condenación hay para los que están **en Cristo** Jesús*,…”
+#### Efesios 1:3 – “*Bendito sea el Dios y Padre de nuestro Señor Jesucristo, que nos bendijo con toda bendición espiritual en los lugares celestiales **en Cristo***,” 
+#### Efesios 2:6 – *“y juntamente con él nos resucitó, y asimismo nos hizo sentar en los lugares celestiales **con Cristo** Jesús*,”
+Un argumento del estar **escondidos en Dios**:
+Colosenses 3:3 dice, “*Porque habéis muerto, y vuestra vida está escondida con Cristo en Dios*.” Si tu vida está **escondida** con Cristo en Dios, ¿quién podría entrar en Dios, encontrarte y luego arrebatarte de Cristo? ¿Podría Satanás? ¿Podrías hacerte eso a ti mismo? La respuesta es un enfático: “¡Nadie podría!”
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Un argumento de **membresía**:
+Cada uno de nosotros es una parte del **cuerpo** de Cristo. Si pudiéramos perder nuestra salvación, el cuerpo de Jesús perdería un brazo o una pierna. Eso simplemente no le va a pasar a nuestro Señor.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#### 1 Corintios 12:12 – “*Porque así como el cuerpo es uno, y tiene muchos **miembros**, pero todos los miembros del cuerpo, siendo muchos, son un solo cuerpo, así también Cristo*.”
+#### Colosenses 1:18 – “*y él es la **cabeza** del cuerpo que es la iglesia, él que es el principio, el primogénito de entre los muertos, para que en todo tenga la preeminencia*;”
+Un argumento del **Espíritu que mora en nosotros**:
+El Espíritu Santo estará con nosotros **para siempre**. Si pudiésemos terminar en el Lago de Fuego algún día, el Espíritu Santo de igual manera tendría que sufrir junto con nosotros allí. Si llegáramos a ser condenados, Él tendría que llegar a ser condenado junto con nosotros para siempre.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#### Juan 14:16-17 – “*Y yo rogaré al Padre, y os dará otro Consolador, para que esté con vosotros **para siempre**: el Espíritu de verdad, al cual el mundo no puede recibir, porque no le ve, ni le conoce; pero vosotros le conocéis, porque mora con vosotros, y estará en vosotros*.”
+#### Romanos 8:9 – “*Mas vosotros no vivís según la carne, sino según el Espíritu, si es que el Espíritu de Dios **mora** en vosotros. Y si alguno no tiene el Espíritu de Cristo, no es de él*.” Efesios 1:13-14
+Un argumento de **unión**:
+2 Timoteo 2:11 dice, “*Palabra fiel es esta: Si somos muertos con él, también viviremos con él*;” Por extraño que esto pueda sonar, el hecho de que **moriste** con Cristo garantiza que vivirás con él.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#### Romanos 6:5 [LBLA] dice, “*Porque si hemos sido **unidos** a Él en la semejanza de su muerte, ciertamente lo seremos también en la semejanza de su resurrección;”* Ya que en la salvación fuimos crucificados con Cristo, un día también viviremos con Él. Gálatas 2:20
+#### Las promesas de Dios están garantizadas. En 1 Reyes 8:56 leemos, “*Bendito sea Jehová, que ha dado paz a su pueblo Israel, conforme a todo lo que él había dicho; ninguna palabra de todas sus promesas que expresó por Moisés su siervo, ha **faltado***.” El mismo Dios mantendrá sus promesas para ti.
+#####
+######
+***Argumentos de Victoria de la Seguridad Eterna***
+Un argumento de la **resurrección**:
+Un cristiano no puede perder su salvación porque Dios prometió resucitar corporalmente a cada persona que haya venido a Él en fe. Cada creyente vivirá con Dios para siempre. Él no **incumplirá** esta promesa.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#### Juan 6:39b-40 – “…*no pierda yo nada, sino que lo resucite en el día postrero. Y esta es la voluntad del que me ha enviado: Que todo aquél que ve al Hijo, y cree en él, tenga vida eterna; y yo le **resucitaré** en el día postrero*.”
+#### 1 Tesalonicenses 4:17-18 – “*Luego nosotros los que vivimos, los que hayamos quedado, seremos arrebatados juntamente con ellos en las nubes para **recibir** al Señor en el aire, y así estaremos siempre con el Señor. Por tanto, alentaos los unos a los otros con estas palabras*.”
+Un argumento de la **inmortalidad**:
+En Juan 11:25-26 Jesús dijo, “*Yo soy la resurrección y la vida; el que cree en mí, aunque esté muerto, vivirá. Y todo aquel que vive y cree en mí, no morirá eternamente. ¿Crees esto?*”. A pesar de que todos morimos físicamente, Cristo prometió que aquellos que creen en Él no enfrentarán la segunda muerte en el **infierno**.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Un argumento de la **mano sostenida**:
+Dios prometió que Él te sostendrá con Su propia **mano**. 
+----------------------------------------------------------
+#### Salmos 37:23-24 – “*Por Jehová son ordenados los pasos del hombre, Y él aprueba su camino. Cuando el hombre cayere, no quedará postrado, Porque Jehová **sostiene** su mano*.”
+#### Incluso si caes, nunca serás abandonado o dejado indefenso. Esto es **gracia**, y la gracia es bondad inmerecida. Nunca eres digno de la gracia de Dios, ni siquiera en tu mejor día.
+Un argumento de la **gracia asombrosa**:
+Pablo les dijo a los creyentes en la iglesia de Corinto, la iglesia más carnal en el Nuevo Testamento, que un día serían encontrados sin culpa en la presencia de Dios en el cielo. Claramente nuestra salvación es **mantenida** por Dios y no por nosotros.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#### 1 Corintios 1:8-9 – *“el cual también os **confirmará** hasta el fin, para que seáis irreprensibles en el día de nuestro Señor Jesucristo. Fiel es Dios, por el cual fuisteis llamados a la comunión con su Hijo Jesucristo nuestro Señor.”*
+#### 2 Corintios 4:14 – *“sabiendo que el que resucitó al Señor Jesús, a nosotros también nos resucitará con Jesús, y nos **presentará** juntamente con vosotros*.”
+Un argumento de ser “**salvo a través del fuego**”:
+Incluso si pierdes todas las recompensas por infidelidad, Dios garantiza que permanecerás salvo porque Él siempre es fiel. En 1 Corintios 3:15 vemos que “*Si la obra de alguno se quemare, él sufrirá **pérdida**, si bien él mismo será salvo, aunque así como por fuego*.”
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Un argumento de **glorificación**:
+Romanos 8:30 dice, “*Y a los que predestinó, a éstos también llamó; y a los que llamó, a éstos también justificó; y a los que justificó, a éstos también **glorificó***.” Nuestra glorificación futura está declarada en el tiempo pasado porque es cierta. Podemos descansar, sabiendo que no nos perderemos nuevamente.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Un argumento de un **trato cerrado**:
+Dios nos ha dado el Espíritu Santo como pago inicial de nuestra salvación. Este **depósito** es la manera que tiene Dios de garantizar que Él no se retractará de las promesas contractuales de nuestra salvación. Él está ahora legalmente obligado a mantenernos salvos.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#### Efesios 1:13-14 – “…*habiendo oído la palabra de verdad, el evangelio de vuestra salvación, y habiendo creído en él, fuisteis sellados con el Espíritu Santo de la promesa, que es las **arras** de nuestra herencia hasta la redención de la posesión adquirida, para alabanza de su gloria*.”
+#### Efesios 4:30 – “*Y no contristéis al Espíritu Santo de Dios, con el cual fuisteis **sellados** para el día de la redención*.” Dios el Espíritu Santo te ha sellado hasta el día de la redención. La Biblia no dice que estás sellado sólo hasta que falles o peques.
+Un argumento **del vencedor**:
+Por la fe en Cristo, se declara que hemos **vencido** al mundo. Cristo es el supremo vencedor y nosotros somos victoriosos en Él.
+---------------------------------------------------------------------------------------------------------------------------------
+#### Romanos 8:37– “*Antes, en todas estas cosas somos más que vencedores por medio de aquel que nos amó*.” Si fuera posible perder tu salvación, esta declaración amplia y **enfática** sería irrazonable.
+#### 1 Juan 5:4-5 – “*Porque todo lo que es nacido de Dios vence al mundo; y esta es la victoria que ha vencido al mundo, nuestra fe. ¿Quién es el que vence al mundo, sino el que cree que Jesús es el Hijo de Dios?*”. Desde que confiamos en Cristo somos contados como **victoriosos** sobre este mundo.
+***Argumentos de Inclusión de la Seguridad Eterna***
+Un argumento de **cita divina**:
+Dios declara inequívocamente que seremos revelados con Cristo en la eternidad. Colosenses 3:4 dice, “*Cuando Cristo, vuestra vida, se manifieste, entonces vosotros también seréis manifestados con él en **gloria**.*” Si pudiéramos perder nuestra salvación, esta promesa estaría vacía.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Un argumento de **ciudadanía transferida**:
+Para Dios, tú ya eres un **ciudadano** del cielo. Tu ciudadanía celestial perdura para siempre.
+-----------------------------------------------------------------------------------------------
+####
+#### Filipenses 3:20-21a – “*Mas nuestra ciudadanía está en los **cielos**, de donde también esperamos al Salvador, al Señor Jesucristo; el cual transformará el cuerpo de la humillación nuestra, para que sea semejante al cuerpo de la gloria suya*,…”
+#### Colosenses 1:13 – *“el cual nos ha librado de la potestad de las tinieblas, y trasladado al **reino** de su amado Hijo*,”
+Un argumento de **herencia**:
+Dios ha reservado una herencia para ti. Él no podría **reservarla** para ti si existiera la posibilidad de que no fueras glorificado.
+-------------------------------------------------------------------------------------------------------------------------------------
+#### 2 Corintios 1:22 – *“el cual también nos ha sellado, y nos ha dado las **arras** del Espíritu en nuestros corazones*.” 
+#### Efesios 1:14 – *“que es las **arras** de nuestra herencia hasta la redención de la posesión adquirida, para alabanza de su gloria*.”
+#### 1 Pedro 1:4-5 – *“para una herencia incorruptible, incontaminada e inmarcesible, **reservada** en los cielos para vosotros, que sois guardados por el poder de Dios mediante la fe, para alcanzar la salvación que está preparada para ser manifestada en el tiempo postrero*.”
+## **¿Qué está en riesgo si no enseñas que la salvación es eterna?**
+### El **honor** de Dios está en riesgo.
+#### Si la salvación pudiera perderse, Dios sería un **mentiroso** cuando promete que todos los que creen en Él no perecerán sino que tendrán vida eterna. Juan 3:16
+#### Si la salvación pudiera perderse, la salvación no sería por gracia, después de todo. Dios sería deshonesto cuando ofrece la salvación como un regalo gratuito en Su Palabra. El mensaje del evangelio ya no sería una buena noticia, porque en realidad sería una **recompensa** ganada y no un regalo gratuito. Romanos 11:6, Hebreos 13:5b
+#### Si la salvación pudiera perderse, la muerte de Cristo no fue **suficiente** para pagar nuestro pecado. Si tuviéramos que agregar nuestras obras al sacrificio de Cristo, entonces decimos que su muerte no poseía suficiente valor. Gálatas 2:21 – “*No desecho la gracia de Dios; pues si por la ley fuese la justicia, entonces por demás murió Cristo*.”
+#### Si la salvación pudiera perderse, ¿qué se podría decir de la declaración de Cristo, “…*Consumado es. …”?* (Juan 19:30) ¿Fue realmente terminada? ¡**Sí**, fue ciertamente terminada!
+### **Tu** propio bienestar espiritual está en riesgo.
+#### Si pudiéramos perder nuestra salvación, no podríamos legítimamente llamar a la salvación un regalo **gratuito**. Efesios 2:8-9, Hebreos 7:25
+#### Si pudiéramos perder nuestra salvación, ¿tendríamos realmente esperanza? ¿Qué tenemos que **ofrecer** al mundo si creemos que la salvación puede realmente perderse al final por nuestro fracaso en mantenerla? Hablando de aquellos que dudaban de la resurrección, Pablo dijo, “*Si en esta vida solamente esperamos en Cristo, somos los más dignos de conmiseración de todos los hombres*.” 1 Corintios 15:19 
+#### Si pudiéramos perder nuestra salvación, ¿**Ganó** realmente Cristo el perdón para nosotros a través de Su muerte en la cruz? Mateo 1:21, 1 Pedro 1:3-5
+#### Si pudiéramos perder nuestra salvación, necesitaríamos ser **honestos** al compartir el evangelio con un incrédulo, explicando que la salvación no está realmente garantizada y que el cielo dependerá en última instancia de los propios esfuerzos. Esto no sería una buena noticia. Tito 3:5-6
+#### Si pudiéramos perder nuestra salvación, necesitaríamos presentar el miedo al **infierno** como la motivación para vivir. 1 Juan 4:18 dice, “*En el amor no hay temor, sino que el perfecto amor echa fuera el temor; porque el temor lleva en sí castigo. De donde el que teme, no ha sido perfeccionado en el amor*.” El miedo al lago de fuego no es un motivador válido para el cristiano.
+#### Si pudiéramos perder nuestra salvación, el amor de Cristo sería condicional. La incertidumbre de este tipo es debilitante, pero el amor de Cristo es un motivador. La Biblia dice, “*Porque el amor de Cristo nos constriñe* [o **controla**],…” 2 Corintios 5:14a
+#### Si pudiéramos perder nuestra salvación, envejeceríamos e incluso iríamos a nuestro lecho de muerte, con **dudas** paralizantes. ¿Cómo podrías saber alguna vez con seguridad si realmente fuiste salvo, si la salvación dependiera incluso en parte de tus obras o conducta? 1 Tesalonicenses 4:13-17
+#### Enseñar que la salvación puede perderse expone las **verdaderas** creencias de una persona acerca de la salvación.
+##### Al enseñar que la salvación puede perderse, estás diciendo que depende de ti **conservar** tu propia salvación y que tus obras son lo suficientemente buenas como para merecer el favor de Dios. 
+##### Si esto es lo que **crees**, estás diciendo que tú puedes salvarte a ti mismo. 
+##### Esto negaría tu **necesidad** del Salvador (Gén. 3:15, Gá. 2:21) y eliminaría todo lo que la Biblia enseña acerca de la depravación del hombre. Efesios 2:1-3
+### La seguridad de nuestra salvación es un asunto importante para el creyente. Es importante comprender con precisión los hechos bíblicos acerca de la naturaleza eterna de tu salvación para que puedas **evitar** la confusión que podría dificultar tu crecimiento y resultar en problemas debilitantes para ti mismo y los demás. Asegúrate de ser preciso y exacto con los hechos bíblicos sobre este tema.
+####
+#####
+# **Cinco Personas que Debes Conocer**
+## **La persona natural**
+### La persona natural no **posee** el Espíritu de Dios. Esta persona está perdida en pecado, separada de Dios y no es parte de la familia de Dios.
+#### Romanos 8:9b – “…*Y si alguno no tiene el Espíritu de Cristo, no **es** de él*.”
+#### Judas 18b-19 – “…*En el postrer tiempo habrá burladores, que andarán según sus malvados deseos. Estos son los que causan divisiones; los sensuales, que **no tienen** al Espíritu*.”
+### La persona natural no ha nacido **de nuevo**. Esta persona está espiritualmente muerta, atrapada en el sistema del mundo y bajo el control del pecado, Satanás y su naturaleza carnal.
+#### Efesios 2:1-2 – “*Y él os dio vida a vosotros, cuando estabais **muertos** en vuestros delitos y pecados, en los cuales anduvisteis en otro tiempo, siguiendo la corriente de este mundo, conforme al príncipe de la potestad del aire, el espíritu que ahora opera en los hijos de desobediencia*,”
+#### Efesios 2:3 – *“entre los cuales también todos nosotros vivimos en otro tiempo en los deseos de nuestra carne, haciendo la voluntad de la carne y de los pensamientos, y éramos por naturaleza hijos de **ira**, lo mismo que los demás*.”
+### La Palabra de Dios **parece** una tontería para la persona natural porque las personas naturales no pueden comprender la enseñanza del Espíritu Santo. La persona natural también considera insensato el sacrificio de Cristo.
+#### 1 Corintios 1:18 – “*Porque la palabra de la **cruz** es locura a los que se pierden; pero a los que se salvan, esto es, a nosotros, es poder de Dios*.”
+#### 1 Corintios 2:14 – “*Pero el hombre natural no percibe las cosas que son del Espíritu de Dios, porque para él son locura, y no las **puede** entender, porque se han de discernir espiritualmente*.”
+## **El bebé en Cristo**
+### El bebé en Cristo describe a un nuevo creyente. Este joven creyente aún no ha tenido tiempo de **crecer** hacia la madurez.
+#### Al principio, el nuevo creyente puede parecer carnal o mundano a causa de no conocer la Biblia y no tener todavía un caminar constante por medio del **Espíritu** Santo.
+#### Afortunadamente, los nuevos creyentes nacen de nuevo con un deseo innato por la Palabra de Dios. 1 Pedro 2:2 dice, “*desead, como niños recién nacidos, la **leche** espiritual no adulterada, para que por ella crezcáis para salvación*,”
+### El nuevo creyente necesita tiempo para llegar al punto en que será lo suficientemente maduro como para ingerir la **carne** de la Palabra de Dios. 
+#### Efesios 4:14-15 – *“para que ya no seamos **niños** fluctuantes, llevados por doquiera de todo viento de doctrina, por estratagema de hombres que para engañar emplean con astucia las artimañas del error, sino que siguiendo la verdad en amor, crezcamos en todo en aquel que es la cabeza, esto es, Cristo*.”
+#### Hebreos 5:14 explica, “*pero el alimento **sólido** es para los que han alcanzado madurez, para los que por el uso tienen los sentidos ejercitados en el discernimiento del bien y del mal*.”
+### No sería correcto que un creyente permanezca siendo un **niño** en la fe como vemos en los siguientes ejemplos de creyentes en Corinto y Jerusalén.
+#### 1 Corintios 3:1-3 – “*De manera que yo, hermanos, no pude hablaros como a espirituales, sino como a carnales, como a niños en Cristo. Os di a beber leche, y no vianda; porque aún no erais **capaces**, ni sois capaces todavía, porque aún sois carnales; pues habiendo entre vosotros celos, contiendas y disensiones, ¿no sois carnales, y andáis como hombres?”*
+#### Hebreos 5:12-13 – “*Porque debiendo ser ya maestros, después de tanto tiempo, tenéis necesidad de que se os **vuelva** a enseñar cuáles son los primeros rudimentos de las palabras de Dios; y habéis llegado a ser tales que tenéis necesidad de leche, y no de alimento sólido. Y todo aquel que participa de la leche es inexperto en la palabra de justicia, porque es niño;”*
+### Dios aconsejaría al bebé en Cristo “…***crecer** en la gracia y el conocimiento de nuestro Señor y Salvador Jesucristo*. …” 2 Pedro 3:18a
+## **El cristiano espiritual**
+### El cristiano espiritual es el creyente que tiene confesados todos sus **pecados** conocidos. Dicho sencillamente, eres espiritual en el instante en que confiesas todos tus pecados conocidos. Cuando albergas pecado en tu corazón, no eres espiritual en ese momento. Salmos 66:18, Juan 9:31
+#### El bebé en Cristo, el cristiano carnal y el cristiano en maduración se vuelven espirituales en el momento en que **confiesan** sus pecados conocidos. Confesar (HOMOLOGEO) tu pecado es decir la misma cosa que Dios dice acerca de él. 1 Juan 1:6-10
+##### Debido a la inmadurez, el bebé en Cristo regresa **fácilmente** al pecado.
+##### El cristiano carnal regresa fácilmente a un estado de rebelión de largo plazo y permanece allí hasta que alguna **crisis** ocurre.
+##### Un cristiano en maduración **permanece** con mayor consistencia en comunión con Cristo, dando tiempo y oportunidad para que la semejanza a Cristo sea cultivada en su vida.
+#### Una **persona** es espiritual cuando no apaga o entristece al Espíritu Santo. Efesios 4:30, 1 Tesalonicenses 5:19
+##### Un creyente espiritual mantiene su espiritualidad al **caminar** de manera continua por el Espíritu. Esto significa que él o ella vive cada día dependiendo del Señor, confiando en Él para sabiduría y fortaleza. Gálatas 5:16 (LBLA), Romanos 6:10-11, Colosenses 3:1-3, 1 Juan 1:7
+##### Cuando un creyente está en comunión con Dios, habiendo confesado cualquier pecado conocido y no apagando en el presente al Espíritu Santo, él o ella está en **posición** de crecer.
+##### Romanos 6:22 – “*Mas ahora que habéis sido libertados del pecado y hechos siervos de Dios, tenéis por vuestro **fruto** la santificación, y como fin, la vida eterna*.”
+##### Efesios 4:20-22 – “*Mas vosotros no habéis **aprendido** así a Cristo, si en verdad le habéis oído, y habéis sido por él enseñados, conforme a la verdad que está en Jesús. En cuanto a la pasada manera de vivir, despojaos del viejo hombre, que está viciado conforme a los deseos engañosos*,”
+##### Efesios 4:23-24 – “*y renovaos en el espíritu de vuestra **mente**, y vestíos del nuevo hombre, creado según Dios en la justicia y santidad de la verdad*.”
+### Pablo explicó las ventajas de ser espiritual en **oposición** a las de ser carnal.
+#### 1 Corintios 2:15a – “…*el espiritual juzga todas las cosas;*…” Estando debidamente relacionado con el Espíritu Santo, un cristiano espiritual es capaz de evaluar y **discernir** *todas las cosas*, incluyendo la doctrina, las situaciones y las personas. Esto es gracias a que el creyente espiritual está siendo misericordiosamente guiado por el Espíritu Santo. Romanos 8:14, Hebreos 5:14
+#### 1 Corintios 2:15b – “…*pero él no es juzgado de nadie*.” Un beneficio adicional que los cristianos espirituales tienen es que, dado que están siendo guiados por el Espíritu Santo, no necesitan preocuparse por el juicio de los **demás**. Romanos 6:22
+##### Cuando eres espiritual, no estás violando las **leyes** de Dios. Romanos 8:4
+##### En cambio, estás llevando el fruto del Espíritu Santo. Esto, por supuesto, **agrada** a Dios y nadie puede justificadamente desaprobarte. Gálatas 5:22-23
+#### 1 Corintios 2:16 – “…*Mas nosotros tenemos la mente de Cristo*.” El cristiano espiritual se beneficia de tener la **mente** o el pensamiento de Cristo.
+## **El cristiano maduro**
+### El cristiano maduro es un creyente que ha aprendido a **caminar** consistentemente por fe en el Señor Jesucristo, a través del poder habilitador del Espíritu Santo. Colosenses 2:3-7
+### Este creyente está en el camino de ser conformado a la **imagen** de Cristo en conducta y vida diaria. Romanos 12:1-2
+### El creyente maduro ha crecido, espiritualmente hablando, por pasar **tiempo** en comunión con el Espíritu Santo. Hebreos 5:14 dice, “*pero el alimento sólido es para los que han alcanzado madurez, para los que por el uso tienen los sentidos ejercitados en el discernimiento del bien y del mal*.”
+### La madurez espiritual debe ser el **objetivo** de todo creyente.
+#### 2 Pedro 3:17 – “*Así que vosotros, oh amados, sabiéndolo de antemano, guardaos, no sea que arrastrados por el error de los inicuos, **caigáis** de vuestra firmeza.”*
+#### 2 Pedro 3:18 – “*Antes bien, **creced** en la gracia y el conocimiento de nuestro Señor y Salvador Jesucristo. A él sea gloria ahora y hasta el día de la eternidad. Amén*.”
+### El creyente maduro es capaz de entender y aceptar fácilmente las **verdades** más profundas de la Palabra de Dios. 1 Corintios 2:6 dice, “*Sin embargo, hablamos sabiduría entre los que han alcanzado madurez; y sabiduría, no de este siglo, ni de los príncipes de este siglo, que perecen*.”
+### El creyente maduro crece constantemente en la intimidad con el **Señor**. En el libro de 1 Juan, el apóstol da etapas de madurez, representadas por hombres jóvenes y padres.
+#### En 1 Juan 2:14, hablando de los menos maduros, Juan dijo, “…*Os he escrito a vosotros, jóvenes, porque sois **fuertes**, y la palabra de Dios permanece en vosotros, y habéis vencido al maligno*.”
+#### En 1 Juan 2:13, hablando de los más maduros, Juan dijo, “*Os escribo a vosotros, padres, porque **conocéis** al que es desde el principio. …*” Conseguir conocer a Dios más íntimamente es madurez espiritual.
+## **Diferencias entre el cristiano espiritual y el cristiano maduro**
+### No debemos confundir ser espiritual con ser maduro. En el momento en que confiesas tus pecados **conocidos**, ya no eres gobernado por la carne; así, en ese momento, ya no eres carnal y por lo tanto eres espiritual. Por la confesión de pecados conocidos (1 Juan 1:9), te vuelves instantáneamente espiritual, pero nadie es instantáneamente maduro.
+### La madurez espiritual lleva tiempo. El crecimiento espiritual proviene de caminar constantemente de acuerdo con el Espíritu **día** tras día a medida que uno progresa en la vida. Romanos 8:12-14, Gálatas 5:16 (LBLA), Hebreos 4:1-2
+### Cuando caminamos consistentemente por fe a través de los altibajos **diarios** de la vida, el Espíritu de Dios utiliza Su Palabra para conformarnos a la imagen de Su Hijo. Romanos 8:1213, 28-29; 2 Corintios 3:18
+### Podrías decir que la madurez espiritual toma tiempo, más la Palabra de Dios, más un caminar de fe, más la **gracia** de Dios. Esta persona está permaneciendo en Cristo.
+#### Juan 15:4 – “*Permaneced en mí, y yo en vosotros. Como el pámpano no puede llevar fruto por sí mismo, si no permanece en la **vid**, así tampoco vosotros, si no permanecéis en mí*.”
+#### Juan 15:5 – “*Yo soy la vid, vosotros los pámpanos; el que permanece en mí, y yo en él, éste lleva mucho fruto; porque separados de mí **nada** podéis hacer*.”
+### Algunos de los cristianos más inmaduros son **asistentes** por mucho tiempo a la iglesia y solo confiesan sus pecados antes de participar de la santa cena, o un domingo por la mañana, pero no optan por caminar consistentemente en comunión con el Señor el resto de la semana. Hebreos 6:1
+## **El cristiano carnal (el cristiano de la carne)**
+### Un creyente carnal es un cristiano que es espiritualmente inmaduro porque **camina** continuamente conforme a la naturaleza de la carne. (Carnal y de la carne son términos sinónimos.) 1 Corintios 3:1-4
+### A veces, un creyente **carnal** es difícil de distinguir de un incrédulo en la actitud, las acciones y el habla. Si bien Dios conoce la diferencia, la distinción puede no ser clara para nosotros como humanos. Efesios 4:17-24
+### Un cristiano carnal permanece como un bebé en Cristo por **elección**. Aunque esta persona ya debería haber crecido espiritualmente, él o ella se marchita. 1 Corintios 3:1, Hebreos 5:12-13
+#### 1 Corintios 3:2 – “*Os di a beber leche, y no vianda; porque aún no erais capaces, ni sois capaces todavía*,” Este cristiano continúa bebiendo leche espiritual en lugar de consumir las verdades **sólidas** de la Palabra de Dios, como un cristiano más maduro es capaz de hacer.
+#### 1 Corintios 3:3a – *“porque aún sois carnales;”* Debido a que la carne domina al creyente carnal, él o ella **piensa** como un incrédulo y puede actuar como si lo fuese.
+#### 1 Corintios 3:3b – “…*pues habiendo entre vosotros celos, contiendas y disensiones, ¿no sois carnales, y andáis como hombres?”* El cristiano carnal está caracterizado por la envidia y las relaciones **rotas**. Gálatas 5:19-21
+#### 1 Corintios 3:4 – “*Porque cuando uno dice: Yo soy de Pablo, y otro: Yo soy de Apolos, ¿no sois simplemente **hombres**?* [LBLA]*”* Un creyente carnal es un seguidor de personas más que un seguidor de Cristo.
+### Las características de la carnalidad de Romanos 8:5-13
+#### Romanos 8:5 – “*Porque los que son de la carne piensan en las cosas de la carne; pero los que son del Espíritu, en las cosas del Espíritu*.” La mente de la persona carnal o de la carne está **fija** en los deseos de la carne. Gálatas 5:17, 19-21
+#### Romanos 8:6 – “*Porque el ocuparse de la carne es muerte, pero el ocuparse del Espíritu es vida y paz*.” La persona carnal no **disfruta** de una vida plena y gozosa. Nehemías 8:10b, Romanos 6:21
+#### Romanos 8:7a – “*Por cuanto los designios de la carne son enemistad contra Dios;…”* Las personas carnales son hostiles hacia Dios. A menudo se quejan de que Dios es distante e indiferente, cuando en realidad su **propia** carnalidad los ha distanciado de Dios.
+#### Romanos 8:7b – “…*porque no se sujetan a la ley de Dios, ni tampoco pueden*;” La gente carnal no se somete a los mandatos de Dios. Son desobedientes y **orgullosos**.
+#### Romanos 8:8 – “*y los que viven según la carne no pueden agradar a Dios*.” Tal como los que no son salvos no pueden agradar a Dios, el cristiano carnal tampoco puede **agradar** a Dios.
+#### Romanos 8:12-13 – “Así que, hermanos, deudores somos, no a la carne, para que vivamos conforme a la carne; porque si vivís conforme a la carne, moriréis;…” La persona carnal está a punto de **morir**, ya sea por el mecanismo destructivo que incorpora el pecado, por sufrir las consecuencias del pecado o por disciplina. Romanos 6:23, 8:2
+# **Resultados de Vivir una Vida Carnal. ¿Qué está en juego?**
+## **La salvación y la gracia no están en juego**
+### Ya hemos determinado que, de acuerdo con la Biblia, los creyentes no pueden **perder** su salvación.
+### Puesto que la gracia es un **favor** inmerecido, es fácil pensar que los creyentes abusarán de la gracia si se les enseña que no pueden perder su salvación. Sin embargo, ya que fue idea de Dios dar la salvación como un regalo irrevocable, no debemos retroceder en creer o enseñar esta verdad. Dios sabía lo que estaba haciendo al asegurar nuestra salvación en base a la obra de Cristo y no en base a la nuestra.
+### En 1 Pedro 5:12b, el apóstol Pedro dijo, “…*os he escrito brevemente, amonestándoos, y testificando que ésta es la **verdadera** gracia de Dios, en la cual estáis.*” Recuerda siempre: la verdadera gracia bíblica no produce desgracia. No debemos temer a la gracia de Dios – Su favor inmerecido.
+## **Aunque como cristiano no puedes perder tu salvación, perderás muchas cosas si eliges caminar según la carne en lugar de caminar por el Espíritu Santo.** Como podrás ver en las siguientes “pérdidas” que se relacionan a continuación, el ser carnal tiene un alto precio.
+### Pérdida: **Seguridad de la salvación** – Los creyentes carnales pueden llegar a confundirse tanto espiritualmente que pueden perder toda seguridad y certeza personal de su salvación.
+#### Aunque tu salvación no se puede perder, puedes comenzar a luchar con las **dudas**. Puedes perder tu conocimiento de la verdad y olvidarte de la *“…purificación de [tus] antiguos pecados*.” 2 Pedro 1:8-11
+#### La voluntad de Dios para ti es que estés **completamente** seguro de tu salvación para que puedas beneficiarte de “…*todas las riquezas que proceden de una plena seguridad de comprensión,…”* (Col. 2:1-2 [LBLA]). La duda anula esta bendición y termina en inseguridad y falta de convicción. 2 Pedro 3:17
+### Pérdida: **Una perspectiva esperanzadora** – Un creyente que vive según la carne **pierde** confianza con respecto al futuro. El Señor nos ordena mirar a Jesús, pero el creyente carnal pierde ese enfoque y, como resultado, puede volverse muy pesimista y temeroso del futuro. Hebreos 12:1-2.
+#### El creyente que se niega a vivir por el Espíritu pierde su perspectiva eterna y **sufre** de miopía espiritual. 2 Pedro 1:9a dice, “*Pero el que no tiene estas cosas tiene la vista muy corta; es ciego,…*”
+#### Tener una **esperanza** sólida del futuro te permite disfrutar cada nuevo día. Romanos 15:13 dice, “*Y el Dios de esperanza os llene de todo gozo y paz en el creer, para que abundéis en esperanza por el poder del Espíritu Santo*.” Efesios 1:18-20
+### Pérdida: **Comunión con Dios** – Si vives de la carne, te pierdes de caminar en comunión con **Dios**. El cristiano que camina continuamente conforme a la carne no tiene intimidad con Cristo. Lucas 15:11-24
+#### 1 Juan 1:5b – “…*Dios es luz, y no hay ningunas tinieblas en él*.” Si caminamos en la luz, por medio del Espíritu Santo, tenemos comunión con Dios; pero si **andamos** en tinieblas, de acuerdo con la carne, no disfrutamos de la comunión con Él. 
+#### 1 Juan 1:6 – “*Si **decimos** que tenemos comunión con él, y andamos en tinieblas, mentimos, y no practicamos la verdad*;” Efesios 5:6-10
+#### Apocalipsis 3:14-22 muestra cómo los creyentes en la iglesia de Laodicea se volvieron tibios. Eran religiosos, pero **carnales**. Ya no tenían una dulce comunión con Cristo. Tu objetivo debe ser crecer en gracia e intimidad con nuestro Señor Jesucristo. 2 Pedro 3:18
+### Pérdida: **Las ganas de vivir** – Ser carnal te **robará** el gozo y la victoria en la vida cristiana.
+#### El rey David no perdió su salvación cuando pecó al cometer adulterio y asesinato premeditado, pero sí perdió su gozo. En el Salmo 51:12, él oró para que Dios le **devolviera** el gozo de su salvación. Romanos 8:13, Gálatas 6:7-8
+#### Un creyente carnal ha regresado a comer su propio *vómito* y a revolcarse una vez más en el **lodo**. El hijo pródigo continuó siendo hijo, incluso cuando estaba con los cerdos; él es un ejemplo de esta terrible realidad. Lucas 15:11-24, 2 Pedro 2:18-22
+### Pérdida: **Capacidad para servir** – Si caminas por la carne, perderás tu capacidad para **servir** al Señor. Dios te salvó para que tú lo sirvieras a Él (Ef. 2:10, Tito 3:8). Si vives carnalmente, no llevarás el fruto del Espíritu ni agradarás a Dios. Juan 15:4-5; Gálatas 5:16-23 (LBLA); Gálatas 6:7-9
+### Pérdida: **Testimonio cristiano** – Si caminas de acuerdo con la carne, **perderás** tu testimonio cristiano. En 2 Corintios 5:20, Pablo dijo, “*Así que, somos embajadores en nombre de Cristo, como si Dios rogase por medio de nosotros; os rogamos en nombre de Cristo: Reconciliaos con Dios*.”
+####
+#### Como cristiano, representas a Cristo ante el mundo. Cuando caminas por el Espíritu, los incrédulos **ven** fácilmente a Cristo en ti. Juan 13:35; Hechos 4:13; Filipenses 2:14-15; 1 Pedro 2:12, 3:13-15
+#### Un creyente que camina conforme a la carne, se ve y **actúa** exactamente como un incrédulo y se vuelve totalmente ineficaz en su testimonio para el Señor. 2 Pedro 2:2 muestra esto en acción: “*Y muchos seguirán sus disoluciones, por causa de los cuales el camino de la verdad será blasfemado*,” Mateo 5:13-16
+### Pérdida: **Recompensas en el cielo** – Si vives carnalmente, perderás recompensas en el Tribunal de Cristo. Pablo dijo en 2 Corintios 5:10, “*Porque es necesario que todos nosotros comparezcamos ante el Tribunal de Cristo, para que cada uno reciba según lo que haya **hecho** mientras estaba en el cuerpo, sea bueno o sea malo*.” Romanos 14:7-12
+#### En aquel día, a Dios le gustaría decirte lo que Mateo 25:23 dice, “…*Bien* **hecho**, *buen siervo y fiel*;…” Pero si caminas por la carne, podrías entrar al cielo sin nada de valor que mostrar por tu vida. 1 Corintios 3:15, 9:24-27; 2 Corintios 5:9-11; 2 Timoteo 4:6-8
+#### Dios quiere que cada creyente obtenga una recompensa **completa**, pero los creyentes carnales serán avergonzados en la aparición de Cristo. 1 Juan 2:28, 4:17; 2 Juan 1:8
+### Pérdida: **Una conciencia limpia** – Los creyentes carnales **empañan** su propia conciencia. En orgullo y rebeldemente hacen lo que saben que está mal. En rebelión, se alejan de lo que alguna vez creyeron. 1 Timoteo 3:9 – *“que guarden el misterio de la fe con limpia conciencia*.”
+#### Himeneo y Alejandro son ejemplos de dos personas que sufrieron las consecuencias de alejarse de lo que alguna vez creyeron. No perdieron su salvación, pero 1 Timoteo 1:19-20 muestra cómo, a través de la disciplina de la iglesia, fueron entregados* a **Satanás** para la destrucción de sus cuerpos (no de sus espíritus) para que “…*aprendan a no blasfemar*.”
+#### De la misma manera, en 1 Corintios 5 vemos el ejemplo de un creyente quien descaradamente hizo lo que sabía que estaba mal. Pablo le dijo a la iglesia que lo expulsaran de su congregación. Al hacerlo el tal sería *“…**entregado** a Satanás para destrucción de la carne, a fin de que el espíritu sea salvo en el día del Señor Jesús.”* 1 Corintios 5:5
+### Pérdida: **Conocimiento de la Verdad** – Tristemente, los creyentes carnales pueden **olvidar** las verdades de la Palabra de Dios y retroceder en sus vidas cristianas. 2 Pedro 1:12-15
+#### En Colosenses 2:8, Pablo advirtió, “*Mirad que nadie os **haga** cautivos por medio de su filosofía y vanas sutilezas, según la tradición de los hombres, conforme a los principios elementales del mundo y no según Cristo*. [LBLA]”
+#### En 1 Timoteo 6:20-21, Pablo advirtió a su hijo espiritual diciendo, “*Oh Timoteo, guarda lo que se te ha encomendado, evitando las profanas pláticas sobre cosas vanas, y los argumentos de la falsamente llamada ciencia*, *la cual profesando algunos, se **desviaron** de la fe. …*”
+#####
+### **Consejo final**: 1 Timoteo 6:11-12 – “*Mas tú, oh hombre de Dios, **huye** de estas cosas, y sigue la justicia, la piedad, la fe, el amor, la paciencia, la mansedumbre. **Pelea la buena batalla de la fe**, echa mano de la vida eterna, a la cual asimismo fuiste llamado, habiendo hecho la buena profesión delante de muchos testigos*.”
+
+### ![](Aspose.Words.a2be8293-f622-4b40-bd1c-c50c6cb4228f.005.png)
+
+###
+![](Aspose.Words.a2be8293-f622-4b40-bd1c-c50c6cb4228f.006.png)Romanos 1-8 (Edición 5.5) 			www.DM2USA.org
 
-===
 
-Relies on and obligates misapplied or non-biblical rituals and traditions.
-
-===
-
-Is contrary to grace.
-
-===
-
-Grace puts all of the focus on Christ.
-
-===
-
-Legalism takes the focus away from Christ and puts it on man and his efforts
-
-===
-
-## E. Colossians 2:18-19a – Mysticism, the third heresy
- 
- 
-    1. Colossians 2:18 – Let’s discern the dangers of mysticism.
- 
- 
-    a. Colossians 2:18a – * Let no ** one** …*  Paul again
-    started this section by ** <u>warning</u>**  believers against
-    external control and manipulation. The heresy of mysticism typically has a
-    charismatic and controlling leader who ** claims**  to have
-    supernatural power, extraordinary faith, or the sign gifts.
- 
- 
-b. Colossians 2:18b – ** * Let * ** * no one ** keep defrauding you** * … The phrase* let no one keep [on] defrauding you*  is a    ** <u>present</u>**  tense imperative in Greek. The use of this
-    verb tense indicates that this was a very present danger in Colossae. You
-    too could succumb to this error, so you also should heed this command.
- 
- 
-c. Colossians 2:18c –    * Let no one keep defrauding you ** of your prize** * …
-    Paul commanded the Colossian believers to not tolerate interventions by
-anyone who might act as judge or referee and somehow    ** <u>cheat</u>**  them from true victory.
- 
- 
-1) * Defraud*  is the word KATABRABEUO composed of KATA** against**  and BRABEUO ** line-<u>judge</u>**  or    ** referee** . The use of this word implies that a referee might
-    make an unfair call resulting in your loss.
- 
- 
-    2) Although the phrase * of your prize*  is not found explicitly in
-    the ** <u>Greek</u>**  text, the idea of disqualification is
-    implied in the word * defraud* .
- 
- 
-    3) With its focus on experiences, the heresy of mysticism stealthily
-presents itself under a guise of spirituality while in reality    ** <u>robbing</u>**  you of all spiritual progress.
-    <br/>
-    <br/>
- 
- 
-d. Colossians 2:18e – * Let no one keep defrauding you * …    * by delighting in…*  Mysticism will put an arbitrator between you and
-Jesus Christ. Defrauded of Jesus, you’ll delight yourself in the    ** <u>wrong</u>**  things.
-    <br/>
-    <br/>
- 
- 
-    2. Colossians 2:18f-19a – Let’s look at ** <u>six</u>**  aspects
-    of the heresy of mysticism in which a believer might misguidedly take
-    delight.
- 
- 
-    a. Colossians 2:18f – ** Aspect 1** : Typically the heresy of
-    mysticism comes with a guru or spiritual leader who will ultimately
-    * 
-defraud you of your ** <u>prize</u>**  by delighting in        ** self-abasement** 
-    * 
-    – your self-abasement not his.
- 
- 
-    1) The heresy of mysticism often hosts a supposed spiritual leader who
-    mesmerizes and ** <u>controls</u>**  unguarded believers.
- 
- 
-    2) Leaders in the heresy of mysticism tend to glory in their great humility
-    and alleged ** <u>inside</u>**  track with God. They go to great
-    lengths to explain their spiritual exploits and experiences.
- 
- 
-    3) In this error the leader typically grabs the spotlight from Christ and
-the ** <u>flock</u>**  unwittingly follows him, being drug    ** away from the Lord** . Acts 20:30
- 
- 
-    4) Because of their delight with * self-abasement*  they will usually
-    require extreme submission from their followers. In their quest for
-    supernatural power or miraculous experiences they often subject their
-    followers to ** <u>engage</u>**  in debasing or humiliating
-    actions.
-    <br/>
-    <br/>
- 
- 
-    5) If you have a tendency toward mysticism you will likely believe that
-    humility, or self-abasement, is the ** <u>secret</u>**  to
-    spirituality. Sadly, over time this heresy disconnects believers from
-    Christ as the source of strength for their life.
- 
- 
-    6) Under mysticism you become ** <u>guilty</u>**  of replacing
-    reality in your fellowship with Christ with a fixation on experiences like
-    supposedly seeing angels, having visions, or other supernatural
-    achievements.
- 
- 
-    7) As an outcome, you will see yourself negatively. You will consider
-yourself unworthy, being forced into the humility of** * self-abasement* ** . You might    ** <u>feel</u>**  obligated to fast, spend long hours in prayer,
-    practice overnight vigils, kneel, or let yourself be hit in the face or
-    pushed down. 2 Corinthians 11:20
-    <br/>
-    <br/>
- 
- 
-    8) Contrary to being forced into humiliation consider the following:
- 
- 
-a) In the church, pastors and elders are called to tenderly shepherd the    ** <u>flock</u>**  of God. In shepherding, there must not to be
-    heavy-handed control or forced submission. 1 Peter 5:2-4, 3 John 9-10
- 
- 
-    b) Since ** * self-abasement* **  is presented here in a
-negative light, it is obviously not speaking of    ** <u>true</u>**  humility. True humility is seen in James 4:6
-    where
-    * 
-        God resists the proud but gives grace to the ** humble** 
-    * 
-and in 1 Peter 5:6 where God says, “** * Humble yourselves* **     *  under the mighty hand of God* .”
-    <br/>
-    <br/>
- 
- 
-    b. Colossians 2:18g – ** Aspect 2** : Don’t let anyone defraud
-    you by * …the worship of angels* . The heresy of mysticism misdirects
-    believers into an unhealthy obsession with ** <u>angels</u>** ,
-    whether good or bad (demons). 1 Timothy 4:1-2
- 
- 
-    1) According to the ** <u>false</u>**  teaching already taught
-    in Paul’s day, and even more so later under Gnosticism, celestial beings
-    were said to be part of the fullness needed to reach God.
- 
- 
-2) This heresy opens one up to thinking he needs    ** <u>angels</u>**  or other supernatural intermediaries to
-    approach God or navigate through life.
-    <br/>
-    <br/>
- 
- 
-    c. Colossians 2:18h – ** Aspect 3** : Don’t let anyone defraud
-    you by * …taking his stand on visions he has seen* … The heresy of
-    mysticism teaches that supernatural or ecstatic experiences such as visions
-    are the ** <u>basis</u>** , or measure, of true spirituality.
- 
- 
-    1) Under this error, undue emphasis gets placed on experiences. Experiences
-can become more important to you than the truth of God’s    ** <u>Word</u>** .
- 
- 
-    2) Leaders who are mystical will go on and on about spiritual experiences
-    they have had in order to demonstrate their ** <u>claim</u>** 
-    to superior spiritual power and authority.
- 
- 
-    3) The phrase * taking ** his**  stand*  EMBATEOU came to
-    be a special ** <u>term</u>**  used by mystery cults to describe
-    the initiation process required to enter the inner circle of their false
-    religion. It is interesting that the Holy Spirit had Paul use a word common
-    to mysticism to expose their error.
- 
- 
-d. Colossians 2:18i – ** Aspect 4** : Don’t let anyone who is …    * inflated ** <u>without</u>**  cause…*  defraud you. The
-    heresy of mysticism inspires spiritual arrogance.
- 
- 
-1) * Inflated without cause*  is being full of hot    ** <u>air</u>** . It is spiritual pride.
- 
- 
-    2) Mysticism claims ** <u>humility</u>**  while actually being
-    nothing more than repulsive pride.
- 
- 
-    e. Colossians 2:18j – ** Aspect 5** : Don’t let anyone defraud
-you since that individual would simply be …* inflated*     * without cause ** by his fleshly mind** * . The heresy of
-    mysticism is characterized by the ** <u>fleshly</u>**  mind
-    being in control of the individual.
- 
- 
-    1) The phrase * by his fleshly mind*  shows that the heresy of
-    mysticism is nothing more than a work of the ** <u>flesh</u>** .
- 
- 
-2) Mysticism creates a disconnection with Christ and allows the* fleshly mind*  rather than the Lord to    ** <u>control</u>**  the individual or the church.
-    <br/>
-    <br/>
- 
- 
-    f. Colossians 2:19a – ** Aspect 6** : Don’t let anyone defraud
-    you by * …not holding fast to the head* … The ultimate peril of the
-error of mysticism is that it generates a detachment from the    ** <u>headship</u>**  of Jesus Christ.
- 
- 
-1) In its essence, this heresy creates a distance between    ** <u>Christ</u>**  and His church or Christ and the individual.
-    Christ is there, but He is not directing. Christ becomes superseded by the
-    pseudo-spirituality of a charismatic leader.
- 
- 
-2) * And not holding fast * KRATEO… is a    ** <u>present</u>**  tense participle stressing the immediate
-necessity to hold tightly to Christ. In Acts 24:6 the same word for    * hold fast*  KRATEO is used of the Jews who tightly seized Paul in
-    the temple, firmly gripping him without relaxing.
-    <br/>
-    <br/>
- 
- 
-    3) Here Paul used the term * holding fast*  KRATEO figuratively to
-    communicate intensity and describe the ** <u>peril</u>**  the
-    church could experience if it did not hold its head, Jesus Christ, with a
-    tight grip.
- 
- 
-    4) The truth is that if we do not consistently hold tightly to the head of
-    the church, Jesus Christ, we will ultimately ** <u>lose</u>** 
-    that necessary and vital link with Him and fall victim to mysticism.
-    Galatians 5:4b
-    <br/>
-    <br/>
- 
- 
-    ** F. ** 
-    ** 
-        Colossians 2:19b – How to safeguard against the heresy of mysticism
-    ** 
- 
- 
-    1. Colossians 2:19b – We are to consistently * hold fast*  to our one
-    true ** <u>head</u>** , Jesus Christ, and reject the heresy of
-    mysticism.
- 
- 
-2. Colossians 2:19c –    * From whom the ** <u>entire</u>**  body…* 
- 
- 
-    a. Christ is the one and ** <u>only</u>**  head of the body.
-    Ephesians 5:23
- 
- 
-    b. Obviously we might live just fine without a hand or foot, but we cannot
-    live without a head. Our head houses our brain, which controls all the
-functions of the body. Even the air, food and water that    ** <u>sustain</u>**  our health enter our body through the head
-    by way of the mouth. We need our head!
- 
- 
-    c. In like ** <u>manner</u>** , we cannot live spiritually
-    without our head, Jesus Christ, who constantly supplies us with all we need
-    for life and godliness. We need Christ, not some alleged super-spiritual
-    expert.
- 
- 
-3. Colossians 2:19d –    * …being supplied and held together by the joints and ligaments...* 
- 
- 
-    a. As individual members of Christ’s body, we are to walk in unity and love
-    so that we ** <u>build</u>**  each other up. Ephesians 4:16
- 
- 
-    b. Christ is the only head; all the ** <u>rest</u>**  of us are
-    members of His body. Instead of each part paying homage to or serving some
-    so-called gifted leader the individual parts all contribute to the
-    well-being of the whole for the glory of the head, Jesus Christ.
-    <br/>
-    <br/>
- 
- 
-4. Colossians 2:19e – The entire body …* grows with a growth, which is from God* . True spiritual    ** <u>growth</u>**  comes from God alone and not from some
-    mysterious phenomena or mystical experience. We do not look to those things
-    or to individuals who make great claims in that way.
- 
- 
-    a. ** <u>God</u>** , not some person, is the only true agent of
-    growth. Colossians 2:7
- 
- 
-b. Although God uses His Word, Bible teachers, and fellow believers,    ** <u>God</u>**  is the ultimate cause of all true spiritual
-    growth. 1 Corinthians 3:6-7, Ephesians 4:11-16
-    <br/>
-    <br/>
- 
- 
-    ** G. ** 
-    ** Colossians 2:20-23 ** 
-    – ** Asceticism, the fourth heresy** 
- 
- 
-    1. What is asceticism?
- 
- 
-a. Asceticism is erroneous teaching that suggests that self-    ** <u>denial</u>** , self-discipline and self-restraint are keys
-    to sanctification. This error suggests that in order to be holy you simply
-    need to dominate the body.
- 
- 
-    b. This error concludes that the human ** <u>body</u>**  is the
-    root problem standing in the way of our godliness. Therefore self-inflicted
-    pain, harsh controls and deprivations to the body are needed to achieve
-    holiness.
-    <br/>
-    <br/>
- 
- 
-    2. Colossians 2:20 – Paul sharply dismissed the usefulness of asceticism in
-    making us ** <u>holy</u>**  by turning the reader to
-    identification truth. Let’s look at ** four**  quick arguments
-    against asceticism found in this one verse. All Paul’s answers stem from
-    the positional truth of being dead with Christ to the world. Galatians 6:14
- 
- 
-    a. Colossians 2:20a – * If you have died* … ** First** 
-    Paul made it clear that asceticism does not work for holiness because we
-    are ** <u>dead</u>**  people. Are you aware that you are dead
-    with Christ and what that means practically?
-    <br/>
-    <br/>
- 
- 
-    1) This if statement is a ** <u>first</u>**  class condition in
-    the Greek language. In this context we could understand it as “if you have
-    died, and for the sake of argument let’s assume that you did indeed die.”
- 
- 
-2) At salvation God identified us with the death of Christ on the    ** <u>cross</u>** . Galatians 2:20, Romans 6:5-6, Colossians 3:3
- 
- 
-    3) What are some of the things we know to be true of us now because of our
-    identity in Christ?
- 
- 
-    a) We know we died with Christ to the ** <u>world</u>** .
-    Galatians 6:14
- 
- 
-b) We know we died with Christ to domination by the sin    ** <u>nature</u>** . Romans 6:2, 6, 7, 10; Galatians 5:24
- 
- 
-    c) We know we died with Christ to the ** <u>power</u>**  and
-    control of the devil. Hebrews 2:14-15, Colossians 2:15
- 
- 
-    d) We know we died with Christ to the ** <u>law</u>**  and its
-    jurisdiction. Romans 7:4-6, Galatians 2:19, 1 Corinthians 9:20
- 
- 
-e) We also know we died with Christ to the burden of ongoing    ** <u>guilt</u>**  since our sins, never to be recalled again,
-    were nailed to the cross with Him. Colossians 2:13-14
- 
- 
-    4) Why did Paul use our position of being dead with Christ to explain why
-    asceticism is not for the believer?
- 
- 
-a) Paul stated that practicing asceticism is of no value because    ** <u>pain</u>**  has no effect on the dead. Asceticism with its
-    self-inflicted harshness is of no value in making one who has died with
-    Christ holy.
- 
- 
-    b) It would be foolish to ** <u>yell</u>**  at a dead person
-    saying, “Do not handle. Do not taste. Do not touch.” So it is with those in
-    Christ who are dead to sin.
- 
- 
-    5) It is important for us to understand the vast difference between the
-    self-effort of crucifying yourself and recognizing by faith your position
-    of ** <u>already</u>**  having been crucified by God at
-    salvation. Romans 6:6, Galatians 2:20
- 
- 
-    a) Matthew 16:24-26 – When Jesus said to deny yourself, take up your cross
-    and follow Him, He was not saying to ** <u>beat</u>**  the body
-    into subjection to produce righteous living. He was speaking of not
-    preserving our lives as Peter had just suggested (vv.21-23).
- 
- 
-b) 1 Corinthians 9:26-27 – When Paul stated that he disciplined his    ** <u>body</u>** , it was not a slip-up where he suddenly fell
-    into asceticism. He was talking about not pampering the flesh but rather by
-    faith through the Spirit putting to death the deeds of the body. Romans
-    8:13, Colossians 3:5
- 
- 
-    c) Galatians 5:22-23 – Self-control is a fruit of the Spirit produced in
-    the believer who is walking by ** <u>faith</u>**  and not equal
-    in any way to the self-domination of Christians who promote asceticism.
-    <br/>
-    <br/>
- 
- 
-    b. Colossians 2:20b –
-    * 
-If you died with Christ        ** to the elementary principles of the <u>world</u>** 
-    * 
-    … A ** second ** reason not to practice asceticism is because it
-    is based on the world’s simplistic, or elementary, way of achieving
-    morality.
- 
- 
-    1) * The elementary principles*  STOICHEIA * of the world* 
-    refers to the rudimentary, primary, or ** <u>basic</u>** 
-    prescriptions the world imposes on society in order to enforce conformity.
-    It is the world's method of controlling fleshly desires and indulgences.
- 
- 
-2) Typically going ** <u>back</u>**  to the    * elementary principles of the world*  becomes the method that
-    out-of-control worldly Christians enthusiastically employ.
- 
- 
-    3) On the contrary, we need to ** <u>daily</u>**  be reminded of
-    our position in Christ as dead to sin and alive unto God. This will keep us
-    from the frustration and ineffectiveness of asceticism in generating a true
-    change of conduct. Romans 6:17-18
- 
- 
-c. Colossians 2:20c – Why, * as if living in the world* … A** third ** reason we reject asceticism is because we understand    ** <u>our</u>**  heavenly position in Christ and the fact that
-    we are not part of this cosmic system. This helps avoid worldly, simplistic
-    methods for controlling people. Ephesians 2:6, Colossians 3:1-3
- 
- 
-    d. Colossians 2:20d – Why …* do you submit yourself to decrees* ? In
-    the ** fourth ** place, asceticism relies on * decrees* 
-    DOGMATIZO or negative declarations. We do not practice asceticism because
-in reality it is basically a debasing form of    ** <u>slavery</u>** . Asceticism relies on depriving or
-    afflicting yourself in order to be spiritual.
-    <br/>
-    <br/>
- 
- 
-3. Colossians 2:21-23 – Paul explained some very negative    ** <u>elements</u>**  of asceticism.
- 
- 
-    a. Colossians 2:21 – Sadly the error of asceticism is based on prohibitions
-    and ** <u>demands</u>**  put on one’s self. Paul therefore asks,
-    “
-    * 
-        Why, as if you were living in the world, do you submit yourself to
-        decrees, such as…?
-    * 
-    ”
- 
- 
-    1) Don’t ** <u>grab</u>**  this! * Do not handle…* 
- 
- 
-2) Don’t ** <u>put</u>**  that in your mouth!    * Do not taste* …
- 
- 
-3) And don’t even think of laying a ** <u>finger</u>**  on it!    * Do not touch* …
- 
- 
-b. Colossians 2:22a –    * Which all refer to things destined to perish with use…*  Next Paul
-appropriately pointed out that asceticism quickly    ** <u>loses</u>**  its effectiveness.
- 
- 
-    1) If you try to better or control yourself by self-deprivation your
-    efforts will unravel in time. You’ll end up tossing out your efforts like
-    an ** <u>old</u>**  ragged garment.
- 
- 
-2) In other words, this approach to spirituality will not    ** <u>last</u>**  long and will ** never**  bring you
-    the holiness you desire.
-    <br/>
-    <br/>
- 
- 
-c. Colossians 2:22b – Asceticism is …    * in accordance with the commandments and teachings of men.* 
-Asceticism incorrectly follows earthly or human    ** <u>logic</u>** .
- 
- 
-    d. Colossians 2:23a –
-    * 
-        These are matters, which have, to be sure, the appearance of wisdom
-    * 
-    … Asceticism is ** very**  deceptive since on the outside it
-    seems to be based on godly ** <u>wisdom</u>** . James 3:13-18
- 
- 
-    1) The deception of asceticism is that it gives an immediate fix to
-    out-of-control living. Many Christians gravitate to any unbiblical answer
-    if it seems to quickly solve their ** <u>problem</u>** .
-    Proverbs 14:12, 16:25
- 
- 
-2) Our flesh opts for worldly solutions to provide temporary    ** <u>fixes</u>** . This keeps us from having to deal with the
-    root problem, the sin nature.
-    <br/>
-    <br/>
- 
- 
-e. Colossians 2:23b – Asceticism is wrapped up …* in self-made religion* … meaning contrived or homespun    ** <u>piety</u>** . The pious nature of asceticism makes it
-    attractive to sincere believers. Galatians 3:2-3
- 
- 
-    f. Colossians 2:23c – * In* …* self-abasement* … Asceticism
-    requires that the individual be abased or ** <u>forced</u>** 
-    into subjection. * Self-abasement*  TAPEINOPHROSUNE holds the idea of
-    obligating yourself to experience a profound sense of insignificance. It is
-    basically a form of beating up on yourself.
- 
- 
-g. Colossians 2:23d – Ultimately the heresy of asceticism requires …    ** * <u>severe</u>* ** *  treatment of the body* .
- 
- 
-1) Asceticism can go so far as to encourage cruel    ** <u>torture</u>**  of the human body in order to gain
-    spirituality.
- 
- 
-    2) Supposing to gain points with God, there have been cases where people
-    have ** <u>starved</u>**  themselves, beat themselves, or even
-    submitted to crucifixion.
-    <br/>
-    <br/>
- 
- 
-    4. Colossians 2:23 – Asceticism’s folly:
-    * 
-        But are of no value ** <u>against</u>**  fleshly indulgence
-    * 
-    . In this one phrase Paul discarded asceticism as woefully inadequate for
-    creating change. Why?
- 
- 
-a. Initially in verse 20 we observed that asceticism is no more than the* elementary principles of the world*  and therefore    ** <u>empty</u>**  and deceptive. Colossians 2:8
- 
- 
-b. Here we see that these futile efforts …* are of no value against fleshly indulgence* . They do not harness    ** <u>evil</u>**  desires or prevent selfish and immoral
-    behavior.
- 
- 
-    1) Asceticism does not deal with the ** <u>root</u>**  problem
-    of the flesh, the cause of sin in our lives. Instead of encouraging a walk
-    of faith focused on Christ, asceticism foolishly leads to the futility of
-    trying to control the sin nature. Romans 7:8-11, Galatians 5:16-17
- 
- 
-    2) This method always results in abject ** <u>failure</u>** .
- 
- 
-    3) Asceticism just cannot ** <u>stop</u>**  you from sinning or
-    make you holy. The NET Bible puts it aptly, saying that instead of holy
-    living * they in reality result in fleshly indulgence* . Asceticism’s
-    disaster is that it actually increases fleshly indulgence.
-    <br/>
-    <br/>
- 
- 
-c. As with the other three heresies, asceticism is a major    ** <u>affront</u>**  to Jesus Christ’s adequacy to change
-    believers.
- 
- 
-    1) The heresy of asceticism ** <u>demeans</u>**  Christ’s
-    ability to make you holy.
- 
- 
-    2) Asceticism rejects the important significance of our death with Christ
-to the sin nature, putting emphasis on self's    ** <u>ability</u>**  to control the flesh rather than on our
-    identification with the finished work of Christ on the cross. Romans
-    6:10-11
- 
- 
-    3) ** <u>Many</u>**  of today’s so-called spiritual disciplines
-    are tantamount to asceticism.
-    <br/>
-    <br/>
- 
- 
-    d. Child of God, you have a choice. For holiness, you can go with
-    asceticism and rely on your own efforts to change or you can learn to walk
-    by ** <u>faith</u>**  relying on Christ's provisions for your
-    sanctification. Colossians 2:6
-    <br/>
-    <br/>
-    <br/>
- 
-===
-# VII. Colossians 3:1-11 – Changed Focus: Keeping a Focus on Heaven
- 
- 
-    ** A. ** 
-    ** 
-        Colossians 3:1-2 – Paul encouraged the Colossians to develop a heavenly
-        mindset based on their identity in Christ.
-    ** 
- 
- 
-    1. Colossians 3:1a –
-    * 
-        If then you have been ** <u>raised</u>**  up with Christ
-    * 
-… Our position in Christ is foundational to correct Christian living.     
- 
- 
-    a.
-    * 
-        If then you have been ** <u>raised</u>**  up with Christ…
-    * 
-    The word*  if*  is a first class condition that could be understood
-as, “If you have been raised up with Christ,** and let’s assume it is true** … therefore...”     
- 
- 
-    1) This is a continuation of Paul’s comment from Colossians 2:20. We saw
-the same conditional structure indicating that we did indeed    ** <u>die</u>**  with Christ; therefore we are not to submit to
-    the world system. 
- 
- 
-    2) Here, instead of reminding the Colossian believers of their death with
-    Christ, Paul went a step further and reminded them of their resurrection
-    together with Christ. * Raised up*  denotes being both co-resurrected
-and co-ascended ** <u>with</u>**  Christ. Ephesians 2:6     
- 
- 
-    3) This identification ** <u>with</u>**  Christ was something
-    done ** to**  the believer and not ** by**  the
-    believer. 
- 
- 
-4) Our co-resurrection with Christ is an accomplished    ** <u>fact</u>**  in the mind of God. It occurred at the moment
-    we put our faith in Christ.
-    <br/>
-    <br/>
-     
- 
- 
-    b. Founded on the believer’s spiritual position of being raised up with
-Christ, the apostle gave the Colossian believers** <u>two</u>**  important commands about desires and focus (    * keep seeking*  and * set your mind* ). 
- 
- 
-    c. ** Only**  based out of our position of co-raised with Christ
-    will we be able to properly ** <u>obey</u>**  these commands.
-    <br/>
-    <br/>
-     
- 
- 
-2. Colossians 3:1b – ** * Keep seeking* ** *  the things above… * Paul’s first command to** * keep seeking* **  is related to our    ** <u>desires</u>** .
- 
- 
-    a. The word * seek*  ZETEO is a verb of intensity and passion that
-    implies a diligent ** <u>search</u>** . This verb was used to
-    describe people determined to get to the bottom of a matter. Matthew 2:13,
-    6:33; Acts 21:31; 1 Peter 5:8
- 
- 
-    b. Being a present active imperative shows that Paul was demanding an
-    immediate and proactive search into * the things above* .
- 
- 
-    c. In order to advance our ** <u>desire</u>**  to seek heavenly
-    things, Paul added two important realities about our resurrected Savior.
-    <br/>
-    <br/>
- 
- 
-    3. Colossians 3:1c – We are commanded to seek the things that have to do
-with Christ’s ** finished work** .** * Keep seeking* **     *  the things above ** where Christ is <u>seated</u>** * …
- 
- 
-    a. We have a risen and ** <u>living</u>**  Savior who is
-    adequate for all our needs. Christ is seated in heaven because His work is
-    finished. Hebrews 1:3, 8:1-2
- 
- 
-b. Not only do we have a qualified Savior, but also we have been    ** <u>fully</u>**  identified with Him. We greatly benefit from
-    this identification with Him. Romans 6:8-11
- 
- 
-1) If we died with Christ and we did, then we are indeed dead to    ** <u>sin</u>**  just as He is. Sin’s outright power and grip on
-    our lives has been broken. Romans 6:2
- 
- 
-    2) If we rose again with Christ and we did, then just as He is alive unto
-    God we too are alive indeed unto ** <u>God</u>** ; therefore, we
-    are no longer obligated to follow this satanic worldly system. Galatians
-    6:14
-    <br/>
-    <br/>
- 
- 
-    4. Colossians 3:1d – We are further commanded to seek the things that have
-to do with Christ’s ** supreme authority** .    ** * Keep seeking* ** 
-    * 
-the things above where Christ is seated        ** at the <u>right</u> hand of God** 
-    * 
-    .
- 
- 
-    a. Seated at the right hand of God the Father, Jesus Christ has been given
-    the most ** <u>exalted</u>**  position in the entire universe.
-    Hebrews 4:16
- 
- 
-b. He and no one else possesses this position of highest    ** <u>honor</u>**  in heaven, and your sanctification is based
-    on identification with Him there. Romans 6:11, 2 Timothy 1:1
- 
- 
-    c. Since Christ is risen, seated and honored in this way, we can rest
-    assured He is adequate for all our ** <u>needs</u>** , wants,
-    problems and questions. We ought therefore to * keep seeking*  Him. No
-    one else is worthy or able to help us.
-    <br/>
-    <br/>
- 
- 
-5. Colossians 3:2a – Paul’s second command to    ** * set your <u>mind</u>* ** *  on things above* 
-    relates to our focus.
- 
- 
-    a. Set PHRONEO is another penetrating verb conveying the idea of
-    pinpointing your focus or being very ** <u>intent</u>**  on
-    something. In Philippians 2:5 it is translated * have this attitude* 
-    or * let this mind be in you* .
- 
- 
-b. Paul appealed to our understanding of identification    ** <u>truths</u>**  by commanding us to focus on heavenly things
-    based on the fact that we have indeed been raised up with Christ as part of
-    our position in Him. Proverbs 23:7a
- 
- 
-    c. The * things ** <u>above</u>** *  should become the
-    focus of our thinking. How much of our thinking is actually absorbed with
-    heavenly matters? Philippians 4:8
-    <br/>
-    <br/>
- 
- 
-6. Colossians 3:2b –    * Set your mind ** on things above** * … Paul wanted them
-    to ** <u>focus</u>**  in on their heavenly position and
-    possessions.
- 
- 
-    a. Did you know that your citizenship is in ** <u>heaven</u>** ?
-    Philippians 3:20
- 
- 
-    b. Did you know you have a ** <u>hope</u>**  laid up for you in
-    heaven? Colossians 1:5
- 
- 
-    c. Did you know you have a ** <u>master</u>**  in heaven who
-    watches you? Colossians 4:1
- 
- 
-d. Did you know you have an inheritance reserved for    ** <u>you</u>**  in heaven? 1 Peter 1:4
- 
- 
-    e. Did you know you have been blessed with ** <u>every</u>** 
-    spiritual blessing in the heavenly realms? Ephesians 1:3
- 
- 
-f. Did you know you are guaranteed participation in the heavenly    ** <u>kingdom</u>** ? Colossians 1:12, 2 Timothy 4:18, 1 Peter
-    1:3-5
- 
- 
-g. Did you know you have been made the partaker of a heavenly    ** <u>calling</u>** ? Hebrews 3:1
- 
- 
-    h. Did you know you are ** <u>seated</u>**  in Christ in heaven
-    right now? Ephesians 2:6
-    <br/>
-    <br/>
- 
- 
-7. Colossians 3:2c – Don’t * set your mind*  …    * on the things that are on ** <u>earth</u>** * .
- 
- 
-    a. Reject ** <u>cheap</u>**  earthly substitutes like the
-    heresies Paul described in chapter two. All those deviations will detract
-    you from spiritual progress.
- 
- 
-1) We should recognize the bankruptcy of philosophy, counting it as    ** <u>simple</u>** , elementary thinking and empty deception.
- 
- 
-    2) Being merely a ** <u>faint</u>**  shadow of the truth, we
-    ought to reject legalism.
- 
- 
-3) We should cast off mysticism as a distraction that removes us from our    ** <u>head</u>** , Jesus Christ.
- 
- 
-    4) We should ** <u>avoid</u>**  all forms of asceticism as
-    homespun religion, totally incapable of changing our fleshly passions and
-    desires.
-    <br/>
-    <br/>
- 
- 
-    b. The story of Mary and Martha is a timeless example of setting our minds
-    on heavenly things and ** <u>not</u>**  on the things of the
-    earth. Luke 10:38-42, John 12:2-3
- 
- 
-    ** B. ** 
-    ** Colossians 3:3-4 – Why should we have a heavenly mindset?** 
- 
- 
-1. Colossians 3:3a – Why should we * seek*  for and* set our minds*  on heavenly things? Paul’s first reason was, “    * For you ** <u>have</u>**  died* .”
- 
- 
-    a. Paul wanted the Colossians to align their thinking with God’s thinking
-    on this matter of having ** <u>died</u>**  with Christ. 2
-    Corinthians 5:14; Galatians 5:24, 6:14
- 
- 
-    b. Notice how Paul continually ** <u>drew</u>**  his readers
-    back to positional, or identification, truth, particularly related to the
-    death and resurrection of Christ. This was obviously of major importance to
-    Paul, and therefore should be to us as well. Galatians 2:20
-    <br/>
-    <br/>
- 
- 
-c. The mention of our death with Christ was intentional since this    ** <u>truth</u>**  is the footing on which Paul built the
-    doctrine of sanctification. Romans 6:1-11
- 
- 
-    d. Because you * have died* , or were * crucified with Christ* ,
-    your sin ** <u>nature</u>**  is without outright or absolute
-    power over you. Romans 6:6; Colossians 2:11, 3:1-4
-    <br/>
-    <br/>
- 
- 
-    2. Colossians 3:3b – Paul gave a second reason why we are to * seek* 
-for and * set our minds*  on heavenly things. He stated, “    * And your life is ** <u>hidden</u>**  with Christ in God* 
-    .”
- 
- 
-    a. This is our present position in Christ and it provides us with amazing
-security. This is not only eternal security it is    ** <u>double</u>**  eternal security.
- 
- 
-    b. In Greek Paul used the perfect tense in the phrase * is hidden* .
-    This grammar brings out the point that God hid your life at a point in time
-    in the ** <u>past</u>**  with results continuing all the way to
-    the present.
-    <br/>
-    <br/>
- 
- 
-    c. In other words, your life has been hidden with Christ in God and it
-continues to be hidden all the way up to this very    ** <u>hour</u>** .
- 
- 
-    d. When God hides something, do you think ** <u>anyone</u>** 
-    can find it? What about Satan? Can he get into God and find your life to
-    steal you away? What about you? Can you find where God has hidden your life
-    so as to break in and take it back?
-    <br/>
-    <br/>
- 
- 
-    3. Colossians 3:4a – Paul gave a third reason why we are to * seek* 
-    for and * set our minds*  on heavenly things. He stated that Christ is
-now our ** <u>life</u>** .    * When Christ, ** who is our life**  is revealed…* 
- 
- 
-    a. John 15:1-5 – Jesus is our source for ** <u>living</u>** .
-    Without Christ we can do nothing.
- 
- 
-    b. Philippians 1:21 – Even though Paul considered death to be gain, every
-day he lived here below was for Christ and to    ** <u>Christ</u>** . * For to me to live is Christ* …
- 
- 
-    c. Galatians 2:20 – Paul considered his life as a believer as belonging to
-    Christ. He said that he no ** <u>longer</u>**  was the one
-    living but Christ was living in him.
- 
- 
-d. Colossians 1:27 – Paul passionately revealed the mystery of    * Christ in you, the hope of ** <u>glory</u>** * . He
-    wanted believers to know what it means for Christ to live in and through
-    the individual.
-    <br/>
-    <br/>
- 
- 
-4. Colossians 3:4b – Paul’s statement gives us a fourth reason to    * seek*  for and * set our minds*  on heavenly things. We do so
-because one day Christ will be ** <u>openly</u>**  manifested.    * When Christ, who is our life ** is revealed** …*  At the
-    second coming, Christ will be revealed in all His glory. Romans 2:16,
-    Revelation 19:11-16
- 
- 
-5. Colossians 3:4b – Paul’s fifth reason to * seek*  for and    * set our minds*  on heavenly things is because one day when Christ is
-revealed we too will be revealed with Him in ** <u>glory</u>** .    * Then you also will be revealed ** with Him in glory** …* 
- 
- 
-    a. There are no conditions ** <u>given</u>**  here. Paul did not
-    say, “If you are worthy, you will be revealed with Christ in glory.” The
-    truth is that not one of us is worthy. All believers are guaranteed
-    glorification because * Christ is our Life.*  There are no
-    uncertainties in these words. Romans 8:18-19
- 
- 
-    b. Since we will most certainly be glorified with Christ, let’s not live
-    with a focus on the here and now. Don’t live as the unsaved whose destiny
-is hell. Let’s live like those who know with certainty that we    ** <u>will</u>**  be with the Lord forever. Philippians 3:18-21
- 
- 
-    c. This world and its enticements are not what we live for. This is not all
-there is. We are strangers here. Our citizenship is in    ** <u>heaven</u>** . Since we will one day be with the Lord
-    forever, let’s keep focused on heavenly things. When Christ comes to get us
-    we will return together with Him in blazing glory. 1 Thess. 4:17-18
-    <br/>
-    <br/>
- 
- 
-    ** C. ** 
-    ** 
-        Colossians 3:5-11 – Therefore * seeking the things above*  and
-        having our * minds set on heavenly things* , how are we to now
-        live?
-    ** 
- 
- 
-    1. Colossians 3:5a – * Therefore* , in light of who you are in
-Christ…. We will now shift to see how positional truth affects our    ** <u>walk</u>**  here below. Only to the degree you maintain a
-    heavenly focus will you live victoriously here on earth; therefore, you
-    must not disregard identification truth.
- 
- 
-    a. You ** <u>died</u>**  with Christ. Colossians 2:20
- 
- 
-    b. You were raised ** up**  together with Christ. Colossians 3:1
- 
- 
-c. You have ** <u>double</u>**  eternal security. …    * hidden with Christ in God. * Colossians 3:3
- 
- 
-d. Your life is summed up in the name “Christ.” …    * when Christ who is our ** <u>life</u>** * … Colossians
-    3:4a
- 
- 
-e. You ** <u>will</u>**  be glorified, guaranteed.    * Then you also will be revealed with him in glory* … Colossians 3:4b
-    <br/>
-    <br/>
- 
- 
-    * 2. * 
-    Colossians 3:5b – * Consider …as dead… * The command here is to
-    literally ** * <u>make</u>* ** *  dead* . The Greek
-    word for “* consider…as dead* ” NEKROO is an aorist, active,
-    imperative verb. 
- 
- 
-a. The verb NEKROO means make as dead, deprive of    ** <u>power</u>**  or put to death. 
- 
- 
-    b. In using an aorist imperative versus the present imperative, Paul was
-    commanding the believers to decisively do this action versus habitually
-doing it. In this case, it might be understood as get    ** <u>rid</u>**  of it (kill it) as opposed to stop doing it
-    (quit it).
-    <br/>
-    <br/>
-     
- 
- 
-    c. Clearly Paul based his command on what he just said about being
-    positionally ** <u>dead</u>**  with Christ. * Therefore, * 
-    based on that fact, * put to death, * or by faith apply death to the
-    members of your bodies. Colossians 3:3
- 
- 
-    1) Short of amputation, the only way you can make the members of your body
-    dead is to do it by ** <u>faith</u>** . Paul is not going back
-    on his previous teaching and now teaching a form of asceticism.
- 
- 
-    2) When you * consider the members of your earthly body as dead* , you
-    apply in a practical way the positional truth of your death with Christ to
-sin, to your present condition – to your daily walk here on this    ** <u>earth</u>** . Romans 6:2, 11
-    <br/>
-    <br/>
- 
- 
-3) Putting to death the members of your earthly body involves cutting    ** <u>off</u>**  the stream of influence between the sin nature
-    and your physical body. You do this by faith in what God has already done.
-    Romans 6:6-8a, 2 Timothy 2:11
- 
- 
-4) You (the person inside your body) are dead to sin, so by faith    ** <u>count</u>**  your body as being dead to sin as well. Like
-    a dead person, you are not to offer the parts of your body to sin to become
-    sin’s slave again. You are to offer the parts of your body to God as
-    instruments of righteousness. Romans 6:12-13
- 
- 
-    5) To interpret this as anything other than a faith issue would mean Paul
-    was saying to ** <u>murder</u>**  your body. That would be
-    nothing short of the severe asceticism Paul spoke directly against in
-    Colossians 2:20-23.
-    <br/>
-    <br/>
- 
- 
-    3. Colossians 3:5c – Let's take a look at your body in
-    relation to immoral sins. To what are we to consider the members of our
-    earthly body as being dead? Paul spoke out against believers being involved
-in a number of disgraceful sins. By faith we are to make our    ** <u>body</u>**  dead to the following sins.
- 
- 
-    a. Paul addressed some reprehensible ** <u>sins</u>**  that
-    obviously a believer could, but should not ever, do. If it were impossible
-    for believers to get caught up in these sins, as some people teach, Paul
-    wasted his time in teaching against them.
- 
- 
-    1) * Immorality*  PORNEIA engulfs a ** <u>large</u>**  area
-    of sexual deviations including premarital sex, adultery, homosexuality,
-    incest, bestiality, prostitution and all forms of pornography.
- 
- 
-    2) * Impurity*  AKATHARSIA is a broad term referring to moral
-    filthiness in thought, word or deed. The impure or unclean person focuses
-    on the ** <u>dirty</u>**  side of everything.
- 
- 
-3) * Passion*  PATHOS describes sin’s depraved cravings or repulsive    ** <u>drives</u>** .
- 
- 
-    4) * Evil desires*  is a phrase that designates totally impure
-    cravings or a hunger for that which is ** <u>vile</u>** .
- 
- 
-5) * Greed*  PLEONEXIA is a compound word in Greek that means have-    ** <u>more</u>** .
- 
- 
-6) * Greed, which is idolatry* … God equates    ** <u>greed</u>**  with idolatry.
- 
- 
-a) In reality * idolatry*  is the worship of an    ** <u>object</u>**  for personal advantage.
- 
- 
-    b) In * idolatry*  you give service (burn a candle, make a promise,
-give something, etc.) to an object of worship (image, statue or    ** <u>icon</u>** ) if you can get something in return
-    (advantage, promotion, health or wealth) from that object.
- 
- 
-    c) According to ** <u>God</u>**  the pursuit of idolatry is
-    nothing more than pure greed.
-    <br/>
-    <br/>
- 
- 
-    b. Let's consider some ** <u>thoughts</u>**  on these sins of
-    the body.
- 
- 
-    1) Each of these moral ** <u>ills</u>**  represents an intense
-    emotional pull, with extreme passion, lack of restraint, physical or mental
-    abandonment, or complete immersion.
- 
- 
-    2) Since your body is a neutral entity, it ultimately becomes a slave of
-    the one to whom you ** <u>present</u>**  it. The body can become
-    a slave of sin or a slave to the Lord. Romans 6:12-23
- 
- 
-    3) The human body is not the cause of ** <u>sin</u>** .
- 
- 
-    a) Even though your body is under the ** <u>curse</u>**  of
-    Genesis 3, and is groaning as it waits for the day of redemption (Rom.
-    8:23), it is still the temple of God’s Holy Spirit. 1 Corinthians 6:19-20
- 
- 
-    b) Since God made your body His ** <u>temple</u>** , logically
-    your body is not intrinsically evil (Gnosticism).
- 
- 
-    c) Simply put, your ** <u>body</u>**  is like a vessel that is
-    either being filled by God the Holy Spirit or by the fleshly nature.
-    Galatians 5:16-17
- 
- 
-    4) Romans 8:12-13 – Therefore, by means of faith in God’s Holy Spirit, you
-should put to death the deeds of the body. If you do so, you will    ** <u>live</u>** .
-    <br/>
-    <br/>
- 
- 
-    4. Colossians 3:6-7 – Why not present our bodies to sin?
-    Paul gave ** <u>two</u>**  very practical reasons why we should
-    put the members of our bodies to death in relation to sin.
- 
- 
-    a. Colossians 3:6 – Paul's ** <u>first</u>**  reason for why we
-    should avoid the sins that he just mentioned is because of impending
-    judgment on those who are characterized by such sins.
- 
- 
-1) Colossians 3:6a – ** * Because of these things* **     *  the wrath of God is coming… * The unsaved, the ones who give
-    themselves over to these kinds of sins, will ** <u>not</u>** 
-    escape the coming wrath of God. Romans 1:18, 1 Corinthians 6:9-11,
-    Galatians 5:21
-    <br/>
-    <br/>
- 
- 
-    2) Colossians 3:6b –
-    * 
-Because of these things the wrath of God is coming        ** on the sons of disobedience** 
-    * 
-    . The phrase * on the ** <u>sons</u>**  of disobedience* 
-    is key to understanding Paul’s warning. The * sons of disobedience* 
-    refers to the unsaved world and not to saints. Ephesians 2:1-3
- 
- 
-a) Thankfully Scriptures testify that God’s children are guaranteed to    ** <u>escape</u>**  * the coming wrath * of God. John 3:36;
-    Romans 5:9; 1 Thessalonians 1:10, 5:9
- 
- 
-    b) Paul was saying that as saints we should ** <u>never</u>** 
-    be found involved in the sins that the * sons of disobedience* , the
-    unsaved of the world who will be judged under the wrath of God, do as a way
-    of life. Romans 6:20-23, Ephesians 5:6
-    <br/>
-    <br/>
-    <br/>
- 
- 
-    b. Colossians 3:7 – Paul gave a ** <u>second</u>**  reason for
-    not getting involved in the sins listed in verse five. We should avoid
-    these sins because they describe things that we did, but they do not
-    describe who we are now.
- 
- 
-    1) Colossians 3:7a – * And*  * in them * (among those who commit
-    such evil sins)*  you also once ** <u>walked</u>** * … We
-    understand that these evils were part of our old manner of life.
-    <br/>
-    <br/>
- 
- 
-2) Colossians 3:7b –    * When you were ** <u>living</u>**  in them…*  There was
-    once a time when we lived as part of those who commit such sins. Those
-    kinds of sins are part of our old way of life and not who we are today.
-    Romans 6:20-23
- 
- 
-    a) Paul did not imply by this statement that believers couldn’t commit
-    these types of ** <u>sins</u>** .
- 
- 
-    b) If it were impossible for believers to do the sins listed in verse 5,
-Paul would not have taught the Colossians to put such things to    ** <u>death</u>** .
- 
- 
-c) In the very next verse Paul went on to insist that we** <u>put</u>**  such things away from our lives.    * But now you also, put them all aside* … Colossians 2:8a
- 
- 
-    5. Colossians 3:8-9a – Paul moved on to
-    another list of sins we should ** <u>remove</u>**  from our
-    lives. We can call these evils temperament sins.
- 
- 
-a. Colossians 3:8a –     * But now you also, put them all aside* … Although these sins all
-    belonged to our former manner of life, we tend to allow them as “acceptable
-sins” in our lives and churches. Paul said to put them off and lay them    ** <u>aside</u>** , together with all the sins listed in verse
-    five.
- 
- 
-b. Colossians 3:8b –    **  * <u>Wrath</u>* ** , ORGE in Greek, describes the
-    smoldering, long-term emotion that eventually boils forth in viciousness.
-    <br/>
-    <br/>
- 
- 
-c. Colossians 3:8c –    **  * <u>Anger</u>* **  THUMOS is an impulsive emotion. It
-    is a red-hot ember ready to burst into flames at the slightest provocation.
-    Provocation does not produce this anger, but beware, it will reveal it.
- 
- 
-d. Colossians 3:8d –    **  * <u>Malice</u>* **  KAKIA is a spiteful attitude that
-    has as its goal vengeance and harm to others.
- 
- 
-e. Colossians 3:8e –    **  * <u>Slander</u>* **  BLASPHEMIA is making false
-    charges that misrepresent and defame others. It is to verbally destroy
-    someone.
-    <br/>
-    <br/>
- 
- 
-f. Colossians 3:8f –    **  * <u>Abusive</u> speech* **  AISCHROLOGIA includes
-    everything from words spoken in poor taste to obscenity and dirty language.
-    Ephesians 5:4
- 
- 
-    g. Colossians 3:9a – ** * Do not <u>lie</u>* **  ME
-    PSEUDOMAI is the final statement in this list of sins and is
-    self-explanatory.
-    <br/>
-    <br/>
- 
- 
-    h. How can we effectively lay ** <u>aside</u>**  all these sins?
- 
- 
-    1) First of all, it is ** <u>not</u>**  through human reasoning,
-    self-imposed religion, mystical experiences, or the spiritual disciplines
-    that we will lay them aside. These methods were all condemned as
-    ineffective in the previous chapter.
- 
- 
-    2) The true solution to ** <u>all</u>**  sin is to actively
-    depend in faith on our death with Christ to sin and our resurrection with
-    Him to newness of life and then on that basis to present our bodies to God
-    for His use. Romans 6:1-13
- 
- 
-    6. Colossians 3:9b-11 – Paul gave some positive reasons not to indulge in
-    the ** <u>sins</u>**  of the flesh. 
- 
- 
-a. Colossians 3:9b –    * Since you ** <u>laid</u>**  aside the old self* … We
-    already * laid aside*  the * old self*  at the day of our
-    salvation. Romans 6:6a
- 
- 
-    1) The ** <u>old</u>**  self (also called the old man) is your
-    old identity; it is who you were in Adam.
- 
- 
-    2) When you were born, you were born into the wrong family. You were born
-    in ** <u>Adam</u>** ; therefore, before salvation you were
-    identified with fallen Adam.
- 
- 
-    3) In your original hopeless relationship with Adam, God rejected you.
-    Ephesians 1:1-3
- 
- 
-    4) Then at the moment you were born again, you * laid aside*  the old
-self. Your old rejected self was crucified with Christ and ceased to    ** <u>exist</u>** . Romans 6:6a
- 
- 
-a) Here * laid aside*  APEKDUOMAI means to completely    ** <u>undress</u>** . APO means away from and EKDYO means
-    stripped off. It is likely that Paul coined this word since it is not found
-    in Greek writings previous to the time of Paul.
- 
- 
-    b) The word * laid aside*  APEKDUOMAI in this verse is different from
-    the word ** * <u>put</u>* ** *  off*  APOTITHEMI used
-    in verse 8.
-    <br/>
-    <br/>
- 
- 
-c) In verse 8 we were told to * put off*  specific sins but the word    * laid aside*  here is not saying to put off the * old self* .
-Quite the contrary. It is stating this as an already accomplished    ** <u>fact</u>** .
- 
- 
-    d) The verb * laid aside*  is an aorist, middle voice participle
-    implying something that was already ** <u>done</u>**  at a point
-    in time in the past and was done to you not by you.
-    <br/>
-    <br/>
- 
- 
-    e) The ** <u>force</u>**  of the word * laid aside* 
-    describes the fact that at salvation God ripped off of you your old
-    identity in Adam (the * old self or old man* ) and therefore that
-    person no longer exists. Your * old self*  was crucified with Christ.
-    Romans 6:6
-    <br/>
-    <br/>
- 
- 
-    5) God stripped you of your * old self*  so that your sin nature (also
-    called the * flesh*  or * indwelling sin* ) might be rendered
-    powerless ** <u>over</u>**  you. Romans 6:6b, 7:17-20
-    <br/>
-    <br/>
- 
- 
-b. Colossians 3:9c – Since you have    * laid aside the old self with its evil practices*  (your old identity
-    in Adam no longer exists)* ,*  you should never go back and indulge
-    the ** <u>flesh</u>**  with either its sins of immorality or
-    sins of temperament. Colossians 3:5, 3:8-9a
- 
- 
-    1) Again, why should you and I as believers not sin? To answer this, Paul
-    predictably returned to a positional (identification) argument: “Because
-    when we ** <u>died</u>**  with Christ, we were stripped of our
-    old identity in Adam.” Romans 6:1-11
- 
- 
-    2) Colossians 3:5 –
-    * 
-Therefore consider the members of your earthly body as        ** <u>dead</u>** 
-    * 
-    …
- 
- 
-    3) Romans 6:2b – * How shall we who died to sin still live in it* ?
- 
- 
-    c. Colossians 3:10a – * And have put on the new self* … You have
-already been clothed with the ** * <u>new</u>* **     *  self.* 
- 
- 
-1) Your * new self*  is the new person you are    ** <u>now</u>**  in Christ. As far as God is concerned, the old
-    you is dead and gone. You have a new identity. You have * put on* 
-    ENDUO * the new self* . Romans 5:12-18
- 
- 
-    a) * Put on*  ENDUO means to ** <u>dress</u>**  in. It is a
-    compound word in Greek that literally means to sink into.
- 
- 
-    b) Here the word is an aorist, middle voice participle that shows that this
-    action already happened to you at a point in time in the past and it was
-done to you not by you. At the point of salvation,    ** <u>God</u>**  dressed you in your * new self* .
- 
- 
-    2) Your new self came into being the ** <u>moment</u>**  you
-    believed in Christ and were born again. 1 Peter 1:3, 23
- 
- 
-    3) At the moment of salvation, you were born again into the family of God.
-Through death you left Adam’s lineage and by    ** <u>rebirth</u>**  you were joined to Christ’s lineage. John
-    3:3-8
- 
- 
-4) You are now a new creation and eternally related to Jesus Christ by    ** <u>birth</u>**  (rebirth). 2 Corinthians 5:14-18, 1 Peter
-    1:3, 23
- 
- 
-    5) Since you have * put on the new self* , don’t indulge in the sins
-    of the ** <u>flesh</u>** .
- 
- 
-    d. Colossians 3:10b –
-    * 
-Put on the new self        ** who is being renewed to a true knowledge** 
-    * 
-… Your * new self* , or the new you, is designed by    ** <u>God</u>**  to be refreshed and renewed on an ongoing
-    basis. Romans 7:22, 2 Corinthians 4:16, Ephesians 4:22-24
- 
- 
-1) * …who is being renewed* … This renewal is something    ** <u>God</u>**  Himself does to us, and it is something He
-    desires to do on a continual and ongoing basis.
- 
- 
-    2) * …to a true knowledge… * This literally reads “which is being
-renewed ** * in* **     *  ** <u>true</u>**  knowledge* .” In other words, as you
-    personally fellowship with Christ, you will daily be renewed in your
-    beliefs. 2 Corinthians 3:18; 2 Peter 1:3, 3:18
- 
- 
-e. Colossians 10c –    * …according to the image of the One who created him* . God planned
-    for you to live the Christian life by needing consistent, ongoing, personal
-    and intimate fellowship with ** <u>Jesus</u>**  Christ.
- 
- 
-1) God designed the * new self*  to constantly    ** <u>be</u>**  refreshed and renewed into Christ’s likeness. As
-    this happens, you grow. 2 Corinthians 3:18
- 
- 
-    2) If you continually live according to the flesh, committing the sins
-    listed above, you are ** <u>not</u>**  going to grow in the true
-    knowledge of Christ and you will not daily be refreshed or renewed.
-    Ephesians 4:17-24
- 
- 
-    3) You need a consistent walk of fellowship with Jesus Christ because it is
-    only then that you are refreshed, encouraged and edified in this life. Of
-    course, this growth ** <u>starts</u>**  with understanding your
-    identification in Christ with His death and resurrection. Colossians 2:20;
-    3:1-4
- 
- 
-f. Colossians 3:11a –    * A ** <u>renewal</u>**  in which there is no distinction* 
-    … Lest we become self-righteous, Paul gave a list of diversities to show
-that there really are no differences among those who are    ** * in Christ* ** .
- 
- 
-    1) * There is no distinction between Greek and Jew…* 
- 
- 
-    a) The Greeks were the ** <u>social</u>**  elite class in New
-    Testament times. Paul said that what mattered was the * new self*  not
-    pop-culture.
- 
- 
-    b) The Jews were the ** <u>religious</u>**  elite of the day.
-    Jewish people felt they were the only people in the world who could know
-    God. Paul said that what mattered was the * new self*  not some
-    religious affiliation.
-    <br/>
-    <br/>
- 
- 
-    2) * There is no distinction between… circumcised and uncircumcised* …
-    Galatians 6:15
- 
- 
-    a) The circumcised referred to those who thought they had God's approval
-    because of the ** <u>ritual</u>**  of circumcision.
- 
- 
-b) Uncircumcised was a term of disparity given by circumcised Jews to the    ** <u>rest</u>**  of humanity. It designated them as less than
-    pure or holy and distanced from God.
-    <br/>
-    <br/>
- 
- 
-    3) * There is no distinction between… Barbarian, Scythian* …
- 
- 
-a) Barbarian was a term for anyone who did not    ** <u>speak</u>**  the Greek language. With time barbarian
-acquired the connotation of brutish or rude. What mattered was the    * new self*  not education or language.
- 
- 
-    b) Scythians were a ** <u>group</u>**  described by the Greek
-    historian Herodotus (BC 500) as a people who lived in wagons, offered human
-    sacrifices, scalped, and even sometimes carved up, the bodies of their
-    slain enemies.
- 
- 
-c) Herodotus said that the Scythians drank the    ** <u>blood</u>**  of their enemies and used their skulls for
-    drinking-cups.
- 
- 
-    d) Paul would say that what mattered was the * new self* , not being a
-    cut above the ** <u>savages</u>**  of this world.
-    <br/>
-    <br/>
- 
- 
-    4)
-    * 
-        There is no distinction between… ** slave**  and freeman
-    * 
-    …
- 
- 
-    a) Slaves were the ** <u>lowest</u>**  class of humans in Greek
-    society. Having this lot in life held great scorn. Paul stated that what
-    mattered was the * new man*  and not status or lack thereof.
- 
- 
-    b) In Greek society, freemen were considered to be real people, and they
-alone enjoyed rights. Paul would say that neither    ** <u>liberty</u>**  nor the lack of liberty is what matters
-    because in Christ we are all free. Galatians 5:1
- 
- 
-    5) Paul's concluded that for the Christian ** <u>none</u>**  of
-    these things held any significance on the one hand or impediment on the
-    other.
- 
- 
-    a) God sees only ** <u>two</u>**  kinds of people in this world:
-    those who are * in Christ*  and those who are still * in Adam* .
- 
- 
-    b) Within the body of Christ, we are all on ** <u>level</u>** 
-    ground. Galatians 3:26-28
- 
- 
-    g. Colossians 3:11b – * But Christ is all, and in all* . Christ, as
-    sovereign God, is adequate for ** <u>all</u>**  our needs.
- 
- 
-    1) * Christ ** is all** …*  Christ is everything to us, and
-    He is all that really matters. Because of Christ, God defines us as His
-    children. My level of education, my race, my social status or economic
-    state is not what defines me. Christ defines * who*  I am. Christ
-    alone ** <u>gives</u>**  me significance.
- 
- 
-2) * Christ is all ** and in all** …*  Christ lives in our    ** <u>lives</u>** . He lives IN every believer without
-    exception, no matter what our particular condition or status. Christ being
-    in us gives us true significance. Ephesians 4:4-5, Colossians 3:3
-    <br/>
-    <br/>
- 
- 
-    ** V. ** 
-    ** 
-        Colossians 3:12-17 – Changed Person: Living a New Life as a New Person
-    ** 
- 
- 
-    ** A. ** 
-    ** 
-        Colossians 3:12 – Paul made <u>three</u> amazing statements about the
-        new you.
-    ** 
- 
- 
-    1. * So, as those who have been ** chosen**  of God* … As a
-    believer in Christ you are a ** <u>chosen</u>**  EKLEKTOS
-    (called out one) of God. By means of the Gospel, God called you forth from
-    the vile world system in which you were mired down and ensnared. Colossians
-    1:21
- 
- 
-    a. This word EKLEKTOS is ** <u>never</u>**  used of unbelievers.
-    It is a doctrine that belongs exclusively to those who are saved.
- 
- 
-    b. This is a position of extreme ** <u>honor</u>**  and reflects
-    the special place we have in God’s sight because of our union with Christ,
-    God’s Elect One. Ephesians 1:4, 1 Peter 1:20
- 
- 
-    2. * So, as those who have been chosen of God, ** holy** * 
-    … You are one of God’s ** <u>holy</u>**  ones. God already
-    considers you to be set apart from the profane and godless world system. 1
-    Corinthians 1:30, 1 Peter 2:9
- 
- 
-    3.
-    * 
-So, as those who have been chosen of God, holy and        ** beloved** 
-    * 
-… Whether or not you accept it as a fact, you are a dearly    ** <u>loved</u>**  one of God. Romans 8:31-39, 1 John 3:1-2
- 
- 
-    a. * Beloved*  is a perfect tense participle emphasizing that not only
-    were you loved in the ** <u>past</u>** , you continue on in that
-    state in the present. God’s love for you is unconditional and unending.
- 
- 
-    b. Being chosen, holy and beloved, how should we live?
- 
- 
-    ** B. ** 
-    ** 
-        Colossians 3:12b-14 – In what should you dress the new you?
-    ** 
- 
- 
-    1. Colossians 3:12b –**  * Put on* ** 
-    * 
-        a ** <u>heart</u>**  of compassion, kindness, humility,
-        gentleness and patience
-    * 
-    … * Put on*  ENDUO is a middle voice aorist imperative that literally
-    means sink into. Figuratively we might say, “Let yourself be clothed in
-    these.”
- 
- 
-    a. * A heart of ** <u>mercy</u>** *  conveys compassion,
-    tenderhearted love, pity and tender mercy toward others.
- 
- 
-    b. * Kindness*  refers to ** <u>kind</u>**  feelings,
-    honest goodness and nonthreatening goodwill toward everyone in your world.
- 
- 
-    c. * Humility*  speaks of a ** <u>deep</u>**  sense of your
-    own personal smallness, being truly modest as opposed to being arrogant.
- 
- 
-d. * Gentleness*  conveys a mild-mannered disposition and    ** <u>quiet</u>**  strength.
- 
- 
-e. * Patience*  speaks of discipline, the    ** <u>power</u>**  to undergo any suffering, a reluctance to
-    avenge wrongs and endurance.
- 
- 
-f. It is God who provides these graces as a true    ** <u>garment</u>** , and our part is to allow them to become
-    ours.
- 
- 
-    1) Before listing off these ** <u>graces</u>** , Paul clarified
-    how to and how not to be godly.
- 
- 
-    2) These graces do ** <u>not</u>**  come through philosophy,
-    legalism, mysticism or asceticism.
- 
- 
-    3) As you walk by ** <u>faith</u>**  in Christ, the Spirit of
-    God will readily produce these in your life. Galatians 5:22-23
- 
- 
-    4) It is your ** <u>job</u>**  to actively present yourself to
-    God by faith and to not present yourself to the old nature. Romans 6:12-14
-    <br/>
-    <br/>
- 
- 
-2. Colossians 3:13a – ** * <u>Bearing</u>* **     *  with one another* … As God’s chosen, holy and loved ones, we are
-    also told to ** put up with**  one another.
-    <br/>
-    <br/>
- 
- 
-    3. Colossians 3:13b –
-    * 
-        And forgiving one another just as the Lord forgave you, so also should
-        you.
-    * 
-As God’s chosen, holy and loved ones, we are to ** put on** ,    ** put up with**  and ** put <u>right</u>**  all
-    relationships. Matthew 18:21-22
- 
- 
-a. * And forgiving one another… * Unforgiveness is such a    ** <u>killer</u>** . Unforgiveness leads to bitterness and
-    bitterness leads to more unforgiveness. It’s a cancer that will eat you
-    alive. Hebrews 12:15
- 
- 
-b.    * Just as the Lord forgave you, ** so also should you** .* 
-    We are told to forgive in the ** <u>same</u>**  way that Christ
-    has forgiven us. Luke 5:20-24; Romans 5:8, 17-19
- 
- 
-1) In the cross Jesus Christ personally forgave us    ** <u>more</u>**  sins that we committed against Him than could
-    possibly be committed against us by anyone else. Romans 4:7-8, 1 John 2:12
- 
- 
-    2) Jesus Christ eternally forgave all ** <u>sins</u>**  before
-    any one of us could possibly ask, and that forgiveness was applied to our
-    account the moment we believed. Romans 5:8; Ephesians 1:7; Colossians 1:14,
-    2:13
- 
- 
-    3) In light of ** <u>Christ’s</u>**  unconditional forgiveness
-    of all our sins, we should willingly forgive anyone against whom we have a
-    complaint. 2 Corinthians 5:19, Luke 23:34
-    <br/>
-    <br/>
- 
- 
-    4. Colossians 3:14 – Finally and
-    * 
-        beyond all these things put on ** <u>love</u>** , which is
-        the perfect bond of unity
-    * 
-    . As God’s chosen, holy and loved ones, we are to put on, over and above
-    all else, the mantle of love. Galatians 5:22a
- 
- 
-    a. Above all else, you should be wearing love as an overcoat.
-    * 
-But now faith, hope, love, abide these three; but the        ** greatest**  of these is ** <u>love</u>** .
-    * 
-    1 Corinthians 13:13
- 
- 
-b. Love is the superglue, the    * perfect ** <u>bond</u>**  of unity* , that holds us all
-    together as believers. Unity is love in action.
-    <br/>
-    <br/>
- 
- 
-    ** C. ** 
-    ** 
-        Colossians 3:15-17 – * Let*  some important things happen to the
-        new you
-    ** 
-     
- 
- 
-1. Colossians 3:15 – The first “let” command:    ** * Let* ** 
-    * 
-        the peace of Christ ** <u>rule</u>**  in your hearts, to
-        which indeed you were called in one body; and be thankful.
-    * 
- 
- 
-a. Colossians 3:15a – The command is to    ** <u>let</u>**  peace rule. Don’t stop or disallow peace from
-    ruling in your hearts.
- 
- 
-    1) When you have a “** <u>let</u>** ” command in Scripture, it
-    is typically translating a passive voice imperative verb in Greek.
- 
- 
-2) The imperative tense means you have a command to    ** <u>obey</u>** . The passive voice indicates that you are to
-    allow or permit it to happen, not to make it happen.
- 
- 
-    3) The difference might be understood in a mother who says to a squirming
-    child, “Let me ** <u>dress</u>**  you,” versus the command, “Get
-    dressed.”
- 
- 
-    4) Paul was saying that Christ’s peace wants to govern in your life and you
-are to permit it to happen. This is not a directive to    ** <u>create</u>**  peace; it is a directive to not stop the
-    peace of Christ from governing in your life.
-    <br/>
-    <br/>
- 
- 
-    b. Colossians 3:15b – Paul said for the Colossian
-    believers to ** <u>allow</u>**  the peace that Christ gives to
-    be a mediator BRABEUO (* rule* ) in their hearts.
- 
- 
-    1) We all know from personal experience that peace is not natural to the
-    human experience. We all struggle with ** <u>fears</u>** ,
-    anxiety and worries. Our hearts are prone to turmoil. Romans 3:17
- 
- 
-    a) The prophet Jeremiah exclaimed, “The human heart is
-    * 
-        …more ** <u>deceitful</u>**  than all else and is
-        desperately sick; who can understand it
-    * 
-    ?” Jeremiah 17:9
- 
- 
-    b) Psalm 139:23 –
-    * 
-Search me, O God, and know my heart; try me and know my        ** <u>anxious</u>**  thoughts; and see if there be any
-        hurtful way in me, and lead me in the way everlasting.”
-        <br/>
-        <br/>
-    * 
- 
- 
-    2) God has made Christ’s ** <u>peace</u>**  available to us.
-    Jesus told His disciples, “
-    * 
-        Peace I leave with you; My peace I give to you; not as the world gives
-        do I give to you. Do not let your heart be troubled, nor let it be
-        fearful
-    * 
-    .” John 14:27
- 
- 
-    a) God gives peace to those who entrust their ** <u>cares</u>** 
-    to Him. Philippians 4:6-7, 1 Peter 5:7
- 
- 
-    b) Isaiah 26:3 –
-    * 
-        The steadfast of mind You will keep in perfect peace, because he trusts
-        in ** <u>You</u>** 
-    * 
-    .
- 
- 
-    c) Jesus promised to give rest to all the ** <u>weary</u>**  who
-    trust in Him. Matthew 11:28-30
- 
- 
-    3) For these reasons, under the inspiration of the Spirit of God, Paul
-prevailed on the believers in Colossae to allow Christ’s    ** <u>peace</u>**  to arbitrate in their hearts.
-    <br/>
-    <br/>
- 
- 
-    c. Colossians 3:15b –
-    * 
-Let the peace of Christ rule…to which indeed you were called in        ** <u>one</u>**  body
-    * 
-    .
- 
- 
-    1) If we were each an ** <u>island</u>**  to ourselves it might
-    not matter if we enjoyed peace in our hearts. Turmoil would be considered a
-    private sin that doesn’t hurt anyone but us personally. This Scripture
-    indicates just the opposite. It does matter corporately if individually we
-    have peace or not.
- 
- 
-    2) As members of the body of Christ, we are to build each other up. We are
-    to not destroy each other nor cause others to ** <u>doubt</u>** 
-    the Lord. Ephesians 4:16
-    <br/>
-    <br/>
- 
- 
-    3) Your ** <u>sins</u>**  affect the body of Christ. If you are
-    worried, fretting and not trusting the Lord, it affects others around you.
-    Psalm 37:8
- 
- 
-4) Anytime you walk according to the flesh, it negatively impacts the    ** <u>body</u>**  of Christ. Galatians 6:7-8
- 
- 
-    5) A lack of peace communicates a lack of ** <u>trust</u>**  in
-    the goodness and sovereignty of God, and just like gossip or bitterness, it
-    becomes a virus that invades the whole church. 1 John 4:18
-    <br/>
-    <br/>
- 
- 
-    d. Colossians 3:15d –
-    * 
-        Let the peace of Christ rule …and be ** <u>thankful</u>** 
-    * 
-    . Psalm 100:4
- 
- 
-    1) To compliment the command to let the ** <u>peace</u>**  of
-    Christ rule, Paul further commanded the Colossians to be thankful. To be
-    continually thankful is a present tense command.
- 
- 
-    2) Thankfulness naturally springs forth as a response to the internal peace
-    that Christ ** <u>gives</u>** .
- 
- 
-    3) When we ** <u>fail</u>**  to count our blessings through
-    thanksgiving, bitterness naturally prevails in our thinking.
- 
- 
-    a) To counteract despair, Paul encouraged the Thessalonians saying, “
-    * 
-        In everything ** <u>give</u>**  thanks for this is God’s
-        will for you in Christ Jesus
-    * 
-    .” 1 Thessalonians 5:18
- 
- 
-    b) Giving thanks * in everything*  includes verbal appreciation for
-    the good, the bad and the ** <u>ugly</u>** . Romans 5:3
-    <br/>
-    <br/>
-    <br/>
- 
- 
-    2. Colossians 3:16-17 – Paul’s second “let” command:
-    * 
-        Let the ** <u>Word</u>**  of Christ richly dwell within you
-    * 
-    …
- 
- 
-    a. Colossians 3:16a –
-    * 
-        Let the Word of Christ richly ** <u>dwell</u>**  within you
-    * 
-    is an opulent statement.
- 
- 
-    1) The word ** * <u>dwell</u>* **  ENOIKEO is a compound
-    word made up of EN meaning in and OIKEO to dwell. It means to inhabit as in
-    a residence. Figuratively it communicated the idea of influencing by
-    proximity.
-    <br/>
-    <br/>
- 
- 
-    2) The question could be asked, “What will ultimately influence your heart
-and mind?” Paul commanded the Colossian believers to    ** <u>allow</u>**  Christ's Word to influence their hearts.
- 
- 
-    a) Let the Word of Christ dwell richly in you means God wants you to allow
-    Christ’s words to ** <u>invade</u>**  your life in such a
-    meaningful way that they end up changing you. 2 Corinthians 3:18
- 
- 
-    b) God is not satisfied with Christ’s words simply being in your mind in an
-academic way; He wants them to have a profound    ** <u>impact</u>**  on your life. James 1:22-24
- 
- 
-    c)
-    * 
-        Let the Word of Christ richly ** <u>dwell</u>**  within you…
-    * 
-can essentially be understood as a synonym for    * be filled with the Spirit*  as seen in a comparison of Ephesians
-    5:18-21 with Colossians 3:16-17.
-    <br/>
-    <br/>
- 
- 
-    3) In Ephesians 3:15-17, Paul made this issue a matter of prayer. He prayed
-that Christ Himself might influence them by being completely at    ** <u>home</u>**  in their lives.
-    <br/>
-    <br/>
- 
- 
-b. Colossians 3:16c-17 – When the Word of Christ    ** <u>richly</u>**  dwells within you, it is in essence Christ
-    at ease, residing in your life. Ephesians 3:17, 5:18-21
- 
- 
-1) Colossians 3:16c –    * With all wisdom ** <u>teaching</u>**  one another…* 
-    First of all, having the Word of Christ at home in your heart will
-revolutionize your way of teaching.    ** Your message will be changed** . Proverbs 10:31-32, 31:26
- 
- 
-    a) To ** <u>teach</u>**  is to pass on truth in an ordered
-    manner so that God’s people can be edified. 2 Timothy 4:2
- 
- 
-b) Teaching is typically a positive method of communicating the    ** <u>truth</u>**  to others. Having the Word of God abound in
-    your life gives you a constructive message. Proverbs 2:6, 1 Timothy 4:13
- 
- 
-2) Colossians 3:16b  – …    * with all wisdom… ** admonishing**  one another* .
-Secondly, with the Word of Christ presiding over your life,** your way of correcting others will <u>change</u>**     ** dramatically** .
- 
- 
-a) When the words of Christ dwell in you richly, you are then ready to    ** <u>warn</u>** , rebuke and correct others in all wisdom as
-    necessary. Proverbs 2:6
- 
- 
-    b) Fellow believers do not always eagerly receive admonishment but by
-letting the words of Christ abound in your heart,    ** <u>God</u>**  will empower you in this corrective ministry.
- 
- 
-    3) Colossians 3:16e  – Thirdly, having the Word of
-Christ dominant in your life**  will change your tune** . Your    ** <u>singing</u>**  to God will be affected.
- 
- 
-    a) You’ll be singing with ** <u>psalms</u>** . Written to be
-    sung with a stringed instrument like the harp, psalms PSALMOS were Israel’s
-    songs of worship. The book of Psalms was a collection of the most common
-    songs of Israel. Psalm 42 “As the Deer” is an example of a psalm we sing
-    today.
- 
- 
-    b) You’ll be singing with ** <u>hymns</u>** . Before
-    Christianity, hymns HUMNOS were anthems, sacred songs or ballads sung to
-    commemorate heroes, gods or conquerors. Songs like “How Great Thou Art”
-    fall into this genre. Some have dubbed these types of songs high praise.
- 
- 
-    c) You’ll be singing with ** spiritual <u>songs</u>**  or
-    spiritual odes. ODE is the Greek word for song (Rev. 5:9). Greek odes were
-    poems that were sung. Typically odes expressed deep feelings. Praise and
-    worship music would most aptly fit this category.
- 
- 
-    d) You’ll be * singing …** <u>with</u>**  thankfulness* .
-    The starting point of true worship is gratitude.
- 
- 
-    e) You’ll be * singing …in your ** <u>hearts</u>** *  and
-    not just with your lips. True worship flows out of the heart. Letting the
-    Word of Christ reside in your heart will produce genuine worship.
- 
- 
-    f) You’ll be * singing …to God* . With the Word of Christ prevailing
-    in your heart you will not be singing for the guy in the next pew. You’ll
-    be singing for God’s sake, God’s ** <u>ears</u>**  and God’s
-    glory alone.
-    <br/>
-    <br/>
- 
- 
-    4) Colossians 3:17a – Fourthly, with the Word of Christ ruling in your
-    heart ** your work ethic will be altered** . You’ll learn to
-    labor for ** <u>God’s</u>**  glory and not man’s hollow praise.
- 
- 
-    a) When he said, “* Whatever you do in word or deed* ,” Paul was
-emphasizing how the Word of Christ in our hearts will influence    ** <u>all</u>**  our ** actions** . This shows that
-    compartmentalization or Sunday Christianity is pure hypocrisy.
- 
- 
-b) When Paul said ** * <u>do</u>* **     *  all in the name of the Lord Jesus* … he showed the true motivation
-we are to have all day, every day. This emphasizes how our    ** attitudes**  can be transformed as the Word of Christ
-    saturates our thinking.
- 
- 
-    (i) In an effort to protect their ** <u>image</u>**  many
-    Christians are not honest and transparent. They go through the motions of
-    spirituality to look good on the outside, but their motivations are wrong.
- 
- 
-(ii) When we simply go through the motions of the Christian life instead of* doing all in the name of the Lord Jesus*  in order to    ** <u>please</u>**  God, we deceive others, but even more
-    disastrously we cheat ourselves of the real purpose of life, bringing glory
-    to God. 2 Peter 1:8-11
-    <br/>
-    <br/>
- 
- 
-5) Colossians 3:17b – Fifthly, as the Word of Christ permeates our thinking** our appreciation for the <u>Lord</u> will change** .    * Giving thanks through Him to God the Father* . We’ll develop an
-    attitude of gratitude.
-    <br/>
-    <br/>
-    <br/>
- 
- 
-    ** VI.** 
-    ** 
-        Colossians 3:18-4:1 – Changed Relationships Through the Word of Christ
-    ** 
- 
- 
-    ** A. ** 
-    ** 
-        Colossians 3:18 – Teaching for the believing wife (Eph. 5:22-24, 33;
-    ** 
-    ** 1 Pet. 3:1-6)** 
- 
- 
-    1. General comment
- 
- 
-    a. What Paul taught is in stark contrast to paganism in which the husband
-    was typically lord of the household and considered above the mundane tasks
-    of running a ** <u>home</u>** . The daily duties and
-    responsibilities of the home rested on wives and slaves.
- 
- 
-b. Conversely, in Christianity, although the husband is the    ** <u>head</u>**  of the home, the daily responsibilities for
-    the household depend on both the husband and wife.
- 
- 
-    2. Colossians 3:18 – Teaching for the Christian wife
- 
- 
-a. Colossians 3:18a – ** * Wives* **     * , be subject to your husbands* … The biblical standard is for wives
-    to voluntarily subject themselves to their ** <u>own</u>** 
-    husbands.
- 
- 
-    1) In Paul’s teachings on the Christian family in Colossians, it is
-    noteworthy that he gave only ** <u>one</u>**  verse of
-    instruction directly to wives.
- 
- 
-    2) Paul presented the role of the Christian ** <u>wife</u>**  in
-    a straightforward, uncomplicated manner. We do well to follow his example.
- 
- 
-b. Colossians 3:18b – * Wives**  be subject** * …* Be subject*  HUPOTASSO a compound word that was standard    ** <u>military</u>**  jargon. There is no weakness conveyed in
-    this expression at all.
- 
- 
-    1) This word HUPOTASSO means to willingly put yourself in full battle array
-    as though prepared for ** <u>war</u>** . The Christian wife is
-    to array herself battle-ready, under the authority of her husband.
- 
- 
-    a) There is no greater form of ** <u>faith</u>**  than when a
-    wife willingly entrusts herself to God by entrusting herself to the
-    leadership of a fallen man like her own husband.
- 
- 
-    b) Submission is truly an act of faith or ** <u>trust</u>** . Is
-    the wife willing to trust the Lord and take her stand under the authority
-    of her husband? That is biblical submission.
-    <br/>
-    <br/>
- 
- 
-    2) Biblical submission does ** <u>not</u>**  mean mindlessness.
-    The word submission implies that there will be differing opinions. In
-    moments of disagreement when a decision must be made, God calls for the
-    wife to willingly trust her husband’s decision.
- 
- 
-    3) There is ** <u>nothing</u>**  demeaning about biblical
-    submission. The Christian wife is to submit to her husband in the same way
-    Christ submits to His Father. We would never consider Jesus demeaned by His
-    willing subjection to the Father. 1 Corinthians 3:23, 11:3; Matthew 26:39,
-    42
-    <br/>
-    <br/>
- 
- 
-c. Colossians 3:18c –    * Wives, be subject ** to your husbands** * … This verse is
-    not teaching that women should submit to ** <u>men</u>**  in
-    general.
- 
- 
-    1) This does not speak of an inferior position, status or significance.
-    Wives are fellow heirs with their husbands of the grace of God. (1 Pet.
-    3:7) Women have equal status and ** <u>value</u>**  in the body
-    of Christ with men. Galatians 3:28
- 
- 
-    2) This is also ** <u>not</u>**  teaching that women cannot hold
-    public offices or be the president of a corporation. There is nothing like
-    that implied in this verse.
- 
- 
-3) This is teaching that the believing wife of her own** <u>will</u>**  is to choose to subject herself to    ** her**  own husband.
- 
- 
-    d. Colossians 3:18a – An important understanding of a believing wife’s duty
-is incrusted in the statement    * as is fitting ** <u>in</u>**  the Lord* .
- 
- 
-1) * As is fitting*  ANEKO means appropriate or    ** <u>suitable</u>** .
- 
- 
-2) * In the * Lord speaks of the daughter of God, who because she    ** <u>belongs</u>**  to the Lord, submits to her own husband.
-    Indeed, in like manner, Christ, her supreme example, willingly subjected
-    Himself to the Father.
- 
- 
-    a) When a believing wife ** <u>willingly</u>**  and actively
-    submits to her own husband, it is greatly honoring to Christ.
- 
- 
-    b) In Titus 2:5, speaking of the wife of the deacon, Paul further
-    illustrated this:
-    * 
-Being subject to their ** <u>own</u>**  husbands,        ** so that the word of God will not be dishonored** 
-    * 
-    .
- 
- 
-    c) The believing wife who understands God’s ** <u>order</u>** ,
-    plan and purpose for her in marriage knows that her ultimate happiness is
-    found only in willingly fulfilling God’s design.
-    <br/>
-    <br/>
-    <br/>
-    <br/>
- 
- 
-3. Ephesians 5:22-24, 33 – To complement our study concerning the believing    ** <u>wife</u>**  we will now add Paul’s parallel teaching for
-    wives from the book of Ephesians.
- 
- 
-a. Ephesians 5:22 – Here again we see the biblical rule:    * Wives be subject to your ** <u>own</u> ** husbands* .
- 
- 
-    1) Here the command is essentially the same as in Colossians 3:18, with the
-addition of the ** <u>concept</u>**     * to your ** own**  husbands* .
- 
- 
-    2) This is not a command for wives to submit to men in general, but rather
-specifically and very exclusively to their    ** * <u>own</u>* ** *  husbands* .
-    <br/>
-    <br/>
-    <br/>
- 
- 
-    b. Ephesians 5:33 – Paul further expanded on the command of submission to
-include ** <u>respect</u>**  saying, “    * And the wife must see to it that she respects her husband.* ”
- 
- 
-    1) Proverbs 12:4 says, “
-    * 
-        An excellent wife is the crown of her husband, but she who shames [him]
-        is like rottenness in his bones.
-    * 
-    ” A woman who disrespects her husband ** <u>shames</u>**  him.
-    This should never be true of the believing wife.
- 
- 
-    2) Proverbs 31:12 and 23 state, “
-    * 
-        She does him good and not evil all the days of her life …her husband is
-        known in the gates, when he sits among the elders of the land.
-    * 
-    ” When a believing wife respects her husband, he will be confident and hold
-    his head ** <u>high</u>**  in everyday circumstances.
-    <br/>
-    <br/>
- 
- 
-    3) Instead of being ** <u>fearful</u>**  and seeking to control
-    her world, a believing wife would be wise to transfer her well-being to her
-    husband and entrust herself to his care. This part of respecting her
-    husband will bring peace to her own heart.
- 
- 
-    c. In Ephesians 5:23a Paul went on to give an overarching principle for
-    submission: * For the husband is the ** <u>head</u>**  * 
-    (God-ordained authority)*  of the wife* .
- 
- 
-    1) To be the ** <u>head</u>**  implies not only leadership but
-    also accountability and responsibility, two things that most men are not
-    naturally inclined to do well.
- 
- 
-    2) For Eve back in the Garden of Eden, Adam was a colossal failure in
-    leadership. If you are under a less than perfect, or even unspiritual, man,
-this will be an ongoing challenge to your walk of    ** <u>faith</u>**  as a woman of God. God will give you grace as
-    you trust in Him. Luke 1:45
-    <br/>
-    <br/>
- 
- 
-    d. In Ephesians 5:23 Paul added that the believing wife should subject
-    herself to her own husband because God ordained the Christian marriage to
-    be a ** <u>model</u>**  of Christ and His bride. The church’s
-    subjection to Christ parallels the role of the Christian wife toward her
-    husband.
-    <br/>
-    <br/>
- 
- 
-    e. Ephesians 5:24 –
-    * 
-        But as the church is subject to Christ, so also the wives ought to be
-        to their husbands in everything
-    * 
-    . The believing wife should be subject to her own husband in every way just
-    as the ** <u>church</u>**  is called to be subject to her head,
-    Jesus Christ, in all things.
-    <br/>
-    <br/>
-    <br/>
- 
- 
-    4. 1 Peter 3:1-6 – Peter also taught on the ** <u>role</u>**  of
-    the Christian wife. Let’s consider his teaching.
- 
- 
-    a. 1 Peter 3:1a –
-    * 
-        In the ** <u>same</u>**  way, you wives, be submissive…
-    * 
-    The phrase * in the same way*  refers back to Christ’s example of
-    resolute perseverance in the midst of the difficulties of life and death. 1
-    Peter 2:21-25
- 
- 
-b. 1 Peter 3:1a – The instruction is: …    * wives, be submissive to your own husbands* .
- 
- 
-    1) Peter and Paul had the ** <u>same</u>**  basic command for
-    wives: Be submissive.
- 
- 
-2) We will observe that Peter used a different rationale for    ** <u>why</u>**  the believing wife should be submissive.
-    <br/>
-    <br/>
- 
- 
-    c. 1 Peter 3:1b-2 – Let’s consider ** <u>Peter’s</u>**  reason
-    for willing submission.
- 
- 
-    1) 1 Peter 3:1b-2 –
-    * 
-        So that even if any of them are disobedient to the word, they may be
-        won without a word…
-    * 
-    Peter encouraged submission from believing wives because he concluded that
-even a disobedient-to-the-Word husband could be    ** * <u>won</u>* **  over for God without the wife even
-    opening her mouth.
- 
- 
-    2) 1 Peter 3:2 –
-    * 
-        …by the behavior of their wives, as they observe your chaste and
-        respectful behavior.
-    * 
-    The quiet manner of a wife speaks ** <u>volumes</u>** . Sadly
-    some believing women speak through every way except through a quiet spirit.
- 
- 
-    d. 1 Peter 3:3-4a – Speaking to wives Peter added, “
-    * 
-        Your adornment must not be merely external…but let it be the hidden
-person of the heart, with the imperishable quality of a        ** <u>gentle</u>**  and quiet spirit.
-    * 
-    ”
- 
- 
-    1) Although Jesus was gentle, meek and lowly, He was in no way a pushover
-    or ** <u>weak</u>** . Jesus was very sure of Himself and
-    confident, yet He resigned Himself completely to do His Father’s will.
-    <br/>
-    <br/>
- 
- 
-    2) Proverbs 31:30 states that c
-    * 
-        harm is deceitful and beauty is ** <u>vain</u>** , [but] a
-        woman who fears the LORD, she shall be praised.
-    * 
- 
- 
-    a) When a ** <u>woman</u>**  allows outward appearance to
-    dominate her, she has difficulty focusing on what truly matters.
- 
- 
-    b) The women of the world operate under the illusion that maintaining
-external beauty is central to happiness. The truth is that** <u>true</u>**  attractiveness comes from the internal beauty    * of a gentle and quite spirit* .
-    <br/>
-    <br/>
- 
- 
-3) The believing wife who walks according to God’s    ** <u>model</u>**  as seen in these verses will be a blessing to
-    everyone, especially to her husband and children.
-    <br/>
-    <br/>
-    <br/>
-    <br/>
- 
- 
-    e. 1 Peter 3:4b-6 – Relying on an Old Testament illustration, Peter
-    continued his teaching on the ** quiet <u>power</u>**  of the
-    submissive wife.
- 
- 
-    1) 1 Peter 3:4b – God esteems as ** <u>priceless</u>**  a
-    believing wife’s gentle and quiet spirit.
-    * 
-With the imperishable quality of a gentle and quiet spirit,        ** which is precious in the sight of God** .
-    * 
- 
- 
-    2) 1 Peter 3:5 – In the Old Testament, the matriarchs of the faith adorned
-    themselves by willing subjection to their husbands.
-    * 
-        For in this way in former times the holy women also, who hoped in God,
-        used to ** <u>adorn</u>**  themselves, being submissive to
-        their own husbands;
-        <br/>
-        <br/>
-    * 
- 
- 
-    3) 1 Peter 3:6a – Sarah’s faith in God exceeded her fears and allowed her
-to ** <u>submit</u>**  to Abraham.    *  Just as Sarah obeyed Abraham, calling him lord.* 
- 
- 
-    a) It is a ** <u>fearful</u>**  thing to submit to another human
-    being, especially to a fellow sinner.
- 
- 
-    b) ** <u>Sarah</u>**  was an amazing example of a woman who
-    struggled with her faith, i.e., laughing at God’s promise, while in the
-    same moment meekly honoring her very imperfect husband, Abraham, referring
-    to him as, “* My lord* .” Genesis 18:12-15
- 
- 
-    4) 1 Peter 3:6b – Just as Abraham is the father of all who believe God’s
-    Word, Sarah is the mother of all wives who submit to their husbands without
-    being vanquished by fear.
-    * 
-        And you have become her ** <u>children</u>**  if you do what
-        is right without being frightened by any fear.
-    * 
- 
- 
-    a) Since this command to submit to your husband is God’s command, you can
-    be sure that if by ** <u>faith</u>**  you obey God, He will
-    indeed take care of you and your children. You need not fear. You will have
-    God’s blessing. Psalm 56:11
- 
- 
-    b) With that said, if a husband puts his wife into a harmful or sinful
-    situation, the wife has the right to ** <u>obey</u>**  God over
-    and above her husband. In such a situation she has the right to refuse to
-    submit. Exodus 1:17; Daniel 6:13; Acts 4:19, 5:29
-    <br/>
-    <br/>
-    <br/>
- 
- 
-    ** B. ** 
-    ** 
-        Colossians 3:19 – Teaching for the believing husband (Eph. 5:25-33, 1
-        Pet. 3:7)
-    ** 
- 
- 
-1. Colossians 3:19 – Paul gave two commands to the Christian    ** <u>husband</u>** .
- 
- 
-a. Colossians 3:19a – Paul's first command was    ** <u>positive</u>** : * Husbands love your wives* .
- 
- 
-1) The command for husbands to love their wives is clear and    ** <u>simple</u>** .
- 
- 
-    2) Proverbs 30:21-23 makes a powerful statement:
-    * 
-        Under three things the earth trembles, under four it cannot bear up: a
-servant who becomes king, a fool who is full of food,        ** an <u>unloved</u> woman who is married** , and a
-        maidservant who displaces her mistress.
-    * 
- 
- 
-    3) The biblical command to love one’s wife was extraordinary in a world
-where wives were often considered property and marriage a thing of    ** <u>social</u>**  necessity, not love.
- 
- 
-    4) Ever since the first century, ** <u>love</u>**  has been the
-    Christian buzzword. Even today the command to love your wife easily becomes
-    a cliché. Yet the command is not to be taken lightly.
-    <br/>
-    <br/>
- 
- 
-    5) A believing husband cannot properly love without the enablement of the
-    Spirit. You ** <u>cannot</u>**  love your wife by mere human
-    determination. 2 Corinthians 3:5
- 
- 
-    a) The word for love used here is AGAPAO. This is a Spirit-produced
-    all-give-no-demand type of love. Galatians 5:22
- 
- 
-b) Biblical love is a dynamic pursuit in which a husband actively    ** <u>trusts</u>**  the Lord to love his wife through Him.
-    Colossians 1:8, Romans 15:30
- 
- 
-    b. Colossians 3:19b – Paul's ** <u>second</u>**  command was
-negative in nature, addressing a grave problem in many men:    * Husbands* …* do not be embittered against them* .
- 
- 
-    1) Simply put, the Christian husband must ** <u>never</u>** 
-    treat his wife unkindly.
- 
- 
-2) The word translated * embittered*  PIKRAINO speaks of bitterness,    ** <u>anger</u>** , exasperation or irritability.
- 
- 
-    a) Interestingly, this command is in the passive voice indicating that you
-    are never to allow passive aggression to ** <u>surge</u>**  up
-    within you and spill over toward your wife.
- 
- 
-b) The command being in the passive voice speaks against    ** <u>innate</u>**  bitterness. Some husbands will argue that a
-    down-in-the-mouth attitude is just the way they are and they cannot help
-    it. A husband’s bitter attitude should never be projected onto his wife.
- 
- 
-3) This command must not be downplayed. Bitterness is a severe scourge in    ** <u>many</u>**  Christian marriage relationships.
- 
- 
-    a) Sadly, this type of treatment of a wife destroys the very longings a
-    husband has to have a supportive wife. A wife cannot be supportive under
-    such ** <u>duress</u>** .
- 
- 
-    b) Harsh or vindictive treatment feeds a wife’s insecurities concerning her
-    husband’s ** <u>love</u>**  and acceptance of her.
- 
- 
-4) Paul gave no exceptions to this command. He gave a clear directive    ** <u>against</u>**  being bitter toward your wife, no
-    exceptions. There is never any good reason for the Christian husband to be
-    hostile or harsh toward his wife.
-    <br/>
-    <br/>
- 
- 
-    2. Ephesians 5:25-33 – In the parallel passage of Ephesians 5 Paul not only
-gave the command for husbands to love their wives, but also added    ** <u>two</u>**  supporting principles on how to do so.
- 
- 
-a. The need for a believing husband to love his wife is repeated    ** <u>three</u>**  times in nine verses. It is interesting that
-    the command is repeated three times. Could it be that men have a problem
-    with this duty?
- 
- 
-1) Ephesians 5:25 –    * Husbands, ** <u>love</u> your wives** * …
- 
- 
-    2) Ephesians 5:28 –
-    * 
-        Husbands ought also to ** <u>love</u> their own wives**  as
-        their own bodies
-    * 
-    …
- 
- 
-    3) Ephesians 5:33 –
-    * 
-Each individual among you also is to        ** <u>love</u> his own wife**  even as himself
-    * 
-    …
- 
- 
-    b. Ephesians 5:25-27 – The ** first**  supporting principle Paul
-gave in this passage for how a husband is to love his wife is …    * just as Christ loved the ** <u>church</u>** * .
- 
- 
-1) Ephesians 5:25a –    * Just as Christ loved the ** <u>church</u>** …*  Christ
-    loves the church based on grace, therefore His love for the church is
-    unconditional and eternal.
- 
- 
-    a) Christ incessantly intercedes on ** <u>behalf</u>**  of His
-    church. John 17:20-26, Romans 8:34, Hebrews 7:25
- 
- 
-    b) Christ straightforwardly ** <u>reveals</u>**  Himself and His
-    plan to the church. 1 Corinthians 2:6-10, Ephesians 3:3-5, Colossians
-    1:26-27
- 
- 
-    c) Christ provides rest and ** <u>shares</u>**  the burden of
-    life with each of us individually in the church. Matthew 11:28-30
-    <br/>
-    <br/>
- 
- 
-2) Ephesians 5:25b – * Just as Christ* …    * gave himself up for her* . Christ’s love for the church is a
-    completely ** <u>self</u>** -sacrificing love. Christ gave His
-    life for her.
- 
- 
-    a) Just as faith manifests itself through visible works, so also love is
-    seen through ** <u>actions</u>** . The way to communicate love
-    to your wife is through tangible sacrifices for her benefit. John 3:16
- 
- 
-    b) In order for a Christian husband to give himself up for his wife just as
-    Christ gave Himself up for the ** <u>church</u>** , his love
-    must come from divine origin not from feeble human effort.
- 
- 
-    c) The type of love a wife needs ** <u>comes</u>**  from a
-    husband who lives by grace and dependence on the Lord.
-    <br/>
-    <br/>
- 
- 
-    3) Ephesians 5:26 – What is Christ’s purpose in unconditionally loving His
-    church?
-    * 
-        So that He might sanctify her, having cleansed her by the washing of
-        water with the ** <u>word</u>** 
-    * 
-    .
- 
- 
-    a) Just as Christ sanctifies and cleanses His church, Christian husbands
-    ought to ** <u>take</u>**  responsibility for the spiritual
-    well-being of their wives (and families).
- 
- 
-    b) A believing husband should be ** <u>filled</u>**  with the
-    Word himself because only then will he be able to properly communicate it
-    to his wife and children.
- 
- 
-    4) Ephesians 5:27 – What is Christ’s ultimate goal in his love for the
-    Church?
-    * 
-That He might present to Himself the church in all her        ** <u>glory</u>** , having no spot or wrinkle or any such
-        thing, but that she would be holy and blameless.
-    * 
- 
- 
-    a) A Christian husband should ** <u>teach</u>**  his household
-    with the goal of seeing his wife and family live holy and blameless lives.
- 
- 
-b) This kind of goal requires investment and the same selfless    ** <u>love</u>**  that Christ demonstrates towards His church in
-    sacrificing and continually working for her good.
- 
- 
-    c) It is easy for a husband to think ** <u>only</u>**  of
-    himself and of his personal success in life. God calls the believing
-    husband to go beyond and be nurturing in his love for his wife as Christ is
-    for His church.
-    <br/>
-    <br/>
- 
- 
-    c. Ephesians 5:28-33 – The ** second**  supporting principle
-Paul gave for how husbands are to love their wives is    ** * as their own <u>bodies</u>* ** .
- 
- 
-    1) Ephesians 5:28 – We know that one of the top priorities of every human
-    is to take ** <u>care</u>**  of his or her own body.
-    * 
-        So husbands ought also to love their own wives as their own bodies. He
-        who loves his own wife loves himself
-    * 
-    .
- 
- 
-    a) God’s command to you as a believing husband is for you to provide for
-and protect your wife as spontaneously and with as much    ** <u>urgency</u>**  as you take care of yourself.
- 
- 
-    b) This level of love is impossible ** <u>apart</u>**  from
-    divine enablement, so look to God in faith for this kind of love. Loving in
-    this way is sure to make an incredible impact on your wife. Romans 2:4,
-    Ephesians 2:7
- 
- 
-    2) Ephesians 5:29 – We know that Christ loves the church deeply
-    and even now lives for her good.
-    * 
-        For no one ever ** <u>hated</u>**  his own flesh, but
-        nourishes and cherishes it, just as Christ also does the church.
-    * 
-    John 13:34, Ephesians 5:2
- 
- 
-    a) When you are hungry, you get something to ** <u>eat</u>** .
-    When you are thirsty, you get something to drink. When you are tired, you
-    go to bed and get some sleep.
- 
- 
-    b) When you are upset, you turn to things that provide you comfort. When
-    your life is threatened, you protect yourself at all costs. That’s the
-    natural human ** <u>way</u>**  of being and that’s how believing
-    men are to care for their wives.
- 
- 
-3) Ephesians 5:30 – Christ loves us individually …    * because we are members of His ** <u>body</u>** * .
- 
- 
-a) Just like a person nourishes and cherishes his    ** <u>own</u>**  body, Christ nourishes and cherishes us because
-    we are members who make up his body.
- 
- 
-    b) In the next three verses, the apostle Paul explained how this concept
-applies to a Christian marriage and a husband’s responsibility to    ** <u>love</u>**  his wife as he loves himself.
- 
- 
-    4) Ephesians 5:31 – Paul quoted the key verse in the Bible that initially
-    established the institution of marriage.
-    * 
-        For this reason a man shall leave his father and mother and shall be
-joined to his wife, and        ** the two shall become one <u>flesh</u>** 
-    * 
-    . Genesis 2:24
- 
- 
-    5) Ephesians 5:32 – The mystery of two different people melding together to
-    form ** <u>one</u>**  body through marriage is a great mystery.
-    * 
-        This mystery is great; but I am speaking with reference to Christ and
-        the church.
-    * 
- 
- 
-    6) Ephesians 5:33 – Although it is a great mystery, the fact that a husband
-    and wife are one flesh is the reason a husband should love his wife to the
-    same degree he loves himself.
-    * 
-Nevertheless, each individual among you also is to love his        ** <u>own</u>**  wife even as himself
-    * 
-    .
- 
- 
-    a) Rather than seeing his wife as a separate ** <u>entity</u>** 
-    , a husband needs to clearly understand that he and his wife are one.
-    Whatever he does toward her is ultimately done toward himself.
- 
- 
-b) For this reason he should love his wife as    ** <u>himself</u>** , because after all, the two of them in
-    God’s eyes are one and the same.
-    <br/>
-    <br/>
-    <br/>
- 
- 
-    3. 1 Peter 3:7 – Peter ** <u>also</u>**  taught on the
-    responsibilities of the Christian husband.
- 
- 
-    a. 1 Peter 3:7a – Peter's first ** <u>counsel</u>**  was that
-    husbands should*  …live with [their] wives in an understanding way* .
- 
- 
-    1) Peter did not say you must fully understand your wife. He said to live
-    with your wife in an understanding ** <u>way</u>** . How should
-    a husband live with his wife? What kind of understanding should a husband
-    have?
- 
- 
-a) Husbands need to appreciate the fact that by God’s    ** <u>design</u>**  women do not think the same as men. That of
-    course is a very good thing in marriage. Our world would be very one
-    dimensional without the female perspective. Every husband needs his wife’s
-    point of view.
- 
- 
-b) Although a husband should actively study his wife by engaged    ** <u>listening</u>** , he will never fully understand all her
-    perspectives. At the same time, a believing wife’s insights are very much
-    needed by her husband.
- 
- 
-    c) If a believing husband knows his wife’s mood swings, worries, triggers,
-    needs, likes and dislikes, he can become a huge blessing to her. Instead of
-    reacting negatively, he can ** <u>learn</u>**  to act in
-    proactive love.
-    <br/>
-    <br/>
- 
- 
-    2) In summary, listen carefully because you ** <u>want</u>**  to
-    understand and get to know your wife. As you do, you will know what she
-    likes and doesn’t like and be able to cherish her in a way that is
-    meaningful and speaks love to her.
-    <br/>
-    <br/>
- 
- 
-    b. 1 Peter 3:7b – Some people have misunderstood Peter’s next advice to
-    husbands. ** * <u>Live</u>* ** 
-    * 
-with your wives in an understanding way,        ** as with someone weaker, since she is a woman** 
-    * 
-    . Let’s interpret this statement.
- 
- 
-1) The intent of Peter in this statement is not some    ** <u>macho</u>**  man concept that women are inferior to men.
- 
- 
-    2) Peter is not saying that the wife is a ** <u>vessel</u>**  of
-    disgrace to be disregarded. Quite the contrary.
- 
- 
-    3) Peter’s statement implies that just as with a valuable vessel, you ought
-    to give greater attention to the way you ** <u>treat</u>**  her.
-    When the words “fragile” are written across a package, it does not mean the
-    package is less valuable, in fact it more often means quite the contrary.
- 
- 
-4) When a husband believes his wife is of great    ** <u>value</u>** , he will treat her accordingly.
-    <br/>
-    <br/>
-    <br/>
-    <br/>
- 
- 
-c. 1 Peter 3:7c – Peter concludes his teaching to husbands saying, “    ** * Show her honor* ** 
-    * 
-        as a fellow ** <u>heir</u>**  of the grace of life, so that
-        your prayers will not be hindered.
-    * 
-    ”
- 
- 
-    1) * Show her ** <u>honor</u>** …*  reiterates our
-    interpretation of the fact that Peter was not teaching some Christian form
-    of chauvinism. The wife is to be honored by the believing husband. Among
-    religions, only biblical Christianity provides dignified respect for wives.
-    <br/>
-    <br/>
-    <br/>
- 
- 
-    2) * As a ** fellow <u>heir</u>**  of the grace of life…* 
-    A believing wife is a fellow heiress of God’s grace.
- 
- 
-a) In God’s economy of grace, male and female are    ** <u>equal</u>** . The ground at the foot of the cross is
-    level.
-    * 
-        There is neither Jew nor Greek, slave nor free, male nor female, for
-        you are all one in Christ Jesus.
-    * 
-    Galatians 3:28
- 
- 
-    b) There is ** <u>unity</u>**  when a husband honors his wife by
-    loving her as he loves himself and a wife respects her husband and submits
-    to his love and leading.
- 
- 
-    c) In this way husbands and wives function as one unit as they raise their
-    families and serve the ** <u>Lord</u>** .
-    <br/>
-    <br/>
-    <br/>
- 
- 
-    3) * So that [their] prayers may not be ** hindered** …* 
-Peter’s directive to the Christian husband to treat his wife as    * a fellow heir of the ** <u>grace</u>**  of life… * was
-    very pragmatic, so that they could have an effective and unencumbered
-    prayer life.
- 
- 
-    a) Your wife is a ** <u>fellow</u>**  member of the body of
-    Christ. She is God’s child just as you are, therefore she has equal access
-    to the throne of grace in believing prayer. John 13:34, 35
- 
- 
-b) Sadly, when a believing husband does not give proper    ** <u>honor</u>**  to the wife, their fellowship with God and
-    each other gets hurt and their prayers go unanswered.
-    <br/>
-    <br/>
- 
- 
-    ** C. ** 
-    ** 
-        Colossians 3:20 – Teachings for believing children (Eph. 6:1-3)
-    ** 
- 
- 
-    1. Colossians 3:20 – * Children, be obedient to your parents…*  To
-    believing children Paul gave ** <u>one</u>**  small command with
-    huge implications. Proverbs 6:20
- 
- 
-a. Colossians 3:20a – * Children, be obedient… * The word    * obedient*  HUPAKOUO is a compound word made up of HUPO meaning under
-    and AKOUO meaning to ** <u>hear</u>**  or listen.
- 
- 
-1) In a literal sense, * obey*  HUPAKOUO means to    ** <u>listen</u>**  with submission or to hear in subjection.
- 
- 
-2) By implication, this command means Christian children are to    ** <u>heed</u>**  their parents’ commands as being under their
-    authority.
- 
- 
-3) The command to obey is ** <u>straightforward</u>** . The verb    * obey*  is in the present tense, active voice and imperative mood.
- 
- 
-a) The present tense means that as a believing child you should obey    ** <u>right</u>**  away, not wait till you feel like it. As the
-    saying goes, “Delayed obedience is disobedience.”
- 
- 
-    b) The active ** <u>voice</u>**  means that the obedience is to
-    be a proactive response.
- 
- 
-c) Lastly the imperative mood makes * obey*  a    ** <u>direct</u>**  command from God, commanding the Christian
-    child to positively comply.
- 
- 
-b. Colossians 3:20 –    * Children, be obedient ** to your parents** * . Notice the
-    plural word * parents*  here. The command is for the believing child
-    to be obedient to ** <u>both</u>**  parents. Obviously broken
-    homes make this difficult, but the spirit of this verse can be honored as
-    the believing child trusts God.
- 
- 
-    c. Colossians 3:20 –
-    * 
-Children, be obedient to your parents        ** in <u>all</u> things** …
-    * 
- 
- 
-    1) Children are to obey their parents in ** <u>every</u>**  way.
- 
- 
-    a) When a child is told to study, clean up, brush teeth, wash dishes, or
-anything else around the house, it is his or her job to obey    ** <u>right</u>**  away.
- 
- 
-    b) Obedience in all things is the biblical ** <u>duty</u>**  of
-    every believing child.
- 
- 
-    2) At this point there is usually a question about unconditional obedience.
-What if your parents ask you to do something that is clearly    ** <u>wrong</u>** ? What is the Christian young person to do in
-    such a situation?”
- 
- 
-    a) If your parents ask you to steal, lie, or ** <u>break</u>** 
-    one of God’s commands, you are to obey God rather than your parents. This
-    would clearly be the exception not the rule. Acts 5:29
- 
- 
-b) For a parent to ask a child to sin is rare, but it    ** <u>might</u>**  happen. In such cases you, as a believer in
-    Christ, would obey God’s Word above the command of your parents, even if
-    you were punished for it. As you honor the Lord, He will help you in
-    difficult situations. (Study Daniel 3)
- 
- 
-    d. Colossians 3:20 –
-    * 
-Children, be obedient to your parents in all things,        ** for this is well-pleasing to the <u>Lord</u>** .
-    * 
- 
- 
-    1) The word * well-pleasing*  EUARESTOS means fully agreeable. This
-    means that God ** <u>loves</u>**  it when Christian children
-    obey their moms and dads.
- 
- 
-2) Young believer, God wants you to obey this command by    ** <u>faith</u>**  not feelings. It is His command to you and
-    there is eternal value for you as you obey. You need to trust that whatever
-    God commands you to do is best and good for you, and most of all it is
-    pleasing to God.
-    <br/>
-    <br/>
- 
- 
-    3) Positive responses to God’s mandate will not only benefit you in the
-    short term but will also set your life on a ** <u>path</u>**  of
-    positive growth. Deuteronomy 5:16, Proverbs 6:20-23
- 
- 
-4) Submission to authority is one of the most important things you can    ** <u>learn</u>** . It will not only bless you personally but
-    will also help you in the future in your community, job, church, ministry,
-    marriage and family. Proverbs 3:21-23, Exodus 20:12
-    <br/>
-    <br/>
-    <br/>
-    <br/>
- 
- 
-    2. Ephesians 6:1-3 – Let’s consider another passage in the New Testament
-    concerning Christian ** <u>children</u>** .
- 
- 
-    a. Ephesians 6:1 – Paul essentially gave the ** <u>same</u>** 
-command to the Ephesian children as to the Colossians when he said, “    * Children, obey your parents in the Lord, for this is right.* ”
- 
- 
-    1) Ephesians 6:1a – * Children obey… * Here we hear the same basic
-    command to ** <u>obey</u>**  your parents restated.
-    <br/>
-    <br/>
- 
- 
-2) Ephesians 6:1b – Paul added the phrase, “    * In the ** <u>Lord</u>** * ,” to his command. This phrase
-    sometimes creates questions.
- 
- 
-    a) This does not mean that you are to obey your parents only if they are
-    Christians, as some have concluded. The command to obey has nothing to do
-    with whether or not your ** <u>parents</u>**  are believers. You
-    must obey them regardless of their spiritual state.
- 
- 
-    b) So what does * in the Lord*  mean? * In the Lord*  and as a
-believer are synonymous statements. * In the Lord*  means because you    ** <u>belong</u>**  to God.
- 
- 
-    c) Of course all children ought to obey their parents, but Paul and the
-    apostles never sought to ** <u>correct</u>**  the unsaved
-multitudes. Their focus was always specifically on those who are    * in the Lord* , speaking specifically of believers.
- 
- 
-3) Ephesians 6:1c – We have the phrase …    * for this is ** <u>right</u>** * .
- 
- 
-a) Simply put, this means that this is your Christian    ** <u>duty</u>** , or the right thing to do. God’s will for the
-    young believer is obedience to parents.
- 
- 
-    b) While the command to obey is for ** <u>minors</u>** , the
-    directive to honor your parents remains constant for life. Exodus 20:12
- 
- 
-    c) Once you get married, your loyalty is to change from your parents to
-    your spouse. Implicitly the command to obey ends there, however as
-    believers we should never ** <u>stop</u>**  honoring our
-    parents. Genesis 2:24
-    <br/>
-    <br/>
- 
- 
-    b. Ephesians 6:2 – Paul reiterated his command to Christian children by
-    quoting from the Ten Commandments. ** * <u>Honor</u>* ** 
-    * 
-        your father and mother, which is the first commandment with a promise
-    * 
-    .
- 
- 
-    1) Unlike the command to obey, this command to honor our parents must be
-    remembered until ** <u>death</u>** .
- 
- 
-    2) It is interesting that the apostle did not tell children to honor their
-    parents if they ** <u>deserve</u>**  it. All believers are to
-    honor their parents because that is God’s will for them.
- 
- 
-    c. Ephesians 6:3 – The command to honor our parents comes with a blessed
-    promise:
-    * 
-So that it may be well with you, and that you may        ** <u>live</u>**  long on the earth.
-    * 
- 
- 
-    1) In the wisdom of God, He not only gave children the commands to obey and
-to honor their parents, but above and beyond, he gave    ** <u>two</u>**  enormous incentives for faithful compliance.
- 
- 
-    a) First, he promised that life would go ** <u>well</u>**  for
-    the child who honored his or her parents.
- 
- 
-b) Second, that child would go on to live a long    ** <u>life</u>**  on the earth. Proverbs 3:1-2, 4:10
- 
- 
-2) We probably all know of individuals who honored their parents but    ** <u>died</u>**  young. Conversely we probably also know of
-    some people who were dishonoring to their parents and lived to be very old.
-    Why?
- 
- 
-a) Simply put, situations like these are exceptions, not the    ** <u>general</u>**  rule. The general principle remains that
-    those who honor their parents have long prosperous lives while rebellion
-    shortens a life.
- 
- 
-    b) Proverbs 3:1-2 –
-    * 
-My son, do not forget my teaching, but let your heart        ** <u>keep</u>**  my commandments; for length of days and
-        years of life and peace they will add to you.
-    * 
- 
- 
-    c) Your decision by faith to honor your parents will set you on a path to
-    blessing in ** <u>life</u>** . Proverbs 12:28
- 
- 
-    3) Conclusion: Children are not ** <u>able</u>**  to obey this
-    command consistently and with a proper attitude by human determination
-    alone.
- 
- 
-    a) Believing children do well to trust the Lord for the strength to obey
-and honor their parents. Without God’s enabling    ** <u>grace</u>**  even the simplest commands are impossible.
-    John 15:4-5
- 
- 
-b) Young people, in your relationship with your parents you need to    ** <u>trust</u>**  God to give you the desire and the power to
-    honor and obey with a good attitude. Philippians 2:12-13
-    <br/>
-    <br/>
-    <br/>
- 
- 
-    ** D. ** 
-    ** 
-        Colossians 3:21 – Teaching for believing parents (Eph. 6:4)
-    ** 
- 
- 
-    1. Colossians 3:21 –
-    * 
-Fathers, do not exasperate your children, so that they will not        ** <u>lose</u>**  heart
-    * 
-    . Paul commanded parents not to create ** discouragement**  in
-    their children.
- 
- 
-    a. Colossians 3:21a – ** * <u>Fathers</u>* **  (plural) can
-    legitimately be translated either dads or parents. In Hebrews 11:23 the
-    same Greek word is translated * parents* .
- 
- 
-1) From the context here in Colossians, it appears God is speaking to    ** <u>parents</u>** , both moms and dads, and not to dads (men)
-    only.
- 
- 
-    2) In Greek, the ** <u>first</u>**  word in a sentence often
-    receives the emphasis. Paul wanted to get the attention of parents on this
-    matter. Parents listen up and pay attention.
-    <br/>
-    <br/>
- 
- 
-b. Colossians 3:21b –* Do not exasperate your ** <u>children</u>** * .    * Exasperate*  ERETHIZO is a present tense command coupled with the
-    negation ME and means to stop provoking right away. The use of the present
-    tense command leads us to the conclusion that provocation by parents was
-    probably a current ongoing issue.
- 
- 
-1) The word * exasperate*  ERETHIZO literally means to arouse,    ** <u>incite</u>** , challenge, kindle, or to make passionate.
-    It can be either positive (2 Cor. 9:2) or negative. Colossians 3:21
- 
- 
-    2) Here * exasperate*  ERETHIZO connotes the idea of passion by a
-    direct challenge. For a ** <u>parent</u>**  to deliberately
-    impassion a son or daughter is an affront to this command.
- 
- 
-3) The following examples are all possible translations of the word* exasperate*  used in the negative sense; be    ** <u>hard</u>**  on, embitter, hassle, harass, irritate, make
-    resentful, nag, pick at, pick on, poke fun at, provoke, ride, or vex, to
-    name just a few.
- 
- 
-    4) Parent, you can so easily ** <u>wound</u>**  your child
-    without realizing it by constant nagging or pressure. Even in an effort to
-    do what is right, you could cause your child to have a broken spirit or
-    even give up on life.
-    <br/>
-    <br/>
- 
- 
-    c. Colossians 3:21c – Why not nag or ride our children in our parenting
-    style? So * that they may not ** <u>lose</u>**  heart* .
- 
- 
-    1) * Lose heart*  ATHUMOS comes from A negation and THUMOS fierceness
-    or ** <u>passion</u>** . Through provocation, parents can
-    literally take the fire (life) right out of their children.
- 
- 
-    a) A parent can unwittingly ** <u>cause</u>**  depression and a
-    desire to give up in a child by burdensome provocations to be better,
-    cooler, more athletic, more academic, or by comparisons with siblings,
-    downing him or her in public, unrealistic goals or just by simply not
-    listening.
- 
- 
-b) If your child is constantly discouraged, this could be a    ** <u>sign</u>**  that you have a major flaw in your parenting.
-    As a parent ask yourself if you are putting excessive pressure on your
-    child causing dejection and despondency?
-    <br/>
-    <br/>
- 
- 
-    2) To summarize, parents are to be careful not to provoke their children,
-sending them down the dark slippery slope of    ** <u>despair</u>** . Psalm 6
-    <br/>
-    <br/>
- 
- 
-    2. Ephesians 6:4 – Let’s consider Paul’s additional teaching on parenting
-from the book of Ephesians. Don’t be the ** <u>cause</u>**  of    ** rebellion**  in your child.
- 
- 
-    a. Ephesians 6:4a – * And, fathers * PATER … Like the
-instruction on parenting in Colossians, this command is for both    ** <u>parents</u>**  equally.
- 
- 
-b. Ephesians 6:4b –    * Do not provoke your children to ** <u>wrath</u>** * .
-    Similar to the command from Colossians 3:21 to not awaken passion in your
-    child, this command is against spurring your child on towards resentful
-    anger (rebellion).
- 
- 
-    1) The command is in the present tense, emphasizing that this was likely a
-    persistent ** <u>problem</u>**  in the church back then just as
-    it is in ours today.
- 
- 
-    2) Parents are told not to be the cause of anger in the life of their
-children. The fact that God gave this command is proof enough that parents    ** <u>easily</u>**  do this kind of thing.
- 
- 
-    3) In Ephesians, rather than causing our children to lose heart, we are
-    told not to provoke ** <u>our</u>**  children to anger or
-    rebellion. The extremes of ** implosion**  from discouragement
-    (Col. 3:21) or ** explosion**  from angry rebellion (Eph. 6:4)
-    can both be possible results of errors in parenting.
- 
- 
-    4) The word PARORGIZETE translated * provoke to wrath*  holds the
-    connotation of irritating someone to the ** <u>point</u>**  of
-    anger, or inciting to anger.
-    <br/>
-    <br/>
- 
- 
-    c. In summary, we see that parents are to be very careful not to cause
-    rebellion. By excessive pressure, hassling, harassing or nagging you can
-provoke your child to either despair or rebellion. So what    ** <u>are</u>**  you to do?
- 
- 
-    3. Ephesians 6:4 – Be the guiding influence in your child’s world. How?
- 
- 
-a. Ephesians 6:4c –    * But bring them ** <u>up</u>** * . Parents are challenged
-    to rear their children with purpose.
- 
- 
-1) First recognize it is ** your**  job as a parent to    ** <u>raise</u>**  your child. Principally that job does not
-    belong to the village, the school or the church. You are responsible before
-    God for your child’s rearing.
- 
- 
-    2) The word for * bring up*  EKTREPHO means to nourish. It actually
-    comes from a word that means fatten, ** <u>nurse</u>** , support
-    or feed. To * bring up*  or * nourish*  is a primal concept
-    inherent in love. 1 Thessalonians 2:7-8
- 
- 
-    3) In Ephesians 5:29 * nourish*  EKTREPHO is used to describe the
-    devoutness of men in ** <u>caring</u>**  for and protecting
-    their own bodies.
-    <br/>
-    <br/>
- 
- 
-b. Ephesians 6:4d – * But ** <u>bring</u>**  them up*     ** * in the discipline* ** * …* 
- 
- 
-1) The word * discipline*  PAIDEIA means    ** <u>training</u>** , especially as it relates to children.
-    Hebrews 12:5, 7, 11
- 
- 
-    2) In ** <u>Greek</u>**  culture a PAIDAGOGOS was a childhood
-    tutor who was responsible for the education and rearing of the children of
-    the wealthy. Galatians 3:24-25
- 
- 
-    3) Here in the book of Ephesians, Paul cut directly across the grain of the
-    culture of the day by putting the responsibility of child-training directly
-    on Christian ** <u>parents</u>**  rather than on tutors.
- 
- 
-    4) Christian parents are to be the tutors and trainers PAIDAGOGOS to give
-    correction to their ** <u>own</u>**  children. Deuteronomy 8:5;
-    Proverbs 19:18, 29:17; Hebrews 12:7
-    <br/>
-    <br/>
- 
- 
-    c. Ephesians 6:4e –
-    * 
-        But bring them up in the discipline ** and instruction** 
-    * 
-    …
- 
- 
-    1) The word * instruction*  NOUTHESIA literally means to place
-    instruction into the ** <u>mind</u>** . NUOS means mind and
-    TITHEMI means to put or to place.
- 
- 
-2) * Instruction*  is typically the positive or informative    ** <u>side</u>**  of training whereas * discipline* 
-    carries negative or corrective overtones. Instruction is more proactive
-    whereas discipline is more reactive.
- 
- 
-    3) You are to ** <u>walk</u>**  alongside your children and
-    disciple them in a step-by-step manner. You are not just to tell them what
-    to do. You are to show them how to live by your own example and through
-    thoughtful explanations. 2 Timothy 2:24-25
- 
- 
-    4) Yelling at your children or getting ** <u>upset</u>**  with
-    them when they make mistakes is called provoking, the very thing Paul
-    prohibited. That is not the way to train your children.
- 
- 
-5) You are to teach your children what the Word of God says and carefully    ** <u>explain</u>**  it to them in a way they can understand.
-    Explain to them why you do what you do and why you believe what you
-    believe. This is what is being communicated here. 1 Thessalonians 2:10-12
- 
- 
-    6) Many parents today have bought into the secular thought that you are to
-    only give your kids entertainment. Therefore they do not encourage them in
-the things of the Lord unless they can do it in a fun way. This is    ** <u>wrong</u>**  thinking.
- 
- 
-    d. Ephesians 6:4f –
-    * 
-But bring them up in the discipline and instruction        ** of the <u>Lord</u>** .
-    * 
- 
- 
-    1) Don’t lose the focus of Paul’s instruction here. Paul’s focus was not on
-the child but on the parent. He was teaching parents how to    ** <u>raise</u>**  children.
- 
- 
-    a) Paul called parents to have their ** <u>focus</u>**  on the
-    Lord. Deuteronomy 6:7
- 
- 
-b) You will only be successful as a parent to the degree you walk by    ** <u>means</u>**  of the wisdom of God’s Word and the power of
-    God’s Spirit. Romans 12:2, Philippians 1:9, Colossians 1:9-10
- 
- 
-    2) In wrap-up, our job as parents is to not discourage nor provoke our
-    kids. We are to positively raise them in the ** <u>ways</u>** 
-    of the Lord Jesus Christ in godly discipline and instruction. Genesis
-    18:19, Psalm 78:4
-    <br/>
-    <br/>
- 
- 
-    ** E. ** 
-    ** 
-        Colossians 3:22-25 – Teaching for believing employees (Eph. 6:5-8)
-    ** 
- 
- 
-    1. Colossians 3:22a – * Slaves* … The word * slave*  DOULOS is
-    the word for bondman or ** <u>servant</u>** .
-    <br/>
-    <br/>
- 
- 
-a. In Bible times, if you were a slave, you were either a slave by    ** <u>choice</u>**  or a slave by force. This term applied to
-    both groups. The average day laborer in those days was a slave.
- 
- 
-1) In the Roman Empire, during the first century, nearly one in    ** <u>five</u>**  people (approximately 12 million souls) were
-    said to have been slaves.
- 
- 
-2) As you might imagine, the Roman economy depended heavily on this    ** <u>pool</u>**  of forced-laborers.
- 
- 
-    3) Slaves were both ** <u>skilled</u>**  and unskilled. It was
-    not unusual for slaves to be lawyers, doctors, teachers, and other
-    important professions, jobs that today would be considered far above the
-    pay grade of slave labor.
- 
- 
-b. Even though legalized slavery is generally a thing of the** <u>past</u>** , these biblical principles readily apply to    ** Christian employees**  today. Since slaves constituted the
-    work force of the ancient world, to apply this passage to our work force
-    today is not a biblical stretch.
-    <br/>
-    <br/>
- 
- 
-2. Colossians 3:22b – * Obey*  is the standard    ** <u>word</u>**  we find in this passage for slaves, and for
-    our application, Christian employees. The believing employee’s mission is
-    to * obey [his or her] master.* 
- 
- 
-    a. The word * obey*  HUPAKOUO means HUPO under and AKOUO hear.
-    Biblical obedience means ** <u>listen</u>**  as a subordinate.
- 
- 
-    b. In Colossians 3:20 this ** <u>same</u>**  word is used for
-    children when they are commanded to obey their parents.
- 
- 
-c. This is a present, active, imperative command emphasizing the    ** <u>need</u>**  for believers to continually obey their
-    earthly masters.
-    <br/>
-    <br/>
- 
- 
-    3. Colossians 3:22c – Who is the employee to obey?
- 
- 
-    a.
-    * 
-        Obey**  <u>your</u>**  ** masters**  on earth
-    * 
-    … The believing slave needed to obey his or her earthly master. Today we
-    would encourage believing employees to faithfully comply with the
-    instructions of their secular employers.
- 
- 
-    b. * Obey your masters ** on <u>earth</u>** * … The Holy
-    Spirit probably added this to forbid Christian slaves from
-    self-emancipating based on the teaching that they had no master but God. 1
-    Corinthians 7:20-24
- 
- 
-    4. Colossians 3:22d-23 – We can discern ** <u>seven</u>** 
-    directives for slaves in this passage, and by way of application these
-    should be a part of every Christian’s work ethic.
- 
- 
-a. Colossians 3:22d – Be dependable:    * Obey… in ** <u>all</u>**  things* … A Christian worker
-    should obey always and in all ways. As we work, we are to willingly
-    complete whatever tasks we are given, unless in doing so we would be
-    breaking one of God’s laws.
- 
- 
-    b. Colossians 3:22e – Be diligent: * Obey… not with external service* 
-    … We are not to merely give an external ** <u>show</u>** . God
-    wants us to work diligently from a good attitude.
- 
- 
-c. Colossians 3:22f – Be faithful:* Obey…not as those who merely please men* … We are not to    ** <u>just</u>**  perform as people-pleasers.
-    <br/>
-    <br/>
- 
- 
-d. Colossians 3:22g – Be honest:    * Obey… with sincerity of ** <u>heart</u>** * … The word
-    translated * sincerity*  means uncomplicated. This directive counters
-    duplicity of heart and communicates the need for honesty and integrity on
-    the job.
- 
- 
-e. Colossians 3:22h – Be reverent:    * Obey… ** <u>fearing</u>**  the Lord* … We are to obey
-    based on a reverent fear of God. One day soon we are going to answer to
-    God, not man, about how we lived our secular lives.
- 
- 
-f. Colossians 3:23a – Be enthusiastic:    * Obey… ** <u>heartily</u>** …*  Whatever your task, work
-    at it enthusiastically from the heart. * Heartily*  has the thought of
-    working both cheerfully and hard at the same time.
- 
- 
-g. Colossians 3:23b – Be principled:    * Obey… as for the ** <u>Lord</u>**  and not for men.*  In
-    reality, as a believer, no matter what you do, you should be doing your
-    responsibilities to please and honor God not people.
-    <br/>
-    <br/>
- 
- 
-    5. Colossians 3:24-25 – Paul finished with a threefold motivation for
-    slaves (employees) to be ** <u>faithful</u>**  in their
-    obedience to their secular masters (employers).
- 
- 
-    a. Colossians 3:24a – Employees should give faithful obedience based on
-    knowledge of their ** <u>future</u>** .
-    * 
-        Obey knowing that from the Lord you ** will receive**  the
-        reward of the inheritance
-    * 
-    .
- 
- 
-    1) Obey because you ** <u>know</u>** , with all certainty, that
-    whether or not you are rewarded here, God, your real Master, has already
-    promised you an inheritance in heaven. This is not an “if” statement, it is
-    a promise.
- 
- 
-    2) The irony of this statement is that no ** <u>slave</u>** 
-    received any inheritance in Roman life. This would have been an almost
-    unbelievable statement to a slave in that day, but when embraced, it would
-    have dramatically changed his or her perspective on present sufferings and
-    on future glory. Hebrew 6:12
- 
- 
-    3) Even though Paul spoke this truth directly to believing slaves, we can
-    all ** <u>claim</u>**  this promise. All believers will receive
-    from the Lord the reward of the inheritance. This is a positional truth
-    with the promise of future glorification given as a ** fact** .
-    <br/>
-    <br/>
- 
- 
-    b. Colossians 3:24b – Employees should give faithful obedience based on
-knowing whom they are really serving. * Obey * …* knowing* …    * it is the Lord Christ whom you serve* … It is always so important to
-    understand that even in the secular realm we ultimately serve Christ and
-    not ** <u>man</u>** .
- 
- 
-    1) Notice that Paul encouraged slaves to look ** <u>past</u>** 
-    their earthly masters to the Lord Christ. This adjustment in focus would
-    ensure proper motivation in day-to-day labor.
- 
- 
-    2) The name for Jesus given here is * LORD CHRIST* . This is the only
-    place this title for Jesus appears in the Bible and it is significant
-    because a slave could fully identify with that phrase. As believers, slaves
-    had a ** <u>new</u>**  master. The * Lord Christ*  was
-    their true master now that they were believers.
-    <br/>
-    <br/>
- 
- 
-    c. Colossians 3:25 – Employees should give faithful obedience based on
-    knowledge of the immediate consequences. * Obey …* knowing…
-    * 
-        he who does ** <u>wrong</u>**  will receive the consequences
-        of the wrong which he has done, and that without partiality.
-    * 
- 
- 
-    1) Colossians 3:25a –
-    * 
-        He who does wrong will receive the consequences of the wrong which he
-        has done…
-    * 
-Notice Paul did not say that a slave would receive consequences    ** from the <u>Lord</u>** . That is not what this is saying.
- 
- 
-    a) We know that bad conduct on the part of the slave (employee) did not go
-    without disciplinary ** <u>action</u>**  in that day and age.
-    The book of Philemon is a great example of this fact.
- 
- 
-    b) Paul reminded slaves of their ** <u>present</u>**  reality,
-    which in many ways holds true of employees today.
-    <br/>
-    <br/>
- 
- 
-    2) Colossians 3:25b – * And that without partiality. * Paul gave a
-    very pragmatic reason to be faithful in service. Just as a slave master
-    would not let a slave off the ** <u>hook</u>**  for being
-    unfaithful just because he was a Christian, your employer is not likely let
-    you off the hook just because you are a believer.
- 
- 
-    a) At work, believers as well as unbelievers will receive the consequences
-    they deserve for ** <u>bad</u>**  performance.
- 
- 
-    b) Obviously this does not take away from the ** <u>truth</u>** 
-    of reward or loss of reward at the Judgment Seat of Christ for negligence
-    in time.
-    <br/>
-    <br/>
- 
- 
-    ** F. ** 
-    ** 
-        Colossians 4:1 – Teachings for believing employers (Eph. 6:9)
-    ** 
- 
- 
-    1. Colossians 4:1a – ** <u>Masters</u>**  KURIOS were slave
-    owners. Although slave owners are essentially outlawed in the world today,
-    this teaching clearly applies to business owners, employers and bosses who
-    are over today’s workforce.
- 
- 
-    a. Originally * master*  or * lord*  KURIOS was the word used to
-    describe the ** <u>gods</u>**  of the Greek pantheon. In the New
-Testament the word * master*  KURIOS is typically translated    * Lord*  when speaking of God, or*  master*  when speaking of
-    humans. Matthew 24:28
- 
- 
-    b. Unlike English where * master*  means one who is sovereign, or the
-    person of uncontested power and ownership, in the New Testament when KURIOS
-    is used of humans it means the person with ** <u>legal</u>** 
-    authority over his property and slave workforce.
- 
- 
-    c. In this passage, the word is specifically used for slave owners, but the
-    principles ** <u>apply</u>**  just as well to employers or
-    bosses in our day.
- 
- 
-    2. Colossians 4:1b – * Grant to your slaves justice and fairness* …
-    The mandate for employers is to * grant*  ** <u>two</u>** 
-    fundamental rights.
- 
- 
-a. Colossians 4:1b –* Masters**  grant**  to your slaves…*  The word    ** * <u>grant</u>* **  PARECHO is a present tense command
-    that means to furnish, present, afford or exhibit. This word stressed the
-    ongoing need of masters to provide for their workers.
- 
- 
-1) Clearly the master had the power to either provide or withhold    ** <u>good</u>**  from his subordinates.
- 
- 
-2) By way of application, God would have Christian employers grant (    ** <u>offer</u>**  or afford) their employees two rights.
- 
- 
-b. Colossians 4:1c –    * Masters grant… ** <u>justice</u>** …*  Paul instructed
-    believing masters to give justice to their workers.
- 
- 
-    1) Justice DIKAIOS comes from the word DIKE meaning correct in the
-fulfillment of ** <u>duties</u>** . In the New Testament    * justice*  came to mean correctness that accords with God’s standards
-    or requirements, not merely with the requirements of society.
- 
- 
-    2) Paul commanded that believing masters ** <u>treat</u>** 
-    their workers by God’s standards, not human standards. They were to be
-    objective and unbiased in their dealings with their workforce.
- 
- 
-    3) This would have been a radical change of thinking for Christian masters
-in Paul’s day. It should also affect how Christian employers treat their    ** <u>workers</u>** .
- 
- 
-    4) Because of a tendency the world over to be inequitable, government
-    agencies have been formed to regulate industry and enforce justice for
-employees. In light of Paul’s command here, a    ** <u>believing</u>**  employer should readily go above and
-    beyond the requirements of government.
-    <br/>
-    <br/>
- 
- 
-c. Colossians 4:1d –* Masters grant… ** <u>fairness</u>** …*  The word    * fairness*  ISOTES literally means likeness in proportions. By
-    implication * fairness*  means impartiality or equality.
- 
- 
-1) As believers we should realize that nationality,    ** <u>race</u>** , ethnicity, or any other supposed distinction
-    should never be a factor in how people are treated.
- 
- 
-    2) This verse fits very neatly with the last phrase in Colossians 3:25 that
-states, “* And that without partiality* .” Fairness    ** <u>equates</u>**  with impartiality.
- 
- 
-3) In light of this Scripture, Christian employers should seek to    ** <u>treat</u>**  their employees with equality.
-    <br/>
-    <br/>
-    <br/>
- 
- 
-3. Colossians 4:1e – ** * Knowing* **     *  that you too have a ** <u>Master</u>**  in heaven* .
-    Because of chapter breaks we sometimes lose continuity in our studies.
- 
- 
-    a. The phrase * and that without partiality*  in Colossians 3:25
-    neatly ** <u>ties</u>**  in with the spirit of this command to
-    Christian masters. They too served the * Lord Christ* .
- 
- 
-b. In terms of one’s standing in the church, masters were not    ** <u>over</u>**  the slaves they owned, and Paul reminded them
-    of that fact. Often in churches today wealthy employers and business owners
-    demand or receive respect above that of common workers in the body. This
-    contradicts the spirit of this teaching.
- 
- 
-    c. Christianity was totally radical in the first century world as it should
-be today. It was totally possible that a slave could have become an    ** <u>elder</u>**  in the church and his earthly master could
-    have become a sheep under his spiritual care.
-    <br/>
-    <br/>
- 
- 
-    4. Colossians 4:1f –
-    * 
-        Knowing that you ** <u>too</u>**  have a master in heaven
-    * 
-    . Paul sought to correct the motivations of Christian masters or employers.
- 
- 
-    a. The Christian employer has a heavenly onlooker, God, who judges and
-    observes all his ** <u>actions</u>**  toward his subordinates.
- 
- 
-    b. As a Christian employer, cognizance of the fact that God is your boss
-should cause you to relate to all your subordinates with    ** <u>equity</u>**  and equality. Philippians 4:5
-    <br/>
-    <br/>
- 
- 
-    5. In conclusion, Paul's ** <u>commands</u>**  to masters and
-    servants could be summarized in employee employer relationship as follows:
- 
- 
-    a. ** <u>Employers</u>** , keep in mind that God rules over you
-    just as you rule over your employees. God knows if you are just and fair in
-    your business practices or not. He expects impartiality.
- 
- 
-    b. ** <u>Employees</u>** , God asks you to genuinely obey your
-    boss. He expects you to work as though you were working for Christ not an
-    earthly boss, keeping in mind that one day Christ will bless you with an
-    inheritance that is out of this world.
-    <br/>
-    <br/>
- 
- 
-    ** VII. ** 
-    ** 
-        Colossians 4:2-7 – Changed Lives Through the Word of Christ
-    ** 
- 
- 
-    ** A. ** 
-    ** Colossians 4:2-4 – Refreshing our prayer lives** 
- 
- 
-    1. Colossians 4:2 – How should believers pray? Paul would say, “Pray
-    earnestly, watchfully, and gratefully.”
- 
- 
-a. Colossians 4:2a – * Devote yourselves to prayer* … We are to    ** <u>pray</u>**  with consistency. We are to be fervent in our
-    prayer lives.
- 
- 
-    1) ** * <u>Devote</u>* **  PROSKARTEREO carries the
-    overtone of perseverance or persistence. Six of the ten uses of this word
-    in the New Testament are in association with prayer. Acts 1:14, 2:46, 6:4;
-    Romans 12:12; Ephesians 6:18
- 
- 
-    2) Paul’s most fascinating use of the word * devoted*  PROSKARTEREO is
-    found in Romans 13:6 where it describes the unceasing activity of
-    government ** <u>tax</u>**  collectors. Just as tax collectors
-    did not (and do not) give up on their task of tax collecting, we should not
-    give up on our task of prayer.
- 
- 
-    3) * Devote*  is a present tense imperative showing that prayer for
-    the believer is to be a constant part of ** <u>life</u>** .
-    <br/>
-    <br/>
- 
- 
-    b. Colossians 4:2b – * Keeping ** <u>alert</u>**  in it* …
-    We are to be intentionally vigilant and watchful in prayer.
- 
- 
-1) To be * watchful*  GREGOREUO means to waken or    ** <u>rouse</u>**  from sleep. It has the idea of being ready
-    for danger or emergency, to be on the lookout.
- 
- 
-    2) The kind of prayer Paul wanted for the Colossians was vigilant prayer,
-    because he knew the ** <u>dangers</u>**  that surrounded them.
-    They were being bombarded by the heresies that he addressed in chapter two.
-    This was not the time to sleep; they needed to be on guard duty. Luke 21:36
- 
- 
-    3) When you rouse yourself you force yourself to be awake. That’s what is
-    being implied here. We can so easily take a laidback stance in our
-    Christianity, so Paul reminded the Colossian believers to instead be
-    wide-awake and on high ** <u>alert</u>**  in their praying.
-    <br/>
-    <br/>
- 
- 
-    4) Perhaps one of the greatest needs for all believers in their prayer
-    lives is to be spiritually ** <u>engaged</u>** . 1 Timothy
-    2:1-4, 1 Peter 4:7
- 
- 
-    a) Prayer for what is going on in our families, churches, communities,
-    lives and government is always a ** <u>top</u>**  priority for
-    us as believers. 1 Thessalonians 5:17
- 
- 
-    b) Being watchful implies specific and purposeful prayer. Through this
-    Scripture, the Holy Spirit is warning us not to be asleep, half-hearted or
-    vague in our prayer ** <u>lives</u>** . Ephesians 6:18
- 
- 
-    5) Do you realize the solemn importance of prayer?
-    <br/>
-    <br/>
- 
- 
-c. Colossians 4:2c – * With [an attitude of] thanksgiving* … An    ** <u>attitude</u>**  of heartfelt appreciation to God, should
-    overflow into thankfulness in our prayers.
- 
- 
-    1) True thankfulness or the lack thereof in our prayers is very revealing
-    of ** <u>where</u>**  we are in our spiritual growth.
- 
- 
-    a) Thankfulness shows your appreciation for what God has already done for
-    you in the ** <u>past</u>** . Colossians 1:3-4
- 
- 
-    b) Thankfulness shows your contentment and peace in accepting whatever God
-    has for you in the ** <u>present</u>** . Romans 5:3-5,
-    Colossians 4:12-13
- 
- 
-    c) Thankfulness shows your confidence in God and His sovereign control over
-    your ** <u>future</u>** . Only Christians can thank God in
-    advance for what He will do because we know that whatever the outcome, He
-    does everything well. Mark 7:37, John 11:41-43, Ephesians 6:18
- 
- 
-    2) Paul did not say to be thankful if all goes ** <u>our</u>** 
-    way. 1 Thessalonians 5:18
- 
- 
-    a) Even when the outcome seems less than desirable, we are assured by God
-    that He works all things together for our ** <u>good</u>** .
-    Romans 8:28, 31; Colossians 1:12
- 
- 
-    b) Have we learned to trust God regardless of the outcome of our prayers?
-    Ephesians 3:20-21
-    <br/>
-    <br/>
- 
- 
-    2. Colossians 4:3-4 – Even though Paul was a great missionary set apart by
-    God, he was keenly aware of his personal ** <u>need</u>**  for
-    prayer support. Paul knew that without God’s direct intervention he could
-    do nothing of eternal value. Acts 20:24, 2 Corinthians 3:4-5, 2
-    Thessalonians 3:1-2, 1 Timothy 1:12
- 
- 
-    a. Colossians 4:3a –
-    * 
-        Praying at the same time for us as well, that God will open up to us a
-        door for the word
-    * 
-. Paul asked the Colossians to pray for an open    ** <u>door</u>**  to speak forth God’s Word.
- 
- 
-1) If we were in prison, we’d also ask the Lord for an    ** <u>open</u>**  door, but it would be to escape, not to speak.
-    Acts 14:27
- 
- 
-    2) Instead, Paul’s petition was for evangelistic opportunities. We know of
-    at least ** <u>one</u>**  case where God answered this prayer in
-    Onesimus, the runaway slave from Colossae. Colossians 4:9, Philemon 1:10-13
- 
- 
-    b. Colossians 4:3b –
-    * 
-        So that we may ** <u>speak</u>**  forth the mystery of
-        Christ.
-    * 
-    God had commissioned Paul to make known the mystery of Christ. Paul asked
-    the Colossian believers to pray that God would open up opportunities to
-    accomplish this goal. Romans 1:14-17, 16:25; 1 Corinthians 9:16-17;
-    Philippians 1:18-20
- 
- 
-    c. Colossians 4:3c – * For which I have also been imprisoned* . Paul
-considered himself to be incarcerated because of the* mystery of Christ* . He willingly suffered for the Gospel’s    ** <u>sake</u>** . 2 Timothy 1:8, Hebrews 13:3
- 
- 
-    d. Colossians 4:4a – * That I may make it clear* … Paul also wanted
-them to pray for ** <u>clarity</u>**  in speaking the    * mystery of Christ* , the Gospel message. The mystery of Christ has
-    to be believed by the unsaved for justification and by the saved for
-    sanctification. Clarity in preaching is so important to accurate
-    understanding.
- 
- 
-    e. Colossians 4:4b – * In the way I ought to speak.*  The apostle Paul
-    asked for prayer that he would be ** <u>faithful</u>**  to the
-    task God had given him. What a testimony and what a challenge for us as
-    well. Ephesians 6:18-20
-    <br/>
-    <br/>
- 
- 
-    ** B. ** 
-    ** Colossians 4:5-6 – Revitalizing our public testimonies** 
- 
- 
-1. Colossians 4:5a –    * Conduct yourselves with wisdom toward outsiders* . Paul gave an
-    important command concerning the believer’s behavior before unbelievers. He
-    instructed believers to walk blamelessly ** <u>before</u>**  the
-    world.
- 
- 
-    a. We should understand that ** <u>our</u>**  testimony before
-    the world does indeed matter.
- 
- 
-    b. * Conduct yourself*  is a present tense active voice imperative
-    emphasizing that this should be ** <u>done</u>**  as a normal
-    part of everyday life.
- 
- 
-    c. * With wisdom*  is more than mere knowledge. Wisdom is divine
-    understanding that prompts us how to properly ** <u>apply</u>** 
-    what we know to our everyday situations. We desperately need God’s wisdom
-    as we order our lives before the world.
-    <br/>
-    <br/>
- 
- 
-    2. Colossians 4:5b-6 – Paul now pointed out three areas in which we should
-    live ** <u>wisely</u>**  before the world.
- 
- 
-    a. Colossians 4:5a – Be wise in your ** <u>walk</u>** . First,
-    we are to * make the most of the opportunity* . We are to snatch up
-    daily opportunities to minister to the world.
- 
- 
-    1) The phrase * making the most of*  EXAGORAZO literally means to buy
-out of or to redeem (as when something is purchased out from the    ** <u>market</u>**  place).
- 
- 
-2) This commercial term pictured the savvy shopper who seizes a    ** <u>deal</u>**  when he or she sees one. Just as a shopper
-    grabs a bargain at the right time, so the Christian is to seize
-    opportunities to share Christ with unbelievers.
- 
- 
-b. Colossians 4:6a – Be sharp in your ** <u>talk</u>** . Second,    * let your speech always be with grace, as though seasoned with salt* 
-    . We are to be wise in our interaction with the unsaved world.
- 
- 
-    1) Our speech should always …* be with ** <u>grace</u>** * 
-    . As a believer your communication before the world should be winsome at
-    all times. In this world a pleasant word spoken at the right time will give
-    you opportunities and open doors that lead to evangelistic opportunities.
-    Proverbs 15:23, 25:11
- 
- 
-    2) This world is an unsavory place. Your speech with unsaved friends and
-neighbors should be    * seasoned as it were with ** <u>salt</u>** * . Pack your
-    words with the undiluted flavor of the knowledge of our Lord Jesus Christ.
- 
- 
-c. Colossians 4:6c – Be ready, don’t ** <u>balk</u>** . Third, …    * so that you may know how you should respond to each person.*  Your
-    circumspect walk before the world will give you opportunities and God will
-    supply the words. James 1:5, 2 Timothy 4:17
-    <br/>
-    <br/>
- 
-===
-# VIII.  Colossians 4:7-18 – Closing Comments, Commendations and Concerns
- 
- 
-    ** A. ** 
-    ** Some general observations about the people Paul esteemed** 
- 
- 
-1. Paul mentioned all kinds of believers: Jews and Gentiles,    ** <u>male</u>**  and female, and slave and free. This
-    highlights the unity that exists in the body of Christ in spite of the
-    diversity. Ephesians 2:11-22, Galatians 3:26-28
- 
- 
-    2. ** <u>Each</u>**  of the people mentioned was significant in
-    some way to the Colossian church.
- 
- 
-    3. If Christ were writing a letter to your church, what would His comments
-    concerning you be? To God, these individuals were more than just a number.
-    Do you see yourself as more than a ** <u>number</u>**  to our
-    God?
- 
- 
-    ** B. ** 
-    ** 
-        Colossians 4:7-15a – Paul’s kind regards to and from individuals of
-        high esteem
-    ** 
- 
- 
-1. Colossians 4:7-8 – Tychicus’ ** <u>name</u>**  meant    ** fortunate** . True to his name, this brother was an opportune
-    and favorable messenger for Paul.
- 
- 
-    a. Colossians 4:7a – * As to all my affairs, Tychicus… * Tychicus was
-    a Gentile believer from the province of Asia and therefore he would have
-been familiar with the customs, mindset, culture and    ** <u>needs</u>**  of the Colossians believers. Paul made a wise
-    decision in choosing him to be the bearer of the Colossian letter. Acts
-    20:4
- 
- 
-    b. Colossians 4:7b –
-    * 
-        Our beloved brother and faithful servant and fellow bond-servant in the
-        Lord
-    * 
-    … As a beloved and faithful bondservant of Christ, Tychicus was considered
-    by Paul to be a dear ** <u>friend</u>**  and soul-mate in every
-    respect.
- 
- 
-    c. Colossians 4:7c – …* will bring you information* . These comments
-    would be reason to carefully ** <u>listen</u>**  to him upon his
-    arrival. Tychicus was going to share with them more information from Paul.
- 
- 
-    d. Colossians 4:8 –
-    * 
-For I have sent him to you for this very        ** <u>purpose</u>** , that you may know about our
-        circumstances and that he may encourage your hearts
-    * 
-    … Paul was sure Tychicus would answer their questions and encourage their
-    hearts. Ephesians 6:21; 2 Timothy 2:2, 4:12; Titus 3:12
-    <br/>
-    <br/>
- 
- 
-    2. Colossians 4:9 – Onesimus’ name meant ** useful** .
-    Interestingly he had been a worthless ** <u>slave</u>**  but
-    became ** useful**  to Paul in the ministry. Philemon 10-21
- 
- 
-    a. Colossians 4:9a – * And with him Onesimus* … Onesimus was a Gentile
-    believer from the ** <u>town</u>**  of Colossae. Colossians 4:12
- 
- 
-    b. Colossians 4:9b –
-    * 
-        Our faithful and beloved brother, who is ** <u>one</u>**  of
-        your number
-    * 
-    . Onesimus was a runaway slave who had been converted and changed by God’s
-    grace under Paul’s prison ministry. As a testament to the transforming
-    power of the Gospel, Paul now considered him to be a faithful and dear
-    brother. Philemon 16
- 
- 
-c. Colossians 4:9c –    * They will inform you about the whole situation here* . Onesimus was
-to be a traveling companion of Tychicus. He would turn himself over to his    ** <u>legal</u>**  owner, Philemon, when he arrived at Colossae.
-    Together with Tychicus, he would also report to the church concerning
-    Paul’s prison sufferings.
-    <br/>
-    <br/>
- 
- 
-3. Colossians 4:10-11 – Paul mentioned other important believers who also    ** <u>sent</u>**  their greetings to the church in Colossae.
- 
- 
-    a. Colossians 4:10a – Aristarchus’ name meant ** best ruler** .
-    Aristarchus was a Jewish believer from the city of Thessalonica in
-    Macedonia who had a ** <u>Greek</u>**  name. He was a fellow
-    believer who was suffering in chains together with Paul.
- 
- 
-    1) Aristarchus knew what it meant to ** <u>suffer</u>**  for
-    Christ. Once, in the city of Ephesus, he was seized by an angry mob during
-    a riot. Acts 19:29
- 
- 
-2) At the time of this writing, he was in prison for his    ** <u>faith</u>** . The word for fellow-prisoner means fellow
-    prisoner-of-war. This implied that he was arrested by sword as if taken in
-    war. Acts 27:2-4
- 
- 
-3) Paul told Timothy, “If we endure, we will also** <u>reign</u>**  with Him.” True to his name    ** Best Ruler** , in eternity Aristarchus’ suffering will surely
-    result in ** ruling**  authority. Acts 19:29, 20:4; 2 Timothy
-    2:12a
- 
- 
-    b. Colossians 4:10b – Mark’s name meant polite or ** shining** .
-Mark had been a rude quitter who became a ** bright shining**     ** <u>worker</u>** . Acts 12:25
- 
- 
-    1) Mark, also called John Mark, was the ** <u>cousin</u>**  of
-    Barnabas. He was the cause of the split in Paul and Barnabas’ missionary
-    team. Acts 15:37-39
- 
- 
-    2) By the ** <u>grace</u>**  of God, in the end Mark totally
-    turned around and became a faithful servant and a useful fellow worker of
-    the apostle Paul. 2 Timothy 4:11, Philemon 24
- 
- 
-    3) Mark ended up being the author of the gospel of Mark. Here Paul
-admonished the Colossians to welcome him should he    ** <u>come</u>** . Why?
- 
- 
-    4) It could be that they had heard of his previous dereliction of duty and
-    Paul was afraid they might ** <u>reject</u>**  him if he were to
-    visit.
-    <br/>
-    <br/>
- 
- 
-c. Colossians 4:11a –    * Jesus, who is called Justus, also sends greetings* . Justus' name
-    meant ** righteous** . Justus was a Jewish believer in Christ
-    who became one of Paul’s ** <u>fellow</u>**  workers. There are
-a few possibilities in Scripture for the identity of this    ** righteous**  man.
- 
- 
-    1) First, he may have been Joseph, called Barsabas (Justus), the runner-up
-    to being the replacement for ** <u>Judas</u>** . Acts 1:23
- 
- 
-2) Second, he may have been Titus Justus the Corinthian worshiper of    ** <u>God</u>** , who was likely a Jewish proselyte before His
-    faith in Christ. Acts 18:7
- 
- 
-    3) Third, an otherwise unknown Jewish ** <u>man</u>**  who was
-    neither of the above.
- 
- 
-    4) ** <u>Any</u>**  of these options would meet the
-    qualification of being Jewish.
-    <br/>
-    <br/>
- 
- 
-    d. Colossians 4:11b –
-    * 
-        These are the only ** <u>Jews</u>**  among my co-workers…
-    * 
-    For some unknown reason, Justus, Aristarchus and Mark were the only Jewish
-    Christians who were working together with Paul at the time of his
-    imprisonment in Rome.
- 
- 
-    e. Colossians 4:11c –*  For the kingdom of God…*  Paul was not saying
-    they were presently establishing the Kingdom, but he understood that the
-    work we do now in the ** <u>Church</u>**  Age is a contribution
-    to the coming Kingdom of God. Colossians 1:13
- 
- 
-    1) In 2 Timothy 4:18 Paul shed some light on this when he said, “
-    * 
-The Lord will deliver me from every evil deed, and will        ** <u>bring</u>**  me safely to his heavenly kingdom
-    * 
-    .” One day Paul would be taken to the future kingdom.
- 
- 
-    2) Also in Acts 14:22b Paul said, “
-    * 
-        Through many tribulations we must ** <u>enter</u>**  the
-        kingdom of God
-    * 
-    .” The kingdom is yet future and we will enter it.
- 
- 
-    f. Colossians 4:11b –*  And they have proved a comfort to me* . Paul
-    confessed that these three Jewish Christians had been a true encouragement
-    and ** <u>help</u>**  to him.
- 
- 
-4. Colossians 4:12-13 – Epaphras’ name meant charming or** lovely** . Epaphras was a prayer warrior with a pastor’s** <u>heart</u>** , and there is nothing more    ** lovely**  than that.
- 
- 
-    a. Colossians 4:12a –
-    * 
-        Epaphras, who is one of your number, a bondslave of Jesus Christ sends
-        you his greetings …
-    * 
-Epaphras was from the Colossian congregation and was very likely the key    ** <u>person</u>**  in the evangelism and establishment of the
-    church. Colossians 1:7
- 
- 
-b. Colossians 4:12b –    * [He is] always laboring earnestly for you in his prayers…*  Epaphras
-    was the ** <u>only</u>**  believer the apostle Paul ever singled
-    out as a prayer warrior.
- 
- 
-1) Prayer for their spiritual growth – He prayed …    * that [they] may stand perfect…*  This is similar in focus to Paul’s
-prayers for them in Colossians 1:9-12. Epaphras prayed for their    ** * perfection* ** , meaning that they would reach their
-    full ** <u>goal</u>** , be finished, and achieve all the
-    fullness that God wanted for them.
- 
- 
-    2) Prayer for their spiritual understanding – Epaphras also prayed that
-they’d be    * …** <u>fully</u>**  assured in all the will of God.*  The
-    issue of * full assurance of understanding*  concerning God’s will was
-    also a focus in Paul’s prayers for the Colossians. Colossians 1:9, 2:1-3
- 
- 
-    3) Why pray for these two issues? Why not pray for needs like better jobs,
-    better health, a better political climate, or financial security?
- 
- 
-4) Epaphras prayed this way simply because if God would    ** <u>grant</u>**  these two areas of spiritual growth and
-    understanding, he knew they would thrive and be fruitful for God’s sake and
-    glory regardless of their lot in life.
- 
- 
-    c. Colossians 4:13 –
-    * 
-        For I testify for him that he has a deep concern for you and for those
-        who are in Laodicea and Hierapolis
-    * 
-    . Epaphras had a ** <u>real</u>**  passion for the well-being of
-    the Colossians and their sister churches in the Lycos valley.
-    <br/>
-    <br/>
- 
- 
-5. Colossians 4:14 –    * Luke, the beloved physician, sends you his greetings* . Luke's name
-    meant ** light-giving** . Luke was a medical doctor who became a
-beloved companion of the apostle Paul on his journeys. He indeed    ** brightened**  Paul’s ** <u>life</u>**  with his
-    company. Luke was also a careful historian. He wrote the books of Luke and
-    Acts.
- 
- 
-    6. Colossians 4:14 – Demas' name meant ** popular** . Demas is
-    mentioned ** <u>three</u>**  times in the New Testament.
-    Although Demas was at this point a devoted worker, later, when it was no
-    longer ** popular**  or convenient to be a Christian, his love
-    for the world returned. Colossians 4:14, Philemon 24, 2 Timothy 4:10
- 
- 
-7. Colossians 4:15a –    * And also Nympha and the church that is in her house* … Nympha, a
-    sister in the Lord whose name meant ** bride,**  hosted a local
-congregation, the ** bride**  of Christ, in her    ** <u>home</u>** .
- 
- 
-    a. In those days, churches often met in ** <u>homes</u>** . For
-    Nympha to host the congregation in her home would have been a great honor
-    as well as responsibility. Romans 16:5, 1 Corinthians 16:19, Philemon 2
- 
- 
-    b. Church buildings were not utilized ** <u>until</u>**  around
-    the third century AD.
-    <br/>
-    <br/>
- 
- 
-    ** C. ** 
-    ** 
-        Colossians 4:15b-18 – Paul made some <u>farewell</u> statements.
-    ** 
- 
- 
-    1. Colossians 4:15b – A ** G** reeting to the churches of
-Laodicea: ** * <u>Greet</u>* **     *  the brethren who are in Laodicea.* 
- 
- 
-2. Colossians 4:16 – An ** O** bligation to    ** <u>read</u>**  the Word:
-    * 
-When this letter is ** read**  among you, have it also        ** read**  in the church of the Laodiceans and you, for your
-        part ** read**  my letter that is coming from Laodicea.
-    * 
-    The letter coming from Laodicea was probably the book of Ephesians that
-    would eventually make its way to Colossae.
- 
- 
-3. Colossians 4:17 – An ** O** rder for Archippus to    ** <u>fulfill</u>**  his ministry:
-    * 
-        Say to Archippus, “Take heed to the ministry which you have received in
-        the Lord, that you may fulfill it.”
-    * 
-    We do not know what ministry Archippus had, but he needed encouragement to
-    accomplish it. Sometimes we also need encouragement to do our
-    responsibilities.
- 
- 
-4. Colossians 4:18a – A ** D** elineation:** <u>Paul's</u>**  personal signature.    * I, Paul, write this greeting with my own hand* . This personal touch
-    was Paul’s way of preventing forgeries. In those days, this was sometimes a
-    problem. 1 Corinthians 16:21; 2 Thessalonians 2:2, 3:17
- 
- 
-5. Colossians 4:18b – A ** B** urden to share:    * Remember ** <u>my</u>**  imprisonment.*  Romans 12:15,
-    Hebrews 13:3
- 
- 
-6. Colossians 4:18c – A ** Y** earning for them to enjoy the    ** <u>grace</u>**  of God: * Grace be with you* . The
-    apostle Paul desired that God’s unmerited favor and undeserved kindness be
-    on them. Amen!
- 
