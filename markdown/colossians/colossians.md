@@ -1,28 +1,3 @@
-
-` `PAGE   \\* MERGEFORMAT 109
-
-![](Aspose.Words.a2be8293-f622-4b40-bd1c-c50c6cb4228f.001.jpeg)1-000.000
-
-
-
-
-
-
-
-
-
-
-![DM2special](Aspose.Words.a2be8293-f622-4b40-bd1c-c50c6cb4228f.002.png)![DM2special](Aspose.Words.a2be8293-f622-4b40-bd1c-c50c6cb4228f.002.png)
-
-![](Aspose.Words.a2be8293-f622-4b40-bd1c-c50c6cb4228f.003.png)
-
-
-
-
-
-
-===
-
 Copyright © **2018 by DM Multiplied, Inc** 
 
 All rights reserved.
@@ -169,7 +144,6 @@ Presentaciones Confusas del Evangelio						 95
 **Cinco Personas que Deberías Conocer 						 120**
 
 **Resultados de Vivir Consistentemente una Vida Carnal.			 126**
-**
 
 ===
 
