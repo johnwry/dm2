@@ -52,14 +52,8 @@ al <a href="http://www.dm2usa.org">http://www.dm2usa.org</a>. [DM2™]
 
 ---
 
-**Impreso**
-**y**
-**Propiedad**
-**de:**
-**DM2**
-**Disciple**
-**Makers**
-**Multiplied**
+**Impreso y Propiedad de:**
+**DM2 Disciple Makers Multiplied**
 **PO Box 7758**
 **Beaumont, TX 77726**
 
@@ -7292,19 +7286,23 @@ Priscila y Aquila, le tomaron aparte y le expusieron        **<u>más</u>** exac
  
 
 
-    ** **
-
- 
-
 
     ** **
 
  
 
 
+
     ** **
 
  
+
+
+
+    ** **
+
+ 
+
 
 
     ** **
