@@ -18,7 +18,7 @@ file -> edit -> commit -> push to github
 Github has created a downloadable app that you use to upload (push) you files and download (fetch) from the github repository. I explain how to get this below. 
 
 
-===
+---
 
 ## Repositories ##
 Repositories are where the files reside. I have created one repository for DM2. 
@@ -37,14 +37,14 @@ Each user clones the main file and creates their own branch. Each time they make
 
 The administrators of the repository have access to be able to commit any changes from any branch to the main branch. If a mistake is made at any point, you can return to a previous version before changes were made. 
 
-===
+---
 
 ## Projects ##
 Projects are for watching the process more carefully. Not entirely sure if this is something we want to employ. 
 
----
+===
 
-## Getting Set up ##
+## Get Started ##
 Ready to go? So go to:
 
 1. Create an account in github.com
@@ -57,6 +57,7 @@ Ready to go? So go to:
 5. Download Typora (markdown editor)
 	https://typora.io/
 
+6. Contact me if you need help: johnwry@gail.com
 
 ===
 
