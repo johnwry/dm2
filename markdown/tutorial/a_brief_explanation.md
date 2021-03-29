@@ -71,12 +71,16 @@ Ready to go? Go to:
 	https://github.com/johnwry/dm2
 5. Download Typora (markdown editor)
 	https://typora.io/
+	
+---
+### Markdown ###
+
 6. You will need to take a few minutes to learn markdown to begin editing. It's meant to be simple and keep you on track with the content, not design. 
 	https://www.markdownguide.org/cheat-sheet/
 
 ---
 
-*Contact me if you need help and once you are able to finish this: johnwry@gail.com*
+*Contact me if you need help and once you are able to finish this: johnwry@gmail.com*
 
 
 ===
