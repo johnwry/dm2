@@ -14,9 +14,9 @@ One of the things that was hard for me to grasp is the fact that the file(s) nee
 The basic process goes like this:
 
 ```
-{
+
 file -> edit -> commit -> push to github
-}
+
 ```
 
 
@@ -67,7 +67,10 @@ Ready to go? Go to:
 	https://typora.io/
 6. You will need to take a few minutes to learn markdown to begin editing. It's meant to be simple and keep you on track with the content, not design. 
 	https://www.markdownguide.org/cheat-sheet/
-*Contact me if you need help: johnwry@gail.com*
+
+---
+
+*Contact me if you need help and once you are able to finish this: johnwry@gail.com*
 
 
 ===
