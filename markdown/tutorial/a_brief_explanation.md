@@ -21,7 +21,8 @@ file -> edit -> commit -> push to github
 
 
 ---
-Github has created a downloadable app that you use to upload (push) you files and download (fetch) from the github repository. I explain how to get this below. 
+### Github Desktop ###
+Github has created a downloadable app that you use to upload (push) your files and download (fetch) from the github repository. I explain how to get this below. 
 
 
 ---
