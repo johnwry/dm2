@@ -2,14 +2,21 @@
 
 ---
 
-Git is presented as something extremely easy and in theory it is but I found it very frustrating to learn. Extremely so. 
+Git is presented as something extremely easy and in theory it is but I found it very frustrating to learn. **Extremely so**. 
 
 ---
 
-Basically however, Git a version control system. Github is the particular one I propose we use since it does seem to be the most used. 
-One of the things that was hard for me to grasp is the fact that the file(s) need to be in a certain directory and once editing is complete you commit this and then push to the git repository. 
+Basically however, Git is a version control system. Github is a particular one I propose we use since it does seem to be the most used. 
+
+---
+
+One of the things that was hard for me to grasp is the fact that the file(s) need to be in a certain directory on your local computer and once editing is complete you have to 'add' then 'commit' this and then push to the git repository. 
 like this:
 file -> edit -> commit -> push to github
+
+---
+Github has created a downloadable app that you use to upload (push) you files and download (fetch) from the github repository. I explain how to get this below. 
+
 
 ===
 
@@ -41,9 +48,15 @@ Projects are for watching the process more carefully. Not entirely sure if this 
 Ready to go? So go to:
 
 1. Create an account in github.com
-http://www.github.com
+	http://www.github.com
 2. Download and install the github desktop app. 
-3. Clone the DM2 repository
+	https://desktop.github.com/
+3. Log in using your github username
+4. Clone the DM2 repository
+	https://github.com/johnwry/dm2
+5. Download Typora (markdown editor)
+	https://typora.io/
+
 
 ===
 
