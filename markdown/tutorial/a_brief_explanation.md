@@ -1,3 +1,5 @@
+# Welcome #
+
 # A brief explanation of Git (Github) #
 
 ---
@@ -6,16 +8,18 @@ Git is presented as something extremely easy and in theory it is but I found it 
 
 ---
 
-Basically however, Git is a version control system. Github is a particular one I propose we use since it does seem to be the most used. 
+Basically, Git is a version control system. This will allow editors/authors in DM2 to collaborate their work on an ongoing fashion. 
+
+Github is a particular one I propose we use since it does seem to be the most used. 
 
 ---
 
-One of the things that was hard for me to grasp is the fact that the file(s) need to be in a certain directory on your local computer and once editing is complete you have to 'add' then 'commit' this and then push to the git repository. 
+(One of the things that was hard for me to grasp is the fact that the file(s) need to be in a certain directory on your local computer and once editing is complete you have to 'add' then 'commit' this and then push to the git repository).
 The basic process goes like this:
 
 ```
 
-file -> edit -> commit -> push to github
+file -> edit -> commit to git -> push to github repository
 
 ```
 
