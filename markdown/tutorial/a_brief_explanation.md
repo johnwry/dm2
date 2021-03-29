@@ -11,8 +11,10 @@ Basically however, Git is a version control system. Github is a particular one I
 ---
 
 One of the things that was hard for me to grasp is the fact that the file(s) need to be in a certain directory on your local computer and once editing is complete you have to 'add' then 'commit' this and then push to the git repository. 
-like this:
-file -> edit -> commit -> push to github
+The basic process goes like this:
+
+`file -> edit -> commit -> push to github`
+
 
 ---
 Github has created a downloadable app that you use to upload (push) you files and download (fetch) from the github repository. I explain how to get this below. 
@@ -45,19 +47,23 @@ Projects are for watching the process more carefully. Not entirely sure if this 
 ===
 
 ## Get Started ##
-Ready to go? So go to:
+Ready to go? Go to:
 
 1. Create an account in github.com
 	http://www.github.com
 2. Download and install the github desktop app. 
 	https://desktop.github.com/
-3. Log in using your github username
-4. Clone the DM2 repository
+3. Log to the Desktop Github app using your github username
+
+---
+
+4. Clone the DM2 repository. Go to the url below and clic on the green 'code' then open with Gibhub Desktop.. This downloads the files to your local directory (probably documents). 
 	https://github.com/johnwry/dm2
 5. Download Typora (markdown editor)
 	https://typora.io/
-
-6. Contact me if you need help: johnwry@gail.com
+6. You will need to take a few minutes to learn markdown to begin editing. It's meant to be simple and keep you on track with the content, not design. 
+	https://www.markdownguide.org/cheat-sheet/
+*Contact me if you need help: johnwry@gail.com*
 
 ===
 
