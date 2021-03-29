@@ -22,17 +22,20 @@ file -> edit -> commit -> push to github
 
 ---
 ### Github Desktop ###
+
 Github has created a downloadable app that you use to upload (push) your files and download (fetch) from the github repository. I explain how to get this below. 
 
 
 ---
 
 ## Repositories ##
-Repositories are where the files reside. I have created one repository for DM2. 
+
+Repositories are the directories where you keep everything. I have created one repository for DM2 for the time being. 
 
 ---
 
 ## Branches ##
+
 I propose two banches. One called 'main' for the main file for each course to be. This is the master and final copy.  The other would be called 'production' which would be a file produced por production purposes from the main. From this file we can produce the presentions and PDF's. 
 Obviously a backup must be kept of the main branch on the DM2 'mainframe'. 
 
@@ -47,11 +50,13 @@ The administrators of the repository have access to be able to commit any change
 ---
 
 ## Projects ##
+
 Projects are for watching the process more carefully. Not entirely sure if this is something we want to employ. 
 
 ===
 
 ## Get Started ##
+
 Ready to go? Go to:
 
 1. Create an account in github.com
