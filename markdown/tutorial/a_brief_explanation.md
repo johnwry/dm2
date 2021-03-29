@@ -1,4 +1,6 @@
-# A brief explanation of Git (Github)
+# A brief explanation of Git (Github) #
+
+
 Git is presented as something extremely easy and in theory it is but I found it very frustrating to learn. Extremely so. 
 
 
