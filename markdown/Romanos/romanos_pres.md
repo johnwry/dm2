@@ -1,7 +1,7 @@
 <!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/cover.png"  data-background-size="contain" --> 
 <small>
 ROMANOS 1-8  <!-- .element: style="color:white;" -->
-version: Romanos 5.5
+Versión: Romanos 5.5
 </small>
 
 
@@ -25,7 +25,7 @@ Derechos de Autor © **2013 DM2 International Inc.** Todos los derechos reservad
 
 <small>
 *Póliza de los Derechos de Autor*
-Traducción no autorizada, re-publicación, duplicación del documento, página de la internet o distribución del correo electrónico de cualquier porción de este material de derechos de autor de cualquier forma, sin el expreso consentimiento escrito de DM2™ es estrictamente prohibido. Puedes usar los materiales de DM2 para tu propio estudio personal o para volverlos a enseñar en una clase, siempre y cuando, el logo de DM2 y esta póliza de los derechos de autor estén incluidos siempre en el material al ser enseñados. Puedes bajar una copia a tú PC, imprimirla o hacer copias para la clase o estudio de grupo Bíblico; sin embargo, no puedes cobrar por este material o por conducir una clase usando el mismo, excepto por el costo actual del copiado. NO puedes hacer cambios a este material, tiene derechos de autor. Para una más amplia exposición de la póliza del DM2 con respecto a los usos de sus materiales, por favor referirse a la página de la internet DM2-USA al <a href="http://www.dm2usa.org">http://www.dm2usa.org</a>. [DM2™]
+Traducción no autorizada, re-publicación, duplicación del documento, página de la internet o distribución del correo electrónico de cualquier porción de este material de derechos de autor de cualquier forma, sin el expreso consentimiento escrito de DM2™ es estrictamente prohibido. Puedes usar los materiales de DM2 para tu propio estudio personal o para volverlos a enseñar en una clase, siempre y cuando, el logo de DM2 y esta póliza de los derechos de autor estén incluidos siempre en el material al ser enseñados. Puedes bajar una copia a tú PC, imprimirla o hacer copias para la clase o estudio de grupo Bíblico; sin embargo, no puedes cobrar por este material o por conducir una clase usando el mismo, excepto por el costo actual del copiado. NO puedes hacer cambios a este material, tiene derechos de autor. Para una más amplia exposición de la póliza del DM2 con respecto a los usos de sus materiales, por favor referirse a la página de la internet DM2-USA al [http://www.dm2usa.org](http://www.dm2usa.org). [DM2™]
 </small>
 
 
@@ -43,74 +43,74 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 ## ROMANOS 1-8
 
 
-| **Introducción**                                             | **7**  |
+| **Introducción**                                             |**7**|
 | ------------------------------------------------------------ | ------ |
-| **Romanos 1:1-17 – Dirigiéndose a la Iglesia en Roma**       | **10** |
-| **Romanos 1:18-3:20 - La Justicia de Dios hacia los Pecadores** | **16** |
-| Romanos 1:18-32 - El juicio de Dios sobre el pecador inmoral | 16     |
-| Romanos 2:1-16 - El juicio de Dios sobre el pecador moral    | 20     |
-| Romanos 2:17-29 - El juicio de Dios sobre el pecador religioso | 23     |
+| **Romanos 1:1-17 – Dirigiéndose a la Iglesia en Roma**       |**10** |
+| **Romanos 1:18-3:20 - La Justicia de Dios hacia los Pecadores** |**16** |
+| Romanos 1:18-32 - El juicio de Dios sobre el pecador inmoral |16|
+| Romanos 2:1-16 - El juicio de Dios sobre el pecador moral    |20|
+| Romanos 2:17-29 - El juicio de Dios sobre el pecador religioso |23|
 
 
-| Romanos 3:1-8 - Pablo anticipó preguntas                     | 26     |
+| Romanos 3:1-8 - Pablo anticipó preguntas                     |26|
 | ------------------------------------------------------------ | ------ |
-| Romanos 3:9-20 - En conclusión: Todo el mundo es culpable de pecado | 27     |
-| Romanos 3:9-20 - Hagamos un viaje a través de la escuela de Leyes | 29     |
+| Romanos 3:9-20 - En conclusión: Todo el mundo es culpable de pecado |27|
+| Romanos 3:9-20 - Hagamos un viaje a través de la escuela de Leyes |29|
 | **Romanos 3:21-5:11 - Justificación: Declarado Legalmente Justo** | **33** |
 
 
-| Romanos 3:21-31 - Pablo explicó cómo Dios justifica a los pecadores | 33     |
+| Romanos 3:21-31 - Pablo explicó cómo Dios justifica a los pecadores |33     |
 | ------------------------------------------------------------ | ------ |
-| Romanos 4:1-25 - Ejemplos del Antiguo Testamento de justificación por fe | 36     |
-| Romanos 5:1-11 - Las bendiciones inmerecidas de la justificación por fe | 42     |
-| **Romanos 5:12-21 - La Doctrina de la Identificación**       | **46** |
+| Romanos 4:1-25 - Ejemplos del Antiguo Testamento de justificación por fe |36     |
+| Romanos 5:1-11 - Las bendiciones inmerecidas de la justificación por fe |42     |
+| **Romanos 5:12-21 - La Doctrina de la Identificación**       |**46** |
 
 
 | **Romanos 6:1-10 - Verdad Posicional**                       | **49** |
 | ------------------------------------------------------------ | ------ |
-| Romanos 6:1-2 - ¿Por qué no pecar?                           | 49     |
-| Romanos 6:3-5 - Conociendo la historia de tu muerte con Cristo al pecado | 52     |
-| Romanos 6:6-10 - Conociendo el significado de tu muerte con Cristo | 54     |
+| Romanos 6:1-2 - ¿Por qué no pecar?                           |49|
+| Romanos 6:3-5 - Conociendo la historia de tu muerte con Cristo al pecado |52|
+| Romanos 6:6-10 - Conociendo el significado de tu muerte con Cristo |54|
 
 
 | **Romanos 6:11-23 - Haciendo Práctica la Santificación** | **57** |
 | -------------------------------------------------------- | ------ |
-| Romanos 6:11 - Contando con tu nueva identidad           | 57     |
-| Romanos 6:12-14 - Presentando tus miembros               | 58     |
-| Romanos 6:15-18 - ¿Quién es tu señor?                    | 59     |
-| Romanos 6:19-23 - La santificación hecha simple          | 61     |
+| Romanos 6:11 - Contando con tu nueva identidad           |57|
+| Romanos 6:12-14 - Presentando tus miembros               |58|
+| Romanos 6:15-18 - ¿Quién es tu señor?                    |59|
+| Romanos 6:19-23 - La santificación hecha simple          |61|
 
 
-| **Romanos 7:1-25 - Tu Nueva Relación con la Ley**            | **62** |
+| **Romanos 7:1-25 - Tu Nueva Relación con la Ley**            |**62**|
 | ------------------------------------------------------------ | ------ |
-| Romanos 7:1-6 - Casados con Cristo                           | 63     |
-| Romanos 7:7-13 - Vida bajo la Ley                            | 65     |
-| Romanos 7:14-23 - Una vida frustrada                         | 67     |
-| Romanos 7:24-25 - El reconocimiento de Pablo de la liberación en Cristo | 69     |
+| Romanos 7:1-6 - Casados con Cristo                           |63|
+| Romanos 7:7-13 - Vida bajo la Ley                            |65|
+| Romanos 7:14-23 - Una vida frustrada                         |67|
+| Romanos 7:24-25 - El reconocimiento de Pablo de la liberación en Cristo |69|
 
 
-| **Romanos 8:1-17 - La santificación y el Espíritu Santo**    | **69** |
+| **Romanos 8:1-17 - La santificación y el Espíritu Santo**    |**69**|
 | ------------------------------------------------------------ | ------ |
-| Romanos 8:1-4 - Un nuevo principio para la vida              | 70     |
-| Romanos 8:5-8 - Características de la mente puesta en la carne/Espíritu | 73     |
+| Romanos 8:1-4 - Un nuevo principio para la vida              |70|
+| Romanos 8:5-8 - Características de la mente puesta en la carne/Espíritu |73|
 
 
-| Romanos 8:9-11 - El creyente está en el Espíritu             | 74     |
+| Romanos 8:9-11 - El creyente está en el Espíritu             |74|
 | ------------------------------------------------------------ | ------ |
-| Romanos 8:12-17 - Tu responsabilidad como creyente en Cristo 75 |        |
-| **Romanos 8:18-39 - Glorificación**                          | **79** |
-| Romanos 8:18 - Esperando ser glorificado                     | 79     |
-| Romanos 8:19-27 - Gimiendo para ser glorificado              | 79     |
-| Romanos 8:28-30 -  Garantizado para ser glorificado          | 81     |
+| Romanos 8:12-17 - Tu responsabilidad como creyente en Cristo |75|
+| **Romanos 8:18-39 - Glorificación**                          |**79**|
+| Romanos 8:18 - Esperando ser glorificado                     |79|
+| Romanos 8:19-27 - Gimiendo para ser glorificado              |79|
+| Romanos 8:28-30 -  Garantizado para ser glorificado          |81|
 
 
-| Romanos 8:31-39 - Glorificación verificada y probada     | 86      |
+| Romanos 8:31-39 - Glorificación verificada y probada     |86|
 | -------------------------------------------------------- | ------- |
-| **El Mensaje del Evangelio**                             | **88**  |
-| Presentaciones Confusas del Evangelio                    | 95      |
-| **Seguros por Siempre**                                  | **107** |
-| **Cinco Personas que Deberías Conocer**                  | **120** |
-| **Resultados de Vivir Consistentemente una Vida Carnal** | **126** |
+| **El Mensaje del Evangelio**                             |**88**|
+| Presentaciones Confusas del Evangelio                    |95|
+| **Seguros por Siempre**                                  |**107**|
+| **Cinco Personas que Deberías Conocer**                  |**120**|
+| **Resultados de Vivir Consistentemente una Vida Carnal** |**126**|
 
 
 
