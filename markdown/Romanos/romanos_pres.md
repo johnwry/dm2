@@ -1,4 +1,4 @@
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/cover.png"  data-background-size="contain" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/cover.png"  data-background-size="contain" data-auto-animate="" --> 
 <small>
 ROMANOS 1-8  <!-- .element: style="color:white;" -->
 Versión: Romanos 5.5
