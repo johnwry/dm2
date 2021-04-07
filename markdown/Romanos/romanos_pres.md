@@ -140,7 +140,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="80%" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="70%" --> 
 
 
 
