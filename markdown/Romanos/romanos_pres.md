@@ -308,6 +308,10 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="70%" --> 
+
+
+
 # II. Romanos 1:1-17 – Dirigiéndose a la Iglesia en Roma
 
 
@@ -480,6 +484,10 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="70%" --> 
+
+
+
 ## B. Romanos 1:8-15 – Amor por los Romanos
 
 
@@ -594,6 +602,10 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="70%" --> 
+
+
+
 # III. Romanos 1:18-3:20 – La Justicia de Dios hacia los Pecadores
 
 
@@ -682,15 +694,19 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 ### 6. Romanos 1:32 – Así que Dios está en lo **<u>correcto</u>** cuando condena a los pecadores inmorales porque incluso ante el juicio inminente, se atreven a desafiarlo. Romanos 1:18 
 
-#### a. Romanos 1:32a – “*quienes habiendo entendido el juicio de Dios,…” *El pecador inmoral **<u>conoce</u>** instintivamente el estándar de Dios de lo
-
- correcto y lo incorrecto. 
+#### a. Romanos 1:32a – “*quienes habiendo entendido el juicio de Dios,…” *El pecador inmoral **<u>conoce</u>** instintivamente el estándar de Dios de lo correcto y lo incorrecto. 
 
 #### b. Romanos 1:32b – “… *que los que practican tales cosas son dignos de muerte,…”* El pecador inmoral sabe muy bien que su rebelión merece la **<u>muerte</u>**. 
 
 #### c. Romanos 1:32c – “…*no sólo las hacen,…”* El pecador inmoral no solo provoca a Dios a través de la rebelión personal, sino que osadamente va un **<u>paso</u>** más allá. 
 
 #### d. Romanos 1:32d – “… *sino que también se complacen con los que las practican*.” Lamentablemente, el **<u>pecador</u>** inmoral incluso llega tan lejos como animar a otros a hacer las cosas que él o ella sabe que merecen la muerte.
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="70%" --> 
+
+
 
 ## B. Romanos 2:1-16 – El juicio de Dios del pecador moral
 
@@ -770,6 +786,12 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 #### d. Romanos 2:16 – En el futuro, en el Juicio del Gran Trono Blanco, usando la conciencia como testigo, Cristo revelará los **<u>secretos</u>** de la gente. “*en el día en que Dios juzgará por Jesucristo los secretos de los hombres, conforme a mi evangelio*.” Los pecadores morales serán condenados porque Dios es consciente de todos sus pensamientos y pecados secretos. 
 
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="70%" --> 
+
+
+
 ## C. Romanos 2:17-29 – El juicio de Dios sobre el pecador religioso
 
 ### 1. Romanos 2:17-20 – Los pecadores religiosos no son justificados ante Dios por su celo o su sinceridad religiosa. Pablo estaba calificado para dar este ejemplo, ya que había sido un distinguido **<u>líder</u>** religioso en la religión judía. Filipenses 3:4-9
@@ -796,7 +818,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 ##### 4) Romanos 2:20b – “…*maestro de niños,*…” Suponiendo de que ellos son la élite **<u>madura</u>** y privilegiada, las personas religiosas hacen de la capacitación de bebés espirituales su prioridad.
 
-#####5) Romanos 2:20c – “… *que tienes en la ley la forma de la ciencia y de la verdad*.”Armados con una gran abundancia de verdad bíblica, estos **<u>elitistas</u>** religiosos se vuelven auto engañados y arrogantes.
+##### 5) Romanos 2:20c – “… *que tienes en la ley la forma de la ciencia y de la verdad*.”Armados con una gran abundancia de verdad bíblica, estos **<u>elitistas</u>** religiosos se vuelven auto engañados y arrogantes.
 
 ### 2. Romanos 2:21-23 – ¿Cuál es la evaluación de Dios de los pecadores religiosos?
 
@@ -848,6 +870,12 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 ##### 3) Romanos 2:29b – “… *la alabanza del cual no viene de los hombres, sino de Dios*.” Solo la persona nacida de nuevo que ha recibido cirugía espiritual en su corazón por medio del Espíritu Santo trae **<u>honor</u>** a Dios. Efesios 1:13-14
 
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="70%" --> 
+
+
+
 ## D. Romanos 3:1-8 – Pablo anticipó preguntas concernientes a los pecadores religiosos
 
 ### 1. Romanos 3:1-2 – Pablo anticipó la primera pregunta, que concernía a Israel. Puesto que Pablo utilizó a su propia gente como un ejemplo negativo de los pecadores religiosos, alguien podría preguntar, “¿Qué de bueno hay en ser **<u>judío</u>** entonces?”
@@ -891,6 +919,12 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 ##### 1) ¿Por qué habría sido Pablo acusado de promover la anarquía? Cuando un creyente predica la salvación por gracia solamente, sin ningún tipo de obras, los legalistas religiosos pueden fácilmente **<u>acusarlo</u>** de excusar e incluso promover el pecado.
 
 ##### 2) Si los legalistas religiosos no te acusan de esta manera, probablemente necesites verificar para ver si realmente estás enseñando la **<u>gracia</u>**.
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="70%" --> 
+
+
 
 ## E. Romanos 3:9-20 – En conclusión: Todo el mundo es culpable de pecado.
 
@@ -1051,6 +1085,10 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="70%" --> 
+
+
+
 # IV.Romanos 3:21-5:11 – Justificación: Declarado Legalmente Justo delante de Dios
 
 
@@ -1139,13 +1177,72 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 #### a. Romanos 3:31a – “*¿Luego por la fe invalidamos la ley?...”* En otras palabras, si somos hechos justos para con Dios por la fe, suena como que estuviéramos diciendo que la Ley es inútil. Pero Pablo dijo, “… *En **<u>ninguna</u>** manera,…*” La justificación por fe no invalida la Ley.
 
-#### b. Romanos 3:31b – *Sino que confirmamos la ley*. Cuando enseñamos la justificación -
+#### b.	Romanos 3:31b – Sino que confirmamos la ley. Cuando enseñamos la justificación por fe en la muerte sustitutiva de Cristo, en realidad confirmamos la autoridad de la Ley, ya que estamos de acuerdo con la Ley de que la paga por el pecado es la muerte. Romanos 6:23
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="70%" --> 
+
+
+
+## B.	Romanos 4:1-25 – Ejemplos del Antiguo Testamento de la justificación por la fe
+
+
+
+### 1.	Romanos 4:1-5 – Abraham fue declarado justo delante Dios por fe, sin obras.
+
+
+
+#### a.	Romanos 4:1 – “¿Qué, pues, diremos que halló Abraham, nuestro padre según la carne?” Pablo demostrará que Abraham descubrió que un hombre es declarado justo con Dios por la fe, aparte de cualquier tipo de buenas obras.
+
+
+
+##### 1)	A fin de explicar esto, Pablo primero mostró la diferencia entre la justificación de Abraham ante los hombres y su justificación delante Dios.
+
+
+
+###### a)	La justificación ante los hombres no tiene ningún valor salvador, y en realidad abre la puerta a la jactancia.
+
+
+
+###### b)	La justificación delante Dios no tiene nada que ver con las obras, y por lo tanto cierra la puerta a todo orgullo.
+
+
+
+##### 2)	En el versículo dos, Pablo aclaró la diferencia entre ser justificado por las obras y ser justificado por la fe.
+
+
+
+#### b.	Romanos 4:2a – “Porque si Abraham fue justificado por las obras, tiene de qué gloriarse,…” Ya que esta declaración de “si” es una condición de primera clase en el griego bíblico, podría ser traducido: “Puesto que Abraham fue justificado por las obras, y asumamos que fue, él tenía algo de qué jactarse”.
+
+
+
+##### 1)	Santiago estuvo de acuerdo en que Abraham en efecto fue justificado por las obras. “¿No fue justificado por las obras Abraham nuestro padre, cuando ofreció a su hijo Isaac sobre el altar?” Santiago 2:21
+
+
+
+##### 2)	¿Cómo podemos entender esta afirmación que parece contradecir lo que Pablo acaba de enseñar en Romanos 3:21-31, donde claramente comunicó que somos justificados por fe a través de la gracia y no por ningún tipo de obras?
+
+
+
+##### 3)	Necesitamos entender la gran diferencia entre ser justificado por las obras, ante los hombres, y ser justificado por la fe, ante Dios. En Romanos 4:2a y Santiago 2:21, se muestra a Abraham como justificado ante las personas, no ante Dios. Sus obras no lo ayudaron a ser declarado justo ante Dios.
+
+
+
+##### 4)	La disposición de Abraham de sacrificar a Isaac, como se registra en Génesis 22:1-18, fue vista como una prueba para la humanidad de que era un hombre justo. Debido a ese acto justo, Abraham fue justificado por las obras ante las personas. Por lo tanto, desde un punto de vista humano, él podría haberse jactado justificadamente.
+
+
 
 #### c. Romanos 4:2b –*“Porque si Abraham fue justificado por las obras, tiene de qué gloriarse, pero no para con Dios*.” Basado en sus obras, Abraham podría haberse jactado ante los hombres, pero nunca ante **<u>Dios</u>**. ¿Por qué?
 
+
+
 ##### 1) Porque Abraham no fue justificado por obras* delante de Dios*. Como observamos en el Antiguo Testamento (Gn. 15:6; Romanos 4:3, 9, 20, 22; Gálatas 3:6), Abraham fue justificado ante Dios por fe muchos años antes del **<u>nacimiento</u>** y el sacrificio de Isaac.
 
+
+
 ##### 2) Ya que Abraham fue declarado justo ante Dios por fe, aparte de cualquier tipo de obra, no tenía nada de qué **<u>jactarse</u>** ante Dios. La fe anula la jactancia. Romanos 3:27-28, Efesios 2:8-9
+
+
 
 #### d. Romanos 4:3 – “*Porque ¿qué dice la Escritura? Creyó Abraham a Dios, y  **<u>le</u>** fue contado por justicia.”*
 
@@ -1203,12 +1300,15 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 #### c. Romanos 4:11b – “…* para que fuese padre de todos los creyentes no circuncidados, a fin de que también a ellos la fe les sea contada por justicia*;” Cualquier persona en el mundo, judía o no judía, circuncidada o no circuncidada, puede ser **<u>salva</u>** sin ningún ritual.
 
-##### 1) Los rituales religiosos como el **<u>bautismo</u>**, la comunión, la confirmación, el bautismo de infantes, la circuncisión, ir a
-
- la iglesia, hacer una oración, encender una vela, caminar por el pasillo de
- la iglesia, etc., no afectan nuestra justificación de ninguna manera.
+##### 1) Los rituales religiosos como el **<u>bautismo</u>**, la comunión, la confirmación, el bautismo de infantes, la circuncisión, ir a  la iglesia, hacer una oración, encender una vela, caminar por el pasillo de la iglesia, etc., no afectan nuestra justificación de ninguna manera.
 
 ##### 2) Los rituales religiosos no salvan a la gente. Una persona es justificada ante Dios al creer en el Hijo de Dios quien **<u>murió</u>** como sacrificio por sus pecados y resucitó al tercer día.
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="70%" --> 
+
+
 
 #### d. Romanos 4:12 – Muchos israelitas confiaron en su circuncisión para la salvación. Pablo señaló su error cuando se refirió a Abraham como “… ***<u>padre</u>*** *de la circuncisión, para los que no solamente son de la circuncisión, sino que también siguen las pisadas de la fe que tuvo nuestro padre Abraham antes de ser circuncidado*.”
 
@@ -1283,6 +1383,12 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 ##### 2) Nosotros también fuimos declarados justos con Dios cuando personalmente **<u>confiamos</u>** en Cristo y en Su muerte por nuestros pecados y su resurrección. 1 Corintios 15:1-4
 
 ##### 3) ¿Has creído personalmente en el Evangelio, confiando en Cristo, que Él murió por tus pecados y resucitó al tercer día? 1 Juan 5:13
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="70%" --> 
+
+
 
 ## C. Romanos 5:1-11 – Las bendiciones inmerecidas de la justificación por fe
 
@@ -1398,6 +1504,10 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="70%" --> 
+
+
+
 # V. Romanos 5:12-21 – La Doctrina de la Identificación: El Acceso a la Santificación
 
 
@@ -1486,6 +1596,12 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 ### 2. Romanos 5:20b – “… *mas cuando el pecado abundó, sobreabundó la gracia*;” Sin embargo,la **gracia** de Dios superabundó para **<u>pagar</u>** el pecado de toda la humanidad. 1 Timoteo 1:12-14
 
 ### 3. Romanos 5:21 – "*para que así como el pecado reinó para muerte, así también la gracia reine por la justicia para vida eterna mediante Jesucristo, Señor nuestro.*” El **<u>pecado</u>** había ganado el control de la humanidad, causando la muerte. A través de la justicia de Cristo, la gracia vino y venció al pecado. La gracia proveyó un camino para que los pecadores fueran declarados justos y recibieran la vida eterna. Tito 2:11-13  
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="70%" --> 
+
+
 
 # VI.Romanos 6:1-10 – La Doctrina de la Santificación - Verdad Posicional
 
@@ -1584,6 +1700,12 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 ##### 4) Junto con Cristo, hemos sido sobrenaturalmente liberados del **<u>derecho</u>** absoluto de la naturaleza de pecado a gobernar nuestras vidas. Romanos 6:6
 
 ##### 5) En conclusión, la única **<u>razón</u>** de Pablo para que no continuemos en el pecado fue simplemente porque *hemos muerto al pecado*.
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="70%" --> 
+
+
 
 ## B. Romanos 6:3-5 – Conociendo la historia de tu muerte al pecado con Cristo
 
@@ -1718,6 +1840,12 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 #### c. Porque Dios ahora te identifica con el Cristo viviente, en Cristo no sólo estás muerto al pecado, sino también maravillosamente **<u>vivo</u>** para Dios. 2 Timoteo 2:11
 
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="70%" --> 
+
+
+
 # VII. Romanos 6:11-23 – La Doctrina de la Santificación - Haciendo Práctica la Santificación
 
 ## A. Romanos 6:11 – Contando con tu nueva identidad
@@ -1799,6 +1927,12 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 ### 5. Romanos 6:14b – “*Porque el pecado no se enseñoreará de vosotros; pues …estáis …bajo la gracia*.” La vida *bajo la **<u>gracia</u>*** es superior. La gracia de Dios te guarda de convertirte en esclavo de la naturaleza de pecado. La gracia es el poder de Dios para cambiar nuestras vidas. Vive por gracia y la naturaleza de pecado no será tu amo. Tito 2:11
 
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="70%" --> 
+
+
+
 ## C. Romanos 6:15-18 – ¿Quién es tu señor?
 
 ### 1. Romanos 6:15-16 – Necesitamos entender las consecuencias destructivas de vivir **<u>bajo</u>** la naturaleza de pecado como amo.
@@ -1868,6 +2002,10 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 #### b. En la vida cristiana, el resultado de presentarte en esclavitud a la naturaleza de pecado es una ruptura en la comunión con Dios, o un tipo de **<u>muerte</u>** de la comunión. Esto no significa que pierdes tu salvación, pero ciertamente pierdes tu gozo. 1 Juan 1:6
 
 #### c. A la inversa, el resultado de presentarse ante Dios, basado en tu posición en Cristo de estar muerto al pecado y vivo para Dios, es el regocijo tanto de vida eterna como **<u>abundante</u>**. ¿Estás viviendo esta maravillosa vida eterna hoy? Juan 17:3, 1 Juan 1:3b-4
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="70%" --> 
 
 
 
@@ -1966,6 +2104,12 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 #### b. Romanos 7:6b – “…*de modo que sirvamos bajo el régimen nuevo del Espíritu y no bajo el régimen viejo de la letra*.” Esta frase bajo *el régimen viejo de la letra *se refiere a la Ley de Moisés. Ahora que estás bajo la **<u>gracia</u>**, no la Ley, y ahora que Cristo vive a través de ti, la vida puede ser verdaderamente gozosa y digna de ser vivida. 2 Corintios 5:17, 1 Juan 1:4
 
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="70%" --> 
+
+
+
 ## C. Romanos 7:7-13 – La vida bajo la Ley
 
 ### 1. Romanos 7:7 – Pablo mostró quién era el verdadero **<u>culpable</u>** de su pecado, y no era la Ley.
@@ -2011,6 +2155,12 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 ##### 1) Dios usa esta nueva comprensión de cómo actúa tu **<u>malvada</u>** naturaleza de pecado para animarte a contar con las verdades de Romanos 6:11. Por fe, debes considerarte muerto a la naturaleza de pecado y vivo para Dios en Cristo.
 
 ##### 2) Esta comprensión debería estimularte a **<u>presentar</u>** las partes de tu cuerpo como instrumentos de justicia para Dios, como Romanos 6 lo enseña. Juan 15:5, 2 Corintios 12:9-10
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="70%" --> 
+
+
 
 ## D. Romanos 7:14-23 – Una vida frustrada
 
@@ -2085,6 +2235,10 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 #### b. Pero, por otro lado, con la naturaleza de pecado dominándolo, tristemente **<u>servía</u>** a la ley, o principio, del pecado.
 
 ### 5. Entonces, ¿cuál es la provisión de Dios para vivir la vida cristiana? Los detalles específicos no se encuentran en Romanos 7. Esto nos lleva a Romanos 8 y al ministerio del Espíritu **<u>Santo</u>** en nuestra santificación.
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="70%" --> 
 
 
 
@@ -2246,6 +2400,12 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 #### c. El mismo Espíritu Santo que trajo a Jesucristo a la **<u>vida</u>**, vive actualmente dentro de ti para fortalecerte para un servicio fructífero. Romanos 12:1, Efesios 1:19-20, Colosenses 3:4
 
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="70%" --> 
+
+
+
 ## E. Romanos 8:12-17 – Tu responsabilidad como creyente en Cristo
 
 ### 1. Romanos 8:12-14 – “*Así que, hermanos,*…” A la luz del hecho de que la ley del Espíritu de vida nos ha liberado de la ley del pecado y la muerte, debemos **<u>elegir</u>** definitivamente vivir de acuerdo con el Espíritu.
@@ -2336,6 +2496,10 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 ##### 3) En otras palabras, Pablo no estaba deduciendo que sólo aquellos creyentes que **<u>sufren</u>** serán glorificados, mas bien, él estaba asegurando a todos los creyentes que, dado que ellos sufren con Cristo, un día serán glorificados con Él, como observamos en los siguientes versículos. Romanos 8:35-39
 
 ##### 4) La lógica es que si sufres con alguien, es razonable esperar **<u>compartir</u>** sus honores. Filipenses 3:10, 1 Pedro 2:21-23
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="70%" --> 
 
 
 
@@ -3182,11 +3346,10 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 ### 8. Eres responsable de examinar la Biblia para asegurarte de que esta enseñanza es realmente lo que la Biblia dice. Haz como los bereanos en Hechos 17:11, “*Y éstos eran más nobles que los que estaban en Tesalónica, pues recibieron la palabra con toda solicitud, escudriñando  **<u>cada día</u>** las Escrituras para ver si estas cosas eran así*.”
 
 
- **B. **
- **Eternamente seguros**
+ **B.  Eternamente seguros**
 
 
- Argumentos Lógicos de la Seguridad Eterna
+###### Argumentos Lógicos de la Seguridad Eterna
 
 ### 1. Un argumento de **definición**: ¿Cuánto dura la vida **<u>eterna</u>**? Eterno significa para siempre. Si la salvación pudiera perderse, Dios la habría llamado vida temporal o de corto plazo. En cambio, la Biblia insiste en que la salvación es eterna y que todos los creyentes tienen vida eterna. Juan 3:16
 
@@ -3250,288 +3413,80 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 #### b. Salmos 62:6 – “*El solamente es mi **roca** y mi salvación. Es mi refugio, no **<u>resbalaré</u>** *”. Salmo 118:8-9
 
-### 9. Un argumento de **la palabra escrita**: 1 Juan 5:13 –* “Estas cosas os he escrito a vosotros que creéis en el nombre del Hijo de Dios, para que sepáis que tenéis vida eterna, y para que creáis en el nombre del Hijo de Dios*.” Estás eternamente seguro porque la Biblia lo dice. Sin arrogancia,
+### 9. Un argumento de **la palabra escrita**: 1 Juan 5:13 –* “Estas cosas os he escrito a vosotros que creéis en el nombre del Hijo de Dios, para que sepáis que tenéis vida eterna, y para que creáis en el nombre del Hijo de Dios*.” Estás eternamente seguro porque la Biblia lo dice. Sin arrogancia, puedes ciertamente saber que estás salvo y seguro en Cristo porque la **<u>Palabra</u>** de Dios lo dice así.
 
-puedes ciertamente saber que estás salvo y seguro en Cristo porque la **<u>Palabra</u>** de Dios lo dice así.
 
+###### *Argumentos Legales de la Seguridad Eterna*
 
- *Argumentos Legales de la Seguridad Eterna*
+### 10. Un argumento de la **eliminación de la culpa**: Juan 1:29 dice, “*He aquí el Cordero de Dios, que **<u>quita</u>** el pecado del mundo.*” Jesús fue en efecto el sacrificio de Dios para quitar nuestros pecados. Tus pecados, pasados, presentes y futuros, fueron borrados por Cristo. Si más tarde fueras juzgado por tus pecados, Su obra habría sido incompleta, y eso no es posible. Hebreos 10:12
 
-### 10. Un argumento de la **eliminación de la culpa**:
+### 11. Un argumento de los **pecados olvidados**: Dios perdonó y **<u>olvidó</u>** todos tus pecados para siempre. Si el pecado pudiera mantenerte fuera del cielo, Dios no te perdonó completamente.
 
- <br/>
- Juan 1:29 dice, “
- *
+#### a. Salmos 103:10-12 – “*No ha hecho con nosotros conforme a nuestras iniquidades, ni nos ha pagado conforme a nuestros pecados. Porque como la altura de los cielos sobre la tierra, engrandeció su misericordia sobre los que le temen. Cuanto está lejos el oriente del occidente, hizo  **<u>alejar</u>** de nosotros nuestras rebeliones*.”
 
-    He aquí el Cordero de Dios, que **<u>quita</u>** el pecado
-    del mundo.
+#### b. Colosenses 2:13 – “*Y a vosotros, estando muertos en pecados y en la incircuncisión de vuestra carne, os dio vida juntamente con él,  **<u>perdonándoos</u>** todos los pecados*,”
 
- *
- ” Jesús fue en efecto el sacrificio de Dios para quitar nuestros pecados.
- Tus pecados, pasados, presentes y futuros, fueron borrados por Cristo. Si
- más tarde fueras juzgado por tus pecados, Su obra habría sido incompleta, y
- eso no es posible. Hebreos 10:12
+#### c. Hebreos 8:12 – “*Porque seré propicio a sus injusticias, y nunca más me acordaré de sus  **<u>pecados</u>** y de sus iniquidades*.”
 
-### 11. Un argumento de los **pecados olvidados**:
+### 12. Un argumento de **inmunidad**: Dios promete que en Cristo serás salvo de la futura condenación. Pero si pudieras perder tu salvación, serías una vez más condenado al infierno. En ese caso, las promesas de Cristo llegarían a ser **<u>falsas</u>**.
 
- <br/>
- Dios perdonó y **<u>olvidó</u>** todos tus pecados para
- siempre. Si el pecado pudiera mantenerte fuera del cielo, Dios no te
- perdonó completamente.
 
-#### a. Salmos 103:10-12 – “
+#### a. Juan 3:18 dice, “*El que en él cree, no es **<u>condenado</u>**; pero el que no cree, ya ha sido condenado, porque no ha creído en el nombre del unigénito Hijo de Dios*.”
 
- *
-  No ha hecho con nosotros conforme a nuestras iniquidades, ni nos ha
-  pagado conforme a nuestros pecados. Porque como la altura de los cielos
-  sobre la tierra, engrandeció su misericordia sobre los que le temen.
-Cuanto está lejos el oriente del occidente, hizo  **<u>alejar</u>** de nosotros nuestras rebeliones
- *
- .”
+#### b. En Juan 5:24 Jesús dijo, “* De cierto, de cierto os digo: El que oye mi palabra, y cree al que me envió, tiene vida eterna; y no vendrá a condenación, mas ha  **<u>pasado</u>** de muerte a vida*.”
 
-#### b. Colosenses 2:13 – “
+### 13. Un argumento de **inocencia**: Ninguna acusación puede incriminarnos eternamente, ahora que estamos en Cristo. Romanos 8:33-34 dice, “*¿Quién **<u>acusará</u>** a los escogidos de Dios? Dios es el que justifica*.” Romanos 8:1
 
- *
-  Y a vosotros, estando muertos en pecados y en la incircuncisión de
-vuestra carne, os dio vida juntamente con él,  **<u>perdonándoos</u>** todos los pecados
- *
- ,”
 
-#### c. Hebreos 8:12 – “
+### 14. Un argumento del **mediador**: Puesto que Jesucristo se sienta a la diestra del Padre y **media** constantemente por nosotros, nadie puede jamás ir delante de Dios y presentar una acusación contra nosotros que pudiera causar nuestra condenación.
 
- *
-Porque seré propicio a sus injusticias, y nunca más me acordaré de sus  **<u>pecados</u>** y de sus iniquidades
- *
- .”
+#### a. Jesucristo es nuestro abogado defensor que siempre media ante Dios el Padre en nuestro nombre. Él no sólo es el mejor **<u>abogado</u>** de todos los tiempos, Él puede defendernos audaz y legalmente porque Él, el Dios-Hombre perfecto, pagó en su totalidad la pena por nuestros pecados.
 
-### 12. Un argumento de **inmunidad**:
+#### b. Romanos 8:34 – “* ¿Quién es el que condenará? Cristo es el que murió; más aún, el que también resucitó, el que además está a la diestra de Dios, el que también **<u>intercede</u>** por nosotros*.”
 
- <br/>
- Dios promete que en Cristo serás salvo de la futura condenación. Pero si
- pudieras perder tu salvación, serías una vez más condenado al infierno. En
-ese caso, las promesas de Cristo llegarían a ser **<u>falsas</u>**.
+#### c. Hebreos 7:25 – “* por lo cual puede también salvar perpetuamente a los que por él se acercan a Dios, **<u>viviendo</u>** siempre para interceder por ellos*.”
 
-####
+#### d. 1 Juan 2:1b-2 –*“…y si alguno hubiere pecado, **<u>abogado</u>** tenemos para con el Padre, a Jesucristo el justo. y él es la propiciación * [pago satisfactorio]* por nuestros pecados; y no solamente por los nuestros, sino también por los de todo el mundo*.” Apocalipsis 12:9-10
 
-#### a. Juan 3:18 dice, “
 
- *
-  El que en él cree, no es **<u>condenado</u>**; pero el que
-  no cree, ya ha sido condenado, porque no ha creído en el nombre del
-  unigénito Hijo de Dios
- *
- .”
+###### *Argumentos de la Realidad de la Seguridad Eterna*
 
-#### b. En Juan 5:24 Jesús dijo, “
+### 15. Un argumento de **posesión presente**: Juan 3:36a dice, “*El que cree en el Hijo tiene vida eterna;…*” Si has creído en el Hijo de Dios, Jesucristo, tú ya **<u>posees</u>** la vida eterna. La vida eterna es tu posesión y eso no puede cambiar. 1 Juan 5:11-12
 
- *
-  De cierto, de cierto os digo: El que oye mi palabra, y cree al que me
-envió, tiene vida eterna; y no vendrá a condenación, mas ha  **<u>pasado</u>** de muerte a vida
- *
- .”
+### 16. Un argumento de **un** **hecho consumado**: Si pudieras **<u>perder</u>** tu salvación, la obra de Cristo en la cruz no habría sido completada, pero sabemos que ese no es el caso en absoluto. El sacrificio de Cristo fue una obra terminada.
 
-### 13. Un argumento de **inocencia**:
+#### a. Juan 19:30 – “*Cuando Jesús hubo tomado el vinagre, dijo:  **<u>Consumado</u>** es. Y habiendo inclinado la cabeza, entregó el espíritu*.”
 
- <br/>
- Ninguna acusación puede incriminarnos eternamente, ahora que estamos en
- Cristo. Romanos 8:33-34 dice, “
- *
+#### b. Hebreos 7:27 –* “que no tiene necesidad cada día, como aquellos sumos sacerdotes, de ofrecer primero sacrificios por sus propios pecados, y luego por los del pueblo; porque esto lo hizo **<u>una vez</u>** para siempre, ofreciéndose a sí mismo *.”
 
-    ¿Quién **<u>acusará</u>** a los escogidos de Dios? Dios es
-    el que justifica
+#### c. Hebreos 10:10 – “* En esa voluntad somos santificados mediante la ofrenda del cuerpo de Jesucristo hecha una vez para **<u>siempre</u>** * .”
 
- *
- .” Romanos 8:1
+#### d. Hebreos 10:14 –*“porque con una sola ofrenda hizo perfectos para  **<u>siempre</u>** a los santificados * .”
 
-####
+#### e. Hebreos 10:18 – “* Pues donde hay remisión de éstos, **<u>no hay más</u>** ofrenda por el pecado*.”
 
-### 14. Un argumento del **mediador**:
+### 17. Un argumento de **un** **producto terminado** : Sabemos que Dios termina todo lo que comienza. Puesto que Él comenzó nuestra salvación, Él la continuará hasta que Cristo regrese. Filipenses 1:6 dice, “*estando persuadido de esto, que el que comenzó en vosotros la buena obra, la perfeccionará **<u>hasta</u>** el día de Jesucristo; * ” 1 Corintios 1:8
 
- <br/>
-Puesto que Jesucristo se sienta a la diestra del Padre y **media** constantemente por nosotros, nadie puede jamás ir
- delante de Dios y presentar una acusación contra nosotros que pudiera
- causar nuestra condenación.
+### 18. Un argumento de **tener o no tener**: Tú, o **<u>posees</u>** la vida eterna gracias a Cristo, o estás todavía muerto en tus pecados. 1 Juan 5:11-12 dice, “ * Y este es el testimonio: que Dios nos ha dado vida eterna; y esta vida está en su Hijo. El que tiene al Hijo, tiene la vida; el que no tiene al Hijo de Dios no tiene la vida. *”
 
-#### a. Jesucristo es nuestro abogado defensor que siempre media ante Dios el
 
-Padre en nuestro nombre. Él no sólo es el mejor **<u>abogado</u>** de todos los tiempos, Él puede defendernos
- audaz y legalmente porque Él, el Dios-Hombre perfecto, pagó en su totalidad
- la pena por nuestros pecados.
+###### *Argumentos de Completitud de la Seguridad Eterna*
 
-#### b. Romanos 8:34 – “
-
- *
-  ¿Quién es el que condenará? Cristo es el que murió; más aún, el que
-  también resucitó, el que además está a la diestra de Dios, el que
-  también **<u>intercede</u>** por nosotros
- *
- .”
 
-#### c. Hebreos 7:25 – “
 
- *
-  por lo cual puede también salvar perpetuamente a los que por él se
-  acercan a Dios, **<u>viviendo</u>** siempre para
-  interceder por ellos
- *
- .”
+### 19. Un argumento de **total satisfacción**: Si pudieras perder tu salvación, nuevamente llegarías a estar espiritualmente hambriento y sediento, pero Cristo prometió que nadie que cree en Él volverá a tener **<u>sed</u> **o hambre jamás.
 
-#### d. 1 Juan 2:1b-2 –
+#### a. Juan 4:14 – “*mas el que bebiere del agua que yo le daré, no tendrá sed jamás; sino que el agua que yo le daré será en él una fuente de agua que salte para  **<u>vida</u>** eterna *.”
 
- *
-  “…y si alguno hubiere pecado, **<u>abogado</u>** tenemos
-  para con el Padre, a Jesucristo el justo. y él es la propiciación
- *
- [pago satisfactorio]
- *
-  por nuestros pecados; y no solamente por los nuestros, sino también por
-  los de todo el mundo
- *
- .” Apocalipsis 12:9-10
+#### b. Juan 6:35 – “*Jesús les dijo: Yo soy el pan de vida; el que a mí viene, nunca tendrá hambre; y el que en mí cree, no tendrá sed  **<u>jamás</u>** * .”
 
+### 20. Un argumento de **total aceptación**: Jesucristo prometió nunca expulsar a nadie que vino a Él en fe. Si has confiado en Cristo, Él nunca te desechará ni **<u>rechazará</u>**. ¡Nunca!
 
- *Argumentos de la Realidad de la Seguridad Eterna*
+#### a. En Juan 6:37 [LBLA] Jesús dijo, “*Todo lo que el Padre me da, vendrá a mí; y al que viene a mí,  **<u>de ningún modo</u>** lo echaré fuera*.”
 
-### 15. Un argumento de **posesión presente**:
+#### b. Juan 6:39a – “* Y esta es la voluntad del Padre, el que me envió: Que de todo lo que me diere, no pierda yo **<u>nada</u>** *,…” Cristo nunca perderá a ninguno de los hijos de Dios.
 
- <br/>
- Juan 3:36a dice, “*El que cree en el Hijo tiene vida eterna;…*” Si
-has creído en el Hijo de Dios, Jesucristo, tú ya **<u>posees</u>** la vida eterna. La vida eterna es tu
- posesión y eso no puede cambiar. 1 Juan 5:11-12
-
-### 16. Un argumento de **un** **hecho consumado**:
-
- <br/>
- Si pudieras **<u>perder</u>** tu salvación, la obra de Cristo
- en la cruz no habría sido completada, pero sabemos que ese no es el caso en
- absoluto. El sacrificio de Cristo fue una obra terminada.
-
-#### a. Juan 19:30 – “
-
- *
-Cuando Jesús hubo tomado el vinagre, dijo:  **<u>Consumado</u>** es. Y habiendo inclinado la cabeza,
-  entregó el espíritu
- *
- .”
-
-#### b. Hebreos 7:27 –
-
- *
-  “que no tiene necesidad cada día, como aquellos sumos sacerdotes, de
-  ofrecer primero sacrificios por sus propios pecados, y luego por los
-  del pueblo; porque esto lo hizo **<u>una vez</u>** para
-  siempre, ofreciéndose a sí mismo
- *
- .”
-
-#### c. Hebreos 10:10 – “
-
- *
-  En esa voluntad somos santificados mediante la ofrenda del cuerpo de
-  Jesucristo hecha una vez para **<u>siempre</u>**
- *
- .”
-
-#### d. Hebreos 10:14 –
-
- *
-“porque con una sola ofrenda hizo perfectos para  **<u>siempre</u>** a los santificados
- *
- .”
-
-#### e. Hebreos 10:18 – “
-
- *
-  Pues donde hay remisión de éstos, **<u>no hay más</u>**
-  ofrenda por el pecado
- *
- .”
-
-### 17. Un argumento de **un** **producto terminado**
-
- :
- <br/>
- Sabemos que Dios termina todo lo que comienza. Puesto que Él comenzó
- nuestra salvación, Él la continuará hasta que Cristo regrese. Filipenses
- 1:6 dice, “
- *
-
-    estando persuadido de esto, que el que comenzó en vosotros la buena
-    obra, la perfeccionará **<u>hasta</u>** el día de
-    Jesucristo;
-
- *
- ” 1 Corintios 1:8
-
-### 18. Un argumento de **tener o no tener**:
-
- <br/>
- Tú, o **<u>posees</u>** la vida eterna gracias a Cristo, o
- estás todavía muerto en tus pecados. 1 Juan 5:11-12 dice, “
- *
-
-    Y este es el testimonio: que Dios nos ha dado vida eterna; y esta vida
-    está en su Hijo. El que tiene al Hijo, tiene la vida; el que no tiene
-    al Hijo de Dios no tiene la vida.
-
- *
- ”
-
-
- *Argumentos de Completitud de la Seguridad Eterna*
-
-### 19. Un argumento de **total satisfacción**:
-
- <br/>
- Si pudieras perder tu salvación, nuevamente llegarías a estar
- espiritualmente hambriento y sediento, pero Cristo prometió que nadie que
- cree en Él volverá a tener **<u>sed</u> **o hambre jamás.
-
-#### a. Juan 4:14 – “
-
- *
-  mas el que bebiere del agua que yo le daré, no tendrá sed jamás; sino
-que el agua que yo le daré será en él una fuente de agua que salte para  **<u>vida</u>** eterna
- *
- .”
-
-#### b. Juan 6:35 – “
-
- *
-  Jesús les dijo: Yo soy el pan de vida; el que a mí viene, nunca tendrá
-hambre; y el que en mí cree, no tendrá sed  **<u>jamás</u>**
- *
- .”
-
-### 20. Un argumento de **total aceptación**:
-
- <br/>
- Jesucristo prometió nunca expulsar a nadie que vino a Él en fe. Si has
-confiado en Cristo, Él nunca te desechará ni **<u>rechazará</u>**. ¡Nunca!
-
-#### a. En Juan 6:37 [LBLA] Jesús dijo, “
-
- *
-Todo lo que el Padre me da, vendrá a mí; y al que viene a mí,  **<u>de ningún modo</u>** lo echaré fuera
- *
- .”
-
-#### b. Juan 6:39a – “
-
- *
-  Y esta es la voluntad del Padre, el que me envió: Que de todo lo que me
-  diere, no pierda yo **<u>nada</u>**
- *
- ,…” Cristo nunca perderá a ninguno de los hijos de Dios.
-
-### 21. Un argumento de **total pertenencia**:
-
- <br/>
- Eres completamente bendecido en Cristo, aparte de cualquier mérito
- personal. Efesios 1:6-7 –*“para alabanza de la gloria de **<u>su</u>** gracia, con
-
-    la cual nos hizo aceptos en el Amado, en quien tenemos redención por su
-    sangre, el perdón de pecados según las riquezas de su gracia*,”
+### 21. Un argumento de **total pertenencia**: Eres completamente bendecido en Cristo, aparte de cualquier mérito personal. Efesios 1:6-7 –*“para alabanza de la gloria de **<u>su</u>** gracia, con la cual nos hizo aceptos en el Amado, en quien tenemos redención por su sangre, el perdón de pecados según las riquezas de su gracia*,”
 
 ### 22. Un argumento de **total protección**: Si pudieras perder tu salvación, perecerías, pero Cristo prometió que ningún creyente **<u>perecerá</u>** ni será arrebatado jamás. Juan 3:16
 
@@ -3584,6 +3539,8 @@ Todo lo que el Padre me da, vendrá a mí; y al que viene a mí,  **<u>de ningú
 
 ###### *Argumentos de Justicia de la Seguridad Eterna*
 
+
+
 ### 29. Un argumento de **perfecta justicia**: La salvación se basa en la justicia de Cristo y no en la nuestra. Filipenses 3:9 dice, “*y ser hallado en él, no teniendo **<u>mi</u>** propia justicia, que es por la ley, sino la que es por la fe de Cristo, la justicia que es de Dios por la fe*;” 2 Corintios 5:21
 
 ### 30. Un argumento de **justicia imputada**: No se nos mantiene salvos en **<u>base</u>** a nuestra justicia, sino en base a la justicia de Dios, y Su justicia siempre será lo suficientemente buena. Gálatas 3:6
@@ -3601,7 +3558,9 @@ Todo lo que el Padre me da, vendrá a mí; y al que viene a mí,  **<u>de ningú
 #### b. Romanos 5:8-9 – “*Mas Dios muestra su amor para con nosotros, en que siendo aún pecadores, Cristo murió por nosotros*. *Pues mucho más, estando ya justificados en su sangre, por él seremos salvos de la **<u>ira</u>** *.”
 
 
-*Argumentos de Identidad de la Seguridad Eterna*
+###### *Argumentos de Identidad de la Seguridad Eterna*
+
+
 
 ### 32. Un argumento de **identificación en Cristo**: No podemos ser condenados a juicio en el infierno por quienes somos ahora en Cristo. Nuestra **<u>identidad</u>** está envuelta en la identidad de Cristo, de modo que todo lo que es cierto acerca de Él es ahora cierto acerca de nosotros. Él es nuestra victoria. Ya que espiritualmente estamos establecidos y seguros en los lugares celestiales en Él, no podemos perdernos.
 
@@ -3634,6 +3593,8 @@ Todo lo que el Padre me da, vendrá a mí; y al que viene a mí,  **<u>de ningú
 
 
 ###### *Argumentos de Victoria de la Seguridad Eterna*
+
+
 
 ### 37. Un argumento de la **resurrección**:  Un cristiano no puede perder su salvación porque Dios prometió resucitar corporalmente a cada persona que haya venido a Él en fe. Cada creyente vivirá con Dios para siempre. Él no **<u>incumplirá</u>** esta promesa.
 
@@ -3672,7 +3633,10 @@ Todo lo que el Padre me da, vendrá a mí; y al que viene a mí,  **<u>de ningú
 #### b. 1 Juan 5:4-5 – “* Porque todo lo que es nacido de Dios vence al mundo; y esta es la victoria que ha vencido al mundo, nuestra fe. ¿Quién es el que vence al mundo, sino el que cree que Jesús es el Hijo de Dios?*”. Desde que confiamos en Cristo somos contados como **<u>victoriosos</u>** sobre este mundo.
 
 
- ** *<u>Argumentos de Inclusión de la Seguridad Eterna</u>* **
+
+###### *<u>Argumentos de Inclusión de la Seguridad Eterna</u>* 
+
+
 
 ### 45. Un argumento de **cita divina**: Dios declara inequívocamente que seremos revelados con Cristo en la eternidad. Colosenses 3:4 dice, “*Cuando Cristo, vuestra vida, se manifieste, entonces vosotros también seréis manifestados con él en **<u>gloria</u>**. *” Si pudiéramos perder nuestra salvación, esta promesa estaría vacía.
 
@@ -3733,6 +3697,8 @@ Todo lo que el Padre me da, vendrá a mí; y al que viene a mí,  **<u>de ningú
 
 
 # XIII. Cinco Personas que Debes Conocer
+
+
 
 ## A. La persona natural
 
@@ -3947,5 +3913,8 @@ Todo lo que el Padre me da, vendrá a mí; y al que viene a mí,  **<u>de ningú
 
 
 ### 10. **Consejo final**: 1 Timoteo 6:11-12 – “*Mas tú, oh hombre de Dios, **<u>huye</u>** de estas cosas, y sigue la justicia, la piedad, la fe, el amor, la paciencia, la mansedumbre. **Pelea la buena batalla de la fe**, echa mano de la vida eterna, a la cual asimismo fuiste llamado, habiendo hecho la buena profesión delante de muchos testigos*.”
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="70%" --> 
 
  
