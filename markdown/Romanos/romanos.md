@@ -1,158 +1,127 @@
 ROMANOS 1-8
-
-author:DM2®
-
 version: Romanos 5.5
-
 
 *Copyright © **2018 by DM Multiplied, Inc**
 Derechos Reservados
 Inspirado por el Espíritu de Dios, Pablo dictó esta carta a Tercio y la
 envió por medio de Febe a Roma. Su propósito era claro.*
 
-
 *Mas os he escrito, hermanos, en parte con atrevimiento, como para haceros recordar, por la gracia que de Dios me es dada para ser ministro de Jesucristo a los gentiles, ministrando el evangelio de Dios, para que los gentiles le sean ofrenda agradable, santificada por el Espíritu Santo. Romanos 15:15-16*
 
-
 Debido a la gracia que Dios le dio a Pablo, Romanos es aún utilizado para proclamar el evangelio de Dios a hombres y mujeres de todo el mundo. Dios está usando Romanos para inspirar a las personas a convertirse en una ofrenda aceptable para Dios, santificada por el Espíritu Santo. Te animamos a estudiar Romanos con una postura entusiasta y receptiva. Mientras lo haces, que la gracia de Dios revelada en este libro cautive tu corazón, como lo hizo con el del apóstol Pablo, y te conduzca a un vivir santo.
-
 
 ¡A Dios sea la gloria!
 Marzo, 2018
 Edición 5.5
-Derechos de Autor © **2013** **DM2** **International** **Inc.** Todos los derechos reservados 
+Derechos de Autor © **2013 DM2 International Inc.** Todos los derechos reservados 
 
-
-**Póliza de los Derechos de Autor. **
+<small>
+*Póliza de los Derechos de Autor*
 Traducción no autorizada, re-publicación, duplicación del documento, página de la internet o distribución del correo electrónico de cualquier porción de este material de derechos de autor de cualquier forma, sin el expreso consentimiento escrito de DM2™ es estrictamente prohibido. Puedes usar los materiales de DM2 para tu propio estudio personal o para volverlos a enseñar en una clase, siempre y cuando, el logo de DM2 y esta póliza de los derechos de autor estén incluidos siempre en el material al ser enseñados. Puedes bajar una copia a tú PC, imprimirla o hacer copias para la clase o estudio de grupo Bíblico; sin embargo, no puedes cobrar por este material o por conducir una clase usando el mismo, excepto por el costo actual del copiado. NO puedes hacer cambios a este material, tiene derechos de autor. Para una más amplia exposición de la póliza del DM2 con respecto a los usos de sus materiales, por favor referirse a la página de la internet DM2-USA al <a href="http://www.dm2usa.org">http://www.dm2usa.org</a>. [DM2™]
+</small>
 
-
-**Impreso**
-**y**
-**Propiedad**
-**de:**
-**DM2**
-**Disciple**
-**Makers**
-**Multiplied**
+**Impreso y Propiedad de:**
+**DM2 Disciple Makers Multiplied**
 **PO Box 7758**
 **Beaumont, TX 77726**
 
-
-**Para**
-**más**
-**información:**
-** disciplemakersmultiplied@gmail.com** 
-** DM2USA.org **
-
+**Para más información:**
+**disciplemakersmultiplied@gmail.com** 
+**DM2USA.org **
 
 ## ROMANOS 1-8
-| **Introducción 7**| **Romanos 1:1-17 – Dirigiéndose a la Iglesia en Roma 10** |
-|------------------|----------------------------|
-| **Romanos 1:18-3:20** | **La Justicia de Dios hacia los Pecadores 16** |
-| Romanos 1:18-32 | El juicio de Dios sobre el pecador inmoral 16 |
-| Romanos 2:1-16 | El juicio de Dios sobre el pecador moral 20 |
-| Romanos 2:17-29 | El juicio de Dios sobre el pecador religioso 23 |
-| Romanos 3:1-8 | Pablo anticipó preguntas 26 |
-| Romanos 3:9-20 | En conclusión: Todo el mundo es culpable de pecado 27 |
 
+| **Introducción**                                             | **7**  |
+| ------------------------------------------------------------ | ------ |
+| **Romanos 1:1-17 – Dirigiéndose a la Iglesia en Roma**       | **10** |
+| **Romanos 1:18-3:20 - La Justicia de Dios hacia los Pecadores** | **16** |
+| Romanos 1:18-32 - El juicio de Dios sobre el pecador inmoral | 16     |
+| Romanos 2:1-16 - El juicio de Dios sobre el pecador moral    | 20     |
+| Romanos 2:17-29 - El juicio de Dios sobre el pecador religioso | 23     |
 
-| Romanos 3:9-20  | Hagamos un viaje a través de la escuela de Leyes 29|
-| **Romanos 3:21-5:11** | **Justificación: Declarado Legalmente Justo 33 ** |
-| Romanos 3:21-31 | Pablo explicó cómo Dios justifica a los pecadores 33 |
-| Romanos 4:1-25 | Ejemplos del Antiguo Testamento de justificación por fe 36 |
-| Romanos 5:1-11 | Las bendiciones inmerecidas de la justificación por fe 42 |
-| **Romanos 5:12-21** | **La Doctrina de la Identificación 46** |
+| Romanos 3:1-8 - Pablo anticipó preguntas                     | 26     |
+| ------------------------------------------------------------ | ------ |
+| Romanos 3:9-20 - En conclusión: Todo el mundo es culpable de pecado | 27     |
+| Romanos 3:9-20 - Hagamos un viaje a través de la escuela de Leyes | 29     |
+| **Romanos 3:21-5:11 - Justificación: Declarado Legalmente Justo** | **33** |
 
+| Romanos 3:21-31 - Pablo explicó cómo Dios justifica a los pecadores | 33     |
+| ------------------------------------------------------------ | ------ |
+| Romanos 4:1-25 - Ejemplos del Antiguo Testamento de justificación por fe | 36     |
+| Romanos 5:1-11 - Las bendiciones inmerecidas de la justificación por fe | 42     |
+| **Romanos 5:12-21 - La Doctrina de la Identificación**       | **46** |
 
-| **Romanos 6:1-10** | **Verdad Posicional 49** |
-| Romanos 6:1-2 | ¿Por qué no pecar? 49 |
-| Romanos 6:3-5 | Conociendo la historia de tu muerte con Cristo al pecado 52 |
-| Romanos 6:6-10 | Conociendo el significado de tu muerte con Cristo 54 |
-| **Romanos 6:11-23** | **Haciendo Práctica la Santificación 57** |
-| Romanos 6:11 | Contando con tu nueva identidad 57 |
-| Romanos 6:12-14 | Presentando tus miembros 58 |
-| Romanos 6:15-18 | ¿Quién es tu señor? 59 |
-| Romanos 6:19-23 | La santificación hecha simple 61 |
+| **Romanos 6:1-10 - Verdad Posicional**                       | **49** |
+| ------------------------------------------------------------ | ------ |
+| Romanos 6:1-2 - ¿Por qué no pecar?                           | 49     |
+| Romanos 6:3-5 - Conociendo la historia de tu muerte con Cristo al pecado | 52     |
+| Romanos 6:6-10 - Conociendo el significado de tu muerte con Cristo | 54     |
 
+| **Romanos 6:11-23 - Haciendo Práctica la Santificación** | **57** |
+| -------------------------------------------------------- | ------ |
+| Romanos 6:11 - Contando con tu nueva identidad           | 57     |
+| Romanos 6:12-14 - Presentando tus miembros               | 58     |
+| Romanos 6:15-18 - ¿Quién es tu señor?                    | 59     |
+| Romanos 6:19-23 - La santificación hecha simple          | 61     |
 
-| **Romanos 7:1-25** | **Tu Nueva Relación con la Ley 62** |
-| Romanos 7:1-6 | Casados con Cristo 63 |
-| Romanos 7:7-13 | Vida bajo la Ley 65 |
-| Romanos 7:14-23 | Una vida frustrada 67 |
-| Romanos 7:24-25 | El reconocimiento de Pablo de la liberación en Cristo 69 |
-| **Romanos 8:1-17** | **La santificación y el Espíritu Santo 69** |
-| Romanos 8:1-4 | Un nuevo principio para la vida 70 |
-| Romanos 8:5-8 | Características de la mente puesta en la carne/Espíritu 73 |
+| **Romanos 7:1-25 - Tu Nueva Relación con la Ley**            | **62** |
+| ------------------------------------------------------------ | ------ |
+| Romanos 7:1-6 - Casados con Cristo                           | 63     |
+| Romanos 7:7-13 - Vida bajo la Ley                            | 65     |
+| Romanos 7:14-23 - Una vida frustrada                         | 67     |
+| Romanos 7:24-25 - El reconocimiento de Pablo de la liberación en Cristo | 69     |
 
+| **Romanos 8:1-17 - La santificación y el Espíritu Santo**    | **69** |
+| ------------------------------------------------------------ | ------ |
+| Romanos 8:1-4 - Un nuevo principio para la vida              | 70     |
+| Romanos 8:5-8 - Características de la mente puesta en la carne/Espíritu | 73     |
 
-| Romanos 8:9-11 | El creyente está en el Espíritu 74 |
-| Romanos 8:12-17 | Tu responsabilidad como creyente en Cristo 75 |
-| **Romanos 8:18-39** | **Glorificación 79** |
-| Romanos 8:18 | Esperando ser glorificado 79 |
-| Romanos 8:19-27 | Gimiendo para ser glorificado 79 |
-| Romanos 8:28-30 | Garantizado para ser glorificado 81 |
-| Romanos 8:31-39 | Glorificación verificada y probada 86 |
-| **El Mensaje del Evangelio 88** | |
-| Presentaciones Confusas del Evangelio 95 | |
-| **Seguros por Siempre 107**| |
-|**Cinco Personas que Deberías Conocer 120**| |
-|**Resultados de Vivir Consistentemente una Vida Carnal. 126**|  |
+| Romanos 8:9-11 - El creyente está en el Espíritu             | 74     |
+| ------------------------------------------------------------ | ------ |
+| Romanos 8:12-17 - Tu responsabilidad como creyente en Cristo 75 |        |
+| **Romanos 8:18-39 - Glorificación**                          | **79** |
+| Romanos 8:18 - Esperando ser glorificado                     | 79     |
+| Romanos 8:19-27 - Gimiendo para ser glorificado              | 79     |
+| Romanos 8:28-30 -  Garantizado para ser glorificado          | 81     |
 
-
+| Romanos 8:31-39 - Glorificación verificada y probada     | 86      |
+| -------------------------------------------------------- | ------- |
+| **El Mensaje del Evangelio**                             | **88**  |
+| Presentaciones Confusas del Evangelio                    | 95      |
+| **Seguros por Siempre**                                  | **107** |
+| **Cinco Personas que Deberías Conocer**                  | **120** |
+| **Resultados de Vivir Consistentemente una Vida Carnal** | **126** |
 
 # Romanos 1-8 
 
-
-
 # I. Introducción
+
 ## A. Importancia del libro de Romanos
 
 ### 1. El libro de Romanos es considerado por muchos la carta más importante de Pablo. Explica el marco teológico básico para las **<u>creencias</u>** y prácticas de la iglesia, el cuerpo de Cristo. 
 
-
-
-
 ### 2. Los capítulos 1 al 8 de Romanos abordan la **<u>fe</u>**, la gracia, la ley, las obras, el pecado y la naturaleza carnal. La santificación, la identificación con Cristo y el ministerio del Espíritu Santo también son explicados. 
-
-
 
 ### 3. Los capítulos 9 al 16 destacan a **<u>Israel</u>** en relación con el plan de Dios y abordan los dones espirituales y el amor piadoso. Estos capítulos también describen cómo los cristianos deben ver el ministerio y el gobierno, al igual que describen otros privilegios y responsabilidades que tienen los creyentes. 
 
-
-
-
-
 ### 4. El hecho de que el libro de Romanos abarca prácticamente todas las  **<u>principales</u>** doctrinas de la Era de la Iglesia puede ser la razón por la cual los primeros líderes de la iglesia que organizaron el Nuevo Testamento colocaron Romanos justo después del libro de Hechos. 
 
-
-
 ## B. La ciudad de Roma
+
 ### 1. Cuando el libro de Romanos fue escrito, Roma era la **<u>capital</u>** del Imperio Romano y la ciudad más influyente sobre la tierra. De hecho, Roma gobernaba todo el mundo conocido de aquel momento, y esta dominación de expansión posibilitó un periodo de paz conocido históricamente como la Pax Romana (en latín para Paz Romana). 
-
-
 
 ### 2. Se estima que, en el tiempo de Jesucristo, Roma tenía una población de un 1.000.000 de habitantes, siendo **<u>esclavos</u>** entre el 15 al 30 por ciento de la población. Aparte de los esclavos, habían al menos otras dos clases de personas más, la clase obrera y la aristócrata. 
 
-
-
 ### 3. El Imperio Romano no solamente construyó canales y**<u>caminos</u>**, también promovió el griego como lengua unificadora. Gálatas 4:4 
-
-
 
 ### 4. La ciudad era bien conocida por sus imponentes edificios públicos, música refinada y entretenimiento. También era conocida por sus concursos de gladiadores inmortales y peleas de animales brutales, donde tanto hombres como animales a menudo eran obligados a **<u>luchar</u>** hasta la muerte. 
 
-
-
 ### 5. Roma se jactaba de contar con una prestigiosa unidad militar llamada Guardia Pretoriana. La Guardia Pretoriana era una unidad **<u>élite</u>** de soldados que luego sirvió como guardaespaldas del emperador. Eventualmente, sin embargo, se convirtió en una institución traidora, incluso derrocando emperadores y nombrando sucesores. 
-
-
 
 ### 6. Aunque Claudio había expulsado a todos los **<u>judíos</u>** que no eran ciudadanos de Roma en el año 50 d. C., hubo muchos judíos con ciudadanía romana que continuaron viviendo en la ciudad. Hechos 18:2 
 
-
-
 ## C. Autor, localización y fecha de escritura
+
 ### 1. Autor: Es comúnmente aceptado que **<u>Pablo</u>** fue el autor del libro de Romanos. 
 
 #### a. En Romanos 1:1, Pablo claramente firmó su **<u>nombre</u>** como el autor del libro. 
@@ -163,7 +132,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 ### 2. Localización: Pablo posiblemente escribió este libro desde la **<u>ciudad</u>** de Corinto. 
 
-#### a. Aunque Pablo no mencionó específicamente a Corinto en Romanos, sí mencionó a una mujer llamada Febe quien transportó la**<u>carta</u>** de Pablo a Roma. Febe era de la iglesia de Cencrea, una pequeña ciudad portuaria cerca de Corinto. Romanos 16:1
+#### a. Aunque Pablo no mencionó específicamente a Corinto en Romanos, sí mencionó a una mujer llamada Febe quien transportó la **<u>carta</u>** de Pablo a Roma. Febe era de la iglesia de Cencrea, una pequeña ciudad portuaria cerca de Corinto. Romanos 16:1
 
 #### b. En Romanos 16:23, Pablo mencionó a Gayo como uno de sus compañeros en la **<u>escritura</u>** de Romanos. 1 Corintios 1:14 muestra que Gayo era de Corinto. 
 
@@ -219,13 +188,10 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 ### 4. En Romanos capítulos 12-16, la justicia de Dios es vivida por el pueblo de Dios a través de numerosas relaciones **<u>humanas</u>**.
 
-
-
 # II. Romanos 1:1-17 – Dirigiéndose a la Iglesia en Roma
 
- 
-
 ## A. Romanos 1:1–7 – Un ministerio para el mundo
+
 ### 1. Romanos 1:1 – La misión de Pablo 
 
 #### a. Romanos 1:1a – “*Pablo, siervo*...” Antiguamente un **<u>violento</u>** perseguidor de la iglesia, Pablo se convirtió al cristianismo por medio de un encuentro milagroso con el Señor Jesucristo. Hechos 9:1-6, 1 Timoteo 1:12-16 
@@ -304,11 +270,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 #### c. Romanos 1:7 – Pablo deseaba bendiciones **<u>especiales</u>** para los romanos. Romanos 1:11‑12
 
-##### 1) Romanos 1:7c – “*Gracia y paz a vosotros,*…” En este saludo,
- Pablo dio a los creyentes romanos una bendición de dos partes. Él deseaba
- que la gracia y la paz **<u>reposaran</u>** sobre ellos. La
- gracia es bondad inmerecida y la paz es tranquilidad mental. Todos los
- santos necesitan estas dos bendiciones. Romanos 16:20
+##### 1) Romanos 1:7c – “*Gracia y paz a vosotros,*…” En este saludo, Pablo dio a los creyentes romanos una bendición de dos partes. Él deseaba que la gracia y la paz **<u>reposaran</u>** sobre ellos. La gracia es bondad inmerecida y la paz es tranquilidad mental. Todos los santos necesitan estas dos bendiciones. Romanos 16:20
 
 ##### 2) Romanos 1:7d – “…*de Dios nuestro Padre y del Señor Jesucristo*.” La verdadera gracia y paz provienen solo de Dios el Padre y de Dios el Hijo. Aunque el Espíritu Santo no es mencionado aquí, Él es el que silenciosamente administra estas bendiciones en la **<u>vida</u>** de los creyentes. Romanos 8:11, 15:13; 2 Corintios 13:14
 
@@ -323,7 +285,6 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 ##### 2) Romanos 1:8b – “…***<u>mediante</u>*** * Jesucristo*…” Jesús es el que abrió la puerta para que los creyentes puedan acercarse a Dios en oración. Romanos 5:1-2, Efesios 3:11-12
 
 ##### 3) Romanos 1:8c –*“…con respecto a todos vosotros, de que vuestra fe se divulga por todo el **<u>mundo</u>** *.” Pablo estaba agradecido de que la gente, a lo largo y ancho del mundo, estuvieran escuchando acerca de la fe de los creyentes romanos. Romanos 16:19, 1 Tesalonicenses 1:8
-
 
 #### b. Romanos 1:9 – Pablo **<u>oraba</u>** continuamente.
 
@@ -381,7 +342,6 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 #### d. Romanos 1:16d – “…*al judío primeramente, y también al griego.” * Históricamente, el evangelio fue **<u>ofrecido</u>** primero al pueblo judío y después de eso a las naciones gentiles (griegos). Aunque en la actualidad Cristo está llamando personas de entre los gentiles, Israel todavía ocupa un lugar muy querido en su corazón, como vemos en Romanos 9‑11. Hechos 1:8
 
-
 ### 2. Romanos 1:17 – La **<u>gratitud</u>** de Pablo por el evangelio (1 Timoteo 1:12-17)
 
 #### a. Romanos 1:17a – “ *Porque en el evangelio la justicia de Dios se revela…” *El evangelio trajo a la **<u>luz</u>** la manera de Dios de declarar justos a los pecadores. Job 25:4
@@ -395,6 +355,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 ##### 2) Y ahora, gracias a que las demandas justas de Dios se cumplieron, Dios puede declarar legalmente justos a los pecadores sin comprometer Sus estándares **<u>legales</u>** de justicia. Romanos 4:5, 2 Corintios 5:21, Gálatas 2:16-21
 
 #### b. Romanos 1:17b – “…*por fe y para fe…” *El evangelio afirma que la justicia de Dios es obtenida sólo a través de la **<u>fe</u>**
+
  .
 
 ##### 1) “…*por fe…” *La justificación, ser salvo de la pena del pecado, es por fe o de la fe. La justicia ante Dios viene en el momento en que un pecador **<u>confía</u>** en Cristo.
@@ -407,18 +368,13 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 ##### 2) ¿Qué significa la palabra justo? En hebreo es la palabra TSADDIYQ (pronunciada sa-dik), significa justo o legal. En griego, la palabra es DIKAIOS (pronunciado di-ka-yos), significa justo o sin culpa, específicamente justo a los ojos de Dios o sin culpa a la **<u>vista</u>** de Dios.
 
-
-
 # III. Romanos 1:18-3:20 – La Justicia de Dios hacia los Pecadores
-
-
 
 ## A. Romanos 1:18-32 – El juicio de Dios del pecador inmoral
 
 ### 1. Romanos 1:18-20 – Dios tiene razón cuando condena a los pecadores inmorales porque con su conducta rebelde, **<u>reprimen</u>** la verdad.
 
 #### a. Romanos 1:18 – De acuerdo con Romanos 1:17, *la justicia de Dios se revela* a la humanidad a través del evangelio. Por el contrario, aquí en Romanos 1:18, la **<u>ira</u>** de Dios se revela desde el cielo contra todo lo injusto.
-
 
 ##### 1) Romanos 1:18a – “ *Porque la ira de Dios se revela desde el cielo...” *Desde el cielo Dios hace **<u>pública</u>** Su ira hacia el pecado. Job 36:29-37:5
 
@@ -499,6 +455,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 ### 6. Romanos 1:32 – Así que Dios está en lo **<u>correcto</u>** cuando condena a los pecadores inmorales porque incluso ante el juicio inminente, se atreven a desafiarlo. Romanos 1:18 
 
 #### a. Romanos 1:32a – “*quienes habiendo entendido el juicio de Dios,…” *El pecador inmoral **<u>conoce</u>** instintivamente el estándar de Dios de lo
+
  correcto y lo incorrecto. 
 
 #### b. Romanos 1:32b – “… *que los que practican tales cosas son dignos de muerte,…”* El pecador inmoral sabe muy bien que su rebelión merece la **<u>muerte</u>**. 
@@ -1015,6 +972,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 #### c. Romanos 4:11b – “…* para que fuese padre de todos los creyentes no circuncidados, a fin de que también a ellos la fe les sea contada por justicia*;” Cualquier persona en el mundo, judía o no judía, circuncidada o no circuncidada, puede ser **<u>salva</u>** sin ningún ritual.
 
 ##### 1) Los rituales religiosos como el **<u>bautismo</u>**, la comunión, la confirmación, el bautismo de infantes, la circuncisión, ir a
+
  la iglesia, hacer una oración, encender una vela, caminar por el pasillo de
  la iglesia, etc., no afectan nuestra justificación de ninguna manera.
 
@@ -1234,6 +1192,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 #### b. Romanos 5:12b – “…*y por el pecado la muerte,*…” Dado que la **<u>pena</u>** por el pecado es la muerte, el pecado de Adán
+
  introdujo la muerte en el mundo.
 
 #### c. Romanos 5:12c – “…*así la muerte pasó a todos los hombres,…”* Debido a nuestra relación con Adán, la **<u>muerte</u>** fue  transmitida a todos nosotros.
@@ -1932,6 +1891,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 ##### 6) El mayor **<u>deseo</u>** de Pablo en la vida era ser justo en su conducta al confiar en Cristo. Él no quería volver a luchar para obtener algún tipo de justicia legalista y auto-realizada.
 
 ###### a) Filipenses 3:9 – “*y ser hallado en él, no teniendo mi propia justicia, que es por la  **<u>ley</u>**, sino la que es por la fe de Cristo, la  justicia que es de Dios por la fe;”*
+
  .
 
 ###### b) Filipenses 3:10-11 – “*A fin de conocerle, y el **<u>poder</u>** de su resurrección, y la participación de sus padecimientos, llegando a ser semejante a él en su muerte, si en alguna manera llegase a la resurrección de entre los muertos*.”
@@ -2362,6 +2322,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 #### c. ***<u>Persecución</u>*** * …nos separará del amor de Cristo?* ¿Qué si somos odiados, cazados, torturados o incluso asesinados? Hechos 8:1
 
 #### d. ***<u>Hambre</u>*** * …nos separará del amor de Cristo?* ¿Qué si no tenemos suficiente
+
  para comer y sufrimos hambre? Hechos 11:28-30
 
 #### e. ***<u>Desnudez</u>*** * …nos separará del amor de Cristo?* ¿Qué si terminamos sin hogar y sufrimos exposición con poca o ninguna ropa? Hebreos 11:37-38
@@ -2565,16 +2526,16 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
  
 
-|               | SALVO POR: |  NO SALVO POR: |
-|------------------|------------------|-------------------|
-|Efesios 2:8-9 | Porque por gracia sois salvos por medio de la fe |  y esto no de vosotros | pues es don de Dios | no por obras, para que nadie se gloríe |
-| Hechos 13:39 |  en él es justificado todo aquel que cree  |   y que de todo aquello de que por la ley de Moisés no pudisteis ser justificados. |
-| Tito 3:5  | Nos salvó no por obras de justicia que nosotros hubiéramos hecho | sino por su misericordia, por el lavamiento de la  regeneración y por la renovación en el Espíritu Santo |
-| 2 Timoteo 1:9 | quien nos salvó y llamó con llamamiento santo | no conforme a nuestras obras |
-| sino según el propósito suyo y la gracia que nos  fue dada en Cristo Jesús antes de los tiempos de los siglos |
-|Gálatas 2:16 | Sabiendo que el hombre no es justificado por las obras de la ley | sino por la fe de Jesucristo, |
-| nosotros también hemos creído en Jesucristo, | para ser justificados por la fe de Cristo |
-| y no por las obras de la ley, | por cuanto por las obras de la ley nadie será justificado. |
+|                                                              | SALVO POR:                                                   | NO SALVO POR:                                                |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Efesios 2:8-9                                                | Porque por gracia sois salvos por medio de la fe             | y esto no de vosotros                                        |
+| Hechos 13:39                                                 | en él es justificado todo aquel que cree                     | y que de todo aquello de que por la ley de Moisés no pudisteis ser justificados. |
+| Tito 3:5                                                     | Nos salvó no por obras de justicia que nosotros hubiéramos hecho | sino por su misericordia, por el lavamiento de la  regeneración y por la renovación en el Espíritu Santo |
+| 2 Timoteo 1:9                                                | quien nos salvó y llamó con llamamiento santo                | no conforme a nuestras obras                                 |
+| sino según el propósito suyo y la gracia que nos  fue dada en Cristo Jesús antes de los tiempos de los siglos |                                                              |                                                              |
+| Gálatas 2:16                                                 | Sabiendo que el hombre no es justificado por las obras de la ley | sino por la fe de Jesucristo,                                |
+| nosotros también hemos creído en Jesucristo,                 | para ser justificados por la fe de Cristo                    |                                                              |
+| y no por las obras de la ley,                                | por cuanto por las obras de la ley nadie será justificado.   |                                                              |
 
 
 
@@ -2880,6 +2841,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 #### b. El evangelio no es ser **<u>inmolado</u>** en el espíritu.
 
 #### c. El evangelio no es una especie de conjuro **<u>mágico</u>**
+
  .
 
 ### 6. El evangelio no es una promesa o compromiso que **<u>hacemos</u>**.
@@ -2903,6 +2865,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 #### a. El evangelio no es confiar en tu **<u>fe</u>**.
 
 #### b. El evangelio no es tu habilidad para ser **<u>sincero</u>**
+
  .
 
 #### c. El evangelio no es tu habilidad para **<u>echar</u>** fuera todas las dudas.
@@ -3056,18 +3019,21 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 #### b. Salmos 62:6 – “*El solamente es mi **roca** y mi salvación. Es mi refugio, no **<u>resbalaré</u>** *”. Salmo 118:8-9
 
 ### 9. Un argumento de **la palabra escrita**: 1 Juan 5:13 –* “Estas cosas os he escrito a vosotros que creéis en el nombre del Hijo de Dios, para que sepáis que tenéis vida eterna, y para que creáis en el nombre del Hijo de Dios*.” Estás eternamente seguro porque la Biblia lo dice. Sin arrogancia,
+
 puedes ciertamente saber que estás salvo y seguro en Cristo porque la **<u>Palabra</u>** de Dios lo dice así.
 
 
  *Argumentos Legales de la Seguridad Eterna*
 
 ### 10. Un argumento de la **eliminación de la culpa**:
+
  <br/>
  Juan 1:29 dice, “
  *
 
     He aquí el Cordero de Dios, que **<u>quita</u>** el pecado
     del mundo.
+
  *
  ” Jesús fue en efecto el sacrificio de Dios para quitar nuestros pecados.
  Tus pecados, pasados, presentes y futuros, fueron borrados por Cristo. Si
@@ -3075,12 +3041,14 @@ puedes ciertamente saber que estás salvo y seguro en Cristo porque la **<u>Pala
  eso no es posible. Hebreos 10:12
 
 ### 11. Un argumento de los **pecados olvidados**:
+
  <br/>
  Dios perdonó y **<u>olvidó</u>** todos tus pecados para
  siempre. Si el pecado pudiera mantenerte fuera del cielo, Dios no te
  perdonó completamente.
 
 #### a. Salmos 103:10-12 – “
+
  *
   No ha hecho con nosotros conforme a nuestras iniquidades, ni nos ha
   pagado conforme a nuestros pecados. Porque como la altura de los cielos
@@ -3090,6 +3058,7 @@ Cuanto está lejos el oriente del occidente, hizo  **<u>alejar</u>** de nosotros
  .”
 
 #### b. Colosenses 2:13 – “
+
  *
   Y a vosotros, estando muertos en pecados y en la incircuncisión de
 vuestra carne, os dio vida juntamente con él,  **<u>perdonándoos</u>** todos los pecados
@@ -3097,12 +3066,14 @@ vuestra carne, os dio vida juntamente con él,  **<u>perdonándoos</u>** todos l
  ,”
 
 #### c. Hebreos 8:12 – “
+
  *
 Porque seré propicio a sus injusticias, y nunca más me acordaré de sus  **<u>pecados</u>** y de sus iniquidades
  *
  .”
 
 ### 12. Un argumento de **inmunidad**:
+
  <br/>
  Dios promete que en Cristo serás salvo de la futura condenación. Pero si
  pudieras perder tu salvación, serías una vez más condenado al infierno. En
@@ -3111,6 +3082,7 @@ ese caso, las promesas de Cristo llegarían a ser **<u>falsas</u>**.
 ####
 
 #### a. Juan 3:18 dice, “
+
  *
   El que en él cree, no es **<u>condenado</u>**; pero el que
   no cree, ya ha sido condenado, porque no ha creído en el nombre del
@@ -3119,6 +3091,7 @@ ese caso, las promesas de Cristo llegarían a ser **<u>falsas</u>**.
  .”
 
 #### b. En Juan 5:24 Jesús dijo, “
+
  *
   De cierto, de cierto os digo: El que oye mi palabra, y cree al que me
 envió, tiene vida eterna; y no vendrá a condenación, mas ha  **<u>pasado</u>** de muerte a vida
@@ -3126,6 +3099,7 @@ envió, tiene vida eterna; y no vendrá a condenación, mas ha  **<u>pasado</u>*
  .”
 
 ### 13. Un argumento de **inocencia**:
+
  <br/>
  Ninguna acusación puede incriminarnos eternamente, ahora que estamos en
  Cristo. Romanos 8:33-34 dice, “
@@ -3133,23 +3107,27 @@ envió, tiene vida eterna; y no vendrá a condenación, mas ha  **<u>pasado</u>*
 
     ¿Quién **<u>acusará</u>** a los escogidos de Dios? Dios es
     el que justifica
+
  *
  .” Romanos 8:1
 
 ####
 
 ### 14. Un argumento del **mediador**:
+
  <br/>
 Puesto que Jesucristo se sienta a la diestra del Padre y **media** constantemente por nosotros, nadie puede jamás ir
  delante de Dios y presentar una acusación contra nosotros que pudiera
  causar nuestra condenación.
 
 #### a. Jesucristo es nuestro abogado defensor que siempre media ante Dios el
+
 Padre en nuestro nombre. Él no sólo es el mejor **<u>abogado</u>** de todos los tiempos, Él puede defendernos
  audaz y legalmente porque Él, el Dios-Hombre perfecto, pagó en su totalidad
  la pena por nuestros pecados.
 
 #### b. Romanos 8:34 – “
+
  *
   ¿Quién es el que condenará? Cristo es el que murió; más aún, el que
   también resucitó, el que además está a la diestra de Dios, el que
@@ -3158,6 +3136,7 @@ Padre en nuestro nombre. Él no sólo es el mejor **<u>abogado</u>** de todos lo
  .”
 
 #### c. Hebreos 7:25 – “
+
  *
   por lo cual puede también salvar perpetuamente a los que por él se
   acercan a Dios, **<u>viviendo</u>** siempre para
@@ -3166,6 +3145,7 @@ Padre en nuestro nombre. Él no sólo es el mejor **<u>abogado</u>** de todos lo
  .”
 
 #### d. 1 Juan 2:1b-2 –
+
  *
   “…y si alguno hubiere pecado, **<u>abogado</u>** tenemos
   para con el Padre, a Jesucristo el justo. y él es la propiciación
@@ -3181,18 +3161,21 @@ Padre en nuestro nombre. Él no sólo es el mejor **<u>abogado</u>** de todos lo
  *Argumentos de la Realidad de la Seguridad Eterna*
 
 ### 15. Un argumento de **posesión presente**:
+
  <br/>
  Juan 3:36a dice, “*El que cree en el Hijo tiene vida eterna;…*” Si
 has creído en el Hijo de Dios, Jesucristo, tú ya **<u>posees</u>** la vida eterna. La vida eterna es tu
  posesión y eso no puede cambiar. 1 Juan 5:11-12
 
 ### 16. Un argumento de **un** **hecho consumado**:
+
  <br/>
  Si pudieras **<u>perder</u>** tu salvación, la obra de Cristo
  en la cruz no habría sido completada, pero sabemos que ese no es el caso en
  absoluto. El sacrificio de Cristo fue una obra terminada.
 
 #### a. Juan 19:30 – “
+
  *
 Cuando Jesús hubo tomado el vinagre, dijo:  **<u>Consumado</u>** es. Y habiendo inclinado la cabeza,
   entregó el espíritu
@@ -3200,6 +3183,7 @@ Cuando Jesús hubo tomado el vinagre, dijo:  **<u>Consumado</u>** es. Y habiendo
  .”
 
 #### b. Hebreos 7:27 –
+
  *
   “que no tiene necesidad cada día, como aquellos sumos sacerdotes, de
   ofrecer primero sacrificios por sus propios pecados, y luego por los
@@ -3209,6 +3193,7 @@ Cuando Jesús hubo tomado el vinagre, dijo:  **<u>Consumado</u>** es. Y habiendo
  .”
 
 #### c. Hebreos 10:10 – “
+
  *
   En esa voluntad somos santificados mediante la ofrenda del cuerpo de
   Jesucristo hecha una vez para **<u>siempre</u>**
@@ -3216,12 +3201,14 @@ Cuando Jesús hubo tomado el vinagre, dijo:  **<u>Consumado</u>** es. Y habiendo
  .”
 
 #### d. Hebreos 10:14 –
+
  *
 “porque con una sola ofrenda hizo perfectos para  **<u>siempre</u>** a los santificados
  *
  .”
 
 #### e. Hebreos 10:18 – “
+
  *
   Pues donde hay remisión de éstos, **<u>no hay más</u>**
   ofrenda por el pecado
@@ -3229,6 +3216,7 @@ Cuando Jesús hubo tomado el vinagre, dijo:  **<u>Consumado</u>** es. Y habiendo
  .”
 
 ### 17. Un argumento de **un** **producto terminado**
+
  :
  <br/>
  Sabemos que Dios termina todo lo que comienza. Puesto que Él comenzó
@@ -3239,10 +3227,12 @@ Cuando Jesús hubo tomado el vinagre, dijo:  **<u>Consumado</u>** es. Y habiendo
     estando persuadido de esto, que el que comenzó en vosotros la buena
     obra, la perfeccionará **<u>hasta</u>** el día de
     Jesucristo;
+
  *
  ” 1 Corintios 1:8
 
 ### 18. Un argumento de **tener o no tener**:
+
  <br/>
  Tú, o **<u>posees</u>** la vida eterna gracias a Cristo, o
  estás todavía muerto en tus pecados. 1 Juan 5:11-12 dice, “
@@ -3251,6 +3241,7 @@ Cuando Jesús hubo tomado el vinagre, dijo:  **<u>Consumado</u>** es. Y habiendo
     Y este es el testimonio: que Dios nos ha dado vida eterna; y esta vida
     está en su Hijo. El que tiene al Hijo, tiene la vida; el que no tiene
     al Hijo de Dios no tiene la vida.
+
  *
  ”
 
@@ -3258,12 +3249,14 @@ Cuando Jesús hubo tomado el vinagre, dijo:  **<u>Consumado</u>** es. Y habiendo
  *Argumentos de Completitud de la Seguridad Eterna*
 
 ### 19. Un argumento de **total satisfacción**:
+
  <br/>
  Si pudieras perder tu salvación, nuevamente llegarías a estar
  espiritualmente hambriento y sediento, pero Cristo prometió que nadie que
  cree en Él volverá a tener **<u>sed</u> **o hambre jamás.
 
 #### a. Juan 4:14 – “
+
  *
   mas el que bebiere del agua que yo le daré, no tendrá sed jamás; sino
 que el agua que yo le daré será en él una fuente de agua que salte para  **<u>vida</u>** eterna
@@ -3271,6 +3264,7 @@ que el agua que yo le daré será en él una fuente de agua que salte para  **<u
  .”
 
 #### b. Juan 6:35 – “
+
  *
   Jesús les dijo: Yo soy el pan de vida; el que a mí viene, nunca tendrá
 hambre; y el que en mí cree, no tendrá sed  **<u>jamás</u>**
@@ -3278,17 +3272,20 @@ hambre; y el que en mí cree, no tendrá sed  **<u>jamás</u>**
  .”
 
 ### 20. Un argumento de **total aceptación**:
+
  <br/>
  Jesucristo prometió nunca expulsar a nadie que vino a Él en fe. Si has
 confiado en Cristo, Él nunca te desechará ni **<u>rechazará</u>**. ¡Nunca!
 
 #### a. En Juan 6:37 [LBLA] Jesús dijo, “
+
  *
 Todo lo que el Padre me da, vendrá a mí; y al que viene a mí,  **<u>de ningún modo</u>** lo echaré fuera
  *
  .”
 
 #### b. Juan 6:39a – “
+
  *
   Y esta es la voluntad del Padre, el que me envió: Que de todo lo que me
   diere, no pierda yo **<u>nada</u>**
@@ -3296,6 +3293,7 @@ Todo lo que el Padre me da, vendrá a mí; y al que viene a mí,  **<u>de ningú
  ,…” Cristo nunca perderá a ninguno de los hijos de Dios.
 
 ### 21. Un argumento de **total pertenencia**:
+
  <br/>
  Eres completamente bendecido en Cristo, aparte de cualquier mérito
  personal. Efesios 1:6-7 –*“para alabanza de la gloria de **<u>su</u>** gracia, con
@@ -3304,14 +3302,17 @@ Todo lo que el Padre me da, vendrá a mí; y al que viene a mí,  **<u>de ningú
     sangre, el perdón de pecados según las riquezas de su gracia*,”
 
 ### 22. Un argumento de **total protección**:
+
  Si pudieras perder tu salvación, perecerías, pero Cristo prometió que
  ningún creyente **<u>perecerá</u>** ni será arrebatado jamás.
  Juan 3:16
 
 #### a. Dios **<u>siempre</u>** cumple sus promesas. Romanos 3:4a
+
  dice, “*…sea Dios veraz, y todo hombre mentiroso*;…”
 
 #### b. Juan 10:27-28a – “
+
  *
   Mis ovejas oyen mi voz, y yo las conozco, y me siguen, y yo les doy
   vida eterna; y no perecerán **<u>jamás</u>**
@@ -3319,6 +3320,7 @@ Todo lo que el Padre me da, vendrá a mí; y al que viene a mí,  **<u>de ningú
  ,…”
 
 ### 23. Un argumento de **total defensa**:
+
  <br/>
  Nadie, ni siquiera tú ni **<u>Satanás</u>**, pueden
  arrebatarte de la protección de Cristo.
@@ -3326,6 +3328,7 @@ Todo lo que el Padre me da, vendrá a mí; y al que viene a mí,  **<u>de ningú
 #### a. Cristo te protege en su mano. Juan 10:28b declara, “ *…ni nadie las **<u>arrebatará</u>** de mi mano.*”
 
 #### b. Dios el Padre te protege en su mano también. Juan 10:29-30 añade, “
+
  *
   Mi Padre que me las dio, es mayor que todos, y nadie las puede
   arrebatar de la **<u>mano</u>** de mi Padre. Yo y el Padre
@@ -3334,12 +3337,14 @@ Todo lo que el Padre me da, vendrá a mí; y al que viene a mí,  **<u>de ningú
  .”
 
 #### c. Colosenses 3:3b declara, “
+
  *
   …vuestra vida está **<u>escondida</u>** con Cristo en Dios
  *
  .”
 
 ### 24. Un argumento de **total amor**:
+
  <br/>
  Si pudiéramos perder nuestra salvación, seríamos quitados del amor de Dios,
  pero Dios prometió que nada puede separarnos de Su amor en Jesucristo. Ni
@@ -3351,6 +3356,7 @@ Todo lo que el Padre me da, vendrá a mí; y al que viene a mí,  **<u>de ningú
  . El poder de Dios no permitirá esto.
 
 #### a. Romanos 8:35, 37 – “
+
  *
   ¿Quién nos separará del amor de Cristo? ¿Tribulación, o angustia, o
   persecución, o hambre, o desnudez, o peligro, o espada? … Antes, en
@@ -3360,6 +3366,7 @@ Todo lo que el Padre me da, vendrá a mí; y al que viene a mí,  **<u>de ningú
  .”
 
 #### b. Romanos 8:38-39 – “
+
  *
   Por lo cual estoy seguro de que ni la muerte, ni la vida, ni ángeles,
   ni principados, ni potestades, ni lo presente, ni lo por venir, ni lo
