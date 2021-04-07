@@ -5,13 +5,15 @@ Versión: Romanos 5.5
 </small>
 
 
+<small>
 *Copyright © 2018 by DM Multiplied, Inc
 Derechos Reservados
 Inspirado por el Espíritu de Dios, Pablo dictó esta carta a Tercio y la
 envió por medio de Febe a Roma. Su propósito era claro.*
+</small>
 
 
-*Mas os he escrito, hermanos, en parte con atrevimiento, como para haceros recordar, por la gracia que de Dios me es dada para ser ministro de Jesucristo a los gentiles, ministrando el evangelio de Dios, para que los gentiles le sean ofrenda agradable, santificada por el Espíritu Santo. Romanos 15:15-16*
+>*Mas os he escrito, hermanos, en parte con atrevimiento, como para haceros recordar, por la gracia que de Dios me es dada para ser ministro de Jesucristo a los gentiles, ministrando el evangelio de Dios, para que los gentiles le sean ofrenda agradable, santificada por el Espíritu Santo. Romanos 15:15-16*
 
 
 Debido a la gracia que Dios le dio a Pablo, Romanos es aún utilizado para proclamar el evangelio de Dios a hombres y mujeres de todo el mundo. Dios está usando Romanos para inspirar a las personas a convertirse en una ofrenda aceptable para Dios, santificada por el Espíritu Santo. Te animamos a estudiar Romanos con una postura entusiasta y receptiva. Mientras lo haces, que la gracia de Dios revelada en este libro cautive tu corazón, como lo hizo con el del apóstol Pablo, y te conduzca a un vivir santo.
@@ -22,9 +24,7 @@ Marzo, 2018
 Edición 5.5
 Derechos de Autor © **2013 DM2 International Inc.** Todos los derechos reservados 
 
-
-<small>
-*Póliza de los Derechos de Autor*
+<small> *Póliza de los Derechos de Autor* 
 Traducción no autorizada, re-publicación, duplicación del documento, página de la internet o distribución del correo electrónico de cualquier porción de este material de derechos de autor de cualquier forma, sin el expreso consentimiento escrito de DM2™ es estrictamente prohibido. Puedes usar los materiales de DM2 para tu propio estudio personal o para volverlos a enseñar en una clase, siempre y cuando, el logo de DM2 y esta póliza de los derechos de autor estén incluidos siempre en el material al ser enseñados. Puedes bajar una copia a tú PC, imprimirla o hacer copias para la clase o estudio de grupo Bíblico; sin embargo, no puedes cobrar por este material o por conducir una clase usando el mismo, excepto por el costo actual del copiado. NO puedes hacer cambios a este material, tiene derechos de autor. Para una más amplia exposición de la póliza del DM2 con respecto a los usos de sus materiales, por favor referirse a la página de la internet DM2-USA al [http://www.dm2usa.org](http://www.dm2usa.org). [DM2™]
 </small>
 
