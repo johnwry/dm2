@@ -20,3 +20,6 @@
 
 <!-- .slide:  data-background-image="markdown/img/mount.png"  --> 
 
+### for adding auto-animate 
+
+<!-- .slide: data-auto-animate="" -->

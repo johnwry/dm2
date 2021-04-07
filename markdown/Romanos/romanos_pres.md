@@ -113,11 +113,12 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 | **Resultados de Vivir Consistentemente una Vida Carnal** |**126**|
 
 
-
+<!-- .slide: data-auto-animate="" -->
 # Romanos 1-8 
 
 
 
+<!-- .slide: data-auto-animate="" -->
 # I. Introducción
 
 ## A. Importancia del libro de Romanos
