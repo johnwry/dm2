@@ -1,6 +1,8 @@
 <!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/cover.png"  data-background-size="contain" --> 
-ROMANOS 1-8
+<small>
+ROMANOS 1-8  <!-- .element: style="color:white;" -->
 version: Romanos 5.5
+</small>
 
 
 *Copyright © 2018 by DM Multiplied, Inc
