@@ -140,6 +140,10 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="auto" --> 
+
+
+
 ## B. La ciudad de Roma
 
 
