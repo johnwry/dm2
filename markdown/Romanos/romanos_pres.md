@@ -1,6 +1,6 @@
 ROMANOS 1-8
 version: Romanos 5.5
-<!-- .slide:  data-background-image="markdown/img/cover.png"  --> 
+<!-- .slide:  data-background-image="markdown/Romanos/img/cover.png"  --> 
 
 *Copyright © **2018 by DM Multiplied, Inc**
 Derechos Reservados
