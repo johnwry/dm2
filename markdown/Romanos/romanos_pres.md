@@ -170,69 +170,135 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 ## C. Autor, localización y fecha de escritura
 
+
+
 ### 1. Autor: Es comúnmente aceptado que **<u>Pablo</u>** fue el autor del libro de Romanos. 
+
+
 
 #### a. En Romanos 1:1, Pablo claramente firmó su **<u>nombre</u>** como el autor del libro. 
 
+
+
 #### b. En Romanos 11:1, el autor afirmó ser de la tribu de Benjamín. También sabemos que Pablo era de la **<u>tribu</u>** de Benjamín por Filipenses 3:5 
+
+
 
 #### c. Los planes de viaje y ministerio de Pablo descritos en Hechos coinciden con los **<u>planes</u>** expresados en Romanos. Hechos 19:21; Romanos 1:10-13, 15; 15:22-32 
 
+
+
 ### 2. Localización: Pablo posiblemente escribió este libro desde la **<u>ciudad</u>** de Corinto. 
+
+
 
 #### a. Aunque Pablo no mencionó específicamente a Corinto en Romanos, sí mencionó a una mujer llamada Febe quien transportó la **<u>carta</u>** de Pablo a Roma. Febe era de la iglesia de Cencrea, una pequeña ciudad portuaria cerca de Corinto. Romanos 16:1
 
+
+
 #### b. En Romanos 16:23, Pablo mencionó a Gayo como uno de sus compañeros en la **<u>escritura</u>** de Romanos. 1 Corintios 1:14 muestra que Gayo era de Corinto. 
+
+
 
 #### c. Pablo también mencionó a Erasto, el tesorero de la ciudad. En tiempos recientes, un **<u>adoquín</u>** que data de esa época y que lleva el nombre de Erasto fue descubierto en Corinto. Se cree que es la misma persona. 
 
+
+
 ### 3. Fecha: Pablo posiblemente escribió este libro en el invierno o a inicios de la primavera del año 57 d.C., cerca del final de su tercer **<u>viaje</u>** misionero. Esto habría sido justo antes de su viaje de regreso a Jerusalén, en el que llevó una ofrenda de las iglesias de Macedonia y Acaya a los cristianos pobres de Jerusalén. 1 Corintios 16:1-8, 2 Corintios 8:1-5 
+
+
 
 #### a. En Hechos 20:16 leemos acerca del plan de Pablo de llegar a Jerusalén para la **<u>fiesta</u>** de Pentecostés. Muchos eruditos bíblicos creen que este viaje ocurrió en el año 57 d. C. Hechos 20:3, 6, 16; Romanos 15:26 
 
+
+
 #### b. Si el libro de Romanos fue escrito en el año 57 d. C., habría sido escrito durante la primera parte del reinado de**<u>Nerón</u>**, quien fue César en los años 54-68 d.C. 
+
+
 
 ## D. El propósito de Pablo para escribir Romanos
 
+
+
 ### 1. A pesar de que él era un ciudadano romano, Pablo jamás había visitado la iglesia romana, por lo tanto, escribió para prepararlos para una posible**<u>visita</u>**. Romanos 1:8-13, Hechos 19:21 
+
+
 
 #### a. Romanos 1:9-10 – Un viaje para visitar la iglesia Romana había estado en el **<u>corazón</u>** de Pablo y en sus oraciones durante un largo tiempo. 
 
+
+
 #### b. Romanos 1:11 – Pablo quería visitar para*comunicarles algún **<u>don</u>** espiritual*. 
+
+
 
 #### c. Romanos 1:13 – Pablo quería ***<u>segar</u>*** * alguna cosecha* en Roma. En otras palabras, él quería compartir el evangelio en Roma. Hechos 28:17-31, 1 Corintios 9:15-18 
 
+
+
 #### d. Romanos 1:14-17 – Pablo también quería darle a la iglesia romana enseñanzas claras sobre el **<u>evangelio</u>** que él predicaba. Judas 3 
+
+
 
 ### 2. Del texto de Romanos, percibimos que Pablo escribió para ayudar a **<u>subsanar</u>** una división cultural entre creyentes judíos y gentiles. Romanos 1:18-3:20; Romanos 9, 10, 11 
 
+
+
 ### 3. Romanos 15:22-29 muestra que Pablo escribió con la esperanza de obtener apoyo financiero y de oración por parte de la iglesia romana. Pablo claramente quería **<u>iniciar</u>** su próxima campaña misionera en España partiendo de Roma. 
+
+
 
 ### 4. Pablo también escribió para obtener el apoyo de **<u>oración</u>** de los creyentes romanos para su protección personal y física. Romanos 15:30-32
 
+
+
 ### 5. Curiosamente, al final del libro de Hechos, Pablo está bajo arresto domiciliario en la ciudad de **<u>Roma</u>**. Así que finalmente pudo ir a Roma, pero no de la forma que él hubiera deseado. Hechos 28:16 
+
+
 
 ## E. Los destinatarios del libro
 
+
+
 ### 1. En Romanos 1:7, Pablo dirigió el libro *a todos los que están en Roma, amados de Dios, llamados a ser santos*. Posiblemente habían creyentes de muchas iglesias- **<u>hogares</u>** en Roma, similares a la que se encontraba en el hogar de Aquila y Priscilla. Romanos 16:5, 10, 11, 15 
+
+
 
 ### 2. Las iglesias en Roma consistían tanto de creyentes judíos como **<u>gentiles</u>** (Romanos 16:7, 11). A pesar de que Roma era una ciudad gentil y la capital de un vasto imperio, se jactaba de una gran población judía de ciudadanos romanos. Hechos 28:17-29; Romanos 1:5, 13; 11:13 
 
+
+
 ### 3. Al final del libro, Pablo saludó específicamente a 28 personas por su **<u>nombre</u>**, junto con varios grupos de personas. 
+
+
 
 ## F. Tema y esquema para el libro de Romanos
 
+
+
 ### 1. El **<u>tema</u>** del libro de Romanos es la justicia de Dios. Romanos 1:16-17 
+
+
 
 ### 2. En los capítulos 1 al 8 de Romanos, aprendemos acerca de la justicia requerida para entrar al **<u>cielo</u>** y la gracia que Dios proveyó para la humanidad en la persona de Jesucristo. 
 
+
+
 #### a. Justificación: Esta es la provisión de Dios de una **<u>posición</u>** justa delante de Él para todos los que creen. En los escritos de Pablo, ser justificado significa ser declarado legalmente justo por Dios, el Juez supremo del cielo. Romanos 3:21-5:11 
+
+
 
 #### b. Santificación: Este es el trabajo progresivo del Espíritu Santo en la vida de un creyente, haciéndole más y más justo en la conducta **<u>diaria</u>**. Romanos 5:12-8:17 
 
+
+
 #### c. Glorificación: Esta es la finalización de la obra de Dios en la vida del creyente. Esto sucederá en el rapto cuando el creyente sea hecho **<u>completamente</u>** justo. Romanos 8:18-39, 1 Corintios 15:50-57, Filipenses 1:6 
 
+
+
 ### 3. En los capítulos 9-11 de Romanos, la justicia de Dios es vista en Su fidelidad para con Su pueblo **<u>Israel</u>**. Estos tres capítulos explican el estado pasado, presente y futuro de Israel. 
+
+
 
 ### 4. En Romanos capítulos 12-16, la justicia de Dios es vivida por el pueblo de Dios a través de numerosas relaciones **<u>humanas</u>**.
 
@@ -244,107 +310,211 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 ## A. Romanos 1:1–7 – Un ministerio para el mundo
 
+
+
 ### 1. Romanos 1:1 – La misión de Pablo 
+
+
 
 #### a. Romanos 1:1a – “*Pablo, siervo*...” Antiguamente un **<u>violento</u>** perseguidor de la iglesia, Pablo se convirtió al cristianismo por medio de un encuentro milagroso con el Señor Jesucristo. Hechos 9:1-6, 1 Timoteo 1:12-16 
 
+
+
 #### b. Romanos 1:1b – “*Pablo, siervo *(DOULOS) *de Jesucristo*...” Pablo se refirió a sí mismo como un esclavo. Pocos líderes en el cristianismo moderno se presentan tan humildemente. La norma moderna es dar una larga lista de calificadores y credenciales. Pablo simplemente se consideraba, por encima de todo, un **<u>esclavo</u>** y *de Jesucristo*. 2 Corintios 12:11
+
+
 
 #### c. Romanos 1:1c – “*…llamado a ser apóstol*...” Aunque la palabra apóstol en su forma más simple significa mensajero, con el advenimiento de la Era de la Iglesia, el término apóstol se convirtió en el **<u>título</u>** oficial de los elegidos directamente por Cristo para sentar las bases de la iglesia. Efesios 2:20
 
+
+
 ##### 1) Pablo declaró su apostolado en numerosos **<u>pasajes</u>** tales como 1 Corintios 1:1, 2 Corintios 1:1, Colosenses 1:1, 1 Timoteo 1:1 y 2 Timoteo 1:1.
+
+
 
 ##### 2) De acuerdo con Gálatas 1:1, Pablo no fue enviado por ninguna persona u organización. Fue enviado directamente por el Señor Jesucristo como Su **<u>enviado</u>** especial al mundo gentil.
 
+
+
 ##### 3) Ya que hubo **<u>falsos</u>** apóstoles al comienzo de la Era de la Iglesia (2 Cor. 11:13, Rom. 16:17-18, Ap. 2:2), Pablo se tomó el tiempo de aclarar sus cualificaciones.
+
+
 
 ##### 4) Un apóstol del Señor Jesucristo tuvo que haber sido un testigo ** <u>ocular</u>** del Cristo resucitado. Hechos 1:21-22, 1 Corintios 9:1
 
+
+
 #### d. Romanos 1:1d –*“*…*apartado para el evangelio*...” En Hechos 9:1-6, vemos que Pablo fue llamado por Jesucristo para el propósito específico de difundir el mensaje del evangelio. Este no era un trabajo secundario; iba a ser el **<u>enfoque</u>** principal y la vocación de vida de Pablo. Gálatas 1:13-16
+
+
 
 #### e. Romanos 1:1e – *“…apartado para el evangelio de** <u>Dios</u>***.” Dios es el originador del evangelio, las buenas nuevas de Dios. En Romanos 2:16, Pablo se refirió a él como mi evangelio, no porque pensara que era creación suya, sino porque era muy personal para él. Romanos 1:9, Gálatas 1:6-9
 
+
+
 ### 2. Romanos 1:2-4 – La responsabilidad de Pablo
+
+
 
 #### a. Romanos 1:2 –*El evangelio de Dios ...”que él había prometido antes por sus profetas en las santas Escrituras,”* (Rom. 15:8). El evangelio, que significa buenas **<u>noticias</u>**, fue la culminación y el cumplimiento de las profecías del Antiguo Testamento. Isaías 52:7, 13‑15, 53:1-12; Lucas 24:25-27
 
+
+
 ##### 1) Romanos 1:2a – “…*que él había prometido antes*...” El evangelio fue prometido hace mucho tiempo. El evangelio no fue algo que la gente inventó después de que Jesús murió. El evangelio fue el **<u>plan</u>** de Dios desde el principio. Génesis 3:15; Hechos 2:23, 4:27-28; Romanos 16:25-27; Apocalipsis 13:8
+
+
 
 ##### 2) Romanos 1:2b – “…*por sus profetas en las santas Escrituras*,” El evangelio fue predicho por los **<u>escritores</u>** del Antiguo Testamento. El Antiguo Testamento fue una confirmación pre-escrita de que el evangelio fue diseñado y realizado por Dios mismo. Génesis 3:15, 15:1-6; Hechos 3:18, 24; Lucas 24:25-27, 44; Hebreos 1:1
 
+
+
 #### b. Romanos 1:3a – “...*acerca de su **<u>Hijo</u>*** ,...” El evangelio se refiere a una persona específica, Jesucristo, el Hijo de Dios. Si quitas la identidad bíblica de Jesús del evangelio, no tienes mensaje del evangelio alguno. Entonces, ¿quién era Jesús? Juan 1:14, 8:24; Filipenses 2:5-8; Colosenses 2:9
+
+
 
 #### c. Romanos 1:3b – “…*nuestro Señor Jesucristo*,…” Al identificar a Cristo utilizando Su **<u>título</u>** completo, Pablo eliminó todas las dudas con respecto a la identidad de Jesús. El nombre Jesús habla de Su humanidad. El título Cristo muestra que Él era el Libertador, o el Mesías, prometido en el Antiguo Testamento. *Nuestro Señor* afirma su deidad. Isaías 7:14, 9:6-7; Jeremías 23:5-6; Romanos 9:5
 
+
+
 #### d. Romanos 1:3c – “…*que era del linaje de **<u>David</u>** según la carne,*...” Aquí Pablo verificó la humanidad de Jesucristo. Romanos 9:5
+
+
 
 #####1) Como ser humano, Jesús nació de María, una **<u>virgen</u>**. Él nació de la línea real del Rey David. 2 Samuel 7:12-16; Mateo 1:1, 15:22; Marcos 12:35-37; Apocalipsis 22:16
 
+
+
 ##### 2) La humanidad de Cristo es muy importante, tenía que ser **<u>completamente</u>** humano a fin de morir como un sustituto idóneo para las personas. 1 Timoteo 2:5; Hebreos 2:17, 9:12
+
+
 
 ###### a) Un animal **<u>jamás</u>** funcionó como un sustituto aceptable para la humanidad. Era necesario un humano justo. Juan 1:29; Hebreos 10:1-4, 11
 
+
+
 ###### b) Un ángel (ser espiritual) tampoco podía **<u>morir</u>** como sustituto de la humanidad. Solo un humano justo podría ser suficiente como sustituto de los humanos injustos. Romanos 5:17, Gálatas 3:13, 1 Corintios 15:21
+
+
 
 #### e. Romanos 1:4 – “…*que fue declarado Hijo de Dios*...” Jesucristo no solo era 100% humano, también era 100% **<u>Dios</u>**. Pablo verificó la deidad de Jesucristo de muchas maneras convincentes. Tito 2:13
 
+
+
 ##### 1) Romanos 1:4a – Jesucristo fue “...*declarado Hijo de Dios **con poder***...” Jesucristo nuestro Señor fue afirmado ser el Hijo de Dios por Sus muchas muestras de poder divino. Sus muchos **<u>milagros</u>** son una prueba histórica de su divinidad. Mateo 14:33, 16:16; Marcos 1:27, 4:41, 5:42, 7:37; Romanos 9:5; Hebreos 1:2-3
+
+
 
 ##### 2) Romanos 1:4b – “…*declarado Hijo de Dios*...***según el Espíritu de santidad,***...” Jesucristo fue declarado Hijo de Dios por medio del **<u>Espíritu</u>** Santo que vino sobre Él en Su bautismo y lo dirigió durante toda Su vida. Marcos 1:10-13; Lucas 3:22; 4:1, 14, 18; Juan 1:32, 3:34; Hechos 10:38
 
+
+
 ##### 3) Romanos 1:4c – “…*declarado Hijo de Dios...**por la resurrección de entre los muertos,** *...” La resurrección se erige como la más grande exhibición de poder de Dios. Verifica la **<u>afirmación</u>** de que Cristo era Dios el Hijo. Romanos 4:25, 1 Corintios 6:14, Efesios 1:19-20, Filipenses 3:10
+
+
 
 ### 3. Romanos 1:5-7 – La comisión de Pablo
 
+
+
 #### a. Romanos 1:5 – Pablo aclaró sus **<u>razones</u>** para servir al Señor.
+
+
 
 ##### 1) Romanos 1:5a – “…*y por quien*...” Esto hace referencia nuevamente a Jesucristo nuestro Señor en el versículo anterior. Pablo declaró que fue a través de Jesucristo que recibió su **<u>llamado</u>** para difundir las buenas nuevas.
 
+
+
 ##### 2) Romanos 1:5b – “…[Nosotros]*recibimos la **gracia***” En el griego, el pronombre *nosotros* se refiere a Pablo y los otros apóstoles. Por medio de Cristo, recibieron la **<u>gracia</u>** habilitadora de Dios para ser Sus mensajeros. La gracia de Dios proporciona el poder y la provisión de Dios para cumplir Sus mandamientos. 1 Corintios 15:9-10
+
+
 
 ##### 3) Romanos 1:5c – “…*recibimos... el **apostolado***,...” El término apostolado implica responsabilidad. A Pablo y los otros capóstoles les fue dada la urgente **<u>tarea</u>** de ser embajadores de Cristo. Al propagar el evangelio por todas partes, jugaron un papel principal en la fundación de la iglesia. Romanos 15:16-19, 1 Corintios 9:15-19, 2 Corintios 5:20-21
 
+
+
 ##### 4) Romanos 1:5d – “…*para la obediencia a la fe*...” La obediencia a la que se refiere en este pasaje brota de la **<u>fe</u>**, no de la fuerza de voluntad humana o la resolución mental. Romanos 4:18-21, 15:18, 16:26
+
+
 
 ##### 5) Romanos 1:5e – “…*en todas las naciones*...” La razón por la cual a Pablo le fue dada gracia y apostolado fue para inspirar la obediencia de la fe entre los **<u>grupos</u>** de personas no judías del mundo. Hechos 9:15; Romanos 1:8, 11:13; Gálatas 1:15-16
 
+
+
 ##### 6) Romanos 1:5f – “…*por amor de su nombre*;” El propósito para promover la obediencia que brota de la fe es que el **<u>nombre</u>** de Dios sea glorificado en todo el mundo. Mateo 28:18-20
+
+
 
 #### b. Romanos 1:6-7b – Pablo identificó a los destinatarios de su **<u>carta</u>** como cristianos en Roma. Romanos 16:1-16
 
+
+
 ##### 1) Romanos 1:6a – “…*entre las cuales estáis también vosotros,…” * Pablo consideraba a los creyentes romanos incluidos en su alcance del **<u>deber</u>**.
+
+
 
 ##### 2) Romanos 1:6b – “…*llamados a ser de Jesucristo*;” En el Nuevo Testamento, los* llamados *son personas que han respondido por fe al evangelio. Puesto que los creyentes romanos ahora pertenecían a Cristo, ellos eran parte de este grupo de **<u>llamados</u>**. Romanos 8:29-30, 1 Pedro 2:9, Judas 1:1
 
+
+
 ##### 3) Romanos 1:7a – “… *a todos los que estáis en Roma, amados de Dios,*…” Los creyentes romanos eran los amados de Dios. Todos los hijos de Dios son **<u>amados</u>** por Él sin reserva. Romanos 8:39, Efesios 3:19
+
+
 
 ##### 4) Romanos 1:7b – “*…llamados a ser santos:*…” Pablo también llamó *santos* a los creyentes romanos. Un **<u>santo</u>** es una persona que es apartada para Dios. Los creyentes en Roma eran las posesiones especiales de Dios, escogidos para Sus propósitos únicos.
 
+
+
 #### c. Romanos 1:7 – Pablo deseaba bendiciones **<u>especiales</u>** para los romanos. Romanos 1:11‑12
+
+
 
 ##### 1) Romanos 1:7c – “*Gracia y paz a vosotros,*…” En este saludo, Pablo dio a los creyentes romanos una bendición de dos partes. Él deseaba que la gracia y la paz **<u>reposaran</u>** sobre ellos. La gracia es bondad inmerecida y la paz es tranquilidad mental. Todos los santos necesitan estas dos bendiciones. Romanos 16:20
 
+
+
 ##### 2) Romanos 1:7d – “…*de Dios nuestro Padre y del Señor Jesucristo*.” La verdadera gracia y paz provienen solo de Dios el Padre y de Dios el Hijo. Aunque el Espíritu Santo no es mencionado aquí, Él es el que silenciosamente administra estas bendiciones en la **<u>vida</u>** de los creyentes. Romanos 8:11, 15:13; 2 Corintios 13:14
+
+
 
 ## B. Romanos 1:8-15 – Amor por los Romanos
 
+
+
 ### 1. Romanos 1:8-10 – Pablo **<u>oró</u>** por los Cristianos en Roma.
+
+
 
 #### a. Romanos 1:8 – Pablo **<u>agradeció</u>** a Dios por los Cristianos en Roma.
 
+
+
 ##### 1) Romanos 1:8a – “***<u>Primeramente</u>*** * doy gracias a mi Dios…”* Pablo comenzó su oración agradeciendo a Dios.
+
+
 
 ##### 2) Romanos 1:8b – “…***<u>mediante</u>*** * Jesucristo*…” Jesús es el que abrió la puerta para que los creyentes puedan acercarse a Dios en oración. Romanos 5:1-2, Efesios 3:11-12
 
+
+
 ##### 3) Romanos 1:8c –*“…con respecto a todos vosotros, de que vuestra fe se divulga por todo el **<u>mundo</u>** *.” Pablo estaba agradecido de que la gente, a lo largo y ancho del mundo, estuvieran escuchando acerca de la fe de los creyentes romanos. Romanos 16:19, 1 Tesalonicenses 1:8
+
+
 
 #### b. Romanos 1:9 – Pablo **<u>oraba</u>** continuamente.
 
+
+
 ##### 1) Romanos 1:9a – “*Pues Dios, a quien sirvo en mi espíritu en la predicación del evangelio de su Hijo…” * [LBLA] A Pablo le apasionaba **<u>servir</u>** a Dios predicando las buenas nuevas de Jesucristo.
+
+
 
 ##### 2) Romanos 1:9b –*Porque testigo me es Dios, “…de que sin cesar hago mención de vosotros siempre en mis oraciones,” * Pablo llamó a Dios mismo como **<u>testigo</u>** de que él oraba continuamente por los creyentes romanos. El amor de Pablo lo demostró orando siempre por ellos.
 
+
+
 #### c. Romanos 1:10 – Pablo oraba con **<u>propósito</u>**.
+
+
 
 ##### 1) Romanos 1:10a – “*rogando que de alguna manera tenga al fin,…” * Pablo tenía **<u>peticiones</u>** de oración específicas por los creyentes en Roma. La Biblia de las Américas lo traduce; “… *siempre en mis oraciones, implorando*…” Filipenses 4:6
 
