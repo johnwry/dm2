@@ -112,7 +112,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 ### 2. Se estima que, en el tiempo de Jesucristo, Roma tenía una población de un 1.000.000 de habitantes, siendo **<u>esclavos</u>** entre el 15 al 30 por ciento de la población. Aparte de los esclavos, habían al menos otras dos clases de personas más, la clase obrera y la aristócrata. 
 
-### 3. El Imperio Romano no solamente construyó canales y**<u>caminos</u>**, también promovió el griego como lengua unificadora. Gálatas 4:4 
+### 3. El Imperio Romano no solamente construyó canales y **<u>caminos</u>**, también promovió el griego como lengua unificadora. Gálatas 4:4 
 
 ### 4. La ciudad era bien conocida por sus imponentes edificios públicos, música refinada y entretenimiento. También era conocida por sus concursos de gladiadores inmortales y peleas de animales brutales, donde tanto hombres como animales a menudo eran obligados a **<u>luchar</u>** hasta la muerte. 
 
