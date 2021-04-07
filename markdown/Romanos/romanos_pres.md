@@ -1982,6 +1982,8 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 #### b. La vida de resurrección de Cristo es la base de tu **<u>poder</u>** para vivir tu vida para Dios también. Efesios 1:19-20; Colosenses 1:27b, 3:4
 
+
+
 #### c. Porque Dios ahora te identifica con el Cristo viviente, en Cristo no sólo estás muerto al pecado, sino también maravillosamente **<u>vivo</u>** para Dios. 2 Timoteo 2:11
 
 
@@ -2047,6 +2049,12 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 #### d. Estando vivo para Dios, eres capaz de **<u>agradar</u>** a Dios y vivir para Sus propósitos y gloria. Filipenses 1:21
 
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom6.12-14.jpg" data-auto-animate="" data-background-size="cover" --> 
+
+
+
 ## B. Romanos 6:12-14 – Presentando tus miembros
 
 ### 1. Romanos 6:12 – [*Por tanto*, LBLA] *“No reine, pues, el pecado en vuestro cuerpo mortal, de modo que lo obedezcáis en sus concupiscencias*.” Este es la segunda orden en el libro de romanos. Por fe, no debes permitir que tu cuerpo sea **<u>usado</u>** por la naturaleza de pecado.
@@ -2074,6 +2082,10 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 ### 4. Romanos 6:14a – “*Porque el pecado no se enseñoreará de vosotros; pues no estáis bajo la ley,…”* En otras palabras, si estuvieras viviendo bajo la ley, el pecado **<u>sería</u>** tu amo. El legalismo te hace en realidad un esclavo de la naturaleza de pecado. Las leyes y reglas motivan, en lugar de desmotivar, el pecado. Romanos 7:5
 
 ### 5. Romanos 6:14b – “*Porque el pecado no se enseñoreará de vosotros; pues …estáis …bajo la gracia*.” La vida *bajo la **<u>gracia</u>*** es superior. La gracia de Dios te guarda de convertirte en esclavo de la naturaleza de pecado. La gracia es el poder de Dios para cambiar nuestras vidas. Vive por gracia y la naturaleza de pecado no será tu amo. Tito 2:11
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom6.15-18.jpg" data-auto-animate="" data-background-size="cover" --> 
 
 
 
@@ -2117,6 +2129,12 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 #### b. Romanos 6:18 – “ *y libertados del pecado, vinisteis a ser siervos de la justicia*.” Los creyentes romanos no solo deben haber entendido su libertad del **<u>pecado</u>**, sino que, obviamente, también contaron con ello por fe, porque Pablo dijo que ellos vinieron *a ser siervos de la justicia*.
 
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom6.19-23.jpg" data-auto-animate="" data-background-size="cover" --> 
+
+
+
 ## D. Romanos 6:19-23 – La santificación hecha simple
 
 ### 1. Romanos 6:19 –** **Antes de que fueras creyente, presentabas con entusiasmo tu cuerpo físico a la naturaleza de pecado. Ahora, si de la misma manera presentas tus miembros al Señor, el **<u>resultado</u>** será la santificación, el proceso de llegar a ser más parecido a Cristo.
@@ -2150,6 +2168,10 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 #### b. En la vida cristiana, el resultado de presentarte en esclavitud a la naturaleza de pecado es una ruptura en la comunión con Dios, o un tipo de **<u>muerte</u>** de la comunión. Esto no significa que pierdes tu salvación, pero ciertamente pierdes tu gozo. 1 Juan 1:6
 
 #### c. A la inversa, el resultado de presentarse ante Dios, basado en tu posición en Cristo de estar muerto al pecado y vivo para Dios, es el regocijo tanto de vida eterna como **<u>abundante</u>**. ¿Estás viviendo esta maravillosa vida eterna hoy? Juan 17:3, 1 Juan 1:3b-4
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom7.1-6.jpg" data-auto-animate="" data-background-size="cover" --> 
 
 
 
@@ -2254,6 +2276,10 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom7.7-13.jpg" data-auto-animate="" data-background-size="cover" --> 
+
+
+
 <!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="70%" --> 
 
 
@@ -2303,6 +2329,10 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 ##### 1) Dios usa esta nueva comprensión de cómo actúa tu **<u>malvada</u>** naturaleza de pecado para animarte a contar con las verdades de Romanos 6:11. Por fe, debes considerarte muerto a la naturaleza de pecado y vivo para Dios en Cristo.
 
 ##### 2) Esta comprensión debería estimularte a **<u>presentar</u>** las partes de tu cuerpo como instrumentos de justicia para Dios, como Romanos 6 lo enseña. Juan 15:5, 2 Corintios 12:9-10
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom7.14-23.jpg" data-auto-animate="" data-background-size="cover" --> 
 
 
 
@@ -2364,6 +2394,12 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 #### d. Romanos 7:23b – “…*y que me lleva cautivo a la ley del pecado que está en mis miembros*.” Pablo estaba perdiendo la guerra porque su nueva naturaleza no era rival para su naturaleza pecaminosa. Necesitaba el **<u>poder</u>** del Espíritu Santo, el cual pasó a explicar en Romanos 8. Romanos 7:14-15
 
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom7.24-25.jpg" data-auto-animate="" data-background-size="cover" --> 
+
+
+
 ## E. Romanos 7:24-25 – El reconocimiento de Pablo de la liberación en Cristo
 
 ### 1. Romanos 7:24a – “*!Miserable de mí!...” *Pablo estaba totalmente exasperado en esta **<u>batalla</u>** con su naturaleza de pecado. Reconoció su propio fracaso e insuficiencia. Él estaba al límite de sí mismo y de sus propios esfuerzos humanos.
@@ -2383,6 +2419,10 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 #### b. Pero, por otro lado, con la naturaleza de pecado dominándolo, tristemente **<u>servía</u>** a la ley, o principio, del pecado.
 
 ### 5. Entonces, ¿cuál es la provisión de Dios para vivir la vida cristiana? Los detalles específicos no se encuentran en Romanos 7. Esto nos lleva a Romanos 8 y al ministerio del Espíritu **<u>Santo</u>** en nuestra santificación.
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom8.1-4.jpg" data-auto-animate="" data-background-size="cover" --> 
 
 
 
@@ -2489,6 +2529,11 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 ##### 3) Pero el creyente que se deja dominar por la naturaleza de pecado experimentará la **<u>muerte</u>** de comunión y la ruina eventual. Gálatas 6:8
 
 
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom8.5-8.jpg" data-auto-animate="" data-background-size="cover" --> 
+
+
+
 ## C. Romanos 8:5-8 – Características de la mente puesta en la carne y la mente puesta en el Espíritu
 
 ### 1. Romanos 8:5 – Pablo contrastó una vida influenciada por la carne, o la naturaleza de pecado, con una vida influenciada por el **<u>Espíritu</u>** Santo. Gálatas 5:17
@@ -2530,6 +2575,12 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 #### b. A pesar de que este versículo describe al incrédulo, de la misma forma, todo creyente que escoge **<u>caminar</u>** según la carne instantáneamente deja de agradar a Dios. Romanos 8:4-5
 
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom8.9-11.jpg" data-auto-animate="" data-background-size="cover" --> 
+
+
+
 ## D. Romanos 8:9-11 – El creyente está *en el Espíritu*
 
 ### 1. Romanos 8:9a – “ *Mas vosotros no vivís según la carne, sino según el Espíritu*,…” Los **<u>creyentes</u>** son descritos aquí como los que viven según el Espíritu. Esto es en contraste con los que incrédulos que por defecto, siempre viven según la carne.
@@ -2547,6 +2598,10 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 #### b. También es cierto que el Espíritu Santo **<u>refresca</u>** diariamente a los creyentes en nuestros cuerpos físicos actuales, dándonos poder para el servicio. Juan 6:63, 68; 7:38-39
 
 #### c. El mismo Espíritu Santo que trajo a Jesucristo a la **<u>vida</u>**, vive actualmente dentro de ti para fortalecerte para un servicio fructífero. Romanos 12:1, Efesios 1:19-20, Colosenses 3:4
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom8.12-17.jpg" data-auto-animate="" data-background-size="cover" --> 
 
 
 
@@ -2647,6 +2702,9 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom8.18.jpg" data-auto-animate="" data-background-size="cover" --> 
+
+
 <!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="70%" --> 
 
 
@@ -2666,6 +2724,12 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 #### b. En segundo lugar, puesto que ciertamente sufrirás, necesitas recordar que tu **<u>gloria</u>** futura es inmensamente superior a tu sufrimiento presente. 2 Corintios 4:16-18
 
 #### c. En tercer lugar, serás glorificado; ¡Ese es un **<u>hecho</u>**! Romanos 8:30
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom819-27.jpg" data-auto-animate="" data-background-size="cover" --> 
+
+
 
 ## B. Romanos 8:19-27 – Gimiendo por ser glorificados
 
@@ -2714,6 +2778,12 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 #### d. Romanos 8:27a – “*Mas el que escudriña los corazones sabe cuál es la intención del Espíritu,…”*Dios el **<u>Padre</u>** sabe lo que el Espíritu Santo tiene en mente para nosotros y responde apropiadamente a los *gemidos* del Espíritu Santo. Nosotros podríamos pedir algo de Dios que está fuera de Su voluntad, pero el Espíritu Santo nunca lo hará. 1 Corintios 2:10-13
 
 #### e. Romanos 8:27b – “… *porque conforme a la voluntad de Dios intercede por los santos*.”El Espíritu Santo solicitará a Dios el Padre **<u>únicamente</u>** aquello que esté de acuerdo con Su voluntad.
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom8.28-30.jpg" data-auto-animate="" data-background-size="cover" --> 
+
+
 
 ## C. Romanos 8:28-30 – Garantizado ser glorificado
 
@@ -2838,6 +2908,12 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 #### g. Romanos 8:30c – “…*a éstos también glorificó.”* Aún no estamos glorificados, pero la palabra glorificado está en tiempo **<u>pasado</u>** porque Dios garantiza absolutamente que seremos glorificados. En lo que respecta a Dios, ya es un hecho consumado. Romanos 8:17
 
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom8.31-39.jpg" data-auto-animate="" data-background-size="cover" --> 
+
+
+
 ## D. Romanos 8:31-39 – Glorificación probada y demostrada
 
 ### 1. Romanos 8:31a – Pregunta de Pablo # 1: En respuesta al hecho de que somos predestinados, llamados, justificados y glorificados, Pablo preguntó,“*¿Qué, pues, diremos a esto?...”* La respuesta anticipada es: “¡ **<u>Amén</u>**! ¡Gracias Señor!”
@@ -2924,6 +3000,12 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 #### b. Ciertamente, en ningún caso somos dignos de este tipo de amor o glorificación futura. Es completamente por la asombrosa **<u>gracia</u>** de Dios, basada en lo que Jesús hizo por nosotros al morir en la cruz por nuestros pecados y resucitar. ¡Las gracias sean a Dios!
 
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/evangelio.jpg" data-auto-animate="" data-background-size="cover" --> 
+
+
+
 # XI. El mensaje del evangelio
 
 ## A. Definiendo el evangelio
@@ -2945,6 +3027,12 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 ### 3. Pablo explicó el evangelio en 1 Corintios 15:3-4 – “*Porque primeramente os he enseñado lo que asimismo recibí: Que Cristo murió por nuestros pecados, conforme a las Escrituras; y que fue sepultado, y que **<u>resucitó</u>** al tercer día, conforme a las Escrituras*;”
 
 ### 4. Hablando de manera concisa, el mensaje que debes creer para ser salvo tiene que ver con una persona en particular (Cristo) y lo que Él hizo en tu nombre: Cristo **<u>murió</u>** por tus pecados y resucitó.
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/evangelio_claro.jpg" data-auto-animate="" data-background-size="cover" --> 
+
+
 
 ## B. El evangelio es un mensaje objetivo
 
@@ -3070,20 +3158,27 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
  
 
-|                                                              | SALVO POR:                                                   | NO SALVO POR:                                                |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| Efesios 2:8-9                                                | Porque por gracia sois salvos por medio de la fe             | y esto no de vosotros                                        |
-| Hechos 13:39                                                 | en él es justificado todo aquel que cree                     | y que de todo aquello de que por la ley de Moisés no pudisteis ser justificados. |
-| Tito 3:5                                                     | Nos salvó no por obras de justicia que nosotros hubiéramos hecho | sino por su misericordia, por el lavamiento de la  regeneración y por la renovación en el Espíritu Santo |
-| 2 Timoteo 1:9                                                | quien nos salvó y llamó con llamamiento santo                | no conforme a nuestras obras                                 |
+|               | SALVO POR:               | NO SALVO POR:                       |
+|---------------| ------------------------ | ----------------------------------- |
+|Efesios 2:8-9|Porque por gracia sois salvos por medio de la fe|y esto no de vosotros|
+| Hechos 13:39 | en él es justificado todo aquel que cree| y que de todo aquello de que por la ley de Moisés no pudisteis ser justificados.|
+| Tito 3:5 | Nos salvó no por obras de justicia que nosotros hubiéramos hecho | sino por su misericordia, por el lavamiento de la  regeneración y por la renovación en el Espíritu Santo |
+| 2 Timoteo 1:9| quien nos salvó y llamó con llamamiento santo | no conforme a nuestras obras |
 | sino según el propósito suyo y la gracia que nos  fue dada en Cristo Jesús antes de los tiempos de los siglos |                                                              |                                                              |
-| Gálatas 2:16                                                 | Sabiendo que el hombre no es justificado por las obras de la ley | sino por la fe de Jesucristo,                                |
-| nosotros también hemos creído en Jesucristo,                 | para ser justificados por la fe de Cristo                    |                                                              |
-| y no por las obras de la ley,                                | por cuanto por las obras de la ley nadie será justificado.   |                                                              |
+| Gálatas 2:16 | Sabiendo que el hombre no es justificado por las obras de la ley | sino por la fe de Jesucristo,|
+|nosotros también hemos creído en Jesucristo,| para ser justificados por la fe de Cristo |                                                              |
+| y no por las obras de la ley,         | por cuanto por las obras de la ley nadie será justificado.   |      |
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/presentaciones-no-claras.jpg" data-auto-animate="" data-background-size="cover" --> 
 
 
 
 ## G. Presentaciones No Claras del Evangelio
+
+
+
 
 ### 1. **Confusión: Cree y haz buenas obras**
 
