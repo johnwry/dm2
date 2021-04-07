@@ -878,6 +878,10 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom2.17-16.jpg" data-auto-animate="" data-background-size="cover" --> 
+
+
+
 <!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="70%" --> 
 
 
