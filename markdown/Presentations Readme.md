@@ -23,3 +23,10 @@
 ### for adding auto-animate 
 
 <!-- .slide: data-auto-animate="" -->
+
+### These are more options for .slide 
+
+```html
+data-background-color="aquamarine"
+```
+
