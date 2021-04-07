@@ -1292,6 +1292,11 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 #### b.	Romanos 3:31b – Sino que confirmamos la ley. Cuando enseñamos la justificación por fe en la muerte sustitutiva de Cristo, en realidad confirmamos la autoridad de la Ley, ya que estamos de acuerdo con la Ley de que la paga por el pecado es la muerte. Romanos 6:23
 
 
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom4.1-9.jpg" data-auto-animate="" data-background-size="cover" --> 
+
+
+
 <!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="70%" --> 
 
 
@@ -1400,6 +1405,12 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 #### b. Romanos 4:9b – *“…Porque decimos que a Abraham le fue contada la fe por justicia.”* ¿Era Abraham un judío cuando Dios lo justificó? ¡No! En Génesis 15:6, cuando Dios lo declaró justo por fe, Abraham todavía era un gentil incircunciso. Esto significa que judíos y gentiles **<u>por igual</u>**, pueden ser justificados por fe.
 
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom4.10-25.jpg" data-auto-animate="" data-background-size="cover" --> 
+
+
+
 ### 4. Romanos 4:10-12 – La justificación de Abraham por fe prueba que la justificación está aparte de cualquier tipo de **<u>ritual</u>**. Génesis 17:9-14, 23-27
 
 #### a. Romanos 4:10 – “*¿Cómo, pues, le fue contada? ¿Estando en la circuncisión, o en la incircuncisión? No en la circuncisión, sino en la incircuncisión*”. La justificación de Abraham ocurrió **<u>antes</u>** del establecimiento del ritual de la circuncisión, lo que prueba que la circuncisión no es necesaria para la justificación.
@@ -1495,6 +1506,10 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 ##### 2) Nosotros también fuimos declarados justos con Dios cuando personalmente **<u>confiamos</u>** en Cristo y en Su muerte por nuestros pecados y su resurrección. 1 Corintios 15:1-4
 
 ##### 3) ¿Has creído personalmente en el Evangelio, confiando en Cristo, que Él murió por tus pecados y resucitó al tercer día? 1 Juan 5:13
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom5.1-11.jpg" data-auto-animate="" data-background-size="cover" --> 
 
 
 
@@ -1616,6 +1631,10 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom5.12-21.jpg" data-auto-animate="" data-background-size="cover" --> 
+
+
+
 <!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="70%" --> 
 
 
@@ -1708,6 +1727,10 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 ### 2. Romanos 5:20b – “… *mas cuando el pecado abundó, sobreabundó la gracia*;” Sin embargo,la **gracia** de Dios superabundó para **<u>pagar</u>** el pecado de toda la humanidad. 1 Timoteo 1:12-14
 
 ### 3. Romanos 5:21 – "*para que así como el pecado reinó para muerte, así también la gracia reine por la justicia para vida eterna mediante Jesucristo, Señor nuestro.*” El **<u>pecado</u>** había ganado el control de la humanidad, causando la muerte. A través de la justicia de Cristo, la gracia vino y venció al pecado. La gracia proveyó un camino para que los pecadores fueran declarados justos y recibieran la vida eterna. Tito 2:11-13  
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom6.1-2.jpg" data-auto-animate="" data-background-size="cover" --> 
 
 
 
@@ -1815,6 +1838,10 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom6.3-5.jpg" data-auto-animate="" data-background-size="cover" --> 
+
+
+
 <!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="70%" --> 
 
 
@@ -1862,6 +1889,11 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 #### a. Tu futura resurrección corporal se basa en el **<u>hecho</u>** de que, en la apreciación de Dios, tú estás unido a Cristo.
 
 #### b. Si Dios considera que este hecho es verdadero acerca de ti, ¿no puedes hacer lo mismo hoy? Si **<u>fallas</u>** en reconocer y abrazar la verdad de que estás unido a Cristo en Su muerte y resurrección, tu crecimiento como cristiano será cohibido.
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom6.6-10.jpg" data-auto-animate="" data-background-size="cover" --> 
+
 
 
 ## C. Romanos 6:6-10 – Conociendo el significado de tu muerte al pecado con Cristo
@@ -1951,6 +1983,10 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 #### b. La vida de resurrección de Cristo es la base de tu **<u>poder</u>** para vivir tu vida para Dios también. Efesios 1:19-20; Colosenses 1:27b, 3:4
 
 #### c. Porque Dios ahora te identifica con el Cristo viviente, en Cristo no sólo estás muerto al pecado, sino también maravillosamente **<u>vivo</u>** para Dios. 2 Timoteo 2:11
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom6.11.jpg" data-auto-animate="" data-background-size="cover" --> 
 
 
 
