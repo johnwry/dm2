@@ -309,7 +309,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3_tiempos.001.png"  data-background-size="contain"  --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3_tiempos.001.png"  data-background-size="contain" --> 
 
 
 
