@@ -313,79 +313,79 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3_tiempos.002.png"  data-background-size="80%" data-auto-animate="" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3_tiempos.002.png"  data-background-size="80%" data-auto-animate="" data-background-color="black"--> 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3_tiempos.003.png"  data-background-size="80%" data-auto-animate="" -->
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3_tiempos.003.png"  data-background-size="80%" data-auto-animate="" data-background-color="black"-->
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3_tiempos.004.png"  data-background-size="80%" data-auto-animate="" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3_tiempos.004.png"  data-background-size="80%" data-auto-animate="" data-background-color="black"--> 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3_tiempos.005.png"  data-background-size="80%" data-auto-animate="" -->
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3_tiempos.005.png"  data-background-size="80%" data-auto-animate="" data-background-color="black"-->
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3_tiempos.006.png"  data-background-size="80%" data-auto-animate="" -->
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3_tiempos.006.png"  data-background-size="80%" data-auto-animate="" data-background-color="black"-->
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3_tiempos.007.png"  data-background-size="80%" data-auto-animate="" -->
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3_tiempos.007.png"  data-background-size="80%" data-auto-animate="" data-background-color="black"-->
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3_tiempos.008.png"  data-background-size="80%" data-auto-animate="" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3_tiempos.008.png"  data-background-size="80%" data-auto-animate="" data-background-color="black"--> 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3_tiempos.009.png"  data-background-size="80%" data-auto-animate="" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3_tiempos.009.png"  data-background-size="80%" data-auto-animate="" data-background-color="black"--> 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3_tiempos.010.png"  data-background-size="80%" data-auto-animate="" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3_tiempos.010.png"  data-background-size="80%" data-auto-animate="" data-background-color="black"--> 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3_tiempos.011.png"  data-background-size="80%" data-auto-animate="" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3_tiempos.011.png"  data-background-size="80%" data-auto-animate="" data-background-color="black"--> 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3_tiempos.012.png"  data-background-size="80%" data-auto-animate="" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3_tiempos.012.png"  data-background-size="80%" data-auto-animate="" data-background-color="black"--> 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3_tiempos.013.png"  data-background-size="80%" data-auto-animate="" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3_tiempos.013.png"  data-background-size="80%" data-auto-animate="" data-background-color="black"--> 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3_tiempos.014.png"  data-background-size="80%" data-auto-animate="" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3_tiempos.014.png"  data-background-size="80%" data-auto-animate="" data-background-color="black"--> 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3_tiempos.015.png"  data-background-size="80%" data-auto-animate="" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3_tiempos.015.png"  data-background-size="80%" data-auto-animate="" data-background-color="black"--> 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3_tiempos.016.png"  data-background-size="80%" data-auto-animate="" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3_tiempos.016.png"  data-background-size="80%" data-auto-animate="" data-background-color="black"--> 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3_tiempos.017.png"  data-background-size="80%" data-auto-animate="" -->
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3_tiempos.017.png"  data-background-size="80%" data-auto-animate="" data-background-color="black"-->
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3_tiempos.018.png"  data-background-size="80%" data-auto-animate="" -->
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3_tiempos.018.png"  data-background-size="80%" data-auto-animate="" data-background-color="black"-->
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3_tiempos.019.png"  data-background-size="80%" data-auto-animate="" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3_tiempos.019.png"  data-background-size="80%" data-auto-animate="" data-background-color="black"--> 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3_tiempos.020.png"  data-background-size="80%" data-auto-animate="" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3_tiempos.020.png"  data-background-size="80%" data-auto-animate="" data-background-color="black"--> 
 
 
 
