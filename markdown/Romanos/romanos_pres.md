@@ -793,6 +793,9 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 <!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="70%" --> 
 
 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom2.1-16.jpg" data-auto-animate="" data-background-size="cover" --> 
+
+
 
 ## B. Romanos 2:1-16 – El juicio de Dios del pecador moral
 
