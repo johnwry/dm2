@@ -966,6 +966,10 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom3.1-8.jpg" data-auto-animate="" data-background-size="cover" --> 
+
+
+
 <!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="70%" --> 
 
 
@@ -1013,6 +1017,10 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 ##### 1) ¿Por qué habría sido Pablo acusado de promover la anarquía? Cuando un creyente predica la salvación por gracia solamente, sin ningún tipo de obras, los legalistas religiosos pueden fácilmente **<u>acusarlo</u>** de excusar e incluso promover el pecado.
 
 ##### 2) Si los legalistas religiosos no te acusan de esta manera, probablemente necesites verificar para ver si realmente estás enseñando la **<u>gracia</u>**.
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom3.9-20.jpg" data-auto-animate="" data-background-size="cover" --> 
 
 
 
@@ -1074,6 +1082,12 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 #### d. Romanos 3:20a – ”*ya que por las obras de la ley ningún ser humano será justificado delante de él;*…” El **<u>propósito</u>** de los Diez Mandamientos nunca fue hacer justas a las personas, ya que nadie es capaz de cumplir perfectamente la Ley. Hechos 13:39, Gálatas 2:16, Santiago 2:10
 
 #### e. Romanos 3:20b – “… *porque por medio de la ley es el conocimiento del pecado*.” El propósito de la Ley es **<u>mostrar</u>** la pecaminosidad de la humanidad. 1 Timoteo 1:8-11
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/derecho.jpg" data-auto-animate="" data-background-size="cover" --> 
+
+
 
 ## F. Hagamos un viaje por la Escuela del Derecho.
 
@@ -1176,6 +1190,10 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 ##### 2) La Biblia enseña que **<u>Satanás</u>** es un mentiroso. Cualquiera que dice mentiras está siguiendo sus caminos. Juan 8:44, Apocalipsis 21:8**
 
 #### j. **Ley** **#10** – “*No **<u>codiciarás</u>**…* *cosa alguna de tu prójimo” *(Ex. 20:17). Desear lo que le pertenece a otra persona es pecado. Dios quiere que estés contento con lo que tienes. Proverbios 27:20, Hebreos 13:5
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom3.21-31.jpg" data-auto-animate="" data-background-size="cover" --> 
 
 
 
