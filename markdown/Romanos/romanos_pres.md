@@ -3,7 +3,7 @@ ROMANOS 1-8
 version: Romanos 5.5
 
 
-*Copyright © **2018 by DM Multiplied, Inc**
+*Copyright © 2018 by DM Multiplied, Inc
 Derechos Reservados
 Inspirado por el Espíritu de Dios, Pablo dictó esta carta a Tercio y la
 envió por medio de Febe a Roma. Su propósito era claro.*
