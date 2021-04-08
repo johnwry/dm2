@@ -30,3 +30,8 @@
 data-background-color="aquamarine"
 ```
 
+Use this to make the font as large as possible to fit in the screen:
+
+```html
+class="r-fit-text"
+```
