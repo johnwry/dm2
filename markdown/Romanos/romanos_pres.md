@@ -5384,7 +5384,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 ### 5. Las Escrituras son firmes al declarar lo que el evangelio es y no es. Aquí hay algunos ejemplos de este hecho. 
 
- 
+
 
 |               | SALVO POR:               | NO SALVO POR:                       |
 |---------------| ------------------------ | ----------------------------------- |
