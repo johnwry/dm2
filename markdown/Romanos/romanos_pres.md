@@ -115,11 +115,11 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom-intro.jpg" data-auto-animate="" data-background-size="cover" --> 
-
-
-
 # Romanos 1-8 
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom-intro.jpg" data-auto-animate="" data-background-size="cover" --> 
 
 
 
