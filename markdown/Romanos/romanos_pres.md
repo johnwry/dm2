@@ -5388,11 +5388,31 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 |               | SALVO POR:               | NO SALVO POR:                       |
 |---------------| ------------------------ | ----------------------------------- |
-|Efesios 2:8-9|Porque por gracia sois salvos por medio de la fe|y esto no de vosotros|
-| Hechos 13:39 | en él es justificado todo aquel que cree| y que de todo aquello de que por la ley de Moisés no pudisteis ser justificados.|
+| Efesios 2:8-9 | Porque por gracia sois salvos por medio de la fe | y esto no de vosotros |
+
+
+
+|               | SALVO POR:               | NO SALVO POR:                       |
+|---------------| ------------------------ | ----------------------------------- |
+| Hechos 13:39 | en él es justificado todo aquel que cree | y que de todo aquello de que por la ley de Moisés no pudisteis ser justificados.|
+
+
+
+|               | SALVO POR:               | NO SALVO POR:                       |
+|---------------| ------------------------ | ----------------------------------- |
 | Tito 3:5 | Nos salvó no por obras de justicia que nosotros hubiéramos hecho | sino por su misericordia, por el lavamiento de la  regeneración y por la renovación en el Espíritu Santo |
+
+
+
+|               | SALVO POR:               | NO SALVO POR:                       |
+|---------------| ------------------------ | ----------------------------------- |
 | 2 Timoteo 1:9| quien nos salvó y llamó con llamamiento santo | no conforme a nuestras obras |
-| sino según el propósito suyo y la gracia que nos  fue dada en Cristo Jesús antes de los tiempos de los siglos |                                                              |                                                              |
+| sino según el propósito suyo y la gracia que nos  fue dada en Cristo Jesús antes de los tiempos de los siglos |                               |
+
+
+
+|               | SALVO POR:               | NO SALVO POR:                       |
+|---------------| ------------------------ | ----------------------------------- |
 | Gálatas 2:16 | Sabiendo que el hombre no es justificado por las obras de la ley | sino por la fe de Jesucristo,|
 |nosotros también hemos creído en Jesucristo,| para ser justificados por la fe de Cristo |                                                              |
 | y no por las obras de la ley,         | por cuanto por las obras de la ley nadie será justificado.   |      |
