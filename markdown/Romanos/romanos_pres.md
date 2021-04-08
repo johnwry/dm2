@@ -3179,7 +3179,6 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-
 ### 1. **Confusión: Cree y haz buenas obras**
 
 ####  a. Casi todos los **<u>falsos</u>** evangelios requieren que el pecador haga alguna obra para salvación, pero el evangelio no es fe en Cristo más buenas obras.
@@ -3225,6 +3224,12 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 #### d. Dios dejó en claro que si una persona estaba confiando en la circuncisión para ser salva, necesitaría guardar **<u>toda</u>** la Ley, no solo las exigencias de la circuncisión. Dado que nadie ha podido jamás cumplir toda la Ley, cualquier esfuerzo por obtener la vida eterna a través de la circuncisión fracasa miserablemente.
 
 #### e. La circuncisión era una **<u>señal </u>**del Pacto Abrahámico, el cual era un acuerdo entre Dios y Abraham que data de la época en que Israel se convirtió por primera vez en nación. A todos los niños israelitas se les exigía ser circuncidados ocho días después del nacimiento. Este ritual, sin embargo, no salvaba a nadie de sus pecados. Génesis 17:9-14
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/confieza-pecados.jpg" data-auto-animate="" data-background-size="cover" --> 
+
+
 
 ### 5. **Confusión: Cree y confiesa tus pecados**
 
