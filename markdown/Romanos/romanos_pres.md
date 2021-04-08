@@ -5720,130 +5720,255 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 #### a. Esta confusión implica que debes hacer una profesión pública **<u>verbal</u>** de tu fe en Cristo a fin de completar tu salvación.
 
+
+
 #### b. Si esto fuera requerido, la obra de Cristo en la cruz para pagar por tus pecados no fue **<u>suficiente</u>**. Para completar tu salvación, necesitarías añadir tu obra imperfecta de confesión pública a Su ya perfecta obra de morir por tus pecados.
+
+
 
 #### c. Cristo **<u>solo</u>** ganó nuestra completa salvación. Nada más puede ser añadido para mejorar lo que Él hizo. Efesios 2:9, Tito 3:6-7
 
+
+
 #### d. Es cierto que ante Dios en el cielo, recibirás recompensas por confesar públicamente a Cristo o se te negarán recompensas por negarlo, pero testificar públicamente no **<u>gana</u>** ni asegura tu salvación. Mateo 10:33
+
+
 
 ##### 1) Es importante entender el significado correcto de 2 Timoteo 2:11-12 – “*Palabra fiel es esta: Si somos muertos con él, también viviremos con él; Si sufrimos, también reinaremos con él; Si le negáremos, él también nos **<u>negará</u>** *.”
 
+
+
 ##### 2) Lo que este versículo está diciendo es que Él nos **<u>negará</u>** recompensas, coronas o autoridad gobernante por infidelidad, pero no nos negará la entrada al cielo. 1 Corintios 3:15
+
+
 
 ##### 3) 2 Timoteo 2:13 – “*Si fuéremos infieles, él permanece fiel; Él no puede  **<u>negarse</u>** a sí mismo*.” Incluso si nos volviéramos totalmente infieles, Él permanecería fiel a nosotros, Sus hijos.
 
+
+
 #### e. Romanos 10:9-10 es **<u>citado</u>** a menudo para apoyar el concepto de que un incrédulo debe proclamar a Cristo públicamente para ser salvo.
+
+
 
 ##### 1) Primero que nada, los capítulos 9, 10 y 11 de Romanos fueron escritos específicamente para abordar la condición espiritual pasada, presente y futura de **<u>Israel</u>**. Estos capítulos no fueron escritos pensando en los gentiles no salvos.
 
+
+
 ##### 2) Romanos 10:9-10 –*“que si confesares con tu boca que Jesús es el Señor, y creyeres en tu corazón que Dios le levantó de los muertos, serás  **<u>salvo</u>**. Porque con el corazón se cree para justicia, pero con la boca se confiesa para salvación*.”
+
+
 
 ##### 3) En el contexto de este pasaje, si un israelita invocaba el nombre del Señor con su voz, sería porque **<u>ya</u>** había creído en el Señor en su corazón. Romanos 10:14 confirma esto, diciendo, “ *¿Cómo, pues, invocarán a aquel en el cual no han creído?...*”
 
+
+
 ##### 4) Incluso hasta el día hoy, el pueblo judío no confesará que Jesucristo es el **<u>SEÑOR</u>** Yahvé del Antiguo Testamento a menos que ya hayan creído en Él en sus corazones.
+
+
 
 ##### 5) La confesión simplemente confirma verbalmente lo que ya ha ocurrido en la privacidad del **<u>corazón</u>**, pero no es un requisito para la salvación. 1 Corintios 12:3
 
+
+
 ### 11. **Confusión: Haz la oración del pecador**
+
+
 
 #### a. Una persona es salva basada en la **<u>fe</u>** en Cristo y no por orar una oración. Hechos 16:30-31 dice, “* y sacándolos, les dijo: Señores, ¿qué debo hacer para ser salvo? Ellos dijeron: Cree en el Señor Jesucristo, y serás salvo, tú y tu casa.*”
 
+
+
 #### b. No hay ningún **<u>ejemplo</u>** en la Biblia de una persona a la que se le haya requerido orar una oración para ser salva. Si la oración fuera requerida para la salvación, Dios nos lo habría comunicado claramente. La oración es una buena obra, y ya sabemos que no somos salvos por hacer obras. Tito 3:5
+
+
 
 #### c. ¿Estamos dando a entender que la oración es mala? **<u>Nunca</u>**. La Biblia insta a los creyentes a orar sin cesar (1 Tes. 5:17) y a orar en todo tiempo (Ef. 6:18), pero la oración no es un requisito para la salvación de los incrédulos. La fe en el evangelio es lo que salva, no ser guiado por alguien para orar una oración.
 
+
+
 ### 12. **Confusión: Simplemente di sí a Jesús**
+
+
 
 #### a. Mientras esto puede parecer una respuesta muy **<u>positiva</u>** al mensaje del evangelio, no es sinónimo de “*Cree en el Señor Jesucristo y serás salvo*.” Hechos 16:31
 
+
+
 #### b. Esta declaración es confusa, ya que no especifica que debemos creer en la muerte y resurrección de Cristo para la salvación. Muchas personas bien intencionadas llegan a convencerse fácilmente de que van al cielo en base a una **<u>actitud</u>** positiva hacia Jesús.
+
+
 
 #### c. La salvación no se basa en un “**<u>sí</u>**” como declaración al Señor. ¿A qué exactamente le estaría diciendo una persona que sí? Si decirle sí al Señor fuera parte de algún tipo de promesa o voto al Señor, entonces sería una obra humana. Sabemos por la Palabra de Dios que nuestras obras no nos salvan. Tito 3:5
 
+
+
 #### d. De hecho, Mateo 7:22-23 habla de personas que fueron muy positivas hacia el Señor y, sin embargo, no fueron salvas. A este tipo de personas, Jesús les dirá, “*  Muchos me **<u>dirán</u>** en aquel día: Señor, Señor, ¿no  profetizamos en tu nombre, y en tu nombre echamos fuera demonios, y en tu nombre hicimos muchos milagros? Y entonces les declararé: Nunca os conocí; apartaos de mí, hacedores de maldad*.”
+
+
 
 ### 13. **Confusión: Ama a Dios**
 
+
+
 #### a. Esta confusión enseña que puedes ganar la salvación amando a Dios y amando a tu prójimo como a ti mismo. En realidad, es imposible producir este tipo de **<u>amor</u>** antes de la salvación. Efesios 2:1-3
+
+
 
 #### b. Este mensaje **<u>falso</u>** del evangelio sale de Deuteronomio 6:5 – “* Y amarás a Jehová tu Dios de todo tu corazón, y de toda tu alma, y con todas tus fuerzas*.”
 
+
+
 #### c. Aunque **<u>Jesús</u>** dijo que este era el más grande mandamiento (Lucas 10:27), Él no implicó que una persona pudiera ganar la salvación por obedecerla.
+
+
 
 #### d. Hay muchos mandatos similares dados en la Palabra de Dios, pero estos son para que los **<u>hijos</u>** de Dios obedezcan, no los incrédulos.
 
+
+
 #### e. Es por creer las buenas nuevas acerca de Jesús lo que **<u>salva</u>** a un alma, no por amar a Dios y a los demás.
+
+
 
 ### 14. **Confusión: Sigue a Jesús; toma tu cruz**
 
+
+
 #### a. Es importante entender el **<u>contexto</u>** de Mateo 16:24-26. “* Entonces Jesús dijo a sus discípulos: Si alguno quiere venir en pos de mí, niéguese a sí mismo, y tome su cruz, y sígame. Porque todo el que quiera salvar su vida, la perderá; y todo el que pierda su vida por causa de mí, la hallará. Porque ¿qué aprovechará al hombre, si ganare todo el mundo, y perdiere su alma? ¿O qué recompensa dará el hombre por su alma?”*
+
+
 
 #### b. La clave para entender este pasaje es entender que Jesús estaba dirigiéndose a creyentes: “… *Jesús dijo a **<u>sus</u>** discípulos…”*. Ya que Jesús estaba hablando con sus discípulos, sabemos que este es un pasaje de santificación en lugar de un pasaje de cómo ser salvos.
 
+
+
 #### c. Cuando Jesús hablaba de alguien perdiendo su vida y perdiendo su alma, Él no estaba hablando de creyentes perdiendo sus almas en el **<u>infierno</u>**. Si eso fuera así, contradeciría muchos  versículos sobre la naturaleza eterna de nuestra salvación, como veremos.
+
+
 
 #### d. Jesús estaba advirtiendo a los creyentes no **<u>perder</u>** la vida abundante y volverse infructuosos en el servicio aquí en la tierra. Él estaba hablando en contra del creyente que se vende al mundo. Romanos 12:2, 1 Juan 2:15-17
 
+
+
 ### 15. **Confusión: Haz a Cristo Señor de tu vida; sométete al señorío de Jesús.**
+
+
 
 #### a. Es cierto que para ser salvo debes creer que Jesús es el **<u>Señor</u>** Dios. Juan 8:24 dice, “*Por eso os dije que moriréis en vuestros pecados; porque si no creéis que yo soy* [Él]*, en vuestros pecados moriréis*.”
 
+
+
 ##### 1) El **<u>título</u>** de Jesús, Cristo, significa que Jesús es el Señor. En Mateo 16:16, cuando Jesús le preguntó a Pedro quién era Él, “*Respondiendo Simón Pedro, dijo: Tú eres el Cristo, el Hijo del Dios viviente.”* Hechos 2:36, Lucas 2:11, Juan 4:25, 1 Juan 2:22-23
+
+
 
 ##### 2) Sería absurdo confiar en Jesús para la salvación si pensaras que Él fuese simplemente un **<u>humano</u>** ordinario y pecador como tú.
 
+
+
 #### b. Sin embargo, si bien debes creer que Cristo es el Señor Dios a fin de ser salvo, hacerlo Señor de tu vida no te salvará. Si ese fuera el caso, tu salvación no estaría basada en la obra terminada de Cristo, sino en la adición de **<u>tu</u>** obra de convertirlo en tu Señor. La salvación estaría basada en tus frágiles esfuerzos para someterte a Él. Tito 3:5-6
+
+
 
 ##### 1) Hacer a Cristo el Señor de tu vida no es una decisión que tomas momentos **<u>antes</u>** de creer.
 
+
+
 ##### 2) ¿Cómo puede un incrédulo que está muerto en delitos y pecados (Efe 2:1-3), bajo el control de Satanás y sin el Espíritu de Dios en su vida, honestamente y con éxito, prometer **<u>sumisión</u>** al señorío de Jesucristo? Si hacer a Jesús el Señor de tu vida fuera un requisito para la salvación, nadie podría ser salvo.
+
+
 
 #### c. El señorío es una cuestión de discipulado para el **<u>creyente</u>**, no una cuestión de salvación para el incrédulo.
 
+
+
 ##### 1) Sabemos que el Señor Jesucristo quiere ser el Señor de cada miembro de Su **<u>cuerpo</u>**. Él inicia este proceso de por vida en el momento en que una persona cree en Él y Él promete continuar trabajando hacia este objetivo hasta el segundo en que muramos. Filipenses 1:6, 2:12‑13; 1 Pedro 1:13-16
+
+
 
 ##### 2) Como creyentes, todos luchamos con el pecado y, a veces, nos **<u>encontramos</u>** luchando contra el señorío de Cristo en alguna área de nuestras vidas. Romanos 7:18, 1 Juan 1:8
 
+
+
 ##### 3) Sin embargo, cuando de manera consistente **<u>presentamos</u>** los miembros de nuestro cuerpo como instrumentos de justicia al Señor, el señorío de Cristo sobre nuestras vidas aumenta. Romanos 6:19-22
+
+
 
 ### 16. **Confusión: Sólo ten fe**
 
+
+
 #### a. Decirle a un incrédulo que sólo tenga fe, es decir, una vibra positiva hacia Dios o hacia la vida, es confuso porque el **<u>objeto</u>** de la fe no está establecido o claramente definido. Muchas personas creen erróneamente que serán salvadas porque tienen optimismo positivo acerca de la vida o acerca de Dios. Lamentablemente, este es un error fatal.
+
+
 
 #### b. El concepto de tener fe es bíblico, pero para la salvación, la fe debe estar específicamente en Cristo. Juan 6:29 – “*Respondió Jesús y les dijo: Esta es la obra de Dios, que creáis en  **<u>el</u>** **que** él ha enviado.”*
 
+
+
 #### c. Para muchos pensadores modernos, Jesús es un buen hombre indefinido o un buen ejemplo. Cristo se convierte en un **<u>ideal</u>** para alcanzar a la larga por simplemente tener una buena perspectiva de la vida. Muchas de estas personas ven la fe como un tipo de Karma místico o una fuerza cósmica sagrada.
+
+
 
 #### d. Debido a que las declaraciones “sólo ten fe” o “cree” no describen una fe puesta en la muerte del Señor Jesucristo por nuestros **<u>pecados</u>** y Su resurrección, este es un mensaje engañoso. Hechos 16:29-34, 1 Corintios 15:1-4
 
+
+
 ### 17. **Confusión: Mantén la fe**
+
+
 
 #### a. Este mensaje falso del evangelio implica que la salvación se trata de mantener tu fe en Cristo. Si **<u>dejases</u>** de creer, perderás tu salvación e irás al infierno.
 
+
+
 #### b. En este escenario, la razón por la que las personas van al cielo es porque **<u>ellos</u>** defendieron fielmente su fe y no por la fiabilidad de Cristo para defenderlos. El objeto de su fe para la salvación es su propia capacidad para guardar o mantener su fe.
+
+
 
 #### c. En 2 Timoteo 1:12, el apóstol Pablo declaró, “…*yo sé a quién he creído, y estoy seguro que *[**<u>Él</u>**] * es poderoso para guardar mi depósito para aquel día*.”
 
+
+
 #### d. Este error se reduce a confiar en tu propia **<u>fe</u>** en lugar de en la obra terminada de Cristo para la salvación.
+
+
 
 ### 18.  **Confusión: El evangelio sin cruz; el evangelio de la promesa solamente**
 
 
+
 #### a. Este falso evangelio invalida la fe en quién es Cristo (el Dios-Hombre) y lo que Él hizo (murió por nuestros pecados y resucitó). Estos detalles esenciales son vistos como información **<u>adicional</u>** y verdades innecesarias para la salvación.
+
+
 
 #### b. Algunos predicadores del evangelio sin cruz llegan al punto de decir que si exiges fe en la persona y obra de Cristo, estás de hecho **<u>agregando</u>** al evangelio.
 
+
+
 #### c. Los promotores de este falso evangelio **<u>afirman</u>** que estas son verdades no esenciales para la vida eterna. A menudo llaman al mensaje a ser creído para la vida eterna como el “mensaje salvador”, diciendo que la palabra evangelio se refiere a toda la Biblia.
+
+
 
 #### d. Este **<u>falso</u>** evangelio enseña que, para la salvación, una persona debe creer en la promesa de Jesús de darnos la vida eterna. Para estos maestros, todo lo esencial para la salvación es la fe en la seguridad eterna a través de un hombre llamado Jesús.
 
+
+
 #### e. Si bien es cierto que Cristo nos da vida eterna cuando creemos en Él, no se nos dice que creamos meramente en la **<u>promesa</u>** de Cristo de darnos vida eterna.
+
+
 
 #### f. Ambos, Pedro y Pablo, predicaban la persona y la obra de Cristo cuando compartían el evangelio con los **<u>perdidos</u>**.
 
+
+
 ##### 1) Cuando Pedro predicó en el día de Pentecostés (Hechos 2:23-24, 36), predicó la deidad, la muerte y la resurrección de Cristo:*“a éste… matasteis por manos de inicuos, crucificándole; al cual Dios levantó... Por lo tanto ...Sepa[n], pues, ciertísimamente ...que a este Jesús a quien vosotros crucificasteis, Dios le ha hecho  **<u>Señor</u>** y Cristo*.”
 
+
+
 ##### 2) Pablo predicaba la cruz a los inconversos. 1 Corintios 2:1-2 – “*Así que, hermanos, cuando fui a vosotros para anunciaros el testimonio de Dios, no fui con excelencia de palabras o de sabiduría. Pues me propuse no saber entre vosotros cosa alguna sino a Jesucristo, y a éste  **<u>crucificado</u>**.”* 1 Corintios 1:18, 23; Gálatas 1:1-9, 3:1
+
+
 
 ##### 3) Pablo predicaba la resurrección a los no son salvos. Hechos 17:32 – “*Pero cuando oyeron lo de la resurrección de los muertos, unos se  **<u>burlaban</u>,…”** * .
 
@@ -5854,66 +5979,75 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 ### 1. El evangelio no es un mensaje subjetivo.
+#### a. El evangelio no es algo que decimos o hacemos en nuestros **<u>corazones</u>**. <!-- .element: class="fragment" -->
+#### b. El evangelio no es una **<u>experiencia</u>** que hemos tenido. <!-- .element: class="fragment" -->
 
-#### a. El evangelio no es algo que decimos o hacemos en nuestros **<u>corazones</u>**.
 
-#### b. El evangelio no es una **<u>experiencia</u>** que hemos tenido.
 
 ### 2. El evangelio no es una fórmula.
+#### a. El evangelio no es repetir alguna **<u>frase</u>**. <!-- .element: class="fragment" -->
+#### b. El evangelio no es lo que decimos o lo que alguien nos **<u>dice</u>** que digamos. <!-- .element: class="fragment" -->
 
-#### a. El evangelio no es repetir alguna **<u>frase</u>**.
 
-#### b. El evangelio no es lo que decimos o lo que alguien nos **<u>dice</u>** que digamos.
 
 ### 3. El evangelio no es decir la denominada “**<u>oración</u>** del pecador”.
 
+
+
 ### 4. El evangelio no es una emoción.
+#### a. El evangelio no es una **<u>demostración</u>** de remordimiento o auto flagelamiento.  <!-- .element: class="fragment" -->
+#### b. El evangelio no es una exhibición de lágrimas, **<u>gozo</u>** o tristeza.  <!-- .element: class="fragment" -->
 
-#### a. El evangelio no es una **<u>demostración</u>** de remordimiento o auto flagelamiento.
 
-#### b. El evangelio no es una exhibición de lágrimas, **<u>gozo</u>** o tristeza.
 
 ### 5. El evangelio no es una experiencia eufórica o mística.
-
-#### a. El evangelio no es hablar en **<u>lenguas</u>**.
-
-#### b. El evangelio no es ser **<u>inmolado</u>** en el espíritu.
-
-#### c. El evangelio no es una especie de conjuro **<u>mágico</u>**
+#### a. El evangelio no es hablar en **<u>lenguas</u>**.  <!-- .element: class="fragment" -->
+#### b. El evangelio no es ser **<u>inmolado</u>** en el espíritu.  <!-- .element: class="fragment" -->
+#### c. El evangelio no es una especie de conjuro **<u>mágico</u>**  <!-- .element: class="fragment" -->
 
  .
 
 ### 6. El evangelio no es una promesa o compromiso que **<u>hacemos</u>**.
 
+
+
 ### 7. El evangelio no es algo que **<u>hacemos</u>** por Dios.
 
+
+
 ### 8. El evangelio no es un **<u>trato</u>** que hacemos con Dios. Dios no dice,
+#### a. “Si me **<u>haces</u>** Señor, entonces te salvaré.”  <!-- .element: class="fragment" -->
+#### b. “Si me **<u>das</u>** tu vida, tu corazón o tu todo, entonces te daré la salvación.”  <!-- .element: class="fragment" -->
 
-#### a. “Si me **<u>haces</u>** Señor, entonces te salvaré.”
 
-#### b. “Si me **<u>das</u>** tu vida, tu corazón o tu todo, entonces te daré la salvación.”
 
 ### 9. El evangelio no es algo que debemos pedir o rogar a Dios.
+#### a. El evangelio no es pedir a Cristo que entre en tu corazón o en tu **<u>vida</u>**.  <!-- .element: class="fragment" -->
+#### b. El evangelio no es **<u>rogar</u>** por perdón o confesar tus pecados.  <!-- .element: class="fragment" -->
 
-#### a. El evangelio no es pedir a Cristo que entre en tu corazón o en tu **<u>vida</u>**.
 
-#### b. El evangelio no es **<u>rogar</u>** por perdón o confesar tus pecados.
 
 ### 10. El evangelio no es tu capacidad de creer.
-
-#### a. El evangelio no es confiar en tu **<u>fe</u>**.
-
-#### b. El evangelio no es tu habilidad para ser **<u>sincero</u>**
+#### a. El evangelio no es confiar en tu **<u>fe</u>**.  <!-- .element: class="fragment" -->
+#### b. El evangelio no es tu habilidad para ser **<u>sincero</u>**  <!-- .element: class="fragment" -->
 
  .
 
 #### c. El evangelio no es tu habilidad para **<u>echar</u>** fuera todas las dudas.
 
+
+
 ### 11. En resumen, el **<u>evangelio</u>** no es hacer buenas obras, guardar los Diez Mandamientos, ser bautizado, ser circuncidado, confesar tus pecados, pedir perdón, arrepentirte de tus pecados, invitar a Jesús a tu corazón, entregar tu vida a Dios, hacer una profesión pública de fe, hacer la oración del pecador, decirle sí a Dios, amar a Dios, seguir a Jesús, hacer a Cristo Señor de tu vida, tener fe en ti mismo o mantener la fe.
+
+
 
 #### a. ¿Cómo podría el evangelio ser **<u>todas</u>** estas cosas?
 
+
+
 #### b. ¿Quién podría jamás satisfacer estos requerimientos? **<u>Fallaríamos</u>** con seguridad si tan sólo uno de estos fuese requerido.
+
+
 
 ### 12. Claro y directo, el evangelio es el mensaje objetivo de que Cristo **<u>murió</u>** por tus pecados y resucitó al tercer día. ¿Crees en Cristo y lo que Él hizo por ti? Si es así, eres salvo. 1 Juan 5:13
 
@@ -5925,30 +6059,55 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 ### 1. Gálatas 1:6 – “*Estoy maravillado de que tan pronto os hayáis alejado del que os llamó por la gracia de Cristo, para seguir un evangelio diferente*." Tristemente, un creyente puede **<u>abandonar</u>** el evangelio, como estaba sucediendo en las iglesias de Galacia.
 
+
+
 ### 2. Gálatas 1:7 – “*No que haya otro, sino que hay algunos que os perturban y quieren pervertir el evangelio de Cristo*.” El evangelio es que Cristo murió por tus pecados y resucitó. No **<u>existe</u>** ningún otro evangelio. Desafortunadamente, los engañadores nos perturban constantemente con distorsiones del simple, pero transformador, mensaje del evangelio.
+
+
 
 ### 3. Gálatas 1:8 – “*Mas si aun nosotros, o un ángel del cielo, os anunciare otro evangelio  **<u>diferente</u>** del que os hemos anunciado, sea anatema.”* Pablo declaró que cualquiera, ángeles u otros que prediquen otro evangelio, deben ser malditos.
 
+
+
 ### 4. Gálatas 1:9 – “*Como antes hemos dicho, también ahora lo repito: Si alguno os predica diferente evangelio del que habéis recibido, sea anatema.”* El hecho de que Pablo repitiera su fuerte hostilidad hacia los **<u>falsos</u>** evangelios y los que los predican muestra cuán serio es esto para Dios.
+
+
 
 ### 5. Gálatas 1:10 – “*Pues, ¿busco ahora el favor de los hombres, o el de Dios? ¿O trato de agradar a los hombres? Pues si todavía agradara a los hombres, no sería siervo de Cristo* .” Debemos **<u>resistir</u>** a toda costa la tentación de predicar un mensaje popular, diluido o atractivo del Evangelio, porque si lo hacemos, ya no estamos sirviendo a Cristo.
 
+
+
 ## J. ¿Estás convencido de que Jesús es el único camino?
+
+
 
 ### 1. En Juan 14:6, Jesús dijo, “…*Yo soy el camino, y la verdad, y la vida; nadie viene al Padre, sino por mí*.” ¿Le crees a Jesús? ¿Crees que Él es el **<u>único</u>** camino a Dios? ¿O estaba Él equivocado? ¿Hay otra manera?
 
 
+
 ### 2. ¿Hay muchas puertas o caminos a Dios? ¡No! En Juan 10:9, Jesús no dio lugar a excepción alguna, sino que especificó exclusivamente, “*Yo soy la **<u>puerta</u>**; el que por mí entrare, será salvo; y entrará, y saldrá, y hallará pastos*.” No hay puertas múltiples.
+
+
 
 ### 3. Necesitamos recordar que la salvación no puede ser la **<u>obra</u>** de Dios y la nuestra al mismo tiempo. Ni siquiera puede ser 99% Cristo y 1% nosotros. La salvación es 100% el regalo gratuito de Dios. Efesios 2:8-9, Isaías 42:8
 
+
+
 ### 4. Debemos confiar únicamente en la obra de Cristo; no hay **<u>término</u>** medio. No es Cristo más alguna cosa. Hechos 4:12 dice, “*Y en ningún otro hay salvación; porque no hay otro nombre bajo el cielo, dado a los hombres, en que podamos ser salvos*.” Isaías 42:8
+
+
 
 ### 5. La razón por la que debemos ser **<u>precisos</u>** con el mensaje más importante en la tierra es porque es una cuestión de vida o muerte.
 
+
+
 #### a. Si tuvieras un tumor cerebral maligno, por ejemplo, querrías que sólo un cirujano calificado se encargara de la cirugía y querrías que él usara una gran precisión.
 
+
+
 #### b. El evangelio es incluso más importante que una cirugía cerebral porque tiene consecuencias **<u>eternas</u>**.
+
+
 
 ### 6. Por estas razones, buscamos ser concisos y claros con el mensaje del evangelio. Nuestro objetivo en esta enseñanza no es juzgar, menospreciar o desanimar a los hijos de Dios. Si has sido culpable de **<u>no ser claro</u>** con el mensaje del evangelio, confíe en el Señor y pídele a Dios que haga que tu presentación del evangelio sea más clara que nunca. 1 Tesalonicenses 2:4, 2 Timoteo 2:15
 
@@ -5960,9 +6119,15 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 ### 1. En Marcos 16:15, el Señor Jesucristo ordenó, “…*Id por **<u>todo</u>** el mundo y predicad el evangelio a toda criatura*.”
 
+
+
 ### 2. Cristo nos llamó a hacer discípulos en todas las naciones. Mateo 28:19-20 dice, “*Por tanto, id, y haced discípulos a todas las  **<u>naciones</u>**, bautizándolos en el nombre del Padre, y del Hijo, y del Espíritu Santo; enseñándoles que guarden todas las cosas que os he mandado; y he aquí yo estoy con vosotros todos los días, hasta el fin del mundo. Amén*.”
 
+
+
 ### 3. En Hechos 1:8, justo antes de regresar al cielo, Jesús añadió, “* pero recibiréis poder, cuando haya venido sobre vosotros el Espíritu Santo, y me seréis **<u>testigos</u>** en Jerusalén, en toda Judea, en Samaria, y hasta lo último de la tierra*.”
+
+
 
 ### 4. Debido a que es una cuestión de vida o muerte, asegurémonos de ser exactos y **<u>precisos</u>** al enseñar a otros la buena nueva de que Cristo murió por sus pecados y resucitó al tercer día.
 
@@ -5974,35 +6139,63 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 ## A. El papel de Dios en salvarnos y mantenernos salvos
 
+
+
 ### 1. Es Dios quien nos **<u>salva</u>**. Apocalipsis 7:10b dice *, *“… *La salvación pertenece a nuestro Dios que está sentado en el trono, y al Cordero.*” No nos salvamos a nosotros mismos. Ese es el trabajo de Dios. Isaías 45:22
+
+
 
 ### 2. Dios, el **<u>autor</u>** de nuestra salvación, dice que la salvación es eterna. Hebreos 5:9a dice, “*y habiendo sido perfeccionado, [*Jesús *] vino a ser autor de eterna salvación*…” Isaías 51:6b
 
+
+
 ### 3. Ya que la salvación es la obra de Dios, la única manera en que un creyente podría alguna vez perder su salvación sería si Dios fallara de alguna manera. Pero Dios no fallará. El apóstol Pablo estaba **<u>seguro</u>** de eso. Él escribió, “*estando persuadido de esto, que el que comenzó en vosotros la buena obra, la perfeccionará hasta el día de Jesucristo*;” Filipenses 1:6
+
+
 
 ### 4. La Biblia enseña que la protección de Dios mantiene a los creyentes a **<u>salvo</u>** y seguros todo el camino hasta la eternidad.
 
+
+
 #### a. Hebreos 13:5b – “… *No te **<u>desampararé</u>**, ni te dejaré*;”
+
+
 
 #### b. Juan 10:28 – “* y yo les doy vida eterna; y no perecerán **<u>jamás</u>**, ni nadie las arrebatará de mi mano*.”
 
+
+
 #### c. Hebreos 7:25 –*“por lo cual puede también salvar **<u>perpetuamente</u>** a los que por él se acercan a Dios, viviendo siempre para interceder por ellos*.”
+
+
 
 ### 5. En Su misericordia, Dios mismo preserva y mantiene nuestra salvación completamente **<u>aparte</u>** de nuestras buenas obras. Tito 3:5 dice, “*nos salvó, no por obras de justicia que nosotros hubiéramos hecho, sino por su misericordia, por el lavamiento de la regeneración y por la renovación en el Espíritu Santo*,”
 
+
+
 ### 6. Nuestra salvación está segura en base a las promesas de **<u>Dios</u>**, no en nuestros éxitos o fracasos. 1 Juan 2:25 dice, “*Y esta es la promesa que él nos hizo, la vida eterna*.”
 
+
+
 ### 7. Aunque Dios es el que mantiene y preserva nuestra salvación, un creyente puede tener dudas con respecto a este asunto. Debemos dejar siempre que la Biblia sea nuestra guía, no nuestras opiniones, experiencias, sentimientos, dogmas o denominaciones personales. La Palabra de Dios tiene que ser la autoridad **<u>final</u>** en materia de la seguridad de nuestra salvación. Hechos 17:11
+
+
 
 ### 8. Eres responsable de examinar la Biblia para asegurarte de que esta enseñanza es realmente lo que la Biblia dice. Haz como los bereanos en Hechos 17:11, “*Y éstos eran más nobles que los que estaban en Tesalónica, pues recibieron la palabra con toda solicitud, escudriñando  **<u>cada día</u>** las Escrituras para ver si estas cosas eran así*.”
 
 
- **B.  Eternamente seguros**
+
+## **B.  Eternamente seguros**
+
 
 
 ###### Argumentos Lógicos de la Seguridad Eterna
 
+
+
 ### 1. Un argumento de **definición**: ¿Cuánto dura la vida **<u>eterna</u>**? Eterno significa para siempre. Si la salvación pudiera perderse, Dios la habría llamado vida temporal o de corto plazo. En cambio, la Biblia insiste en que la salvación es eterna y que todos los creyentes tienen vida eterna. Juan 3:16
+
+
 
 #### a. Juan 3:15 – “*para que todo aquel que en él cree, no se pierda, mas tenga vida  **<u>eterna</u>** * .”
 
@@ -6010,115 +6203,219 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 #### b. Juan 3:36 – “*El que cree en el Hijo tiene vida eterna; pero el que rehúsa creer en el Hijo no verá la vida, sino que la **<u>ira</u>** de Dios está sobre él*.”
 
+
+
 ### 2. Un argumento de **relación biológica**: Juan 1:11-13 declara, “*A lo suyo vino, y los suyos no le recibieron. Mas a todos los que le recibieron, a los que creen en su nombre, les dio potestad de ser hechos hijos de Dios; los cuales no son engendrados de sangre, ni de voluntad de carne, ni de voluntad de varón, sino de  **<u>Dios</u>** * ;”
+
+
 
 #### a. Cuando naciste en este mundo, tu madre hizo todo el trabajo. De manera similar, cuando naciste de nuevo, **<u>Dios</u>** te dio un nuevo nacimiento por la acción del Espíritu Santo en el momento en que creíste en Cristo. Juan 3:6-8, Gálatas 3:26
 
+
+
 #### b. El nacimiento es un evento de una sola dirección que jamás puede ser revertido. Tal como es imposible volverse no nacido físicamente, es imposible volverse no nacido espiritualmente. Una vez que naces de nuevo, eres la descendencia de Dios y un **<u>miembro</u>** de Su familia para siempre.
+
+
 
 #### c. En 1 Pedro 1:23, Pedro dijo, “* siendo renacidos, no de **<u>simiente</u>** corruptible, sino de incorruptible, por la palabra de Dios que vive y permanece para siempre*.” Dios nos dio un nuevo nacimiento por medio de una simiente imperecedera. La simiente de Dios no puede ser corrompida.
 
+
+
 #### d. Figurativamente ahora poseemos ADN divino. Y así como es imposible eliminar el ADN de tus padres, es imposible **<u>eliminar</u>** el ADN espiritual de Dios, por así decirlo, o Su simiente imperecedera, de dentro de nosotros.
+
+
 
 ### 3. Un argumento de **lazos familiares**: Si Dios hizo **<u>tanto</u>** por nosotros enviando a Jesús a morir por nosotros cuando éramos criminales culpables, muertos en nuestros delitos y pecados, hijos de Satanás, ¿Qué nos hace pensar que Él hará menos por nosotros ahora que somos sus propios hijos queridos?
 
+
+
 #### a. Romanos 8:32 – “* El que no escatimó ni a su propio Hijo, sino que lo entregó por todos nosotros, ¿cómo no nos **<u>dará</u>** también con él todas las cosas?”*
+
+
 
 #### b. Mateo 7:11 – “*Pues si vosotros, siendo malos, sabéis dar buenas dádivas a vuestros hijos, ¿cuánto más vuestro Padre que está en los cielos dará  **<u>buenas</u>** cosas a los que le pidan?”*
 
+
+
 #### c. Santiago 1:17 – “*Toda buena dádiva y todo don **<u>perfecto</u>** desciende de lo alto, del Padre de las luces, en el cual no hay mudanza, ni sombra de variación.”*
+
+
 
 ### 4. Un argumento de la naturalidad de un **don gratuito**: Efesios 2:8-9 dice, “Porque por gracia sois salvos por medio de la fe; y esto no de vosotros, pues es **<u>don</u>** de Dios; no por obras, para que nadie se gloríe.”
 
+
+
+
 #### a. No puedes **<u>ganar</u>** la salvación por buenas obras o por una vida santa. La salvación es un don gratuito de Dios.
+
+
 
 #### b. Si pudieras ganar tu salvación, tendrías algo de qué enorgullecerte, pero no puedes. Solo Dios merece ser alabado y agradecido por Su **<u>regalo</u>** de amor y bondad, llamado salvación.
 
+
+
 ### 5. Un argumento de que los **dones de Dios son perdurables**: Cuando Dios da un regalo, Él no lo retoma. Todos los dones de Dios son **<u>permanentes</u>**.
+
+
 
 #### a. Romanos 11:29 – “ *Porque irrevocables son los dones y el llamamiento de Dios*.” Cuando Dios da un regalo, Él nunca lo **<u>tomará</u>** de regreso. Cuando Él te da un regalo, es tuyo para siempre. Es permanentemente tuyo.
 
+
+
 #### b. Santiago 1:17 – “*Toda buena dádiva y todo don perfecto desciende de lo alto, del Padre de las luces, en el cual no hay mudanza, ni sombra de variación*.” *No hay …variación *significa que Dios no **<u>cambia</u>**. Malaquías 3:6
+
+
 
 #### c. Romanos 6:23 – “* Porque la paga del pecado es muerte, mas la  **<u>dádiva</u>** de Dios es vida eterna en Cristo Jesús Señor nuestro*.” La vida eterna es un don gratuito. Depende de la fidelidad de Dios, no de la tuya. Dios no te la dio porque la merecías y no tienes que continuar mereciéndola para poder conservarla.
 
+
+
 ### 6. Un argumento de la **naturaleza incomparable de la fe**: Somos salvos por fe, no por obras. Tito 3:5 dice, “*nos salvó, no por obras de justicia que nosotros hubiéramos hecho,…”* Tal como no hicimos obras para ganar nuestra salvación, las buenas obras no nos mantienen salvos, y la falta de buenas obras no causa que perdamos nuestra salvación.
+
+
 
 #### a. Gálatas 3:3 – “*¿Tan necios sois? ¿Habiendo comenzado por el Espíritu, ahora vais a acabar por la **<u>carne</u>**?”*
 
+
+
 #### b. Romanos 4:5 –*“mas al que no obra, sino **<u>cree</u>** en aquel que justifica al impío, su fe le es contada por justicia*.”
+
+
 
 #### c. Gálatas 2:16 – “*sabiendo que el hombre no es justificado por las obras de la ley, sino por la **<u>fe</u>** de Jesucristo, nosotros también hemos creído en Jesucristo, para ser justificados por la fe de Cristo y no por las obras de la ley, por cuanto por las obras de la ley nadie será justificado*.”
 
+
+
 ### 7. Un argumento de la firmeza de **un cumplidor de promesas**: Incluso si eres infiel a Cristo, Él permanecerá **<u>fiel</u>** a ti para siempre. Él no puede romper Sus promesas.
+
+
 
 #### a. 2 Timoteo 2:13 – “* Si fuéremos infieles, él **<u>permanece</u>** fiel; Él no puede negarse a sí mismo*.”
 
+
+
 #### b. Tito 1:2 – “…*Dios …no **<u>miente</u>***…”
+
+
 
 #### c. Hebreos 10:23 – “* Mantengamos firme, sin fluctuar, la profesión de nuestra esperanza, porque fiel es el que **<u>prometió</u>** *.”
 
+
+
 ### 8. Un argumento de **ancla para el alma**: Dios es fiel para cumplir todas Sus promesas de salvación al creyente. Él protege a todos los que han tomado refugio en Él. Nuestra esperanza es tan segura que es como un ancla sujeta a una **<u>roca</u>** sólida.
+
+
 
 #### a. Hebreos 6:18-19 –*“para que por dos cosas inmutables, en las cuales es imposible que Dios mienta, tengamos un fortísimo consuelo los que hemos acudido para asirnos de la esperanza puesta delante de nosotros. La cual tenemos como **<u>segura</u>** y firme ancla del alma, y que penetra hasta dentro del velo*”.
 
+
+
 #### b. Salmos 62:6 – “*El solamente es mi **roca** y mi salvación. Es mi refugio, no **<u>resbalaré</u>** *”. Salmo 118:8-9
+
+
 
 ### 9. Un argumento de **la palabra escrita**: 1 Juan 5:13 –* “Estas cosas os he escrito a vosotros que creéis en el nombre del Hijo de Dios, para que sepáis que tenéis vida eterna, y para que creáis en el nombre del Hijo de Dios*.” Estás eternamente seguro porque la Biblia lo dice. Sin arrogancia, puedes ciertamente saber que estás salvo y seguro en Cristo porque la **<u>Palabra</u>** de Dios lo dice así.
 
 
+
 ###### *Argumentos Legales de la Seguridad Eterna*
+
+
 
 ### 10. Un argumento de la **eliminación de la culpa**: Juan 1:29 dice, “*He aquí el Cordero de Dios, que **<u>quita</u>** el pecado del mundo.*” Jesús fue en efecto el sacrificio de Dios para quitar nuestros pecados. Tus pecados, pasados, presentes y futuros, fueron borrados por Cristo. Si más tarde fueras juzgado por tus pecados, Su obra habría sido incompleta, y eso no es posible. Hebreos 10:12
 
+
+
 ### 11. Un argumento de los **pecados olvidados**: Dios perdonó y **<u>olvidó</u>** todos tus pecados para siempre. Si el pecado pudiera mantenerte fuera del cielo, Dios no te perdonó completamente.
+
+
 
 #### a. Salmos 103:10-12 – “*No ha hecho con nosotros conforme a nuestras iniquidades, ni nos ha pagado conforme a nuestros pecados. Porque como la altura de los cielos sobre la tierra, engrandeció su misericordia sobre los que le temen. Cuanto está lejos el oriente del occidente, hizo  **<u>alejar</u>** de nosotros nuestras rebeliones*.”
 
+
+
 #### b. Colosenses 2:13 – “*Y a vosotros, estando muertos en pecados y en la incircuncisión de vuestra carne, os dio vida juntamente con él,  **<u>perdonándoos</u>** todos los pecados*,”
 
+
+
 #### c. Hebreos 8:12 – “*Porque seré propicio a sus injusticias, y nunca más me acordaré de sus  **<u>pecados</u>** y de sus iniquidades*.”
+
+
 
 ### 12. Un argumento de **inmunidad**: Dios promete que en Cristo serás salvo de la futura condenación. Pero si pudieras perder tu salvación, serías una vez más condenado al infierno. En ese caso, las promesas de Cristo llegarían a ser **<u>falsas</u>**.
 
 
+
 #### a. Juan 3:18 dice, “*El que en él cree, no es **<u>condenado</u>**; pero el que no cree, ya ha sido condenado, porque no ha creído en el nombre del unigénito Hijo de Dios*.”
 
+
+
 #### b. En Juan 5:24 Jesús dijo, “* De cierto, de cierto os digo: El que oye mi palabra, y cree al que me envió, tiene vida eterna; y no vendrá a condenación, mas ha  **<u>pasado</u>** de muerte a vida*.”
+
+
 
 ### 13. Un argumento de **inocencia**: Ninguna acusación puede incriminarnos eternamente, ahora que estamos en Cristo. Romanos 8:33-34 dice, “*¿Quién **<u>acusará</u>** a los escogidos de Dios? Dios es el que justifica*.” Romanos 8:1
 
 
+
 ### 14. Un argumento del **mediador**: Puesto que Jesucristo se sienta a la diestra del Padre y **media** constantemente por nosotros, nadie puede jamás ir delante de Dios y presentar una acusación contra nosotros que pudiera causar nuestra condenación.
+
+
 
 #### a. Jesucristo es nuestro abogado defensor que siempre media ante Dios el Padre en nuestro nombre. Él no sólo es el mejor **<u>abogado</u>** de todos los tiempos, Él puede defendernos audaz y legalmente porque Él, el Dios-Hombre perfecto, pagó en su totalidad la pena por nuestros pecados.
 
+
+
 #### b. Romanos 8:34 – “* ¿Quién es el que condenará? Cristo es el que murió; más aún, el que también resucitó, el que además está a la diestra de Dios, el que también **<u>intercede</u>** por nosotros*.”
 
+
+
 #### c. Hebreos 7:25 – “* por lo cual puede también salvar perpetuamente a los que por él se acercan a Dios, **<u>viviendo</u>** siempre para interceder por ellos*.”
+
+
 
 #### d. 1 Juan 2:1b-2 –*“…y si alguno hubiere pecado, **<u>abogado</u>** tenemos para con el Padre, a Jesucristo el justo. y él es la propiciación * [pago satisfactorio]* por nuestros pecados; y no solamente por los nuestros, sino también por los de todo el mundo*.” Apocalipsis 12:9-10
 
 
+
 ###### *Argumentos de la Realidad de la Seguridad Eterna*
+
+
 
 ### 15. Un argumento de **posesión presente**: Juan 3:36a dice, “*El que cree en el Hijo tiene vida eterna;…*” Si has creído en el Hijo de Dios, Jesucristo, tú ya **<u>posees</u>** la vida eterna. La vida eterna es tu posesión y eso no puede cambiar. 1 Juan 5:11-12
 
+
+
 ### 16. Un argumento de **un** **hecho consumado**: Si pudieras **<u>perder</u>** tu salvación, la obra de Cristo en la cruz no habría sido completada, pero sabemos que ese no es el caso en absoluto. El sacrificio de Cristo fue una obra terminada.
+
+
 
 #### a. Juan 19:30 – “*Cuando Jesús hubo tomado el vinagre, dijo:  **<u>Consumado</u>** es. Y habiendo inclinado la cabeza, entregó el espíritu*.”
 
+
+
 #### b. Hebreos 7:27 –* “que no tiene necesidad cada día, como aquellos sumos sacerdotes, de ofrecer primero sacrificios por sus propios pecados, y luego por los del pueblo; porque esto lo hizo **<u>una vez</u>** para siempre, ofreciéndose a sí mismo *.”
+
+
 
 #### c. Hebreos 10:10 – “* En esa voluntad somos santificados mediante la ofrenda del cuerpo de Jesucristo hecha una vez para **<u>siempre</u>** * .”
 
+
+
 #### d. Hebreos 10:14 –*“porque con una sola ofrenda hizo perfectos para  **<u>siempre</u>** a los santificados * .”
+
+
 
 #### e. Hebreos 10:18 – “* Pues donde hay remisión de éstos, **<u>no hay más</u>** ofrenda por el pecado*.”
 
+
+
 ### 17. Un argumento de **un** **producto terminado** : Sabemos que Dios termina todo lo que comienza. Puesto que Él comenzó nuestra salvación, Él la continuará hasta que Cristo regrese. Filipenses 1:6 dice, “*estando persuadido de esto, que el que comenzó en vosotros la buena obra, la perfeccionará **<u>hasta</u>** el día de Jesucristo; * ” 1 Corintios 1:8
 
+
+
 ### 18. Un argumento de **tener o no tener**: Tú, o **<u>posees</u>** la vida eterna gracias a Cristo, o estás todavía muerto en tus pecados. 1 Juan 5:11-12 dice, “ * Y este es el testimonio: que Dios nos ha dado vida eterna; y esta vida está en su Hijo. El que tiene al Hijo, tiene la vida; el que no tiene al Hijo de Dios no tiene la vida. *”
+
 
 
 ###### *Argumentos de Completitud de la Seguridad Eterna*
@@ -6127,64 +6424,122 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 ### 19. Un argumento de **total satisfacción**: Si pudieras perder tu salvación, nuevamente llegarías a estar espiritualmente hambriento y sediento, pero Cristo prometió que nadie que cree en Él volverá a tener **<u>sed</u> **o hambre jamás.
 
+
+
 #### a. Juan 4:14 – “*mas el que bebiere del agua que yo le daré, no tendrá sed jamás; sino que el agua que yo le daré será en él una fuente de agua que salte para  **<u>vida</u>** eterna *.”
+
+
 
 #### b. Juan 6:35 – “*Jesús les dijo: Yo soy el pan de vida; el que a mí viene, nunca tendrá hambre; y el que en mí cree, no tendrá sed  **<u>jamás</u>** * .”
 
+
+
 ### 20. Un argumento de **total aceptación**: Jesucristo prometió nunca expulsar a nadie que vino a Él en fe. Si has confiado en Cristo, Él nunca te desechará ni **<u>rechazará</u>**. ¡Nunca!
+
+
 
 #### a. En Juan 6:37 [LBLA] Jesús dijo, “*Todo lo que el Padre me da, vendrá a mí; y al que viene a mí,  **<u>de ningún modo</u>** lo echaré fuera*.”
 
+
+
 #### b. Juan 6:39a – “* Y esta es la voluntad del Padre, el que me envió: Que de todo lo que me diere, no pierda yo **<u>nada</u>** *,…” Cristo nunca perderá a ninguno de los hijos de Dios.
+
+
 
 ### 21. Un argumento de **total pertenencia**: Eres completamente bendecido en Cristo, aparte de cualquier mérito personal. Efesios 1:6-7 –*“para alabanza de la gloria de **<u>su</u>** gracia, con la cual nos hizo aceptos en el Amado, en quien tenemos redención por su sangre, el perdón de pecados según las riquezas de su gracia*,”
 
+
+
 ### 22. Un argumento de **total protección**: Si pudieras perder tu salvación, perecerías, pero Cristo prometió que ningún creyente **<u>perecerá</u>** ni será arrebatado jamás. Juan 3:16
+
+
 
 #### a. Dios **<u>siempre</u>** cumple sus promesas. Romanos 3:4a dice, “*…sea Dios veraz, y todo hombre mentiroso*;…”
 
+
+
 #### b. Juan 10:27-28a – “*Mis ovejas oyen mi voz, y yo las conozco, y me siguen, y yo les doy vida eterna; y no perecerán **<u>jamás</u>** *,…”
+
+
 
 ### 23. Un argumento de **total defensa**: Nadie, ni siquiera tú ni **<u>Satanás</u>**, pueden arrebatarte de la protección de Cristo.
 
+
+
 #### a. Cristo te protege en su mano. Juan 10:28b declara, “ *…ni nadie las **<u>arrebatará</u>** de mi mano.*”
+
+
 
 #### b. Dios el Padre te protege en su mano también. Juan 10:29-30 añade, “* Mi Padre que me las dio, es mayor que todos, y nadie las puede arrebatar de la **<u>mano</u>** de mi Padre. Yo y el Padre uno somos*.”
 
+
+
 #### c. Colosenses 3:3b declara, “*…vuestra vida está **<u>escondida</u>** con Cristo en Dios*.”
+
+
 
 ### 24. Un argumento de **total amor**: Si pudiéramos perder nuestra salvación, seríamos quitados del amor de Dios, pero Dios prometió que nada puede separarnos de Su amor en Jesucristo. Ni siquiera **<u>tú</u>**, una* cosa creada [te] podrá[s] separar del amor de Dios, que es en Cristo Jesús Señor nuestro*. El poder de Dios no permitirá esto.
 
+
+
 #### a. Romanos 8:35, 37 – “*¿Quién nos separará del amor de Cristo? ¿Tribulación, o angustia, o persecución, o hambre, o desnudez, o peligro, o espada? … Antes, en todas estas cosas somos más que **<u>vencedores</u>** por medio de aquel que nos amó*.”
+
+
 
 #### b. Romanos 8:38-39 – “*Por lo cual estoy seguro de que ni la muerte, ni la vida, ni ángeles, ni principados, ni potestades, ni lo presente, ni lo por venir, ni lo alto, ni lo profundo, ni ninguna otra cosa  **<u>creada</u>** nos podrá separar del amor de Dios, que es en Cristo Jesús Señor nuestro*.”
 
+
+
 #### c. 1 Pedro 1:5 – “ *que sois guardados por el **<u>poder</u>** de Dios mediante la fe, para alcanzar la salvación que está preparada para ser manifestada en el tiempo postrero*.”
 
+
+
 #### d. Judas 1:24 – “* Y a aquel que es **<u>poderoso</u>** para guardaros sin caída, y presentaros sin mancha delante de su gloria con gran alegría*,”
+
+
 
 ### 25. Un argumento de **total victoria**: Hablando de cristianos débiles en Romanos 14:4, Pablo afirmó, “*¿Tú quién eres, que juzgas al criado ajeno? Para su propio señor está en pie, o cae; pero estará firme, porque  **<u>poderoso</u>** es el Señor para hacerle estar firme* .”
 
 
+
 #### a. Filipenses 2:13 –*“porque Dios es el que en vosotros produce así el querer como el hacer, por su buena voluntad*.” Aunque a veces puedes **<u>caer</u>**, tú nunca “caerás fuera” de la salvación.
+
+
 
 #### b. Judas 24-25 [LBLA] – “*Y a aquel que es poderoso para guardaros sin caída y para presentaros sin mancha en presencia de su gloria con gran alegría, al único Dios nuestro Salvador, por medio de Jesucristo nuestro Señor, sea gloria, majestad, dominio y **<u>autoridad</u>**, antes de todo tiempo, y ahora y por todos los siglos. Amén*.”
 
+
+
 #### c. Dios prometió guardarnos de caer y presentarnos ante Su trono en la eternidad. 2 Corintios 4:14 – “*sabiendo que el que resucitó al Señor Jesús, a nosotros también nos resucitará con Jesús, y nos **<u>presentará</u>** juntamente con vosotros *.”
+
+
 
 ### 26. Un argumento de **total posesión**: Dios nos **<u>posee</u>** porque fuimos comprados con un precio. Él protegerá fielmente lo que le pertenece.
 
+
+
 #### a. Juan 6:39 – “*Y esta es la voluntad del Padre, el que me envió: Que de todo lo que me diere, no **<u>pierda</u>** yo nada, sino que lo resucite en el día postrero*.” Juan 6:37, 6:54
+
+
 
 #### b. 1 Corintios 6:19-20 – “*¿O ignoráis que vuestro cuerpo es templo del Espíritu Santo, el cual está en vosotros, el cual tenéis de Dios, y que no sois vuestros? Porque habéis sido comprados por **<u>precio</u>**; glorificad, pues, a Dios en vuestro cuerpo y en vuestro espíritu, los cuales son de Dios*.”
 
+
+
 ### 27. Un argumento de ser **totalmente guardado**: Él **<u>guardará</u>** tu alma hasta la muerte o el rapto. 2 Timoteo 1:12 dice, “*Por lo cual asimismo padezco esto; pero no me avergüenzo, porque yo sé a quién he creído, y estoy seguro que es poderoso para guardar mi depósito para aquel día*.”
+
+
 
 ### 28. Un argumento de **nunca ser abandonado**: Cristo prometió que **<u>nunca</u>** te dejará ni te abandonará.
 
+
+
 #### a. Hebreos 13:5b-6 –*“…porque él dijo: No te **<u>desampararé</u>**, ni te dejaré; de manera que podemos decir confiadamente: El Señor es mi ayudador; no temeré lo que me pueda hacer el hombre.”*
 
+
+
 #### b. Para perder tu salvación, Dios tendría que dejarte y abandonarte. Ya que nuestro Señor Jesús nunca nos **<u>abandonará</u>**, podemos descansar en Su protección amorosa.
+
 
 
 
@@ -6194,11 +6549,19 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 ### 29. Un argumento de **perfecta justicia**: La salvación se basa en la justicia de Cristo y no en la nuestra. Filipenses 3:9 dice, “*y ser hallado en él, no teniendo **<u>mi</u>** propia justicia, que es por la ley, sino la que es por la fe de Cristo, la justicia que es de Dios por la fe*;” 2 Corintios 5:21
 
+
+
 ### 30. Un argumento de **justicia imputada**: No se nos mantiene salvos en **<u>base</u>** a nuestra justicia, sino en base a la justicia de Dios, y Su justicia siempre será lo suficientemente buena. Gálatas 3:6
+
+
 
 #### a. 2 Corintios 5:21 – “*Al que no conoció pecado, por nosotros lo  **<u>hizo pecado</u>**, para que nosotros fuésemos hechos justicia de Dios en él*”
 
+
+
 #### b. En el momento en que creímos, la justicia de Cristo fue transferida a nosotros. Instantáneamente llegamos a ser aptos para **<u>permanecer</u>** en la presencia del Dios santo y perfecto. Génesis 15:6, Romanos 4:8
+
+
 
 ### 31. Un argumento de **justicia declarada**: Debido a que hemos sido declarados justos, no tenemos que pagar el justo castigo por nuestros pecados y ser separados de Dios para siempre. De acuerdo con la verdad de la justificación, este veredicto **<u>legal</u>** no puede ser revertido.
 
@@ -6206,7 +6569,10 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 #### a. Romanos 5:1 – “***<u>Justificados</u>*** *, pues, por la fe, tenemos paz para con Dios por medio de nuestro Señor Jesucristo*;”
 
+
+
 #### b. Romanos 5:8-9 – “*Mas Dios muestra su amor para con nosotros, en que siendo aún pecadores, Cristo murió por nosotros*. *Pues mucho más, estando ya justificados en su sangre, por él seremos salvos de la **<u>ira</u>** *.”
+
 
 
 ###### *Argumentos de Identidad de la Seguridad Eterna*
@@ -6215,29 +6581,55 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 ### 32. Un argumento de **identificación en Cristo**: No podemos ser condenados a juicio en el infierno por quienes somos ahora en Cristo. Nuestra **<u>identidad</u>** está envuelta en la identidad de Cristo, de modo que todo lo que es cierto acerca de Él es ahora cierto acerca de nosotros. Él es nuestra victoria. Ya que espiritualmente estamos establecidos y seguros en los lugares celestiales en Él, no podemos perdernos.
 
+
+
 #### a. Romanos 8:1 – “*Ahora, pues, ninguna condenación hay para los que están  **<u>en Cristo</u>** Jesús*,…”
+
+
 
 #### b. Efesios 1:3 – “*Bendito sea el Dios y Padre de nuestro Señor Jesucristo, que nos bendijo con toda bendición espiritual en los lugares celestiales  **<u>en Cristo</u>** *,”
 
+
+
 #### c. Efesios 2:6 –*“y juntamente con él nos resucitó, y asimismo nos hizo sentar en los lugares celestiales **<u>con Cristo</u>** Jesús*,”
+
+
 
 ### 33. Un argumento del estar **escondidos en Dios**: Colosenses 3:3 dice, “*Porque habéis muerto, y vuestra vida está escondida con Cristo en Dios*.” Si tu vida está **<u>escondida</u>** con Cristo en Dios, ¿quién podría entrar en Dios, encontrarte y luego arrebatarte de Cristo? ¿Podría Satanás? ¿Podrías hacerte eso a ti mismo? La respuesta es un enfático: “¡Nadie podría!”
 
+
+
 ### 34. Un argumento de **membresía**: Cada uno de nosotros es una parte del **<u>cuerpo</u>** de Cristo. Si pudiéramos perder nuestra salvación, el cuerpo de Jesús perdería un brazo o una pierna. Eso simplemente no le va a pasar a nuestro Señor.
+
+
 
 #### a. 1 Corintios 12:12 – “*Porque así como el cuerpo es uno, y tiene muchos  **<u>miembros</u>**, pero todos los miembros del cuerpo, siendo muchos, son un solo cuerpo, así también Cristo*.”
 
+
+
 #### b. Colosenses 1:18 – “*y él es la **<u>cabeza</u>** del cuerpo que es la iglesia, él que es el principio, el primogénito de entre los muertos, para que en todo tenga la preeminencia*;”
+
+
 
 ### 35. Un argumento del **Espíritu que mora en nosotros**: El Espíritu Santo estará con nosotros **<u>para siempre</u>**. Si pudiésemos terminar en el Lago de Fuego algún día, el Espíritu Santo de igual manera tendría que sufrir junto con nosotros allí. Si llegáramos a ser condenados, Él tendría que llegar a ser condenado junto con nosotros para siempre.
 
+
+
 #### a. Juan 14:16-17 – “*Y yo rogaré al Padre, y os dará otro Consolador, para que esté con vosotros **<u>para siempre</u>**: el Espíritu de verdad, al cual el mundo no puede recibir, porque no le ve, ni le conoce; pero vosotros le conocéis, porque mora con vosotros, y estará en vosotros*.”
+
+
 
 #### b. Romanos 8:9 – “*Mas vosotros no vivís según la carne, sino según el Espíritu, si es que el Espíritu de Dios **<u>mora</u>** en vosotros. Y si alguno no tiene el Espíritu de Cristo, no es de él*.” Efesios 1:13-14
 
+
+
 ### 36. Un argumento de **unión**: 2 Timoteo 2:11 dice, “*Palabra fiel es esta: Si somos muertos con él, también viviremos con él*;” Por extraño que esto pueda sonar, el hecho de que **<u>moriste</u>** con Cristo garantiza que vivirás con él.
 
+
+
 #### a. Romanos 6:5 [LBLA] dice, “*Porque si hemos sido **<u>unidos</u> **a Él en la semejanza de su muerte, ciertamente lo seremos también en la semejanza de su resurrección;” * Ya que en la salvación fuimos crucificados con Cristo, un día también viviremos con Él. Gálatas 2:20
+
+
 
 #### b. Las promesas de Dios están garantizadas. En 1 Reyes 8:56 leemos, “*Bendito sea Jehová, que ha dado paz a su pueblo Israel, conforme a todo lo que él había dicho; ninguna palabra de todas sus promesas que expresó por Moisés su siervo, ha **<u>faltado</u>** *.” El mismo Dios mantendrá sus promesas para ti.
 
@@ -6249,37 +6641,71 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 ### 37. Un argumento de la **resurrección**:  Un cristiano no puede perder su salvación porque Dios prometió resucitar corporalmente a cada persona que haya venido a Él en fe. Cada creyente vivirá con Dios para siempre. Él no **<u>incumplirá</u>** esta promesa.
 
+
+
 #### a. Juan 6:39b-40 – “…* no pierda yo nada, sino que lo resucite en el día postrero. Y esta es la voluntad del que me ha enviado: Que todo aquél que ve al Hijo, y cree en él, tenga vida eterna; y yo le  **<u>resucitaré</u>** en el día postrero*.”
+
+
 
 #### b. 1 Tesalonicenses 4:17-18 – “*Luego nosotros los que vivimos, los que hayamos quedado, seremos arrebatados juntamente con ellos en las nubes para  **<u>recibir</u>** al Señor en el aire, y así estaremos siempre con el Señor. Por tanto, alentaos los unos a los otros con estas palabras*.”
 
+
+
 ### 38. Un argumento de la **inmortalidad**: En Juan 11:25-26 Jesús dijo, “*Yo soy la resurrección y la vida; el que cree en mí, aunque esté muerto, vivirá. Y todo aquel que vive y cree en mí, no morirá eternamente. ¿Crees esto?*”. A pesar de que todos morimos físicamente, Cristo prometió que aquellos que creen en Él no enfrentarán la segunda muerte en el **<u>infierno</u>**.
+
+
 
 ### 39. Un argumento de la **mano sostenida**: Dios prometió que Él te sostendrá con Su propia **<u>mano</u>**.
 
+
+
 #### a. Salmos 37:23-24 – “*Por Jehová son ordenados los pasos del hombre, Y él aprueba su camino. Cuando el hombre cayere, no quedará postrado, Porque Jehová  **<u>sostiene</u>** su mano*.”
+
+
 
 #### b. Incluso si caes, nunca serás abandonado o dejado indefenso. Esto es **<u>gracia</u>**, y la gracia es bondad inmerecida. Nunca eres digno de la gracia de Dios, ni siquiera en tu mejor día.
 
+
+
 ### 40. Un argumento de la **gracia asombrosa**: Pablo les dijo a los creyentes en la iglesia de Corinto, la iglesia más carnal en el Nuevo Testamento, que un día serían encontrados sin culpa en la presencia de Dios en el cielo. Claramente nuestra salvación es **<u>mantenida</u>** por Dios y no por nosotros.
+
+
 
 #### a. 1 Corintios 1:8-9 –*“el cual también os **<u>confirmará</u>** hasta el fin, para que seáis irreprensibles en el día de nuestro Señor Jesucristo. Fiel es Dios, por el cual fuisteis llamados a la comunión con su Hijo Jesucristo nuestro Señor.”*
 
+
+
 #### b. 2 Corintios 4:14 –*“sabiendo que el que resucitó al Señor Jesús, a nosotros también nos resucitará con Jesús, y nos **<u>presentará</u>** juntamente con vosotros*.”
+
+
 
 ### 41. Un argumento de ser “**salvo a través del fuego**”:  Incluso si pierdes todas las recompensas por infidelidad, Dios garantiza que permanecerás salvo porque Él siempre es fiel. En 1 Corintios 3:15 vemos que “*Si la obra de alguno se quemare, él sufrirá  **<u>pérdida</u>**, si bien él mismo será salvo, aunque así como por fuego*.”
 
+
+
 ### 42. Un argumento de **glorificación**: Romanos 8:30 dice, “*Y a los que predestinó, a éstos también llamó; y a los que llamó, a éstos también justificó; y a los que justificó, a éstos también  **<u>glorificó</u>** *.” Nuestra glorificación futura está declarada en el tiempo pasado porque es cierta. Podemos descansar, sabiendo que no nos perderemos nuevamente.
+
+
 
 ### 43. Un argumento de un **trato cerrado**: Dios nos ha dado el Espíritu Santo como pago inicial de nuestra salvación. Este **<u>depósito</u>** es la manera que tiene Dios de garantizar que Él no se retractará de las promesas contractuales de nuestra salvación. Él está ahora legalmente obligado a mantenernos salvos.
 
+
+
 #### a. Efesios 1:13-14 – “…*habiendo oído la palabra de verdad, el evangelio de vuestra salvación, y habiendo creído en él, fuisteis sellados con el Espíritu Santo de la promesa, que es las **<u>arras</u>** de nuestra herencia hasta la redención de la posesión adquirida, para alabanza de su gloria*.”
+
+
 
 #### b. Efesios 4:30 – “*Y no contristéis al Espíritu Santo de Dios, con el cual fuisteis  **<u>sellados</u>** para el día de la redención*.” Dios el Espíritu Santo te ha sellado hasta el día de la redención. La Biblia no dice que estás sellado sólo hasta que falles o peques.
 
+
+
 ### 44. Un argumento **del vencedor**: Por la fe en Cristo, se declara que hemos **<u>vencido</u>** al mundo. Cristo es el supremo vencedor y nosotros somos victoriosos en Él.
 
+
+
 #### a. Romanos 8:37– “* Antes, en todas estas cosas somos más que vencedores por medio de aquel que nos amó*.” Si fuera posible perder tu salvación, esta declaración amplia y **<u>enfática</u>** sería irrazonable.
+
+
 
 #### b. 1 Juan 5:4-5 – “* Porque todo lo que es nacido de Dios vence al mundo; y esta es la victoria que ha vencido al mundo, nuestra fe. ¿Quién es el que vence al mundo, sino el que cree que Jesús es el Hijo de Dios?*”. Desde que confiamos en Cristo somos contados como **<u>victoriosos</u>** sobre este mundo.
 
@@ -6291,18 +6717,31 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 ### 45. Un argumento de **cita divina**: Dios declara inequívocamente que seremos revelados con Cristo en la eternidad. Colosenses 3:4 dice, “*Cuando Cristo, vuestra vida, se manifieste, entonces vosotros también seréis manifestados con él en **<u>gloria</u>**. *” Si pudiéramos perder nuestra salvación, esta promesa estaría vacía.
 
+
+
 ### 46. Un argumento de **ciudadanía transferida**: Para Dios, tú ya eres un **<u>ciudadano</u>** del cielo. Tu ciudadanía celestial perdura para siempre.
+
 
 
 #### a. Filipenses 3:20-21a – “*Mas nuestra ciudadanía está en los **<u>cielos</u>**, de donde también esperamos al Salvador, al Señor Jesucristo; el cual transformará el cuerpo de la humillación nuestra, para que sea semejante al cuerpo de la gloria suya*,…”
 
+
+
 #### b. Colosenses 1:13 –*“el cual nos ha librado de la potestad de las tinieblas, y trasladado al **<u>reino</u>** de su amado Hijo*,”
+
+
 
 ### 47. Un argumento de **herencia**: Dios ha reservado una herencia para ti. Él no podría **<u>reservarla</u>** para ti si existiera la posibilidad de que no fueras glorificado.
 
+
+
 #### a. 2 Corintios 1:22 –*“el cual también nos ha sellado, y nos ha dado las  **<u>arras</u>** del Espíritu en nuestros corazones*.”
 
+
+
 #### b. Efesios 1:14 –*“que es las **<u>arras</u>** de nuestra herencia hasta la redención de la posesión adquirida, para alabanza de su gloria*.”
+
+
 
 #### c. 1 Pedro 1:4-5 –*“para una herencia incorruptible, incontaminada e inmarcesible,  **<u>reservada</u>** en los cielos para vosotros, que sois guardados por el poder de Dios mediante la fe, para alcanzar la salvación que está preparada para ser manifestada en el tiempo postrero*.”
 
@@ -6366,14 +6805,21 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 #### h. Enseñar que la salvación puede perderse expone las **<u>verdaderas</u>** creencias de una persona acerca de la salvación.
 
+
+
 ##### 1) Al enseñar que la salvación puede perderse, estás diciendo que depende de ti **<u>conservar</u>** tu propia salvación y que tus obras son lo suficientemente buenas como para merecer el favor de Dios.
+
+
 
 ##### 2) Si esto es lo que **<u>crees</u>**, estás diciendo que tú puedes salvarte a ti mismo.
 
+
+
 ##### 3) Esto negaría tu **<u>necesidad</u>** del Salvador (Gén. 3:15, Gá. 2:21) y eliminaría todo lo que la Biblia enseña acerca de la depravación del hombre. Efesios 2:1-3
 
-### 3. La seguridad de nuestra salvación es un asunto importante para el creyente. Es importante comprender con precisión los hechos bíblicos acercade la naturaleza eterna de tu salvación para que puedas **<u>evitar</u>** la confusión que podría dificultar tu crecimiento y resultar en problemas debilitantes para ti mismo y los demás. Asegúrate de ser preciso y exacto con los hechos bíblicos sobre este tema.
 
+
+### 3. La seguridad de nuestra salvación es un asunto importante para el creyente. Es importante comprender con precisión los hechos bíblicos acercade la naturaleza eterna de tu salvación para que puedas **<u>evitar</u>** la confusión que podría dificultar tu crecimiento y resultar en problemas debilitantes para ti mismo y los demás. Asegúrate de ser preciso y exacto con los hechos bíblicos sobre este tema.
 
 
 
@@ -6411,7 +6857,11 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 ### 3. La Palabra de Dios **<u>parece</u>** una tontería para la persona natural porque las personas naturales no pueden comprender la enseñanza del Espíritu Santo. La persona natural también considera insensato el sacrificio de Cristo. 
 
+
+
 #### a. 1 Corintios 1:18 – “*Porque la palabra de la **<u>cruz</u>** es locura a los que se pierden; pero a los que se salvan, esto es, a nosotros, es poder de Dios*.” 
+
+
 
 #### b. 1 Corintios 2:14 – “* Pero el hombre natural no percibe las cosas que son del Espíritu de Dios, porque para él son locura, y no las **<u>puede</u>** entender, porque se han de discernir espiritualmente *.” 
 
@@ -6439,13 +6889,23 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 #### a. Efesios 4:14-15 –*“para que ya no seamos **<u>niños</u>** fluctuantes,  llevados por doquiera de todo viento de doctrina, por estratagema de hombres que para engañar emplean con astucia las artimañas del error, sino que siguiendo la verdad en amor, crezcamos en todo en aquel que es la cabeza, esto es, Cristo*.”
 
+
+
 #### b. Hebreos 5:14 explica, “* pero el alimento **<u>sólido</u>** es para los que han alcanzado madurez, para los que por el uso tienen los sentidos ejercitados en el discernimiento del bien y del mal*.”
+
+
 
 ### 3. No sería correcto que un creyente permanezca siendo un **<u>niño</u>** en la fe como vemos en los siguientes ejemplos de creyentes en Corinto y Jerusalén.
 
+
+
 #### a. 1 Corintios 3:1-3 – “*De manera que yo, hermanos, no pude hablaros como a espirituales, sino como a carnales, como a niños en Cristo. Os di a beber leche, y no vianda; porque aún no erais **<u>capaces</u>**, ni sois capaces todavía, porque aún sois carnales; pues habiendo entre vosotros celos, contiendas y disensiones, ¿no sois carnales, y andáis como hombres?"*
 
+
+
 #### b. Hebreos 5:12-13 – “*Porque debiendo ser ya maestros, después de tanto tiempo, tenéis necesidad de que se os **<u>vuelva</u>** a enseñar cuáles son los primeros rudimentos de las palabras de Dios; y habéis llegado a ser tales que tenéis necesidad de leche, y no de alimento sólido. Y todo aquel que participa de la leche es inexperto en la palabra de justicia, porque es niño;”*
+
+
 
 ### 4. Dios aconsejaría al bebé en Cristo “… ***<u>crecer</u>*** *en la gracia y el conocimiento de nuestro Señor y Salvador Jesucristo* . …” 2 Pedro 3:18a
 
@@ -6457,35 +6917,67 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 ### 1. El cristiano espiritual es el creyente que tiene confesados todos sus **<u>pecados</u>** conocidos. Dicho sencillamente, eres espiritual en el instante en que confiesas todos tus pecados conocidos. Cuando albergas pecado en tu corazón, no eres espiritual en ese momento. Salmos 66:18, Juan 9:31
 
+
+
 #### a. El bebé en Cristo, el cristiano carnal y el cristiano en maduración se vuelven espirituales en el momento en que **<u>confiesan</u>** sus pecados conocidos. Confesar (HOMOLOGEO) tu pecado es decir la misma cosa que Dios dice acerca de él. 1 Juan 1:6-10
+
+
 
 ##### 1) Debido a la inmadurez, el bebé en Cristo regresa **<u>fácilmente</u>** al pecado.
 
+
+
 ##### 2) El cristiano carnal regresa fácilmente a un estado de rebelión de largo plazo y permanece allí hasta que alguna **<u>crisis</u>** ocurre.
+
+
 
 ##### 3) Un cristiano en maduración **<u>permanece</u>** con mayor consistencia en comunión con Cristo, dando tiempo y oportunidad para que la semejanza a Cristo sea cultivada en su vida.
 
+
+
 #### b. Una **<u>persona</u>** es espiritual cuando no apaga o entristece al Espíritu Santo. Efesios 4:30, 1 Tesalonicenses 5:19
+
+
 
 ##### 1) Un creyente espiritual mantiene su espiritualidad al **<u>caminar</u>** de manera continua por el Espíritu. Esto significa que él o ella vive cada día dependiendo del Señor, confiando en Él para sabiduría y fortaleza. Gálatas 5:16 (LBLA), Romanos 6:10-11, Colosenses 3:1-3, 1 Juan 1:7
 
+
+
 ##### 2) Cuando un creyente está en comunión con Dios, habiendo confesado cualquier pecado conocido y no apagando en el presente al Espíritu Santo, él o ella está en **<u>posición</u>** de crecer.
+
+
 
 ##### 3) Romanos 6:22 – “*Mas ahora que habéis sido libertados del pecado y hechos siervos de Dios, tenéis por vuestro **<u>fruto</u>** la santificación, y como fin, la vida eterna*.”
 
+
+
 ##### 4) Efesios 4:20-22 – “*Mas vosotros no habéis **<u>aprendido</u>** así a Cristo, si en verdad le habéis oído, y habéis sido por él enseñados, conforme a la verdad que está en Jesús. En cuanto a la pasada manera de vivir, despojaos del viejo hombre, que está viciado conforme a los deseos engañosos*,”
+
+
 
 ##### 5) Efesios 4:23-24 – “*y renovaos en el espíritu de vuestra **<u>mente</u>**, y vestíos del nuevo hombre, creado según Dios en la justicia y santidad de la verdad*.”
 
+
+
 ### 2. Pablo explicó las ventajas de ser espiritual en **<u>oposición</u>** a las de ser carnal.
+
+
 
 #### a. 1 Corintios 2:15a – “…*el espiritual juzga todas las cosas;*…” Estando debidamente relacionado con el Espíritu Santo, un cristiano espiritual es capaz de evaluar y **<u>discernir</u>** *todas las cosas*, incluyendo la doctrina, las situaciones y las personas. Esto es gracias a que el creyente espiritual está siendo misericordiosamente guiado por el Espíritu Santo. Romanos 8:14, Hebreos 5:14
 
+
+
 #### b. 1 Corintios 2:15b – “…*pero él no es juzgado de nadie*.” Un beneficio adicional que los cristianos espirituales tienen es que, dado que están siendo guiados por el Espíritu Santo, no necesitan preocuparse por el juicio de los **<u>demás</u>**. Romanos 6:22
+
+
 
 ##### 1) Cuando eres espiritual, no estás violando las **<u>leyes</u>** de Dios. Romanos 8:4
 
+
+
 ##### 2) En cambio, estás llevando el fruto del Espíritu Santo. Esto, por supuesto, **<u>agrada</u>** a Dios y nadie puede justificadamente desaprobarte. Gálatas 5:22-23
+
+
 
 #### c. 1 Corintios 2:16 – “…*Mas nosotros tenemos la mente de Cristo*.” El cristiano espiritual se beneficia de tener la **<u>mente</u>** o el pensamiento de Cristo.
 
@@ -6497,21 +6989,39 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 ### 1. El cristiano maduro es un creyente que ha aprendido a **<u>caminar</u>** consistentemente por fe en el Señor Jesucristo, a través del poder habilitador del Espíritu Santo. Colosenses 2:3-7
 
+
+
 ### 2. Este creyente está en el camino de ser conformado a la **<u>imagen</u>** de Cristo en conducta y vida diaria. Romanos 12:1-2
+
+
 
 ### 3. El creyente maduro ha crecido, espiritualmente hablando, por pasar **<u>tiempo</u>** en comunión con el Espíritu Santo. Hebreos 5:14 dice, “*pero el alimento sólido es para los que han alcanzado madurez, para los que por el uso tienen los sentidos ejercitados en el discernimiento del bien y del mal*.”
 
+
+
 ### 4. La madurez espiritual debe ser el **<u>objetivo</u>** de todo creyente.
+
+
 
 #### a. 2 Pedro 3:17 – “*Así que vosotros, oh amados, sabiéndolo de antemano, guardaos, no sea que arrastrados por el error de los inicuos,  **<u>caigáis</u>** de vuestra firmeza.”*
 
+
+
 #### b. 2 Pedro 3:18 – “*Antes bien, **<u>creced</u>** en la gracia y el conocimiento de nuestro Señor y Salvador Jesucristo. A él sea gloria ahora y hasta el día de la eternidad. Amén*.”
+
+
 
 ### 5. El creyente maduro es capaz de entender y aceptar fácilmente las **<u>verdades</u>** más profundas de la Palabra de Dios. 1 Corintios 2:6 dice, “*Sin embargo, hablamos sabiduría entre los que han alcanzado madurez; y sabiduría, no de este siglo, ni de los príncipes de este siglo, que perecen*.”
 
+
+
 ### 6. El creyente maduro crece constantemente en la intimidad con el **<u>Señor</u>**. En el libro de 1 Juan, el apóstol da etapas de madurez, representadas por hombres jóvenes y padres.
 
+
+
 ####  a. En 1 Juan 2:14, hablando de los menos maduros, Juan dijo, “…*Os he escrito a vosotros, jóvenes, porque sois  **<u>fuertes</u>**, y la palabra de Dios permanece en vosotros, y habéis vencido al maligno*.”
+
+
 
 #### b. En 1 Juan 2:13, hablando de los más maduros, Juan dijo, “*Os escribo a vosotros, padres, porque **<u>conocéis</u>** al que es desde el principio. …*” Conseguir conocer a Dios más íntimamente es madurez espiritual.
 
@@ -6523,15 +7033,27 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 ### 1. No debemos confundir ser espiritual con ser maduro. En el momento en que confiesas tus pecados **<u>conocidos</u>**, ya no eres gobernado por la carne; así, en ese momento, ya no eres carnal y por lo tanto eres espiritual. Por la confesión de pecados conocidos (1 Juan 1:9), te vuelves instantáneamente espiritual, pero nadie es instantáneamente maduro.
 
+
+
 ### 2. La madurez espiritual lleva tiempo. El crecimiento espiritual proviene de caminar constantemente de acuerdo con el Espíritu **<u>día</u>** tras día a medida que uno progresa en la vida. Romanos 8:12-14, Gálatas 5:16 (LBLA), Hebreos 4:1-2
+
+
 
 ### 3. Cuando caminamos consistentemente por fe a través de los altibajos **<u>diarios</u>** de la vida, el Espíritu de Dios utiliza Su Palabra para conformarnos a la imagen de Su Hijo. Romanos 8:12‑13, 28-29; 2 Corintios 3:18
 
+
+
 ### 4. Podrías decir que la madurez espiritual toma tiempo, más la Palabra de Dios, más un caminar de fe, más la **<u>gracia</u>** de Dios. Esta persona está permaneciendo en Cristo.
+
+
 
 #### a. Juan 15:4 – “*Permaneced en mí, y yo en vosotros. Como el pámpano no puede llevar fruto por sí mismo, si no permanece en la **<u>vid</u>**, así tampoco vosotros, si no permanecéis en mí*.”
 
+
+
 #### b. Juan 15:5 – “* Yo soy la vid, vosotros los pámpanos; el que permanece en mí, y yo en él, éste lleva mucho fruto; porque separados de mí  **<u>nada</u>** podéis hacer*.”
+
+
 
 ### 5. Algunos de los cristianos más inmaduros son **<u>asistentes</u>** por mucho tiempo a la iglesia y solo confiesan sus pecados antes de participar de la santa cena, o un domingo por la mañana, pero no optan por caminar consistentemente en comunión con el Señor el resto de la semana. Hebreos 6:1
 
@@ -6543,29 +7065,55 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 ###  1. Un creyente carnal es un cristiano que es espiritualmente inmaduro porque **<u>camina</u>** continuamente conforme a la naturaleza de la carne. (Carnal y de la carne son términos sinónimos.) 1 Corintios 3:1-4
 
+
+
 ###  2. A veces, un creyente **<u>carnal</u>** es difícil de distinguir de un incrédulo en la actitud, las acciones y el habla. Si bien Dios conoce la diferencia, la distinción puede no ser clara para nosotros como humanos. Efesios 4:17-24
+
+
 
 ### 3. Un cristiano carnal permanece como un bebé en Cristo por **<u>elección</u>**. Aunque esta persona ya debería haber crecido espiritualmente, él o ella se marchita. 1 Corintios 3:1, Hebreos 5:12-13
 
+
+
 ####  a. 1 Corintios 3:2 – “*Os di a beber leche, y no vianda; porque aún no erais capaces, ni sois capaces todavía*,” Este cristiano continúa bebiendo leche espiritual en lugar de consumir las verdades **<u>sólidas</u>** de la Palabra de Dios, como un cristiano más maduro es capaz de hacer.
+
+
 
 #### b. 1 Corintios 3:3a – *“porque aún sois carnales;” *Debido a que la carne domina al creyente carnal, él o ella **<u>piensa</u>** como un incrédulo y puede actuar como si lo fuese.
 
+
+
 #### c. 1 Corintios 3:3b – “…*pues habiendo entre vosotros celos, contiendas y disensiones, ¿no sois carnales, y andáis como hombres?”* El cristiano carnal está caracterizado por la envidia y las relaciones **<u>rotas</u>**. Gálatas 5:19-21
+
+
 
 #### d. 1 Corintios 3:4 – “*Porque cuando uno dice: Yo soy de Pablo, y otro: Yo soy de Apolos, ¿no sois simplemente **<u>hombres</u>**?* [LBLA]*”* Un creyente carnal es un seguidor de personas más que un seguidor de Cristo.
 
+
+
 ### 4. Las características de la carnalidad de Romanos 8:5-13
+
+
 
 #### a. Romanos 8:5 – “*Porque los que son de la carne piensan en las cosas de la carne; pero los que son del Espíritu, en las cosas del Espíritu*.” La mente de la persona carnal o de la carne está **<u>fija</u>** en los deseos de la carne. Gálatas 5:17, 19-21
 
+
+
 #### b. Romanos 8:6 – “*Porque el ocuparse de la carne es muerte, pero el ocuparse del Espíritu es vida y paz*.” La persona carnal no **<u>disfruta</u>** de una vida plena y gozosa. Nehemías 8:10b, Romanos 6:21
+
+
 
 #### c. Romanos 8:7a – “ *Por cuanto los designios de la carne son enemistad contra Dios;…” * Las personas carnales son hostiles hacia Dios. A menudo se quejan de que Dios es distante e indiferente, cuando en realidad su **<u>propia</u>** carnalidad los ha distanciado de Dios.
 
+
+
 #### d. Romanos 8:7b – “… *porque no se sujetan a la ley de Dios, ni tampoco pueden*;” La gente carnal no se somete a los mandatos de Dios. Son desobedientes y **<u>orgullosos</u>**.
 
+
+
 #### e. Romanos 8:8 – “ *y los que viven según la carne no pueden agradar a Dios*.” Tal como los que no son salvos no pueden agradar a Dios, el cristiano carnal tampoco puede **<u>agradar</u>** a Dios.
+
+
 
 #### f. Romanos 8:12-13 – “Así que, hermanos, deudores somos, no a la carne, para que vivamos conforme a la carne; porque si vivís conforme a la carne, moriréis;…” La persona carnal está a punto de **<u>morir</u>** , ya sea por el mecanismo destructivo que incorpora el pecado, por sufrir las consecuencias del pecado o por disciplina. Romanos 6:23, 8:2
 
@@ -6581,7 +7129,11 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 ### 1. Ya hemos determinado que, de acuerdo con la Biblia, los creyentes no pueden **<u>perder</u>** su salvación.
 
+
+
 ### 2. Puesto que la gracia es un **<u>favor</u>** inmerecido, es fácil pensar que los creyentes abusarán de la gracia si se les enseña que no pueden perder su salvación. Sin embargo, ya que fue idea de Dios dar la salvación como un regalo irrevocable, no debemos retroceder en creer o enseñar esta verdad. Dios sabía lo que estaba haciendo al asegurar nuestra salvación en base a la obra de Cristo y no en base a la nuestra.
+
+
 
 ### 3. En 1 Pedro 5:12b, el apóstol Pedro dijo, “…*os he escrito brevemente, amonestándoos, y testificando que ésta es la  **<u>verdadera</u>** gracia de Dios, en la cual estáis.*” Recuerda siempre: la verdadera gracia bíblica no produce desgracia. No debemos temer a la gracia de Dios – Su favor inmerecido.
 
@@ -6617,47 +7169,86 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 ### 3. Pérdida: **Comunión con Dios** – Si vives de la carne, te pierdes de caminar en comunión con **<u>Dios</u>**. El cristiano que camina continuamente conforme a la carne no tiene intimidad con Cristo. Lucas 15:11-24
 
+
+
 #### a. 1 Juan 1:5b – “…*Dios es luz, y no hay ningunas tinieblas en él*.” Si caminamos en la luz, por medio del Espíritu Santo, tenemos comunión con Dios; pero si **<u>andamos</u>** en tinieblas, de acuerdo con la carne, no disfrutamos de la comunión con Él.
+
+
 
 #### b. 1 Juan 1:6 – “* Si  **<u>decimos</u>**  que tenemos comunión con él, y andamos en tinieblas, mentimos, y no practicamos la verdad*;” Efesios 5:6-10
 
+
+
 #### c. Apocalipsis 3:14-22 muestra cómo los creyentes en la iglesia de Laodicea se volvieron tibios. Eran religiosos, pero **<u>carnales</u>** . Ya no tenían una dulce comunión con Cristo. Tu objetivo debe ser crecer en gracia e intimidad con nuestro Señor Jesucristo. 2 Pedro 3:18
+
+
 
 ### 4. Pérdida: **Las ganas de vivir** – Ser carnal te **<u>robará</u>** el gozo y la victoria en la vida cristiana.
 
+
+
 #### a. El rey David no perdió su salvación cuando pecó al cometer adulterio y asesinato premeditado, pero sí perdió su gozo. En el Salmo 51:12, él oró para que Dios le **<u>devolviera</u>** el gozo de su salvación. Romanos 8:13, Gálatas 6:7-8
+
+
 
 ####  b. Un creyente carnal ha regresado a comer su propio *vómito* y a revolcarse una vez más en el **<u>lodo</u>**. El hijo pródigo continuó siendo hijo, incluso cuando estaba con los cerdos; él es un ejemplo de esta terrible realidad. Lucas 15:11-24, 2 Pedro 2:18-22
 
+
+
 ### 5. Pérdida: **Capacidad para servir** – Si caminas por la carne, perderás tu capacidad para **<u>servir</u>** al Señor. Dios te salvó para que tú lo sirvieras a Él (Ef. 2:10, Tito 3:8). Si vives carnalmente, no llevarás el fruto del Espíritu ni agradarás a Dios. Juan 15:4-5; Gálatas 5:16-23 (LBLA); Gálatas 6:7-9
+
+
 
 ### 6. Pérdida: **Testimonio cristiano** – Si caminas de acuerdo con la carne, **<u>perderás</u>** tu testimonio cristiano. En 2 Corintios 5:20, Pablo dijo, “*Así que, somos embajadores en nombre de Cristo, como si Dios rogase por medio de nosotros; os rogamos en nombre de Cristo: Reconciliaos con Dios*.”
 
 
+
 #### a. Como cristiano, representas a Cristo ante el mundo. Cuando caminas por el Espíritu, los incrédulos **<u>ven</u>** fácilmente a Cristo en ti. Juan 13:35; Hechos 4:13; Filipenses 2:14-15; 1 Pedro 2:12, 3:13-15
+
+
 
 #### b. Un creyente que camina conforme a la carne, se ve y **<u>actúa</u>** exactamente como un incrédulo y se vuelve totalmente ineficaz en su testimonio para el Señor. 2 Pedro 2:2 muestra esto en acción: “*Y muchos seguirán sus disoluciones, por causa de los cuales el camino de la verdad será blasfemado*,” Mateo 5:13-16
 
+
+
 ### 7. Pérdida: **Recompensas en el cielo** – Si vives carnalmente, perderás recompensas en el Tribunal de Cristo. Pablo dijo en 2 Corintios 5:10, “* Porque es necesario que todos nosotros comparezcamos ante el Tribunal de Cristo, para que cada uno reciba según lo que haya  **<u>hecho</u>** mientras estaba en el cuerpo, sea bueno o sea malo*.” Romanos 14:7-12
+
+
 
 #### a. En aquel día, a Dios le gustaría decirte lo que Mateo 25:23 dice, “… *Bien* **<u>hecho</u>**, *buen siervo y fiel*;…” Pero si caminas por la carne, podrías entrar al cielo sin nada de valor que mostrar por tu vida. 1 Corintios 3:15, 9:24-27; 2 Corintios 5:9-11; 2 Timoteo 4:6-8
 
+
+
 #### b. Dios quiere que cada creyente obtenga una recompensa **<u>completa</u>**, pero los creyentes carnales serán avergonzados en la aparición de Cristo. 1 Juan 2:28, 4:17; 2 Juan 1:8
+
+
 
 ### 8. Pérdida: **Una conciencia limpia** – Los creyentes carnales **<u>empañan</u>** su propia conciencia. En orgullo y rebeldemente hacen lo que saben que está mal. En rebelión, se alejan de lo que alguna vez creyeron. 1 Timoteo 3:9 – *“que guarden el misterio de la fe con limpia conciencia*.”
 
+
+
 #### a. Himeneo y Alejandro son ejemplos de dos personas que sufrieron las consecuencias de alejarse de lo que alguna vez creyeron. No perdieron su salvación, pero 1 Timoteo 1:19-20 muestra cómo, a través de la disciplina de la iglesia, fueron entregados* *a **<u>Satanás</u>** para la destrucción de sus cuerpos (no de sus espíritus) para que “… *aprendan a no blasfemar*.”
+
+
 
 #### b. De la misma manera, en 1 Corintios 5 vemos el ejemplo de un creyente quien descaradamente hizo lo que sabía que estaba mal. Pablo le dijo a la iglesia que lo expulsaran de su congregación. Al hacerlo el tal sería *“…**<u>entregado</u>** a Satanás para destrucción de la carne, a fin de que el espíritu sea salvo en el día del Señor Jesús.”* 1 Corintios 5:5
 
+
+
 ### 9. Pérdida: **Conocimiento de la Verdad** – Tristemente, los creyentes carnales pueden **<u>olvidar</u>** las verdades de la Palabra de Dios y retroceder en sus vidas cristianas. 2 Pedro 1:12-15
 
+
+
 #### a. En Colosenses 2:8, Pablo advirtió, “*Mirad que nadie os **<u>haga</u>** cautivos por medio de su filosofía y vanas sutilezas, según la tradición de los hombres, conforme a los principios elementales del mundo y no según Cristo*. [LBLA]”
+
+
 
 #### b. En 1 Timoteo 6:20-21, Pablo advirtió a su hijo espiritual diciendo, “* Oh Timoteo, guarda lo que se te ha encomendado, evitando las profanas pláticas sobre cosas vanas, y los argumentos de la falsamente llamada ciencia*, *la cual profesando algunos, se **<u>desviaron</u>** de la fe. …*”
 
 
+
 ### 10. **Consejo final**: 1 Timoteo 6:11-12 – “*Mas tú, oh hombre de Dios, **<u>huye</u>** de estas cosas, y sigue la justicia, la piedad, la fe, el amor, la paciencia, la mansedumbre. **Pelea la buena batalla de la fe**, echa mano de la vida eterna, a la cual asimismo fuiste llamado, habiendo hecho la buena profesión delante de muchos testigos*.”
+
 
 
 <!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="70%" --> 
