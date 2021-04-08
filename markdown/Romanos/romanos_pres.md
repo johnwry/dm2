@@ -5388,7 +5388,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 |               | SALVO POR:                  | NO SALVO POR:                       |
 |---------------|:----------------------------|:------------------------------------|
-| Efesios 2:8-9 | Porque por gracia sois salvos por medio de la fe | y esto no de vosotros |
+| Efesios 2:8-9 | Porque por gracia sois salvos por medio de la fe | y esto no de vosotros |  <!-- .element: class="fragment" -->
 
 
 
@@ -5407,7 +5407,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 |               | SALVO POR:               | NO SALVO POR:                       |
 |---------------|:----------------------------|:------------------------------------|
 | 2 Timoteo 1:9| quien nos salvó y llamó con llamamiento santo | no conforme a nuestras obras |
-| sino según el propósito suyo y la gracia que nos  fue dada en Cristo Jesús antes de los tiempos de los siglos |                               |
+|              | sino según el propósito suyo y la gracia que nos  fue dada en Cristo Jesús antes de los tiempos de los siglos |                               |
 
 
 
@@ -5415,7 +5415,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 |---------------|:----------------------------|:------------------------------------|
 | Gálatas 2:16 | Sabiendo que el hombre no es justificado por las obras de la ley | sino por la fe de Jesucristo,|
 |nosotros también hemos creído en Jesucristo,| para ser justificados por la fe de Cristo |                                                              |
-| y no por las obras de la ley,         | por cuanto por las obras de la ley nadie será justificado.   |      |
+|              | y no por las obras de la ley,         | por cuanto por las obras de la ley nadie será justificado.   |      |
 
 
 
