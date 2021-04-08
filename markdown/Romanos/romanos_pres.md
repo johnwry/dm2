@@ -115,7 +115,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom-intro.jpeg" data-auto-animate="" data-background-size="cover" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom-intro.jpg" data-auto-animate="" data-background-size="cover" --> 
 
 
 
