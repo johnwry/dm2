@@ -359,6 +359,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
+<i class="fas fa-pen-nib"></i>
 ## D. El propósito de Pablo para escribir Romanos
 
 
