@@ -5400,7 +5400,8 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 |               | SALVO POR:               | NO SALVO POR:                       |
 |---------------|:----------------------------|:------------------------------------|
-| Tito 3:5 | Nos salvó no por obras de justicia que nosotros hubiéramos hecho | sino por su misericordia, por el lavamiento de la  regeneración y por la renovación en el Espíritu Santo |
+| Tito 3:5 | Nos salvó | no por obras de justicia que nosotros hubiéramos hecho |
+|                         |sino por su misericordia, por el lavamiento de la  regeneración y por la renovación en el Espíritu Santo |  |
 
 
 
@@ -5414,7 +5415,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 |               | SALVO POR:               | NO SALVO POR:                       |
 |---------------|:----------------------------|:------------------------------------|
 | Gálatas 2:16 |            | Sabiendo que el hombre no es justificado por las obras de la ley |
-|                  |                         |sino por la fe de Jesucristo,|   |
+|                  |sino por la fe de Jesucristo,|   |
 |     |nosotros también hemos creído en Jesucristo, |                |
 |     |para ser justificados por la fe de Cristo | y no por las obras de la ley,   | 
 |          |           | por cuanto por las obras de la ley nadie será justificado.|
