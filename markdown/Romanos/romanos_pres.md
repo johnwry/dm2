@@ -950,7 +950,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### a. Romanos 1:32a – “*quienes habiendo entendido el juicio de Dios,…”* El pecador inmoral **<u>conoce</u>** instintivamente el estándar de Dios de lo correcto y lo incorrecto. 
+#### a. Romanos 1:32a – “*quienes habiendo entendido el juicio de Dios,…”* El pecador inmoral   **<u>conoce</u>** instintivamente el estándar de Dios de lo correcto y lo incorrecto. 
 
 
 
