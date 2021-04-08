@@ -4330,11 +4330,11 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-### 3. Romanos 8:9c – *“…Y si alguno no tiene el Espíritu de Cristo, no es de él*.” Cualquier persona que no posee el Espíritu Santo no **<u>pertenece</u>** a Cristo, punto. 1 Corintios 12:13
+### 3. Romanos 8:9c – *“…Y si alguno no tiene el Espíritu de Cristo, no es de él.”* Cualquier persona que no posee el Espíritu Santo no **<u>pertenece</u>**  a Cristo, punto. 1 Corintios 12:13
 
 
 
-### 4. Romanos 8:10 – “* Pero si Cristo está en vosotros, el cuerpo en verdad está muerto a causa del pecado, mas el espíritu vive a causa de la justicia*.” Si Cristo mora en ti por medio del Espíritu Santo, a pesar de que tu cuerpo físico esté sujeto a la muerte debido al pecado, tu espíritu humano está **<u>vivo</u>** porque has nacido de nuevo.
+### 4. Romanos 8:10 – “*Pero si Cristo está en vosotros, el cuerpo en verdad está muerto a causa del pecado, mas el espíritu vive a causa de la justicia*.” Si Cristo mora en ti por medio del Espíritu Santo, a pesar de que tu cuerpo físico esté sujeto a la muerte debido al pecado, tu espíritu humano está **<u>vivo</u>** porque has nacido de nuevo.
 
 
 
@@ -4382,11 +4382,11 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### b. Romanos 8:13a – “* porque si vivís conforme a la carne, **<u>moriréis</u>**;…”* La muerte espera a aquellos que viven según la carne. Gálatas 6:7-8
+#### b. Romanos 8:13a – “*porque si vivís conforme a la carne, **<u>moriréis</u>**;…*” La muerte espera a aquellos que viven según la carne. Gálatas 6:7-8
 
 
 
-##### 1) La frase “*moriréis”* podría ser traducida “estás a **<u>punto</u>** de morir”.
+##### 1) La frase “*moriréis*” podría ser traducida “estás a **<u>punto</u>** de morir”.
 
 
 
@@ -4410,7 +4410,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### c. Romanos 8:13b – “…*mas si por el Espíritu hacéis morir las obras de la carne, viviréis.”* Dios promete que si por el Espíritu Santo, haces * morir las obras de la carne, **<u>viviréis</u>**.*
+#### c. Romanos 8:13b – “…*mas si por el Espíritu hacéis morir las obras de la carne, viviréis.*” Dios promete que si por el Espíritu Santo, haces *morir las obras de la carne, **<u>viviréis</u>**.*
 
 
 
@@ -4454,7 +4454,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-##### 4) En Romanos 8:16-17, el término más general para hijos (TEKNON) es traducido como *hijos*. TEKNON generalmente describe cualquier descendencia. Juan 1:12 dice, “*Mas a todos los que le recibieron, a los que  **<u>creen</u>** en su nombre, les dio potestad de ser hechos hijos* (TEKNON)* de Dios*.”
+##### 4) En Romanos 8:16-17, el término más general para hijos (TEKNON) es traducido como *hijos*. TEKNON generalmente describe cualquier descendencia. Juan 1:12 dice, “*Mas a todos los que le recibieron, a los que  **<u>creen</u>** en su nombre, les dio potestad de ser hechos hijos* (TEKNON) *de Dios*.”
 
 
 
@@ -4466,15 +4466,15 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-##### 1) Romanos 8:15a – “ *Pues no habéis recibido el espíritu de esclavitud…”* Dios no quiere que tengas la mentalidad de un **<u>esclavo</u>**, tratando de sobrevivir manteniendo normas y regulaciones.
+##### 1) Romanos 8:15a – “*Pues no habéis recibido el espíritu de esclavitud…*” Dios no quiere que tengas la mentalidad de un **<u>esclavo</u>**, tratando de sobrevivir manteniendo normas y regulaciones.
 
 
 
-##### 2) Romanos 8:15b – “… *para estar otra vez en **<u>temor</u>***,…” Vivir por la ley conduce al temor al castigo. Aunque Dios disciplina a Sus hijos, nunca debemos temer el castigo eterno, porque Jesucristo llevó nuestro castigo sobre sí mismo en la cruz. Isaías 53:5-6, Romanos 8:1, 2 Tesalonicenses 1:8-9, 1 Juan 4:18
+##### 2) Romanos 8:15b – “… *para estar otra vez en **<u>temor</u>** *,…” Vivir por la ley conduce al temor al castigo. Aunque Dios disciplina a Sus hijos, nunca debemos temer el castigo eterno, porque Jesucristo llevó nuestro castigo sobre sí mismo en la cruz. Isaías 53:5-6, Romanos 8:1, 2 Tesalonicenses 1:8-9, 1 Juan 4:18
 
 
 
-##### 3) Romanos 8:15c – “*…sino que habéis recibido el espíritu de adopción,…” *Como **<u>hijo</u>** de Dios, has sido liberado de la tiranía de la esclavitud a la Ley.
+##### 3) Romanos 8:15c – “*…sino que habéis recibido el espíritu de adopción,…*” Como **<u>hijo</u>** de Dios, has sido liberado de la tiranía de la esclavitud a la Ley.
 
 
 
@@ -4490,7 +4490,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-##### 4) Romanos 8:15d – “*…por el cual clamamos: ¡Abba, Padre!”* La confianza en tu posición como hijo amado de Dios debería conducirte a experimentar intimidad con el Señor en tu vida diaria. Si Dios parece **<u>distante</u>**, te estás perdiendo este importante sentido de pertenencia que está disponible para todos los hijos de Dios. 1 Pedro 1:23, 1 Juan 3:1
+##### 4) Romanos 8:15d – “*…por el cual clamamos: ¡Abba, Padre!*” La confianza en tu posición como hijo amado de Dios debería conducirte a experimentar intimidad con el Señor en tu vida diaria. Si Dios parece **<u>distante</u>**, te estás perdiendo este importante sentido de pertenencia que está disponible para todos los hijos de Dios. 1 Pedro 1:23, 1 Juan 3:1
 
 
 
@@ -4506,7 +4506,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### c. Romanos 8:17a – “*Y si hijos, también herederos;…”* Tu **<u>unión</u>** con Cristo garantiza una herencia.
+#### c. Romanos 8:17a – “*Y si hijos, también herederos;…*” Tu **<u>unión</u>** con Cristo garantiza una herencia.
 
 
 
@@ -4518,11 +4518,11 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### d. Romanos 8:17b – *“…herederos de Dios y coherederos con Cristo,…”*Como hijos e hijas legalmente adoptados, somos herederos **<u>juntamente</u>** con Cristo. Todo lo que Él ha heredado lo hemos coheredado con Él. Esta bendición es 100% inmerecida, pero está garantizada debido a nuestra unión con Cristo. Efesios 2:4-7, Colosenses 1:12
+#### d. Romanos 8:17b – “*…herederos de Dios y coherederos con Cristo,…*” Como hijos e hijas legalmente adoptados, somos herederos **<u>juntamente</u>** con Cristo. Todo lo que Él ha heredado lo hemos coheredado con Él. Esta bendición es 100% inmerecida, pero está garantizada debido a nuestra unión con Cristo. Efesios 2:4-7, Colosenses 1:12
 
 
 
-#### e. Romanos 8:17c – “…*si es que padecemos juntamente con él, para que juntamente con él seamos glorificados.”* Puesto que ser un hijo de Dios incluye el **<u>honor</u>** de participar en los sufrimientos de Cristo, Pablo nos aseguró que igualmente participaremos en Su gloria. 1 Pedro 4:13
+#### e. Romanos 8:17c – “…*si es que padecemos juntamente con él, para que juntamente con él seamos glorificados.*”  Puesto que ser un hijo de Dios incluye el **<u>honor</u>** de participar en los sufrimientos de Cristo, Pablo nos aseguró que igualmente participaremos en Su gloria. 1 Pedro 4:13
 
 
 
@@ -4558,7 +4558,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-### 1. Romanos 8:18a – “ *Pues tengo por cierto que las aflicciones del tiempo presente…” * Dios quiere que tengas una perspectiva **<u>eterna</u>** con respecto a tu sufrimiento presente.
+### 1. Romanos 8:18a – “*Pues tengo por cierto que las aflicciones del tiempo presente…*”   Dios quiere que tengas una perspectiva **<u>eterna</u>** con respecto a tu sufrimiento presente.
 
 
 
@@ -4598,7 +4598,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### c. Romanos 8:21a – “*porque también la creación misma será libertada de la esclavitud de corrupción,…”* En la segunda venida, en *la manifestación de los **<u>hijos</u>** de Dios*, cuando regresemos con Cristo para establecer Su reino, la mayoría de la maldición habrá sido quitada. Isaías 35:1-10
+#### c. Romanos 8:21a – “*porque también la creación misma será libertada de la esclavitud de corrupción,…*”  En la segunda venida, en *la manifestación de los **<u>hijos</u>** de Dios*, cuando regresemos con Cristo para establecer Su reino, la mayoría de la maldición habrá sido quitada. Isaías 35:1-10
 
 
 
@@ -4610,15 +4610,15 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-### 2. Romanos 8:23-25 – Los** <u>creyentes</u>** gimen.
+### 2. Romanos 8:23-25 – Los ** <u>creyentes</u>** gimen.
 
 
 
-#### a. Romanos 8:23a – “ *y no sólo ella, sino que también nosotros mismos,… gemimos…” *Al igual que la creación, los creyentes también **<u>gemimos</u>** mientras esperamos ansiosamente la redención futura de nuestros cuerpos.
+#### a. Romanos 8:23a – “*y no sólo ella, sino que también nosotros mismos,… gemimos…*” Al igual que la creación, los creyentes también **<u>gemimos</u>** mientras esperamos ansiosamente la redención futura de nuestros cuerpos.
 
 
 
-#### b. Romanos 8:23b – “…*que tenemos las primicias del Espíritu,…” *Cuando creíste el Evangelio, recibiste inmediatamente el **<u>Espíritu</u>** Santo como garantía de tu glorificación futura. Efesios 1:14
+#### b. Romanos 8:23b – “…*que tenemos las primicias del Espíritu,…*” Cuando creíste el Evangelio, recibiste inmediatamente el **<u>Espíritu</u>** Santo como garantía de tu glorificación futura. Efesios 1:14
 
 
 
@@ -4634,15 +4634,15 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### d. Romanos 8:24a – “ *Porque en **<u>esperanza</u>** fuimos salvos;…” * Fuimos salvos cuando creímos en Cristo, confiados en que Su pago por nuestros pecados nos aseguró la esperanza de la vida eterna. Esto habla de nuestra **<u>justificación</u>**. Tito 1:2
+#### d. Romanos 8:24a – “*Porque en **<u>esperanza</u>** fuimos salvos;…*”  Fuimos salvos cuando creímos en Cristo, confiados en que Su pago por nuestros pecados nos aseguró la esperanza de la vida eterna. Esto habla de nuestra **<u>justificación</u>**. Tito 1:2
 
 
 
-#### e. Romanos 8:24b – “…*pero la esperanza que se ve, no es esperanza; porque lo que alguno ve, ¿a qué esperarlo?”* Esta esperanza es aún futura. Depende de Dios quien hizo la promesa. Esto habla de nuestra **<u>glorificación</u>** venidera. Hebreos 11:6
+#### e. Romanos 8:24b – “…*pero la esperanza que se ve, no es esperanza; porque lo que alguno ve, ¿a qué esperarlo?*”  Esta esperanza es aún futura. Depende de Dios quien hizo la promesa. Esto habla de nuestra **<u>glorificación</u>** venidera. Hebreos 11:6
 
 
 
-#### f. Romanos 8:25 – “ *Pero si esperamos lo que no vemos, con paciencia lo aguardamos*.”Esta esperanza segura e innegable de glorificación nos hace **<u>ansiosos</u>** por la eternidad, mientras nos mantiene estimulados en el presente. Esto habla de nuestra **santificación**. 1 Corintios 15:58, 1 Tesalonicenses 1:3, Hebreos 11:13-16
+#### f. Romanos 8:25 – “*Pero si esperamos lo que no vemos, con paciencia lo aguardamos*.” Esta esperanza segura e innegable de glorificación nos hace **<u>ansiosos</u>** por la eternidad, mientras nos mantiene estimulados en el presente. Esto habla de nuestra **santificación**. 1 Corintios 15:58, 1 Tesalonicenses 1:3, Hebreos 11:13-16
 
 
 
@@ -4650,11 +4650,11 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### a. Romanos 8:26a – “*Y de igual manera el Espíritu nos **<u>ayuda</u>** en nuestra debilidad;…”* El Espíritu Santo nos ayuda en nuestras debilidades, no en nuestras fortalezas. Además, ¿tenemos realmente alguna fortaleza?
+#### a. Romanos 8:26a – “*Y de igual manera el Espíritu nos **<u>ayuda</u>** en nuestra debilidad;…*”  El Espíritu Santo nos ayuda en nuestras debilidades, no en nuestras fortalezas. Además, ¿tenemos realmente alguna fortaleza?
 
 
 
-#### b. Romanos 8:26b – “ *…pues qué hemos de pedir como conviene, no lo sabemos*,…”* * Esto no dice que a veces no **<u>sabemos</u>** cómo orar. Esta declaración general dice que en lo absoluto, no sabemos orar como deberíamos.
+#### b. Romanos 8:26b – “*…pues qué hemos de pedir como conviene, no lo sabemos*,…”  Esto no dice que a veces no **<u>sabemos</u>** cómo orar. Esta declaración general dice que en lo absoluto, no sabemos orar como deberíamos.
 
 
 
@@ -4670,11 +4670,11 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### d. Romanos 8:27a – “*Mas el que escudriña los corazones sabe cuál es la intención del Espíritu,…”*Dios el **<u>Padre</u>** sabe lo que el Espíritu Santo tiene en mente para nosotros y responde apropiadamente a los *gemidos* del Espíritu Santo. Nosotros podríamos pedir algo de Dios que está fuera de Su voluntad, pero el Espíritu Santo nunca lo hará. 1 Corintios 2:10-13
+#### d. Romanos 8:27a – “*Mas el que escudriña los corazones sabe cuál es la intención del Espíritu,…*” Dios el **<u>Padre</u>** sabe lo que el Espíritu Santo tiene en mente para nosotros y responde apropiadamente a los *gemidos* del Espíritu Santo. Nosotros podríamos pedir algo de Dios que está fuera de Su voluntad, pero el Espíritu Santo nunca lo hará. 1 Corintios 2:10-13
 
 
 
-#### e. Romanos 8:27b – “… *porque conforme a la voluntad de Dios intercede por los santos*.”El Espíritu Santo solicitará a Dios el Padre **<u>únicamente</u>** aquello que esté de acuerdo con Su voluntad.
+#### e. Romanos 8:27b – “… *porque conforme a la voluntad de Dios intercede por los santos*.” El Espíritu Santo solicitará a Dios el Padre **<u>únicamente</u>** aquello que esté de acuerdo con Su voluntad.
 
 
 
@@ -4694,7 +4694,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### b. Romanos 8:28b – “ *Y sabemos que …todas las cosas les ayudan a bien,*…” Sabemos que Dios **<u>hace</u>** que todas las cosas cooperen. La frase, *les ayudan a bien* (SUNERGEÓ), está en tiempo presente, voz activa y modo indicativo. Esta es una declaración enfática de que ahora mismo, en este preciso momento, tu Padre Celestial está activa y decisivamente trabajando en tu nombre.
+#### b. Romanos 8:28b – “*Y sabemos que …todas las cosas les ayudan a bien,*…” Sabemos que Dios **<u>hace</u>** que todas las cosas cooperen. La frase, *les ayudan a bien* (SUNERGEÓ), está en tiempo presente, voz activa y modo indicativo. Esta es una declaración enfática de que ahora mismo, en este preciso momento, tu Padre Celestial está activa y decisivamente trabajando en tu nombre.
 
 
 
