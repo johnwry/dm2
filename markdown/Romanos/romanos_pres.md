@@ -962,7 +962,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### d. Romanos 1:32d – “…*sino que también se complacen con los que las practican*.” Lamentablemente, el **<u> pecador </u>**  inmoral incluso llega tan lejos como animar a otros a hacer las cosas que él o ella sabe que merecen la muerte.
+#### d. Romanos 1:32d – *“…sino que también se complacen con los que las practican.”*  Lamentablemente, el **<u>pecador</u>**  inmoral incluso llega tan lejos como animar a otros a hacer las cosas que él o ella sabe que merecen la muerte.
 
 
 
