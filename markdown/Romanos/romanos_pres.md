@@ -478,7 +478,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#####1) Como ser humano, Jesús nació de María, una **<u>virgen</u>**. Él nació de la línea real del Rey David. 2 Samuel 7:12-16; Mateo 1:1, 15:22; Marcos 12:35-37; Apocalipsis 22:16
+##### 1) Como ser humano, Jesús nació de María, una **<u>virgen</u>**. Él nació de la línea real del Rey David. 2 Samuel 7:12-16; Mateo 1:1, 15:22; Marcos 12:35-37; Apocalipsis 22:16
 
 
 
@@ -574,6 +574,10 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom1.8-15.jpeg"  data-background-size="cover" data-auto-animate="" data-menu-title="Romanos 1:8-15 - Amor por los Romanos" --> 
+
+
+
 <!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="70%" --> 
 
 
@@ -620,75 +624,153 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 ##### 1) Romanos 1:10a – “*rogando que de alguna manera tenga al fin,…” * Pablo tenía **<u>peticiones</u>** de oración específicas por los creyentes en Roma. La Biblia de las Américas lo traduce; “… *siempre en mis oraciones, implorando*…” Filipenses 4:6
 
+
+
 ##### 2) Romanos 1:10b –Pablo oraba para que Dios le **<u>permitiera</u>** finalmente poder hacerles una visita personal. El deseaba “… * por la voluntad de Dios, [tener] un próspero viaje para ir a [ellos] *…” Romanos 15:28-33
+
+
 
 ### 2. Romanos 1:11-15 – Pablo planeaba **<u>visitar</u>** la congregación romana.
 
+
+
 #### a. Romanos 1:11a – “*Porque deseo **<u>veros</u>***…” Pablo anhelaba una visita cara a cara con los creyentes romanos. Romanos 15:22-24; Filipenses 1:8, 4:1
+
+
 
 #### b. Romanos 1:11b – Pablo tenía un **<u>propósito</u>** específico en mente para su visita. “…*para comunicaros algún don espiritual, a fin de que seáis confirmados;…”*
 
+
+
 ##### 1) El* don espiritual *al que Pablo se refirió aquí no debe ser confundido con los **<u>dones</u>** espirituales específicos dados por Dios el Espíritu Santo a los creyentes individuales al momento de la salvación. 1 Corintios 12:4-11
+
+
 
 ##### 2) *“…para* *comunicaros algún don espiritual,…” *Pablo quiso decir que quería ser una bendición espiritual para la **<u>iglesia</u>** para ayudar a establecerlos en su fe. Efesios 1:3, Filipenses 1:25
 
+
+
 #### c. Romanos 1:12a – “…*esto es, para ser mutuamente confortados…”* Por medio de una visita cara a **<u>cara</u>**, Pablo creía que podían alentarse mutuamente los unos a los otros.
+
+
 
 #### d. Romanos 1:12b – “…*por la fe que nos es común a vosotros y a mí* .” Pablo comunicó una asombrosa **<u>humildad</u>** cuando aseguró a los creyentes romanos que sería impactado por la fe de ellos, tal como ellos serían impactados por la de él.
 
+
+
 #### e. Romanos 1:13a – “*Pero no quiero, hermanos, que ignoréis que muchas veces me he propuesto ir a vosotros (pero hasta ahora he sido estorbado),… *” Aunque Pablo había planeado numerosas ** <u>veces</u>**  ir a verlos, algo siempre se lo impedía. Romanos 15:22
+
+
 
 ##### 1) Sabemos que a veces **<u>Dios</u>** el Espíritu Santo le impidió a Pablo el ir a un lugar u otro. Hechos 16:6-7
 
+
+
 ##### 2) Otras veces Dios permitió que **<u>Satanás</u>** le impidiera a Pablo hacer un viaje. 1 Tesalonicenses 2:18
+
+
 
 ##### 3) Ahora, como siempre, ya sea Dios o el enemigo, todas las cosas aún obran para **<u>bien</u>** para *los que aman a Dios*, para *los que conforme a su propósito son llamados*. Romanos 8:28
 
+
+
 #### f. Romanos 1:13b – “*para tener también entre vosotros algún fruto, como entre los demás gentiles*.” Pablo quería cosechar algún **<u>fruto</u>** en Roma, tal como lo había hecho en todos los otros lugares donde ministraba. Esto significaba que quería agregar creyentes a la iglesia romana por medio de compartir las buenas nuevas.
+
+
 
 #### g. Romanos 1:14 – El amplio **<u>rango</u>** de responsabilidades de Pablo en la enseñanza del evangelio incluía alcanzar personas de todos los niveles de la sociedad.
 
+
+
 ##### 1) Romanos 1:14a – “*A griegos y a no griegos,...” soy deudor*...Pablo estaba comprometido a predicar el evangelio **<u>tanto</u>** a los cultos (los griegos) como a los incultos (los bárbaros).
+
+
 
 ##### 2) Romanos 1:14b – “…*a sabios y a no sabios soy deudor.”* Pablo se sentía **<u>igualmente</u>** obligado tanto a los educados como a los no educados.
 
+
+
 #### h. Romanos 1:15 – “*Así que, en cuanto a mí, pronto estoy a anunciaros el evangelio también a vosotros que estáis en Roma.”* Aunque Pablo anhelaba visitar la iglesia en Roma, la cual incluía personas de un **<u>estatus</u>** social más alto que la mayoría de las iglesias, él sentía una responsabilidad hacia todas las personas, sin importar cuál era su posición social en la vida.
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom1.16-17.001.jpeg"  data-background-size="cover" data-auto-animate="" data-menu-title="Romanos 1:16-17 - Una pasión por el Evangelio" --> 
+
+
 
 ## C. Romanos 1:16-17 – Una pasión por el evangelio
 
+
+
 ### 1. Romanos 1:16 – La **<u>actitud</u>** de Pablo hacia el evangelio
+
+
 
 #### a. Romanos 1:16a – “ *Porque no me **<u>avergüenzo</u>** del evangelio...” * Ninguna cosa acerca del mensaje del evangelio hizo que Pablo sintiera vergüenza, culpa o deshonra. 1 Corintios 1:18-25, 9:16‑17
 
+
+
 #### b. Romanos 1:16b – “…*porque es poder de Dios para salvación...” *Pablo tenía confianza absoluta en la capacidad del evangelio para **<u>salvar</u>** a los pecadores. Juan 3:36
+
+
 
 #### c. Romanos 1:16c – “… *a todo aquel que **<u>cree</u>**;...” *Si se cree el evangelio, el resultado es salvación eterna. Si es rechazado en incredulidad, no hay salvación. Increíblemente, toda persona que cree el evangelio pasa instantáneamente de la muerte a la vida. Juan 5:24
 
+
+
 #### d. Romanos 1:16d – “…*al judío primeramente, y también al griego.” * Históricamente, el evangelio fue **<u>ofrecido</u>** primero al pueblo judío y después de eso a las naciones gentiles (griegos). Aunque en la actualidad Cristo está llamando personas de entre los gentiles, Israel todavía ocupa un lugar muy querido en su corazón, como vemos en Romanos 9‑11. Hechos 1:8
+
+
 
 ### 2. Romanos 1:17 – La **<u>gratitud</u>** de Pablo por el evangelio (1 Timoteo 1:12-17)
 
+
+
 #### a. Romanos 1:17a – “ *Porque en el evangelio la justicia de Dios se revela…” *El evangelio trajo a la **<u>luz</u>** la manera de Dios de declarar justos a los pecadores. Job 25:4
+
+
 
 ##### 1) En primer lugar, la justicia de Dios es vista en los **<u>hechos</u>** históricos del evangelio.
 
+
+
 ###### a) Ya que la pena por el pecado es la **<u>muerte</u>**, la muerte de Cristo en la cruz por los pecados de la humanidad cumplió los requisitos justos de Dios. 2 Corintios 5:21, 1 Pedro 3:18
+
+
 
 ###### b) La resurrección de Cristo **<u>demostró</u>** que las demandas justas de Dios habían sido completamente satisfechas. Romanos 4:25, Filipenses 2:8-11
 
+
+
 ##### 2) Y ahora, gracias a que las demandas justas de Dios se cumplieron, Dios puede declarar legalmente justos a los pecadores sin comprometer Sus estándares **<u>legales</u>** de justicia. Romanos 4:5, 2 Corintios 5:21, Gálatas 2:16-21
+
+
 
 #### b. Romanos 1:17b – “…*por fe y para fe…” *El evangelio afirma que la justicia de Dios es obtenida sólo a través de la **<u>fe</u>**s .
 
+
+
 ##### 1) “…*por fe…” *La justificación, ser salvo de la pena del pecado, es por fe o de la fe. La justicia ante Dios viene en el momento en que un pecador **<u>confía</u>** en Cristo.
+
+
 
 ##### 2) “…*para fe,…” *De igual modo, la santificación, ser salvo del poder del pecado, es a través de la fe, o para fe. A través de la fe continua en Cristo, el creyente continúa **<u>aprendiendo</u>** a vivir rectamente día tras día.  Gálatas 2:20, Filipenses 3:9
 
+
+
 #### c. Romanos 1:17c – “…*como está escrito: Mas el justo **<u>por</u>** la fe vivirá.”* Aquellos declarados justos por la fe, deben así mismo, vivir justamente por la fe.
+
+
 
 ##### 1) Al citar Habacuc 2:4b, “…*mas el justo por su fe vivirá.*”, Pablo destacó el hecho de que Dios siempre ha esperado que las personas justas, incluso en el Antiguo Testamento, **<u>vivan</u>** por fe. Hebreos 11:6
 
+
+
 ##### 2) ¿Qué significa la palabra justo? En hebreo es la palabra TSADDIYQ (pronunciada sa-dik), significa justo o legal. En griego, la palabra es DIKAIOS (pronunciado di-ka-yos), significa justo o sin culpa, específicamente justo a los ojos de Dios o sin culpa a la **<u>vista</u>** de Dios.
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom1.18-32.jpg"  data-background-size="cover" data-auto-animate="" data-menu-title="Romanos 1:8-15 - Amor por los Romanos" --> 
 
 
 
@@ -702,99 +784,189 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 ## A. Romanos 1:18-32 – El juicio de Dios del pecador inmoral
 
+
+
 ### 1. Romanos 1:18-20 – Dios tiene razón cuando condena a los pecadores inmorales porque con su conducta rebelde, **<u>reprimen</u>** la verdad.
+
+
 
 #### a. Romanos 1:18 – De acuerdo con Romanos 1:17, *la justicia de Dios se revela* a la humanidad a través del evangelio. Por el contrario, aquí en Romanos 1:18, la **<u>ira</u>** de Dios se revela desde el cielo contra todo lo injusto.
 
+
+
 ##### 1) Romanos 1:18a – “ *Porque la ira de Dios se revela desde el cielo...” *Desde el cielo Dios hace **<u>pública</u>** Su ira hacia el pecado. Job 36:29-37:5
+
+
 
 ###### a) Dios permite a todos los pecadores **<u>cosechar</u>** las consecuencias destructivas de su rebelión. Salmos 69:22, Santiago 1:15
 
+
+
 ###### b) Dios también **<u>condena</u>** a aquellos que mueren sin haber creído el evangelio a la separación eterna de Él en el Lago de Fuego. Salmos 7:11
+
+
 
 ##### 2) Romanos 1:18b – “…*contra toda impiedad…”* La impiedad es rebelión contra Dios. La impiedad de la humanidad hace caso omiso del carácter justo de Dios. Cualquier cosa que se opone al carácter o existencia de Dios es **<u>impía</u>**, o no semejante a Dios, y se convierte en supresión de la verdad.
 
+
+
 ##### 3) Romanos 1:18c – *contra toda “…injusticia de los hombres…”* La impiedad es injusticia. Particularmente involucra **<u>crímenes</u>** contra el prójimo. Finalmente, toda injusticia suprime la verdad.
+
+
 
 ##### 4) Romanos 1:18d – “*…que detienen con injusticia la verdad*;” En su rebelión, la humanidad **<u>pecaminosa</u>** amordaza la verdad y provoca la ira de Dios.
 
+
+
 #### b. Romanos 1:19 – Aunque en sus corazones todas las personas conocen la verdad de la existencia y el carácter justo de Dios, en su naturaleza caída, eligen **<u>negar</u>** esa verdad.
+
+
 
 ##### 1) Romanos 1:19a – “…*porque lo que de Dios se conoce les es manifiesto*,” **<u>Toda</u>** persona en la tierra posee de forma innata un conocimiento de Dios. Dios ha escrito un conocimiento básico de Su existencia en el corazón de cada persona. Eclesiastés 3:11, Hechos 14:15-17
 
+
+
 ##### 2) Romanos 1:19b – “…*pues Dios se lo manifestó.”* Todas las civilizaciones y culturas tienen un conocimiento de Dios, porque Dios ha colocado este conocimiento en sus **<u>corazones</u>**. Este es el por qué, generalmente hablando, la mayoría de las personas son de alguna manera religiosas y abrazan fácilmente la existencia de alguna deidad. Génesis 1:26-27, Romanos 2:14-16
+
+
 
 #### c. Romanos 1:20 – No sólo el hombre tiene un testimonio interno de la existencia de Dios, desde el mismo principio de los tiempos, la **<u>creación</u>** ha declarado el mensaje de la existencia de Dios en un lenguaje tangible y universal que todo corazón entiende. Salmos 19:1-6
 
+
+
 ##### 1) Romanos 1:20a – “*Porque las cosas invisibles de él, su eterno poder y deidad, se hacen claramente **<u>visibles</u>** desde la creación del mundo,…”* Día y noche, la creación testifica continuamente del carácter perfecto de nuestro Creador, Su poder ilimitado y Su extrema supremacía como Dios. Hechos 17:22-28
+
+
 
 ##### 2) Romanos 1:20b – “…*siendo entendidas por medio de las cosas **<u>hechas</u>**, de modo que no tienen excusa*.”
 
+
+
 ###### a) Todo el mundo sabe que una hermosa pintura es obra de un gran artista. La literatura bien escrita **<u>refleja</u>** a un autor talentoso, y estructuras magníficas, son levantadas por constructores expertos, arquitectos brillantes e ingenieros habilidosos.
+
+
 
 ###### b) Esto demuestra que cuando las personas no reconocen la grandeza, majestad y sabiduría obvias del Creador del universo, no tienen **<u>excusa</u>**. Proverbios 30:4, Jeremías 10:11-13
 
+
+
 ### 2. Romanos 1:21-23 – Dios está en lo correcto cuando condena a los pecadores inmorales porque lo **<u>menosprecian</u>** deliberadamente.
+
+
 
 #### a. Romanos 1:21 – “*Pues habiendo conocido a Dios, no le glorificaron como a Dios, ni le dieron gracias,…”* En el pasado, el fracaso de la humanidad para reconocer, honrar y dar **<u>gracias</u>** a Dios trajo resultados terribles, como el diluvio, la destrucción ardiente (Sodoma y Gomorra), y el cautiverio. Incluso ahora, como la gente rechaza a Dios, la historia está destinada a repetirse.
 
+
+
 ##### 1) Romanos 1:21a – “… *sino que se envanecieron en sus razonamientos,…”* Su desprecio deliberado de Dios dio paso a teorías y suposiciones **<u>inútiles</u>**. Hechos 17:28-29
+
+
 
 ##### 2) Romanos 1:21b – “…*y su necio corazón fue entenebrecido*.” El rechazo de la verdad por parte de la humanidad resultó en una falta de **<u>comprensión</u>** y discernimiento. Esto le sucedió a Israel cuando se apartaron de Dios (Jeremías 4:22, 5:21). Esto le sucederá a cualquier civilización que menosprecie la verdad de Dios. Efesios 4:17-19
 
+
+
 #### b. Romanos 1:22 – “*Profesando ser sabios, se hicieron necios,*…” Los humanos llamaron a sus **<u>ideas</u>** sabiduría, pero en realidad sus ideas eran totalmente sin sentido.
+
+
 
 ####  c. Romanos 1:23a – “…*y cambiaron la gloria del Dios incorruptible en semejanza de imagen…”* Ellos rechazaron al Dios eterno e indestructible y adoraron **<u>ídolos</u>** en su lugar. Génesis 3:8, Isaías 44:9-20
 
+
+
 #### d. Romanos 1:23b – “… *de hombre corruptible, de aves, de cuadrúpedos y de reptiles*.” Los humanos crearon ídolos modelados a partir de criaturas que representaban a **<u>dioses</u>** que podían manipular y controlar. Jeremías 10:1-5
+
+
 
 ### 3. Romanos 1:24-27 – Dios está en lo **<u>correcto</u>** y  justo cuando condena a los pecadores inmorales porque no reconocen la autoridad y supremacía de su Creador.
 
+
+
 #### a. Romanos 1:24a – “* Por lo cual también Dios los entregó a la inmundicia, en las concupiscencias de sus corazones,…” Dios los  **<u>entregó</u>** *significa que Dios dejó de ponerles limitaciones.
+
+
 
 #### b. Romanos 1:24b – “…*de modo que deshonraron entre sí sus propios cuerpos*,” En el pasado, cuando la humanidad rebelde lo rechazaba a propósito, Dios les dejó hacer todas las cosas vergonzosas e impactantes que querían con los **<u>cuerpos</u>** de los demás.
 
+
+
 #### c. Romanos 1:25a – “ *ya que cambiaron la verdad de Dios por la mentira,…”* Estos  pecadores inmorales querían a Dios fuera de sus vidas. Ellos escogieron creer una **<u>mentira</u>** en lugar de la verdad. Romanos 8:13, Santiago 1:15
+
+
 
 #### d. Romanos 1:25b – “ *…honrando y dando culto a las criaturas antes que al Creador,…”* En lugar de dar **<u>alabanza</u>** al Creador, ellos adoraron los seres que Él creó.
 
+
+
 #### e. Romanos 1:25c – “…* al **<u>Creador</u>**, el cual es bendito por los siglos. Amén* .” Sus acciones insultaron al Dios verdadero, quien solo merece toda la alabanza y admiración para siempre.
+
+
 
 #### f. Romanos 1:26a – “ *Por esto Dios los entregó a pasiones vergonzosas;…” *Cuando las personas decidieron a propósito creer una mentira en lugar de la verdad y se rehusaron a reconocer la autoridad de Dios como Creador, Dios les **<u>permitió</u>** hacer las cosas vergonzosas que querían hacer.
 
+
+
 ##### 1) Romanos 1:26b – “… * pues aun sus mujeres cambiaron el uso natural por el que es contra  naturaleza *,” El sexo dentro del matrimonio es *natural* porque fue **<u>diseñado</u>** por Dios. Dios etiqueta la prostitución y otros pecados sexuales como *contra naturaleza*. Hebreos 13:4
+
+
 
 ##### 2) Romanos 1:27 – "* y de igual modo también los hombres, dejando el uso natural de la  mujer, se encendieron en su lascivia unos con otros, cometiendo hechos  vergonzosos hombres con hombres, y recibiendo en sí mismos la  retribución debida a su **<u>extravío</u>** *s .”
 
+
+
 ###### a) Dios llamó inmoral a estas desviaciones **<u>sexuales</u>** y dejó preparar su propia destrucción a aquellos que cometían estos actos vergonzosos y antinaturales.
+
+
 
 ###### b) Cuando el pecado sigue su curso, siempre acarrea **<u>muerte</u>** para el pecador. Santiago 1:15
 
+
+
 ### 4. Romanos 1:28 – Dios tiene razón cuando condena a los pecadores inmorales porque **<u>ignoran</u>** totalmente a Dios.
+
+
 
 #### a. Romanos 1:28a – “* Y como ellos no aprobaron tener en cuenta a Dios, Dios los entregó a una mente reprobada, *…” Cuando los pecadores inmorales abandonaban el **<u>verdadero</u>** conocimiento de Dios, se deterioraban intelectualmente.
 
+
+
 #### b. Romanos 1:28b – “ *…para hacer cosas que no **<u>convienen</u>***;” En la decadencia de sus mentes depravadas, terminaron pecando en formas inapropiadas para cualquier tipo de sociedad. Efesios 4:17-19
+
+
 
 ### 5. Romanos 1:29-31 – Dios está en lo correcto cuando condena a los pecadores inmorales porque al final, su pecado no conoce **<u>límites</u>**. Todo es visto como permisible.
 
+
+
 #### a. Romanos 1:29 – Se **<u>lastiman</u>** y se destruyen los unos a los otros sin pensarlo dos veces. “*estando atestados de toda injusticia, fornicación, perversidad, avaricia, maldad; llenos de envidia, homicidios, contiendas, engaños y malignidades;” * [se convierten en murmuradores y detractores].
+
+
 
 #### b. Romanos 1:30-31 – Puesto que el pecado nunca está inactivo, el mal cava cada vez más **<u>profundo</u>**. Los pecadores inmorales se vuelven “ *murmuradores, detractores, aborrecedores de Dios, injuriosos, soberbios* [lo que significa irrespetuosos y groseros] * , altivos, inventores de males, desobedientes a los padres, necios,  desleales, sin afecto natural, implacables, sin misericordia * ;”
 
+
+
 ### 6. Romanos 1:32 – Así que Dios está en lo **<u>correcto</u>** cuando condena a los pecadores inmorales porque incluso ante el juicio inminente, se atreven a desafiarlo. Romanos 1:18 
+
+
 
 #### a. Romanos 1:32a – “*quienes habiendo entendido el juicio de Dios,…” *El pecador inmoral **<u>conoce</u>** instintivamente el estándar de Dios de lo correcto y lo incorrecto. 
 
+
+
 #### b. Romanos 1:32b – “… *que los que practican tales cosas son dignos de muerte,…”* El pecador inmoral sabe muy bien que su rebelión merece la **<u>muerte</u>**. 
 
+
+
 #### c. Romanos 1:32c – “…*no sólo las hacen,…”* El pecador inmoral no solo provoca a Dios a través de la rebelión personal, sino que osadamente va un **<u>paso</u>** más allá. 
+
+
 
 #### d. Romanos 1:32d – “… *sino que también se complacen con los que las practican*.” Lamentablemente, el **<u>pecador</u>** inmoral incluso llega tan lejos como animar a otros a hacer las cosas que él o ella sabe que merecen la muerte.
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom2.1-16.jpg" data-auto-animate="" data-background-size="cover" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom2.1-16.jpg" data-auto-animate="" data-background-size="cover" data-menu-title="Romanos 2:1-16 - El juicio de Dios por el pecador moral" --> 
 
 
 
@@ -882,7 +1054,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom2.17-16.jpg" data-auto-animate="" data-background-size="cover" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom2.17-16.jpg" data-auto-animate="" data-background-size="cover" data-menu-title="Romanos 2:17-29 - El juicio de Dios sobre el pecador religioso" --> 
 
 
 
@@ -892,9 +1064,15 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 ## C. Romanos 2:17-29 – El juicio de Dios sobre el pecador religioso
 
+
+
 ### 1. Romanos 2:17-20 – Los pecadores religiosos no son justificados ante Dios por su celo o su sinceridad religiosa. Pablo estaba calificado para dar este ejemplo, ya que había sido un distinguido **<u>líder</u>** religioso en la religión judía. Filipenses 3:4-9
 
+
+
 #### a. Romanos 2:17a – “*He aquí, tú tienes el sobrenombre de judío,…”* Para dar vida a esta verdad, Pablo optó apropiadamente por destacar el judaísmo, su propia **<u>religión</u>** étnica. Se centró en aquellos que *tiene[n] el sobrenombre de judío*.
+
+
 
 #### b. Romanos 2:17b – “…*y te apoyas en la ley,*…” Los pecadores religiosos en el judaísmo se apoyaban en la **<u>Ley</u>** del Antiguo Testamento para obtener justicia
 
@@ -970,7 +1148,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom3.1-8.jpg" data-auto-animate="" data-background-size="cover" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom3.1-8.jpg" data-auto-animate="" data-background-size="cover" data-menu-title="Romanos 3:1-8 - Pablo anticipó preguntas concernientes a los pecadores" --> 
 
 
 
@@ -1024,7 +1202,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom3.9-20.jpg" data-auto-animate="" data-background-size="cover" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom3.9-20.jpg" data-auto-animate="" data-background-size="cover" data-menu-title="Romanos 3:9-20 - En conclusion: Todo el mundo es culpable de pecado" --> 
 
 
 
@@ -1197,7 +1375,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom3.21-31.jpg" data-auto-animate="" data-background-size="cover" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom3.21-31.jpg" data-auto-animate="" data-background-size="cover" data-menu-title="Romanos 3:21-31 - Justificación: Declarado Legalmente Justo Delante de Dios" --> 
 
 
 
@@ -1205,7 +1383,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-# IV.Romanos 3:21-5:11 – Justificación: Declarado Legalmente Justo delante de Dios
+# IV.Romanos 3:21-5:11 – Justificación: Declarado Legalmente Justo Delante de Dios
 
 
 
@@ -1297,7 +1475,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom4.1-9.jpg" data-auto-animate="" data-background-size="cover" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom4.1-9.jpg" data-auto-animate="" data-background-size="cover" data-menu-title="Romanos 4:1-25 - Ejemplos del Antiguo Testamento de la justificación por la fe" --> 
 
 
 
@@ -1411,7 +1589,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom4.10-25.jpg" data-auto-animate="" data-background-size="cover" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom4.10-25.jpg" data-auto-animate="" data-background-size="cover" data-menu-title="Romanos 4:10-12 - La justificación de Abraham por fe..." --> 
 
 
 
@@ -1513,7 +1691,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom5.1-11.jpg" data-auto-animate="" data-background-size="cover" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom5.1-11.jpg" data-auto-animate="" data-background-size="cover" data-menu-title="Romanos 5:1-11 - Las bendiciones inmerecidas de la justificación por fe" --> 
 
 
 
@@ -1635,7 +1813,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom5.12-21.jpg" data-auto-animate="" data-background-size="cover" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom5.12-21.jpg" data-auto-animate="" data-background-size="cover" data-menu-title="Romanos 5:12-21 - La Doctrina de la Identificación: El Acceso a la Santificación" --> 
 
 
 
@@ -1734,7 +1912,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom6.1-2.jpg" data-auto-animate="" data-background-size="cover" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom6.1-2.jpg" data-auto-animate="" data-background-size="cover" data-menu-title="Romanos 6:1-10 - La Doctrina de la Santificación" --> 
 
 
 
@@ -1842,7 +2020,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom6.3-5.jpg" data-auto-animate="" data-background-size="cover" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom6.3-5.jpg" data-auto-animate="" data-background-size="cover" data-menu-title="Romanos 6:3-5 - Conociendo la historia de tu muerte al pecado con Cristo" --> 
 
 
 
@@ -1992,7 +2170,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom6.11.jpg" data-auto-animate="" data-background-size="cover" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom6.11.jpg" data-auto-animate="" data-background-size="cover" data-menu-title="Romanos 6:11-23 - La Doctrina de la Santificación - Haciendo Práctica la Santificación" --> 
 
 
 
@@ -2089,7 +2267,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom6.15-18.jpg" data-auto-animate="" data-background-size="cover" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom6.15-18.jpg" data-auto-animate="" data-background-size="cover" data-menu-title="Romanos 6:15-18 - ¿Quien es tu señor?" --> 
 
 
 
@@ -2135,7 +2313,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom6.19-23.jpg" data-auto-animate="" data-background-size="cover" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom6.19-23.jpg" data-auto-animate="" data-background-size="cover" data-menu-title="Romanos 6:19-23 - La santificación hecha simple" --> 
 
 
 
@@ -2175,7 +2353,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom7.1-6.jpg" data-auto-animate="" data-background-size="cover" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom7.1-6.jpg" data-auto-animate="" data-background-size="cover" data-menu-title="Romanos 7:1-25 - La Doctrina de la Santificación - Tu Nueva Relación con la Ley" --> 
 
 
 
@@ -2280,7 +2458,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom7.7-13.jpg" data-auto-animate="" data-background-size="cover" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom7.7-13.jpg" data-auto-animate="" data-background-size="cover" data-menu-title="Romanos 7:7-13 - La vida bajo la ley" --> 
 
 
 
@@ -2336,7 +2514,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom7.14-23.jpg" data-auto-animate="" data-background-size="cover" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom7.14-23.jpg" data-auto-animate="" data-background-size="cover" data-menu-title="Romanos 7:14-23 - Una vida frustrada" --> 
 
 
 
@@ -2400,7 +2578,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom7.24-25.jpg" data-auto-animate="" data-background-size="cover" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom7.24-25.jpg" data-auto-animate="" data-background-size="cover" data-menu-title="Romanos 7:24-25 - El reconocimiento de Pablo de la liberación en Cristo" --> 
 
 
 
@@ -2426,7 +2604,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom8.1-4.jpg" data-auto-animate="" data-background-size="cover" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom8.1-4.jpg" data-auto-animate="" data-background-size="cover" data-menu-title="Romanos 8:1-17 - La Doctrina de la Santificación y el Espíritu Santo" --> 
 
 
 
@@ -2534,7 +2712,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom8.5-8.jpg" data-auto-animate="" data-background-size="cover" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom8.5-8.jpg" data-auto-animate="" data-background-size="cover" data-menu-title="Romanos 8:5-8 - Características de la mente puesta en la carne y la mente puesta en el Espíritu" --> 
 
 
 
@@ -2581,7 +2759,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom8.9-11.jpg" data-auto-animate="" data-background-size="cover" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom8.9-11.jpg" data-auto-animate="" data-background-size="cover" data-menu-title="Romanos 8:9-11 - El creyente está *en el Espíritu*" --> 
 
 
 
@@ -2605,7 +2783,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom8.12-17.jpg" data-auto-animate="" data-background-size="cover" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom8.12-17.jpg" data-auto-animate="" data-background-size="cover" data-menu-title="Romanos 8:12-17 - Tu responsabilidad como creyente en Cristo" --> 
 
 
 
@@ -2706,7 +2884,8 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom8.18.jpg" data-auto-animate="" data-background-size="cover" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom8.18.jpg" data-auto-animate="" data-background-size="cover" data-menu-title="Romanos 8:18-39 - Glorificación" --> 
+
 
 
 <!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="70%" --> 
@@ -2731,7 +2910,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom819-27.jpg" data-auto-animate="" data-background-size="cover" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom8.19-27.jpg" data-auto-animate="" data-background-size="cover" data-menu-title="Romanos 8:19-27 - Gimiendo por ser glorificados" --> 
 
 
 
@@ -2785,7 +2964,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom8.28-30.jpg" data-auto-animate="" data-background-size="cover" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom8.28-30.jpg" data-auto-animate="" data-background-size="cover" data-menu-title="Romanos 8:28-30 - Garantizado ser glorificado" --> 
 
 
 
@@ -2914,7 +3093,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom8.31-39.jpg" data-auto-animate="" data-background-size="cover" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom8.31-39.jpg" data-auto-animate="" data-background-size="cover" data-menu-title="Romanos 8:31-39 - Glorificación probada y demostrada" --> 
 
 
 
@@ -2945,9 +3124,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 #### c. ***<u>Persecución</u>*** * …nos separará del amor de Cristo?* ¿Qué si somos odiados, cazados, torturados o incluso asesinados? Hechos 8:1
 
-#### d. ***<u>Hambre</u>*** * …nos separará del amor de Cristo?* ¿Qué si no tenemos suficiente
-
- para comer y sufrimos hambre? Hechos 11:28-30
+#### d. ***<u>Hambre</u>*** * …nos separará del amor de Cristo?* ¿Qué si no tenemos suficiente para comer y sufrimos hambre? Hechos 11:28-30
 
 #### e. ***<u>Desnudez</u>*** * …nos separará del amor de Cristo?* ¿Qué si terminamos sin hogar y sufrimos exposición con poca o ninguna ropa? Hebreos 11:37-38
 
@@ -3006,7 +3183,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/evangelio.jpg" data-auto-animate="" data-background-size="cover" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/evangelio.jpg" data-auto-animate="" data-background-size="cover" data-menu-title="Apéndice - El Mensaje del Evangelio" --> 
 
 
 
@@ -3034,7 +3211,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/evangelio_claro.jpg" data-auto-animate="" data-background-size="cover" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/evangelio_claro.jpg" data-auto-animate="" data-background-size="cover" data-menu-title="Apéndice - B. El evangelio es un mensaje objetivo" --> 
 
 
 
@@ -3046,7 +3223,12 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 ### 3. El evangelio no cambia de persona a persona. Es el **<u>relato</u>** históricamente verificable de cómo Dios trajo la salvación a la humanidad a través de la persona y obra de Jesucristo. 
 
+
+
 ## C. Componentes esenciales del evangelio de 1 Corintios 15:3-11
+
+
+
 
 ### 1. 1 Corintios 15:3a – “…***<u>Cristo</u> *** *murió*…” Cristo es la persona en quien debes creer para salvación. 1 Timoteo 3:16 
 
@@ -3175,7 +3357,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/presentaciones-no-claras.jpg" data-auto-animate="" data-background-size="cover" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/presentaciones-no-claras.jpg" data-auto-animate="" data-background-size="cover" data-menu-title="G. - Presentaciones No Claras del Evangelio" --> 
 
 
 
@@ -3231,7 +3413,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/confieza-pecados.jpg" data-auto-animate="" data-background-size="cover" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/confieza-pecados.jpg" data-auto-animate="" data-background-size="cover" data-menu-title="5. Confusión: Cree y confiesa tus pecados" --> 
 
 
 
@@ -3460,7 +3642,11 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 ##### 3) Pablo predicaba la resurrección a los no son salvos. Hechos 17:32 – “*Pero cuando oyeron lo de la resurrección de los muertos, unos se  **<u>burlaban</u>,…”** * .
 
+
+
 ## H. Resumiendo lo que el evangelio no es
+
+
 
 ### 1. El evangelio no es un mensaje subjetivo.
 
@@ -3526,7 +3712,11 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 ### 12. Claro y directo, el evangelio es el mensaje objetivo de que Cristo **<u>murió</u>** por tus pecados y resucitó al tercer día. ¿Crees en Cristo y lo que Él hizo por ti? Si es así, eres salvo. 1 Juan 5:13
 
+
+
 ## I. Cuídate de predicar cualquier otro evangelio. Gálatas 1:6-9
+
+
 
 ### 1. Gálatas 1:6 – “*Estoy maravillado de que tan pronto os hayáis alejado del que os llamó por la gracia de Cristo, para seguir un evangelio diferente*." Tristemente, un creyente puede **<u>abandonar</u>** el evangelio, como estaba sucediendo en las iglesias de Galacia.
 
@@ -3557,7 +3747,11 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 ### 6. Por estas razones, buscamos ser concisos y claros con el mensaje del evangelio. Nuestro objetivo en esta enseñanza no es juzgar, menospreciar o desanimar a los hijos de Dios. Si has sido culpable de **<u>no ser claro</u>** con el mensaje del evangelio, confíe en el Señor y pídele a Dios que haga que tu presentación del evangelio sea más clara que nunca. 1 Tesalonicenses 2:4, 2 Timoteo 2:15
 
+
+
 ## K. Cristo nos llama a compartir un evangelio claro en todo lugar.
+
+
 
 ### 1. En Marcos 16:15, el Señor Jesucristo ordenó, “…*Id por **<u>todo</u>** el mundo y predicad el evangelio a toda criatura*.”
 
@@ -3907,33 +4101,63 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 #### c. 1 Pedro 1:4-5 –*“para una herencia incorruptible, incontaminada e inmarcesible,  **<u>reservada</u>** en los cielos para vosotros, que sois guardados por el poder de Dios mediante la fe, para alcanzar la salvación que está preparada para ser manifestada en el tiempo postrero*.”
 
+
+
 ## C. ¿Qué está en riesgo si no enseñas que la salvación es eterna?
+
+
 
 ### 1. El **<u>honor</u>** de Dios está en riesgo.
 
+
+
 #### a. Si la salvación pudiera perderse, Dios sería un **<u>mentiroso</u>** cuando promete que todos los que creen en Él no perecerán sino que tendrán vida eterna. Juan 3:16
+
+
 
 #### b. Si la salvación pudiera perderse, la salvación no sería por gracia, después de todo. Dios sería deshonesto cuando ofrece la salvación como un regalo gratuito en Su Palabra. El mensaje del evangelio ya no sería una buena noticia, porque en realidad sería una **<u>recompensa</u>** ganada y no un regalo gratuito. Romanos  11:6, Hebreos 13:5b
 
+
+
 #### c. Si la salvación pudiera perderse, la muerte de Cristo no fue **<u>suficiente</u>** para pagar nuestro pecado. Si tuviéramos que agregar nuestras obras al sacrificio de Cristo, entonces decimos que su muerte no poseía suficiente valor. Gálatas 2:21 – “* No desecho la gracia de Dios; pues si por la ley fuese la justicia, entonces por demás murió Cristo*.”
+
+
 
 #### d. Si la salvación pudiera perderse, ¿qué se podría decir de la declaración de Cristo, “…*Consumado es. …”?* (Juan 19:30) ¿Fue realmente terminada? ¡**<u>Sí</u>**, fue ciertamente terminada!
 
+
+
 ### 2. **<u>Tu</u>** propio bienestar espiritual está en riesgo.
+
+
 
 #### a. Si pudiéramos perder nuestra salvación, no podríamos legítimamente llamar a la salvación un regalo **<u>gratuito</u>**. Efesios 2:8-9, Hebreos 7:25
 
+
+
 #### b. Si pudiéramos perder nuestra salvación, ¿tendríamos realmente esperanza? ¿Qué tenemos que **<u>ofrecer</u>** al mundo si creemos que la salvación puede realmente perderse al final por nuestro fracaso en mantenerla? Hablando de aquellos que dudaban de la resurrección, Pablo dijo, “*Si en esta vida solamente esperamos en Cristo, somos los más dignos de conmiseración de todos los hombres*.” 1 Corintios 15:19
+
+
 
 #### c. Si pudiéramos perder nuestra salvación, ¿**<u>Ganó</u>** realmente Cristo el perdón para nosotros a través de Su muerte en la cruz? Mateo 1:21, 1 Pedro 1:3-5
 
+
+
 #### d. Si pudiéramos perder nuestra salvación, necesitaríamos ser **<u>honestos</u>** al compartir el evangelio con un incrédulo, explicando que la salvación no está realmente garantizada y que el cielo dependerá en última instancia de los propios esfuerzos. Esto no sería una buena noticia. Tito 3:5-6
+
+
 
 #### e. Si pudiéramos perder nuestra salvación, necesitaríamos presentar el miedo al **<u>infierno</u>** como la motivación para vivir. 1 Juan 4:18 dice, “* En el amor no hay temor, sino que el perfecto amor echa fuera el temor;  porque el temor lleva en sí castigo. De donde el que teme, no ha sido  perfeccionado en el amor*.” El miedo al lago de fuego no es un motivador válido para el cristiano.
 
+
+
 #### f. Si pudiéramos perder nuestra salvación, el amor de Cristo sería condicional. La incertidumbre de este tipo es debilitante, pero el amor de Cristo es un motivador. La Biblia dice, “*Porque el amor de Cristo nos constriñe *[o **<u>controla</u>**],…” 2 Corintios 5:14a
 
+
+
 #### g. Si pudiéramos perder nuestra salvación, envejeceríamos e incluso iríamos a nuestro lecho de muerte, con **<u>dudas</u>** paralizantes. ¿Cómo podrías saber alguna vez con seguridad si realmente fuiste salvo, si la salvación dependiera incluso en parte de tus obras o conducta? 1 Tesalonicenses 4:13-17
+
+
 
 #### h. Enseñar que la salvación puede perderse expone las **<u>verdaderas</u>** creencias de una persona acerca de la salvación.
 
@@ -3954,17 +4178,31 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 ## A. La persona natural
 
+
+
 ### 1. La persona natural no **<u>posee</u>** el Espíritu de Dios. Esta persona está perdida en pecado, separada de Dios y no es parte de la familia de Dios. 
+
+
 
 #### a. Romanos 8:9b – “…*Y si alguno no tiene el Espíritu de Cristo, no  **<u>es</u>** de él*.” 
 
+
+
 #### b. Judas 18b-19 – “…*En el postrer tiempo habrá burladores, que andarán según sus malvados deseos. Estos son los que causan divisiones; los sensuales, que  **<u>no tienen</u>** al Espíritu*.” 
+
+
 
 ### 2. La persona natural no ha nacido **<u>de nuevo</u>**. Esta persona está espiritualmente muerta, atrapada en el sistema del mundo y bajo el control del pecado, Satanás y su naturaleza carnal.  
 
+
+
 #### a. Efesios 2:1-2 – “*Y él os dio vida a vosotros, cuando estabais  **<u>muertos</u>** en vuestros delitos y pecados, en los cuales anduvisteis en otro tiempo, siguiendo la corriente de este mundo, conforme al príncipe de la potestad del aire, el espíritu que ahora opera en los hijos de desobediencia*,” 
 
+
+
 #### b. Efesios 2:3 –*“entre los cuales también todos nosotros vivimos en otro tiempo en los deseos de nuestra carne, haciendo la voluntad de la carne y de los pensamientos, y éramos por naturaleza hijos de  **<u>ira</u>**, lo mismo que los demás*.”
+
+
 
 ### 3. La Palabra de Dios **<u>parece</u>** una tontería para la persona natural porque las personas naturales no pueden comprender la enseñanza del Espíritu Santo. La persona natural también considera insensato el sacrificio de Cristo. 
 
@@ -3972,15 +4210,27 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 #### b. 1 Corintios 2:14 – “* Pero el hombre natural no percibe las cosas que son del Espíritu de Dios, porque para él son locura, y no las **<u>puede</u>** entender, porque se han de discernir espiritualmente *.” 
 
+
+
 ## B. El bebé en Cristo
+
+
 
 ### 1. El bebé en Cristo describe a un nuevo creyente. Este joven creyente aún no ha tenido tiempo de **<u>crecer</u>** hacia la madurez.
 
+
+
 #### a. Al principio, el nuevo creyente puede parecer carnal o mundano a causa de no conocer la Biblia y no tener todavía un caminar constante por medio del **<u>Espíritu</u>** Santo.
+
+
 
 #### b. Afortunadamente, los nuevos creyentes nacen de nuevo con un deseo innato por la Palabra de Dios. 1 Pedro 2:2 dice, “* desead, como niños recién nacidos, la **<u>leche</u>** espiritual no adulterada, para que por ella crezcáis para salvación*,”
 
+
+
 ### 2. El nuevo creyente necesita tiempo para llegar al punto en que será lo suficientemente maduro como para ingerir la **<u>carne</u>** de la Palabra de Dios.
+
+
 
 #### a. Efesios 4:14-15 –*“para que ya no seamos **<u>niños</u>** fluctuantes,  llevados por doquiera de todo viento de doctrina, por estratagema de hombres que para engañar emplean con astucia las artimañas del error, sino que siguiendo la verdad en amor, crezcamos en todo en aquel que es la cabeza, esto es, Cristo*.”
 
@@ -3994,7 +4244,11 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 ### 4. Dios aconsejaría al bebé en Cristo “… ***<u>crecer</u>*** *en la gracia y el conocimiento de nuestro Señor y Salvador Jesucristo* . …” 2 Pedro 3:18a
 
+
+
 ## C. El cristiano espiritual
+
+
 
 ### 1. El cristiano espiritual es el creyente que tiene confesados todos sus **<u>pecados</u>** conocidos. Dicho sencillamente, eres espiritual en el instante en que confiesas todos tus pecados conocidos. Cuando albergas pecado en tu corazón, no eres espiritual en ese momento. Salmos 66:18, Juan 9:31
 
@@ -4030,7 +4284,11 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 #### c. 1 Corintios 2:16 – “…*Mas nosotros tenemos la mente de Cristo*.” El cristiano espiritual se beneficia de tener la **<u>mente</u>** o el pensamiento de Cristo.
 
+
+
 ## D. El cristiano maduro
+
+
 
 ### 1. El cristiano maduro es un creyente que ha aprendido a **<u>caminar</u>** consistentemente por fe en el Señor Jesucristo, a través del poder habilitador del Espíritu Santo. Colosenses 2:3-7
 
@@ -4052,7 +4310,11 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 #### b. En 1 Juan 2:13, hablando de los más maduros, Juan dijo, “*Os escribo a vosotros, padres, porque **<u>conocéis</u>** al que es desde el principio. …*” Conseguir conocer a Dios más íntimamente es madurez espiritual.
 
+
+
 ## E. Diferencias entre el cristiano espiritual y el cristiano maduro
+
+
 
 ### 1. No debemos confundir ser espiritual con ser maduro. En el momento en que confiesas tus pecados **<u>conocidos</u>**, ya no eres gobernado por la carne; así, en ese momento, ya no eres carnal y por lo tanto eres espiritual. Por la confesión de pecados conocidos (1 Juan 1:9), te vuelves instantáneamente espiritual, pero nadie es instantáneamente maduro.
 
@@ -4068,7 +4330,11 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 ### 5. Algunos de los cristianos más inmaduros son **<u>asistentes</u>** por mucho tiempo a la iglesia y solo confiesan sus pecados antes de participar de la santa cena, o un domingo por la mañana, pero no optan por caminar consistentemente en comunión con el Señor el resto de la semana. Hebreos 6:1
 
+
+
 ## F. El cristiano carnal (el cristiano de la carne)
+
+
 
 ###  1. Un creyente carnal es un cristiano que es espiritualmente inmaduro porque **<u>camina</u>** continuamente conforme a la naturaleza de la carne. (Carnal y de la carne son términos sinónimos.) 1 Corintios 3:1-4
 
@@ -4098,9 +4364,15 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 #### f. Romanos 8:12-13 – “Así que, hermanos, deudores somos, no a la carne, para que vivamos conforme a la carne; porque si vivís conforme a la carne, moriréis;…” La persona carnal está a punto de **<u>morir</u>** , ya sea por el mecanismo destructivo que incorpora el pecado, por sufrir las consecuencias del pecado o por disciplina. Romanos 6:23, 8:2
 
+
+
 # XIV. Resultados de Vivir una Vida Carnal. ¿Qué está en juego?
 
+
+
 ## A. La salvación y la gracia <u>no</u> están en juego
+
+
 
 ### 1. Ya hemos determinado que, de acuerdo con la Biblia, los creyentes no pueden **<u>perder</u>** su salvación.
 
@@ -4108,19 +4380,35 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 ### 3. En 1 Pedro 5:12b, el apóstol Pedro dijo, “…*os he escrito brevemente, amonestándoos, y testificando que ésta es la  **<u>verdadera</u>** gracia de Dios, en la cual estáis.*” Recuerda siempre: la verdadera gracia bíblica no produce desgracia. No debemos temer a la gracia de Dios – Su favor inmerecido.
 
+
+
 ## B. Aunque como cristiano no puedes perder tu salvación, perderás muchas cosas si eliges caminar según la carne en lugar de caminar por el Espíritu Santo. Como podrás ver en las siguientes “pérdidas” que se relacionan a continuación, el ser carnal tiene un alto precio.
+
+
 
 ### 1. Pérdida: **Seguridad de la salvación** – Los creyentes carnales pueden llegar a confundirse tanto espiritualmente que pueden perder toda seguridad y certeza personal de su salvación.
 
+
+
 #### a. Aunque tu salvación no se puede perder, puedes comenzar a luchar con las **<u>dudas</u>**. Puedes perder tu conocimiento de la verdad y olvidarte de la* “…purificación de [tus] antiguos pecados*.” 2 Pedro 1:8-11
+
+
 
 #### b. La voluntad de Dios para ti es que estés **<u>completamente</u>** seguro de tu salvación para que puedas beneficiarte de “…*todas las riquezas que proceden de una plena seguridad de comprensión,…”* (Col. 2:1-2 [LBLA]). La duda anula esta bendición y termina en inseguridad y falta de convicción. 2 Pedro 3:17
 
+
+
 ### 2. Pérdida: **Una perspectiva esperanzadora** – Un creyente que vive según la carne **<u>pierde</u>** confianza con respecto al futuro. El Señor nos ordena mirar a Jesús, pero el creyente carnal pierde ese enfoque y, como resultado, puede volverse muy pesimista y temeroso del futuro. Hebreos 12:1-2.
+
+
 
 #### a. El creyente que se niega a vivir por el Espíritu pierde su perspectiva eterna y **<u>sufre</u>** de miopía espiritual. 2 Pedro 1:9a dice, “* Pero el que no tiene estas cosas tiene la vista muy corta; es ciego,… *”
 
+
+
 #### b. Tener una **<u>esperanza</u>** sólida del futuro te permite disfrutar cada nuevo día. Romanos 15:13 dice, “ * Y el Dios de esperanza os llene de todo gozo y paz en el creer, para que abundéis en esperanza por el poder del Espíritu Santo*.” Efesios 1:18-20
+
+
 
 ### 3. Pérdida: **Comunión con Dios** – Si vives de la carne, te pierdes de caminar en comunión con **<u>Dios</u>**. El cristiano que camina continuamente conforme a la carne no tiene intimidad con Cristo. Lucas 15:11-24
 
