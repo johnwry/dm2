@@ -5386,33 +5386,33 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-|               | SALVO POR:               | NO SALVO POR:                       |
-|---------------| ------------------------ | ----------------------------------- |
+|               | SALVO POR:                  | NO SALVO POR:                       |
+|---------------| ----------------------------| ------------------------------------|
 | Efesios 2:8-9 | Porque por gracia sois salvos por medio de la fe | y esto no de vosotros |
 
 
 
 |               | SALVO POR:               | NO SALVO POR:                       |
-|---------------| ------------------------ | ----------------------------------- |
+|---------------| ----------------------------| ------------------------------------|
 | Hechos 13:39 | en él es justificado todo aquel que cree | y que de todo aquello de que por la ley de Moisés no pudisteis ser justificados.|
 
 
 
 |               | SALVO POR:               | NO SALVO POR:                       |
-|---------------| ------------------------ | ----------------------------------- |
+|---------------| ----------------------------|-------------------------------------|
 | Tito 3:5 | Nos salvó no por obras de justicia que nosotros hubiéramos hecho | sino por su misericordia, por el lavamiento de la  regeneración y por la renovación en el Espíritu Santo |
 
 
 
 |               | SALVO POR:               | NO SALVO POR:                       |
-|---------------| ------------------------ | ----------------------------------- |
+|---------------| ----------------------------|-------------------------------------|
 | 2 Timoteo 1:9| quien nos salvó y llamó con llamamiento santo | no conforme a nuestras obras |
 | sino según el propósito suyo y la gracia que nos  fue dada en Cristo Jesús antes de los tiempos de los siglos |                               |
 
 
 
 |               | SALVO POR:               | NO SALVO POR:                       |
-|---------------| ------------------------ | ----------------------------------- |
+|---------------| ----------------------------|-------------------------------------|
 | Gálatas 2:16 | Sabiendo que el hombre no es justificado por las obras de la ley | sino por la fe de Jesucristo,|
 |nosotros también hemos creído en Jesucristo,| para ser justificados por la fe de Cristo |                                                              |
 | y no por las obras de la ley,         | por cuanto por las obras de la ley nadie será justificado.   |      |
@@ -5525,99 +5525,195 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 ### 5. **Confusión: Cree y confiesa tus pecados**
 
+
+
 #### a. La confesión de pecados no es un requisito para la salvación. Sin embargo, aunque la confesión de pecado no es un requisito para la salvación, todas las personas deben entender que son **<u>pecadores</u>** en necesidad del Salvador. Reconocer que eres un pecador antes de la salvación no es lo mismo que confesar tus pecados individuales.
+
+
 
 ##### 1) Primero que nada, posiblemente nadie pueda recordar **<u>cada</u>** pecado que haya cometido. De hecho, ¡a la mayoría de nosotros nos cuesta recordar lo que comimos en la cena la noche anterior!
 
+
+
 ##### 2) En segundo lugar, tratar de confesar todos tus pecados causaría dudas y un examen de conciencia angustioso. Si crees que debes confesar todos tus pecados para ser salvo, **<u>nunca</u>** estarás seguro de tu salvación, sabiendo que has olvidado muchos de tus pecados.
+
+
 
 #### b. Los incrédulos serán condenados al Lago de Fuego porque no creyeron en el Señor Jesucristo, no porque fallaron en confesar sus pecados. Juan 3:18 dice, “* El que en él cree, no es condenado; pero el que no cree, ya ha sido condenado, porque no ha **<u>creído</u>** en el nombre del unigénito Hijo de Dios*.”
 
+
+
 #### c. La confesión de pecado es para la persona salva, una que ya es un hijo de Dios. Cometer un pecado deliberadamente causa que el hijo de Dios pierda comunión con Dios. En tales ocasiones, los creyentes deben confesar sus pecados para **<u>restaurar</u>** su comunión con Dios.
+
+
 
 ##### 1) 1 Juan 1:9 –* “Si *[los creyentes]* confesamos nuestros pecados, él es fiel y justo para  **<u>perdonar</u>** nuestros pecados, y limpiarnos de toda maldad*.”
 
+
+
 ##### 2) La palabra griega traducida *confesamos* (HOMOLOGEO) es de HOMO, que significa lo mismo, y LOGEO, que significa hablar. Confesar es decir la **<u>misma</u>** cosa. Significa estar de acuerdo con Dios con respecto a tu pecado.
+
+
 
 ### 6. **Confusión: Cree y pide perdón**
 
+
+
 #### a. Dios no exige que una persona **<u>pida</u>** perdón para ser salva. Esto es similar a la confusión previa de exigir la confesión de los pecados para la salvación.
+
+
 
 #### b. La verdad es que, en el momento en que creemos en Cristo, somos totalmente perdonados incluso sin pedir perdón. Efesios 1:7 dice, “ *en quien tenemos redención por su sangre, el perdón de pecados según las **<u>riquezas</u>** de su gracia*,”
 
+
+
 #### c. El perdón viene como **<u>resultado</u>** de creer las buenas nuevas de la muerte y resurrección de Cristo, no porque le pedimos perdón a Dios. El perdón es un subproducto de creer el evangelio. Nos es concedido en el momento en que creemos en Jesucristo.
+
+
 
 #### d. Colosenses 2:13-14 dice, “*Y a vosotros, estando muertos en pecados ...os dio vida juntamente con él, **<u>perdonándoos</u>** todos los pecados, anulando el acta de los decretos que había contra nosotros, que nos era contraria, quitándola de en medio y clavándola en la cruz*.”
 
+
+
 ### 7. **Confusión: Arrepiéntete de tus pecados**
+
+
 
 #### a. La Palabra de Dios no ordena el arrepentimiento de los **<u>pecados</u>** a fin de ser salvo.
 
+
+
 ##### 1) Las frases arrepiéntete **<u>de</u>** tus pecados y arrepiéntete **<u>por</u>** tus pecados no se encuentran en ninguna parte de la Biblia (aunque hay una excepción en la Nueva Traducción Viviente donde la frase “de tus pecados” fue añadida por los traductores).
+
+
 
 ##### 2) Al mismo tiempo, dicho esto, **<u>toda</u>** persona que alguna vez haya creído en Cristo para la salvación se ha arrepentido de algo. Como 2 Pedro 3:9 enseña, “* El Señor no retarda su promesa, según algunos la tienen por tardanza, sino que es paciente para con nosotros, no queriendo que ninguno perezca, sino que todos procedan al arrepentimiento*.”
 
+
+
 #### b. Con el fin de entender correctamente el uso bíblico de las palabras arrepentirse (verbo) y arrepentimiento (sustantivo), debemos observar la palabra **<u>griega</u>** original como fue utilizada en el Nuevo Testamento y no en la definición moderna del diccionario español.
+
+
 
 ##### 1) La palabra griega arrepentimiento (METANOIA) significa literalmente, cambio de mentalidad o cambio de pensamiento. META significa cambio y NOIA significa mente. De lo que nos arrepentimos, o de lo que cambiamos de opinión, puede variar. Podemos arrepentirnos de cosas buenas o malas. El arrepentimiento en sí y por sí mismo es **<u>neutral</u>**.
 
+
+
 ##### 2) Desafortunadamente, nuestra comprensión moderna del arrepentimiento no fue derivada de la palabra griega METANOIA, que fue la palabra usada en la Biblia. En su lugar, fue derivada de la palabra latina medieval REPOENITĒRE, que significa **<u>lamentarse</u>** o sentirse triste. REPOENITĒRE es una alteración de una palabra latina anterior PAENITĒRE, que significaba ser penitente.
+
+
 
 ##### 3) Esta confusión con respecto al significado de la palabra arrepentirse comenzó con Jerónimo (347–420 d.C.), cuando escogió utilizar la palabra **<u>latina</u>** PAENITENTIAM (penitencia) para traducir la palabra griega METANOIA (cambio de mente) en la traducción Vulgata Latina del Nuevo Testamento.
 
+
+
 ##### 4) La traducción de la Vulgata latina de Jerónimo se convirtió en la Biblia estándar de los cristianos por muchos siglos, ocasionando un cambio en la comprensión común de arrepentirse, de un cambio de mentalidad a hacer penitencia o sentir **<u>tristeza</u>** por el pecado. Esta mala traducción afecta nuestra comprensión incluso hoy.
+
+
 
 ##### 5) El arrepentimiento bíblico es un cambio de mentalidad, no un cambio de conducta. El arrepentimiento no es una **<u>obra</u>** que un incrédulo debe agregar a la salvación. Esto no sería consecuente con la salvación por gracia solamente, aparte de las obras.
 
+
+
 #### c. Cómo se relaciona el arrepentimiento con la salvación.
+
+
 
 ##### 1) Todos los incrédulos en el mundo tienen alguna **<u>falsa</u>** esperanza en la que se están apoyando para la  salvación eterna o alguna falsa idea que les permite ignorar el tema por completo. Hebreos 6:1
 
+
+
 ##### 2) Cuando los incrédulos **<u>confían</u>** en Cristo para salvación, es porque han cambiado su mentalidad. En lugar de confiar en la falsa esperanza que anteriormente sostenían, ahora confían sólo en Cristo para salvación. Hechos 20:21
+
+
 
 ##### 3) Cuando compartimos el **<u>evangelio</u>**, debemos alentar a los incrédulos a que cambien de pensamiento acerca de lo que han estado confiando (una religión, filosofía o esfuerzo propio) e instarlos a creer exclusivamente en Jesucristo. Hechos 11:18
 
+
+
 ##### 4) En Hechos 19:4, Pablo dijo, “…*Juan bautizó con bautismo de arrepentimiento, diciendo al pueblo que  **<u>creyesen</u>** en aquel que vendría después de él, esto es, en Jesús el Cristo*.”
+
+
 
 ##### 5) Aunque no es necesario arrepentirte de tus pecados para ser salvo, debes  arrepentirte (**<u>cambiar</u>** de mentalidad) a fin de creer  en el Señor Jesucristo. Como Hechos 17:30 declara, “*Pero Dios, habiendo pasado por alto los tiempos de esta ignorancia, ahora manda a todos los hombres en todo lugar, que se arrepientan*;”.
 
+
+
 ##### 6) El arrepentimiento no debe ser enseñado como un requisito **<u>adicional</u>** para la salvación.
+
+
 
 ##### 7) El arrepentimiento no es un cambio de **<u>vida</u>** o un cambio de dirección. Una persona no necesita limpiar su vida de alguna manera con el fin de ser salva. Dios no requiere este paso adicional, u obra humana, para la salvación. Isaías 64:6 llama a nuestras justicias “… *trapo de inmundicia;…*”
 
+
+
 ### 8. **Confusión: Invita a Cristo a tu vida; pide a Jesús que entre en tu corazón **
+
+
 
 #### a. El evangelio no se trata de invitar o pedirle a Jesús que **<u>entre</u>** en tu vida o corazón. La respuesta correcta al evangelio es simplemente creer en Cristo y en Su obra, en que Él murió por tus pecados y resucitó.
 
+
+
 #### b. No eres salvo por suplicar, invitar o convencer a Cristo para que entre en tu vida. En el momento en que crees que Jesucristo murió por tus pecados y resucitó, recibes la vida eterna como un **<u>regalo</u>** totalmente gratuito. En ese momento, eres colocado en unión con Cristo y el Espíritu Santo viene a vivir dentro de ti.
+
+
 
 #### c. Efesios 1:13-14 – “*En él también vosotros, habiendo oído la palabra de verdad, el evangelio de vuestra salvación, y habiendo  **<u>creído</u>** en él, fuisteis sellados con el Espíritu Santo de la promesa, que es las arras de nuestra herencia hasta la redención de la posesión adquirida, para alabanza de su gloria*.”
 
+
+
 #### d. Siempre que una persona confía en Cristo como Salvador, Dios el Espíritu Santo viene a vivir en su vida, pero la Biblia no nos enseña **<u>pedirle</u>** a Jesús que viva en nosotros. Él no viene porque lo pidamos. Él viene porque creemos.
+
+
 
 #### e. Es importante entender el correcto significado de Apocalipsis 3:20 – “*He aquí, yo estoy a la **<u>puerta</u>** y llamo; si alguno oye mi voz y abre la puerta, entraré a él, y cenaré con él, y él conmigo*.”
 
+
+
 ##### 1) Este versículo es a menudo citado en apoyo para que los no salvos pidan a Jesús entrar en sus corazones para salvación. En primer lugar, este versículo no estaba dirigido a los incrédulos, y, en segundo lugar, laspalabras **pedir** y **corazón** están **<u>ausentes</u>**.
+
+
 
 ##### 2) Este versículo fue escrito a cristianos de la **<u>iglesia</u>** de Laodicea (Ap. 3:14-22). Osadamente, de todas las personas, estos creyentes habían excluido a Cristo de sus reuniones. Como creyentes, necesitaban reabrirle la puerta de la comunión a Él.
 
+
+
 ### 9. **Confusión: Dale tu vida a Dios; dale tu corazón a Jesús; haz un compromiso con Cristo**
+
+
 
 #### a. El evangelio no se trata de **<u>entregar</u>** tu vida, tu corazón o cualquier otra cosa a Dios a cambio de la vida eterna. De hecho, la salvación es todo lo contrario. La dirección de la salvación es de Dios al hombre, no del hombre a Dios.
 
+
+
 #### b. Si la salvación (ser salvo de la pena de nuestro pecado) se recibe a través de algún tipo de trato o intercambio que hacemos con Dios, ya no es un regalo **<u>gratuito</u>**.
+
+
 
 #### c. Romanos 11:6 – “*Y si por gracia, ya no es por obras; de otra manera la gracia ya no es  **<u>gracia</u>** *. …”
 
+
+
 #### d. La buena noticia del evangelio es que **<u>Cristo</u>** se entregó a sí mismo por nuestros pecados, muriendo por nosotros como nuestro sustituto en el Calvario. Nosotros no nos entregamos a Dios; Él se entregó a sí mismo por nosotros.
+
+
 
 ##### 1) Efesios 5:2 – “…*como también Cristo nos amó, y se **<u>entregó</u>** a sí mismo por nosotros, ofrenda y sacrificio a Dios en olor fragante*.”
 
+
+
 ##### 2) Gálatas 2:20b – El “…*Hijo de Dios, el cual me **<u>amó</u>** y se entregó a sí mismo por mí*.”
+
+
 
 #### e. De ningún modo acepta Dios **<u>algo</u>** de ti a cambio de la salvación, no importa cuán sincero seas. No hacemos ninguna contribución o pago a cambio de la salvación. De principio a fin, la salvación es un regalo totalmente gratuito, dado a nosotros sólo por la gracia de Dios cuando creemos.
 
+
+
 ### 10. **Confusión: Pasa al frente y haz una profesión pública de fe**
+
+
 
 #### a. Esta confusión implica que debes hacer una profesión pública **<u>verbal</u>** de tu fe en Cristo a fin de completar tu salvación.
 
