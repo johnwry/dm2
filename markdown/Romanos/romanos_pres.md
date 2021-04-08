@@ -770,7 +770,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom1.18-32.jpg"  data-background-size="cover" data-auto-animate="" data-menu-title="Romanos 1:8-15 - Amor por los Romanos" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom1.18-32.jpg"  data-background-size="cover" data-auto-animate="" data-menu-title="Romanos 1:18-32 - Amor por los Romanos" --> 
 
 
 
@@ -962,7 +962,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### d. Romanos 1:32d – “… *sino que también se complacen con los que las practican*.” Lamentablemente, el **<u>pecador</u>** inmoral incluso llega tan lejos como animar a otros a hacer las cosas que él o ella sabe que merecen la muerte.
+#### d. Romanos 1:32d – “…*sino que también se complacen con los que las practican*.” Lamentablemente, el **<u>pecador</u>** inmoral incluso llega tan lejos como animar a otros a hacer las cosas que él o ella sabe que merecen la muerte.
 
 
 
@@ -976,25 +976,45 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 ## B. Romanos 2:1-16 – El juicio de Dios del pecador moral
 
+
+
 ### 1. Romanos 2:1-3 – La **<u>opinión</u>** de Dios acerca de los pecadores morales
+
+
 
 #### a. Romanos 2:1 – Pablo demostró que los individuos morales que desvergonzadamente **<u>juzgan</u>** a los “pecadores inmorales” también son culpables.
 
+
+
 ##### 1) Romanos 2:1a – “ *Por lo cual eres inexcusable, oh hombre, quienquiera que seas tú que  juzgas *;…” Los pecadores morales que **<u>pronuncian</u>** juicio sobre otros son inexcusables.
+
+
 
 ##### 2) Romanos 2:1b – “…*pues en lo que juzgas a otro, te condenas a ti mismo; porque tú que juzgas haces lo mismo *.” Los pecadores morales se condenan a sí mismos, porque hacen las **<u>mismas</u>** cosas que los que ellos critican.
 
+
+
 #### b. Romanos 2:2-3 – El juicio de Dios sobre los pecadores morales es **<u>correcto</u>**.
+
+
 
 ##### 1) Romanos 2:2 – “* Y sabemos que el juicio de Dios justamente **<u>cae</u>** sobre los que practican tales cosas*.” *[LBLA] *Aquellos que apuntan con el dedo a otros y, sin embargo, cometen pecados similares merecen justamente el juicio de Dios.
 
+
+
 ##### 2) Romanos 2:3a – “ *¿Y piensas esto, oh hombre, tú que juzgas a los que tal hacen,…?”* Los pecadores morales usan su propia ley para compararse con otros que piensan que son **<u>peores</u>** que ellos. Por supuesto, ellos siempre ganan la partida.
+
+
 
 ##### 3) Romanos 2:3b – “ *…y haces lo mismo, que tú escaparás del juicio de Dios?”* De todas formas, los pecadores morales son inexcusables. Cuando juzgan a otros, ellos **<u>prueban</u>** que distinguen lo correcto de lo incorrecto; y, sin embargo, cometen los mismos pecados que hacen otros y que ellos condenan. Eclesiastés 12:14, Mateo 12:36
 
+
+
 ### 2. Romanos 2:4-6 – La **<u>misericordia</u>** de Dios sobre los pecadores morales
 
-#### a. Romanos 2:4a – “* ¿O menosprecias las riquezas de su benignidad, paciencia y  longanimidad,…?” * Sólo porque Dios es **<u>paciente</u>** con los pecadores morales no significa que Él apruebe lo que están haciendo.
+
+
+#### a. Romanos 2:4a – “* ¿O menosprecias las riquezas de su benignidad, paciencia y  longanimidad,…?” *Sólo porque Dios es **<u>paciente</u>** con los pecadores morales no significa que Él apruebe lo que están haciendo.
 
 #### b. Romanos 2:4b – “… *ignorando que su benignidad te guía al arrepentimiento?”* Dios es tolerante con los pecadores morales porque Él quiere que cambien de **<u>pensamiento</u>** y confíen en Su bondad en lugar de confiar en la suya propia.
 
