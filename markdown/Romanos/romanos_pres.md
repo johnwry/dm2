@@ -1,4 +1,4 @@
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/cover.png"  data-background-size="contain" data-auto-animate="" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/cover.png"  data-background-size="contain" data-auto-animate="" data-menu-title="inicio" --> 
 <small>
 ROMANOS 1-8  <!-- .element: style="color:white;" -->
 Versión: Romanos 5.5
@@ -119,7 +119,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom-intro.jpg" data-auto-animate="" data-background-size="cover" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom-intro.jpg" data-auto-animate="" data-background-size="cover" data-menu-title="Introducción"  --> 
 
 
 
@@ -394,7 +394,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom1.1-7.jpeg" data-auto-animate="" data-background-size="cover" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom1.1-7.jpeg" data-auto-animate="" data-background-size="cover"  data-menu-title="Romanos 1:1-17 Dirigiéndose a la Iglesia en Roma"  --> 
 
 
 
