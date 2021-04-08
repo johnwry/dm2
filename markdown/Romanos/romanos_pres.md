@@ -115,7 +115,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-# Romanos 1-8 
+# Romanos 1-8 <!-- .element: class="r-fit-text" -->
 
 
 
@@ -125,7 +125,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 # I. Introducción
 
-## A. Importancia del libro de Romanos
+## A. Importancia del libro de Romanos  <!-- .element: class="fragment" -->
 
 
 
