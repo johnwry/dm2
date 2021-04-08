@@ -281,8 +281,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/colosseum_ico.png" data-background-size="400px" data-background-position="left" -->
-
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/colosseum_ico.png" data-background-size="200px" data-background-position="right" -->
 ## B. La ciudad de Roma
 
 
@@ -311,6 +310,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/paul.jpeg" data-background-size="200px" data-background-position="right" -->
 ## C. Autor, localización y fecha de escritura
 
 
