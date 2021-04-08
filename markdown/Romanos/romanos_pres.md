@@ -4330,7 +4330,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-### 3. Romanos 8:9c – * “…Y si alguno no tiene el Espíritu de Cristo, no es de él*.” Cualquier persona que no posee el Espíritu Santo no **<u>pertenece</u>** a Cristo, punto. 1 Corintios 12:13
+### 3. Romanos 8:9c – *“…Y si alguno no tiene el Espíritu de Cristo, no es de él*.” Cualquier persona que no posee el Espíritu Santo no **<u>pertenece</u>** a Cristo, punto. 1 Corintios 12:13
 
 
 
@@ -7215,7 +7215,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### a. En aquel día, a Dios le gustaría decirte lo que Mateo 25:23 dice, “… *Bien* **<u>hecho</u>**, *buen siervo y fiel*;…” Pero si caminas por la carne, podrías entrar al cielo sin nada de valor que mostrar por tu vida. 1 Corintios 3:15, 9:24-27; 2 Corintios 5:9-11; 2 Timoteo 4:6-8
+#### a. En aquel día, a Dios le gustaría decirte lo que Mateo 25:23 dice, “…*Bien* **<u>hecho</u>**, *buen siervo y fiel*;…” Pero si caminas por la carne, podrías entrar al cielo sin nada de valor que mostrar por tu vida. 1 Corintios 3:15, 9:24-27; 2 Corintios 5:9-11; 2 Timoteo 4:6-8
 
 
 
@@ -7227,7 +7227,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### a. Himeneo y Alejandro son ejemplos de dos personas que sufrieron las consecuencias de alejarse de lo que alguna vez creyeron. No perdieron su salvación, pero 1 Timoteo 1:19-20 muestra cómo, a través de la disciplina de la iglesia, fueron entregados* *a **<u>Satanás</u>** para la destrucción de sus cuerpos (no de sus espíritus) para que “… *aprendan a no blasfemar*.”
+#### a. Himeneo y Alejandro son ejemplos de dos personas que sufrieron las consecuencias de alejarse de lo que alguna vez creyeron. No perdieron su salvación, pero 1 Timoteo 1:19-20 muestra cómo, a través de la disciplina de la iglesia, fueron entregados *a **<u>Satanás</u>** para la destrucción de sus cuerpos *(no de sus espíritus)* para que“…aprendan a no blasfemar*.”
 
 
 
@@ -7235,7 +7235,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-### 9. Pérdida: **Conocimiento de la Verdad** – Tristemente, los creyentes carnales pueden **<u>olvidar</u>** las verdades de la Palabra de Dios y retroceder en sus vidas cristianas. 2 Pedro 1:12-15
+### 9. Pérdida: **Conocimiento de la Verdad**  – Tristemente, los creyentes carnales pueden **<u>olvidar</u>** las verdades de la Palabra de Dios y retroceder en sus vidas cristianas. 2 Pedro 1:12-15
 
 
 
@@ -7243,7 +7243,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### b. En 1 Timoteo 6:20-21, Pablo advirtió a su hijo espiritual diciendo, “* Oh Timoteo, guarda lo que se te ha encomendado, evitando las profanas pláticas sobre cosas vanas, y los argumentos de la falsamente llamada ciencia*, *la cual profesando algunos, se **<u>desviaron</u>** de la fe. …*”
+#### b. En 1 Timoteo 6:20-21, Pablo advirtió a su hijo espiritual diciendo, “*Oh Timoteo, guarda lo que se te ha encomendado, evitando las profanas pláticas sobre cosas vanas, y los argumentos de la falsamente llamada ciencia*, *la cual profesando algunos, se **<u>desviaron</u>** de la fe. …*”
 
 
 
