@@ -281,7 +281,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/coloseum.png" data-background-size="200px" data-background-position="left" data-auto-animate=""-->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/coloseum.png" data-background-size="200px" data-background-position="left" data-auto-animate="" -->
 ## B. La ciudad de Roma
 
 
