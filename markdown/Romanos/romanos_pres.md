@@ -400,7 +400,6 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-
 ## E. Los destinatarios del libro  <i class="fas fa-book-reader"></i>
 
 
