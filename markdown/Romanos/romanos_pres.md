@@ -119,7 +119,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom-intro.jpg" data-auto-animate="" data-background-size="auto" data-menu-title="Introducción" data-id="1" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom-intro.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="Introducción" data-id="1" --> 
 
 
 
@@ -353,7 +353,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### b. Si el libro de Romanos fue escrito en el año 57 d. C., habría sido escrito durante la primera parte del reinado de**<u>Nerón</u>**, quien fue César en los años 54-68 d.C. 
+#### b. Si el libro de Romanos fue escrito en el año 57 d. C., habría sido escrito durante la primera parte del reinado de **<u>Nerón</u>**, quien fue César en los años 54-68 d.C. 
 
 
 
