@@ -359,12 +359,12 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<i class="fas fa-pen-nib"></i>
-## D. El propósito de Pablo para escribir Romanos
+
+## D. El propósito de Pablo para escribir Romanos <i class="fas fa-pen-nib"></i>
 
 
 
-### 1. A pesar de que él era un ciudadano romano, Pablo jamás había visitado la iglesia romana, por lo tanto, escribió para prepararlos para una posible**<u>visita</u>**. Romanos 1:8-13, Hechos 19:21 
+### 1. A pesar de que él era un ciudadano romano, Pablo jamás había visitado la iglesia romana, por lo tanto, escribió para prepararlos para una posible **<u>visita</u>**. Romanos 1:8-13, Hechos 19:21 
 
 
 
@@ -372,11 +372,11 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### b. Romanos 1:11 – Pablo quería visitar para*comunicarles algún **<u>don</u>** espiritual*. 
+#### b. Romanos 1:11 – Pablo quería visitar para *comunicarles algún **<u>don</u>** espiritual*. 
 
 
 
-#### c. Romanos 1:13 – Pablo quería ***<u>segar</u>*** * alguna cosecha* en Roma. En otras palabras, él quería compartir el evangelio en Roma. Hechos 28:17-31, 1 Corintios 9:15-18 
+#### c. Romanos 1:13 – Pablo quería * **<u>segar</u>** * *alguna cosecha* en Roma. En otras palabras, él quería compartir el evangelio en Roma. Hechos 28:17-31, 1 Corintios 9:15-18 
 
 
 
@@ -400,7 +400,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-## E. Los destinatarios del libro
+## E. Los destinatarios del libro  <i class="fas fa-book-reader"></i>
 
 
 
