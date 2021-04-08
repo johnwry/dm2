@@ -526,7 +526,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom1.1-7.jpeg" data-auto-animate="" data-background-size="auto"  data-menu-title="Romanos 1:1-17 Dirigiéndose a la Iglesia en Roma"  --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom1.1-7.jpeg" data-auto-animate="" data-background-size="80%"  data-menu-title="Romanos 1:1-17 Dirigiéndose a la Iglesia en Roma"  --> 
 
 
 
@@ -706,7 +706,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom1.8-15.jpeg"  data-background-size="auto" data-auto-animate="" data-menu-title="Romanos 1:8-15 - Amor por los Romanos" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom1.8-15.jpeg"  data-background-size="80%" data-auto-animate="" data-menu-title="Romanos 1:8-15 - Amor por los Romanos" --> 
 
 
 
@@ -826,7 +826,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom1.16-17.001.jpeg"  data-background-size="auto" data-auto-animate="" data-menu-title="Romanos 1:16-17 - Una pasión por el Evangelio" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom1.16-17.001.jpeg"  data-background-size="80%" data-auto-animate="" data-menu-title="Romanos 1:16-17 - Una pasión por el Evangelio" --> 
 
 
 
@@ -902,7 +902,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom1.18-32.jpg"  data-background-size="auto" data-auto-animate="" data-menu-title="Romanos 1:18-32 - Amor por los Romanos" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom1.18-32.jpg"  data-background-size="80%" data-auto-animate="" data-menu-title="Romanos 1:18-32 - Amor por los Romanos" --> 
 
 
 
@@ -1098,7 +1098,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom2.1-16.jpg" data-auto-animate="" data-background-size="auto" data-menu-title="Romanos 2:1-16 - El juicio de Dios por el pecador moral" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom2.1-16.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="Romanos 2:1-16 - El juicio de Dios por el pecador moral" --> 
 
 
 
@@ -1148,65 +1148,121 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 #### a. Romanos 2:4a – “* ¿O menosprecias las riquezas de su benignidad, paciencia y  longanimidad,…?” *Sólo porque Dios es **<u>paciente</u>** con los pecadores morales no significa que Él apruebe lo que están haciendo.
 
+
+
 #### b. Romanos 2:4b – “… *ignorando que su benignidad te guía al arrepentimiento?”* Dios es tolerante con los pecadores morales porque Él quiere que cambien de **<u>pensamiento</u>** y confíen en Su bondad en lugar de confiar en la suya propia.
+
+
 
 #### c. Romanos 2:5a – “*  Pero por tu dureza y por tu corazón no arrepentido, atesoras para ti mismo ira…”* Los pecadores morales serán juzgados por su **<u>orgullo</u>** , porque rechazan tercamente la bondad de Dios y se niegan a cambiar de opinión cuando Él los convence de su pecado.
 
+
+
 #### d. Romanos 2:5b – “ *…para el día de la ira y de la revelación del justo juicio de Dios* ,” En el Día del Juicio, Dios dará un **<u>veredicto</u>** preciso sobre las acciones de todo pecador moral.
+
+
 
 #### e. Romanos 2:6 – “*el cual pagará a cada uno conforme a sus obras*:” Como **<u>juez</u>** perfecto y confiable, Dios le dará a cada persona exactamente lo que se merece, nada más y nada menos.
 
+
+
 ### 3. Romanos 2:7-11 – La **<u>imparcialidad</u>** de Dios con los pecadores morales
+
+
 
 #### a. Romanos 2:7-10 – El juicio de Dios no es **<u>parcial</u>**. Él juzgará a todos los pecadores justa y objetivamente, ya sea que hubiesen sido considerados morales o inmorales durante su vida en la tierra.
 
+
+
 ##### 1) Romanos 2:7 – “*vida eterna a los que, perseverando en bien hacer, buscan gloria y  honra e inmortalidad* .” Dios, el Juez justo, **<u>recompensará</u>** con la vida eterna a todas y cada una de las personas que lo merezcan, porque continuamente hicieron lo que era bueno cada minuto de cada día de su vida entera. Romanos 2:10
+
+
 
 ###### a) La pregunta es, ¿podemos encontrar a alguien en esta categoría que siempre sea bueno? ¿Puede alguien merecer la vida eterna por su propia obediencia? Romanos 3:10-12, 23
 
+
+
 ###### b) Eclesiastés 7:20 dice, “ *Ciertamente no hay hombre justo en la tierra, que haga el bien y  **<u>nunca</u>** peque * .”
+
+
 
 ###### c) Isaías 64:6 dice, “*Si bien todos nosotros somos como suciedad * [por nuestros pecados],* y todas nuestras justicias *[nuestros mejores esfuerzos]* como trapo de inmundicia.*” Este versículo revela un **<u>problema</u>** doble para toda la humanidad. Uno, todos hemos pecado; y dos, nuestros mejores esfuerzos son lastimosamente inadecuados.
 
+
+
 ##### 2) Romanos 2:8 – “* pero ira y enojo a los que son contenciosos y no obedecen a la verdad,  sino que obedecen a la injusticia * ;” Si bien es cierto que Dios **<u>recompensaría</u>** a todos los que hacen el bien con la vida eterna (versículo 7), es igualmente cierto que Dios castigará imparcialmente con ira y furia a todos los que pecan. Santiago 2:10
+
+
 
 ##### 3) Romanos 2:9 – “* tribulación y angustia sobre todo ser humano que hace lo malo, el judío primeramente y también el griego*,” Todos los que pecan serán juzgados. No importa quienes son, judíos o griego. Si han pecado, serán juzgados, y el pago por el pecado es **<u>muerte</u>** eterna en el Lago de Fuego. Esto hace necesaria la salvación de Dios.
 
+
+
 ##### 4) Romanos 2:10 – “*  pero gloria y honra y paz a todo el que hace lo bueno, al judío primeramente y también al griego *,” El apóstol Pablo repitió que si una persona persistía sin **<u>fallar</u>** en ser bueno todos los días de su vida, Dios el juez justo, recompensaría a tal persona con la vida eterna.
+
+
 
 #### b. Romanos 2:11 – “*Porque no hay acepción de personas para con Dios*.” Dios es un **<u>juez</u>** justo, imparcial y objetivo. Si alguien mereciera vida eterna por alcanzar la perfección de alguna manera, Dios sin vacilar les concedería vida eterna.
 
+
+
 ### 4. Romanos 2:12-16 – El juicio **<u>perfecto</u>** de Dios sobre los pecadores morales
+
+
 
 #### a. Romanos 2:12 – Todo pecador debe enfrentar la pena por el pecado, la cual es la **<u>muerte</u>**. Romanos 6:23
 
+
+
 ##### 1) Romanos 2:12a – “* Porque todos los que sin ley han pecado, sin ley también perecerán;…”* Todo el que peca sin conocimiento de las leyes de Dios **<u>perecerá</u>**. Romanos 5:12-14, Santiago 1:15
+
+
 
 ##### 2) Romanos 2:12b – “… *y todos los que bajo la ley han pecado, por la ley serán juzgados*;” Toda persona que conoce las leyes de Dios y sin embargo las **<u>quebranta</u>**, será juzgada de acuerdo a la Ley de Dios y declarada culpable. 1 Corintios 15:56, Santiago 2:10
 
+
+
 #### b. Romanos 2:13 – El pecador moral puede tener todas las respuestas correctas, pero Dios juzga de acuerdo a las **<u>acciones</u>** de uno, no simplemente de acuerdo con las palabras de uno.
+
+
 
 ##### 1) Romanos 2:13a – “ *Porque no son los oidores de la ley los justos ante Dios,*…” Algunos podrían pensar erróneamente que serán aceptados por Dios simplemente porque están familiarizados con la Ley del Antiguo Testamento o porque pueden hablar con conocimiento acerca de los Diez Mandamientos. Pero el conocimiento de la ley no **<u>justifica</u>** a una persona.
 
+
+
 ##### 2) Romanos 2:13b – “… *sino los hacedores de la ley serán justificados*.” Para que un pecador moral sea declarado justo delante Dios por la Ley, él o ella necesitaría ser un perfecto **<u>hacedor</u>** de la Ley.
+
+
 
 ###### a) Para ganar la vida eterna por obras, una persona tendría que obedecer perfectamente las leyes de Dios en **<u>cada</u>** momento de su vida. La justicia de Dios no puede ser ignorada o anulada. Romanos 2:16, 3:19-20; Gálatas 5:4; Santiago 2:10
 
+
+
 ###### b) Romanos 2:7 declara que si quieres **<u>ganar</u>** la vida eterna haciendo buenas obras, tienes que hacerlo “ *perseverando en bien hacer”*. En otras palabras, tienes que obedecer continuamente toda la Ley a lo largo de toda tu vida. Esto es algo que ningún humano, excepto Jesucristo, ha logrado jamás. Eclesiastés 7:20
+
+
 
 #### c. Romanos 2:14-15 – En el Día del Juicio, Dios utilizará la conciencia humana como **<u>testigo</u>** contra los pecadores morales. Apocalipsis 20:11-15
 
+
+
 ##### 1) Romanos 2:14 – “ *  Porque cuando los gentiles que no tienen ley, hacen por naturaleza lo que es de la ley, éstos, aunque no tengan ley, son ley para sí mismos,* ” Aquellos que no tienen los Diez Mandamientos serán juzgados basado en una comprensión natural del bien y el mal, que todas las personas en todas partes **<u>poseen</u>**.
+
+
 
 ##### 2) Romanos 2:15a – “ *mostrando la obra de la ley escrita en sus corazones,*…” Cuando las personas que no tienen la Ley escrita, instintivamente hacen lo que la Ley de Dios dice, **<u>prueban</u>** que tienen la Ley escrita en sus corazones. Ellos no serán excusados basados en la ignorancia.
 
+
+
 ##### 3) Romanos 2:15b – “…*dando testimonio su conciencia, y acusándoles o defendiéndoles sus  razonamientos*,” La conciencia de una persona es su **<u>juez</u>** constante. Dentro de la mente, la conciencia está siempre acusando o felicitando al individuo.
+
+
 
 #### d. Romanos 2:16 – En el futuro, en el Juicio del Gran Trono Blanco, usando la conciencia como testigo, Cristo revelará los **<u>secretos</u>** de la gente. “*en el día en que Dios juzgará por Jesucristo los secretos de los hombres, conforme a mi evangelio*.” Los pecadores morales serán condenados porque Dios es consciente de todos sus pensamientos y pecados secretos. 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom2.17-16.jpg" data-auto-animate="" data-background-size="auto" data-menu-title="Romanos 2:17-29 - El juicio de Dios sobre el pecador religioso" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom2.17-16.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="Romanos 2:17-29 - El juicio de Dios sobre el pecador religioso" --> 
 
 
 
@@ -1228,79 +1284,149 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 #### b. Romanos 2:17b – “…*y te apoyas en la ley,*…” Los pecadores religiosos en el judaísmo se apoyaban en la **<u>Ley</u>** del Antiguo Testamento para obtener justicia
 
+
+
 #### c. Romanos 2:17c – “…*y te glorías en Dios,”* Se **<u>enorgullecían</u>** de tener al Dios verdadero como su deidad nacional o étnica.
+
+
 
 #### d. Romanos 2:18a – “*y conoces su voluntad,…”* Estos pecadores religiosos afirmaban saber cómo **<u>agradar</u>** a Dios. Se enorgullecían de saber lo que uno debe y no debe hacer para honrar a Dios.
 
+
+
 #### e. Romanos 2:18b – “…*e instruido por la ley…” *En este caso, estos pecadores religiosos tenían confianza en sí mismos porque tenían la misma Ley de Dios, la **<u>norma</u>** más precisa de todas.
+
+
 
 #### f. Romanos 2:18c – “…*apruebas lo mejor,” *Las personas religiosas siempre aseguran **<u>saber</u>** lo que una persona debe hacer para ser aceptable ante Dios.
 
+
+
 #### g. Romanos 2:19-20 – Los pecadores religiosos están convencidos de que ellos son expertos con respecto a cosas espirituales. Parafraseando, Pablo dijo de estos practicantes religiosos judíos, “Tú … *confías en que eres* un **<u>regalo</u>** de Dios a la humanidad.”
+
+
 
 ##### 1) Romanos 2:19a – “…*guía de los ciegos,*…” Las personas religiosas se ven a sí mismas sin rival en la **<u>guía</u>** de almas pobres y sin discernimiento a Dios.
 
+
+
 ##### 2) Romanos 2:19b – “…*luz de los que están en tinieblas*,” Puesto que están seguros de que **<u>poseen</u>** la verdad, quieren iluminar el camino para los no informados.
+
+
 
 ##### 3) Romanos 2:20a – “*instructor de los indoctos,*…” Las personas religiosas se sienten **<u>calificadas</u>** para determinar qué está bien y qué está mal para las masas ignorantes.
 
+
+
 ##### 4) Romanos 2:20b – “…*maestro de niños,*…” Suponiendo de que ellos son la élite **<u>madura</u>** y privilegiada, las personas religiosas hacen de la capacitación de bebés espirituales su prioridad.
+
+
 
 ##### 5) Romanos 2:20c – “… *que tienes en la ley la forma de la ciencia y de la verdad*.”Armados con una gran abundancia de verdad bíblica, estos **<u>elitistas</u>** religiosos se vuelven auto engañados y arrogantes.
 
+
+
 ### 2. Romanos 2:21-23 – ¿Cuál es la evaluación de Dios de los pecadores religiosos?
+
+
 
 #### a. Romanos 2:21a – “ *Tú, pues, que enseñas a otro, ¿no te enseñas a ti mismo?...”* Los pecadores religiosos presumen ser espiritualmente responsables del destino eterno de otros (los ciegos, los ensombrecidos, los necios y los inmaduros) mientras ignoran sus propias deficiencias espirituales y su condición **<u>perdida</u>**.
 
+
+
 ##### 1) Dios le pregunta al pecador religioso si practica lo que **<u>predica</u>**.
+
+
 
 ##### 2) Pablo desafió a los pecadores religiosos a que se examinaran a sí mismos de forma personal y cercana, y que aplicaran las leyes de Dios **<u>primeramente</u>** a ellos mismos. 1 Timoteo 1:8-11
 
+
+
 #### b. Romanos 2:21b – “… *Tú que predicas que no se ha de hurtar, ¿hurtas?”* Pablo alentó a los pecadores religiosos, quienes insistían en que era incorrecto robar, a que se **<u>observaran</u>** a sí mismos con honestidad. ¿Habían sido alguna vez culpables de robo?
+
+
 
 #### c. Romanos 2:22a – “ *Tú que dices que no se ha de adulterar, ¿adulteras?...”* Prácticamente todas las personas religiosas dicen que está **<u>mal</u>** cometer adulterio, así que Pablo los puso en la mira al preguntarles directamente si alguna vez habían cometido adulterio.
 
+
+
 ##### 1) En Mateo 5:28 Jesús confrontó este mismo problema cuando dijo,*“Pero yo os digo que cualquiera que mira a una mujer para  **<u>codiciarla</u>**, ya adulteró con ella en su  corazón.”*
+
+
 
 ##### 2) ¿Han vivido los pecadores religiosos su vida entera sin jamás haber mirado con lujuria a otra persona? Pablo quería **<u>demostrar</u>** a los pecadores religiosos que ellos eran tan culpables como aquellos a quienes intentaban corregir y convertir.
 
+
+
 #### d. Romanos 2:22b – “…*Tú que abominas de los ídolos, ¿cometes  **<u>sacrilegio</u>**?” * Pablo señaló la hipocresía de estos pecadores religiosos.
+
+
 
 ##### 1) Una práctica común, que se remonta a los días del Imperio griego, era aquella de **<u>saquear</u>** templos, ya que muchos templos albergaban grandes tesoros. Muchos judíos religiosos razonaron que dado que los dioses extraños no eran realmente reales, era totalmente aceptable saquear sus templos.
 
+
+
 ##### 2) Estaban orgullosos porque no adoraban ídolos, pero al mismo tiempo, estaban robando. Guardaban una ley y **<u>quebrantaban</u>** otra.
+
+
 
 #### e. Romanos 2:23 – “* Tú que te jactas de la ley, ¿con infracción de la ley deshonras a Dios?”* Estos pecadores religiosos trajeron deshonra a Dios por su hipocresía. Por un lado, afirmaban que estaba mal adorar **<u>ídolos</u>**, pero por el otro justificaban su práctica de robo.
 
+
+
 ##### 1) Cuando las personas religiosas se **<u>jactan</u>** de su conocimiento de la Biblia pero fallan en vivir de acuerdo con lo que la Biblia dice, deshonran a Dios.
+
+
 
 ##### 2) Las acciones de los pecadores religiosos **<u>anulan</u>** sus palabras, causando que las personas rechacen al Dios de la Biblia.
 
+
+
 ### 3. Romanos 2:24-29 – La reprensión de Pablo a los pecadores religiosos
+
+
 
 #### a. Romanos 2:24 – “* Porque como está escrito, el nombre de Dios es blasfemado entre los  gentiles por causa de vosotros.”* La hipocresía de los pecadores religiosos judíos convirtió el nombre de Dios en una palabra de **<u>maldición</u>** cotidiana.
 
+
+
 #### b. Romanos 2:25-27 – Pablo demostró cómo la hipocresía de los devotos religiosos judíos invalidó el **<u>ritual</u>** de la circuncisión. Los pecadores religiosos frecuentemente destruyen el verdadero significado de los rituales legítimos.
+
+
 
 ##### 1) Romanos 2:25a – “ *Pues en verdad la circuncisión aprovecha, si guardas la ley;*…” La circuncisión era un ritual que identificaba a un hombre como judío, uno de los del pueblo **<u>elegido</u>** por Dios. Pero Pablo dijo que la circuncisión solo era valiosa si la persona cumplía la Ley en su totalidad.
 
+
+
 ##### 2) Romanos 2:25b – “*...pero si eres transgresor de la ley, tu circuncisión viene a ser incircuncisión*.” Si un varón circuncidado no se preocupaba por Dios o seguía Su Ley, su circuncisión no significaba **<u>nada</u>**. Bien podría no ser circuncidado. Romanos 9:6-8, Jeremías 9:24-25
+
+
 
 ##### 3) Romanos 2:26 – Lo contrario también era cierto.* “Si, pues, el incircunciso guardare las ordenanzas de la ley, ¿no será tenida su incircuncisión como circuncisión?”* Si un gentil incircuncidado obedecía la ley de Dios, la gente naturalmente lo **<u>consideraría</u>** como circuncidado.
 
+
+
 ##### 4) Romanos 2:27 – “* Y el que físicamente es incircunciso, pero guarda perfectamente la ley, te condenará a ti, que con la letra de la ley y con la circuncisión eres transgresor de la ley*.” Si un gentil guardaba la Ley, sería un **<u>testigo</u>** válido contra el judío circuncidado que no la guardaba.
+
+
 
 #### c. Romanos 2:28-29 – Un ritual externo como la circuncisión, el bautismo o la comunión puede hacerte un judío, un protestante o un católico (etc.) de nombre, pero no te transformará en el **<u>interior</u>**. 1 Samuel 16:7
 
+
+
 ##### 1) Romanos 2:28 – De hecho, Pablo dijo,* “Pues no es judío el que lo es exteriormente, ni es la circuncisión la que se hace exteriormente en la carne*.” Un ritual externo, como la circuncisión, no produce un **<u>cambio</u>** interno o espiritual.
 
+
+
 ##### 2) Romanos 2:29a – “* Sino que es judío el que lo es en lo interior, y la circuncisión es la del corazón, en espíritu, no en letra;…”*Solo la *circuncisión* *del corazón*, [hecha] por el *Espíritu* en la salvación tiene **<u>poder</u>** transformador. Deuteronomio 30:6, Jeremías 4:4, Filipenses 3:3, Tito 3:5
+
+
 
 ##### 3) Romanos 2:29b – “… *la alabanza del cual no viene de los hombres, sino de Dios*.” Solo la persona nacida de nuevo que ha recibido cirugía espiritual en su corazón por medio del Espíritu Santo trae **<u>honor</u>** a Dios. Efesios 1:13-14
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom3.1-8.jpg" data-auto-animate="" data-background-size="auto" data-menu-title="Romanos 3:1-8 - Pablo anticipó preguntas concernientes a los pecadores" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom3.1-8.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="Romanos 3:1-8 - Pablo anticipó preguntas concernientes a los pecadores" --> 
 
 
 
@@ -1310,51 +1436,93 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 ## D. Romanos 3:1-8 – Pablo anticipó preguntas concernientes a los pecadores religiosos
 
+
+
 ### 1. Romanos 3:1-2 – Pablo anticipó la primera pregunta, que concernía a Israel. Puesto que Pablo utilizó a su propia gente como un ejemplo negativo de los pecadores religiosos, alguien podría preguntar, “¿Qué de bueno hay en ser **<u>judío</u>** entonces?”
+
+
 
 #### a. Romanos 3:1 – “* ¿Qué ventaja tiene, pues, el judío? ¿O de qué aprovecha la circuncisión?”* ¿Había algún beneficio en ser un israelita? La respuesta de Pablo fue **<u>sí</u>**.
 
+
+
 #### b. Romanos 3:2 – “*Mucho, en todas maneras. Primero, ciertamente, que les ha sido confiada la palabra de Dios*.” La principal ventaja que el judío tenía, a diferencia del gentil, era la posesión de las Escrituras del Antiguo Testamento. El Antiguo Testamento preparó misericordiosamente a Israel para confiar en Jesús el **<u>Mesías</u>**. Juan 5:39, 46; Gálatas 3:24
+
+
 
 ### 2. Romanos 3:3-4 – Una segunda pregunta concerniente a los pecadores religiosos que Pablo anticipó fue esta: “Si los pecadores religiosos son hipócritas, ¿Hacen a Dios un **<u>mentiroso</u>**?” Cuando las personas religiosas son hipócritas, ¿Invalidan a Dios?
 
+
+
 #### a. Romanos 3:3 – “*¿Pues qué, si algunos de ellos han sido incrédulos? ¿Su incredulidad habrá hecho nula la fidelidad de Dios?” *Si una persona religiosa posee la verdad bíblica pero no la **<u>cree</u>** o no la maneja correctamente, ¿Elimina eso de alguna manera la fidelidad de Dios? Por supuesto, la respuesta es no.
+
+
 
 #### b. Romanos 3:4a – *“De ninguna manera;…”* Cuando los pecadores religiosos demuestran que no creen en el Dios que predican, esto genera **<u>dudas</u>** con respecto a la confiabilidad de Dios, pero Pablo enfatizó que Dios nunca es el culpable.
 
+
+
 #### c. Romanos 3:4b – *“…antes bien sea Dios veraz, y todo hombre mentiroso**;…”* A pesar de la hipocresía de los pecadores religiosos, Dios siempre dice la **<u>verdad</u>**. Dios siempre es justo y es bueno, incluso cuando aquellos que dicen seguirlo no caminan de acuerdo a Su verdad. Salmos 116:11, Romanos 2:21-24
+
+
 
 #### d. Romanos 3:4c – “…*como está escrito: Para que seas justificado en tus palabras, Y venzas cuando fueres juzgado.”* Esta cita del Antiguo Testamento confirma que cada vez que la integridad de Dios sea cuestionada, Dios siempre tendrá la **<u>razón</u>**.
 
+
+
 ### 3. Romanos 3:5-8 – Una tercera pregunta podría ser, “¿Va Dios demasiado lejos cuando condena a los pecadores religiosos?”
+
+
 
 #### a. Romanos 3:5 – “* Y si nuestra injusticia hace resaltar la justicia de Dios, ¿qué diremos? ¿Será injusto Dios que da castigo? (Hablo como hombre.)”* Una persona religiosa podría concluir: “Estoy ayudando a Dios cuando peco, porque mis errores magnifican la **<u>bondad</u>** de Dios”. **<u></u>**
 
+
+
 ##### 1) Cuando la convicción es profunda, las personas religiosas **<u>defienden</u>** sus fallas con excusas baratas y ridículas. Génesis 3:12**<u></u>**
+
+
 
 ##### 2) ¿Cómo deberíamos responder si alguien **<u>afirma</u>** que su conducta pecaminosa es buena, ya que eleva la justicia de Dios? **<u></u>**
 
+
+
 #### b. Romanos 3:6a – Una vez más, la respuesta de Pablo fue: “ *En ninguna manera;…*”. Nuestros actos pecaminosos no promueven el nombre de Dios ni Sus objetivos. Nuestro pecado nunca **<u>beneficia</u>** a Dios ni Dios jamás condona el pecado.
+
+
 
 #### c. Romanos 3:6b – *“…de otro modo, ¿cómo juzgaría Dios al mundo?”* Si en ocasiones Dios excusara el pecado porque de alguna manera lo beneficiara a Él, Él no sería un **<u>juez</u>** objetivo y justo.
 
+
+
 #### d. Romanos 3:7 – Los pecadores religiosos siempre buscan formas de **<u>excusarse</u>** a sí mismos. “* Pero si por mi mentira la verdad de Dios abundó para su gloria, ¿por qué aún soy juzgado como pecador?*”
+
+
 
 ##### 1) Esta pregunta **<u>necia</u>** es, “¿Cómo puede Dios juzgarme por ser un pecador si mi pecado de alguna manera lo beneficia a Él?” Pablo no se tomó el tiempo para responder esta pregunta.
 
+
+
 ##### 2) Al rehusarse a responder, Pablo expuso la locura de pensar que una mentira pudiera **<u>beneficiar</u>** a Dios. Proverbios 26:4-5
+
+
 
 #### e. Romanos 3:8a – Si Pablo enseñaba que Dios excusaba el pecado por alguna razón, él habría sido **<u>culpable</u>** de enseñar anarquía. Pablo no excusó ningún tipo de ilegalidad, aunque algunos lo acusaron de hacerlo. “* ¿Y por qué no decir (como se nos calumnia, y como algunos afirman que nosotros decimos): Hagamos el mal para que venga el bien?”* [LBLA]**
 
+
+
 #### f. Romanos 3:8b – Pablo dijo que aquellos que lo acusaban de promover el pecado **<u>merecían</u>** el juicio que seguramente iban a obtener. “…*La condenación de los tales es justa.” *[LBLA]
 
+
+
 ##### 1) ¿Por qué habría sido Pablo acusado de promover la anarquía? Cuando un creyente predica la salvación por gracia solamente, sin ningún tipo de obras, los legalistas religiosos pueden fácilmente **<u>acusarlo</u>** de excusar e incluso promover el pecado.
+
+
 
 ##### 2) Si los legalistas religiosos no te acusan de esta manera, probablemente necesites verificar para ver si realmente estás enseñando la **<u>gracia</u>**.
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom3.9-20.jpg" data-auto-animate="" data-background-size="auto" data-menu-title="Romanos 3:9-20 - En conclusion: Todo el mundo es culpable de pecado" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom3.9-20.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="Romanos 3:9-20 - En conclusion: Todo el mundo es culpable de pecado" --> 
 
 
 
@@ -1364,170 +1532,368 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 ## E. Romanos 3:9-20 – En conclusión: Todo el mundo es culpable de pecado.
 
+
+
 ### 1. Romanos 3:9 – Pablo concluyó que todas las **<u>personas</u>**, morales, inmorales y religiosas, son pecadores culpables. “*¿Qué, pues? ¿Somos nosotros *[judíos étnicos] * mejores que ellos *[paganos Gentiles]*  En ninguna manera; pues ya hemos acusado a judíos y a gentiles, que  todos están bajo pecado.”* Gálatas 3:22
+
+
 
 #### a. ¿Con qué autoridad hizo Pablo tan poderoso veredicto?
 
+
+
 #### b. Veremos que Pablo confió exclusivamente en la **<u>Palabra</u>** de Dios para defender su caso.
+
+
 
 ### 2. Romanos 3:10-18 – Pablo acusó a toda la humanidad de **<u>pecado</u>**, ya sea moral, inmoral o religiosa. Las acusaciones de Pablo se centraron en tres áreas: la naturaleza de la humanidad, el discurso de la humanidad y la conducta de la humanidad.
 
+
+
 #### a. Romanos 3:10-12 – El primer conjunto de acusaciones de Pablo se centró en la **<u>naturaleza</u>** corrupta de la humanidad. Según la Palabra de Dios, la naturaleza carnal de la humanidad es totalmente depravada. Efesios 2:1-3
+
+
 
 ##### 1) Romanos 3:10 – Nadie en toda la creación tiene la**<u>aprobación</u>** de Dios. “ *Como está escrito: No hay justo, ni aun uno*;” Salmos 14:1
 
+
+
 ##### 2) Romanos 3:11a – Nadie comprende o entiende realmente la **<u>verdad</u>** de Dios. “*No hay quien entienda,*…” Salmos 53:2a
+
+
 
 ##### 3) Romanos 3:11b – Nadie **<u>busca</u>** a Dios o desea conocerlo. “…*No hay quien busque a Dios*.” Salmos 53:2b, Juan 6:44
 
+
+
 ##### 4) Romanos 3:12a – Todo ser humano ha rechazado a Dios y se ha vuelto**<u>inútil</u>**. *“Todos se desviaron, a una se hicieron inútiles;…”* Salmos 53:3a
+
+
 
 ##### 5) Romanos 3:12b – Nunca ha habido una sola persona que haya hecho lo que es **<u>correcto</u>**. * “…No hay quien haga lo bueno, no hay ni siquiera uno.”* Salmo 53:3b
 
+
+
 #### b. Romanos 3:13-14 – El segundo conjunto de acusaciones de Pablo se centró en lo ofensivo de la **<u>comunicación</u>** verbal de la humanidad. La Biblia muestra que el discurso de la humanidad es totalmente corrupto y destructivo.
+
+
 
 ##### 1) Romanos 3:13a – La fosa de la cual brota el discurso de la humanidad es tan fétido como una **<u>tumba</u>** abierta. “ *Sepulcro abierto es su garganta;*…” Salmos 5:9a
 
+
+
 ##### 2) Romanos 3:13b – La lengua de la humanidad dice continuamente **<u>mentiras</u>**. “…*Con su lengua engañan.*…” Salmos 5:9b
+
+
 
 ##### 3) Romanos 3:13c – Los **<u>labios</u>** de la humanidad, el instrumento que expresa sus pensamientos, esconden el veneno de una serpiente mortal. “…*Veneno de áspides hay debajo de sus labios*;” Salmos 140:3
 
+
+
 ##### 4) Romanos 3:14 – La boca de la humanidad **<u>arroja</u>** profanidades. “*Su boca está llena de maldición y de amargura.”* Salmos 10:7
+
+
 
 #### c. Romanos 3:15-18 – El tercer conjunto de acusaciones de Pablo se centró en las **<u>acciones</u>** de la humanidad. Utilizando las Escrituras, Pablo simplemente mostró cuán perversamente las personas actúan delante Dios.
 
+
+
 ##### 1) Romanos 3:15 – La humanidad se **<u>apresura</u>** a volverse violenta. “*Sus pies se apresuran para derramar sangre*;” Proverbios 6:18, Isaías 59:7a
+
+
 
 ##### 2) Romanos 3:16 – La humanidad deja un **<u>rastro</u>** de fatalidad y desesperación a donde quiera que va. “ *Quebranto y desventura hay en sus caminos*;” Isaías 59:7b
 
+
+
 ##### 3) Romanos 3:17– La humanidad no sabe cómo **<u>vivir</u>** sin guerra. “*Y no conocieron camino de paz*.” Génesis 6:5-7, 11-12, 13; Isaías 59:8
+
+
 
 ##### 4) Romanos 3:18 – La humanidad no **<u>respeta</u>** a Dios. “ *No hay temor de Dios delante de sus ojos*.” Salmos 36:1
 
+
+
 ### 3. Romanos 3:19-20 – Pablo resumió su apreciación de la humanidad. Él demostró que, de acuerdo con la Ley de Dios, judíos y gentiles igualmente son todos ***<u>culpables</u>**** ante Dios*.
+
+
 
 #### a. Romanos 3:19a – “* Pero sabemos que todo lo que la ley dice, lo dice a los que están bajo la ley,…”* Antes que todo, la ley se aplicó a Israel. Estando bajo la **<u>Ley</u>**, experimentaron las consecuencias de su desobediencia de primera mano. Deuteronomio 28:15-68
 
+
+
 #### b. Romanos 3:19b – A pesar de que la Ley fue dada específicamente a Israel, se extendió a todas las personas de todas partes. Pablo dijo que la ley fue dada “…*para que **<u>toda</u>** boca se cierre…”* Dios dio la Ley para que todas las excusas fueran detenidas y la arrogancia del mundo fuera silenciada.
+
+
 
 #### c. Romanos 3:19c – La Ley **<u>hace</u>** que “… *todo el mundo quede bajo el juicio de Dios*;” Dios dio la Ley para que todos en la tierra se volvieran responsables de sus malas acciones.
 
 
+
 #### d. Romanos 3:20a – ”*ya que por las obras de la ley ningún ser humano será justificado delante de él;*…” El **<u>propósito</u>** de los Diez Mandamientos nunca fue hacer justas a las personas, ya que nadie es capaz de cumplir perfectamente la Ley. Hechos 13:39, Gálatas 2:16, Santiago 2:10
+
+
 
 #### e. Romanos 3:20b – “… *porque por medio de la ley es el conocimiento del pecado*.” El propósito de la Ley es **<u>mostrar</u>** la pecaminosidad de la humanidad. 1 Timoteo 1:8-11
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/derecho.jpg" data-auto-animate="" data-background-size="auto" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/derecho.jpg" data-auto-animate="" data-background-size="80%" --> 
 
 
 
 ## F. Hagamos un viaje por la Escuela del Derecho.
 
+
+
 ### 1. Primero que nada, debemos responder la pregunta: “¿Es la Ley (los Diez Mandamientos) mala?”
+
+
 
 #### a. La ley es buena si es utilizada correctamente. La ley debe ser aplicada específicamente a aquellos que aún no son salvos. 1 Timoteo 1:8-9a dice, “ *Pero sabemos que la ley es **<u>buena</u>**,  **si uno la usa legítimamente**; conociendo esto, que la ley no fue dada para el justo, sino para los transgresores y desobedientes,…*”
 
+
+
 #### b. Romanos 7:7 dice, “ *¿Qué diremos, pues? ¿La ley es pecado? En ninguna manera.*” Esto deja claro que la Ley no es **<u>pecaminosa</u>** ni defectuosa.
+
+
+
 
 #### c. Romanos 7:12 dice, “*De manera que la ley a la verdad es santa, y el mandamiento santo, justo y bueno.*” La Biblia confirma que la Ley es **<u>perfecta</u>**.
 
+
+
+
 ### 2. La Ley (los Diez Mandamientos) no fue dada para hacer lo siguiente:
+
+
+
 
 #### a. La Ley no fue dada para **<u>salvar</u>** a las personas de sus pecados. Romanos 8:3 dice, “*Porque lo que era imposible para la ley, por cuanto era débil por la carne, Dios, enviando a su Hijo en semejanza de carne de pecado y a causa del pecado, condenó al pecado en la carne*.” Santiago 2:10
 
+
+
+
 #### b. La Ley no fue dada para **<u>hacer</u>** a una persona justa ante Dios. Romanos 3:28 dice, “* Concluimos, pues, que el hombre es justificado por fe sin las obras de la ley*.” Romanos 3:20; Gálatas 3:11, 2:16; Hebreos 7:19
+
+
+
 
 #### c. La Ley no fue dada para impartir **<u>vida</u>**, ni eterna ni abundante. Gálatas 3:21b dice, “* Porque si la ley dada pudiera vivificar, la justicia fuera verdaderamente por la ley*.”
 
+
+
+
 #### d. La Ley no fue dada para liberar a los creyentes en Cristo del pecado o **<u>santificarlos</u>** en su vida cristiana. Romanos 6:14 dice, “* Porque el pecado no se enseñoreará de vosotros; pues no estáis bajo la ley, sino bajo la gracia.*” Gálatas 3:2, 5, 10; 5:18; Filipenses 3:9
+
+
+
 
 #### e. La Ley no fue dada para ser un manual para la **<u>vida</u>** cristiana. Dios dio Su Espíritu para guiar a los creyentes en Cristo a la piedad. Gálatas 5:18 dice “ *Pero si sois guiados por el Espíritu, no estáis bajo la ley*.” 1 Timoteo 1:8-9a
 
+
+
+
 ### 3. Dios dio la Ley (los Diez Mandamientos) para **<u>hacer</u>** lo siguiente:
+
+
+
 
 #### a. La ley fue dada para **<u>silenciar</u>** toda defensa. Romanos 3:19a dice, “*Pero sabemos que todo lo que la ley dice, lo dice a los que están bajo la ley, para que toda boca se cierre*…”
 
+
+
+
 #### b. La **<u>Ley</u>** fue dada para hacer al mundo entero responsable de sus pecados ante Dios. Romanos 3:19 dice, “*Pero sabemos que todo lo que la ley dice, lo dice a los que están bajo la ley para que… todo el mundo quede bajo el juicio de Dios*;”
+
+
+
 
 #### c. La Ley fue dada para **<u>inculpar</u>** a las personas injustas de pecado. 1 Timoteo 1:8-9a dice, “*Pero sabemos que la ley es buena, si uno la usa legítimamente; conociendo esto, que la ley no fue dada para el justo, sino para los transgresores y desobedientes*,…” Romanos 3:20; 5:20; 7:7, 13b
 
+
+
+
 #### d. La Ley fue dada como un instructor para guiar a los no salvos a confiar solamente en **<u>Cristo</u>** para justificación. Gálatas 3:24-25 dice, “* De manera que la ley ha sido nuestro ayo, para llevarnos a Cristo, a  fin de que fuésemos justificados por la fe. Pero venida la fe, ya no estamos bajo ayo*.”
+
+
+
 
 #### e. La Ley **<u>mantiene</u>** a los pecadores bajo custodia hasta el día en que depositan su fe en Cristo solamente. Gálatas 3:23 dice, “* Pero antes que viniese la fe, estábamos confinados bajo la ley, encerrados para aquella fe que iba a ser revelada*.”
 
+
+
+
 #### f. La Ley fue dada para revelar el carácter santo de Dios en contraste con nuestro estado **<u>pecaminoso</u>**. Fue diseñada para mostrar a la humanidad su necesidad de un Salvador mediador. Éxodo 34:6-7, 20:18-20
+
+
+
 
 #### g. La Ley también resalta las características justas del Mesías. Cristo ni una sola vez quebrantó la ley. Sólo **<u>Cristo</u>** cumplió todas las normas de justicia de la ley. Éxodo capítulos 12 y 25 al 30; Deuteronomio 18:15; Hebreos 7:26-28, 8:4-6, 9:11-14
 
+
+
+
 ### 4. Discutamos la aplicación de la **<u>Ley</u>** (o los Diez Mandamientos).
+
+
+
 
 #### a. La ley debe usarse con aquellos que todavía están en sus **<u>pecados</u>**. 1 Timoteo 1:9 dice,*“…conociendo esto, que la ley no fue dada para el justo, sino para los transgresores y desobedientes, para los impíos y pecadores, para los irreverentes y profanos, para los parricidas y matricidas, para los homicidas.*”
 
+
+
+
 #### b. **<u>Jesús</u>** aplicó la ley correctamente. Él usó la ley para mostrar a la gente que eran pecadores. Jesús aplicó intencionalmente la Ley a aquellos que se consideraban a sí mismos buenos, a fin de mostrarles su necesidad del Salvador. Lucas 18:18-23
+
+
+
 
 #### c. La correcta aplicación de la Ley va de la mano con la obra del Espíritu Santo, ya que Él **<u>convence</u>** al mundo de pecado, justicia y juicio. Juan 16:8 dice, “*Y cuando él venga [el Espíritu Santo], convencerá al mundo de pecado,  de justicia y de juicio*.”
 
+
+
+
 ### 5. Es útil utilizar los Diez Mandamientos de Dios cuando se comparte el **<u>Evangelio</u>**. Cuando se usan apropiadamente, los Diez Mandamientos enseñan a los que no son salvos que no cumplen con los requerimientos justos de Dios y, por lo tanto, necesitan un Salvador. Éxodo 20:1-17; Romanos 3:23, 6:23; Santiago 2:10
+
+
+
 
 #### a. **Ley #1** – “ *No tendrás dioses ajenos delante de mí”* (Ex. 20:3). El Dios de la Biblia es el único Dios vivo y verdadero. El hombre debe **<u>honrarlo</u>** sólo a Él. Isaías 42:8, Mateo 22:37
 
+
+
+
 #### b. **Ley** **#2** – “* No te harás imagen, ni ninguna semejanza de lo que esté arriba en el cielo, ni abajo en la tierra, ni en las aguas debajo de la tierra. No te **<u>inclinarás</u>** a ellas, ni las honrarás; porque  yo soy Jehová tu Dios, fuerte, celoso,…”* (Éxodos 20:4-5a).
+
+
+
 
 ##### 1) Dios prohíbe la fabricación de cualquier **<u>objeto</u>** con la intención de adorarlo o inclinarse ante él. Jeremías 10:3-4
 
+
+
+
 ##### 2) Quemar velas delante de un ídolo o **<u>rezarle</u>** a un ídolo o un ícono es desobedecer este mandamiento. Salmos 135:15-18
+
+
+
 
 #### c. **Ley** **#3** – “* No tomarás el nombre de Jehová tu Dios en **<u>vano</u>**; porque no dará por inocente Jehová al que tomare su nombre en vano*” (Éxodos 20:7).
 
+
+
+
 ##### 1) Dios y Su **<u>nombre</u>** deben ser respetados. El nombre de Dios nunca debe ser utilizado de manera descuidada o irrespetuosa. **
+
+
+
 
 ##### 2) Usar el nombre de Dios como una palabra de maldición o un **<u>signo</u>** de exclamación verbal es quebrantar esta ley.
 
+
+
+
 #### d. **Ley** **#4** – “*Acuérdate del día de reposo para santificarlo. Seis días trabajarás, y harás toda tu obra; mas el séptimo día ...no hagas en él obra alguna...Porque en seis días hizo Jehová los cielos y la tierra, el mar, y todas las cosas que en ellos hay, y  **<u>reposó</u>** en el séptimo día, ...Jehová bendijo el  día de reposo y lo santificó”* (Éxodos 20:8-11).
+
+
+
 
 ##### 1) Dios ordenó a los israelitas recordar siempre el **<u>día</u>** en que Él descansó de su obra de creación como un recordatorio de que Él era su Creador y ellos Sus criaturas. Génesis 2:1-3
 
+
+
+
 ##### 2) Eclesiastés 12:1 te recuerda acordarte *de tu Creador*. Creer en la evolución **<u>quebranta</u>** este cuarto mandamiento porque niega el relato de la creación de Dios.
+
+
+
 
 #### e. **Ley** **#5** – “ ***<u>Honra</u>**** a tu padre y tu madre,…” * (Éxodo 20:12a).
 
+
+
+
 ##### 1) Dios ordena a todos los hijos a honrar a sus **<u>padres</u>**. Efesios 6:1-3
+
+
+
 
 ##### 2) Como hijo, **<u>desobedecer</u>** a un padre es deshonrarlo. Colosenses 3:20
 
+
+
+
 #### f. **Ley** **#6** – “ *No **<u>matarás</u>***” (Éxodo 20:13).
+
+
+
 
 ##### 1) Dios ha **<u>dado</u>** vida a toda la humanidad. Solo Dios tiene el derecho de decidir dónde y cuándo terminará una vida.**
 
+
+
+
 ##### 2) En Mateo 5:21-22, Jesús amplió la interpretación de esta ley para incluir la malicia y el odio. De acuerdo con Dios, el **<u>odio</u>** es tan vil como el asesinato. Santiago 4:2; 1 Juan 2:9-11, 3:15**
+
+
+
 
 ##### 3) A pesar de que Dios les da a los gobiernos el derecho legal de **<u>ejecutar</u>** criminales (Gn. 9:5-6), Dios prohíbe matar vidas inocentes. Tristemente, algunos gobiernos exceden su autoridad dada por Dios al perseguir y matar al inocente.**
 
+
+
+
 ##### 4) Debemos ver una distinción importante entre matar una vida inocente y matar en defensa propia. Aunque Dios prohíbe estrictamente el **<u>asesinato</u>**, Él no prohíbe la auto defensa ni la protección de nuestras familias, vecinos o el inocente.**
+
+
+
 
 #### g. **Ley** **#7** – “ *No cometerás **<u>adulterio</u>***” (Éxodos 20:14).
 
+
+
+
 ##### 1) Dios ordena que toda la humanidad se **<u>abstenga</u>**  del adulterio, la fornicación y cualquier otro tipo de pecado sexual. Levítico 18:20
+
+
+
 
 ##### 2) Dios declara que el matrimonio es el único lugar legítimo para el sexo. El sexo **<u>fuera</u>** del matrimonio está estrictamente prohibido. Hebreos 13:4
 
+
+
+
 ##### 3) En Mateo 5:27-28, Jesucristo expandió esta ley para incluir la **<u>lujuria</u>**, que incluiría la pornografía, etc. Proverbios 6:29
+
+
+
 
 #### h. **Ley** **#8** – “ *No **<u>hurtarás</u>***”(Ex. 20:15).* * Maltratar a otra persona al robarle infringe esta ley. Robar el tiempo a un empleador, robar las respuestas de un examen o quitarle la propiedad intelectual a alguien son formas en que esta ley a menudo es infringida. Romanos 13:9
 
+
+
+
 #### i. **Ley** **#9** – “*No hablarás contra tu prójimo **<u>falso</u>** testimonio*” (Éxodos 20:16).
+
+
+
 
 ##### 1) Está mal decir una **<u>mentira</u>**. Mentir sobre alguien o difundir chismes hirientes es quebrantar este mandamiento. Proverbios 19:5**
 
+
+
+
 ##### 2) La Biblia enseña que **<u>Satanás</u>** es un mentiroso. Cualquiera que dice mentiras está siguiendo sus caminos. Juan 8:44, Apocalipsis 21:8**
+
+
+
 
 #### j. **Ley** **#10** – “*No **<u>codiciarás</u>**…* *cosa alguna de tu prójimo” *(Ex. 20:17). Desear lo que le pertenece a otra persona es pecado. Dios quiere que estés contento con lo que tienes. Proverbios 27:20, Hebreos 13:5
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom3.21-31.jpg" data-auto-animate="" data-background-size="auto" data-menu-title="Romanos 3:21-31 - Justificación: Declarado Legalmente Justo Delante de Dios" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom3.21-31.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="Romanos 3:21-31 - Justificación: Declarado Legalmente Justo Delante de Dios" --> 
 
 
 
@@ -1541,93 +1907,177 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 ## A. Romanos 3:21-31 – Pablo explicó cómo Dios justifica a los pecadores
 
+
+
 ### 1. Romanos 3:21 – La justificación es otorgada aparte del **<u>mérito</u>** personal.
+
+
 
 #### a. Romanos 3:21a – “*Pero ahora…” *Después de probar que todas las personas son pecadores culpables, Pablo procedió a dar **<u>esperanza</u>** a los desesperanzados.
 
+
+
 #### b. Romanos 3:21b – “ *…aparte de la ley, se ha manifestado la justicia de Dios,…”* Dios ha revelado una **<u>manera</u>** de declarar a personas indignas e impías, legalmente justas ante Sus ojos, completamente aparte de la Ley. Esto es llamado justificación.
+
+
 
 ##### 1) Dios declara que gente indigna es legalmente justa a Sus ojos, totalmente aparte de sus **<u>buenas</u>** obras.
 
+
+
 ##### 2) Dios justifica a los pecadores **<u>aparte</u>** de que ellos hagan cualquier cosa para merecerlo.
+
+
 
 #### c. Romanos 3:21c – “…*testificada por la ley y por los profetas;*” El Antiguo Testamento (la Ley y los Profetas) predijo y confirmó que en el futuro, a personas indignas les sería otorgada una forma de ser declaradas **<u>justas</u>** ante Dios. En el capítulo 4 de Romanos, Pablo citó a dos testigos del Antiguo Testamento, Abraham y David, como prueba de este hecho.
 
+
+
 ### 2. Romanos 3:22-23 – La justificación es provista por medio de la **<u>fe</u>**.
+
+
 
 #### a. Romanos 3:22a – “ *la justicia de Dios por medio de la fe en Jesucristo,*…” Dios, el Juez, justifica. Esto significa que aquellos que **<u>confían</u>** personalmente en Cristo son declarados legalmente justos. La justificación quiere decir ser declarado justo por Dios, ser contado irreprensible y sin mancha.
 
+
+
 #### b. Romanos 3:22b – “…*para todos los que creen en él. …”* Esta acción legal de declarar a una persona justa es hecha, sin excepción, para todo y cada pecador que **<u>cree</u>** en Cristo.
+
+
 
 #### c. Romanos 3:22c – “*…Porque no hay diferencia*,” Puesto que todas las personas son igualmente pecaminosas, toda persona en el mundo igualmente necesita que Dios la **<u>declare</u>** justa.
 
+
+
 #### d. Romanos 3:23a – ¿Qué cosa tienen en común todos los humanos? No son iguales en educación, riqueza o estatus social, pero son iguales en que “…*todos pecaron*,…” Ya que todos hemos pecado **<u>igualmente</u>**, todos igualmente necesitamos que Dios, el Juez del universo, nos declare afablemente justos ante Sus ojos.
+
+
 
 #### e. Romanos 3:23b – Del mismo modo, todos estamos * “…destituidos de la gloria de Dios*,…” Ninguna persona jamás, ha estado a la altura del perfecto **<u>estándar</u>** de justicia de Dios.
 
+
+
 ### 3. Romanos 3:24 – La justificación por la fe viene a través de la **<u>gracia</u>**. La gracia es un favor inmerecido.
+
+
 
 #### a. Romanos 3:24a – “*siendo justificados gratuitamente…” *Pablo declaró que la justificación es un **<u>regalo</u>** totalmente gratuito. Dios declara que todos los que creen en Cristo están legalmente bien con Él.
 
+
+
 #### b. Romanos 3:24b –* “…por su gracia,…” *La justificación nunca se basa en el mérito; sólo viene por gracia. Es gracias al **<u>favor</u>** amoroso y completamente inmerecido de Dios, que Él declara que todos los que creen en Cristo están legalmente bien con Él.
+
+
 
 ### 4. Romanos 3:24 – La justificación por la fe es posible porque el **<u>precio</u>** de nuestra redención fue pagado en su totalidad.
 
+
+
 #### a. Romanos 3:24c – * “…mediante la redención que es en Cristo Jesús,”* Dios puede declararnos justos con Él porque el precio de nuestra redención fue **<u>pagado</u>** en su totalidad por Jesucristo, a través de Su muerte sacrificial sustitutiva en el Calvario.
+
+
 
 #### b. Romanos 3:24d – “*…la redención que es en Cristo Jesús,”* La redención habla del hecho de que, como parte esencial de nuestra justificación, necesitábamos ser adquiridos del mercado de **<u>esclavos</u>** del pecado. Éramos esclavos, sometidos al pecado, pero el sacrificio de Cristo proveyó el precio de compra para nuestra libertad.
 
+
+
 ### 5. Romanos 3:25 – La justificación por la fe viene a través de la propiciación. La propiciación es una ofrenda por el pecado que satisface plenamente la ira de Dios. Todas las exigencias justas de Dios para nuestra justificación fueron satisfechas en la **<u>muerte</u>** de Cristo.
+
+
 
 #### a. Romanos 3:25a – “* a quien Dios puso como propiciación por medio de la fe en su sangre,*…” La Escritura dice que *el alma que pecare, esa **<u>morirá</u>***. Ezequiel 18:4
 
+
+
 ##### 1) La muerte de Cristo en la cruz fue una validación **<u>pública</u>** de que la pena de muerte requerida por el pecado fue pagada en su totalidad por todas las personas, una vez por todas. Juan 19:30, Romanos 6:10, Hebreos 9:25-29
+
+
 
 ##### 2) Era importante para Cristo ser oficialmente ejecutado (crucificado) a través de un proceso legal a la **<u>vista</u>** clara de muchos testigos, para que cuando Dios ahora declare a alguien justo, Su justicia no sea cuestionada.
 
+
+
 ##### 3) La **<u>ira</u>** de Dios hacia la humanidad pecadora fue apaciguada (propiciada) cuando el inocente Señor Jesús murió en la cruz en lugar de todos los pecadores. 2 Corintios 5:21, 1 Juan 2:2
+
+
 
 #### b. Romanos 3:25b – “…* para manifestar su justicia, a causa de haber pasado por alto, en su paciencia, los pecados pasados*,” Nuestra justificación ahora se basa en el hecho de que las demandas de Dios fueron **<u>completamente</u>** satisfechas a través de la muerte sacrificial de Cristo en nuestro lugar. Romanos 4:25, Hebreos 9:28
 
+
+
 ##### 1) La ejecución pública de Jesús explicó la paciencia de Dios para no destruir a toda la humanidad por sus pecados, desde **<u>Adán</u>** hasta la cruz. Hechos 17:30-31, Hebreos 9:15
+
+
 
 ##### 2) En su infinita precognición, Dios **<u>sabía</u>** que un día Cristo proveería un sacrificio pacificador. Génesis 3:15, 1 Pedro 1:19-20, Apocalipsis 13:8
 
+
+
 ### 6. Romanos 3:26 – La justificación por fe viene por un medio perfectamente **<u>legal</u>**.
+
+
 
 #### a. Romanos 3:26a – “* con la mira de manifestar en este tiempo su justicia, a fin de que él sea el justo,…”* La ejecución pública de Jesús es una prueba de que Dios es justo cuando ahora declara que los pecadores son justos y los libera de la pena de muerte. La **<u>pena</u>** de muerte por el pecado exigida por la Ley fue pagada en su totalidad por Jesucristo.
 
+
+
 #### b. Romanos 3:26b – “… *y el que justifica al que es de la fe de Jesús*.” La muerte sustitutiva de Cristo le permite a Dios justificar a cada individuo pecador que **<u>confía</u>** en Cristo. La justificación libera al pecador de sufrir la muerte eterna. Hebreos 9:12-14
+
+
 
 ### 7. Romanos 3:27 – La justificación por la fe quita todo **<u>orgullo</u>**.
 
+
+
 #### a. Romanos 3:27a – “ *¿Dónde, pues, está la jactancia? Queda excluida.” *Puesto que Cristo hizo toda la obra para nuestra justificación, no tenemos nada de qué **<u>alardear</u>**. Gálatas 6:14, Efesios 2:9
+
+
 
 #### b. Romanos 3:27b – “… *¿Por cuál ley? ¿Por la de las obras?* No,…”  Un principio de **<u>obras</u>** solo fomentaría la arrogancia. Nuestras obras no nos justifican.
 
+
+
 #### c. Romanos 3:27c – “…*No, sino por la ley de la fe*. Toda jactancia es eliminada por un principio de fe.” Dado que la fe es la cúspide de las cosas no basadas en las obras, nadie puede **<u>jactarse</u>** de haber hecho ninguna contribución a su justificación. Romanos 4:5
+
+
 
 ### 8. Romanos 3:28 – La justificación por fe es independiente de la **<u>Ley</u>**. La justificación por fe anula la justificación por medio de la ley.
 
+
+
 #### a. Romanos 3:28a – Pablo dijo, “***<u>Concluimos</u>*** *, pues, que el hombre es justificado por fe…*” ¿Sostienes tú de la misma manera la verdad de que la justificación es solamente por la fe sola en Cristo?
+
+
 
 #### b. Romanos 3:28b – Pablo añadió, “*Concluimos, pues, que el hombre es justificado…* *sin las obras de la ley*.” Pablo sostenía firmemente la posición de que una persona está justificada independientemente, y claramente aparte, de **<u>hacer</u>** las buenas obras encontradas en el cumplimiento de la ley. ¿Sostienes del mismo modo firmemente esta verdad? Gálatas 2:16
 
+
+
 ### 9. Romanos 3:29-30 – La justificación por fe es la **<u>misma</u>** para todas las personas. Dios no tiene favoritos. Judíos y no judíos por igual son todos declarados justos con Dios de la misma manera.
+
+
 
 #### a. Romanos 3:29 – “* ¿Es Dios solamente Dios de los judíos? ¿No es también Dios de los gentiles? Ciertamente, también de los gentiles*.” Ya que los humanos, judíos y gentiles por igual, todos tienen el mismo **<u>Dios</u>** verdadero, todos debemos ser declarados justos con Él de la misma manera.
 
+
+
 #### b. Romanos 3:30 – “*Porque Dios es uno, y él justificará por la fe a los de la circuncisión, y por medio de la fe a los de la incircuncisión*.” Si cualquiera, un judío o un gentil **<u>cree</u>** en Cristo, él o ella son instantáneamente declarados justos por el mismo Dios verdadero.
+
+
 
 ### 10. Romanos 3:31 – La justificación por fe no quita autoridad a la **<u>Ley</u>**.
 
+
+
 #### a. Romanos 3:31a – “*¿Luego por la fe invalidamos la ley?...”* En otras palabras, si somos hechos justos para con Dios por la fe, suena como que estuviéramos diciendo que la Ley es inútil. Pero Pablo dijo, “… *En **<u>ninguna</u>** manera,…*” La justificación por fe no invalida la Ley.
+
+
 
 #### b.	Romanos 3:31b – Sino que confirmamos la ley. Cuando enseñamos la justificación por fe en la muerte sustitutiva de Cristo, en realidad confirmamos la autoridad de la Ley, ya que estamos de acuerdo con la Ley de que la paga por el pecado es la muerte. Romanos 6:23
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom4.1-9.jpg" data-auto-animate="" data-background-size="auto" data-menu-title="Romanos 4:1-25 - Ejemplos del Antiguo Testamento de la justificación por la fe" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom4.1-9.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="Romanos 4:1-25 - Ejemplos del Antiguo Testamento de la justificación por la fe" --> 
 
 
 
@@ -1697,67 +2147,123 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 #### d. Romanos 4:3 – “*Porque ¿qué dice la Escritura? Creyó Abraham a Dios, y  **<u>le</u>** fue contado por justicia.”*
 
+
+
 ##### 1) Las Escrituras confirman que en el momento en que Abraham creyó a Dios,la justicia de Dios se le acreditó como un regalo **<u>gratuito</u>**.
+
+
 
 ##### 2) Puesto que Abraham fue declarado justo como un **<u>regalo</u>** gratuito y no sobre la base de ninguna de las obras que había hecho, él no tenía nada de qué presumir ante Dios.
 
+
+
 #### e. Romanos 4:4 – “* Pero al que obra, no se le cuenta el salario como gracia, sino como deuda*;” Los **<u>salarios</u>** se pagan a una persona que los gana a través del trabajo. Los salarios nunca son considerados un regalo o un favor; Los salarios son un pago merecido.
+
+
 
 #### f. Romanos 4:5a – Abraham descubrió que Dios no**<u>clasifica</u>** la fe como una obra. *“mas al que no obra, sino cree…”* Para Dios, la fe es lo opuesto a la obra.
 
+
+
 ##### 1) La **<u>fe</u>** no es algún tipo de esfuerzo o contribución dada a Dios a cambio de la salvación. Romanos 3:27
+
+
 
 ##### 2) De hecho, la fe bíblica es la cesación de todo **<u>esfuerzo</u>** humano; por lo tanto, dado que la fe no es trabajo o esfuerzo de ningún tipo, una persona no puede recibir un pago o recompensa por ello. Romanos 4:16a, 11:6
 
+
+
 ##### 3) Es importante notar que la fe bíblica no es un **<u>sentimiento</u>** de buena voluntad acerca de Dios, como algunas personas sugieren.
+
+
 
 #### g. Romanos 4:5b – “…*sino cree en **<u>aquel</u>*** *…”* En el caso de Abraham, su fe estaba en Dios. Abraham creyó en nuestro bondadoso Dios quien gratuitamente declara a personas indignas, justas a Su vista.
 
+
+
 ##### 1) La fe bíblica siempre tiene un objeto, como se ve en la frase “ *sino cree en aquel*.” El **<u>objeto</u>** digno de la fe de Abraham era el Mesías venidero. Abraham creyó que el Mesías venidero era totalmente capaz de salvarlo. Hebreos 11:13
+
+
 
 ##### 2) Aunque Abraham no conocía el nombre del Mesías ni la obra precisa que haría para nuestra salvación, a pesar de ello, confió en Él. En Juan 8:56, Jesús dijo, “*Abraham vuestro padre se gozó de que había de ver  **<u>mi</u>** día; y lo vio, y se gozó*.”
 
+
+
 ##### 3) Hoy en día, el objeto de nuestra fe es todavía el Mesías, Jesucristo, quien vino y murió por nuestros pecados y resucitó. Dios **<u>atribuye</u>** justicia a toda persona que cree en él. Juan 6:29, Romanos 4:23-25, 2 Timoteo 1:2
+
+
 
 #### h. Romanos 4:5c – “...*que justifica al impío*,…” Abraham se regocijó al saber que Dios declara al pecador justo con Él a través de la fe, no como una recompensa por ser una **<u>buena</u>** persona.
 
+
+
 ### 2. Romanos 4:6-8 – Del mismo modo, el Rey **<u>David</u>** fue justificado por gracia ante Dios.
+
+
 
 #### a. Romanos 4:6 – “*Como también David habla de la bienaventuranza del hombre a quien Dios atribuye justicia sin obras,”* En el Salmo 32, David proclamó la justificación por gracia cuando escribió cuán maravilloso fue que Dios lo declarara justo, aparte de sus **<u>obras</u>**.
 
+
+
 #### b. Romanos 4:7-8 – David, un asesino y adúltero, estaba extremadamente agradecido de que Dios lo declarara justo basado en la **<u>gracia</u>**. David se regocijó en tres aspectos de la justificación.
+
+
 
 ##### 1) Romanos 4:7a – “… *Bienaventurados aquellos cuyas iniquidades son perdonadas,…”* David se regocijó de que Dios **<u>perdonó</u>** sus pecados, especialmente porque no merecía perdón por las cosas que había hecho. Salmos 32:1a
 
+
+
 ##### 2) Romanos 4:7b – *Bienaventurados aquellos “…cuyos pecados son cubiertos*.” David se regocijó porque Dios quitó sus pecados de Su **<u>vista</u>**. Salmos 32:1b, Salmos 103:12
+
+
 
 ##### 3) Romanos 4:8 – “ *Bienaventurado el varón a quien el Señor no inculpa de pecado.”* David se regocijó de que Dios no **<u>contó</u>** su pecado contra él, sino que lo contó como justo. 2 Corintios 5:19, Hebreos 9:26
 
+
+
 ### 3. Romanos 4:9 – La justificación de Abraham por gracia a través de la fe, prueba que la justificación no tiene nada que ver con ser parte de **<u>Israel</u>**.
 
+
+
 #### a. Romanos 4:9a – “*¿Es, pues, esta bienaventuranza solamente para los de la circuncisión, o también para los de la incircuncisión?...”* ¿Es la justificación por fe a través de la gracia para la nación judía solamente? No, es para todas las **<u>personas</u>**. ¿Cómo sabemos esto con certeza?
+
+
 
 #### b. Romanos 4:9b – *“…Porque decimos que a Abraham le fue contada la fe por justicia.”* ¿Era Abraham un judío cuando Dios lo justificó? ¡No! En Génesis 15:6, cuando Dios lo declaró justo por fe, Abraham todavía era un gentil incircunciso. Esto significa que judíos y gentiles **<u>por igual</u>**, pueden ser justificados por fe.
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom4.10-25.jpg" data-auto-animate="" data-background-size="auto" data-menu-title="Romanos 4:10-12 - La justificación de Abraham por fe..." --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom4.10-25.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="Romanos 4:10-12 - La justificación de Abraham por fe..." --> 
 
 
 
 ### 4. Romanos 4:10-12 – La justificación de Abraham por fe prueba que la justificación está aparte de cualquier tipo de **<u>ritual</u>**. Génesis 17:9-14, 23-27
 
+
+
 #### a. Romanos 4:10 – “*¿Cómo, pues, le fue contada? ¿Estando en la circuncisión, o en la incircuncisión? No en la circuncisión, sino en la incircuncisión*”. La justificación de Abraham ocurrió **<u>antes</u>** del establecimiento del ritual de la circuncisión, lo que prueba que la circuncisión no es necesaria para la justificación.
+
+
 
 #### b. Romanos 4:11a – “*Y recibió la circuncisión como señal, como  **<u>sello</u>** de la justicia de la fe que tuvo estando aún incircunciso;…”*
 
+
+
 ##### 1) Puesto que el ritual de la circuncisión se realizó en Abraham **<u>después</u>** de que él ya estaba justificado ante Dios, prueba que el ritual no tuvo ningún papel en su justificación.
+
+
 
 ##### 2) Abraham fue circuncidado para **<u>mostrar</u>** que creía en Dios.
 
+
+
 #### c. Romanos 4:11b – “…* para que fuese padre de todos los creyentes no circuncidados, a fin de que también a ellos la fe les sea contada por justicia*;” Cualquier persona en el mundo, judía o no judía, circuncidada o no circuncidada, puede ser **<u>salva</u>** sin ningún ritual.
 
+
+
 ##### 1) Los rituales religiosos como el **<u>bautismo</u>**, la comunión, la confirmación, el bautismo de infantes, la circuncisión, ir a  la iglesia, hacer una oración, encender una vela, caminar por el pasillo de la iglesia, etc., no afectan nuestra justificación de ninguna manera.
+
+
 
 ##### 2) Los rituales religiosos no salvan a la gente. Una persona es justificada ante Dios al creer en el Hijo de Dios quien **<u>murió</u>** como sacrificio por sus pecados y resucitó al tercer día.
 
@@ -1769,81 +2275,153 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 #### d. Romanos 4:12 – Muchos israelitas confiaron en su circuncisión para la salvación. Pablo señaló su error cuando se refirió a Abraham como “… ***<u>padre</u>*** *de la circuncisión, para los que no solamente son de la circuncisión, sino que también siguen las pisadas de la fe que tuvo nuestro padre Abraham antes de ser circuncidado*.”
 
+
+
 ##### 1) Abraham es el padre de los judíos circuncidados **<u>sólo</u>** si creen en el Mesías como lo hizo él mientras aún estaba incircunciso. En caso contrario, si no creen en Cristo, no son los verdaderos descendientes de Abraham, aunque sean judíos circuncidados. Romanos 9:6
+
+
 
 ##### 2) Al igual que con Abraham, creerle a Dios garantiza la justificación de una persona, sin confiar en algún ritual realizado. Dios dice que quien sea que crea en Su Hijo no perecerá, mas tiene **<u>vida</u>** eterna. Juan 3:16
 
+
+
 ### 5. Romanos 4:13-15 – La justificación de Abraham por la fe (Gn. 15:6) demuestra que la salvación viene aparte de **<u>guardar</u>** los Diez Mandamientos. Gálatas 3:15-18
+
+
 
 #### a. Romanos 4:13 – “*Porque no por la ley fue dada a Abraham o a su descendencia la promesa de que sería heredero del mundo, sino por la justicia de la fe.*” Dios no cumplió Sus promesas a Abraham y sus descendientes porque Abraham obedeció la **<u>Ley</u>**, sino porque creyó a Dios.
 
+
+
 #### b. Romanos 4:14 – “*Porque si los que son de la ley son los herederos, vana resulta la fe, y anulada la promesa.”* Si la justicia, o la salvación, pudieran venir por medio de obedecer los Diez Mandamientos, **<u>dos</u>** cosas serían ciertas. Gálatas 5:2
+
+
 
 ##### 1) Romanos 4:14a – “…***<u>vana</u>*** * resulta la fe,*…” Si la salvación viniera a través de la obediencia a la Ley, la fe en la muerte de Cristo en la cruz y la resurrección serían innecesarias. Gálatas 3:5-6, Tito 3:5-6
 
+
+
 ##### 2) Romanos 4:14b – “…*y* *anulada la promesa*.” Si la salvación viniera a través de la obediencia a la Ley, no habría necesidad de la promesa de **<u>vida</u>** eterna y el perdón de pecados. Romanos 3:23
+
+
 
 #### c. Romanos 4:15 – “…* Pues la ley produce ira; pero donde no hay ley, tampoco hay transgresión.”* Cuidado, tú que crees que las personas se salvan al obedecer la ley.
 
+
+
 ##### 1) La ley no trae salvación; más bien, ¡acarrea la **<u>ira</u>** de Dios! Romanos 3:19‑20, 1 Corintios 15:56, 2 Corintios 3:7-9
+
+
 
 ##### 2) Recuerda: Abraham fue declarado justo con Dios 430 años antes de que la Ley existiera, verificando que las personas pueden ser declaradas **<u>justas</u>** con Dios totalmente aparte de la Ley. Romanos 3:28
 
+
+
 ### 6. Romanos 4:16-17a – La justificación de Abraham por gracia a través de la fe ilustra que la fe encaja perfectamente con la **<u>gracia</u>**.
+
+
 
 #### a. Romanos 4:16a – “ *Por tanto, es por fe, para que sea por gracia,…” *La fe va de la mano con la gracia; las dos se complementan **<u>perfectamente</u>**. Efesios 2:8-9
 
+
+
 ##### 1) La gracia y las obras no van juntas. Romanos 4:4 dice, “*Pero al que obra, no se le cuenta el salario como gracia, sino como deuda.*” Si trabajas por ello, es **<u>ganado</u>**. Cuando se trata de la justificación, la gracia y las obras son mutuamente excluyentes.
+
+
 
 ##### 2) La gracia es inmerecida. Es un **<u>regalo</u>**. No trabajas por ella. Simplemente la recibes por fe. “*Y si por gracia, ya no es por obras; de otra manera la gracia ya no es gracia*” (Romanos 11:6a)
 
+
+
 #### b. Romanos 4:16b – “…*a fin de que la promesa sea firme para toda su descendencia; no solamente para la que es de la ley, sino también para la que es de la fe de Abraham, el cual es padre de todos nosotros* ”. La **<u>gracia</u>** de Dios se muestra a todos los que creen en Cristo, independientemente de la etnicidad nacional o cultural.
+
+
 
 ##### 1) Dios le prometió a Abraham que en él *todas las familias de la tierra *[serían]* benditas* (Gen. 12:3) y que él llegaría a ser el *padre de muchedumbre de **<u>gentes</u>***. Génesis 17:3-6
 
+
+
 ##### 2) Cuando creemos en Cristo, Abraham se convierte en nuestro **<u>padre</u>** espiritual. Sin embargo, esto no significa que como creyentes nos convertimos en Israel, étnicamente, espiritualmente o de cualquier otra manera. Gálatas 3:6-9
+
+
 
 #### c. Romanos 4:17a – *“(como está escrito: Te he puesto por padre de muchas gentes)…” * Este versículo enseña que una persona puede pertenecer a Abraham espiritualmente, llamándolo “padre”, sin convertirse en Israel. Es importante notar que la **<u>iglesia</u>** no reemplaza a Israel.
 
+
+
 ### 7. Romanos 4:17b-21 – Puesto que Abraham fue justificado por la fe, Pablo examinó más de cerca la **<u>naturaleza</u>** de la fe de Abraham. Gálatas 2:16, Romanos 5:1
+
+
 
 #### a. Romanos 4:17b – La fe de Abraham no estaba basada en sus propias habilidades. “…*delante de Dios, a quien creyó, el cual da vida a los muertos, y llama las cosas que no son, como si fuesen *.” Abraham confió en la **<u>capacidad</u>** sobrenatural de Dios para proveer milagrosamente para sus necesidades.
 
+
+
 ##### 1) Muchas personas afirman que la Biblia enseña que Dios **<u>ayuda</u>** a los que se ayudan a sí mismos. Este dicho no se encuentra en la Biblia.
+
+
 
 ##### 2) La Biblia de hecho enseña lo contrario. La Biblia enseña que Dios ayuda a aquellos que **<u>no pueden</u>** ayudarse a sí mismos. Efesios 2:4-6, Romanos 5:6-10
 
+
+
 ##### 3) Dios se complace cuando dejamos de confiar en nosotros mismos y **<u>confiamos</u>** solamente en Él para salvarnos. Eso es  fe. Hebreos 11:6
+
+
 
 #### b. Romanos 4:18 – La fe de Abraham no estaba basada en los sentimientos *.“El creyó en esperanza contra esperanza, para llegar a ser padre de muchas gentes, conforme a lo que se le había dicho: Así será tu descendencia.”* Abraham creyó las promesas de Dios, incluso cuando tenía todas las razones para **<u>dudar</u>**.
 
+
+
 #### c. Romanos 4:19 – La fe de Abraham no estaba basada en posibilidades **<u>humanas</u>**. “*Y no se debilitó en la fe al considerar su cuerpo, que estaba ya como muerto (siendo de casi cien años), o la esterilidad de la matriz de Sara*.” Hebreos 11:11-12
+
+
 
 #### d. Romanos 4:20a – La fe de Abraham no estaba basada en la**<u>vista</u>**. “… *Tampoco dudó, por incredulidad, de la promesa de Dios,…” *La fe de Abraham se mantuvo firme a lo largo del tiempo, incluso cuando muchas de las promesas de Dios permanecían sin cumplirse.
 
+
+
 #### e. Romanos 4:20b – La fe de Abraham se **<u>fortaleció</u>** aún más con el paso del tiempo. Cuanto más fuerte se hacía su fe, más alababa a Dios por la fidelidad de Dios hacia él. “… *sino que se fortaleció en fe, dando gloria a Dios*,”. Génesis 22:5, Hebreos 11:13
+
+
 
 #### f. Romanos 4:21 – La fe de Abraham no estaba basada en experiencias o circunstancias, sino más bien en la fiabilidad de Dios. “*plenamente convencido de que era también poderoso para  **<u>hacer</u>** todo lo que había prometido;”*. Hebreos 11:17-19
 
+
+
 ### 8. Romanos 4:22-25 – La declaración de Génesis 15:6 de que Abraham fue justificado por fe fue registrada para nuestro **<u>bien</u>** tanto como lo fue para Abraham.
+
+
 
 #### a. Romanos 4:22 – *“por lo cual también su fe le fue contada por justicia*.” Esto es una vez más un recordatorio de que cuando Abraham creyó en Dios, él fue considerado **<u>justo</u>** por Dios delante de Él. Abraham fue justificado por fe.
 
+
+
 #### b. Romanos 4:23 – “ *Y no solamente con respecto a él se escribió que le fue contada*,” Cuando el Antiguo Testamento declara que *creyó Abraham a Dios, y le fue contado por justicia*, se registra principalmente para **<u>nuestro</u>** bien. Dios quiere que sepas que Abraham no es el único salvo por fe. Tú también lo eres.
+
+
 
 #### c. Romanos 4:24 – “*sino también con respecto a nosotros a quienes ha de ser contada, esto es, a los que creemos en el que levantó de los muertos a Jesús, Señor nuestro*,” Este verso declara que tal como Abraham, nosotros también somos Declarado justos con Dios en el **<u>momento</u>** en que creemos en Aquel que resucitó a Jesús nuestro Señor de los muertos.
 
+
+
 #### d. Romanos 4:25 – “* el cual fue entregado por nuestras transgresiones, y resucitado para nuestra justificación*.” Jesucristo fue entregado a la muerte por nuestros **<u>pecados</u>**, pero fue resucitado para nuestra justificación.
+
+
 
 ##### 1) Esta es la buena **<u>noticia</u>**. Cristo murió por nuestros pecados y resucitó al tercer día. Hechos 13:28-30, 37-39; 1 Corintios 15:3-4
 
+
+
 ##### 2) Nosotros también fuimos declarados justos con Dios cuando personalmente **<u>confiamos</u>** en Cristo y en Su muerte por nuestros pecados y su resurrección. 1 Corintios 15:1-4
+
+
 
 ##### 3) ¿Has creído personalmente en el Evangelio, confiando en Cristo, que Él murió por tus pecados y resucitó al tercer día? 1 Juan 5:13
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom5.1-11.jpg" data-auto-animate="" data-background-size="auto" data-menu-title="Romanos 5:1-11 - Las bendiciones inmerecidas de la justificación por fe" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom5.1-11.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="Romanos 5:1-11 - Las bendiciones inmerecidas de la justificación por fe" --> 
 
 
 
@@ -1853,119 +2431,229 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 ## C. Romanos 5:1-11 – Las bendiciones inmerecidas de la justificación por fe
 
+
+
 ### 1. Romanos 5:1-5 – Los privilegios de nuestra justificación por **<u>fe</u>**
+
+
 
 #### a. Romanos 5:1a – “*Justificados, pues, por la fe,…”* Pablo ahora describió varios **<u>beneficios</u>** sorprendentes que resultan de nuestra justificación por fe.
 
+
+
 #### b. Romanos 5:1b – “… *tenemos paz para con Dios por medio de nuestro Señor Jesucristo;”* El primer beneficio de haber sido* justificados por la fe* en Cristo es que instantáneamente ganamos **<u>paz</u>** con Dios.
+
+
 
 ##### 1) La paz con Dios no debe confundirse con la paz de Dios que podemos experimentar de manera algo inconsistente. Nuestro gozo de la paz de Dios a menudo **<u>cambia</u>** de acuerdo con nuestras circunstancias y nuestro caminar. Filipenses 4:7, Colosenses 3:15
 
+
+
 ##### 2) La paz con Dios es una condición fija. Significa que ya no somos enemigos de Dios; la **<u>guerra</u>** entre Dios y nosotros está eternamente terminada. Ahora somos amigos de Dios. Romanos 5:10, Efesios 2:1-3
+
+
 
 #### c. Romanos 5:2a – “* por quien también tenemos entrada por la fe a esta gracia en la cual estamos firmes,*…” Existe también un **<u>segundo</u>** beneficio de nuestra justificación; es la gracia continua de Dios para la vida diaria.
 
+
+
 ##### 1) En la salvación, a través de la fe en Cristo, recibimos una posición permanente ante Dios en **<u>gracia</u>**. Dios nunca nos separa de nuestra posición en gracia, incluso en los días más oscuros de nuestros mayores fracasos.
+
+
 
 ##### 2) Como resultado de nuestra justificación, nos encontramos debajo de la cascada de la bondad inmerecida de Dios, cayendo en abundancia sobre nosotros con Su **<u>poder</u>** infinito para vivir victoriosamente. Efesios 1:19, 2 Corintios 12:9
 
+
+
 #### d. Romanos 5:2b – “ *…y nos gloriamos en la esperanza de la gloria de Dios.”* En tercer lugar, hay un beneficio prospectivo de nuestra justificación por fe. Como resultado de nuestra justificación, podemos mantener nuestras cabezas en alto con la absoluta confianza de que experimentaremos todo el alcance de la **<u>gloria</u>** de Dios durante toda la eternidad. Efesios 1:18
+
+
 
 #### e. Romanos 5:3-5 – En cuarto lugar, nuestra justificación por fe nos lleva a una nueva **<u>perspectiva</u>** sobre las dificultades de esta vida. En lugar de dudar del amor de Dios en momentos de dificultad, comenzamos a regocijarnos en nuestras pruebas. Hechos 16:24-25
 
+
+
 ##### 1) Romanos 5:3a – “* Y no sólo esto, sino que también nos gloriamos en las tribulaciones, *”
+
+
 
 ###### a) Antes de que un creyente entienda las verdades de la justificación por fe, las pruebas son interpretadas fácilmente como una señal del **<u>rechazo</u>** de Dios.
 
+
+
 ###### b) Pero cuando estamos convencidos de nuestra posición justa ante Dios, aceptamos de buena gana nuestras pruebas como **<u>dádivas</u>** de gracia de parte de Dios. Romanos 8:28, 31-32
+
+
 
 ##### 2) Romanos 5:3b – *…sabiendo que la tribulación produce paciencia.* Paciencia [o *perseverancia* según BAD] significa que no te **<u>rindes</u>**.
 
+
+
 ###### a) Sabiendo que las pruebas son de hecho beneficiosas para nosotros, podemos ser **<u>pacientes</u>** cuando las atravesemos. Santiago 1:2-4, Hebreos 12:3-11
+
+
 
 ###### b) Puedes continuar adelante con fe, sabiendo que Dios está haciendo que todo obre para tu **<u>crecimiento</u>** y madurez espiritual. Romanos 8:28
 
+
+
 ##### 3) Romanos 5:4a – “*y la paciencia, prueba;…” *[o *carácter probado*… según LBLA] La perseverancia da como resultado un carácter **<u>probado</u>**.
+
+
 
 ###### a) *Prueba* o carácter probado significa que has superado la prueba y se puede confiar en que te mantengas **<u>estable</u>** y sin cambios. Esta es la madurez espiritual. Santiago 1:2-4
 
+
+
 ###### b) *Prueba* o carácter probado significa que eres una persona deintegridad en la que se puede confiar que no **<u>vacilará</u>** según las circunstancias. Filipenses 1:20, 1 Pedro 1:6-7
+
+
 
 ##### 4) Romanos 5:4b – “…*y la prueba, esperanza*;” Finalmente, las pruebas de hecho crean **<u>esperanza</u>**. Cuando confías en Dios a través de tus pruebas, descubres que Dios nunca falla; Él siempre permanece fiel a Su palabra y Sus promesas. Romanos 15:13
 
+
+
 ##### 5) Romanos 5:5 – “*y la esperanza no avergüenza; porque el amor de Dios ha sido derramado en nuestros corazones por el Espíritu Santo que nos fue  **<u>dado</u>** *.”
+
+
 
 ###### a) En el instante en que creíste las buenas nuevas de la muerte y resurrección de Cristo, el Espíritu Santo vino a **<u>vivir</u>** en ti. Efesios 1:13-14, 4:30
 
+
+
 ###### b) A través del Espíritu Santo que vive en ti, Dios Padre derrama Su amor en tu **<u>corazón</u>**. Efesios 3:17-19, Romanos 15:13
+
+
 
 ###### c) Ahora que eres creyente, Dios te acepta y te **<u>ama</u>** tanto como ama a Jesús. Juan 15:9, Juan 17:26; Efesios 1:6-7; 1 Juan 3:1
 
+
+
 ###### d) No importa cuán dura o larga sea la prueba, tu fe en Dios puede permanecer fuerte debido al amor de Dios derramado sobre ti. Ninguna prueba puede *** <u>separar</u>*<u>[nos]</u>** * del amor de Dios, que es en Cristo Jesús Señor nuestro*. Romanos 8:31-39
+
+
 
 ### 2. Romanos 5:6-8 – El **<u>alcance</u>** de la justificación por la fe 
 
+
+
 #### a. Romanos 5:6a – ¿Bajo qué circunstancia murió Cristo? “ *Porque Cristo, cuando aún éramos débiles…murió por los impíos*.” Cuando todavía éramos **<u>inútiles</u>** para salvarnos, el Señor Jesucristo, nuestro perfecto sustituto, murió, pagando completamente nuestra deuda de pecado.
+
+
 
 #### b. Romanos 5:6b – ¿En qué momento murió Cristo? “*Cristo… ****a su tiempo murió****…”* En el **<u>plan</u>** soberano de Dios, Jesús murió en el momento perfecto en la historia humana. Dios preparó el escenario para el sacrificio de Cristo por nuestros pecados, y Cristo murió en el momento exacto que Dios planeó. Juan 10:17-18, Hechos 3:17-18, Gálatas 4:4-5, Apocalipsis 13:8
 
+
+
 #### c. Romanos 5:6c – ¿Por **<u>quién</u>** murió Cristo? Cristo murió “…*por los impíos*.”
+
+
 
 ##### 1) Cristo murió por **<u>todos</u>**. Hebreos 2:9 dice, “*Pero vemos…a Jesús, coronado de gloria y de honra, a causa del padecimiento de la muerte, para que por la gracia de Dios gustase la  muerte por todos.*”
 
+
+
 ###### a) Cristo murió por **<u>todos</u>**. Isaías 53:6 dice, “* Todos nosotros nos descarriamos como ovejas, cada cual se apartó por su camino; mas Jehová cargó en él el pecado de  **todos nosotros**.*” 1 Corintios 15:3
+
+
 
 ###### b) Cristo murió por todas las **<u>personas</u>**. Romanos 5:18 dice, “* Así que, como por la transgresión de uno vino la condenación a todos los hombres, de la misma manera por la justicia de uno vino a todos los hombres la justificación de vida*.”
 
+
+
 ###### c) Cristo murió en **<u>rescate</u>** por todos. 1 Timoteo 2:5-6 dice, “*Porque hay un solo Dios, y un solo mediador entre Dios y los hombres, Jesucristo hombre, el cual se dio a sí mismo en rescate por todos, de lo cual se dio testimonio a su debido tiempo*.”
+
+
 
 ##### 2) Cristo murió por **<u>muchos</u>**. Mateo 20:28 dice, “*Como el Hijo del Hombre no vino para ser servido, sino para servir, y para dar su vida en rescate por muchos*.”
 
+
+
 ##### 3) Cristo murió por el **<u>mundo</u>**. Juan 3:16 dice, “* Porque de tal manera amó Dios al mundo, que ha dado a su Hijo unigénito, para que todo aquel que en él cree, no se pierda, mas tenga vida eterna*.”
+
+
 
 ##### 4) Cristo murió por Sus **<u>ovejas</u>**. Juan 10:11 dice, “ *Yo soy el buen pastor; el buen pastor su vida da por las ovejas*.”
 
+
+
 ##### 5) Cristo murió por la **<u>nación</u>** de Israel. Juan 11:51 dice, “*Esto no lo dijo por sí mismo, sino que como era el sumo sacerdote aquel año, profetizó que Jesús había de morir por la nación*.”
+
+
 
 ##### 6) Cristo murió por los **<u>pecadores</u>**. Romanos 5:8 dice, “* Mas Dios muestra su amor para con nosotros, en que siendo aún pecadores, Cristo murió por nosotros*.”
 
+
+
 ##### 7) Cristo murió por **<u>mí</u>** personalmente. En Gálatas 2:20b, Pablo dijo, “*…lo que ahora vivo en la carne, lo vivo en la fe del Hijo de Dios, el cual me amó y se entregó a sí mismo por mí*.”
+
+
 
 ##### 8) Cristo murió por los pecados del mundo **<u>entero</u>**. 1 Juan 2:2 dice, “*Y él es la propiciación por nuestros pecados; y no solamente por los nuestros, sino también por los de todo el mundo*.”
 
+
+
 ##### 9) Cristo murió por la **<u>iglesia</u>**. Efesios 5:25 dice,“* Maridos, amad a vuestras mujeres, así como Cristo amó a la iglesia, y se entregó a sí mismo por ella*.” Hechos 20:28
+
+
 
 ##### 10) Cristo murió incluso por **<u>falsos</u>** maestros que lo niegan. 2 Pedro 2:1 dice, “ *Pero hubo también falsos profetas entre el pueblo, como habrá entre vosotros falsos maestros, que introducirán encubiertamente herejías destructoras, y aun negarán al Señor que los rescató.*” 1 Corintios 6:20a
 
+
+
 #### d. Romanos 5:7 – “* Ciertamente, apenas morirá alguno por un justo; con todo, pudiera ser que alguno osara morir por el bueno*.” Aunque es **<u>raro</u>**, puede haber alguien allí afuera con el coraje y el amor para morir por una buena persona. Pero Dios mostró mayor amor que morir por una buena persona. 
+
+
 
 #### e. Romanos 5:8 – “*Mas Dios muestra su amor para con nosotros, en que siendo aún pecadores, Cristo murió por nosotros*.” Dios demostró la superioridad de su amor al hacer que Cristo muriera por nosotros, no cuando éramos **<u>buenos</u>** o dignos, sino cuando éramos Sus enemigos rebeldes y detestables. Romanos 5:10  
 
+
+
 ### 3. Romanos 5:9-10 – El resultado de nuestra salvación por la fe se ve en los tres **<u>tiempos</u>** de nuestra salvación: pasado, presente y futuro. 
+
+
 
 #### a. Romanos 5:9a – “*Pues mucho más, estando ya justificados en su sangre,…”* El tiempo **<u>pasado</u>** de nuestra salvación es la justificación. En el momento en que creímos, fuimos salvos de la pena del pecado por medio de la muerte sacrificial de Cristo en nuestro nombre. 
 
+
+
 #### b. Romanos 5:9b – “…*por él seremos salvos de la ira*.” El tiempo **<u>futuro</u>** de nuestra salvación es la glorificación. En el rapto, seremos salvos de la presencia del pecado. Romanos 6:5, 1 Corintios 15:50-57, 1 Tesalonicenses 1:10, 1 Juan 3:2 
+
+
 
 #### c. Romanos 5:10 – Entre la justificación y la glorificación está la santificación, el tiempo **<u>presente</u>** de la salvación.“* Porque si siendo enemigos, fuimos reconciliados con Dios por la muerte de su Hijo, mucho más, estando reconciliados, seremos salvos por su vida*.” Hebreos 7:25 
 
+
+
 ##### 1) En la santificación, estamos siendo salvos en el tiempo presente del **<u>poder</u>** del pecado en nuestras vidas a través de la vida de Cristo. 1 Corintios 1:18 
+
+
 
 ##### 2) Cristo en nosotros es el “misterio” de Dios para vivir en santidad. Colosenses 1:27 dice, “* a quienes Dios quiso dar a conocer las riquezas de la gloria de este misterio entre los gentiles; que es  **<u>Cristo</u> en vosotros**, la esperanza de gloria*.” 
 
+
+
 ##### 3) Cristo en ti hace posible experimentar verdaderamente una vida abundante. Colosenses 3:4 dice, “*Cuando Cristo, **vuestra vida**, se manifieste, entonces vosotros también seréis manifestados con él en  **<u>gloria</u>** *.” Juan 7:38 
+
+
 
 ##### 4) Pablo explicó que él vivía la vida cristiana por fe en el Señor Jesús. Gálatas 2:20 – “*Con Cristo estoy juntamente crucificado, y ya no vivo yo,  **mas vive Cristo en mí**; y lo que ahora vivo en la carne, lo vivo en la **<u>fe</u>** del Hijo de Dios, el cual me amó y se entregó a sí mismo por mí*.” 
 
+
+
 ### 4. Romanos 5:11 – El **<u>resultado</u>** de nuestra justificación por fe
 
+
+
 #### a. Romanos 5:11a – “* Y no sólo esto, sino que también nos gloriamos en Dios por el Señor nuestro Jesucristo,…”* Cuando entendemos el alcance amplio de nuestra justificación, lo **<u>celebramos</u>** de todo corazón. Nos regocijamos en la gracia de Dios.
+
+
 
 #### b. Romanos 5:11b –*“…por el Señor nuestro Jesucristo, por quien hemos recibido ahora la reconciliación*.” Nos regocijamos porque Jesucristo **<u>ganó</u>** la aceptación de Dios por nosotros.
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom5.12-21.jpg" data-auto-animate="" data-background-size="auto" data-menu-title="Romanos 5:12-21 - La Doctrina de la Identificación: El Acceso a la Santificación" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom5.12-21.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="Romanos 5:12-21 - La Doctrina de la Identificación: El Acceso a la Santificación" --> 
 
 
 
@@ -1979,92 +2667,169 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 ## A. 1 Corintios 15:20-22, 45-49 – Dos identidades
 
+
+
 ### 1. Dios identifica a toda la humanidad con uno de dos hombres: el primer Adán o el postrer Adán, Cristo. Adán y Cristo son como **<u>líderes</u>** nacionales, o representantes patriarcales, que representan dos divisiones distintas de la humanidad. Juan 3:3, 5-6; 1 Corintios 15:45-50
+
+
 
 ### 2. Dios te considera miembro de uno de estos dos linajes. En la apreciación de Dios, todo lo que es cierto de tu cabeza, Cristo o Adán, es **<u>cierto</u>** de ti. 1 Corintios 15:22 dice, “*Porque así como en Adán todos mueren, también en Cristo todos serán vivificados* .”
 
+
+
 ### 3. Debido a que **<u>naciste</u>** de nuevo, Dios ahora te identifica con Cristo las veinticuatro horas del día, los siete días de la semana, para siempre. Efesios 2:6, Colosenses 3:3
+
+
 
 ### 4. En muchas de sus epístolas, Pablo se refirió a los creyentes como estando *en **<u>Cristo</u>***. Efesios 1:3, 4, 6, 7, 10-11, 13
 
+
+
 ### 5. La pregunta es: ¿Con quién te identificas? En cualquier momento dado, ya sea en casa o en público, ya sea en acción o en pensamiento, te estás identificando ya sea con Adán, tu antigua cabeza, o con Cristo, tu nueva **<u>cabeza</u>**. Juan 15:4-5
+
+
 
 ### 6. Necesitas **<u>crecer</u>** en tu comprensión de quién eres en Cristo para que puedas disfrutar tu salvación al máximo. 2 Corintios 5:17
 
+
+
 ## B. Romanos 5:12-15 – Dos linajes
 
+
+
 ### 1. Romanos 5:12-14 – **Adán**, nuestra **<u>antigua</u>** cabeza, nos dio una terrible herencia.
+
+
 
 #### a. Romanos 5:12a – “ *Por tanto, como el pecado entró en el mundo por un hombre,…” *El primer hombre, Adán, trajo el pecado a la **<u>raza</u>** humana.
 
 
-#### b. Romanos 5:12b – “…*y por el pecado la muerte,*…” Dado que la **<u>pena</u>** por el pecado es la muerte, el pecado de Adán
 
- introdujo la muerte en el mundo.
+#### b. Romanos 5:12b – “…*y por el pecado la muerte,*…” Dado que la **<u>pena</u>** por el pecado es la muerte, el pecado de Adán introdujo la muerte en el mundo.
+
+
 
 #### c. Romanos 5:12c – “…*así la muerte pasó a todos los hombres,…”* Debido a nuestra relación con Adán, la **<u>muerte</u>** fue  transmitida a todos nosotros.
 
+
+
 #### d. Romanos 5:12d – “*…por cuanto todos pecaron*.” No solamente heredamos la muerte de parte de Adán, también merecemos personalmente la muerte, porque como Adán, todos nosotros **<u>pecamos</u>**. Romanos 3:23
+
+
 
 #### e. Romanos 5:13a – “ *Pues antes de la ley, había pecado en el mundo;…” *A pesar de que los Diez Mandamientos no **<u>existieron</u>** desde la época de Adán hasta Moisés, la gente pecaba.
 
+
+
 #### f. Romanos 5:13b – “… *pero donde no hay ley, no se inculpa de pecado*.” Cuando no hay leyes que romper, las personas no pueden ser **<u>juzgadas</u>** como infractores de la ley.
+
+
 
 #### g. Romanos 5:14a – “ *No obstante, reinó la muerte desde Adán hasta Moisés,…” *Pero a pesar de que la gente durante este tiempo no tenía leyes específicas, las exigencias básicas de la ley estaban grabadas en la conciencia de cada persona. La gente pecaba de todos modos y la penalidad por el pecado era la **<u>muerte</u>**. Romanos 2:14-15
 
+
+
 #### h. Romanos 5:14b – “… *aun en los que no pecaron a la manera de la transgresión de Adán,…”* Pese a que la gente de los tiempos de Adán a Moisés no infringió una ley **<u>directa</u>** como Adán lo hizo, todos murieron, porque todos ellos fueron destituidos de la gloria de Dios. Romanos 3:23
+
+
 
 #### i. Romanos 5:14c – “…*el cual es figura del que había de venir*.” **<u>Adán</u>** era un tipo de Cristo. ¿Cómo prefiguró Adán a Cristo?
 
+
+
 ##### 1) Adán fue un tipo de Cristo en que él fue el originador, o antecesor, de una **<u>rama</u>** de la humanidad, quienes todos llevaban su imagen y características. 1 Corintios 15:44‑49
+
+
 
 ##### 2) Como un **<u>tipo</u>** de Cristo, Adán se presenta ante Dios como el representante de su rama de la humanidad, tal como Cristo ahora se presenta ante Dios como el representante de Su rama de la humanidad.
 
+
+
 ##### 3) De la misma manera, todos los hijos de Adán **<u>heredan</u>** el pecado, la muerte y la condenación de Adán ante Dios, todos los que son nacidos de nuevo en la “familia” de Cristo reciben automáticamente la posición justa de Cristo ante Dios.
+
+
 
 ### 2. Romanos 5:15 – **Cristo**, nuestra **<u>nueva</u>** cabeza, nos dio una herencia bendita.
 
+
+
 #### a. Romanos 5:15a – “*Pero el don no fue como la transgresión;”* En lugar de dar muerte a Su rama de la humanidad, todos los que son nacidos de nuevo en la familia de Cristo reciben la **<u>vida</u>** eterna como un regalo gratuito de Dios.
+
+
 
 #### b. Romanos 5:15b –*“…porque si por la transgresión de aquel uno murieron los muchos,…”* Una transgresión es el quebrantamiento deliberado de una ley. Adán murió porque **<u>rompió</u>** la única ley de Dios; Él comió el fruto del árbol del conocimiento del bien y del mal. Como resultado, pasó la pena de muerte a todos los que son sus descendientes. Romanos 6:23
 
+
+
 #### c. Romanos 5:15c – “…*abundaron mucho más para los muchos la gracia y el don de Dios por la gracia de un hombre, Jesucristo*.” Al igual que Adán pasó la muerte a todo su linaje, a través de Jesucristo, el **<u>don</u>** gratuito de la gracia de Dios es ahora transmitido a Su linaje entero.
+
+
 
 ## C. Romanos 5:16 – Dos legados
 
+
+
 ### 1. Romanos 5:16a – “ *Y con el don no sucede como en el caso de aquel uno que pecó;…”* Pablo comparó el **<u>legado</u>** que recibimos de Adán con el legado que recibimos de Cristo.
+
+
 
 ### 2. Romanos 5:16b – “…*porque ciertamente el juicio vino a causa de un solo pecado para condenación,…”* En el caso de **Adán**, **<u>un</u> pecado resultó en juicio**, lo que trajo un legado de condenación a toda la raza humana.
 
+
+
 ### 3. Romanos 5:16c – “…*pero el don vino a causa de muchas transgresiones para justificación.”* En el caso de ***Cristo***, sin embargo, **<u>muchos</u> pecados resultaron en un regalo gratuito**, que resultó en justificación para todos los que creen. Debido a que Cristo murió por nuestros pecados y resucitó, Dios puede declararnos legalmente justos ante Él y darnos el regalo gratuito de la vida eterna.
+
+
 
 ## D. Romanos 5:17 – Dos dominios
 
+
+
 ### 1. Romanos 5:17a – “ *Pues si por la transgresión de uno solo reinó la muerte,…” *La transgresión de **Adán** trajo el dominio de la muerte, haciendo que todos sus descendientes estuvieran bajo la maldición de la muerte. Desde la caída, debido al pecado de Adán, todos nacemos en un mundo en el cual la muerte **<u>gobierna</u>**. 1 Corintios 15:21-22
+
+
 
 ### 2. Romanos 5:17b – “…*mucho más **<u>reinarán</u>** en vida por uno solo, Jesucristo, los que reciben la abundancia de la gracia y del don de la justicia.”* La buena noticia es que, aunque éramos dominados por la muerte, los dones de gracia y justicia de **Cristo** proporcionan vida abundante a todos los que creen en Él. Juan 7:38
 
+
+
 ## E. Romanos 5:18-19 – Dos resultados
+
+
 
 ### 1. Romanos 5:18a – “*Así que, como por la transgresión de uno vino la condenación a todos los hombres,…”* **Adán** escogió **<u>desobedecer</u>** a su Creador. Su pecado trajo juicio sobre toda la raza humana. Génesis 3:6
 
+
+
 ### 2. Romanos 5:18b – “…*de la misma manera por la justicia de uno vino a todos los hombres la justificación de vida*.” Contrariamente, **Cristo** eligió **<u>obedecer</u>** al Padre. Filipenses 2:8 dice, “*…se humilló a sí mismo, haciéndose obediente hasta la muerte, y muerte de cruz.”* El sacrificio de Cristo trajo a toda la raza humana la oportunidad de ser justificados.
+
+
 
 ### 3. Romanos 5:19a – “*Porque así como por la desobediencia de un hombre los muchos fueron constituidos pecadores,…”* La desobediencia de** Adán **trajo la **<u>tragedia</u>** a la humanidad. La desobediencia de Adán afectó adversamente a toda su raza. Su desobediencia estableció a todo su linaje como pecadores; por lo tanto, todos nacimos en pecado.
 
+
+
 ### 4. Romanos 5:19b –*“…así también por la obediencia de uno, los muchos serán constituidos justos*.” Por el contrario, la obediencia de **Cristo** * “…hasta la muerte, y muerte de **<u>cruz</u>***.”(Flp. 2:8), trajo liberación a todos los que creen en Él. La obediencia de Cristo hasta la muerte ha establecido a todos Sus *muchos* creyentes como *justos*. Juan 3:3
+
+
 
 ## F. Romanos 5:20-21 – Dos esferas: la ley frente a la gracia
 
+
+
 ### 1. Romanos 5:20a – “*Pero la ley se introdujo para que el pecado abundase;…” *La Ley **<u>prueba</u>** que todas las personas son totalmente corruptas. Romanos 2:13, 3:19-20, 7:7
 
+
+
 ### 2. Romanos 5:20b – “… *mas cuando el pecado abundó, sobreabundó la gracia*;” Sin embargo,la **gracia** de Dios superabundó para **<u>pagar</u>** el pecado de toda la humanidad. 1 Timoteo 1:12-14
+
+
 
 ### 3. Romanos 5:21 – "*para que así como el pecado reinó para muerte, así también la gracia reine por la justicia para vida eterna mediante Jesucristo, Señor nuestro.*” El **<u>pecado</u>** había ganado el control de la humanidad, causando la muerte. A través de la justicia de Cristo, la gracia vino y venció al pecado. La gracia proveyó un camino para que los pecadores fueran declarados justos y recibieran la vida eterna. Tito 2:11-13  
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom6.1-2.jpg" data-auto-animate="" data-background-size="auto" data-menu-title="Romanos 6:1-10 - La Doctrina de la Santificación" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom6.1-2.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="Romanos 6:1-10 - La Doctrina de la Santificación" --> 
 
 
 
@@ -2074,81 +2839,132 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 # VI.Romanos 6:1-10 – La Doctrina de la Santificación - Verdad Posicional
 
+
+
 ## A. Romanos 6:1-2 – ¿Por qué no pecar?
+
+
 
 ### 1. Romanos 6:1a – “ *¿Qué, pues, diremos? ¿Perseveraremos en el pecado…?”* La santificación comienza con un entendimiento de nuestra nueva relación con el **<u>pecado</u>**. Sin esta comprensión, nuestro crecimiento seguirá atrofiado.
 
+
+
 #### a. La santificación es el proceso por el cual los creyentes **<u>crecen</u>** para ser más parecidos a Cristo. Implica ser salvos del poder del pecado en nuestras vidas diarias. Romanos 8:29
+
+
 
 #### b. Nuestra santificación se **<u>basa</u>** en el fundamento de nuestra posición **en Cristo** como resultado de nuestra justificación. 1 Corintios 3:11
 
+
+
 ### 2. Romanos 6:1b – “ *¿Qué, pues, diremos? ¿Perseveraremos en el pecado…?”* La pregunta es si deberíamos continuar **<u>en</u> pecado** (un sustantivo), no si deberíamos continuar **<u>pecando</u>** (un verbo).
+
+
 
 #### a. La forma **<u>verbal</u>** de la palabra pecado (HAMARTANO) aparece 7 veces en Romanos. De los 7 usos de pecado como verbo, 4 se encuentran en los capítulos de la santificación. La forma verbal de pecado se refiere al acto de pecar, no particularmente a la fuente de los pecados, que es la naturaleza del pecado.
 
+
+
 #### b. Es importante notar que la forma del sustantivo de la palabra pecado (HAMARTIA) aparece más de **<u>40</u>** veces en los pasajes que tratan sobre la santificación (Rom. 5:12-8:17). Esto es importante, porque cuando el pecado es usado como sustantivo, se refiere particularmente a la fuente del pecado, en lugar de señalar el acto o la acción de pecar.
 
+
+
 ##### 1) En el capítulo 5:12-21, el pecado como sustantivo aparece **<u>7</u>** veces.
+##### 2) En el capítulo 6, el pecado como sustantivo aparece **<u>16</u>** veces.  <!-- .element: class="fragment" -->
+##### 3) En el capítulo 7, el pecado como sustantivo aparece **<u>16</u>** veces.  <!-- .element: class="fragment" -->
+##### 4) En el capítulo 8:1-10, el pecado como sustantivo aparece **<u>5</u>** veces.  <!-- .element: class="fragment" -->
 
-##### 2) En el capítulo 6, el pecado como sustantivo aparece **<u>16</u>** veces.
 
-##### 3) En el capítulo 7, el pecado como sustantivo aparece **<u>16</u>** veces.
-
-##### 4) En el capítulo 8:1-10, el pecado como sustantivo aparece **<u>5</u>** veces.
 
 ##### 5) Sorprendentemente, en los primeros cuatro capítulos de Romanos que tratan con los incrédulos, el pecado como sustantivo aparece solo **<u>4</u>** veces.
 
+
+
 ##### 6) En la sección que trata los problemas de la vida cristiana, Romanos 8:11 a 16:27, la palabra pecado aparece solo **<u>2</u>** veces.
+
+
 
 ##### 7) La forma plural de pecado (pecados) aparece solo **<u>3</u>** veces en todo el libro de Romanos y solo una vez en los capítulos que tratan sobre la santificación. La importancia de este hecho se aclarará a medida que avancemos. Romanos 4:7, 7:5, 11:27
 
+
+
 #### c. El gran número de usos de la palabra pecado en los capítulos de la santificación muestra cuán preocupado está Dios por el **<u>pecado</u>** en la vida del creyente.
+
+
 
 #### d. En Romanos 5-8, la forma sustantiva de la palabra *pecado* en griego está usualmente en singular y acompañada por el artículo definido **<u>el</u>**, haciéndolo “el pecado”. En Romanos 7:17-18, vemos que “el pecado” se refiere a la naturaleza de pecado que mora en nosotros.
 
+
+
 ##### 1) Cuando Pablo se refirió al pecado en la vida del creyente, utilizó deliberadamente el término “el pecado”. **El pecado** indica la **<u>fuente</u>** del pecado, en otras palabras, la naturaleza de pecado, y no el fruto producido por la naturaleza de pecado, lo que sería los pecados en plural.
+
+
 
 ##### 2) Al enseñar sobre la santificación, Pablo se enfocó en la **<u>raíz</u>** del pecado.
 
+
+
 ##### 3) Pablo entendió que la única manera de controlar los **<u>pecados</u>** individuales en la vida de un creyente es ir a la raíz.
+
+
 
 #### e. El diablo y el mundo están curiosamente **<u>ausentes</u>** en este pasaje que trata con el pecado en la vida del creyente. Demasiados cristianos culpan a Satanás o al mundo por todos sus problemas, y por lo tanto nunca tratan con el problema de raíz, su propia naturaleza pecaminosa. Romanos 6-8 trata directamente con la naturaleza de pecado. Santiago 1:14
 
+
+
 ### 3. Romanos 6:1c – “* ¿Qué, pues, diremos? ¿Perseveraremos en el pecado para que la gracia abunde?*” Esta es una continuación natural a la declaración enorme de Pablo al final del capítulo cinco, “*mas cuando el **<u>pecado</u>** abundó, sobreabundó la gracia*.”
+
+
 
 #### a. La **<u>gracia</u>** de Dios es siempre más grande para el perdón que la capacidad del pecado para condenar.
 
+
+
 #### b. Debido a la superabundante naturaleza de la gracia, algunos creyentes pueden verse tentados a **<u>abusar</u>** de la gracia de Dios y continuar pecando.
+
+
 
 ### 4. Romanos 6:2a – ¿Cuál fue la respuesta de Pablo a su propia pregunta?, “ *¿Perseveraremos en el pecado para que la gracia abunde?*”
 
+
+
 #### a. “*En **<u>ninguna</u>** manera. …”* Definitivamente, no debemos seguir pecando. Pero ¿por qué?
+
+
 
 #### b. ¿Cuál crees que es la razón **<u>más</u>** importante para no pecar? Marca tu **mejor** opción o escribe una respuesta mejor a continuación.
 
+
+
 ##### 1) _________ No peques porque el pecado te lastima.
+##### 2) _________ No peques porque el pecado lastima a los que amas.  <!-- .element: class="fragment" -->
+##### 3) _________ No peques porque el pecado ofende a Dios. <!-- .element: class="fragment" -->
+##### 4) _________ No peques porque el pecado te hace perder gozo o recompensas.  <!-- .element: class="fragment" -->
+##### 5) _________ No peques porque el pecado es sumisión al diablo y al mundo.  <!-- .element: class="fragment" -->
+##### 6) _________ No peques porque el pecado traerá la disciplina de Dios.  <!-- .element: class="fragment" -->
+##### 7) _________ No peques porque el pecado quebranta la ley.  <!-- .element: class="fragment" -->
 
-##### 2) _________ No peques porque el pecado lastima a los que amas.
 
-##### 3) _________ No peques porque el pecado ofende a Dios.
-
-##### 4) _________ No peques porque el pecado te hace perder gozo o recompensas.
-
-##### 5) _________ No peques porque el pecado es sumisión al diablo y al mundo.
-
-##### 6) _________ No peques porque el pecado traerá la disciplina de Dios.
-
-##### 7) _________ No peques porque el pecado quebranta la ley.
 
 ##### 8) No peques, porque ______________________________________________.
 
+
+
 ### 5. Romanos 6:2b – “…*Porque los que hemos muerto al pecado,…” * Observa que el pronombre ***<u>nosotros</u>*** es implícito y esto se refiere exclusivamente a los creyentes.  
+
+
 
 ### 6. Romanos 6:2c – Nosotros *, “…los que hemos muerto al pecado, ¿cómo viviremos aún en él?” *La única razón de Pablo de por qué los cristianos no debemos pecar tenía que ver con comprender que a través de nuestra posición en Cristo estamos **<u>muertos</u>** al pecado.**<u></u>**
 
+
+
 #### a. Nosotros “*…los que hemos muerto al pecado,…*” describe la posición del creyente en Cristo, mientras que “… *viviremos aún en él?*” describe la **<u>conducta</u>** diaria del creyente. El conocimiento de nuestra posición debería afectar nuestra conducta.**<u></u>**
 
+
+
 #### b. La declaración *hemos muerto al pecado* **<u>no</u>** significa lo siguiente:**<u></u>**
+
+
 
 ##### 1) *Hemos muerto al pecado* no significa que la **<u>naturaleza</u>** de pecado está muerta en nosotros. Algunos enseñan una doctrina de erradicación, lo que significa que ya no tenemos una naturaleza de pecado. Esto no se encuentra en la declaración *hemos muerto al pecado.*
 
@@ -2156,23 +2972,37 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 ##### 2) *Hemos muerto al pecado* no significa que debes matar o crucificar la naturaleza de pecado. El verbo *muerto* está en el tiempo aoristo griego, lo que significa que sucedió en un punto específico del tiempo en el pasado. *Hemos muerto al pecado* es una afirmación de **<u>hecho</u>**, no una orden a obedecer. No es algo que nosotros mismos debemos hacer.
 
+
+
 ##### 3) Todos los **<u>esfuerzos</u>** para erradicar tu naturaleza de pecado en tu propia fuerza conducirán a la mera frustración. No puedes restringir o crucificar tu naturaleza de pecado.
+
+
 
 #### c. ¿Qué significa realmente la declaración *hemos **<u>muerto</u>** al pecado*?
 
+
+
 ##### 1) *Hemos muerto al pecado* podría traducirse, *hemos muerto* a [el] *pecado*. Como creyentes, estamos muertos a nuestra naturaleza de pecado, porque en la salvación, Dios sobrenaturalmente nos **<u>unió</u>** con Cristo en su muerte. Esta es una obra que Dios hizo. Gálatas 2:20
+
+
 
 ##### 2) *Hemos muerto al pecado* significa que en la muerte de Cristo fuimos identificados con Él y, consecuentemente, morimos en todo el **<u>reino</u>** del pecado, incluyendo los pecados individuales, Satanás, el mundo e incluso nuestra naturaleza de pecado. Romanos 6:10
 
+
+
 ##### 3) *Hemos muerto al pecado* significa que, en la estimación de Dios, cada creyente ha muerto, habiendo sido crucificado con Cristo. En esa posición, poseemos la **<u>victoria</u>** de Cristo sobre el pecado. Colosenses 2:20, 3:1-3
 
+
+
 ##### 4) Junto con Cristo, hemos sido sobrenaturalmente liberados del **<u>derecho</u>** absoluto de la naturaleza de pecado a gobernar nuestras vidas. Romanos 6:6
+
+
 
 ##### 5) En conclusión, la única **<u>razón</u>** de Pablo para que no continuemos en el pecado fue simplemente porque *hemos muerto al pecado*.
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom6.3-5.jpg" data-auto-animate="" data-background-size="auto" data-menu-title="Romanos 6:3-5 - Conociendo la historia de tu muerte al pecado con Cristo" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom6.3-5.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="Romanos 6:3-5 - Conociendo la historia de tu muerte al pecado con Cristo" --> 
 
 
 
@@ -2182,126 +3012,234 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 ## B. Romanos 6:3-5 – Conociendo la historia de tu muerte al pecado con Cristo
 
+
+
 ### 1. Romanos 6:3a – “*¿O no **<u>sabéis</u>**…?”* Saber que estás muerto al pecado y entender cómo eso se convirtió en tu realidad puede cambiar dramáticamente toda tu forma de vivir. **<u></u>**
+
+
 
 #### a. Saber que estás muerto al pecado te detendrá de intentar **<u>derrotar</u>**, erradicar o borrar el pecado a través de tu propio esfuerzo humano.**<u></u>**
 
+
+
 #### b. El **<u>esfuerzo</u>** humano para lidiar con el pecado lleva solo a frustrantes y fallidas estrategias hechas por el hombre, tales como el legalismo, el misticismo o incluso el nocivo maltrato del cuerpo. Colosenses 2:20-23**<u></u>**
+
+
 
 #### c. Saber que estás muerto al pecado te permite **<u>descansar</u>** en tu posición de victoria sobre el pecado basado en el poderoso significado de tu nueva identidad en Cristo. **<u></u>**
 
+
+
 ### 2. Romanos 6:3b – “*…que todos…”* Esta verdad es cierta de ***<u>todos</u>*** los creyentes. Si eres un hijo de Dios, estas verdades te pertenecen.
+
 
 
 ### 3. Romanos 6:3c – Necesitas saber que “…*todos los que hemos sido bautizados **<u>en</u>** Cristo Jesús, hemos sido bautizados en su muerte?*”
 
 
+
 #### a. La palabra *bautizados* (BAPTIZO) significa ser identificado o **<u>colocado</u>** dentro de. En el punto de tu salvación, el Espíritu Santo te colocó en Cristo.
+
+
 
 ##### 1) 1 Corintios 12:13 – “* Porque por un solo **<u>Espíritu</u>** fuimos todos bautizados en un cuerpo,*…”
 
+
+
 ##### 2) Gálatas 3:27 – “*porque todos los que habéis sido bautizados en Cristo, de Cristo estáis  **<u>revestidos</u>** *.”
+
+
 
 #### b. Este pasaje no se refiere a un bautismo en **<u>agua</u>**. Explica el bautismo espiritual, en el cual fuiste colocado en, o identificado con Cristo. Marcos 1:8; Lucas 13:16; Hechos 1:5, 11:16
 
+
+
 #### c. Como parte de tu nuevo **<u>nacimiento</u>**, fuiste tomado de Adán y colocado en Cristo. Cristo, no Adán, es ahora tu cabeza nacional, y todo lo que es cierto de Cristo, es cierto de ti.
+
+
 
 #### d. Lo creas o no, este es **<u>quién</u>** eres. Esta es tu realidad ante Dios. Ahora depende de ti vivir en la realidad de lo que Dios dice que es cierto de ti en Cristo.
 
+
+
 ### 4. Romanos 6:3d – “*…todos los que hemos sido bautizados en Cristo Jesús, hemos sido bautizados en su **<u>muerte</u>**?”* Cuando el Espíritu Santo te colocó en Cristo, fuiste identificado con Cristo en Su muerte. En Cristo moriste. Su muerte llegó a ser tu muerte.
+
+
 
 ### 5. Romanos 6:4 – “*Porque somos sepultados juntamente con él para muerte por el bautismo, a fin de que como Cristo resucitó de los muertos por la gloria del Padre, así también nosotros **<u>andemos</u>** en vida nueva*.” Dios ahora te ve como una persona que murió, fue sepultada y luego resucitó a novedad de vida.
 
+
+
 #### a. No solamente moriste con Cristo; también fuiste **<u>resucitado</u>** con Él. Efesios 2:4-6
+
+
 
 #### b. El **<u>hecho</u>** de que fuiste resucitado con Cristo hace posible para ti caminar* en vida nueva*. Colosenses 3:1-4
 
+
+
 #### c. No tienes que vivir en el fracaso y la derrota. Ahora puedes vivir en la **<u>victoria</u>** de Cristo y experimentar la *nueva* vida abundante que Cristo promete. Juan 10:10, 2 Corintios 5:17**
+
+
 
 ### 6. Romanos 6:5 – “*Porque si fuimos plantados juntamente con él en la semejanza de su muerte, así también lo seremos en la de su resurrección*. Dios te considera **<u>unido</u>** a Cristo tanto en su muerte como en su resurrección;” 1 Corintios 15:20-26
 
+
+
 #### a. Tu futura resurrección corporal se basa en el **<u>hecho</u>** de que, en la apreciación de Dios, tú estás unido a Cristo.
+
+
 
 #### b. Si Dios considera que este hecho es verdadero acerca de ti, ¿no puedes hacer lo mismo hoy? Si **<u>fallas</u>** en reconocer y abrazar la verdad de que estás unido a Cristo en Su muerte y resurrección, tu crecimiento como cristiano será cohibido.
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom6.6-10.jpg" data-auto-animate="" data-background-size="auto" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom6.6-10.jpg" data-auto-animate="" data-background-size="80%" --> 
 
 
 
 ## C. Romanos 6:6-10 – Conociendo el significado de tu muerte al pecado con Cristo
 
+
+
 ### 1. Romanos 6:6a –*“sabiendo esto, que nuestro **<u>viejo hombre</u>** fue crucificado juntamente con él*,”
+
+
 
 #### a. La frase *viejo hombre* se refiere a tu antigua identidad en**<u>Adán</u>**. Tu **antiguo yo** es **todo lo que eras en Adán** antes de la salvación.
 
+
+
 ##### 1) Debido a que tu *viejo hombre* fue crucificado con Cristo en la cruz, ya no estás relacionado con Adán. Tu vieja **<u>identidad</u>** en Adán se ha ido; es historia pasada.
+
+
 
 ##### 2) En la salvación, asumiste una nueva identidad. Naciste de nuevo y te convertiste en una **<u>nueva</u>** creación en Cristo. 2 Corintios 5:17
 
+
+
 ##### 3) El *viejo hombre* no es sinónimo de tu vieja naturaleza, también llamada la carne o la naturaleza de pecado. El viejo hombre está crucificado y se ha **<u>ido</u>**, mientras que la vieja naturaleza permanece con nosotros siempre que estemos aún en estos cuerpos carnales recibidos de Adán. 1 Corintios 15:45
+
+
 
 #### b. La palabra *crucificado* implica ser**<u>condenado</u>** a muerte por ley. Tu *viejo hombre*, esa persona que eras en Adán, fue legalmente condenada a muerte; *fue crucificado*.
 
+
+
 #### c. ¿Qué más **<u>logró</u>** Dios a través de esta crucifixión?
+
+
 
 ### 2. Romanos 6:6b – Dios nos crucificó juntamente con Cristo “…*para que el cuerpo del pecado sea destruido,…”* El término *cuerpo del pecado* no se refiere al **<u>cuerpo</u>** humano. Romanos 7:17-19
 
+
+
 #### a. Aunque el cuerpo humano está bajo la maldición de Dios y aún no está glorificado, no es **<u>malo</u>** por naturaleza. El cuerpo no es la fuente raíz del pecado en la vida de un creyente. Romanos 8:22
+
+
 
 #### b. Tu cuerpo humano es en el presente el **<u>templo</u>** del Espíritu Santo. Si tu cuerpo fuera naturalmente malo, Dios no viviría allí. 1 Corintios 6:13-20
 
+
+
 #### c. Dios también nos dice que **<u>presentemos</u>** nuestros cuerpos como un sacrificio vivo. En el Antiguo Testamento, los corderos sacrificados por los israelitas tenían que ser aceptables. Dios no aceptaría tu cuerpo como un sacrificio si fuera intrínsecamente malvado.  Romanos 12:1-2
+
+
 
 #### d. Concluimos entonces que el término *cuerpo del pecado* se refiere a la naturaleza de pecado. La naturaleza de pecado es innata e incurablemente **<u>malvada</u>**. Tu cuerpo humano solo se convierte en un instrumento del pecado cuando está dominado por la naturaleza de pecado. Romanos 6:12
 
+
+
 ### 3. Romanos 6:6c – “…*sea destruido,…”* La frase *sea destruido *(KATARGEO) significa ser despojado de poder o estar fuera de actividad. No significa aniquilación. La naturaleza de pecado no fue aniquilada en la salvación, pero Dios destruyó su autoridad sobre nosotros. A fin de liberarnos para el servicio, Dios despojó de **<u>poder</u>** a la naturaleza de pecado.
+
+
 
 #### a. Aquellos que enseñan que la naturaleza de pecado fue erradicada en la salvación afirman que pecamos debido a profundos surcos en el cerebro formados por malos hábitos. Creen que la forma de dejar de pecar es volver a entrenar el cerebro formando nuevos **<u>hábitos</u>**. Sin embargo, esto sólo resulta en un auto esfuerzo perdido.
 
+
+
 #### b. Estos maestros asumen falsamente que la santidad viene por controlar el **<u>cuerpo</u>** humano. Ellos enseñan erróneamente el legalismo, el misticismo, la dura auto moderación u otras filosofías humanas como formas de combatir el pecado en la vida del creyente. Colosenses 2
+
+
 
 #### c. Sin embargo, la provisión de Dios para una vida piadosa no depende del esfuerzo humano sino más bien de caminar a la luz de nuestra **<u>identidad</u>** en Cristo.
 
+
+
 ### 4. Romanos 6:6d – “… *a fin de que no **<u>sirvamos</u>** más al pecado.”*  La esclavitud obligatoria a la naturaleza de pecado terminó cuando el viejo hombre, la persona que éramos en Adán, fue crucificado con Cristo. Gálatas 2:20
+
+
 
 ####  a. Toma en cuenta que Pablo no dijo que ya no debemos ser esclavos del cuerpo humano; él dijo que ya no debemos ser esclavos del **<u>pecado</u>**.
 
+
+
 ####  b. Aquí en el griego, como en el español, la palabra pecado es en realidad “**<u>el</u>** pecado” y se refiere a la naturaleza de pecado, no a los pecados individuales. Como creyentes, identificados con Cristo, ya no debemos ser esclavos de la naturaleza de pecado.
+
+
 
 ### 5. Romanos 6:7 – “ *Porque el que ha muerto, ha sido justificado del pecado*.” Tu  libertad del **<u>poder</u>** de la naturaleza de pecado se basa en tu nueva identidad. Como creyentes, “… *fuimos plantados juntamente con él en la semejanza de su muerte,…”* Romanos 6:5
 
+
+
 #### a. *“Porque el que ha muerto,…” *Es importante recordar una vez más que en la obra de identificación de Dios, **<u>morimos</u>** (Rom. 6:2, 7) a la naturaleza de pecado. La naturaleza de pecado no murió.
+
+
 
 #### b. Debido a nuestra identificación con Cristo en Su muerte, hemos* sido **<u>justificado</u>*** **<u>[s]</u>*** del pecado*. Aunque la naturaleza de  pecado no está erradicada, ya no tiene ninguna autoridad para dominar nuestras vidas. Romanos 8:3-4
 
+
+
 ### 6. Romanos 6:8 – “*Y si morimos con Cristo, *[entonces] * creemos que también viviremos con él;”* Dios considera que esta verdad con respecto a nuestra identificación con Cristo es 100% una **<u>realidad</u>** y nosotros también debemos hacerlo.
+
+
 
 #### a. Romanos 6:8a – “*Y si…” *(*si *es una condición griega de primera clase, que quiere decir que el que habla asume una realidad) “…*morimos con Cristo,…”* (y lo hicimos), [entonces *] “…creemos que también **<u>viviremos</u>** con él;”* (y lo haremos).
 
+
+
 ##### 1) Puesto que, en la estimación de Dios, la muerte de Cristo ya **<u>cuenta</u>** por tu muerte, no debes intentar morir a ti mismo.
+
+
 
 ##### 2) Como creyente ya has muerto con Cristo. Es un **<u>hecho</u>** histórico, no una acción futura que debas iniciar.
 
+
+
 #### b. Romanos 6:8b – *“…creemos que también **<u>viviremos</u>** con él*;”  Como creyente, tu muerte con Cristo es tan válida para Dios que, a pesar de que “…*está establecido para los hombres que mueran una sola vez*,…” (Heb. 9:27), si el rapto ocurriera hoy, irías directamente al cielo sin que tu cuerpo experimentara una muerte física.
+
+
 
 ### 7. Romanos 6:9 – “*sabiendo que Cristo, habiendo resucitado de los muertos, ya no muere; la **<u>muerte</u>** no se enseñorea más de él.” * Cristo conquistó la muerte, y porque estás identificado con Cristo, tú también conquistaste la muerte a través de Él.
 
+
+
 #### a. Necesitamos saber que Cristo murió *una vez* y fue resucitado de entre los muertos *una vez*, y en estas acciones, Él conquistó la muerte ***<u>una vez</u>*** por todas.
+
+
 
 #### b. Cristo permitió que la muerte lo dominara una vez, pero nunca lo volverá a hacer. Cristo ahora domina a la muerte. Él posee las **<u>llaves</u>** de la muerte y del infierno. Hebreos 2:14‑15, Apocalipsis 1:18
 
+
+
 ### 8. Romanos 6:10a – “ *Porque en cuanto murió, **<u>al pecado</u>** murió…”* ¿Cuál es el significado de la muerte de Cristo en este versículo?
+
+
 
 #### a. Sabemos que “…*Que Cristo murió por nuestros pecados*,…” (1 Cor. 15:3, 1 Ped. 3:18), pero aquí Pablo incluyó otro **<u>aspecto</u>** de la muerte de Cristo. Cristo también murió “…*al pecado…”* en nuestro nombre. Romanos 8:3; 1 Pedro 2:24 (LBLA)
 
+
+
 #### b. El pecado aquí es un **<u>sustantivo</u>** singular que se refiere a la naturaleza de pecado. Romanos 7:17-18
+
+
 
 #### c. Ya que Cristo murió* al pecado* en nuestro nombre, en Él estamos **<u>muertos</u>** a la naturaleza de pecado. Esta es nuestra realidad ante Dios y no hay nada que podamos hacer para hacerlo más verdadero de lo que ya es. Simplemente necesitamos creer lo que ya es cierto de nosotros. 1 Pedro 2:24 (LBLA)
 
 
+
 ### 9. Romanos 6:10b–*“…al pecado murió **<u>una</u>**  **<u>vez</u>…”** * Cristo no necesita volver a morir. Él murió una vez; por lo tanto, en Él tú también moriste una vez a todo el reino del pecado. Hebreos 7:27, 9:28
+
 
 
 ### 10. Romanos 6:10c –*“…al pecado murió una vez **<u>por</u>**  **<u>todas</u>;…”** * Su única muerte fue por toda la humanidad, a pesar de que sólo los que creen en Él se benefician. Su única muerte fue suficiente para liberarnos de todas las formas de maldad, incluyendo a Satanás, el mundo, los pecados en plural, y específicamente en este contexto, a la naturaleza de pecado. Hebreos 2:9, 10:10
@@ -2309,6 +3247,8 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 ### 11. Romanos 6:10d – “… *mas en cuanto vive, para **<u>Dios</u>** vive*.”
+
+
 
 #### a. La vida que vive Cristo (tiempo presente), Él la **<u>vive</u>** para Dios solamente.
 
@@ -2322,7 +3262,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom6.11.jpg" data-auto-animate="" data-background-size="auto" data-menu-title="Romanos 6:11-23 - La Doctrina de la Santificación - Haciendo Práctica la Santificación" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom6.11.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="Romanos 6:11-23 - La Doctrina de la Santificación - Haciendo Práctica la Santificación" --> 
 
 
 
@@ -2331,95 +3271,167 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 # VII. Romanos 6:11-23 – La Doctrina de la Santificación - Haciendo Práctica la Santificación
+## A. Romanos 6:11 – Contando con tu nueva identidad  <!-- .element: class="fragment" -->
 
-## A. Romanos 6:11 – Contando con tu nueva identidad
+
 
 ### 1. Romanos 6:11 – “*Así también vosotros consideraos muertos al pecado, pero  **<u>vivos</u>** para Dios en Cristo Jesús, Señor nuestro* .”
 
+
+
 #### a. Esta es la primera orden para los cristianos en el **<u>libro</u>** de Romanos.
+
+
 
 #### b. Si bien es maravilloso saber acerca de tu identidad en Cristo, el conocimiento por sí solo no es suficiente. Lo que sabes no te ayuda a menos que **<u>cuentes</u>** con ello por fe.
 
+
+
 #### c. En otras palabras, puedes saber que fuiste colocado en la muerte, sepultura y resurrección de Cristo, y sin embargo, nunca **<u>beneficiarte</u>** de ello. ¿Qué vas a hacer con el conocimiento de tu identificación con Cristo recientemente explicado en Romanos 6:1-10?
+
+
 
 ### 2. Romanos 6:11a – “*Así también vosotros consideraos*…” ¿Qué significa **<u>considerar</u>**?
 
+
+
 #### a. El verbo griego *considerarse* (LOGIZOMAI) es traducido **<u>pensar</u>** (*pensad*) en algunas traducciones  antiguas de la Biblia. Este verbo es utilizado al menos 20 veces en romanos.
+
+
 
 #### b. *Considerar* (LOGIZOMAI) es un concepto contable o matemático. Las matemáticas y la contabilidad tratan con certezas. Por ejemplo, dos más dos siempre son cuatro. Cuando se trata de **<u>matemáticas</u>**, lo que es verdad hoy sigue siendo verdad mañana.
 
+
+
 #### c. Considerarse, o contarse, significa contar con certezas. Significa contar con hechos que son siempre ciertos. Tu co-crucifixión con Cristo es **<u>cierta</u>** acerca de ti ya sea que lo creas o no.
+
+
 
 #### d. Considerarse, o contarse, no significa…
 
+
+
 ##### 1) No es pensamiento **<u>creativo</u>** o imaginativo.
+
+
 
 ##### 2) No es intentar **<u>convencerte</u>** a ti mismo de que algo es verdad.
 
+
+
 ##### 3) No es existencialismo, en el que lo que crees se convierte en tu **<u>verdad</u>** personal, sea verdaderamente cierto o no.
+
+
 
 ##### 4) No es meramente un pensamiento **<u>positivo</u>**.
 
+
+
 #### e. ¿Dónde te deja esto?
 
+
+
 ##### 1) Estás muerto al pecado y vivo para Dios, punto. Pero a menos que tú personalmente, por fe, cuentes con que este hecho es cierto acerca de ti, no tendrá ningún **<u>valor</u>** para tu diario vivir.
+
+
 
 ##### 2) Si no **<u>cuentas</u>** con este hecho bíblico diariamente por fe, tienes garantizado ser dominado por la naturaleza del pecado, a pesar de que no tiene que ser así.
 
 
+
 ### 3. Romanos 6:11b – Tú debes* *considerarte* “…muerto* [ *de cierto*, RVA 1909]* al **<u>pecado</u>***,…” Colosenses 2:20, 3:1-3
+
+
 
 #### a. De Romanos 6:1-10, sabemos que estamos muertos a la naturaleza de pecado, pero ahora por fe, Dios quiere que comencemos a contar con este hecho. Esto es importante, porque no importa cuánto tiempo hayas sido creyente, por **<u>defecto</u>** enfrentas la tentación de caminar según la naturaleza de pecado todos los días de tu vida. Romanos 6:6
 
+
+
 #### b. Debido a que moriste a la naturaleza de pecado, ya no tienes ninguna obligación con ella. La naturaleza de pecado ya no tiene ninguna autoridad en tu vida. Dios te ordena personalizar esta verdad. Él quiere que **<u>confíes</u>** continuamente en esta realidad.
+
+
 
 ### 4. Romanos 6:11d – También se te ordena considerarte *“…**<u>vivo</u>** para Dios en Cristo Jesús, Señor nuestro*.” Colosenses 3:4
 
+
+
 #### a. En Adán, estabas **<u>muerto</u>** en tus pecados. No tenías para nada relación alguna con Dios. De hecho, eras Su enemigo.  Efesios 2:1-3
+
+
 
 #### b. En Cristo, por otro lado, estás vivo para Dios. Cuando moriste con Cristo en la cruz, la persona que eras en Adán murió y naciste de nuevo con una nueva **<u>vida</u>** y una nueva identidad. 2 Corintios 5:17, Santiago 1:18
 
+
+
 #### c. Ahora que estás vivo para Dios, tienes una relación con Él. Puedes venir **<u>confiadamente</u>** a la presencia de Dios. Puedes conocer al Dios del universo y arrojar todas tus preocupaciones sobre Él. 1  Corintios 1:9, Efesios 2:5-6, Colosenses 3:3, Hebreos 4:16, 1 Pedro 1:23
+
+
 
 #### d. Estando vivo para Dios, eres capaz de **<u>agradar</u>** a Dios y vivir para Sus propósitos y gloria. Filipenses 1:21
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom6.12-14.jpg" data-auto-animate="" data-background-size="auto" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom6.12-14.jpg" data-auto-animate="" data-background-size="80%" --> 
 
 
 
 ## B. Romanos 6:12-14 – Presentando tus miembros
 
+
+
 ### 1. Romanos 6:12 – [*Por tanto*, LBLA] *“No reine, pues, el pecado en vuestro cuerpo mortal, de modo que lo obedezcáis en sus concupiscencias*.” Este es la segunda orden en el libro de romanos. Por fe, no debes permitir que tu cuerpo sea **<u>usado</u>** por la naturaleza de pecado.
+
+
 
 #### a. *Por tanto*… [LBLA]. La orden en Romanos 6:11 de considerarte, por **<u>fe</u>**, muerto al pecado y vivo para Dios – debe afectar tu vida diaria.
 
+
+
 #### b. *“No reine, pues, el pecado en vuestro cuerpo mortal, de modo que lo  obedezcáis en sus concupiscencias*.” Este mandato – de no permitir que tu **<u>cuerpo</u>** sea gobernado por la naturaleza de pecado – se basa en el hecho de que estás legalmente muerto a la naturaleza de pecado y no tienes ninguna obligación de responder a ella.
+
+
 
 ##### 1) Pablo no estaba diciendo que se **<u>resista</u>** a la naturaleza de pecado ordenándole que se fuera o diciéndole “no”. Esto sería volver al esfuerzo humano.
 
+
+
 ##### 2) Tú no debes pelear u oponerte a la naturaleza de pecado en tu propia fuerza. Más bien, basado en el hecho de que estás muerto a ella, no debes **<u>responder</u>** a sus estimulaciones. En relación con la naturaleza de pecado, estás muerto. Créelo.
+
+
 
 ### 2. Romanos 6:13a – Pablo continuó clarificando el pensamiento anterior. “* ni tampoco presentéis vuestros miembros al pecado como instrumentos de iniquidad*,…” *Miembros *significa partes. Por fe, debes dejar de presentar las partes de tu cuerpo a la naturaleza de pecado como **<u>herramientas</u>** o armas para la injusticia.
 
+
+
 ### 3. Romanos 6:13b – “…*sino **<u>presentaos</u>** vosotros mismos a Dios como vivos de entre los muertos, y vuestros miembros a Dios como instrumentos de justicia*.”
+
+
 
 #### a. El verbo *presentar* (PARISTEMI) significa acercarse y permanecer. PARISTEMI como palabra compuesta es derivada de PARA que significa “junto a” y HISTEMI que significa “**<u>parar</u>**” o "pararse firme”.
 
+
+
 #### b. Esta palabra podría usarse para describir una unidad militar que se mantiene atenta. En el ejército, los soldados se presentan voluntariamente, armados y listos, esperando **<u>órdenes</u>**.
+
+
 
 #### c. Basado en tu nueva vida junto con Cristo, debes por **<u>fe</u>**, no por esfuerzo humano, presentar tus miembros a Dios como Sus instrumentos de la justicia.
 
+
+
 #### d. En algunos idiomas traducen *presentéis* como *ceder o entregar*, pero esto transmite un concepto erróneo. No es la mejor traducción de la palabra **<u>griega</u>** PARISTEMI. Ceder y entregar implican un esfuerzo humano en lugar de ser simplemente una cuestión de fe. Romanos 12:1-2
 
+
+
 ### 4. Romanos 6:14a – “*Porque el pecado no se enseñoreará de vosotros; pues no estáis bajo la ley,…”* En otras palabras, si estuvieras viviendo bajo la ley, el pecado **<u>sería</u>** tu amo. El legalismo te hace en realidad un esclavo de la naturaleza de pecado. Las leyes y reglas motivan, en lugar de desmotivar, el pecado. Romanos 7:5
+
+
 
 ### 5. Romanos 6:14b – “*Porque el pecado no se enseñoreará de vosotros; pues …estáis …bajo la gracia*.” La vida *bajo la **<u>gracia</u>*** es superior. La gracia de Dios te guarda de convertirte en esclavo de la naturaleza de pecado. La gracia es el poder de Dios para cambiar nuestras vidas. Vive por gracia y la naturaleza de pecado no será tu amo. Tito 2:11
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom6.15-18.jpg" data-auto-animate="" data-background-size="auto" data-menu-title="Romanos 6:15-18 - ¿Quien es tu señor?" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom6.15-18.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="Romanos 6:15-18 - ¿Quien es tu señor?" --> 
 
 
 
@@ -2429,83 +3441,148 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 ## C. Romanos 6:15-18 – ¿Quién es tu señor?
 
+
+
 ### 1. Romanos 6:15-16 – Necesitamos entender las consecuencias destructivas de vivir **<u>bajo</u>** la naturaleza de pecado como amo.
+
+
 
 #### a. Romanos 6:15a – “*¿Qué, pues? ¿Pecaremos, porque no estamos bajo la ley, sino bajo la gracia?...”* Ya que estamos bajo la gracia, ¿por qué no seguir pecando? La mayoría de la gente piensa que la gracia conduce a pecar. Ellos piensan que la forma de guardarse de pecar es a través de **<u>normas</u>** y regulaciones.
 
+
+
 #### b. Romanos 6:15b – La respuesta de Pablo fue, “*En ninguna manera”* Sólo porque no estás bajo la ley, no significa que eres libre de pecar.  Pablo no **<u>enseñó</u>** que los cristianos debían pecar.
+
+
 
 #### c. Romanos 6:16a – “* ¿No sabéis que si os sometéis a alguien como esclavos para obedecerle, sois **<u>esclavos</u>** de aquel a quien obedecéis,…?”*
 
+
+
 ##### 1) Aquí Pablo dio una segunda razón por la cual los cristianos no deberían pecar: *sois esclavos de aquel a quien **<u>obedecéis</u>***.
+
+
 
 ##### 2) Todas las **<u>personas</u>** sobre la tierra, tanto creyentes como incrédulos, son esclavos.
 
+
+
 ###### a) Las personas no salvas **<u>no</u>** tienen elección de quién será su amo. Están atrapados en esclavitud a su naturaleza de pecado.
+
+
 
 ###### b) Los cristianos pueden **<u>elegir</u>** de quién serán esclavos. Esta es una verdad crítica.
 
+
+
 ##### 3) Como cristiano, te conviertes en esclavo de aquel a quien te presentas. En cualquier momento dado, eres ya sea, un esclavo de Dios, lo que resulta en justicia, o un esclavo de la naturaleza de pecado, lo que resulta en **<u>muerte</u>**. Gálatas 6:7-8
+
+
 
 ##### 4) El **<u>éxito</u>** o fracaso de tu vida cristiana depende de si te consideras o no muerto al pecado y vivo para Dios y presentas tus miembros a Dios como instrumentos de justicia.
 
+
+
 #### d. Romanos 6:16b – “*¿No sabéis que …*sois esclavos de aquel a quien obedecéis, sea del pecado para muerte, o sea de la obediencia para justicia?” Te conviertes en esclavo de aquel a quien te **<u>presentas</u>**.
+
+
 
 ##### 1) Los dos amos que se presentan aquí son paralelos a Gálatas 5:16-25 (LBLA) en el cual la naturaleza de pecado y el Espíritu Santo **<u>guerrean</u>** por el control sobre ti. Mateo 6:24
 
+
+
 ##### 2) Si te presentas a la naturaleza de pecado que mora dentro, cosecharás,  sin excepción, una **<u>cosecha</u>** de muerte. Romanos 6:21, Gálatas 6:8a
+
+
 
 ##### 3) Pero si te presentas ante el **<u>Espíritu</u>** Santo que mora en ti, el resultado será justicia. Romanos 6:22, Gálatas 6:8b
 
+
+
 ### 2. Romanos 6:17-18 – La única forma de dejar de pecar es, por fe, **<u>aplicar</u>** las verdades enseñadas en este capítulo.
 
+
+
 #### a. Romanos 6:17 – “*Pero gracias a Dios, que aunque erais esclavos del pecado, habéis obedecido de corazón a aquella forma de doctrina a la cual fuisteis entregados*;” Aunque los creyentes romanos habían sido esclavos de su naturaleza de pecado, estaban comenzando a **<u>disfrutar</u>** de la libertad al vivir de acuerdo con estas verdades de identificación.
+
+
 
 #### b. Romanos 6:18 – “ *y libertados del pecado, vinisteis a ser siervos de la justicia*.” Los creyentes romanos no solo deben haber entendido su libertad del **<u>pecado</u>**, sino que, obviamente, también contaron con ello por fe, porque Pablo dijo que ellos vinieron *a ser siervos de la justicia*.
 
 
-
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom6.19-23.jpg" data-auto-animate="" data-background-size="auto" data-menu-title="Romanos 6:19-23 - La santificación hecha simple" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom6.19-23.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="Romanos 6:19-23 - La santificación hecha simple" --> 
 
 
 
 ## D. Romanos 6:19-23 – La santificación hecha simple
 
+
+
 ### 1. Romanos 6:19 –** **Antes de que fueras creyente, presentabas con entusiasmo tu cuerpo físico a la naturaleza de pecado. Ahora, si de la misma manera presentas tus miembros al Señor, el **<u>resultado</u>** será la santificación, el proceso de llegar a ser más parecido a Cristo.
+
+
 
 #### a. Romanos 6:19a –** “** *Hablo como humano, por vuestra humana debilidad;…”* Tendemos a complicar la vida cristiana, pero Pablo quería hacer que esta **<u>verdad</u>** se entendiera tan fácilmente como fuera posible. 2 Corintios 11:3
 
+
+
 #### b. Romanos 6:19b –** “…** *que así como para iniquidad presentasteis vuestros miembros para servir a la inmundicia y a la iniquidad,…”* Antes de que fueras salvo, ibas presentando las **<u>partes</u>** de tu cuerpo (manos, ojos, pies, mente, etc.) a la naturaleza de pecado para cometer actos de pecado. Esto resultó en más y más maldad en tu vida.
+
+
 
 #### c. Romanos 6:19c –** “…** *así ahora para santificación presentad vuestros miembros para servir a la justicia*.” De la misma manera que solías presentar las partes de tu cuerpo a la naturaleza de pecado, **<u>preséntalas</u>** ahora a Dios y crecerás para ser más y más como Cristo.
 
+
+
 ### 2. Romanos 6:20 – “*Porque cuando erais esclavos del pecado, erais libres acerca de la justicia*.” Cuando aún no eras salvo, eras totalmente eximido de hacer lo que era **<u>correcto</u>**. Dios no te importaba en absoluto.
+
+
 
 ### 3. Romanos 6:21 – “*¿Pero qué fruto teníais de aquellas cosas de las cuales ahora os avergonzáis? Porque el fin de ellas es muerte*." Tu esclavitud a la naturaleza de pecado no te consiguió más que fracaso, **<u>vergüenza</u>** y muerte.
 
+
+
 ### 4. Romanos 6:22a – “ *Mas ahora que habéis sido libertados del pecado*…” A través de la obra de Dios de identificarte con Cristo en Su muerte y resurrección, has sido liberado del **<u>antiguo</u>** amo malvado, la naturaleza de pecado. Gálatas 5:1
+
+
 
 ### 5. Romanos 6:22b – “…*y hechos siervos de Dios,*…” Como **<u>hijo</u>** de Dios y creyente en Jesucristo, Dios es tu nuevo amo y Señor. 1 Corintios 6:19-20
 
+
+
 ### 6. Romanos 6:22c – “…*tenéis por vuestro fruto la santificación,…” * A medida que te presentas al Señor, comienzas a **<u>vivir</u>** justamente, y, de hecho, sacas partido del poder de Dios sobre el pecado en tu vida.
+
+
 
 ### 7. Romanos 6:22e – “…*y como fin, la vida eterna.”* La vida eterna es tanto una cantidad de **<u>vida</u>** (interminable) como también una calidad de vida (abundante). Juan 17:3
 
+
+
 #### a. Aunque **<u>cada</u>** creyente tiene la *vida eterna* como una posesión permanente, en este versículo, Pablo habló de nuestra *vida eterna* como la calidad de vida que el creyente disfruta como resultado de haber * “…sido libertados del pecado y hechos siervos de Dios,…”*
+
+
 
 #### b. La* vida eterna *no es meramente una vida infinita a poseer, es también una calidad de **<u>vida</u>** a experimentar. Esta es la vida abundante que Cristo prometió. Puedes comenzar a vivir verdaderamente en este mismo momento. Juan 10:10b, Gálatas 2:20, Colosenses 3:3-4, 1 Timoteo 6:12, 2 Timoteo 1:10
 
+
+
 ### 8. Romanos 6:23 – “*Porque la paga del pecado es muerte, mas la dádiva de Dios es vida eterna en Cristo Jesús Señor nuestro*.” Entonces, ¿qué será para ti, la **<u>vida</u>** o la muerte?
+
+
 
 #### a. A menudo usamos Romanos 6:23 cuando compartimos el evangelio, pero el **<u>contexto</u>** real se refiere a la cosecha que recibimos del amo a quien nos presentamos como creyentes.
 
+
+
 #### b. En la vida cristiana, el resultado de presentarte en esclavitud a la naturaleza de pecado es una ruptura en la comunión con Dios, o un tipo de **<u>muerte</u>** de la comunión. Esto no significa que pierdes tu salvación, pero ciertamente pierdes tu gozo. 1 Juan 1:6
+
+
 
 #### c. A la inversa, el resultado de presentarse ante Dios, basado en tu posición en Cristo de estar muerto al pecado y vivo para Dios, es el regocijo tanto de vida eterna como **<u>abundante</u>**. ¿Estás viviendo esta maravillosa vida eterna hoy? Juan 17:3, 1 Juan 1:3b-4
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom7.1-6.jpg" data-auto-animate="" data-background-size="auto" data-menu-title="Romanos 7:1-25 - La Doctrina de la Santificación - Tu Nueva Relación con la Ley" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom7.1-6.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="Romanos 7:1-25 - La Doctrina de la Santificación - Tu Nueva Relación con la Ley" --> 
 
 
 
@@ -2517,76 +3594,145 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-## A. Definiendo términos
+## A. Definiendo términos 
+
+
 
 ### 1. **Muerte** – Cuando ves la palabra **<u>muerte</u>** en las Escrituras, debes determinar su significado. 
 
+
+
 #### a. El término **<u>bíblico</u>** para muerte no significa cesación de la existencia o aniquilación.
+
+
 
 #### b. El concepto de muerte en la Biblia normalmente transmite un **<u>estado</u>** de separación. 
 
+
+
 ##### 1) La **muerte física** es la separación del espíritu y el alma del **<u>cuerpo</u>** (Gn. 5:5). La Biblia enseña que incluso después de la muerte física, el alma y el espíritu continúan viviendo. Lucas 16:22-23, 23:43; Filipenses 1:21-26 
+
+
 
 ##### 2) La **muerte espiritual** es la separación del cuerpo, el alma y el espíritu de **<u>Dios</u>**, la Fuente y el Dador de la vida. 
 
+
+
 ###### a) Todas las personas nacen en esta condición de **<u>muerte</u>** espiritual. Génesis 2:17; Juan 3:3-5; Efesios 2:1, 5 
+
+
 
 ###### b) A fin de ser hechas **<u>vivas</u>** para Dios, las personas necesitan nacer de nuevo en la familia de Dios. Efesios 2:5-6, Colosenses 2:13 
 
+
+
 ##### 3) La** muerte eterna**, también llamada la **<u>segunda</u>** muerte, es la separación de Dios por la eternidad en el Lago de Fuego. Apocalipsis 20:11-15
+
+
 
 ##### 4) La **muerte de comunión **es una **<u>brecha</u>** en la comunicación con Dios u otros creyentes. Esta también es llamada muerte temporal. 1 Timoteo 5:6, Apocalipsis 3:1
 
+
+
 ###### a) Esta es una condición temporal que no anula el estatus legal de aceptación ante Dios de uno, pero sí **<u>limita</u>** la comunión de uno con Dios.
+
+
 
 ###### b) La carnalidad, el legalismo y la mundanalidad, todas **<u>llevan</u>** a los creyentes a este malestar espiritual.
 
+
+
 ### 2. **Ley** – Cuando ves la palabra **<u>ley</u>** en la Biblia, debes determinar su significado. 
+
+
 
 #### a. La ley puede referirse a las leyes **<u>civiles</u>** o sociales que gobiernan todas las sociedades humanas. Romanos 7:2; Daniel 6:8, 15 
 
+
+
 #### b. La ley puede significar un principio que encontramos en la naturaleza o en la **<u>vida</u>**. La ley de la gravedad es un ejemplo de una ley natural. Romanos 8:2 
+
+
 
 #### c. La ley puede referirse a las Escrituras del Antiguo Testamento en general, puede también referirse a las más de 600 leyes del Antiguo Testamento, o incluso más específicamente puede referirse a los **<u>Diez</u>** Mandamientos. Lucas 16:16-17 
 
+
+
 ## B. Romanos 7:1-6 – Casados con Cristo
+
+
 
 ### 1. Romanos 7:1 – “*¿Acaso ignoráis, hermanos (pues hablo con los que conocen la ley), que la ley se enseñorea del hombre entre tanto que éste vive?*” En esta sección, Pablo usó un ejemplo de la ley social para enseñar una importante **<u>verdad</u>** espiritual con respecto a la libertad del creyente del legalismo. 
 
+
+
 #### a. Toda sociedad en la tierra entiende que cuando un individuo muere, las leyes de la sociedad **<u>dejan</u>** de tener autoridad sobre esa persona. Por ejemplo, las personas muertas no son convocadas, procesadas o encarceladas.
+
+
 
 #### b. Utilizando una ley específica, la ley del matrimonio, Pablo comparó la forma en que la muerte afecta la relación de una persona con la ley social del matrimonio con la forma en que la muerte afecta la relación de un creyente con el **<u>legalismo</u>** y la Ley de Moisés.  
 
+
+
 ### 2. Romanos 7:2-3 – Pablo usó las leyes sociales que gobiernan el matrimonio para explicar nuestra **<u>nueva</u>** relación con el legalismo y la Ley del Antiguo Testamento, ahora que estamos en Cristo.
+
+
 
 #### a. Romanos 7:2a – “*Porque la mujer casada está sujeta por la ley al marido mientras éste vive;…”* Básicamente, en todo el mundo, de acuerdo con las leyes societarias del matrimonio, una mujer casada está legalmente atada a su esposo entre tanto que él **<u>viva</u>**.
 
+
+
 #### b. Romanos 7:2b – “… *pero si el marido muere, ella queda libre de la ley del marido*.” Pero si el esposo de la mujer **<u>muere</u>**, ella es inmediatamente liberada de la ley del matrimonio.
+
+
 
 #### c. Romanos 7:3a – “*Así que, si en vida del marido se uniere a otro varón, será llamada adúltera;…”* De acuerdo con la ley del matrimonio, si una mujer casada vive con otro hombre mientras su marido aún **<u>vive</u>**, se la considera culpable de adulterio.
 
 
+
 #### d. Romanos 7:3b – “…*pero si su marido muriere, es libre de esa ley, de tal manera que, si se uniere a otro marido, no será adúltera.”* Pero si su esposo muere, ella queda **<u>libre</u>** de la ley del matrimonio y puede casarse legalmente con otro hombre.
+
+
 
 ### 3. Romanos 7:4 – Comprender esta enseñanza puede **<u>salvarte</u>** de una vida de legalismo. Puede liberarte de la inútil frustración de tratar de guardar los Diez Mandamientos o intentar seguir otras listas de qué se debe y no se debe hacer.
 
+
+
 #### a. Romanos 7:4a – “*Así también vosotros, hermanos míos, habéis muerto a la ley mediante el cuerpo de Cristo,…”* Al igual que la mujer casada que es liberada de la ley del matrimonio por la muerte de su esposo, tú estás liberado de la Ley del Antiguo Testamento por tu **<u>muerte</u>** junto a Cristo. Gálatas 2:19-20
+
+
 
 ##### 1) Todo creyente ha *muerto a la ley* (Gal. 2:19). Esto significa que debido a tu co-crucifixión con Cristo, ya no estás bajo la jurisdicción de la **<u>Ley</u>** de Moisés, incluyendo los Diez Mandamientos, así como también todas las demás leyes dadas a la nación de Israel. Romanos 6:14, 7:6; Gálatas 3:24-35, 5:18
 
+
+
 ##### 2) Puesto que la Ley ya no tiene ninguna autoridad sobre ti, no tienes que vivir bajo el **<u>aplastante</u>** peso de sus obligaciones. Hechos 15:10, Gálatas 5:1
+
+
 
 ##### 3) Ya no tienes que intentar **<u>ganarte</u>** la aceptación de Dios por medio de la obediencia a la Ley. Como creyente en Cristo, ya eres plenamente aceptado como Su hijo. Colosenses 2:13-14
 
+
+
 ##### 4) ¿Por qué te era necesario **<u>morir</u>** a la Ley?
+
+
 
 #### b. Romanos 7:4b – *“…para que seáis de **<u>otro</u>**, del que resucitó de los muertos,…”* Cuando moriste con Cristo, la ley perdió su autoridad sobre ti y fuiste liberado *para que seáis de otro*. Ahora estás unido a Jesucristo, quien no es un capataz cruel como la Ley, sino un colaborador misericordioso.
 
+
+
 #### c. Romanos 7:4c – “…*a fin de que llevemos fruto para Dios*.” Mientras estabas bajo la Ley y su legalismo resultante, eras incapaz de agradar a Dios. Sin embargo, ahora que estás unido a Cristo, Él en gracia produce **<u>frutos</u>** para Dios a través de ti. Romanos 8:3, Gálatas 2:19-20, Filipenses 1:11
+
+
 
 ### 4. Romanos 7:5 – Cuando todavía eras un incrédulo, en la **<u>carne</u>** y casado con la Ley, la vida era casi insoportable.
 
+
+
 ####  a. Romanos 7:5a – “* Porque mientras estábamos en la carne, las pasiones pecaminosas que eran por la ley obraban…”* Cuando todavía eras un incrédulo, la Ley desencadenaba tus deseos pecaminosos, por lo que querías hacer las mismas cosas que la Ley decía que **<u>no</u>** hicieras.
+
+
 
 #### b. Romanos 7:5b – “*…las pasiones pecaminosas …obraban en nuestros miembros…”* Tus **<u>deseos</u>** pecaminosos despertados por la naturaleza de pecado, se expresaban en múltiples actividades pecaminosas a través de las diversas partes de tu cuerpo humano.
 
@@ -2594,23 +3740,37 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 #### c. Romanos 7:5c – “*…llevando fruto para muerte*.” Tus pasiones pecaminosas acarrearon la **<u>muerte</u>** para ti.
 
+
+
 ##### 1) Esto no está hablando de muerte física inmediata, sino de una ruptura en la comunión con **<u>Dios</u>** y con los demás. 1 Juan 1:5-6
+
+
 
 ##### 2) El **<u>resultado</u>** de tu cuerpo siendo manejado por sus pasiones pecaminosas fue quebrantamiento, angustia y destrucción. Gálatas 6:8, Santiago 1:14-15
 
+
+
 ### 5. Romanos 7:6 – ¿A qué debe **<u>asemejarse</u>** tu vida ahora que estás casado con Cristo?
+
+
 
 #### a. Romanos 7:6a – “*Pero ahora estamos libres de la ley, por haber muerto para aquella en que estábamos sujetos,…”* Cuando moriste con Cristo en el momento de la salvación, fuiste liberado de la esclavitud a la Ley y su resultante **<u>legalismo</u>**. Colosenses 2:20-23, Gálatas 4:8-11, Efesios 2:1-3
 
+
+
 ##### 1) Cuando sientes que debes guardar **<u>reglas</u>** para servir al Señor, la vida se convierte en una carga pesada. Esta miserable consecuencia debería servir como una llamada de atención para alertarnos sobre el hecho de que algo está mal. 2 Corintios 3:4-8
 
+
+
 ##### 2) Algunos cristianos se consumen tratando de agradar a Dios a través de sus **<u>propios</u>** esfuerzos. Necesitamos el poder de Dios para hacer la obra de Dios.
+
+
 
 #### b. Romanos 7:6b – “…*de modo que sirvamos bajo el régimen nuevo del Espíritu y no bajo el régimen viejo de la letra*.” Esta frase bajo *el régimen viejo de la letra *se refiere a la Ley de Moisés. Ahora que estás bajo la **<u>gracia</u>**, no la Ley, y ahora que Cristo vive a través de ti, la vida puede ser verdaderamente gozosa y digna de ser vivida. 2 Corintios 5:17, 1 Juan 1:4
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom7.7-13.jpg" data-auto-animate="" data-background-size="auto" data-menu-title="Romanos 7:7-13 - La vida bajo la ley" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom7.7-13.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="Romanos 7:7-13 - La vida bajo la ley" --> 
 
 
 
@@ -2620,53 +3780,97 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 ## C. Romanos 7:7-13 – La vida bajo la Ley
 
+
+
 ### 1. Romanos 7:7 – Pablo mostró quién era el verdadero **<u>culpable</u>** de su pecado, y no era la Ley.
+
+
 
 #### a. *“¿Qué diremos, pues? ¿La ley es pecado?...” *Esencialmente, la pregunta que Pablo formuló fue esta: “¿Es la ley la de alguna manera **<u>culpable</u>** de mis acciones pecaminosas?”
 
+
+
 #### b. *“…En ninguna manera. …” *La respuesta de Pablo fue: “¡Ni pensarlo!” La ley no es pecaminosa. La ley es **<u>perfecta</u>**, porque su autor es perfecto.
+
+
 
 #### c. *“…Pero yo no conocí el pecado sino por la ley;…”* La ley, en efecto, hizo su **<u>trabajo</u>**; le definió claramente el pecado a Pablo. Fue una excelente maestra. Gálatas 3:19, Romanos 3:19
 
+
+
 #### d.*“…porque tampoco conociera la codicia, si la ley no dijera: No codiciarás.”* Sin la ley, Pablo no habría sabido que era incorrecto **<u>codiciar</u>**. Romanos 3:19-20
+
+
 
 ### 2. Romanos 7:8-9 – Pablo reveló que la culpable era la **<u>naturaleza</u>** de pecado, no la ley.
 
+
+
 #### a. Romanos 7:8a – “* Mas el pecado, tomando ocasión por el mandamiento, produjo en mí toda codicia;…”* Era a la naturaleza de pecado a la que se debía culpar; la naturaleza de pecado **<u>usó</u>** la buena Ley de Dios para tentar a Pablo a pecar.
+
+
 
 #### b. Romanos 7:8b – “*…porque sin la ley el pecado está muerto*.” La naturaleza de pecado es alimentada por la Ley. Sin la ley para **<u>desafiar</u>**, la naturaleza de pecado permanece inactiva.
 
+
+
 #### c. Romanos 7:9a – “ *Y yo sin la ley **<u>vivía</u>** en un tiempo;…”* Antes de que entendiera la Ley, Pablo vivía una vida despreocupada con  respecto a cualquier responsabilidad por el pecado. Romanos 3:20
+
+
 
 #### d. Romanos 7:9b – “… *pero venido el mandamiento, el pecado revivió y yo morí*.” Una vez que Pablo escuchó y entendió la Ley, su naturaleza de pecado cobró vida, provocándole experimentar la **<u>muerte</u>**. Romanos 6:23
 
+
+
 ### 3. Romanos 7:10-11 – Pablo relató su frustración bajo la **<u>Ley</u>**.
+
+
 
 #### a. Romanos 7:10 – “* Y hallé que el mismo mandamiento que era para vida, a mí me resultó para muerte*;” La Ley que Pablo pensó que le ayudaría a **<u>vivir</u>** una buena vida resultó en traerle muerte.
 
+
+
 #### b. Romanos 7:11 – “*porque el pecado, tomando ocasión por el mandamiento, me engañó, y por él me mató*.” La naturaleza de pecado de Pablo utilizó la buena Ley de Dios como unaoportunidad para destruirlo. La naturaleza de pecado lo engañó al **<u>inducirlo</u>** a quebrantar las leyes de Dios, causándole experimentar la muerte.
+
+
 
 ### 4. Romanos 7:12-13 – **<u>Resumen</u>** de las declaraciones de Pablo sobre la ley y la naturaleza de pecado
 
+
+
 #### a. Romanos 7:12 – “*De manera que la ley a la verdad es santa, y el mandamiento santo, justo y bueno*.” Como en el versículo 7, Pablo **<u>nuevamente</u>** reconoció la perfección de la Ley.**<u></u>**
+
+
 
 #### b. Romanos 7:13a – “*¿Luego lo que es bueno, vino a ser muerte para mí? En ninguna manera;…”* Entonces, ¿causó la buena Ley de Dios la muerte de Pablo? **<u>Nunca</u>**. ¡Ni pensarlo! Él nunca culparía a la Ley perfecta de Dios por su pecado. Fue su naturaleza de pecado la que se aprovechó de la Ley y desencadenó su muerte.
 
+
+
 #### c. Romanos 7:13b – *“…sino que el pecado* [la naturaleza de pecado]*, para mostrarse pecado *[o pecaminoso, sin artículo definido aquí] * produjo en mí la muerte por medio de lo que es bueno,…” *Fue la naturaleza de pecado de Pablo la que causó su muerte al aprovecharse **<u>audazmente</u>** de la buena Ley de Dios y hacerle pecar.
+
+
 
 ##### 1) La naturaleza de pecado es tan terriblemente **<u>malvada</u>** que tiene la audacia de aprovecharse de la buena y perfecta Ley de Dios para hacer pecar a una persona y causarle su muerte.
 
+
+
 ##### 2) El hecho de tener este discernimiento con respecto a la naturaleza de pecado no significa que no seas personalmente responsable de tus acciones pecaminosas, pero sí te **<u>ayuda</u>** a reconocer la fuente del pecado en tu vida.
+
+
 
 #### d. Romanos 7:13c – “…*a fin de que por el mandamiento el pecado llegase a ser sobremanera pecaminoso*.” ¿Cómo **<u>utiliza</u>** Dios el abuso de tu naturaleza de pecado de la Ley y tu fracaso para tu bien?
 
+
+
 ##### 1) Dios usa esta nueva comprensión de cómo actúa tu **<u>malvada</u>** naturaleza de pecado para animarte a contar con las verdades de Romanos 6:11. Por fe, debes considerarte muerto a la naturaleza de pecado y vivo para Dios en Cristo.
+
+
 
 ##### 2) Esta comprensión debería estimularte a **<u>presentar</u>** las partes de tu cuerpo como instrumentos de justicia para Dios, como Romanos 6 lo enseña. Juan 15:5, 2 Corintios 12:9-10
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom7.14-23.jpg" data-auto-animate="" data-background-size="auto" data-menu-title="Romanos 7:14-23 - Una vida frustrada" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom7.14-23.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="Romanos 7:14-23 - Una vida frustrada" --> 
 
 
 
@@ -2676,87 +3880,157 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 ## D. Romanos 7:14-23 – Una vida frustrada
 
+
+
 ###  1. Romanos 7:14 – Pablo identificó la **<u>raíz</u>** del problema del pecado en su vida.
+
+
 
 #### a. Romanos 7:14a – “*Porque sabemos que la ley es espiritual*;…” Dado que la ley viene de **<u>Dios</u>**, es totalmente buena y perfecta. Es espiritual, no carnal.
 
+
+
 #### b. Romanos 7:14b – “*…mas yo soy carnal* (SARKIKÓS),…” Esta frase es traducible, “Soy de la carne o **<u>carnal</u>**”. Pablo se puso a sí mismo como ejemplo de lo que un creyente experimenta cuando camina según la carne. Él conocía esta frustración por experiencia personal, tal como la conocemos nosotros, si somos honestos.
+
+
 
 ##### 1) Cuando él dijo, “*…mas yo soy carnal*,…” Pablo no estaba confesando que él estaba caminando según la **<u>carne</u>**  mientras escribía.
 
+
+
 ##### 2) Además, Pablo no estaba escribiendo sobre su vida **<u>pasada</u>** como persona no salva. De lo contrario, habría utilizado una descripción de los no salvos, similar a la que usó en Romanos 7:5 – “…*mientras estábamos en la carne,…”*.
+
+
 
 #### c. Romanos 7:14c – “…*mas yo soy carnal, vendido al pecado.”* Esto podría entenderse como: “Soy de la carne **<u>cuando</u>** me esclavizo a la naturaleza del pecado”. Pablo sabía a quién culpar por el pecado en su vida.
 
+
+
 ##### 1) En este versículo, Pablo se estaba refiriendo a la batalla que un creyente enfrenta cuando camina según la carne. Gracias a su propia experiencia personal, Pablo pudo usarse como un ejemplo del **<u>creyente</u>** que se encuentra bajo la dominación de la naturaleza pecaminosa.
+
+
 
 ##### 2) Cada vez que los creyentes se presentan a la naturaleza de pecado, los miembros de su cuerpo humano son utilizados por la naturaleza de pecado, lo que instantáneamente los hace de la carne o **<u>carnales</u>**. Gálatas 5:17
 
+
+
 ### 2. Romanos 7:15 – Pablo estaba perplejo por el hecho de que sus deseos y sus acciones no **<u>coincidían</u>**. Esto es exactamente lo que también nosotros experimentamos cuando caminamos por medio de la naturaleza de pecado.
+
+
 
 #### a. Romanos 7:15a – “*Porque lo que hago, no lo entiendo;…” *Pablo estaba frustrado porque no entendía sus propias **<u>acciones</u>**.
 
+
+
 #### b. Romanos 7:15b – “…*pues no hago lo que quiero,…”* Aunque él deseaba hacer lo que era **<u>correcto</u>**, en la práctica fue un total fracaso.
+
+
 
 #### c. Romanos 7:15c – “*…sino lo que aborrezco, eso hago*.” En lugar de hacer lo que era correcto, él continuó haciendo las cosas terribles que odiaba. Este tipo de **<u>fracaso</u>** es característico de un creyente cuando él o ella peca y se siente sin esperanzas de cambiar.
 
+
+
 ### 3. Romanos 7:16-20** **– Pablo explicó la **<u>miseria</u>** de ser dominado por la naturaleza de pecado.
+
+
 
 #### a. Romanos 7:16 – En su **<u>nueva</u>** naturaleza, Pablo quería hacer lo que era correcto.
 
+
+
 ##### 1) Romanos 7:16a – “*Y si lo que no quiero, esto hago,*…” Esto muestra que Pablo tenía una nueva naturaleza. La nueva persona que era en Cristo **<u>deseaba</u>** hacer lo que la Ley ordenaba.
+
+
 
 ##### 2) Romanos 7:16b – *“…apruebo que la ley es buena.”* La nueva naturaleza de Pablo sabía que la Ley era buena y quería **<u>acatarla</u>**.
 
+
+
 #### b. Romanos 7:17a – “*De manera que ya no soy yo quien hace aquello, sino el pecado que mora en mí*.” Pablo no estaba eludiendo su responsabilidad aquí. Él simplemente estaba confirmando que, obviamente, no era su nueva naturaleza la que lo estaba **<u>haciendo</u>** pecar.
+
+
 
 #### c. Romanos 7:17b – Pablo entendió que “…*el pecado que **<u>mora</u>**…”*interiormente *,* o sea su naturaleza de pecado, producía pecados en su vida anterior. En la vida del creyente la raíz del problema de pecar y fracasar es la misma naturaleza de pecado.
 
+
+
 #### d. Romanos 7:18 – “*Yo sé que en mí, esto es, en mi carne, no mora el bien; porque el querer el bien está en mí, pero no el hacerlo.”* La nueva naturaleza siempre desea hacer lo correcto (1 Juan 3:9); sin embargo, la naturaleza de pecado es absolutamente **<u>incapaz</u>** de agradar a Dios. Es incapaz de guardar la ley.
+
+
 
 #### e. Romanos 7:19 – “*Porque no hago el bien que quiero, sino el mal que no quiero, eso hago*.” Pablo nuevamente repitió su fracaso y frustración. Esto era obviamente un gran problema para él, como lo es para todos los creyentes. Cuando un creyente camina por el esfuerzo humano y no por el poder de Dios, él o ella **<u>fracasará</u>** cada vez. Gálatas 5:16‑24 (LBLA)
 
+
+
 #### f. Romanos 7:20 – “*Y si hago lo que no quiero, ya no lo hago yo, sino el pecado que mora en mí*.” Cuando ves pecados en tu vida, la **<u>raíz</u>** del problema es la naturaleza de pecado – *EL pecado que mora en mí*. Romanos 7:15, 16, 19, 20
+
+
 
 ### 4. Romanos 7:21-23 – Pablo concluyó que hay un principio de **<u>maldad</u>** en cada creyente.
 
+
+
 #### a. Romanos 7:21 – “* Así que, queriendo yo hacer el bien, hallo esta ley: que el mal está en mí*.” Pablo describió la lucha del creyente que desea hacer lo correcto sin la **<u>ayuda</u>** del Espíritu Santo. Él conocía muy bien la misma batalla espiritual que se libra dentro de nosotros las 24 horas del día, los siete días de la semana. Gálatas 5:17
+
+
 
 #### b. Romanos 7:22 – “ *Porque según el hombre interior, me deleito en la ley de Dios*;” La nueva naturaleza de Pablo, su hombre **<u>interior</u>**, estaba muy feliz de hacer lo correcto en obediencia a la Ley de Dios. Efesios 3:16
 
+
+
 #### c. Romanos 7:23a – “…*pero veo otra ley en mis miembros, que se rebela contra la ley de mi mente,…”* Aunque Pablo deseaba hacer lo correcto, había una **<u>guerra</u>** librándose en su interior. Su naturaleza de pecado estaba luchando en contra, y venciendo, los deseos de su nueva naturaleza. Gálatas 5:16-17 (LBLA)
+
+
 
 #### d. Romanos 7:23b – “…*y que me lleva cautivo a la ley del pecado que está en mis miembros*.” Pablo estaba perdiendo la guerra porque su nueva naturaleza no era rival para su naturaleza pecaminosa. Necesitaba el **<u>poder</u>** del Espíritu Santo, el cual pasó a explicar en Romanos 8. Romanos 7:14-15
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom7.24-25.jpg" data-auto-animate="" data-background-size="auto" data-menu-title="Romanos 7:24-25 - El reconocimiento de Pablo de la liberación en Cristo" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom7.24-25.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="Romanos 7:24-25 - El reconocimiento de Pablo de la liberación en Cristo" --> 
 
 
 
 ## E. Romanos 7:24-25 – El reconocimiento de Pablo de la liberación en Cristo
 
+
+
 ### 1. Romanos 7:24a – “*!Miserable de mí!...” *Pablo estaba totalmente exasperado en esta **<u>batalla</u>** con su naturaleza de pecado. Reconoció su propio fracaso e insuficiencia. Él estaba al límite de sí mismo y de sus propios esfuerzos humanos.
+
+
 
 ### 2. Romanos 7:24b – “…*¿quién me librará de este cuerpo de muerte?”* Pablo estaba haciendo la pregunta correcta cuando preguntó **quién** lo liberaría en lugar de **qué** lo libraría. La libertad que buscaba se encontraba en una **<u>persona</u>** y no en un método. 1 Corintios 1:30
 
+
+
 #### a. Pablo intuyó que necesitaba ser liberado de*este cuerpo de muerte*. No era de su cuerpo **<u>físico</u>** que necesitaba liberación.
+
+
 
 #### b. Él necesitaba ser liberado del *cuerpo de muerte*, o la naturaleza de **<u>pecado</u>**, que pesaba fuertemente sobre su cuerpo terrenal.
 
+
+
 ### 3. Romanos 7:25a – La liberación que Pablo buscaba viene a través de Jesucristo nuestro **<u>Señor</u>**. “ *Gracias doy a Dios, por Jesucristo Señor nuestro. …” *Pablo no explicó las dinámicas de esta liberación en este pasaje, solo su confianza que viene a través de Jesucristo. Romanos 8; Gálatas 5:16, 24 (LBLA)
+
+
 
 ### 4. Romanos 7:25b – Resumen de la **<u>batalla</u>**: “…*Así que, yo mismo con la mente sirvo a la ley de Dios, mas con la carne a la ley del pecado*.”
 
+
+
 #### a. En su **<u>nueva</u>** naturaleza, Pablo quería gozosamente obedecer las leyes de Dios.
 
+
+
 #### b. Pero, por otro lado, con la naturaleza de pecado dominándolo, tristemente **<u>servía</u>** a la ley, o principio, del pecado.
+
+
 
 ### 5. Entonces, ¿cuál es la provisión de Dios para vivir la vida cristiana? Los detalles específicos no se encuentran en Romanos 7. Esto nos lleva a Romanos 8 y al ministerio del Espíritu **<u>Santo</u>** en nuestra santificación.
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom8.1-4.jpg" data-auto-animate="" data-background-size="auto" data-menu-title="Romanos 8:1-17 - La Doctrina de la Santificación y el Espíritu Santo" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom8.1-4.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="Romanos 8:1-17 - La Doctrina de la Santificación y el Espíritu Santo" --> 
 
 
 
@@ -2766,176 +4040,321 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 # IX. Romanos 8:1-17 – La Doctrina de la Santificación y el Espíritu Santo
 
+
+
 ## A. Introducción
+
+
 
 ### 1. El clamor de Pablo en Romanos 7:24 fue,*“!Miserable de mí! ¿**<u>Quién</u>** me librará de este cuerpo de muerte?*” Y su respuesta en el versículo siguiente fue, “ *Gracias doy a Dios, por Jesucristo Señor nuestro*.”
 
+
+
 ### 2. A través de **<u>Cristo</u>**, Dios no solo proveyó para nuestra liberación eterna, Él también proveyó para nuestra liberación diaria. En este capítulo, Pablo dio una explicación detallada de la abundante provisión de Dios para nosotros en Cristo.
+
+
 
 ## B. Romanos 8:1-4 – Un nuevo principio para vivir
 
+
+
 ### 1. Romanos 8:1a – “*Ahora, pues, ninguna condenación hay para los que están en Cristo Jesús*,…” Ahora que Dios nos identifica con Cristo Jesús, no necesitamos **<u>temer</u>** que seremos eternamente condenados. Romanos 8:33-34
+
+
 
 #### a. La palabra *condenación* (KATAKRIMA) significa juzgar **<u>digno</u>** de castigo. Los creyentes nunca están en peligro de ser considerados dignos de castigo y ser condenados al Lago de Fuego. Juan 3:18, 5:24
 
+
+
 #### b. “…*para los que están en Cristo Jesús,…”* Nuestra identificación con Jesucristo nos ha **<u>liberado</u>** de toda condenación. Su justicia ha llegado a ser nuestra justicia. Si aún así fuéramos condenados, Cristo también sería condenado, porque como creyentes estamos posicionados *en Cristo Jesús*. 2 Corintios 5:21; Efesios 1:3-5, 2:4-7; Colosenses 3:1-3
+
+
 
 ### 2. Romanos 8:1b – “… *los que no andan conforme a la carne, sino conforme al Espíritu*.” Debido a estar *en Cristo Jesús*, ningún creyente, espiritual o carnal, enfrentará **<u>jamás</u>** la condenación eterna. Los creyentes carnales a menudo enfrentan una auto condenación severa y debilitante por su comportamiento pecaminoso.
 
+
+
 ### 3. Romanos 8:2a – “*Porque la ley del Espíritu de vida en Cristo Jesús me ha librado de la ley del pecado y de la muerte*.” No solo somos libres del temor a la condenación, sino que ahora gozamos de un nuevo principio – *el Espíritu de vida en Cristo Jesús*. En esta **<u>nueva</u>** posición en Cristo, hemos sido liberados de la dominación obligatoria por la naturaleza del pecado. Romanos 7:25
+
+
 
 #### a. Romanos 8:2a –*“Porque la ley del Espíritu de vida en Cristo Jesús me ha librado…”*Observa que Pablo llamó a este nuevo principio el *Espíritu de vida en Cristo Jesús*. A través del Espíritu Santo, Cristo está **<u>vivo</u>** en nosotros. Romanos 8:9-11
 
+
+
 ##### 1) En Gálatas 2:20, Pablo confirmó esta verdad cuando escribió, “*Con Cristo estoy juntamente crucificado, y ya no vivo yo, mas vive  **<u>Cristo</u>** en mí; y lo que ahora vivo en la carne,  lo vivo en la fe del Hijo de Dios, el cual me amó y se entregó a sí mismo por mí*.” Colosenses 1:27
+
+
 
 ##### 2) En Juan 15:4-5 Jesús dijo, “* Permaneced en mí, y yo en vosotros. Como el pámpano no puede llevar fruto por sí mismo, si no permanece en la vid, así tampoco vosotros, si no permanecéis en mí. Yo soy la vid, vosotros los pámpanos; el que permanece en mí, y yo **<u>en</u>** él, éste lleva mucho fruto; porque separados de mí nada podéis hacer*.”
 
+
+
 ##### 3) Cristo nos hace **<u>completos</u>**. En Cristo tenemos todo lo que necesitamos para vivir la vida en abundancia. Colosenses 2:9-10a dice, “* Porque en él habita corporalmente toda la plenitud de la Deidad, y vosotros estáis completos en él.*”
+
+
 
 ##### 4) Cristo es nuestra misma **<u>vida</u>**. Colosenses 3:4 dice, “*Cuando Cristo, vuestra vida, se manifieste, entonces vosotros también seréis manifestados con él en gloria.*”
 
+
+
 ##### 5) Para el apóstol Pablo, Cristo le dio a la vida un**<u>nuevo</u>** significado. Filipenses 1:21 dice, “ *Porque para mí el vivir es Cristo, y el morir es ganancia*.”
+
+
 
 ##### 6) El mayor **<u>deseo</u>** de Pablo en la vida era ser justo en su conducta al confiar en Cristo. Él no quería volver a luchar para obtener algún tipo de justicia legalista y auto-realizada.
 
-###### a) Filipenses 3:9 – “*y ser hallado en él, no teniendo mi propia justicia, que es por la  **<u>ley</u>**, sino la que es por la fe de Cristo, la  justicia que es de Dios por la fe;”*
 
- .
+
+###### a) Filipenses 3:9 – “*y ser hallado en él, no teniendo mi propia justicia, que es por la  **<u>ley</u>**, sino la que es por la fe de Cristo, la  justicia que es de Dios por la fe;”*.
+
+
 
 ###### b) Filipenses 3:10-11 – “*A fin de conocerle, y el **<u>poder</u>** de su resurrección, y la participación de sus padecimientos, llegando a ser semejante a él en su muerte, si en alguna manera llegase a la resurrección de entre los muertos*.”
 
+
+
 #### b. Romanos 8:2b – El principio *del* *Espíritu de vida en Cristo Jesús “...me ha librado de la ley del pecado y de la muerte.”* Gracias a nuestra nueva posición en Cristo, ahora podemos experimentar total libertad del **<u>antiguo</u>** principio del pecado y la muerte.
+
+
 
 ##### 1) En el capítulo anterior, Pablo describió vívidamente el principio del pecado y la muerte. Compartió con franqueza que cuando la naturaleza de pecado lo estaba dominando, solo producía muerte y **<u>ruina</u>**. Él había estado atrapado en un ciclo interminable de pecado y fracaso, una muerte viviente.
 
+
+
 ##### 2) Bajo el nuevo principio del* Espíritu de vida en Cristo Jesús,* Dios nos proporciona Su Espíritu para que podamos llevar frutos para Dios. En lugar de muerte y ruina, ahora somos libres para experimentar **<u>vida</u>** abundante. Romanos 7:6; Gálatas 5:1, 16-18; Efesios 4:17-24
+
+
 
 ### 4. Romanos 8:3 – Dios **<u>hizo</u>** lo que la ley nunca podría hacer.
 
+
+
 #### a. Romanos 8:3a – “* Porque lo que era imposible para la ley, por cuanto era débil por la carne,…”* Debido a la forma en que la naturaleza de pecado se aprovecha de la santa y buena ley de Dios, la ley no tiene poder para **<u>impedir</u>** que una persona peque. Romanos 7:8, 11-13, 17-18, 20, 23
+
+
 
 ##### 1) Cuando éramos incrédulos, la ley no pudo **<u>justificarnos</u>** ante Dios. Romanos 3:20, Gálatas 2:16
 
+
+
 ##### 2) Y ahora que somos creyentes, la Ley no puede hacernos **<u>santos</u>** en nuestra conducta diaria.
+
+
 
 #### b. Romanos 8:3b – “* Porque lo que era imposible para la ley, por cuanto era débil por la carne, Dios,…”* lo hizo. Pablo no estaba hablando aquí solamente de nuestra justificación en el momento de la **<u>salvación</u>**.
 
+
+
 ##### 1) Pablo se estaba refiriendo a nuestra **<u>libertad</u>** del principio destructivo del pecado y la muerte.
+
+
 
 ##### 2) Dios hizo lo que la ley era incapaz de hacer. Dios creó un camino para que podamos **<u>vivir</u>** diariamente una vida justa y victoriosa.
 
+
+
 #### c. Romanos 8:3c – Dios lo hizo: “…* enviando a su Hijo en semejanza de carne de pecado y a causa del pecado, condenó al pecado en la **<u>carne</u>**;”* La respuesta a nuestra libertad de la dominación del pecado se encuentra en la venida del único Hijo de Dios, Jesucristo.
+
+
 
 ##### 1) La frase “…*en semejanza* (HOMOIOMA) *de carne de pecado…”* nos dice que Jesucristo fue humano de verdad. Él era **<u>completamente</u>** humano. Él tenía nuestra forma exacta y semejanza. Su cuerpo humano no era diferente de nuestros cuerpos humanos. Gálatas 4:4, Filipenses 2:6, Hebreos 2:17
 
+
+
 ##### 2) Este versículo no implica, sin embargo, que Cristo tuvo la misma naturaleza pecaminosa que el resto de la humanidad. Si eso fuera cierto, Cristo hubiera sido un pecador, pero sabemos que Él **<u>nunca</u>** pecó. Isaías 53:9, 2 Corintios 5:21, 1 Pedro 2:22
+
+
 
 ##### 3) Dios envió a su Hijo, como un humano genuino, para cumplir lo que la Ley era **<u>incapaz</u>** de hacer, es decir, traer justicia para todos nosotros.
 
+
+
 #### d. Romanos 8:3d – “…*Dios, enviando a su **<u>Hijo</u>** en semejanza de carne de pecado y a causa del pecado*,…”
+
+
 
 ##### 1) Aquí la frase “*a causa del pecado,*” en la Reina Valera (1960) no es la **<u>mejor</u>** traducción del texto original.
 
+
+
 ##### 2) Una mejor traducción de este verso podría ser; “Pues lo que la ley no pudo hacer ...Dios lo hizo: enviando a su propio Hijo en semejanza de carne de pecado... **<u>por el pecado</u>**.”
+
+
 
 ##### 3) La palabra **<u>pecado</u>** aquí es nuevamente singular, refiriéndose a la naturaleza de pecado.
 
+
+
 ##### 4) Literalmente, esto está diciendo que Dios Padre envió a Su propio Hijo por “el” pecado. Cristo vino a tratar con la naturaleza de pecado en nuestras vidas. Dios envió a Jesús, como humano, para **<u>resolver</u>** el problema de la naturaleza de pecado por nosotros.
+
+
 
 #### e. Romanos 8:3e – “…c*ondenó al pecado en la carne;” *Mientras estaba en la **<u>cruz</u>**, Cristo condenó la naturaleza de pecado que reside en nuestros cuerpos mortales.
 
+
+
 ##### 1) El propósito de la muerte de Cristo en la cruz no fue sólo perdonar  nuestros pecados (plural), como vemos en 1 Corintios 15:3, sino también condenar a muerte nuestra naturaleza de pecado. Cristo no sólo trató con nuestros pecados, Él también trató con la **<u>fuente</u>** de nuestros pecados, más precisamente, la naturaleza de pecado. Romanos 6:10
+
+
 
 ##### 2) A través de Su muerte en la cruz, Cristo condenó la naturaleza de pecadoen nosotros al dejarla **<u>inoperante</u>**. Romanos 6:6, 12
 
+
+
 ##### 3) Cuando un edificio es clausurado y acordonado porque es declarado inoperante y destinado a la destrucción, aunque el edificio continúa existiendo hasta el **<u>día</u>** de su demolición, ya no es legalmente habitable.
+
+
 
 ##### 4) De manera similar, nuestra naturaleza pecaminosa está **<u>sentenciada</u>** a muerte. Va a ser destruida, ya sea en el momento de nuestra muerte o en el rapto de la iglesia.
 
+
+
 ##### 5) A pesar de que cualquier creyente honesto admitirá que su naturaleza de pecado todavía existe, la mayoría de los creyentes no comprenden que su naturaleza de pecado ha sido condenada por Cristo y ya no tiene autoridad irresistible para **<u>controlar</u>** sus vidas.
+
+
 
 #### f. Romanos 8:4 – “* para que la justicia de la ley se cumpliese en nosotros, que no andamos conforme a la carne, sino conforme al Espíritu*.” Debido a que tu naturaleza de pecado ha sido condenada, ahora eres **<u>libre</u>** de vivir una vida justa.
 
+
+
 ##### 1) Como creyente, puede **<u>caminar</u>** ya sea *conforme a la carne o conforme al Espíritu*. Puedes vivir tu vida cristiana bien conforme el principio del espíritu de vida o bien conforme al principio del pecado y la muerte.
 
+
+
 ##### 2) El creyente que camina según el Espíritu agradará a Dios y experimentará la **<u>vida</u>** abundante. Gálatas 5:16 (LBLA)
+
+
 
 ##### 3) Pero el creyente que se deja dominar por la naturaleza de pecado experimentará la **<u>muerte</u>** de comunión y la ruina eventual. Gálatas 6:8
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom8.5-8.jpg" data-auto-animate="" data-background-size="auto" data-menu-title="Romanos 8:5-8 - Características de la mente puesta en la carne y la mente puesta en el Espíritu" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom8.5-8.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="Romanos 8:5-8 - Características de la mente puesta en la carne y la mente puesta en el Espíritu" --> 
 
 
 
 ## C. Romanos 8:5-8 – Características de la mente puesta en la carne y la mente puesta en el Espíritu
 
+
+
 ### 1. Romanos 8:5 – Pablo contrastó una vida influenciada por la carne, o la naturaleza de pecado, con una vida influenciada por el **<u>Espíritu</u>** Santo. Gálatas 5:17
+
+
 
 #### a. Romanos 8:5a – En la Biblia de las Américas, la frase* “Porque los que son de la carne*…” es traducido, *“Porque los que viven conforme a la carne,*…”. Los incrédulos siempre viven de acuerdo a la carne; Ese es su **<u>único</u>** recurso. Romanos 7:5
 
 
+
 ##### 1) Sin embargo, cuando los creyentes se **<u>presentan</u>** a la naturaleza de pecado, también están caminando *conforme a la carne* y los resultados son los mismos.
+
+
 
 ##### 2) Cuando los creyentes caminan de acuerdo a su naturaleza de pecado, se vuelven **<u>mundanos</u>**, carnales y no espirituales en su comportamiento. 1 Corintios 3:1-3
 
+
+
 #### b. Romanos 8:5b – “*…piensan en las cosas de la carne;…” *Los que viven conforme a la carne, ponen la mente en las cosas de la carne. Pensar o poner tu mente en las cosas de la carne significa **<u>ocupar</u>** tu pensamiento en los deseos pecaminosos de tu naturaleza de pecado.
+
+
 
 #### c. Romanos 8:5c – “… *pero los que son del Espíritu, en las cosas del Espíritu.” *En contraste, aquellos creyentes que caminan de acuerdo al Espíritu llenan sus mentes con las cosas que **<u>agradan</u>** a Dios.
 
+
+
 ### 2. Romanos 8:6 – Una mente puesta en la carne experimenta muerte carnal, mientras que una mente puesta en el Espíritu disfruta **<u>vida</u>** y paz.
+
+
 
 #### a. Romanos 8:6a – “*Porque el ocuparse de la carne es muerte*,…” Muerte es un **<u>sustantivo</u>** aquí, enfatizando el estado miserable de la persona que pone su mente en la carne. Él o ella vivirá una vida sin sentido, carente de propósito y sin fruto. Juan 6:63
 
+
+
 #### b. Romanos 8:6b – *“…pero el ocuparse del Espíritu es vida y paz.”* La mente del creyente que camina de acuerdo al Espíritu Santo está llena de vida y **<u>paz</u>**.
+
+
 
 ##### 1) *Vida *(ZOE) en este contexto implica vida **<u>real</u>**. El resultado de caminar de acuerdo con el Espíritu es vida abundante. Juan 10:10, Efesios 3:19, 1 Timoteo 6:12
 
+
+
 ##### 2) Si caminas conforme al Espíritu, estarás en paz. La mayoría de los creyentes anhelan **<u>disfrutar</u>** paz interior verdadera. Juan 14:27, 16:33; Filipenses 4:7
+
+
 
 ### 3. Romanos 8:7 – “* Por cuanto los designios de la carne son  **<u>enemistad</u>** contra Dios; porque no se sujetan a la ley de Dios, ni tampoco pueden*;” Todo lo que nace de la naturaleza de pecado es contrario a Dios. Gálatas 5:17
 
+
+
 #### a. La **<u>mente</u>** puesta en la carne es * enemistad contra Dios. *Quienes caminan por la carne son resistentes a Dios. Ellos a menudo culpan a Dios por ser distante o silencioso, mientras que el problema real es su propia carnalidad. Efesios 2:3
+
+
 
 #### b. La mente puesta en la carne *no se **<u>sujeta</u>** a la ley de Dios*. Aquellos que caminan por la carne no son sumisos a la Palabra de Dios. No creen lo que Dios dice ni hacen lo que Él quiere.
 
+
+
 #### c. La mente puesta en la carne * tampoco **<u>puede</u>** *obedecer la ley de Dios. Es imposible para el creyente que camina por medio de la naturaleza de pecado complacer a Dios. Isaías 64:6
+
+
 
 #### d. Cuando carecemos de paz, nos sentimos **<u>lejos</u>** de Dios, no queremos orar o experimentamos múltiples relaciones rotas, ciertamente estamos caminando de acuerdo con la carne y no de acuerdo con el Espíritu. Los cristianos que andan por la carne son fríos hacia Dios. Gálatas 5:16 (LBLA)
 
+
+
 ### 4. Romanos 8:8 – “ *y los que viven según la carne no pueden agradar a Dios.”* Esta declaración está hablando específicamente de aquellos que no han creído en Jesucristo, los que están en la carne todavía y no pueden agradar a Dios en absoluto. Sabemos que los incrédulos viven según la carne en todo momento y son totalmente **<u>incapaces</u>** de agradar a Dios. Efesios 2:1-3
 
+
+
 #### a. Hablando de los incrédulos, el apóstol Pablo en Romanos 7:5 nos dijo: “* Porque mientras estábamos **en la carne**, las pasiones pecaminosas que eran por la ley obraban en nuestros miembros llevando fruto para **<u>muerte</u>**.*”
+
+
 
 #### b. A pesar de que este versículo describe al incrédulo, de la misma forma, todo creyente que escoge **<u>caminar</u>** según la carne instantáneamente deja de agradar a Dios. Romanos 8:4-5
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom8.9-11.jpg" data-auto-animate="" data-background-size="auto" data-menu-title="Romanos 8:9-11 - El creyente está *en el Espíritu*" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom8.9-11.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="Romanos 8:9-11 - El creyente está *en el Espíritu*" --> 
 
 
 
 ## D. Romanos 8:9-11 – El creyente está *en el Espíritu*
 
+
+
 ### 1. Romanos 8:9a – “ *Mas vosotros no vivís según la carne, sino según el Espíritu*,…” Los **<u>creyentes</u>** son descritos aquí como los que viven según el Espíritu. Esto es en contraste con los que incrédulos que por defecto, siempre viven según la carne.
+
+
 
 ### 2. Romanos 8:9b – “ *…si es que el Espíritu de Dios mora en vosotros. …”* Todos los creyentes tienen el **<u>Espíritu</u>** Santo morando dentro de ellos. Juan 14:17; Efesios 1:13-14, 4:30; Santiago 4:5
 
+
+
 ### 3. Romanos 8:9c – * “…Y si alguno no tiene el Espíritu de Cristo, no es de él*.” Cualquier persona que no posee el Espíritu Santo no **<u>pertenece</u>** a Cristo, punto. 1 Corintios 12:13
+
+
 
 ### 4. Romanos 8:10 – “* Pero si Cristo está en vosotros, el cuerpo en verdad está muerto a causa del pecado, mas el espíritu vive a causa de la justicia*.” Si Cristo mora en ti por medio del Espíritu Santo, a pesar de que tu cuerpo físico esté sujeto a la muerte debido al pecado, tu espíritu humano está **<u>vivo</u>** porque has nacido de nuevo.
 
+
+
 ### 5. Romanos 8:11 – “*Y si el Espíritu de aquel que levantó de los muertos a Jesús mora en vosotros, el que levantó de los muertos a Cristo Jesús vivificará también vuestros cuerpos mortales por su Espíritu que mora en vosotros*.” Este versículo podría estar hablando de nuestra resurrección futura, pero en este contexto, creemos que está hablando de la habilitación **<u>presente</u>** del Espíritu Santo.
+
+
 
 #### a. Es cierto que en el futuro el Espíritu Santo **<u>resucitará</u>** el cuerpo mortal de cada creyente. Esto ocurrirá en el rapto. 1 Corintios 15:21-22
 
+
+
 #### b. También es cierto que el Espíritu Santo **<u>refresca</u>** diariamente a los creyentes en nuestros cuerpos físicos actuales, dándonos poder para el servicio. Juan 6:63, 68; 7:38-39
+
+
 
 #### c. El mismo Espíritu Santo que trajo a Jesucristo a la **<u>vida</u>**, vive actualmente dentro de ti para fortalecerte para un servicio fructífero. Romanos 12:1, Efesios 1:19-20, Colosenses 3:4
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom8.12-17.jpg" data-auto-animate="" data-background-size="auto" data-menu-title="Romanos 8:12-17 - Tu responsabilidad como creyente en Cristo" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom8.12-17.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="Romanos 8:12-17 - Tu responsabilidad como creyente en Cristo" --> 
 
 
 
@@ -2945,98 +4364,185 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 ## E. Romanos 8:12-17 – Tu responsabilidad como creyente en Cristo
 
+
+
 ### 1. Romanos 8:12-14 – “*Así que, hermanos,*…” A la luz del hecho de que la ley del Espíritu de vida nos ha liberado de la ley del pecado y la muerte, debemos **<u>elegir</u>** definitivamente vivir de acuerdo con el Espíritu.
+
+
 
 #### a. Romanos 8:12 – “*Así que, hermanos, deudores somos, no a la  **<u>carne</u>**, para que vivamos conforme a la carne*;” Como creyente, no tienes ninguna obligación de vivir de acuerdo con la carne, ser explotado por ella o forzado a soportar sus horribles consecuencias. Gálatas 6:7-8
 
+
+
 ##### 1) Muchos creyentes piensan que no tienen **<u>esperanza</u>** de cambiar alguna vez; imaginan que su naturaleza de pecado es más fuerte que la naturaleza de pecado de cualquier otra persona.
+
+
 
 ##### 2) Estos creyentes están atrapados en el tipo de existencia de Romanos 7. Ellos intentan y **<u>fracasan</u>**, y eventualmente, muchos incluso dejan de buscar la santificación por completo. Romanos 7:24-25
 
+
+
 #### b. Romanos 8:13a – “* porque si vivís conforme a la carne, **<u>moriréis</u>**;…”* La muerte espera a aquellos que viven según la carne. Gálatas 6:7-8
+
+
 
 ##### 1) La frase “*moriréis”* podría ser traducida “estás a **<u>punto</u>** de morir”.
 
+
+
 ##### 2) Cuando caminas según la carne, **<u>avanzas</u>** hacia la muerte. ¿Cómo?
+
+
 
 ###### a) Puedes experimentar muerte de comunión con el Señor y con otros creyentes al ser separado del **<u>cuerpo</u>** de Cristo por disciplina de la iglesia. 1 Corintios 5:1-13, 1 Timoteo 1:19-20
 
+
+
 ###### b) Al ser entregado a **<u>Satanás</u>**, podrías ser atormentado o incluso morir físicamente en sus manos. Juan 15:6, 1 Timoteo 1:19-20
+
+
 
 ###### c) Podrías experimentar la muerte repentinamente mediante la fuerte disciplina de Dios. Esto es referido a veces como pecado de **<u>muerte</u>**. Hechos 5:1-11, 1 Corintios 11:30, 1 Juan 5:16
 
+
+
 ###### d) Podrías morir debido a los **<u>resultados</u>** innatos del pecado, como se observa en los siguientes versículos. Job 4:8; Romanos 6:16, 21-23; 8:2; Gálatas 6:7-8
+
+
 
 #### c. Romanos 8:13b – “…*mas si por el Espíritu hacéis morir las obras de la carne, viviréis.”* Dios promete que si por el Espíritu Santo, haces * morir las obras de la carne, **<u>viviréis</u>**.*
 
+
+
 ##### 1) No hacemos *morir las obras de la carne* por nuestra propia fuerza de voluntad. Esto es una cuestión de **<u>fe</u>**, no de obras. A medida que caminamos por fe y contamos con nuestra unión con Cristo en Su muerte (al pecado) y Su resurrección (a la novedad de vida), en realidad estamos aplicando la muerte de Cristo a las obras de nuestros cuerpos. Romanos 6:10-11
 
+
+
 ##### 2) Por fe, contamos con el **<u>hecho</u>** de que en Cristo morimos a la naturaleza de pecado, que es la raíz de todas las obras pecaminosas. Gálatas 5:24
+
+
 
 ##### 3) No solo estamos muertos al pecado en Cristo, sino que Dios también nos ha dado Su Espíritu. Es por el **<u>poder</u>** de Dios a través del Espíritu Santo dentro de nosotros que somos capaces de hacer morir las obras de la carne. Gálatas 5:16-23 (LBLA)
 
 
+
 ##### 4) La frase “*viviréis*” es importante. Vivir de acuerdo con la carne acarrea muerte, pero, por otro lado, vivir de acuerdo con el Espíritu trae **<u>vida</u>**. Romanos 6:23
+
+
 
 ###### a) Como ejemplo de cómo vivir abundantemente, Pablo escribió, “*Porque partiendo de vosotros ha sido divulgada la palabra del Señor, no sólo en Macedonia y Acaya, sino que también en todo lugar vuestra  **<u>fe</u>** en Dios se ha extendido, de modo que nosotros no tenemos necesidad de hablar nada*” (1 Tesalonicenses 1:8).
 
+
+
 ###### b) Los creyentes tesalonicenses estaban claramente viviendo por medio del poder habilitador del Espíritu Santo y su **<u>testimonio</u>** se estaba expandiendo poderosamente.
+
+
 
 #### d. Romanos 8:14 – “*Porque todos los que son guiados por el Espíritu de Dios, éstos son hijos de Dios*.” Caminar conforme al Espíritu no sólo resultará en vida abundante, caminar consistentemente conforme al Espíritu **<u>resultará</u>** en madurez. Gálatas 5:16, 22-23 (LBLA)
 
+
+
 ##### 1) En este versículo, Pablo no estaba poniendo en duda la salvación de aquellos creyentes que no estaban siendo consistentemente guiados por el Espíritu Santo en sus vidas; más bien, estaba haciendo una distinción práctica entre hijos **<u>maduros</u>** e inmaduros.
+
+
 
 ##### 2) La palabra que Pablo utilizó en este versículo para *hijos* (HUIOS) generalmente habla de hijos que son considerados maduros y responsables. Jesús usó este **<u>término</u>** cuando se describió a sí mismo como el Hijo de Dios y el Hijo del Hombre. Juan 1:49
 
+
+
 ##### 3) Sólo los creyentes que son guiados por el Espíritu Santo en sus vidas diarias son **<u>hijos</u>** (HUIOS) maduros y responsables.
+
+
 
 ##### 4) En Romanos 8:16-17, el término más general para hijos (TEKNON) es traducido como *hijos*. TEKNON generalmente describe cualquier descendencia. Juan 1:12 dice, “*Mas a todos los que le recibieron, a los que  **<u>creen</u>** en su nombre, les dio potestad de ser hechos hijos* (TEKNON)* de Dios*.”
 
+
+
 ### 2. Romanos 8:15-17 – Sin embargo, ya sea que seamos guiados por el Espíritu o no, todos los creyentes somos aceptados como hijos **<u>queridos</u>** de Dios.
+
+
 
 #### a. Romanos 8:15 – “*Pues no habéis recibido el espíritu de esclavitud para estar otra vez en temor, sino que habéis recibido el espíritu de adopción, por el cual clamamos:!Abba, **<u>Padre</u>** *!” Como creyente, deberías vivir en las verdades de Romanos 8 en lugar de vivir en la auto condenación descrita en la última sección de Romanos 7.
 
+
+
 ##### 1) Romanos 8:15a – “ *Pues no habéis recibido el espíritu de esclavitud…”* Dios no quiere que tengas la mentalidad de un **<u>esclavo</u>**, tratando de sobrevivir manteniendo normas y regulaciones.
+
+
 
 ##### 2) Romanos 8:15b – “… *para estar otra vez en **<u>temor</u>***,…” Vivir por la ley conduce al temor al castigo. Aunque Dios disciplina a Sus hijos, nunca debemos temer el castigo eterno, porque Jesucristo llevó nuestro castigo sobre sí mismo en la cruz. Isaías 53:5-6, Romanos 8:1, 2 Tesalonicenses 1:8-9, 1 Juan 4:18
 
+
+
 ##### 3) Romanos 8:15c – “*…sino que habéis recibido el espíritu de adopción,…” *Como **<u>hijo</u>** de Dios, has sido liberado de la tiranía de la esclavitud a la Ley.
+
+
 
 ###### a) El término *adopción* (HUIOTHESIA) se deriva de las palabras griegas *hijo* (HUIOS) y *colocar* (TITHÉMI), que significa ser colocado como hijo, o adoptado. En una familia grecorromana, solo podrías **<u>heredar</u>** si eras legalmente adoptado como hijo.
 
+
+
 ###### b) Muchas veces, un hijo biológico no era adoptado legalmente por su padre. Tal hijo nunca experimentaría un sentimiento de pertenecer a la familia, ni **<u>recibiría</u>** una herencia de su padre.
+
+
 
 ###### c) El punto de Pablo aquí es que a todos los creyentes les ha sido dado un espíritu de adopción. Como creyente, tú has sido adoptado legalmente y tienes todos los **<u>derechos</u>** de un legítimo heredero de Dios. Gálatas 4:1-7, Efesios 1:5
 
+
+
 ##### 4) Romanos 8:15d – “*…por el cual clamamos: ¡Abba, Padre!”* La confianza en tu posición como hijo amado de Dios debería conducirte a experimentar intimidad con el Señor en tu vida diaria. Si Dios parece **<u>distante</u>**, te estás perdiendo este importante sentido de pertenencia que está disponible para todos los hijos de Dios. 1 Pedro 1:23, 1 Juan 3:1
+
+
 
 #### b. Romanos 8:16 – “*El Espíritu mismo da testimonio a nuestro espíritu, de que somos hijos de Dios*.” Tu nuevo nacimiento te dio una nueva identidad como hijo de Dios. Uno de los ministerios prácticos del Espíritu Santo es **<u>asegurarte</u>** este hecho. Gálatas 4:6
 
+
+
 ##### 1) Cuando caminamos de acuerdo con el Espíritu, escuchamos fácilmente el testimonio del Espíritu Santo confirmando nuestro lugar en la familia. Pero cuando caminamos de acuerdo con la carne, **<u>regresamos</u>** fácilmente a la mentalidad de un esclavo temeroso.
+
+
 
 ##### 2) Nunca podemos salir de la familia de Dios, pero podemos perder el sentido de pertenencia. La inseguridad es debilitante y no es la voluntad de Dios para la vida de ningún creyente. A pesar de que Jesús **<u>amaba</u>** a todos los discípulos por igual, deberíamos tener la actitud del apóstol Juan, quien se describió a sí mismo como *el discípulo al cual Jesús amaba*. Juan 13:23, 20:2, 21:20
 
+
+
 #### c. Romanos 8:17a – “*Y si hijos, también herederos;…”* Tu **<u>unión</u>** con Cristo garantiza una herencia.
+
+
 
 ##### 1) No sólo son todos los creyentes hijos de Dios, independientemente de si son carnales o maduros; Todos somos también **<u>herederos</u>** legales. Efesios 1:11
 
+
+
 ##### 2) Tu herencia no debe ser confundida con recompensas, posiciones o coronas, porque todas esas son **<u>ganadas</u>** y no garantizadas.
+
+
 
 #### d. Romanos 8:17b – *“…herederos de Dios y coherederos con Cristo,…”*Como hijos e hijas legalmente adoptados, somos herederos **<u>juntamente</u>** con Cristo. Todo lo que Él ha heredado lo hemos coheredado con Él. Esta bendición es 100% inmerecida, pero está garantizada debido a nuestra unión con Cristo. Efesios 2:4-7, Colosenses 1:12
 
+
+
 #### e. Romanos 8:17c – “…*si es que padecemos juntamente con él, para que juntamente con él seamos glorificados.”* Puesto que ser un hijo de Dios incluye el **<u>honor</u>** de participar en los sufrimientos de Cristo, Pablo nos aseguró que igualmente participaremos en Su gloria. 1 Pedro 4:13
+
+
 
 ##### 1) Aquí Pablo utilizó una declaración de condición **<u>menos</u>** común – *si en verdad* (EIPER) – que significa “si es así” o “ya que efectivamente”. Vemos esta declaración de condición (EIPER) en Romanos 3:30, donde se traduce *porque en verdad* [LBLA].
 
+
+
 ##### 2) Este versículo podría entenderse como: “Ya que de hecho sufrimos con Él, es lógico que también compartamos Su **<u>gloria</u>**”.
 
+
+
 ##### 3) En otras palabras, Pablo no estaba deduciendo que sólo aquellos creyentes que **<u>sufren</u>** serán glorificados, mas bien, él estaba asegurando a todos los creyentes que, dado que ellos sufren con Cristo, un día serán glorificados con Él, como observamos en los siguientes versículos. Romanos 8:35-39
+
+
 
 ##### 4) La lógica es que si sufres con alguien, es razonable esperar **<u>compartir</u>** sus honores. Filipenses 3:10, 1 Pedro 2:21-23
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom8.18.jpg" data-auto-animate="" data-background-size="auto" data-menu-title="Romanos 8:18-39 - Glorificación" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom8.18.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="Romanos 8:18-39 - Glorificación" --> 
 
 
 
@@ -3050,328 +4556,607 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 ## A. Romanos 8:18 – Esperando ser glorificados
 
+
+
 ### 1. Romanos 8:18a – “ *Pues tengo por cierto que las aflicciones del tiempo presente…” * Dios quiere que tengas una perspectiva **<u>eterna</u>** con respecto a tu sufrimiento presente.
+
+
 
 ### 2. Romanos 8:18b – “…*no son comparables con la gloria venidera que en nosotros ha de manifestarse*.” Pablo comparó nuestro presente sufrimiento con nuestro glorioso **<u>futuro</u>** y descubrió que no podían ser comparados. A la luz de tu sufrimiento presente, aquí hay algunos hechos a considerar.
 
+
+
 #### a. En primer lugar, como cristiano, se espera que **<u>sufras</u>**. El sufrimiento es parte del plan de Dios para tu vida. 2 Timoteo 3:10-12
 
+
+
 #### b. En segundo lugar, puesto que ciertamente sufrirás, necesitas recordar que tu **<u>gloria</u>** futura es inmensamente superior a tu sufrimiento presente. 2 Corintios 4:16-18
+
+
 
 #### c. En tercer lugar, serás glorificado; ¡Ese es un **<u>hecho</u>**! Romanos 8:30
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom8.19-27.jpg" data-auto-animate="" data-background-size="auto" data-menu-title="Romanos 8:19-27 - Gimiendo por ser glorificados" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom8.19-27.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="Romanos 8:19-27 - Gimiendo por ser glorificados" --> 
 
 
 
 ## B. Romanos 8:19-27 – Gimiendo por ser glorificados
 
+
+
 ### 1. Romanos 8:19-22 – La **<u>naturaleza</u>** gime.
+
+
 
 #### a. Romanos 8:19 – “*Porque el anhelo ardiente de la creación es el aguardar la manifestación de los hijos de Dios*.” Toda la naturaleza está esperando ansiosamente el **<u>día</u>** en que los hijos de Dios serán revelados con sus cuerpos glorificados. ¿Por qué? Apocalipsis 19:7-9, Apocalipsis 19:14
 
+
+
 #### b. Romanos 8:20 – “*Porque la creación fue sujetada a vanidad, no por su propia voluntad, sino por causa del que la sujetó en esperanza*;” Allá en el Jardín del Edén, Dios maldijo la creación debido al pecado de Adán. La creación está esperando con impaciencia que Dios finalmente **<u>revierta</u>** la maldición. Génesis 3:17-19, Isaías 11:6-10
+
+
 
 #### c. Romanos 8:21a – “*porque también la creación misma será libertada de la esclavitud de corrupción,…”* En la segunda venida, en *la manifestación de los **<u>hijos</u>** de Dios*, cuando regresemos con Cristo para establecer Su reino, la mayoría de la maldición habrá sido quitada. Isaías 35:1-10
 
+
+
 #### d. Romanos 8:21b – “…*a la libertad gloriosa de los hijos de Dios*.” Dios promete que la naturaleza será **<u>liberada</u>** de su esclavitud a la corrupción en el día que los hijos de Dios sean revelados en toda su gloria. Mateo 22:2, Apocalipsis 19:9
+
+
 
 #### e. Romanos 8:22 – “*Porque sabemos que toda la creación gime a una, y a una está con dolores de parto hasta ahora*;” Cada parte de la creación está sufriendo como en **<u>dolores</u>** de parto, esperando el nacimiento de un día nuevo y perfecto. Esto sucederá al comienzo del reinado milenial de Cristo.
 
+
+
 ### 2. Romanos 8:23-25 – Los** <u>creyentes</u>** gimen.
+
+
 
 #### a. Romanos 8:23a – “ *y no sólo ella, sino que también nosotros mismos,… gemimos…” *Al igual que la creación, los creyentes también **<u>gemimos</u>** mientras esperamos ansiosamente la redención futura de nuestros cuerpos.
 
+
+
 #### b. Romanos 8:23b – “…*que tenemos las primicias del Espíritu,…” *Cuando creíste el Evangelio, recibiste inmediatamente el **<u>Espíritu</u>** Santo como garantía de tu glorificación futura. Efesios 1:14
+
+
 
 ##### 1) Sin embargo, tener el Espíritu Santo no significa que no **<u>sufrirás</u>**. 2 Corintios 5:1-5
 
+
+
 ##### 2) Es importante señalar esto, ya que muchas personas enseñan erróneamente que los cristianos nunca fueron destinados a sufrir físicamente, mentalmente, materialmente o de otra manera. Este pasaje enseña lo **<u>contrario</u>**. Deja que esto sea un estímulo para ti mientras luchas en la vida.
+
+
 
 #### c. Romanos 8:23c – “...*nosotros también gemimos dentro de nosotros mismos, esperando la adopción, la redención de nuestro cuerpo*.” Finalmente, en nuestra glorificación, cuando Dios cambie nuestros cuerpos, todo gemido **<u>cesará</u>**. 1 Corintios 15:50-54, 1 Tesalonicenses 4:13-18, 1 Juan 3:1-2
 
+
+
 #### d. Romanos 8:24a – “ *Porque en **<u>esperanza</u>** fuimos salvos;…” * Fuimos salvos cuando creímos en Cristo, confiados en que Su pago por nuestros pecados nos aseguró la esperanza de la vida eterna. Esto habla de nuestra **<u>justificación</u>**. Tito 1:2
+
+
 
 #### e. Romanos 8:24b – “…*pero la esperanza que se ve, no es esperanza; porque lo que alguno ve, ¿a qué esperarlo?”* Esta esperanza es aún futura. Depende de Dios quien hizo la promesa. Esto habla de nuestra **<u>glorificación</u>** venidera. Hebreos 11:6
 
+
+
 #### f. Romanos 8:25 – “ *Pero si esperamos lo que no vemos, con paciencia lo aguardamos*.”Esta esperanza segura e innegable de glorificación nos hace **<u>ansiosos</u>** por la eternidad, mientras nos mantiene estimulados en el presente. Esto habla de nuestra **santificación**. 1 Corintios 15:58, 1 Tesalonicenses 1:3, Hebreos 11:13-16
+
+
 
 ### 3. Romanos 8:26-27 – El **<u>Espíritu</u>** Santo gime.
 
+
+
 #### a. Romanos 8:26a – “*Y de igual manera el Espíritu nos **<u>ayuda</u>** en nuestra debilidad;…”* El Espíritu Santo nos ayuda en nuestras debilidades, no en nuestras fortalezas. Además, ¿tenemos realmente alguna fortaleza?
+
+
 
 #### b. Romanos 8:26b – “ *…pues qué hemos de pedir como conviene, no lo sabemos*,…”* * Esto no dice que a veces no **<u>sabemos</u>** cómo orar. Esta declaración general dice que en lo absoluto, no sabemos orar como deberíamos.
 
+
+
 #### c. Romanos 8:26c – “...*pero el Espíritu mismo intercede por nosotros con gemidos indecibles*.” El Espíritu Santo **<u>hace</u>** intercesión por nosotros.
+
+
 
 ##### 1) El Espíritu Santo gime *por* nosotros, no a **<u>través</u>** de nosotros. Él es el que gime, no nosotros. Este no es un lenguaje celestial o angelical que hablamos; es algo que el Espíritu Santo hace por nosotros.
 
+
+
 ##### 2) De hecho, estos gemidos son demasiado profundos para las palabras humanas. Estas son, literalmente, palabras impronunciables. Estos gemidos no salen de **<u>nuestra</u>** boca, sino que son hechos, a causa nuestra, por el Espíritu Santo en la presencia de Dios. Hebreos 4:16
 
+
+
 #### d. Romanos 8:27a – “*Mas el que escudriña los corazones sabe cuál es la intención del Espíritu,…”*Dios el **<u>Padre</u>** sabe lo que el Espíritu Santo tiene en mente para nosotros y responde apropiadamente a los *gemidos* del Espíritu Santo. Nosotros podríamos pedir algo de Dios que está fuera de Su voluntad, pero el Espíritu Santo nunca lo hará. 1 Corintios 2:10-13
+
+
 
 #### e. Romanos 8:27b – “… *porque conforme a la voluntad de Dios intercede por los santos*.”El Espíritu Santo solicitará a Dios el Padre **<u>únicamente</u>** aquello que esté de acuerdo con Su voluntad.
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom8.28-30.jpg" data-auto-animate="" data-background-size="auto" data-menu-title="Romanos 8:28-30 - Garantizado ser glorificado" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom8.28-30.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="Romanos 8:28-30 - Garantizado ser glorificado" --> 
 
 
 
 ## C. Romanos 8:28-30 – Garantizado ser glorificado
 
+
+
 ### 1. Romanos 8:28 – “*Y sabemos que a los que aman a Dios, todas las cosas les ayudan a bien, esto es, a los que conforme a su propósito son llamados*.” Dios promete **<u>terminar</u>** la obra que Él comenzó en la vida de cada creyente. Romanos 14:4, Filipenses 1:6, 1 Tesalonicenses 5:24, Judas 24-25
+
+
 
 #### a. Romanos 8:28a – “*Y **<u>sabemos</u>** que a los que aman a Dios, todas las cosas les ayudan a bien,*…” Puedes experimentar un tremendo alivio cuando sabes que Dios estará trabajando contigo hasta el final.
 
+
+
 #### b. Romanos 8:28b – “ *Y sabemos que …todas las cosas les ayudan a bien,*…” Sabemos que Dios **<u>hace</u>** que todas las cosas cooperen. La frase, *les ayudan a bien* (SUNERGEÓ), está en tiempo presente, voz activa y modo indicativo. Esta es una declaración enfática de que ahora mismo, en este preciso momento, tu Padre Celestial está activa y decisivamente trabajando en tu nombre.
+
+
 
 #### c. Romanos 8:28c – “*Y **<u>sabemos</u>** que …todas las cosas les ayudan a bien,*…” ¿Qué está diciendo exactamente este versículo?
 
+
+
 ##### 1) Primero que todo, es importante comprender que esta promesa no es verdadera para todas las personas. Es verdadera sólo para los **<u>creyentes</u>**.
+
+
 
 ##### 2) Esta promesa no nos está diciendo que todas las cosas son buenas. Por ejemplo, Satanás, el pecado, la falsa doctrina, la violación y el **<u>asesinato</u>** no son buenos. 1 Juan 2:16
 
+
+
 ##### 3) Esta promesa no significa que Dios está obrando todas las cosas para tu bien físico o **<u>material</u>**.
+
+
 
 ##### 4) Esta promesa no está dándote una excusa para tomar decisiones irresponsables. La Biblia expresa claramente que, si vives de acuerdo con la carne, **<u>cosecharás</u>** las consecuencias. Gálatas 6:7-8
 
+
+
 #### d. Romanos 8:28d – “…*ayudan a **<u>bien</u>***,…” En  griego la palabra *bien* (AGATHOS) significa bueno en carácter o beneficioso.
+
+
 
 ##### 1) Esta promesa tiene como centro tu bienestar espiritual. Dios siempre está trabajando activamente en tu nombre para hacer que todas las interminables complejidades de la vida **<u>encajen</u>** para tu éxito y madurez como creyente.
 
+
+
 ##### 2) Dios promete que usará cada situación en tu vida, sea sufrimiento por las consecuencias de tus propias malas decisiones o disciplina de Su mano, para promover tu madurez y conformarte a la **<u>imagen</u>** de Su Hijo. Hebreos 12:9-11
+
+
 
 #### e. Romanos 8:28f – Esta promesa es “…*a los que aman a Dios*,…” Quienes aman a Dios describe a **<u>todos</u>** los creyentes. 1 Corintios 2:9, Efesios 6:24
 
+
+
 ##### 1) Quienes lo* aman *no describe una clase **<u>especial</u>** de creyentes particularmente fieles o amorosos. Esta promesa es para todos los creyentes en Jesucristo. ¿Por qué? 1 Juan 4:19
+
+
 
 ##### 2) Sabemos que los creyentes pueden **<u>abandonar</u>** su amor por Dios como lo hizo la iglesia en Éfeso (Ap. 2:4-5a). Nadie ama a Dios a la perfección, y sin embargo, Dios continúa trabajando en todos los creyentes para su bien. 1 Corintios 8:2-3
 
+
+
 #### f. Romanos 8:28g – Esta promesa es igualmente “… *a los que conforme a su propósito son llamados*.” Quienes son llamados también es una descripción de **<u>todos</u>** los creyentes sin acepción.
+
+
 
 ##### 1) Puesto que todos los que alguna vez han creído lo han hecho en respuesta al llamado de Dios, todos los creyentes son mencionados como los **<u>llamados</u>**. Juan 6:44, Romanos 1:6
 
+
+
 ##### 2) Los creyentes espirituales, los creyentes bebés e incluso los creyentes carnales son **<u>parte</u>** de esta categoría de llamados. Efesios 1:13
+
+
 
 #### g. Romanos 8:28h – “…*a los que conforme a su propósito son llamados.”* ¿Cuál es el buen **<u>plan</u>** que Dios quiere obrar en las vidas de todos los creyentes? Esto será desarrollado en los siguientes versículos.
 
+
+
 ### 2. Romanos 8:29-30 – “*Porque a los que **<u>antes</u>** conoció, también los predestinó para que fuesen hechos conformes a la imagen de su Hijo, para que él sea el primogénito entre muchos hermanos. Y a los que predestinó, a éstos también llamó; y a los que llamó, a éstos también justificó; y a los que justificó, a éstos también glorificó*.”
+
+
 
 #### a. Romanos 8:29a – “*Porque a los que antes conoció,*…”
 
+
+
 ##### 1) El plan de Dios para cada creyente tiene **<u>cuatro</u>** aspectos: predestinación, llamamiento, justificación y glorificación. Cada uno de estos está basado en la presciencia de Dios.
+
+
 
 ###### a) Dios es el único actor en cada una de estas realidades. Ninguna de ellas se basa en el esfuerzo **<u>humano</u>** o en las obras. Debido a que Dios conocía de antemano, Él predestinó, Él llamó, Él justificó y Él glorificó.
 
+
+
 ###### b) Observa que la santificación **<u>no se encuentra</u>** presente aquí. ¿Por qué? Porque Dios no es el único actor en tu santificación; tu santificación depende de tu cooperación. Si como creyente no vives por medio del Espíritu Santo, tu santificación será obstaculizada.
+
+
 
 ##### 2) ¿A quién se refiere esto? *Antes conoció* (PROGINOSKO) es una palabra compuesta, conformada de PRO, que significa de antemano, y GINOSKO, que significa **<u>conocer</u>**. La precognición no es lo mismo que la predestinación.
 
+
+
 ###### a) Dios conocía de antemano a **<u>cada</u>** persona que viviría en el linaje de Adán. De igual manera, antes que el mundo comenzara, Dios en la eternidad conocía a todos aquellos que llegarían a pertenecer a Cristo.
+
+
 
 ###### b) Dios no puede **<u>evitar</u>** saber todo antes de que suceda. Dios vive fuera de los confines del tiempo. 2 Timoteo 1:9, Efesios 1:4, 1 Pedro 1:20, 1 Juan 3:20
 
+
+
 ###### c) Si Dios no conociera **<u>siempre</u>** el futuro, no podría ser Dios. Nunca, ni siquiera por un momento, Dios ha dejado de saberlo todo.
+
+
 
 ###### d) Pero sólo porque Dios sabe algo antes de que suceda, no **<u>significa</u>** que Él lo predeterminó o lo causó. Saber algo de antemano no es lo mismo que hacer que suceda.
 
+
+
 ###### e) Dios sabía de antemano que el pecado existiría, pero Dios no originó ni orquestó el pecado. Él no quería que el pecado estuviera. Sin embargo, a pesar de que Dios no planeó ni originó el pecado, sí planeó misericordiosamente tratar con el **<u>pecado</u>** a través del evangelio. Santiago 1:13, Apocalipsis 13:8
+
+
 
 ###### f) Si eres un creyente, Dios ya sabía que ibas a pertenecer a Cristo, y por lo tanto, en la eternidad pasada, antes de que el tiempo comenzara, misericordiosamente te incluyó en Su **<u>plan</u>** eterno.
 
+
+
 ###### g) El hecho de que tú vas ha ser conformado a la imagen de Cristo fue planeado de acuerdo con Su presciencia; no fue una elección **<u>aleatoria</u>** hecha sin conocimiento del futuro. Juan 17:24
+
+
 
 #### b. Romanos 8:29b – Dios dice “… *a los que antes conoció, también los predestinó*…” La palabra predestinó (PROORIZÓ) es una palabra compuesta derivada de PRO, que significa de antemano, y HORIZO, que significa declarar, determinar o confinar **<u>límites</u>**.
 
+
+
 ##### 1) Es importante entender que la Biblia no usa la palabra predestinación para determinar quién será o no será **<u>salvo</u>**.
+
+
 
 ##### 2) Como se mencionó anteriormente, la predestinación se **<u>basa</u>** en el omnisciente conocimiento previo de Dios. La predestinación no es una decisión arbitraria, ignorante del futuro que Dios tomó al azar en la eternidad pasada.
 
+
+
 ##### 3) Desde antes del principio y conociendo todos los **<u>hechos</u>**, Dios predeterminó ciertas cosas. Todo lo que Dios predestinó en el pasado ha sucedido y/o sucederá sin falta, tal como lo planeó.
+
+
 
 ##### 4) La predestinación fue utilizada en referencia a la**<u>muerte</u>** de Cristo. En Hechos 4:27‑28, la palabra *predestinar* se usa para mostrar cómo Dios orquestó todo lo relacionado con la muerte de Cristo, para que ocurriera exactamente como Él lo determinó de antemano. 1 Pedro 1:19-20
 
+
+
 ##### 5) En 1 Corintios 2:7, la predestinación es utilizada para describir la iluminación de la verdad. “*Mas hablamos sabiduría de Dios en misterio, la  **<u>sabiduría</u>** oculta, la cual Dios predestinó antes de los siglos para nuestra gloria*,” Dios predestinó que los creyentes en la Era de la Iglesia tuvieran mayor comprensión de su plan.
+
+
 
 ##### 6) En Efesios 1:5, hablando de nuestra adopción como hijos, la cual es parte de nuestra futura glorificación, Pablo dijo, “*en amor habiéndonos predestinado para ser adoptados hijos suyos por medio de Jesucristo, según el puro afecto de su voluntad*,” Dios predestinó que todos los creyentes serían adoptados como **<u>hijos</u>**.
 
+
+
 ##### 7) En Efesios 1:11, hablando de nuestra herencia, que es otra parte de nuestra futura glorificación, Pablo dijo: “*En él asimismo tuvimos herencia, habiendo sido predestinados conforme al propósito del que hace todas las cosas según el designio de su  **<u>voluntad</u>**, *” Todos los creyentes han sido predestinados a recibir una herencia.
+
+
 
 #### c. Romanos 8:29c – *“…también los predestinó *[a estos] * para que fuesen hechos conformes a la imagen de su Hijo,*…” Esto habla del **<u>objetivo</u>** final de Dios de hacer a los creyentes como Cristo, el cual Él está trabajando diariamente a través de nuestro proceso de santificación y que finalmente logrará en nuestra glorificación en la eternidad.
 
+
+
 #### d. Romanos 8:29d – “… *para que él sea el primogénito entre muchos hermanos.” *Dios planeó conformar a todos los creyentes a la imagen de Cristo. Tal como tú naciste llevando la imagen de Adán, fuiste nacido **<u>de nuevo</u>** con el plan de que en la eternidad llevaras plenamente la imagen del Hijo de Dios, Jesucristo. Juan 1:12, 3:3; Romanos 2:29
+
+
 
 #### e. Romanos 8:30a – “…*a éstos también llamó;…”* Los creyentes son aquellos que han respondido al **<u>llamado</u>** de Dios. Toda persona en Cristo es hijo de Dios en respuesta a la fe en el llamado del evangelio de Dios. 1 Corintios 1:24
 
+
+
 ##### 1) Fuimos llamados de las tinieblas a la **<u>luz</u>** de Dios. 1 Pedro 2:9 dice: “… *de aquel que os llamó de las tinieblas a su luz admirable*;”
+
+
 
 ##### 2) Fuimos llamados a través del evangelio. 2 Tesalonicenses 2:14 dice: “*a lo cual os llamó mediante nuestro **<u>evangelio</u>**, para alcanzar la gloria de nuestro Señor Jesucristo*.” Romanos 1:6
 
+
+
 ##### 3) Fuimos llamados por la **<u>gracia</u>** del Señor Jesucristo. Gálatas 1:6 dice: “*Estoy maravillado de que tan pronto os hayáis alejado del que os llamó por la gracia de Cristo, para seguir un evangelio diferente*.”
+
+
 
 ##### 4) Somos llamados Sus **<u>hijos</u>**. 1 Juan 3:1 dice: “*Mirad cuál amor nos ha dado el Padre, para que seamos llamados hijos de Dios*;” Romanos 9:25-26
 
+
+
 ##### 5) Somos llamados Sus **<u>santos</u>**. Romanos 1:7 dice: “*a todos los que estáis en Roma, amados de Dios, llamados a ser santos:*…” 1 Corintios 1:2, Judas 1:1
+
+
 
 ##### 6) Fuimos llamados a Su **<u>servicio</u>**. 2 Timoteo 1:9a dice: “*quien nos salvó y llamó con llamamiento santo,…*” 1 Tesalonicenses 5:24
 
+
+
 ##### 7) Fuimos llamados a seguir Sus sufrimientos. 1 Pedro 2:21 dice: “*Pues para esto fuisteis llamados; porque también Cristo padeció por nosotros, dejándonos ejemplo, para que sigáis sus pisadas*;”
 
+
+
 ##### 8) Fuimos llamados a pertenecer a Su reino y a experimentar Su **<u>gloria</u>** para siempre. 1 Tesalonicenses 2:12 dice :“…*que anduvieseis como es digno de Dios, que os llamó a su reino y gloria*.” 1 Pedro 5:10
+
+
 
 ##### 9) Fuimos llamados a heredar una **<u>bendición</u>**. 1 Pedro 3:9 dice: “*no devolviendo mal por mal, ni maldición por maldición, sino por el contrario, bendiciendo, sabiendo que fuisteis llamados para que heredaseis bendición*.”
 
 
+
 ##### 10) Fuimos llamados a experimentar paz y **<u>unidad</u>** en la iglesia mientras esperamos pacientemente Su aparición. Colosenses 3:15 dice: “*Y la paz de Dios gobierne en vuestros corazones, a la que asimismo fuisteis llamados en un solo cuerpo; y sed agradecidos*.”
+
+
 
 ##### 11) Estos versículos demuestran por qué a nosotros, como creyentes, se nos titula los ***<u>llamados</u>***.
 
+
+
 #### f. Romanos 8:30b – “…*a éstos también justificó;…”* Los justificados aquí se refiere sólo a aquellos que han **<u>creído</u>** en Cristo.
+
+
 
 ##### 1) Fuimos justificados por **<u>fe</u>**. Romanos 5:1 dice: “*Justificados, pues, por la fe, tenemos paz para con Dios por medio de nuestro Señor Jesucristo*;”
 
+
+
 ##### 2) Fuimos justificados gratuitamente por la **<u>gracia</u>** de Dios. Romanos 3:24 dice: “*siendo justificados gratuitamente por su gracia, mediante la redención que es en Cristo Jesús*,” Tito 3:7
+
+
 
 ##### 3) Fuimos justificados aparte de obedecer la **<u>ley</u>**. Romanos 3:28 dice: “*Concluimos, pues, que el hombre es justificado por fe sin las obras de la ley*.”
 
+
+
 ##### 4) Fuimos justificados aparte de hacer buenas **<u>obras</u>**. Romanos 4:5 dice, “*mas al que no obra, sino cree en aquel que justifica al impío, su fe le es contada por justicia*.” Gálatas 2:16, 3:11
 
+
+
 ##### 5) Fuimos justificados por el asombroso **<u>poder</u>** de Dios. 1 Corintios 6:11 dice: “*Y esto erais algunos; …ya habéis sido justificados en el nombre del Señor Jesús, y por el Espíritu de nuestro Dios*.”
+
+
 
 #### g. Romanos 8:30c – “…*a éstos también glorificó.”* Aún no estamos glorificados, pero la palabra glorificado está en tiempo **<u>pasado</u>** porque Dios garantiza absolutamente que seremos glorificados. En lo que respecta a Dios, ya es un hecho consumado. Romanos 8:17
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom8.31-39.jpg" data-auto-animate="" data-background-size="auto" data-menu-title="Romanos 8:31-39 - Glorificación probada y demostrada" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom8.31-39.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="Romanos 8:31-39 - Glorificación probada y demostrada" --> 
 
 
 
 ## D. Romanos 8:31-39 – Glorificación probada y demostrada
 
+
+
 ### 1. Romanos 8:31a – Pregunta de Pablo # 1: En respuesta al hecho de que somos predestinados, llamados, justificados y glorificados, Pablo preguntó,“*¿Qué, pues, diremos a esto?...”* La respuesta anticipada es: “¡ **<u>Amén</u>**! ¡Gracias Señor!”
+
+
 
 ### 2. Romanos 8:31b – Pregunta de Pablo # 2: A continuación, Pablo preguntó,“…*Si Dios es por nosotros, ¿quién contra nosotros?*” La respuesta esperada es, por supuesto, “**<u>Nadie</u>**”. Ya que Dios mismo está abogando por nosotros, nadie puede oponerse exitosamente a nosotros.
 
 
+
 ### 3. Romanos 8:32 – Pregunta de Pablo # 3: Luego preguntó, “*El que no escatimó ni a su propio Hijo, sino que lo entregó por todos nosotros, ¿cómo no nos dará también con él todas las cosas?*” Si Dios envió Su más **<u>precioso</u>** tesoro para comprar nuestra libertad mientras aún estábamos en nuestros pecados, ¿no es razonable que Él cuide de nuestras necesidades diarias ahora que somos Sus hijos?
+
+
 
 ### 4. Romanos 8:33 – Pregunta de Pablo # 4: “*¿Quién acusará a los **<u>escogidos</u>** de Dios? Dios es el que justifica.”* Puesto que Dios es el que legalmente nos declaró justos, no hay nadie que pueda acusarnos con éxito.
 
+
+
 ### 5. Romanos 8:34 – Pregunta de Pablo # 5: “ *¿**<u>Quién</u>** es el que condenará?...”*
+
+
 
 #### a. Romanos 8:34a – “…*Cristo es el que murió;…”* No puede ser Cristo quien nos condene, porque Cristo murió para **<u>pagar</u>** por nuestros pecados, no para condenarnos. Juan 3:17
 
+
+
 #### b. Romanos 8:34b – *“…más aun, el que también resucitó,…”* No puede ser Cristo quien nos condene, porque Dios demostró que estaba satisfecho con el pago de Cristo cuando lo **<u>resucitó</u>** de entre los muertos.
+
+
 
 #### c. Romanos 8:34c – “…*el que además está a la diestra de Dios, el que también intercede por nosotros.”*No puede ser Cristo quien nos **<u>condene</u>**, porque Cristo se sienta en el lugar del honor a la diestra de Dios en el cielo mediando para siempre por nosotros. Juan 3:17, Hebreos 7:25, 1 Juan 2:2
 
+
+
 ### 6. Romanos 8:35 – Pregunta de Pablo # 6:*“¿Quién nos separará del **<u>amor</u>** de Cristo?...”*Pablo dio siete escenarios potenciales que podrían hacernos sentir que Dios nos ha abandonado.
+
+
 
 #### a. ***<u>Tribulación</u>*** * …nos separará del amor de Cristo?* ¿Qué si enfrentamos infortunio o alguna terrible aflicción? 2 Corintios 4:8-11
 
+
+
 #### b. ***<u>Angustia</u>*** * …nos separará del amor de Cristo?* ¿Qué si sufrimos una calamidad terrible y tenemos que pasar por tiempos malos? 2 Corintios 7:5-6
+
+
 
 #### c. ***<u>Persecución</u>*** * …nos separará del amor de Cristo?* ¿Qué si somos odiados, cazados, torturados o incluso asesinados? Hechos 8:1
 
+
+
 #### d. ***<u>Hambre</u>*** * …nos separará del amor de Cristo?* ¿Qué si no tenemos suficiente para comer y sufrimos hambre? Hechos 11:28-30
+
+
 
 #### e. ***<u>Desnudez</u>*** * …nos separará del amor de Cristo?* ¿Qué si terminamos sin hogar y sufrimos exposición con poca o ninguna ropa? Hebreos 11:37-38
 
+
+
 #### f. ***<u>Peligro</u>*** * …nos separará del amor de Cristo?* ¿Qué si somos amenazados y enfrentamos peligros indecibles? 2 Corintios 11:23-27
+
+
 
 #### g. ***<u>Espada</u>*** * …nos separará del amor de Cristo?* ¿Qué si somos traicionados y/o sufrimos una muerte violenta? ¿Qué si estamos atrapados en una guerra horrible? Hechos 7:58‑8:2
 
 
+
 #### h. ¿Significan pruebas como estas que Dios nos ha abandonado o ha dejado de cuidarnos? ¿Alguna vez los creyentes han enfrentado alguna de estas clases de pruebas? **<u>Sí</u>**, lo han hecho y lo hacen.
+
+
 
 ### 7. Romanos 8:36 – Pablo citó el Salmo 44:22 para mostrar que estas dificultades potenciales son posibilidades reales para los creyentes: “*Pero por causa de ti nos matan cada día; Somos contados como  **<u>ovejas</u>** para el matadero*.”
 
+
+
 #### a. El hecho es que, a veces, este mundo ama **<u>masacrar</u>** cristianos. En los días de Pablo, Nerón perseguía y mataba severamente a los cristianos. Juan 16:33
+
+
 
 #### b. Si algún día te enfrentas a la muerte porque eres cristiano, no te sientas tentado a suponer que Dios te ha abandonado en ese momento. Él no te habrá dejado. Él todavía te **<u>amará</u>** mucho. Hebreos 13:5-6
 
+
+
 ### 8. Romanos 8:37 – “*Antes, en **<u>todas</u>** estas cosas somos más que vencedores por medio de aquel que nos amó*.” No importa qué tipo de prueba podamos sufrir, somos súper vencedores gracias a Cristo, quien nos amó y murió por nosotros. A pesar de cualquier posible retroceso o rechazo, seremos glorificados y viviremos con Dios por toda la eternidad. 2 Corintios 4:18, 1 Juan 4:4-5
+
+
 
 ### 9. Romanos 8:38a – “*Por lo cual estoy seguro…”* Pablo enfrentó muchas pruebas terribles. Sin embargo, a través de todas ellas él nunca dudó del **<u>amor</u>** de Dios por él. ¿Estás convencido de lo mismo?
 
+
+
 ### 10. Romanos 8:38b – *“de que ni la muerte, ni la vida,…”* Pablo estaba convencido de que ninguna forma de existencia, incluida la muerte o la **<u>vida</u>**, podía separarlo del amor de Dios en Cristo. Romanos 8:35
+
+
 
 ### 11. Romanos 8:38c – “*…ni ángeles, ni principados,*…” Ningún **<u>poder</u>** sobrenatural puede separarnos del amor de Dios en Cristo. Romanos 8:35
 
+
+
 #### a. ¿Está Satanás incluido en esta declaración? Sí. Recuerda, Satanás es un **<u>ángel</u>** caído.
+
+
 
 ####  b. Ni siquiera Satanás puede **<u>separarnos</u>** del amor de Dios.
 
+
+
 ### 12. Romanos 8:38d – “ *…ni potestades, ni lo presente, ni lo por venir*,” Ninguna realidad presente o posibilidad futura tiene el **<u>poder</u>** de separarnos del amor de Dios en Cristo. Romanos 8:35
+
+
 
 #### a. **<u>Tú</u>** no puedes hacer nada ahora (presente), ni siquiera en el futuro (por venir), para separarte del amor de Dios.
 
+
+
 #### b. ¿Qué acerca de tus pecados futuros o tu incredulidad futura o tus dudas futuras? ¿Qué hay de tus futuros retrocesos o incluso tus posibilidades de volver a la carnalidad? No, ni siquiera las posibilidades negativas **<u>futuras</u>** pueden separarte del amor de Dios.
+
+
 
 ### 13. Romanos 8:39a – “*ni lo alto, ni lo profundo,…” *Ningún extremo de ubicación en el cosmos, incluidas las alturas o las **<u>profundidades</u>**, pueden separarte del amor de Dios en Cristo.
 
+
+
 #### a. ¿Puedes ser llevado tan **<u>lejos</u>** que el amor de Dios no pueda alcanzarte? Salmos 139:7‑16
+
+
 
 #### b. No, ni siquiera el **<u>valle</u>** más profundo (el lugar de las pruebas más profundas), ni la elevación más alta (el lugar donde el temor a caer podría prevalecer) pueden separarte del amor de Dios en Cristo Jesús.
 
+
+
 #### c. Ya sea que estés arriba o abajo como creyente, no puedes **<u>distanciarte</u>** del amor de Dios. Podrías distanciarte de Su compañerismo, pero nunca de Su amor.
+
+
 
 #### d. En Lucas 15:11-32, incluso el hijo pródigo era todavía un **<u>hijo</u>** cuando no tenía comunión con su padre. Incluso mientras se encontraba lejos, Su padre lo amaba profundamente y estaba entusiasmado cuando finalmente regresó a casa.
 
+
+
 ### 14. Romanos 8:39b – “… *ni ninguna otra cosa creada nos podrá separar del amor de Dios,…”* Ningún ser creado o **<u>cosa</u>** creada puede separarte del profundo amor de Dios. Efesios 3:17‑19
+
+
 
 #### a. ¿Eres un ser creado? Sí, lo eres. Ni siquiera **<u>tú</u>** puedes apartarte del amor de Dios. ¡Puedes dejar de amar a Dios, pero Dios nunca dejará de amarte a ti!
 
+
+
 #### b. Algunos enseñan erróneamente que puedes separarte del amor de Dios devolviendo Su regalo gratuito de salvación. Pero Romanos 11:29 dice que*irrevocables son los dones y el llamamiento de Dios*. No puedes **<u>devolver</u>** tu ADN espiritual a Dios y volverte nonato. 1 Pedro 1:23
+
+
 
 ### 15. Romanos 8:39b – “… *del amor de Dios, que es en Cristo Jesús Señor nuestro.” *Debido a tu unión con Cristo, no hay absolutamente **<u>nada</u>** en toda la Creación que pueda hacer que Dios deje de amarte. Él tendría que dejar de amar a Jesús, y Él nunca hará eso.
 
+
+
 #### a. ¿Estás tan convencido de esto como el **<u>hombre</u>** que lo escribió? Pablo dijo en Romanos 8:38, “ *Por lo cual estoy seguro…”* ¿Podrías confiadamente hacer esta misma declaración con toda certeza?
+
+
 
 #### b. Ciertamente, en ningún caso somos dignos de este tipo de amor o glorificación futura. Es completamente por la asombrosa **<u>gracia</u>** de Dios, basada en lo que Jesús hizo por nosotros al morir en la cruz por nuestros pecados y resucitar. ¡Las gracias sean a Dios!
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/evangelio.jpg" data-auto-animate="" data-background-size="auto" data-menu-title="Apéndice - El Mensaje del Evangelio" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/evangelio.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="Apéndice - El Mensaje del Evangelio" --> 
 
 
 
 # XI. El mensaje del evangelio
 
+
+
 ## A. Definiendo el evangelio
+
+
 
 ### 1. Romanos 1:16 dice, “*Porque no me avergüenzo del **<u>evangelio</u>**, porque es poder de Dios para salvación a todo aquel que cree; al judío primeramente, y también al griego*.” ¿Qué es el evangelio? La palabra *evangelio* (EUAGGELION) significa buenas noticias. Gálatas 1:6-9
 
+
+
 ### 2. El evangelio es la buena **<u>noticia</u>** sobre la obra que Dios hizo para nuestra salvación a través de Jesucristo en un fin de semana en la historia hace casi dos mil años. Es un mensaje que debe ser creído. Los cuatro evangelios dan una explicación extensa de aquel evento súper transformador, pero en resumen, aquí hay algunos versos que lo explican.
+
+
 
 #### a. 1 Pedro 2:24a – “*…[Cristo] llevó él mismo nuestros **<u>pecados</u>** en su cuerpo sobre el madero*,…”.
 
+
+
 #### b. Hechos 5:30 – “*El Dios de nuestros padres levantó a Jesús, a quien vosotros matasteis colgándole en un **<u>madero</u>** *.”
+
+
 
 #### c. Hechos 13:28-29 – “*Y sin hallar en él causa digna de muerte, pidieron a Pilato que se le matase. Y habiendo cumplido todas las cosas que de él estaban escritas, quitándolo del madero, lo pusieron en el  **<u>sepulcro</u>** *.”
 
+
+
 #### d. Hechos 13:30-32 – “*Mas Dios le levantó de los muertos. Y él se apareció durante muchos días a los que habían subido juntamente con él de Galilea a Jerusalén, los cuales ahora son sus testigos ante el pueblo. Y nosotros también os anunciamos el evangelio de aquella **<u>promesa</u>** hecha a nuestros padres,”*
+
+
 
 #### e. Los resultados de creer en el evangelio son encontrados en Hechos 13:38-39 – “* Sabed, pues, esto, varones hermanos: que por medio de él se os anuncia perdón de pecados, y que de todo aquello de que por la ley de Moisés no pudisteis ser justificados, en él es  **<u>justificado</u>** todo aquel que cree*.”
 
+
+
 ### 3. Pablo explicó el evangelio en 1 Corintios 15:3-4 – “*Porque primeramente os he enseñado lo que asimismo recibí: Que Cristo murió por nuestros pecados, conforme a las Escrituras; y que fue sepultado, y que **<u>resucitó</u>** al tercer día, conforme a las Escrituras*;”
+
+
 
 ### 4. Hablando de manera concisa, el mensaje que debes creer para ser salvo tiene que ver con una persona en particular (Cristo) y lo que Él hizo en tu nombre: Cristo **<u>murió</u>** por tus pecados y resucitó.
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/evangelio_claro.jpg" data-auto-animate="" data-background-size="auto" data-menu-title="Apéndice - B. El evangelio es un mensaje objetivo" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/evangelio_claro.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="Apéndice - B. El evangelio es un mensaje objetivo" --> 
 
 
 
 ## B. El evangelio es un mensaje objetivo
 
+
+
 ### 1. El evangelio es un mensaje objetivo acerca del evento histórico más importante que jamás haya tenido lugar. Es el informe de noticias con respecto a lo que Jesucristo **<u>hizo</u>**: Él murió en la cruz y resucitó tres días después. Él hizo esto para perdonarnos nuestros pecados, salvarnos de la justa ira de Dios y proporcionarnos la vida eterna. 
 
+
+
 ### 2. El evangelio no es un mensaje subjetivo, de procedimientos, o un **<u>método</u>** paso a paso utilizado para llevar personas a través de un proceso que conduce a la salvación. 
+
+
 
 ### 3. El evangelio no cambia de persona a persona. Es el **<u>relato</u>** históricamente verificable de cómo Dios trajo la salvación a la humanidad a través de la persona y obra de Jesucristo. 
 
@@ -3381,116 +5166,221 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-
 ### 1. 1 Corintios 15:3a – “…***<u>Cristo</u> *** *murió*…” Cristo es la persona en quien debes creer para salvación. 1 Timoteo 3:16 
 
+
+
 #### a. Jesús es el Cristo, el Mesías prometido del Antiguo Testamento. Él es la **<u>persona</u>** principal del mensaje del evangelio. A fin de ser salvo, la fe de una persona debe descansar exclusivamente en Jesucristo. Lucas 24:44-48, Romanos 1:2-4, Hebreos 2:10 
+
+
 
 #### b. *Cristo*, o CHRISTOS en griego, es la traducción de la palabra hebrea **<u>Mesías</u>**. El término *Cristo* tiene tanto deidad como humanidad incorporada en su significado.
 
 
+
 #### c. Dios predijo que el Cristo sería un ser **<u>humano</u>**, la Semilla de la mujer. Génesis 3:15, Juan 1:14 
+
+
 
 #### d. Dios también predijo que el Cristo sería **<u>deidad</u>**. Él era Emmanuel, Dios con nosotros. Isaías 7:14, 9:6; Juan 8:23-24; Tito 2:13 
 
+
+
 ### 2. 1 Corintios 15:3b – *Cristo **<u>murió</u>***… Esto describe la obra de Cristo para nuestra salvación. Colosenses 2:14, Hebreos 2:9; 1 Pedro 2:24 (LBLA) 
+
+
 
 #### a. Cristo sufrió en la cruz la muerte **<u>espiritual</u>** por nosotros en que fue separado de Dios el Padre cuando tomó todos los pecados de la humanidad sobre sí mismo. En Mateo 27:46 leemos, *“Cerca de la hora novena, Jesús clamó a gran voz, diciendo: Elí, Elí, ¿lama sabactani? Esto es: Dios mío, Dios mío, ¿por qué me has desamparado?”*
 
 
+
 #### b. Cristo sufrió la muerte **<u>física</u>** en nuestro nombre cuando Su alma y espíritu se separaron de Su cuerpo. 1 Pedro 2:24 – “*Quien llevó él mismo nuestros pecados en su cuerpo sobre el madero,…”*Hechos 13:29b – *“…quitándolo del madero, lo pusieron en el sepulcro.”* Lucas 23:46, Hebreos 10:10 
+
+
 
 #### c. Cristo sufrió las implicaciones de la muerte **<u>eterna</u>**. Si Cristo estuvo separado de Su Padre por un minuto o un millón de años no hizo ninguna diferencia, ya que Dios vive fuera de la esfera del tiempo. Hebreos 9:26, 10:12, 1 Pedro 3:18  
 
+
+
 ### 3. 1 Corintios 15:3c-4a – “… *Cristo murió **por nuestros <u>pecados</u>***,…” Cristo murió en nuestro nombre para salvarnos de la pena que merecíamos por nuestros pecados. Al sufrir la muerte por nosotros, Cristo nos salvó de tener que enfrentar la pena de muerte y estar separados de Dios por toda la eternidad. Pablo dio dos verificaciones muy importantes de la muerte de Cristo. 
+
+
 
 #### a. Prueba #1 – Profecías detalladas cumplidas: 1 Corintios 15:3d – “… *Cristo murió...* *conforme a las Escrituras*;” La muerte de Cristo fue un **<u>evento</u>** profético que sucedió exactamente como el Antiguo Testamento lo predijo. Salmos 22:17-18, 69:11; Isaías 53:3-6; Zacarías 12:10; Lucas 24:46; Hechos 10:43; Romanos 1:2-4  
 
+
+
 #### b. Prueba #2 – La sepultura de Cristo: 1 Corintios 15:4a – “… *Cristo murió... *y* fue **<u>sepultado</u>***,…” La sepultura de Cristo proporciona prueba perdurable de su muerte. Los vivos no son sepultados. Hechos 13:29 
+
+
 
 ### 4. 1 Corintios 15:4b – “*...y que resucitó al tercer día,…” *La resurrección de Cristo es una parte integral del mensaje del evangelio que debe ser creído para que una persona sea **<u>salva</u>** de la pena del pecado. La resurrección validó tanto la victoria de Cristo sobre el pecado como sobre la muerte. Pablo proporcionó dos verificaciones importantes para la resurrección. Romanos 4:23-25 
 
+
+
 #### a. Prueba #1 – Profecías detalladas cumplidas: 1 Corintios 15:4b – “... *y que resucitó …conforme a las Escrituras;” *Tal como las profecías cumplidas con precisión demuestran la validez de la muerte de Cristo, las profecías cumplidas con precisión también **<u>prueban</u>** la resurrección de Cristo. Job 19:25-26; Salmos 16:9-10; Isaías 25:8, 53:10
+
+
 
 #### b. Prueba #2 – Testigos oculares múltiples: 1 Corintios 15:5-9 – “ *y que **<u>apareció</u>***...” Más de 500 testigos oculares se presentan como prueba concluyente de la resurrección. 1 Juan 1:1-2
 
+
+
 ##### 1) 1 Corintios 15:5a – “*y que apareció a Cefas,…” *Pedro, uno de los amigos más íntimos de Jesús y uno de los cristianos más conocidos de todos los tiempos, vio al Cristo resucitado. Más tarde, Pedro fue martirizado porque creyó que Jesús murió por nuestros pecados y **<u>resucitó</u>**.
+
+
 
 ##### 2) 1 Corintios 15:5b – *“…y después a los doce *[discípulos].”* *Mientras todavía dudaban de la resurrección de Cristo, los doce **<u>discípulos</u>** lo vieron. Esta declaración puede incluir a Matías de Hechos 1:26, quien también atestiguó de la resurrección de Cristo.
 
+
+
 ##### 3) 1 Corintios 15:6 – “*Después apareció a más de quinientos hermanos a la vez, de los cuales muchos viven aún, y otros ya duermen*.” Cristo se apareció a más de 500 personas a la vez. La mayoría de estos testigos todavía estaban con **<u>vida</u>** en el momento en que 1 Corintios fue escrito y podrían haber sido interrogados para su verificación.
+
+
 
 ##### 4) 1 Corintios 15:7a – *“Después apareció a Jacobo;…”* El Jacobo al que se hace referencia aquí es el medio **<u>hermano</u>** de Cristo, quien vio a Jesús después de que Él resucitó de entre los muertos. Habiendo crecido con Jesús, Jacobo podía confirmar o negar fácilmente la identidad de Cristo. Es significativo que él no llamó al Cristo resucitado un fraude, sino que más bien se convirtió en un creyente.
 
+
+
 ##### 5) 1 Corintios 15:7b – “*...después a todos los apóstoles;” *Los **<u>apóstoles</u>**, los que Cristo personalmente comisionó para contarle al mundo entero acerca de su muerte y resurrección, vieron al Cristo resucitado. Apocalipsis 21:14
+
+
 
 ##### 6) 1 Corintios 15:8-9 – “*y al último de todos, como a un abortivo, me apareció a mí. Porque yo soy el más pequeño de los apóstoles, que no soy digno de ser llamado apóstol, porque perseguí a la iglesia de Dios* .” El apóstol **<u>Pablo</u>**, un antiguo blasfemo y destructor de la iglesia, también vio a Cristo vivo y creyó en Él.
 
+
+
 ## D. El único requisito para la salvación: fe en Cristo
+
+
 
 ### 1. Es significativo que más de 160 versículos en el Nuevo Testamento muestren la fe, o **<u>creencia</u>**, en Jesucristo como el único pre requisito para la salvación.
 
+
+
 ### 2. Hechos 16:30b-31 –*“…les dijo: Señores, ¿qué debo hacer para ser salvo? Ellos dijeron:  **<u>Cree</u>** en el Señor Jesucristo, y serás salvo, tú y tu casa.”*
+
+
 
 ### 3. Juan 3:16 – “*Porque de tal manera amó Dios al mundo, que ha dado a su Hijo unigénito, para que todo aquel que en él **<u>cree</u>**, no se pierda, mas tenga vida eterna*.”
 
+
+
 ### 4. Juan 6:47 – “*De cierto, de cierto os digo: El que **<u>cree</u>** en mí, tiene vida eterna*.”
+
+
 
 ### 5. Juan 8:24 – “*Por eso os dije que moriréis en vuestros pecados; porque si no  **<u>creéis</u>** que yo soy, en vuestros pecados moriréis *.”
 
+
+
 ### 6. Juan 11:25-26 – “*Le dijo Jesús: Yo soy la resurrección y la vida; el que cree en mí, aunque esté muerto, vivirá. Y todo aquel que vive y  **<u>cree</u>** en mí, no morirá eternamente. ¿Crees esto?”*
+
+
 
 ### 7. Juan 20:30-31 – “*Hizo además Jesús muchas otras señales en presencia de sus discípulos, las cuales no están escritas en este libro. Pero éstas se han escrito para que **<u>creáis</u>** que Jesús es el Cristo, el Hijo de Dios, y para que creyendo, tengáis vida en su nombre*.”
 
+
+
 ## E. Hechos bíblicos acerca de la fe o creencia en Cristo
+
+
 
 ### 1. Es importante entender que las palabras **<u>fe</u>** y creer tienen el mismo significado, aunque no es tan obvio en el español. En griego, creer (PISTEUO) es el verbo, mientras que fe (PISTIS) es el sustantivo. Ambas palabras (PISTEUO y PISTIS) tienen el mismo significado básico: confiar en, depender de, tener fe en o creer.
 
+
+
 ### 2. No es el tamaño de la fe de una persona lo que importa, lo importante es el objeto en el que una persona está confiando. Tu fe es tan buena como su **<u>objeto</u>**. Jeremías 17:5-8
+
+
 
 #### a. Mateo 17:20 – “…*porque de cierto os digo, que si tuviereis fe como un  **<u>grano</u>** de mostaza, diréis a este monte: Pásate de aquí allá, y se pasará; y nada os será imposible*.”
 
+
+
 #### b. 1 Pedro 1:8 [LBLA] – “*a quien sin haberle visto, le amáis, y a quien ahora no  **<u>veis</u>**, pero creéis en El, y os regocijáis grandemente con gozo inefable y lleno de gloria*,”
+
+
 
 ### 3. La fe no es un concepto ilusorio. La fe se basa en el conocimiento que viene de la Palabra de Dios. Romanos 10:17 – “*Así que la fe es por el **<u>oír</u>**, y el oír, por la palabra de Dios.”*
 
+
+
 ### 4. La fe **<u>no</u>** es una obra, y por lo tanto no se basa en el mérito. Dado que la fe no es una obra, y la gracia es el favor de Dios aparte de las obras, la fe y la gracia encajan perfectamente como anillo al dedo.
+
+
 
 #### a. Romanos 4:5 –*“mas al que no **<u>obra</u>**, sino cree en aquel que justifica al impío, su fe le es contada por justicia*.”
 
+
+
 #### b. Romanos 4:16a – “*Por tanto, es por fe, para que sea por **<u>gracia</u>** *,…” Romanos 11:6, Efesios 2:8-9
+
+
 
 ### 5. Es importante saber que la Biblia no hace una distinción entre la fe de **<u>mente</u>** y la fe del corazón.
 
+
+
 #### a. En los tiempos del Nuevo Testamento, la **<u>mente</u>** de una persona era considerada ser una parte del corazón, y el corazón era el lugar en el cual la fe ocurría. Romanos 10:10a – “ *Porque con el corazón se cree para justicia,…”*
+
+
 
 #### b. Obviamente, alguien puede conocer intelectualmente los **<u>hechos</u>** del evangelio sin confiar personalmente en la obra terminada de Cristo para la salvación. En ese caso, tal persona no es salva.
 
+
+
 ##### 1) Sin embargo, debemos ser cuidadosos de **<u>no</u>** medir la sinceridad de una persona utilizando términos como fe de mente, fe de corazón, fe verdadera o fe salvadora.
+
+
 
 ##### 2) Algunos de estos términos han sido agregados a traducciones recientes de la Biblia, pero estos calificativos no se encuentran en los manuscritos originales de la Escritura y pueden producir confusión e incluso **<u>duda</u>** paralizadora.
 
+
+
 #### c. Bíblicamente, una persona cree o no cree. Creencia en el Evangelio es confianza personal en Jesucristo, en quién es Él y en lo que Él hizo para salvarte. Si has creído en el Señor Jesucristo, eres **<u>salvo</u>**, y si no, todavía estás muerto en tus pecados.
+
+
 
 ##### 1) Juan 8:24 – “*Por eso os dije que moriréis en vuestros pecados; porque si no creéis que yo soy, en vuestros pecados **<u>moriréis</u>** *.”
 
+
+
 ##### 2) 1 Juan 5:13 – “*Estas cosas os he escrito a vosotros que creéis en el nombre del Hijo de Dios, para que **<u>sepáis</u>** que tenéis vida eterna, y para que creáis en el nombre del Hijo de Dios*.”
+
+
 
 ## F. ¿Por qué es importante presentar un evangelio claro?
 
+
+
 ### 1. La mayoría de los creyentes asienten con la cabeza cuando escuchan el evangelio **<u>verdadero</u>**, pero cuando señalas presentaciones del evangelio poco claras, puedes obtener muchas respuestas diferentes, incluyendo conmoción, tristeza, culpa o incluso la negación de la verdad del evangelio.
+
+
 
 ### 2. La intención de esta sección no es criticar, sino más bien desafiar nuestro pensamiento. Esta sección se presenta con la confianza de que, como cristianos, todos queremos ser claros y **<u>fieles</u>** con el mensaje más importante sobre la tierra.
 
+
+
 ### 3. Dado que muchos de nosotros fuimos salvos a pesar de presentaciones **<u>poco claras</u>** del Evangelio, podríamos sentirnos tentados a pensar que la precisión no es tan importante y que las presentaciones poco claras con las que crecimos son aceptables, a pesar de que no sean completamente precisas.
+
+
 
 ### 4. Sin embargo, deberíamos procurar presentar el mensaje del evangelio tan **<u>claramente</u>** como sea posible.
 
+
+
 #### a. Refiriéndose a la claridad, en 1 Corintios 14:7-8, Pablo dijo, “* Ciertamente las cosas inanimadas que producen sonidos, como la flauta o la cítara, si no dieren distinción de voces, ¿cómo se  **<u>sabrá</u>** lo que se toca con la flauta o con la cítara? Y si la trompeta diere sonido incierto, ¿quién se preparará para la batalla?*”
+
+
 
 #### b. De manera similar, en Efesios 6:19-20, Pablo dijo, “*y por mí, a fin de que al abrir mi boca me sea dada palabra para dar a conocer con denuedo el misterio del evangelio, por el cual soy embajador en cadenas; que con **<u>denuedo</u>** hable de él, como debo hablar*.”
 
+
+
 #### c. En Hechos 18:25-26, Priscila y Aquila ayudaron a Apolos a ser más preciso – “*Este había sido instruido en el camino del Señor; ...hablaba y enseñaba diligentemente lo concerniente al Señor, ... pero cuando le oyeron Priscila y Aquila, le tomaron aparte y le expusieron  **<u>más</u>** exactamente el camino de Dios*.”
+
+
 
 ### 5. Las Escrituras son firmes al declarar lo que el evangelio es y no es. Aquí hay algunos ejemplos de este hecho. 
 
@@ -3509,7 +5399,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/presentaciones-no-claras.jpg" data-auto-animate="" data-background-size="auto" data-menu-title="G. - Presentaciones No Claras del Evangelio" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/presentaciones-no-claras.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="G. - Presentaciones No Claras del Evangelio" --> 
 
 
 
@@ -3519,53 +5409,97 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 ### 1. **Confusión: Cree y haz buenas obras**
 
+
+
 ####  a. Casi todos los **<u>falsos</u>** evangelios requieren que el pecador haga alguna obra para salvación, pero el evangelio no es fe en Cristo más buenas obras.
+
+
 
 #### b. La Biblia enseña que la salvación es la obra de Dios. Apocalipsis 7:10 – “*y clamaban a gran voz, diciendo: La salvación pertenece a nuestro  **<u>Dios</u>** que está sentado en el trono, y al Cordero*.” Salmos 3:8, Jonás 2:9b
 
+
+
 #### c. No podemos agregar nada a la **<u>obra</u>** de Cristo en la cruz. Él logró la completa y total salvación para toda la humanidad, sin la ayuda de nadie. Por fe confiamos en lo que Él ya logró. Hebreos 1:3, 10:12
+
+
 
 #### d. Efesios 2:8-9 – “*Porque por gracia sois salvos por medio de la fe; y esto no de vosotros, pues es don de Dios; no **<u>por obras</u>**, para que nadie se gloríe*.”
 
+
+
 #### e. Tito 3:5 – “*Nos salvó, no **<u>por obras</u>** de justicia que nosotros hubiéramos hecho, sino por su misericordia, por el lavamiento de la regeneración y por la renovación en el Espíritu Santo*.”
+
+
 
 ### 2. **Confusión: Cree y guarda los Diez Mandamientos**
 
+
+
 #### a. La confusión acerca de guardar los Diez Mandamientos para ganar la aceptación de Dios, hoy todavía prevalece en nuestro mundo. La Biblia habla claramente contra este evangelio **<u>equivocado</u>**.
+
+
 
 #### b. Gálatas 2:16 –*“sabiendo que el hombre no es justificado por las  **<u>obras</u>** de la ley, sino por la fe de Jesucristo, nosotros también hemos creído en Jesucristo, para ser justificados por la fe de Cristo y no por las obras de la ley, por cuanto por las obras de la ley nadie será justificado*.”
 
+
+
 #### c. Hechos 13:39 –*“y que de todo aquello de que por la **<u>ley</u>** de Moisés no pudisteis ser justificados, en él es justificado todo aquel que cree*.”
+
+
 
 #### d. Romanos 3:20 –*“ya que por las obras de la ley ningún ser humano será justificado delante de él; porque por medio de la ley es el conocimiento del  **<u>pecado</u>** *.”
 
+
+
 #### e. Gálatas 3:11 – “*Y que por la ley ninguno se justifica para con Dios, es evidente, porque: El justo por la **<u>fe</u>** vivirá;”*
+
+
 
 #### f. Recordemos la sección “Escuela de leyes” de este manual, donde aprendimos que la Ley fue otorgada para ser nuestra maestra de escuela, para enseñarnos a reconocer nuestra **<u>necesidad</u>** de salvación, pero nunca fue dada para salvarnos. Sólo Jesucristo puede salvar.
 
+
+
 ### 3. **Confusión: Cree y sé bautizado**
+
+
 
 #### a. El bautismo en agua es un testimonio público de salvación para las personas que **<u>han</u>** creído en la obra de Jesucristo en la cruz, pero no es un requisito o el medio de salvación para los que no son salvos. Hechos 8:26-40, 10:43-48
 
+
+
 #### b. Si el bautismo en agua fuese requerido para la salvación, Pablo cometió un grave error cuando en 1 Corintios 1:17 dijo, “* Pues no me envió Cristo a **<u>bautizar</u>**, sino a predicar el evangelio; no con sabiduría de palabras, para que no se haga vana la cruz de Cristo*.”
+
+
 
 #### c. El ladrón en la cruz fue indiscutiblemente salvo sin ser bautizado en  agua, lo cual es otra confirmación de que el **<u>ritual</u>** del bautismo no es necesario para la salvación. Lucas 23:42-43
 
+
+
 ### 4. **Confusión: Cree y sé circuncidado**
+
+
 
 #### a. Aunque este falso evangelio no es común en el día de hoy, fue un problema en la iglesia primitiva cuando la mayoría de los cristianos todavía eran **<u>judíos</u>**. Muchos de estos creyentes judíos creían que para que los gentiles fueran salvos, ellos también necesitaban ser circuncidados.
 
+
+
 #### b. Hechos 15:1 – “*Entonces algunos que venían de Judea enseñaban a los hermanos: Si no os circuncidáis conforme al rito de **<u>Moisés</u>**, no podéis ser salvos.”*
+
+
 
 #### c. Gálatas 5:2-3 – “* He aquí, yo Pablo os digo que si os circuncidáis, de nada os aprovechará Cristo. Y otra vez testifico a todo hombre que se circuncida, que está obligado a guardar toda la  **<u>ley</u>** *.”
 
+
+
 #### d. Dios dejó en claro que si una persona estaba confiando en la circuncisión para ser salva, necesitaría guardar **<u>toda</u>** la Ley, no solo las exigencias de la circuncisión. Dado que nadie ha podido jamás cumplir toda la Ley, cualquier esfuerzo por obtener la vida eterna a través de la circuncisión fracasa miserablemente.
+
+
 
 #### e. La circuncisión era una **<u>señal </u>**del Pacto Abrahámico, el cual era un acuerdo entre Dios y Abraham que data de la época en que Israel se convirtió por primera vez en nación. A todos los niños israelitas se les exigía ser circuncidados ocho días después del nacimiento. Este ritual, sin embargo, no salvaba a nadie de sus pecados. Génesis 17:9-14
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/confieza-pecados.jpg" data-auto-animate="" data-background-size="auto" data-menu-title="5. Confusión: Cree y confiesa tus pecados" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/confieza-pecados.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="5. Confusión: Cree y confiesa tus pecados" --> 
 
 
 
