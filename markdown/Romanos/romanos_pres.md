@@ -38,7 +38,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 **Para más información:**
 **disciplemakersmultiplied@gmail.com** 
-**DM2USA.org **
+**DM2USA.org**
 
 
 ## ROMANOS 1-8
