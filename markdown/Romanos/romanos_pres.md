@@ -908,11 +908,11 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom1.18-32.jpg"  data-background-size="80%" data-auto-animate="" data-menu-title="Romanos 1:18-32 - Amor por los Romanos" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom1.18-32.jpg"  data-background-size="80%" data-auto-animate="" data-menu-title="Romanos 1:18-32 - Amor por los Romanos" data-background-color="black" --> 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="70%" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="80%" data-background-color="white" --> 
 
 
 
@@ -1116,11 +1116,11 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom2.1-16.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="Romanos 2:1-16 - El juicio de Dios por el pecador moral" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom2.1-16.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="Romanos 2:1-16 - El juicio de Dios por el pecador moral" data-background-color="black" --> 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="70%" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="80%" data-background-color="white" --> 
 
 
 
@@ -1292,7 +1292,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom2.17-16.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="Romanos 2:17-29 - El juicio de Dios sobre el pecador religioso" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom2.17-16.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="Romanos 2:17-29 - El juicio de Dios sobre el pecador religioso"  data-background-color="black" --> 
 
 
 
@@ -1467,11 +1467,11 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom3.1-8.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="Romanos 3:1-8 - Pablo anticipó preguntas concernientes a los pecadores" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom3.1-8.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="Romanos 3:1-8 - Pablo anticipó preguntas concernientes a los pecadores"  data-background-color="black" --> 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="70%" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="80%" --> 
 
 
 
@@ -1563,11 +1563,11 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom3.9-20.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="Romanos 3:9-20 - En conclusion: Todo el mundo es culpable de pecado" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom3.9-20.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="Romanos 3:9-20 - En conclusion: Todo el mundo es culpable de pecado"  data-background-color="black" --> 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="70%" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="80%" --> 
 
 
 
@@ -1678,7 +1678,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/derecho.jpg" data-auto-animate="" data-background-size="80%" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/derecho.jpg" data-auto-animate="" data-background-size="80%"  data-background-color="black" --> 
 
 
 
@@ -1887,11 +1887,11 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom3.21-31.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="Romanos 3:21-31 - Justificación: Declarado Legalmente Justo Delante de Dios" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom3.21-31.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="Romanos 3:21-31 - Justificación: Declarado Legalmente Justo Delante de Dios"  data-background-color="black" --> 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="70%" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="80%" --> 
 
 
 
@@ -2071,11 +2071,11 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom4.1-9.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="Romanos 4:1-25 - Ejemplos del Antiguo Testamento de la justificación por la fe" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom4.1-9.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="Romanos 4:1-25 - Ejemplos del Antiguo Testamento de la justificación por la fe"  data-background-color="black" --> 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="70%" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="80%" --> 
 
 
 
@@ -2227,7 +2227,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom4.10-25.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="Romanos 4:10-12 - La justificación de Abraham por fe..." --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom4.10-25.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="Romanos 4:10-12 - La justificación de Abraham por fe..."  data-background-color="black" --> 
 
 
 
@@ -2263,7 +2263,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="70%" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="80%" --> 
 
 
 
@@ -2415,11 +2415,11 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom5.1-11.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="Romanos 5:1-11 - Las bendiciones inmerecidas de la justificación por fe" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom5.1-11.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="Romanos 5:1-11 - Las bendiciones inmerecidas de la justificación por fe"  data-background-color="black" --> 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="70%" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="80%"  data-background-color="white" --> 
 
 
 
@@ -2647,11 +2647,11 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom5.12-21.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="Romanos 5:12-21 - La Doctrina de la Identificación: El Acceso a la Santificación" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom5.12-21.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="Romanos 5:12-21 - La Doctrina de la Identificación: El Acceso a la Santificación"  data-background-color="black" --> 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="80%" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="80%"  data-background-color="white" --> 
 
 
 
@@ -2823,11 +2823,11 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom6.1-2.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="Romanos 6:1-10 - La Doctrina de la Santificación" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom6.1-2.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="Romanos 6:1-10 - La Doctrina de la Santificación"  data-background-color="black" --> 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="80%" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="80%"  data-background-color="white" --> 
 
 
 
@@ -2996,11 +2996,11 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom6.3-5.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="Romanos 6:3-5 - Conociendo la historia de tu muerte al pecado con Cristo" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom6.3-5.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="Romanos 6:3-5 - Conociendo la historia de tu muerte al pecado con Cristo"  data-background-color="black" --> 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="80%" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="80%"  data-background-color="white" --> 
 
 
 
@@ -3088,7 +3088,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom6.6-10.jpg" data-auto-animate="" data-background-size="80%" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom6.6-10.jpg" data-auto-animate="" data-background-size="80%"  data-background-color="white" --> 
 
 
 
@@ -3256,11 +3256,11 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom6.11.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="Romanos 6:11-23 - La Doctrina de la Santificación - Haciendo Práctica la Santificación" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom6.11.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="Romanos 6:11-23 - La Doctrina de la Santificación - Haciendo Práctica la Santificación"  data-background-color="black" --> 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="80%" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="80%"  data-background-color="white" --> 
 
 
 
@@ -3366,7 +3366,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom6.12-14.jpg" data-auto-animate="" data-background-size="80%" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom6.12-14.jpg" data-auto-animate="" data-background-size="80%"  data-background-color="black" --> 
 
 
 
@@ -3426,11 +3426,11 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom6.15-18.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="Romanos 6:15-18 - ¿Quien es tu señor?" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom6.15-18.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="Romanos 6:15-18 - ¿Quien es tu señor?"  data-background-color="black" --> 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="80%" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="80%"  data-background-color="white" --> 
 
 
 
@@ -3505,7 +3505,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 #### b. Romanos 6:18 – “ *y libertados del pecado, vinisteis a ser siervos de la justicia.*" Los creyentes romanos no solo deben haber entendido su libertad del **<u>pecado</u>**, sino que, obviamente, también contaron con ello por fe, porque Pablo dijo que ellos vinieron *a ser siervos de la justicia*.
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom6.19-23.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="Romanos 6:19-23 - La santificación hecha simple" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom6.19-23.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="Romanos 6:19-23 - La santificación hecha simple"  data-background-color="black" --> 
 
 
 
@@ -3577,11 +3577,11 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom7.1-6.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="Romanos 7:1-25 - La Doctrina de la Santificación - Tu Nueva Relación con la Ley" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom7.1-6.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="Romanos 7:1-25 - La Doctrina de la Santificación - Tu Nueva Relación con la Ley"  data-background-color="black" --> 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="80%" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="80%"  data-background-color="white" --> 
 
 
 
@@ -3765,11 +3765,11 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom7.7-13.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="Romanos 7:7-13 - La vida bajo la ley" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom7.7-13.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="Romanos 7:7-13 - La vida bajo la ley"  data-background-color="black" --> 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="80%" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="80%"  data-background-color="white" --> 
 
 
 
@@ -3865,11 +3865,11 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom7.14-23.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="Romanos 7:14-23 - Una vida frustrada" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom7.14-23.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="Romanos 7:14-23 - Una vida frustrada"  data-background-color="black" --> 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="80%" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="80%"  data-background-color="white" --> 
 
 
 
@@ -3981,7 +3981,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom7.24-25.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="Romanos 7:24-25 - El reconocimiento de Pablo de la liberación en Cristo" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom7.24-25.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="Romanos 7:24-25 - El reconocimiento de Pablo de la liberación en Cristo"  data-background-color="black" --> 
 
 
 
@@ -4025,11 +4025,11 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom8.1-4.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="Romanos 8:1-17 - La Doctrina de la Santificación y el Espíritu Santo" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom8.1-4.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="Romanos 8:1-17 - La Doctrina de la Santificación y el Espíritu Santo"  data-background-color="black" --> 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="80%" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="80%"  data-background-color="white" --> 
 
 
 
@@ -4225,7 +4225,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom8.5-8.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="Romanos 8:5-8 - Características de la mente puesta en la carne y la mente puesta en el Espíritu" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom8.5-8.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="Romanos 8:5-8 - Características de la mente puesta en la carne y la mente puesta en el Espíritu"  data-background-color="black" --> 
 
 
 
@@ -4309,7 +4309,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom8.9-11.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="Romanos 8:9-11 - El creyente está *en el Espíritu*" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom8.9-11.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="Romanos 8:9-11 - El creyente está en el Espíritu"  data-background-color="black" --> 
 
 
 
@@ -4349,11 +4349,11 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom8.12-17.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="Romanos 8:12-17 - Tu responsabilidad como creyente en Cristo" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom8.12-17.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="Romanos 8:12-17 - Tu responsabilidad como creyente en Cristo"  data-background-color="black" --> 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="80%" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="80%"  data-background-color="white" --> 
 
 
 
@@ -4537,11 +4537,11 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom8.18.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="Romanos 8:18-39 - Glorificación" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom8.18.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="Romanos 8:18-39 - Glorificación"  data-background-color="black" --> 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="80%" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="80%"  data-background-color="white" --> 
 
 
 
@@ -4573,7 +4573,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom8.19-27.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="Romanos 8:19-27 - Gimiendo por ser glorificados" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom8.19-27.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="Romanos 8:19-27 - Gimiendo por ser glorificados"  data-background-color="black" --> 
 
 
 
@@ -4673,7 +4673,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom8.28-30.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="Romanos 8:28-30 - Garantizado ser glorificado" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom8.28-30.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="Romanos 8:28-30 - Garantizado ser glorificado"  data-background-color="black" --> 
 
 
 
@@ -4921,7 +4921,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom8.31-39.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="Romanos 8:31-39 - Glorificación probada y demostrada" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom8.31-39.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="Romanos 8:31-39 - Glorificación probada y demostrada"  data-background-color="black" --> 
 
 
 
@@ -5089,7 +5089,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/evangelio.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="Apéndice - El Mensaje del Evangelio" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/evangelio.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="Apéndice - El Mensaje del Evangelio"  data-background-color="black" --> 
 
 
 
@@ -5137,7 +5137,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/evangelio_claro.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="Apéndice - B. El evangelio es un mensaje objetivo" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/evangelio_claro.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="Apéndice - B. El evangelio es un mensaje objetivo"  data-background-color="black" --> 
 
 
 
@@ -5417,7 +5417,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/presentaciones-no-claras.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="G. - Presentaciones No Claras del Evangelio" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/presentaciones-no-claras.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="G. - Presentaciones No Claras del Evangelio"  data-background-color="black" --> 
 
 
 
@@ -5517,7 +5517,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/confieza-pecados.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="5. Confusión: Cree y confiesa tus pecados" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/confieza-pecados.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="5. Confusión: Cree y confiesa tus pecados"  data-background-color="black" --> 
 
 
 
