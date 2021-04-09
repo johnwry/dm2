@@ -913,11 +913,11 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-# III. Romanos 1:18-3:20 – La Justicia de Dios hacia los Pecadores <i class="fas fa-balance-scale"></i>
+# III. Romanos 1:18-3:20 – La Justicia de Dios hacia los Pecadores 
 
 
 
-## A. Romanos 1:18-32 – El juicio de Dios del pecador inmoral
+## A. Romanos 1:18-32 – El juicio de Dios del pecador inmoral <i class="fas fa-balance-scale"></i>
 
 
 
@@ -1109,7 +1109,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-## B. Romanos 2:1-16 – El juicio de Dios del pecador moral
+## B. Romanos 2:1-16 – El juicio de Dios del pecador moral <i class="fas fa-gavel"></i>
 
 
 
@@ -1273,7 +1273,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-## C. Romanos 2:17-29 – El juicio de Dios sobre el pecador religioso
+## C. Romanos 2:17-29 – El juicio de Dios sobre el pecador religioso <i class="fas fa-scroll"></i>
 
 
 
@@ -1437,7 +1437,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-## D. Romanos 3:1-8 – Pablo anticipó preguntas concernientes a los pecadores religiosos
+## D. Romanos 3:1-8 – Pablo anticipó preguntas concernientes a los pecadores religiosos <i class="far fa-question-circle"></i>
 
 
 
@@ -1533,8 +1533,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-## E. Romanos 3:9-20 – En conclusión: Todo el mundo es culpable de pecado.
-
+## E. Romanos 3:9-20 – En conclusión: Todo el mundo es culpable de pecado.   <i class="fas fa-balance-scale-right"></i>
 
 
 ### 1. Romanos 3:9 – Pablo concluyó que todas las **<u>personas</u>**, morales, inmorales y religiosas, son pecadores culpables. “*¿Qué, pues? ¿Somos nosotros *[judíos étnicos] * mejores que ellos *[paganos Gentiles]*  En ninguna manera; pues ya hemos acusado a judíos y a gentiles, que  todos están bajo pecado.”* Gálatas 3:22
@@ -1645,7 +1644,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-## F. Hagamos un viaje por la Escuela del Derecho.
+## F. Hagamos un viaje por la Escuela del Derecho.  <i class="fas fa-file-contract"></i>
 
 
 
@@ -1908,7 +1907,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-## A. Romanos 3:21-31 – Pablo explicó cómo Dios justifica a los pecadores
+## A. Romanos 3:21-31 – Pablo explicó cómo Dios justifica a los pecadores <i class="fas fa-cross"></i>
 
 
 
@@ -2088,7 +2087,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-## B.	Romanos 4:1-25 – Ejemplos del Antiguo Testamento de la justificación por la fe
+## B.	Romanos 4:1-25 – Ejemplos del Antiguo Testamento de la justificación por la fe <i class="fas fa-star-of-david"></i>
 
 
 
@@ -2432,7 +2431,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-## C. Romanos 5:1-11 – Las bendiciones inmerecidas de la justificación por fe
+## C. Romanos 5:1-11 – Las bendiciones inmerecidas de la justificación por fe  <i class="fas fa-gift"></i>
 
 
 
@@ -2668,7 +2667,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-## A. 1 Corintios 15:20-22, 45-49 – Dos identidades
+## A. 1 Corintios 15:20-22, 45-49 – Dos identidades <i class="fas fa-gift"></i>
 
 
 
@@ -2696,7 +2695,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-## B. Romanos 5:12-15 – Dos linajes
+## B. Romanos 5:12-15 – Dos linajes <i class="fas fa-grip-lines-vertical"></i>
 
 
 
@@ -2768,7 +2767,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-## C. Romanos 5:16 – Dos legados
+## C. Romanos 5:16 – Dos legados 
 
 
 
@@ -2784,7 +2783,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-## D. Romanos 5:17 – Dos dominios
+## D. Romanos 5:17 – Dos dominios 
 
 
 
@@ -2796,7 +2795,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-## E. Romanos 5:18-19 – Dos resultados
+## E. Romanos 5:18-19 – Dos resultados <i class="fas fa-flag-checkered"></i>
 
 
 
@@ -2816,7 +2815,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-## F. Romanos 5:20-21 – Dos esferas: la ley frente a la gracia
+## F. Romanos 5:20-21 – Dos esferas: la ley frente a la gracia <i class="fas fa-spinner"></i>
 
 
 
@@ -2844,7 +2843,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-## A. Romanos 6:1-2 – ¿Por qué no pecar?
+## A. Romanos 6:1-2 – ¿Por qué no pecar? <i class="fas fa-exclamation-triangle"></i>
 
 
 
