@@ -573,7 +573,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-##### 4) Un apóstol del Señor Jesucristo tuvo que haber sido un testigo ** <u>ocular</u>** del Cristo resucitado. Hechos 1:21-22, 1 Corintios 9:1
+##### 4) Un apóstol del Señor Jesucristo tuvo que haber sido un testigo  **<u>ocular</u>**  del Cristo resucitado. Hechos 1:21-22, 1 Corintios 9:1
 
 
 
