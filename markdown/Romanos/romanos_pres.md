@@ -557,7 +557,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### c. Romanos 1:1c – “*…llamado a ser apóstol*...” Aunque la palabra apóstol en su forma más simple significa mensajero, con el advenimiento de la Era de la Iglesia, el término apóstol se convirtió en el **<u>título</u>** oficial de los elegidos directamente por Cristo para sentar las bases de la iglesia. Efesios 2:20
+#### c. Romanos 1:1c – “*…llamado a ser apóstol...*” Aunque la palabra apóstol en su forma más simple significa mensajero, con el advenimiento de la Era de la Iglesia, el término apóstol se convirtió en el **<u>título</u>** oficial de los elegidos directamente por Cristo para sentar las bases de la iglesia. Efesios 2:20
 
 
 
@@ -577,7 +577,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### d. Romanos 1:1d –*“*…*apartado para el evangelio*...” En Hechos 9:1-6, vemos que Pablo fue llamado por Jesucristo para el propósito específico de difundir el mensaje del evangelio. Este no era un trabajo secundario; iba a ser el **<u>enfoque</u>** principal y la vocación de vida de Pablo. Gálatas 1:13-16
+#### d. Romanos 1:1d –*“*…*apartado para el evangelio...*” En Hechos 9:1-6, vemos que Pablo fue llamado por Jesucristo para el propósito específico de difundir el mensaje del evangelio. Este no era un trabajo secundario; iba a ser el **<u>enfoque</u>** principal y la vocación de vida de Pablo. Gálatas 1:13-16
 
 
 
@@ -593,7 +593,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-##### 1) Romanos 1:2a – “…*que él había prometido antes*...” El evangelio fue prometido hace mucho tiempo. El evangelio no fue algo que la gente inventó después de que Jesús murió. El evangelio fue el **<u>plan</u>** de Dios desde el principio. Génesis 3:15; Hechos 2:23, 4:27-28; Romanos 16:25-27; Apocalipsis 13:8
+##### 1) Romanos 1:2a – “…*que él había prometido antes...*” El evangelio fue prometido hace mucho tiempo. El evangelio no fue algo que la gente inventó después de que Jesús murió. El evangelio fue el **<u>plan</u>** de Dios desde el principio. Génesis 3:15; Hechos 2:23, 4:27-28; Romanos 16:25-27; Apocalipsis 13:8
 
 
 
@@ -609,7 +609,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### d. Romanos 1:3c – “…*que era del linaje de **<u>David</u>** según la carne,*...” Aquí Pablo verificó la humanidad de Jesucristo. Romanos 9:5
+#### d. Romanos 1:3c – “…*que era del linaje de **<u>David</u>** según la carne,...*” Aquí Pablo verificó la humanidad de Jesucristo. Romanos 9:5
 
 
 
@@ -629,19 +629,19 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### e. Romanos 1:4 – “…*que fue declarado Hijo de Dios*...” Jesucristo no solo era 100% humano, también era 100% **<u>Dios</u>**. Pablo verificó la deidad de Jesucristo de muchas maneras convincentes. Tito 2:13
+#### e. Romanos 1:4 – “…*que fue declarado Hijo de Dios...*” Jesucristo no solo era 100% humano, también era 100% **<u>Dios</u>**. Pablo verificó la deidad de Jesucristo de muchas maneras convincentes. Tito 2:13
 
 
 
-##### 1) Romanos 1:4a – Jesucristo fue “...*declarado Hijo de Dios **con poder***...” Jesucristo nuestro Señor fue afirmado ser el Hijo de Dios por Sus muchas muestras de poder divino. Sus muchos **<u>milagros</u>** son una prueba histórica de su divinidad. Mateo 14:33, 16:16; Marcos 1:27, 4:41, 5:42, 7:37; Romanos 9:5; Hebreos 1:2-3
+##### 1) Romanos 1:4a – Jesucristo fue “...*declarado Hijo de Dios **con poder**...*” Jesucristo nuestro Señor fue afirmado ser el Hijo de Dios por Sus muchas muestras de poder divino. Sus muchos **<u>milagros</u>** son una prueba histórica de su divinidad. Mateo 14:33, 16:16; Marcos 1:27, 4:41, 5:42, 7:37; Romanos 9:5; Hebreos 1:2-3
 
 
 
-##### 2) Romanos 1:4b – “…*declarado Hijo de Dios*...***según el Espíritu de santidad,***...” Jesucristo fue declarado Hijo de Dios por medio del **<u>Espíritu</u>** Santo que vino sobre Él en Su bautismo y lo dirigió durante toda Su vida. Marcos 1:10-13; Lucas 3:22; 4:1, 14, 18; Juan 1:32, 3:34; Hechos 10:38
+##### 2) Romanos 1:4b – “…*declarado Hijo de Dios...****según el Espíritu de santidad,**...*” Jesucristo fue declarado Hijo de Dios por medio del **<u>Espíritu</u>** Santo que vino sobre Él en Su bautismo y lo dirigió durante toda Su vida. Marcos 1:10-13; Lucas 3:22; 4:1, 14, 18; Juan 1:32, 3:34; Hechos 10:38
 
 
 
-##### 3) Romanos 1:4c – “…*declarado Hijo de Dios...**por la resurrección de entre los muertos,** *...” La resurrección se erige como la más grande exhibición de poder de Dios. Verifica la **<u>afirmación</u>** de que Cristo era Dios el Hijo. Romanos 4:25, 1 Corintios 6:14, Efesios 1:19-20, Filipenses 3:10
+##### 3) Romanos 1:4c – “…*declarado Hijo de Dios...**por la resurrección de entre los muertos,** ...*” La resurrección se erige como la más grande exhibición de poder de Dios. Verifica la **<u>afirmación</u>** de que Cristo era Dios el Hijo. Romanos 4:25, 1 Corintios 6:14, Efesios 1:19-20, Filipenses 3:10
 
 
 
@@ -653,7 +653,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-##### 1) Romanos 1:5a – “…*y por quien*...” Esto hace referencia nuevamente a Jesucristo nuestro Señor en el versículo anterior. Pablo declaró que fue a través de Jesucristo que recibió su **<u>llamado</u>** para difundir las buenas nuevas.
+##### 1) Romanos 1:5a – “…*y por quien...*” Esto hace referencia nuevamente a Jesucristo nuestro Señor en el versículo anterior. Pablo declaró que fue a través de Jesucristo que recibió su **<u>llamado</u>** para difundir las buenas nuevas.
 
 
 
@@ -665,11 +665,11 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-##### 4) Romanos 1:5d – “…*para la obediencia a la fe*...” La obediencia a la que se refiere en este pasaje brota de la **<u>fe</u>**, no de la fuerza de voluntad humana o la resolución mental. Romanos 4:18-21, 15:18, 16:26
+##### 4) Romanos 1:5d – “…*para la obediencia a la fe...*” La obediencia a la que se refiere en este pasaje brota de la **<u>fe</u>**, no de la fuerza de voluntad humana o la resolución mental. Romanos 4:18-21, 15:18, 16:26
 
 
 
-##### 5) Romanos 1:5e – “…*en todas las naciones*...” La razón por la cual a Pablo le fue dada gracia y apostolado fue para inspirar la obediencia de la fe entre los **<u>grupos</u>** de personas no judías del mundo. Hechos 9:15; Romanos 1:8, 11:13; Gálatas 1:15-16
+##### 5) Romanos 1:5e – “…*en todas las naciones...*” La razón por la cual a Pablo le fue dada gracia y apostolado fue para inspirar la obediencia de la fe entre los **<u>grupos</u>** de personas no judías del mundo. Hechos 9:15; Romanos 1:8, 11:13; Gálatas 1:15-16
 
 
 
@@ -817,7 +817,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-##### 1) Romanos 1:14a – “*A griegos y a no griegos,...” soy deudor*...Pablo estaba comprometido a predicar el evangelio **<u>tanto</u>** a los cultos (los griegos) como a los incultos (los bárbaros).
+##### 1) Romanos 1:14a – “*A griegos y a no griegos,...” soy deudor...*Pablo estaba comprometido a predicar el evangelio **<u>tanto</u>** a los cultos (los griegos) como a los incultos (los bárbaros).
 
 
 
@@ -1401,7 +1401,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-##### 2) Romanos 2:25b – “*...pero si eres transgresor de la ley, tu circuncisión viene a ser incircuncisión*.” Si un varón circuncidado no se preocupaba por Dios o seguía Su Ley, su circuncisión no significaba **<u>nada</u>**. Bien podría no ser circuncidado. Romanos 9:6-8, Jeremías 9:24-25
+##### 2) Romanos 2:25b – “...*pero si eres transgresor de la ley, tu circuncisión viene a ser incircuncisión*.” Si un varón circuncidado no se preocupaba por Dios o seguía Su Ley, su circuncisión no significaba **<u>nada</u>**. Bien podría no ser circuncidado. Romanos 9:6-8, Jeremías 9:24-25
 
 
 
@@ -4180,7 +4180,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-##### 2) Una mejor traducción de este verso podría ser; “Pues lo que la ley no pudo hacer ...Dios lo hizo: enviando a su propio Hijo en semejanza de carne de pecado... **<u>por el pecado</u>**.”
+##### 2) Una mejor traducción de este verso podría ser; “*Pues lo que la ley no pudo hacer ...Dios lo hizo: enviando a su propio Hijo en semejanza de carne de pecado...*  **<u>por el pecado</u>**.”
 
 
 
@@ -4192,7 +4192,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### e. Romanos 8:3e – “…c*ondenó al pecado en la carne;” *Mientras estaba en la **<u>cruz</u>**, Cristo condenó la naturaleza de pecado que reside en nuestros cuerpos mortales.
+#### e. Romanos 8:3e – “*…condenó al pecado en la carne;*” *Mientras estaba en la **<u>cruz</u>**, Cristo condenó la naturaleza de pecado que reside en nuestros cuerpos mortales.*
 
 
 
@@ -4216,7 +4216,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### f. Romanos 8:4 – “* para que la justicia de la ley se cumpliese en nosotros, que no andamos conforme a la carne, sino conforme al Espíritu*.” Debido a que tu naturaleza de pecado ha sido condenada, ahora eres **<u>libre</u>** de vivir una vida justa.
+#### f. Romanos 8:4 – “*para que la justicia de la ley se cumpliese en nosotros, que no andamos conforme a la carne, sino conforme al Espíritu.*” Debido a que tu naturaleza de pecado ha sido condenada, ahora eres **<u>libre</u>** de vivir una vida justa.
 
 
 
@@ -5208,11 +5208,11 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### a. Prueba #1 – Profecías detalladas cumplidas: 1 Corintios 15:3d – “… *Cristo murió...* *conforme a las Escrituras*;” La muerte de Cristo fue un **<u>evento</u>** profético que sucedió exactamente como el Antiguo Testamento lo predijo. Salmos 22:17-18, 69:11; Isaías 53:3-6; Zacarías 12:10; Lucas 24:46; Hechos 10:43; Romanos 1:2-4  
+#### a. Prueba #1 – Profecías detalladas cumplidas: 1 Corintios 15:3d – “…*Cristo murió...conforme a las Escrituras*;” La muerte de Cristo fue un **<u>evento</u>** profético que sucedió exactamente como el Antiguo Testamento lo predijo. Salmos 22:17-18, 69:11; Isaías 53:3-6; Zacarías 12:10; Lucas 24:46; Hechos 10:43; Romanos 1:2-4  
 
 
 
-#### b. Prueba #2 – La sepultura de Cristo: 1 Corintios 15:4a – “… *Cristo murió... *y* fue **<u>sepultado</u>***,…” La sepultura de Cristo proporciona prueba perdurable de su muerte. Los vivos no son sepultados. Hechos 13:29 
+#### b. Prueba #2 – La sepultura de Cristo: 1 Corintios 15:4a – “… *Cristo murió...*y* fue **<u>sepultado</u>***,…” La sepultura de Cristo proporciona prueba perdurable de su muerte. Los vivos no son sepultados. Hechos 13:29 
 
 
 
@@ -5220,7 +5220,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### a. Prueba #1 – Profecías detalladas cumplidas: 1 Corintios 15:4b – “... *y que resucitó …conforme a las Escrituras;” *Tal como las profecías cumplidas con precisión demuestran la validez de la muerte de Cristo, las profecías cumplidas con precisión también **<u>prueban</u>** la resurrección de Cristo. Job 19:25-26; Salmos 16:9-10; Isaías 25:8, 53:10
+#### a. Prueba #1 – Profecías detalladas cumplidas: 1 Corintios 15:4b – “...*y que resucitó …conforme a las Escrituras;” *Tal como las profecías cumplidas con precisión demuestran la validez de la muerte de Cristo, las profecías cumplidas con precisión también **<u>prueban</u>** la resurrección de Cristo. Job 19:25-26; Salmos 16:9-10; Isaías 25:8, 53:10
 
 
 
