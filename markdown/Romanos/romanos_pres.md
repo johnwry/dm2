@@ -549,7 +549,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### a. Romanos 1:1a – “*Pablo, siervo*...” Antiguamente un ** <u>violento</u> ** perseguidor de la iglesia, Pablo se convirtió al cristianismo por medio de un encuentro milagroso con el Señor Jesucristo. Hechos 9:1-6, 1 Timoteo 1:12-16 
+#### a. Romanos 1:1a – “*Pablo, siervo*...” Antiguamente un  <u>**violento**</u>  perseguidor de la iglesia, Pablo se convirtió al cristianismo por medio de un encuentro milagroso con el Señor Jesucristo. Hechos 9:1-6, 1 Timoteo 1:12-16 
 
 
 
