@@ -404,7 +404,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-### 1. En Romanos 1:7, Pablo dirigió el libro *a todos los que están en Roma, amados de Dios, llamados a ser santos*. Posiblemente habían creyentes de muchas iglesias - **<u>hogares</u>**  en Roma, similares a la que se encontraba en el hogar de Aquila y Priscilla. Romanos 16:5, 10, 11, 15 
+### 1. En Romanos 1:7, Pablo dirigió el libro *a todos los que están en Roma, amados de Dios, llamados a ser santos.* Posiblemente habían creyentes de muchas iglesias -  **<u>hogares</u>**  en Roma, similares a la que se encontraba en el hogar de Aquila y Priscilla. Romanos 16:5, 10, 11, 15 
 
 
 
@@ -589,7 +589,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### a. Romanos 1:2 –*El evangelio de Dios ...”que él había prometido antes por sus profetas en las santas Escrituras,*” (Rom. 15:8). El evangelio, que significa buenas **<u>noticias</u>**, fue la culminación y el cumplimiento de las profecías del Antiguo Testamento. Isaías 52:7, 13‑15, 53:1-12; Lucas 24:25-27
+#### a. Romanos 1:2 –*El evangelio de Dios...”que él había prometido antes por sus profetas en las santas Escrituras,*” (Rom. 15:8). El evangelio, que significa buenas **<u>noticias</u>**, fue la culminación y el cumplimiento de las profecías del Antiguo Testamento. Isaías 52:7, 13‑15, 53:1-12; Lucas 24:25-27
 
 
 
