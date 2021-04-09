@@ -295,7 +295,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/aquaduct.png" data-background-size="200px" data-background-position="right" -->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/aqueduct.png" data-background-size="200px" data-background-position="right" -->
 ### 3. El Imperio Romano no solamente construyó canales y **<u>caminos</u>**, también promovió el griego como lengua unificadora. Gálatas 4:4 
 
 
