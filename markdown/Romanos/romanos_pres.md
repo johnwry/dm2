@@ -290,6 +290,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/roman-centurion.png" data-background-size="200px" data-background-position="left" -->
 ### 2. Se estima que, en el tiempo de Jesucristo, Roma tenía una población de un 1.000.000 de habitantes, siendo **<u>esclavos</u>** entre el 15 al 30 por ciento de la población. Aparte de los esclavos, habían al menos otras dos clases de personas más, la clase obrera y la aristócrata. 
 
 
