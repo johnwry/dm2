@@ -6107,7 +6107,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 #### b. El evangelio no es tu habilidad para ser **<u>sincero</u>**  
 <!-- .element: class="fragment" -->
 
- .
+
 
 #### c. El evangelio no es tu habilidad para **<u>echar</u>** fuera todas las dudas.
 
@@ -6137,7 +6137,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-### 1. Gálatas 1:6 – “*Estoy maravillado de que tan pronto os hayáis alejado del que os llamó por la gracia de Cristo, para seguir un evangelio diferente.*" Tristemente, un creyente puede **<u>abandonar</u>** el evangelio, como estaba sucediendo en las iglesias de Galacia.
+### 1. Gálatas 1:6 –  "*Estoy maravillado de que tan pronto os hayáis alejado del que os llamó por la gracia de Cristo, para seguir un evangelio diferente.*" Tristemente, un creyente puede **<u>abandonar</u>** el evangelio, como estaba sucediendo en las iglesias de Galacia.
 
 
 
@@ -6153,7 +6153,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-### 5. Gálatas 1:10 – “*Pues, ¿busco ahora el favor de los hombres, o el de Dios? ¿O trato de agradar a los hombres? Pues si todavía agradara a los hombres, no sería siervo de Cristo* .” Debemos **<u>resistir</u>** a toda costa la tentación de predicar un mensaje popular, diluido o atractivo del Evangelio, porque si lo hacemos, ya no estamos sirviendo a Cristo.
+### 5. Gálatas 1:10 – “*Pues, ¿busco ahora el favor de los hombres, o el de Dios? ¿O trato de agradar a los hombres? Pues si todavía agradara a los hombres, no sería siervo de Cristo.*” Debemos **<u>resistir</u>** a toda costa la tentación de predicar un mensaje popular, diluido o atractivo del Evangelio, porque si lo hacemos, ya no estamos sirviendo a Cristo.
 
 
 
@@ -6225,11 +6225,11 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-### 1. Es Dios quien nos **<u>salva</u>**. Apocalipsis 7:10b dice *, *“*…La salvación pertenece a nuestro Dios que está sentado en el trono, y al Cordero.*” No nos salvamos a nosotros mismos. Ese es el trabajo de Dios. Isaías 45:22
+### 1. Es Dios quien nos **<u>salva</u>**. Apocalipsis 7:10b dice, “*…La salvación pertenece a nuestro Dios que está sentado en el trono, y al Cordero.*” No nos salvamos a nosotros mismos. Ese es el trabajo de Dios. Isaías 45:22
 
 
 
-### 2. Dios, el **<u>autor</u>** de nuestra salvación, dice que la salvación es eterna. Hebreos 5:9a dice, “*y habiendo sido perfeccionado, [*Jesús *] vino a ser autor de eterna salvación…*” Isaías 51:6b
+### 2. Dios, el **<u>autor</u>** de nuestra salvación, dice que la salvación es eterna. Hebreos 5:9a dice, “*y habiendo sido perfeccionado,* [Jesús ] *vino a ser autor de eterna salvación…*” Isaías 51:6b
 
 
 
@@ -6249,7 +6249,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### c. Hebreos 7:25 –*“por lo cual puede también salvar **<u>perpetuamente</u>** a los que por él se acercan a Dios, viviendo siempre para interceder por ellos.*"
+#### c. Hebreos 7:25 – “*por lo cual puede también salvar **<u>perpetuamente</u>** a los que por él se acercan a Dios, viviendo siempre para interceder por ellos.*"
 
 
 
