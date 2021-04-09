@@ -557,7 +557,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### c. Romanos 1:1c – “*…llamado a ser apóstol...*” Aunque la palabra apóstol en su forma más simple significa mensajero, con el advenimiento de la Era de la Iglesia, el término apóstol se convirtió en el **<u>título</u>** oficial de los elegidos directamente por Cristo para sentar las bases de la iglesia. Efesios 2:20
+#### c. Romanos 1:1c – “*…llamado a ser apóstol...*” Aunque la palabra apóstol en su forma más simple significa mensajero, con el advenimiento de la Era de la Iglesia, el término apóstol se convirtió en el  **<u>título</u>**  oficial de los elegidos directamente por Cristo para sentar las bases de la iglesia. Efesios 2:20
 
 
 
