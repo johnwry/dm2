@@ -6853,7 +6853,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### b. Efesios 2:3 –*“entre los cuales también todos nosotros vivimos en otro tiempo en los deseos de nuestra carne, haciendo la voluntad de la carne y de los pensamientos, y éramos por naturaleza hijos de  **<u>ira</u>**, lo mismo que los demás*.”
+#### b. Efesios 2:3 – “*entre los cuales también todos nosotros vivimos en otro tiempo en los deseos de nuestra carne, haciendo la voluntad de la carne y de los pensamientos, y éramos por naturaleza hijos de  **<u>ira</u>**, lo mismo que los demás*.”
 
 
 
@@ -6865,7 +6865,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### b. 1 Corintios 2:14 – “* Pero el hombre natural no percibe las cosas que son del Espíritu de Dios, porque para él son locura, y no las **<u>puede</u>** entender, porque se han de discernir espiritualmente *.” 
+#### b. 1 Corintios 2:14 – “*Pero el hombre natural no percibe las cosas que son del Espíritu de Dios, porque para él son locura, y no las **<u>puede</u>** entender, porque se han de discernir espiritualmente *.” 
 
 
 
@@ -6901,15 +6901,15 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### a. 1 Corintios 3:1-3 – “*De manera que yo, hermanos, no pude hablaros como a espirituales, sino como a carnales, como a niños en Cristo. Os di a beber leche, y no vianda; porque aún no erais **<u>capaces</u>**, ni sois capaces todavía, porque aún sois carnales; pues habiendo entre vosotros celos, contiendas y disensiones, ¿no sois carnales, y andáis como hombres?"*
+#### a. 1 Corintios 3:1-3 – “*De manera que yo, hermanos, no pude hablaros como a espirituales, sino como a carnales, como a niños en Cristo. Os di a beber leche, y no vianda; porque aún no erais **<u>capaces</u>**, ni sois capaces todavía, porque aún sois carnales; pues habiendo entre vosotros celos, contiendas y disensiones, ¿no sois carnales, y andáis como hombres?*"
 
 
 
-#### b. Hebreos 5:12-13 – “*Porque debiendo ser ya maestros, después de tanto tiempo, tenéis necesidad de que se os **<u>vuelva</u>** a enseñar cuáles son los primeros rudimentos de las palabras de Dios; y habéis llegado a ser tales que tenéis necesidad de leche, y no de alimento sólido. Y todo aquel que participa de la leche es inexperto en la palabra de justicia, porque es niño;”*
+#### b. Hebreos 5:12-13 – “*Porque debiendo ser ya maestros, después de tanto tiempo, tenéis necesidad de que se os **<u>vuelva</u>** a enseñar cuáles son los primeros rudimentos de las palabras de Dios; y habéis llegado a ser tales que tenéis necesidad de leche, y no de alimento sólido. Y todo aquel que participa de la leche es inexperto en la palabra de justicia, porque es niño;*”
 
 
 
-### 4. Dios aconsejaría al bebé en Cristo “… ***<u>crecer</u>*** *en la gracia y el conocimiento de nuestro Señor y Salvador Jesucristo* . …” 2 Pedro 3:18a
+### 4. Dios aconsejaría al bebé en Cristo “*… **<u>crecer</u>**  en la gracia y el conocimiento de nuestro Señor y Salvador Jesucristo…*” 2 Pedro 3:18a
 
 
 
@@ -6965,7 +6965,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### a. 1 Corintios 2:15a – “*…el espiritual juzga todas las cosas;*…” Estando debidamente relacionado con el Espíritu Santo, un cristiano espiritual es capaz de evaluar y **<u>discernir</u>** *todas las cosas*, incluyendo la doctrina, las situaciones y las personas. Esto es gracias a que el creyente espiritual está siendo misericordiosamente guiado por el Espíritu Santo. Romanos 8:14, Hebreos 5:14
+#### a. 1 Corintios 2:15a – “*…el espiritual juzga todas las cosas;…*” Estando debidamente relacionado con el Espíritu Santo, un cristiano espiritual es capaz de evaluar y **<u>discernir</u>** *todas las cosas*, incluyendo la doctrina, las situaciones y las personas. Esto es gracias a que el creyente espiritual está siendo misericordiosamente guiado por el Espíritu Santo. Romanos 8:14, Hebreos 5:14
 
 
 
@@ -7005,7 +7005,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### a. 2 Pedro 3:17 – “*Así que vosotros, oh amados, sabiéndolo de antemano, guardaos, no sea que arrastrados por el error de los inicuos,  **<u>caigáis</u>** de vuestra firmeza.”*
+#### a. 2 Pedro 3:17 – “*Así que vosotros, oh amados, sabiéndolo de antemano, guardaos, no sea que arrastrados por el error de los inicuos,  **<u>caigáis</u>** de vuestra firmeza.*”
 
 
 
@@ -7049,11 +7049,11 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### a. Juan 15:4 – “*Permaneced en mí, y yo en vosotros. Como el pámpano no puede llevar fruto por sí mismo, si no permanece en la **<u>vid</u>**, así tampoco vosotros, si no permanecéis en mí*.”
+#### a. Juan 15:4 – “*Permaneced en mí, y yo en vosotros. Como el pámpano no puede llevar fruto por sí mismo, si no permanece en la **<u>vid</u>**, así tampoco vosotros, si no permanecéis en mí.*”
 
 
 
-#### b. Juan 15:5 – “* Yo soy la vid, vosotros los pámpanos; el que permanece en mí, y yo en él, éste lleva mucho fruto; porque separados de mí  **<u>nada</u>** podéis hacer*.”
+#### b. Juan 15:5 – “* Yo soy la vid, vosotros los pámpanos; el que permanece en mí, y yo en él, éste lleva mucho fruto; porque separados de mí  **<u>nada</u>** podéis hacer.*”
 
 
 
@@ -7081,15 +7081,15 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### b. 1 Corintios 3:3a – *“porque aún sois carnales;” *Debido a que la carne domina al creyente carnal, él o ella **<u>piensa</u>** como un incrédulo y puede actuar como si lo fuese.
+#### b. 1 Corintios 3:3a – “*porque aún sois carnales;*” Debido a que la carne domina al creyente carnal, él o ella **<u>piensa</u>** como un incrédulo y puede actuar como si lo fuese.
 
 
 
-#### c. 1 Corintios 3:3b – “*…pues habiendo entre vosotros celos, contiendas y disensiones, ¿no sois carnales, y andáis como hombres?”* El cristiano carnal está caracterizado por la envidia y las relaciones **<u>rotas</u>**. Gálatas 5:19-21
+#### c. 1 Corintios 3:3b – “*…pues habiendo entre vosotros celos, contiendas y disensiones, ¿no sois carnales, y andáis como hombres?*”  El cristiano carnal está caracterizado por la envidia y las relaciones **<u>rotas</u>**. Gálatas 5:19-21
 
 
 
-#### d. 1 Corintios 3:4 – “*Porque cuando uno dice: Yo soy de Pablo, y otro: Yo soy de Apolos, ¿no sois simplemente **<u>hombres</u>**?* [LBLA]*”* Un creyente carnal es un seguidor de personas más que un seguidor de Cristo.
+#### d. 1 Corintios 3:4 – “*Porque cuando uno dice: Yo soy de Pablo, y otro: Yo soy de Apolos, ¿no sois simplemente **<u>hombres</u>**?  [LBLA] *”  Un creyente carnal es un seguidor de personas más que un seguidor de Cristo.
 
 
 
@@ -7105,11 +7105,11 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### c. Romanos 8:7a – “ *Por cuanto los designios de la carne son enemistad contra Dios;…” * Las personas carnales son hostiles hacia Dios. A menudo se quejan de que Dios es distante e indiferente, cuando en realidad su **<u>propia</u>** carnalidad los ha distanciado de Dios.
+#### c. Romanos 8:7a – “ *Por cuanto los designios de la carne son enemistad contra Dios;…*”  Las personas carnales son hostiles hacia Dios. A menudo se quejan de que Dios es distante e indiferente, cuando en realidad su **<u>propia</u>** carnalidad los ha distanciado de Dios.
 
 
 
-#### d. Romanos 8:7b – “… *porque no se sujetan a la ley de Dios, ni tampoco pueden*;” La gente carnal no se somete a los mandatos de Dios. Son desobedientes y **<u>orgullosos</u>**.
+#### d. Romanos 8:7b – “*…porque no se sujetan a la ley de Dios, ni tampoco pueden*;” La gente carnal no se somete a los mandatos de Dios. Son desobedientes y **<u>orgullosos</u>**.
 
 
 
@@ -7149,11 +7149,11 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### a. Aunque tu salvación no se puede perder, puedes comenzar a luchar con las **<u>dudas</u>**. Puedes perder tu conocimiento de la verdad y olvidarte de la* “…purificación de [tus] antiguos pecados*.” 2 Pedro 1:8-11
+#### a. Aunque tu salvación no se puede perder, puedes comenzar a luchar con las **<u>dudas</u>**. Puedes perder tu conocimiento de la verdad y olvidarte de la “*…purificación de [tus] antiguos pecados*.” 2 Pedro 1:8-11
 
 
 
-#### b. La voluntad de Dios para ti es que estés **<u>completamente</u>** seguro de tu salvación para que puedas beneficiarte de “*…todas las riquezas que proceden de una plena seguridad de comprensión,…”* (Col. 2:1-2 [LBLA]). La duda anula esta bendición y termina en inseguridad y falta de convicción. 2 Pedro 3:17
+#### b. La voluntad de Dios para ti es que estés **<u>completamente</u>** seguro de tu salvación para que puedas beneficiarte de “*…todas las riquezas que proceden de una plena seguridad de comprensión,…*”  (Col. 2:1-2 [LBLA]). La duda anula esta bendición y termina en inseguridad y falta de convicción. 2 Pedro 3:17
 
 
 
@@ -7161,11 +7161,11 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### a. El creyente que se niega a vivir por el Espíritu pierde su perspectiva eterna y **<u>sufre</u>** de miopía espiritual. 2 Pedro 1:9a dice, “* Pero el que no tiene estas cosas tiene la vista muy corta; es ciego,… *”
+#### a. El creyente que se niega a vivir por el Espíritu pierde su perspectiva eterna y **<u>sufre</u>** de miopía espiritual. 2 Pedro 1:9a dice, “*Pero el que no tiene estas cosas tiene la vista muy corta; es ciego,…*”
 
 
 
-#### b. Tener una **<u>esperanza</u>** sólida del futuro te permite disfrutar cada nuevo día. Romanos 15:13 dice, “ * Y el Dios de esperanza os llene de todo gozo y paz en el creer, para que abundéis en esperanza por el poder del Espíritu Santo*.” Efesios 1:18-20
+#### b. Tener una **<u>esperanza</u>** sólida del futuro te permite disfrutar cada nuevo día. Romanos 15:13 dice, “*Y el Dios de esperanza os llene de todo gozo y paz en el creer, para que abundéis en esperanza por el poder del Espíritu Santo*.” Efesios 1:18-20
 
 
 
@@ -7177,7 +7177,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### b. 1 Juan 1:6 – “* Si  **<u>decimos</u>**  que tenemos comunión con él, y andamos en tinieblas, mentimos, y no practicamos la verdad*;” Efesios 5:6-10
+#### b. 1 Juan 1:6 – “*Si  **<u>decimos</u>**  que tenemos comunión con él, y andamos en tinieblas, mentimos, y no practicamos la verdad*;” Efesios 5:6-10
 
 
 
