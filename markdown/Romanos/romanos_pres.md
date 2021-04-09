@@ -347,6 +347,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/coin.png" data-background-size="200px" data-background-position="left" -->
 #### c. Pablo también mencionó a Erasto, el tesorero de la ciudad. En tiempos recientes, un **<u>adoquín</u>** que data de esa época y que lleva el nombre de Erasto fue descubierto en Corinto. Se cree que es la misma persona. 
 
 
