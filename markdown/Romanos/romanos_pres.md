@@ -5952,7 +5952,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### b. El concepto de tener fe es bíblico, pero para la salvación, la fe debe estar específicamente en Cristo. Juan 6:29 – "*Respondió Jesús y les dijo: Esta es la obra de Dios, que creáis en  **<u>el</u>** **que** él ha enviado.*"
+#### b. El concepto de tener fe es bíblico, pero para la salvación, la fe debe estar específicamente en Cristo. Juan 6:29 – "*Respondió Jesús y les dijo: Esta es la obra de Dios, que creáis en  **<u>el</u>** que él ha enviado.*"
 
 
 
