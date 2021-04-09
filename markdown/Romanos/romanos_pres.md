@@ -299,7 +299,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/colosseum-down.png" data-background-size="400px" data-background-position="right" -->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/colosseum-down.png" data-background-size="300px" data-background-position="right" -->
 ### 4. La ciudad era bien conocida por sus imponentes edificios públicos, música refinada y entretenimiento. También era conocida por sus concursos de gladiadores inmortales y peleas de animales brutales, donde tanto hombres como animales a menudo eran obligados a **<u>luchar</u>** hasta la muerte. 
 
 
