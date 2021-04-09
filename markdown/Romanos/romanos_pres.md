@@ -6020,7 +6020,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-##### 1) Cuando Pedro predicó en el día de Pentecostés (Hechos 2:23-24, 36), predicó la deidad, la muerte y la resurrección de Cristo:*"a éste… matasteis por manos de inicuos, crucificándole; al cual Dios levantó... Por lo tanto ...Sepa[n], pues, ciertísimamente ...que a este Jesús a quien vosotros crucificasteis, Dios le ha hecho  **<u>Señor</u>** y Cristo.*"
+##### 1) Cuando Pedro predicó en el día de Pentecostés (Hechos 2:23-24, 36), predicó la deidad, la muerte y la resurrección de Cristo: "*a éste…matasteis por manos de inicuos, crucificándole; al cual Dios levantó...Por lo tanto ...Sepa[n], pues, ciertísimamente...que a este Jesús a quien vosotros crucificasteis, Dios le ha hecho  **<u>Señor</u>** y Cristo.*"
 
 
 
