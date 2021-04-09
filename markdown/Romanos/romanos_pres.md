@@ -145,139 +145,139 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/bosquejo/rom-bosquejo.001.jpeg"  data-background-size="80%" data-auto-animate="" data-background-color="white" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/bosquejo/rom-bosquejo.001.jpeg"  data-background-size="contain" data-auto-animate="" data-background-color="white" --> 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/bosquejo/rom-bosquejo.002.jpeg"  data-background-size="80%" data-auto-animate="" data-background-color="white"  --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/bosquejo/rom-bosquejo.002.jpeg"  data-background-size="contain" data-auto-animate="" data-background-color="white"  --> 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/bosquejo/rom-bosquejo.003.jpeg"  data-background-size="80%" data-auto-animate=""data-background-color="white"  --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/bosquejo/rom-bosquejo.003.jpeg"  data-background-size="contain" data-auto-animate=""data-background-color="white"  --> 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/bosquejo/rom-bosquejo.004.jpeg"  data-background-size="80%" data-auto-animate="" data-background-color="white" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/bosquejo/rom-bosquejo.004.jpeg"  data-background-size="contain" data-auto-animate="" data-background-color="white" --> 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/bosquejo/rom-bosquejo.005.jpeg"  data-background-size="80%" data-auto-animate="" data-background-color="white" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/bosquejo/rom-bosquejo.005.jpeg"  data-background-size="contain" data-auto-animate="" data-background-color="white" --> 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/bosquejo/rom-bosquejo.006.jpeg"  data-background-size="80%" data-auto-animate="" data-background-color="white" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/bosquejo/rom-bosquejo.006.jpeg"  data-background-size="contain" data-auto-animate="" data-background-color="white" --> 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/bosquejo/rom-bosquejo.007.jpeg"  data-background-size="80%" data-auto-animate="" data-background-color="white" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/bosquejo/rom-bosquejo.007.jpeg"  data-background-size="contain" data-auto-animate="" data-background-color="white" --> 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/bosquejo/rom-bosquejo.008.jpeg"  data-background-size="80%" data-auto-animate="" data-background-color="white" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/bosquejo/rom-bosquejo.008.jpeg"  data-background-size="contain" data-auto-animate="" data-background-color="white" --> 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/bosquejo/rom-bosquejo.009.jpeg"  data-background-size="80%" data-auto-animate="" data-background-color="white" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/bosquejo/rom-bosquejo.009.jpeg"  data-background-size="contain" data-auto-animate="" data-background-color="white" --> 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/bosquejo/rom-bosquejo.010.jpeg"  data-background-size="80%" data-auto-animate="" data-background-color="white" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/bosquejo/rom-bosquejo.010.jpeg"  data-background-size="contain" data-auto-animate="" data-background-color="white" --> 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/bosquejo/rom-bosquejo.011.jpeg"  data-background-size="80%" data-auto-animate="" data-background-color="white" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/bosquejo/rom-bosquejo.011.jpeg"  data-background-size="contain" data-auto-animate="" data-background-color="white" --> 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/bosquejo/rom-bosquejo.012.jpeg"  data-background-size="80%" data-auto-animate="" data-background-color="white" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/bosquejo/rom-bosquejo.012.jpeg"  data-background-size="contain" data-auto-animate="" data-background-color="white" --> 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/bosquejo/rom-bosquejo.013.jpeg"  data-background-size="80%" data-auto-animate="" data-background-color="white" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/bosquejo/rom-bosquejo.013.jpeg"  data-background-size="contain" data-auto-animate="" data-background-color="white" --> 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/bosquejo/rom-bosquejo.014.jpeg"  data-background-size="80%" data-auto-animate="" data-background-color="white" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/bosquejo/rom-bosquejo.014.jpeg"  data-background-size="contain" data-auto-animate="" data-background-color="white" --> 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/bosquejo/rom-bosquejo.015.jpeg"  data-background-size="80%" data-auto-animate="" data-background-color="white" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/bosquejo/rom-bosquejo.015.jpeg"  data-background-size="contain" data-auto-animate="" data-background-color="white" --> 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/bosquejo/rom-bosquejo.016.jpeg"  data-background-size="80%" data-auto-animate="" data-background-color="white" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/bosquejo/rom-bosquejo.016.jpeg"  data-background-size="contain" data-auto-animate="" data-background-color="white" --> 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/bosquejo/rom-bosquejo.017.jpeg"  data-background-size="80%" data-auto-animate="" data-background-color="white" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/bosquejo/rom-bosquejo.017.jpeg"  data-background-size="contain" data-auto-animate="" data-background-color="white" --> 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/bosquejo/rom-bosquejo.018.jpeg"  data-background-size="80%" data-auto-animate="" data-background-color="white" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/bosquejo/rom-bosquejo.018.jpeg"  data-background-size="contain" data-auto-animate="" data-background-color="white" --> 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/bosquejo/rom-bosquejo.019.jpeg"  data-background-size="80%" data-auto-animate="" data-background-color="white" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/bosquejo/rom-bosquejo.019.jpeg"  data-background-size="contain" data-auto-animate="" data-background-color="white" --> 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/bosquejo/rom-bosquejo.020.jpeg"  data-background-size="80%" data-auto-animate="" data-background-color="white" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/bosquejo/rom-bosquejo.020.jpeg"  data-background-size="contain" data-auto-animate="" data-background-color="white" --> 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/bosquejo/rom-bosquejo.021.jpeg"  data-background-size="80%" data-auto-animate="" data-background-color="white" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/bosquejo/rom-bosquejo.021.jpeg"  data-background-size="contain" data-auto-animate="" data-background-color="white" --> 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/bosquejo/rom-bosquejo.022.jpeg"  data-background-size="80%" data-auto-animate="" data-background-color="white" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/bosquejo/rom-bosquejo.022.jpeg"  data-background-size="contain" data-auto-animate="" data-background-color="white" --> 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/bosquejo/rom-bosquejo.023.jpeg"  data-background-size="80%" data-auto-animate="" data-background-color="white" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/bosquejo/rom-bosquejo.023.jpeg"  data-background-size="contain" data-auto-animate="" data-background-color="white" --> 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/bosquejo/rom-bosquejo.024.jpeg"  data-background-size="80%" data-auto-animate="" data-background-color="white" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/bosquejo/rom-bosquejo.024.jpeg"  data-background-size="contain" data-auto-animate="" data-background-color="white" --> 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/bosquejo/rom-bosquejo.025.jpeg"  data-background-size="80%" data-auto-animate="" data-background-color="white" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/bosquejo/rom-bosquejo.025.jpeg"  data-background-size="contain" data-auto-animate="" data-background-color="white" --> 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/bosquejo/rom-bosquejo.026.jpeg"  data-background-size="80%" data-auto-animate="" data-background-color="white" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/bosquejo/rom-bosquejo.026.jpeg"  data-background-size="contain" data-auto-animate="" data-background-color="white" --> 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/bosquejo/rom-bosquejo.027.jpeg"  data-background-size="80%" data-auto-animate="" data-background-color="white" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/bosquejo/rom-bosquejo.027.jpeg"  data-background-size="contain" data-auto-animate="" data-background-color="white" --> 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/bosquejo/rom-bosquejo.028.jpeg"  data-background-size="80%" data-auto-animate="" data-background-color="white" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/bosquejo/rom-bosquejo.028.jpeg"  data-background-size="contain" data-auto-animate="" data-background-color="white" --> 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/bosquejo/rom-bosquejo.029.jpeg"  data-background-size="80%" data-auto-animate="" data-background-color="white" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/bosquejo/rom-bosquejo.029.jpeg"  data-background-size="contain" data-auto-animate="" data-background-color="white" --> 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/bosquejo/rom-bosquejo.030.jpeg"  data-background-size="80%" data-auto-animate="" data-background-color="white" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/bosquejo/rom-bosquejo.030.jpeg"  data-background-size="contain" data-auto-animate="" data-background-color="white" --> 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/bosquejo/rom-bosquejo.031.jpeg"  data-background-size="80%" data-auto-animate="" data-background-color="white" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/bosquejo/rom-bosquejo.031.jpeg"  data-background-size="contain" data-auto-animate="" data-background-color="white" --> 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/bosquejo/rom-bosquejo.032.jpeg"  data-background-size="80%" data-auto-animate="" data-background-color="white" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/bosquejo/rom-bosquejo.032.jpeg"  data-background-size="contain" data-auto-animate="" data-background-color="white" --> 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/bosquejo/rom-bosquejo.033.jpeg"  data-background-size="80%" data-auto-animate="" data-background-color="white" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/bosquejo/rom-bosquejo.033.jpeg"  data-background-size="contain" data-auto-animate="" data-background-color="white" --> 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/bosquejo/rom-bosquejo.034.jpeg"  data-background-size="80%" data-auto-animate="" data-background-color="white" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/bosquejo/rom-bosquejo.034.jpeg"  data-background-size="contain" data-auto-animate="" data-background-color="white" --> 
 
 
 
@@ -454,88 +454,88 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3_tiempos.001.png"  data-background-size="80%" data-auto-animate="" data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3_tiempos.001.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3_tiempos.002.png"  data-background-size="80%" data-auto-animate="" data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3_tiempos.002.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3_tiempos.003.png"  data-background-size="80%" data-auto-animate="" data-background-color="black" -->
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3_tiempos.003.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" -->
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3_tiempos.004.png"  data-background-size="80%" data-auto-animate="" data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3_tiempos.004.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3_tiempos.005.png"  data-background-size="80%" data-auto-animate="" data-background-color="black" -->
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3_tiempos.005.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" -->
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3_tiempos.006.png"  data-background-size="80%" data-auto-animate="" data-background-color="black" -->
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3_tiempos.006.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" -->
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3_tiempos.007.png"  data-background-size="80%" data-auto-animate="" data-background-color="black" -->
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3_tiempos.007.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" -->
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3_tiempos.008.png"  data-background-size="80%" data-auto-animate="" data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3_tiempos.008.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3_tiempos.009.png"  data-background-size="80%" data-auto-animate="" data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3_tiempos.009.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3_tiempos.010.png"  data-background-size="80%" data-auto-animate="" data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3_tiempos.010.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3_tiempos.011.png"  data-background-size="80%" data-auto-animate="" data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3_tiempos.011.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3_tiempos.012.png"  data-background-size="80%" data-auto-animate="" data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3_tiempos.012.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3_tiempos.013.png"  data-background-size="80%" data-auto-animate="" data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3_tiempos.013.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3_tiempos.014.png"  data-background-size="80%" data-auto-animate="" data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3_tiempos.014.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3_tiempos.015.png"  data-background-size="80%" data-auto-animate="" data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3_tiempos.015.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3_tiempos.016.png"  data-background-size="80%" data-auto-animate="" data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3_tiempos.016.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3_tiempos.017.png"  data-background-size="80%" data-auto-animate="" data-background-color="black" -->
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3_tiempos.017.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" -->
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3_tiempos.018.png"  data-background-size="80%" data-auto-animate="" data-background-color="black" -->
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3_tiempos.018.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" -->
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3_tiempos.019.png"  data-background-size="80%" data-auto-animate="" data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3_tiempos.019.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3_tiempos.020.png"  data-background-size="80%" data-auto-animate="" data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3_tiempos.020.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom1.1-7.jpeg" data-auto-animate="" data-background-size="80%"  data-menu-title="Romanos 1:1-17 Dirigiéndose a la Iglesia en Roma" data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom1.1-7.jpeg" data-auto-animate="" data-background-size="contain"  data-menu-title="Romanos 1:1-17 Dirigiéndose a la Iglesia en Roma" data-background-color="black" --> 
 
 
 
@@ -715,11 +715,11 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom1.8-15.jpeg"  data-background-size="80%" data-auto-animate="" data-menu-title="Romanos 1:8-15 - Amor por los Romanos" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom1.8-15.jpeg"  data-background-size="contain" data-auto-animate="" data-menu-title="Romanos 1:8-15 - Amor por los Romanos" --> 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="80%" data-background-image="white" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="contain" data-background-image="white" --> 
 
 
 
@@ -835,7 +835,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom1.16-17.001.jpeg"  data-background-size="80%" data-auto-animate="" data-menu-title="Romanos 1:16-17 - Una pasión por el Evangelio" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom1.16-17.001.jpeg"  data-background-size="contain" data-auto-animate="" data-menu-title="Romanos 1:16-17 - Una pasión por el Evangelio" --> 
 
 
 
@@ -911,11 +911,11 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom1.18-32.jpg"  data-background-size="80%" data-auto-animate="" data-menu-title="Romanos 1:18-32 - Amor por los Romanos" data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom1.18-32.jpg"  data-background-size="contain" data-auto-animate="" data-menu-title="Romanos 1:18-32 - Amor por los Romanos" data-background-color="black" --> 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="80%" data-background-color="white" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="contain" data-background-color="white" --> 
 
 
 
@@ -923,15 +923,15 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-caminos/3-caminos.001.jpeg"  data-background-size="80%" data-auto-animate="" data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-caminos/3-caminos.001.jpeg"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-caminos/3-caminos.002.jpeg"  data-background-size="80%" data-auto-animate="" data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-caminos/3-caminos.002.jpeg"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-caminos/3-caminos.003.jpeg"  data-background-size="80%" data-auto-animate="" data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-caminos/3-caminos.003.jpeg"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
 
 
 
@@ -1119,23 +1119,23 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom2.1-16.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="Romanos 2:1-16 - El juicio de Dios por el pecador moral" data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom2.1-16.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="Romanos 2:1-16 - El juicio de Dios por el pecador moral" data-background-color="black" --> 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="80%" data-background-color="white" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="contain" data-background-color="white" --> 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-caminos/3-caminos.001.jpeg"  data-background-size="80%" data-auto-animate="" data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-caminos/3-caminos.001.jpeg"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-caminos/3-caminos.002.jpeg"  data-background-size="80%" data-auto-animate="" data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-caminos/3-caminos.002.jpeg"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-caminos/3-caminos.003.jpeg"  data-background-size="80%" data-auto-animate="" data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-caminos/3-caminos.003.jpeg"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
 
 
 
@@ -1295,22 +1295,22 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom2.17-16.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="Romanos 2:17-29 - El juicio de Dios sobre el pecador religioso"  data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom2.17-16.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="Romanos 2:17-29 - El juicio de Dios sobre el pecador religioso"  data-background-color="black" --> 
 
 
 
 <!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="70%" --> 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-caminos/3-caminos.001.jpeg"  data-background-size="80%" data-auto-animate="" data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-caminos/3-caminos.001.jpeg"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-caminos/3-caminos.002.jpeg"  data-background-size="80%" data-auto-animate="" data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-caminos/3-caminos.002.jpeg"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-caminos/3-caminos.003.jpeg"  data-background-size="80%" data-auto-animate="" data-background-color="black" -->
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-caminos/3-caminos.003.jpeg"  data-background-size="contain" data-auto-animate="" data-background-color="black" -->
 
 
 
@@ -1470,11 +1470,11 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom3.1-8.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="Romanos 3:1-8 - Pablo anticipó preguntas concernientes a los pecadores"  data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom3.1-8.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="Romanos 3:1-8 - Pablo anticipó preguntas concernientes a los pecadores"  data-background-color="black" --> 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="80%" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="contain" --> 
 
 
 
@@ -1566,11 +1566,11 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom3.9-20.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="Romanos 3:9-20 - En conclusion: Todo el mundo es culpable de pecado"  data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom3.9-20.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="Romanos 3:9-20 - En conclusion: Todo el mundo es culpable de pecado"  data-background-color="black" --> 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="80%" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="contain" --> 
 
 
 
@@ -1681,7 +1681,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/derecho.jpg" data-auto-animate="" data-background-size="80%"  data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/derecho.jpg" data-auto-animate="" data-background-size="contain"  data-background-color="black" --> 
 
 
 
@@ -1890,11 +1890,11 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom3.21-31.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="Romanos 3:21-31 - Justificación: Declarado Legalmente Justo Delante de Dios"  data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom3.21-31.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="Romanos 3:21-31 - Justificación: Declarado Legalmente Justo Delante de Dios"  data-background-color="black" --> 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="80%" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="contain" --> 
 
 
 
@@ -2074,11 +2074,11 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom4.1-9.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="Romanos 4:1-25 - Ejemplos del Antiguo Testamento de la justificación por la fe"  data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom4.1-9.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="Romanos 4:1-25 - Ejemplos del Antiguo Testamento de la justificación por la fe"  data-background-color="black" --> 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="80%" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="contain" --> 
 
 
 
@@ -2230,7 +2230,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom4.10-25.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="Romanos 4:10-12 - La justificación de Abraham por fe..."  data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom4.10-25.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="Romanos 4:10-12 - La justificación de Abraham por fe..."  data-background-color="black" --> 
 
 
 
@@ -2266,7 +2266,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="80%" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="contain" --> 
 
 
 
@@ -2418,11 +2418,11 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom5.1-11.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="Romanos 5:1-11 - Las bendiciones inmerecidas de la justificación por fe"  data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom5.1-11.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="Romanos 5:1-11 - Las bendiciones inmerecidas de la justificación por fe"  data-background-color="black" --> 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="80%"  data-background-color="white" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="contain"  data-background-color="white" --> 
 
 
 
@@ -2650,11 +2650,11 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom5.12-21.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="Romanos 5:12-21 - La Doctrina de la Identificación: El Acceso a la Santificación"  data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom5.12-21.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="Romanos 5:12-21 - La Doctrina de la Identificación: El Acceso a la Santificación"  data-background-color="black" --> 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="80%"  data-background-color="white" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="contain"  data-background-color="white" --> 
 
 
 
@@ -2826,11 +2826,11 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom6.1-2.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="Romanos 6:1-10 - La Doctrina de la Santificación"  data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom6.1-2.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="Romanos 6:1-10 - La Doctrina de la Santificación"  data-background-color="black" --> 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="80%"  data-background-color="white" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="contain"  data-background-color="white" --> 
 
 
 
@@ -2999,11 +2999,11 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom6.3-5.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="Romanos 6:3-5 - Conociendo la historia de tu muerte al pecado con Cristo"  data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom6.3-5.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="Romanos 6:3-5 - Conociendo la historia de tu muerte al pecado con Cristo"  data-background-color="black" --> 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="80%"  data-background-color="white" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="contain"  data-background-color="white" --> 
 
 
 
@@ -3091,7 +3091,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom6.6-10.jpg" data-auto-animate="" data-background-size="80%"  data-background-color="white" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom6.6-10.jpg" data-auto-animate="" data-background-size="contain"  data-background-color="white" --> 
 
 
 
@@ -3259,11 +3259,11 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom6.11.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="Romanos 6:11-23 - La Doctrina de la Santificación - Haciendo Práctica la Santificación"  data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom6.11.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="Romanos 6:11-23 - La Doctrina de la Santificación - Haciendo Práctica la Santificación"  data-background-color="black" --> 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="80%"  data-background-color="white" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="contain"  data-background-color="white" --> 
 
 
 
@@ -3369,7 +3369,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom6.12-14.jpg" data-auto-animate="" data-background-size="80%"  data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom6.12-14.jpg" data-auto-animate="" data-background-size="contain"  data-background-color="black" --> 
 
 
 
@@ -3429,11 +3429,11 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom6.15-18.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="Romanos 6:15-18 - ¿Quien es tu señor?"  data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom6.15-18.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="Romanos 6:15-18 - ¿Quien es tu señor?"  data-background-color="black" --> 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="80%"  data-background-color="white" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="contain"  data-background-color="white" --> 
 
 
 
@@ -3508,7 +3508,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 #### b. Romanos 6:18 – " *y libertados del pecado, vinisteis a ser siervos de la justicia.*" Los creyentes romanos no solo deben haber entendido su libertad del **<u>pecado</u>**, sino que, obviamente, también contaron con ello por fe, porque Pablo dijo que ellos vinieron *a ser siervos de la justicia*.
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom6.19-23.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="Romanos 6:19-23 - La santificación hecha simple"  data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom6.19-23.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="Romanos 6:19-23 - La santificación hecha simple"  data-background-color="black" --> 
 
 
 
@@ -3580,11 +3580,11 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom7.1-6.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="Romanos 7:1-25 - La Doctrina de la Santificación - Tu Nueva Relación con la Ley"  data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom7.1-6.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="Romanos 7:1-25 - La Doctrina de la Santificación - Tu Nueva Relación con la Ley"  data-background-color="black" --> 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="80%"  data-background-color="white" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="contain"  data-background-color="white" --> 
 
 
 
@@ -3768,11 +3768,11 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom7.7-13.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="Romanos 7:7-13 - La vida bajo la ley"  data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom7.7-13.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="Romanos 7:7-13 - La vida bajo la ley"  data-background-color="black" --> 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="80%"  data-background-color="white" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="contain"  data-background-color="white" --> 
 
 
 
@@ -3868,11 +3868,11 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom7.14-23.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="Romanos 7:14-23 - Una vida frustrada"  data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom7.14-23.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="Romanos 7:14-23 - Una vida frustrada"  data-background-color="black" --> 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="80%"  data-background-color="white" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="contain"  data-background-color="white" --> 
 
 
 
@@ -3984,7 +3984,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom7.24-25.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="Romanos 7:24-25 - El reconocimiento de Pablo de la liberación en Cristo"  data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom7.24-25.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="Romanos 7:24-25 - El reconocimiento de Pablo de la liberación en Cristo"  data-background-color="black" --> 
 
 
 
@@ -4028,11 +4028,11 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom8.1-4.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="Romanos 8:1-17 - La Doctrina de la Santificación y el Espíritu Santo"  data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom8.1-4.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="Romanos 8:1-17 - La Doctrina de la Santificación y el Espíritu Santo"  data-background-color="black" --> 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="80%"  data-background-color="white" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="contain"  data-background-color="white" --> 
 
 
 
@@ -4228,7 +4228,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom8.5-8.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="Romanos 8:5-8 - Características de la mente puesta en la carne y la mente puesta en el Espíritu"  data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom8.5-8.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="Romanos 8:5-8 - Características de la mente puesta en la carne y la mente puesta en el Espíritu"  data-background-color="black" --> 
 
 
 
@@ -4312,7 +4312,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom8.9-11.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="Romanos 8:9-11 - El creyente está en el Espíritu"  data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom8.9-11.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="Romanos 8:9-11 - El creyente está en el Espíritu"  data-background-color="black" --> 
 
 
 
@@ -4352,11 +4352,11 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom8.12-17.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="Romanos 8:12-17 - Tu responsabilidad como creyente en Cristo"  data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom8.12-17.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="Romanos 8:12-17 - Tu responsabilidad como creyente en Cristo"  data-background-color="black" --> 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="80%"  data-background-color="white" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="contain"  data-background-color="white" --> 
 
 
 
@@ -4540,11 +4540,11 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom8.18.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="Romanos 8:18-39 - Glorificación"  data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom8.18.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="Romanos 8:18-39 - Glorificación"  data-background-color="black" --> 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="80%"  data-background-color="white" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="contain"  data-background-color="white" --> 
 
 
 
@@ -4576,7 +4576,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom8.19-27.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="Romanos 8:19-27 - Gimiendo por ser glorificados"  data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom8.19-27.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="Romanos 8:19-27 - Gimiendo por ser glorificados"  data-background-color="black" --> 
 
 
 
@@ -4676,7 +4676,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom8.28-30.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="Romanos 8:28-30 - Garantizado ser glorificado"  data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom8.28-30.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="Romanos 8:28-30 - Garantizado ser glorificado"  data-background-color="black" --> 
 
 
 
@@ -4924,7 +4924,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom8.31-39.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="Romanos 8:31-39 - Glorificación probada y demostrada"  data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom8.31-39.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="Romanos 8:31-39 - Glorificación probada y demostrada"  data-background-color="black" --> 
 
 
 
@@ -5092,7 +5092,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/evangelio.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="Apéndice - El Mensaje del Evangelio"  data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/evangelio.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="Apéndice - El Mensaje del Evangelio"  data-background-color="black" --> 
 
 
 
@@ -5140,7 +5140,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/evangelio_claro.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="Apéndice - B. El evangelio es un mensaje objetivo"  data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/evangelio_claro.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="Apéndice - B. El evangelio es un mensaje objetivo"  data-background-color="black" --> 
 
 
 
@@ -5420,7 +5420,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/presentaciones-no-claras.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="G. - Presentaciones No Claras del Evangelio"  data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/presentaciones-no-claras.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="G. - Presentaciones No Claras del Evangelio"  data-background-color="black" --> 
 
 
 
@@ -5480,7 +5480,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/ser-bautizado.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="3. Confusión: Cree y sé bautizado"  data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/ser-bautizado.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="3. Confusión: Cree y sé bautizado"  data-background-color="black" --> 
 
 
 
@@ -5500,7 +5500,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/ser-circuncidado.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="4. Confusión: Cree y sé circuncidado"  data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/ser-circuncidado.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="4. Confusión: Cree y sé circuncidado"  data-background-color="black" --> 
 
 
 
@@ -5528,7 +5528,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/confieza-pecados.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="5. Confusión: Cree y confiesa tus pecados"  data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/confieza-pecados.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="5. Confusión: Cree y confiesa tus pecados"  data-background-color="black" --> 
 
 
 
@@ -5564,7 +5564,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/pide-perdon.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="6. Confusión: Cree y pide perdón"  data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/pide-perdon.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="6. Confusión: Cree y pide perdón"  data-background-color="black" --> 
 
 
 
@@ -5588,7 +5588,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/arrepientete.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="7. Confusión: Arrepiéntete de tus pecados"  data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/arrepientete.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="7. Confusión: Arrepiéntete de tus pecados"  data-background-color="black" --> 
 
 
 
@@ -5664,7 +5664,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/pide-a-jesus.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="8. Confusión: Invita a Cristo a tu vida; pide a Jesús que entre en tu corazón"  data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/pide-a-jesus.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="8. Confusión: Invita a Cristo a tu vida; pide a Jesús que entre en tu corazón"  data-background-color="black" --> 
 
 
 
@@ -5700,7 +5700,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/dale-tu-vida.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="9. Confusión: Dale tu vida a Dios; dale tu corazón a Jesús; haz un compromiso con Cristo"  data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/dale-tu-vida.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="9. Confusión: Dale tu vida a Dios; dale tu corazón a Jesús; haz un compromiso con Cristo"  data-background-color="black" --> 
 
 
 
@@ -5736,7 +5736,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/confesion-publica.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="10. Confusión: Pasa al frente y haz una profesión pública de fe"  data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/confesion-publica.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="10. Confusión: Pasa al frente y haz una profesión pública de fe"  data-background-color="black" --> 
 
 
 
@@ -5796,7 +5796,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/haz-una-oracion.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="11. Confusión: Haz la oración del pecador"  data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/haz-una-oracion.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="11. Confusión: Haz la oración del pecador"  data-background-color="black" --> 
 
 
 
@@ -5816,7 +5816,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/di-si.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="12. Confusión: Simplemente di sí a Jesús"  data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/di-si.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="12. Confusión: Simplemente di sí a Jesús"  data-background-color="black" --> 
 
 
 
@@ -5840,7 +5840,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/ama-a-dios.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="13. Confusión: Ama a Dios"  data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/ama-a-dios.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="13. Confusión: Ama a Dios"  data-background-color="black" --> 
 
 
 
@@ -5868,7 +5868,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/toma-tu-cruz.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="14. Confusión: Sigue a Jesús; toma tu cruz"  data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/toma-tu-cruz.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="14. Confusión: Sigue a Jesús; toma tu cruz"  data-background-color="black" --> 
 
 
 
@@ -5892,7 +5892,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/confesion-publica.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="15. Confusión: Haz a Cristo Señor de tu vida; sométete al señorío de Jesús"  data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/confesion-publica.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="15. Confusión: Haz a Cristo Señor de tu vida; sométete al señorío de Jesús"  data-background-color="black" --> 
 
 
 
@@ -5940,7 +5940,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/solo-ten-fe.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="16. Confusión: Sólo ten fe"  data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/solo-ten-fe.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="16. Confusión: Sólo ten fe"  data-background-color="black" --> 
 
 
 
@@ -5964,7 +5964,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/manten-la-fe.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="17. Confusión: Mantén la fe"  data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/manten-la-fe.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="17. Confusión: Mantén la fe"  data-background-color="black" --> 
 
 
 
@@ -5988,7 +5988,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/evangelio-sin-cruz.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="18. Confusión: El evangelio sin cruz;"  data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/evangelio-sin-cruz.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="18. Confusión: El evangelio sin cruz;"  data-background-color="black" --> 
 
 
 
@@ -6032,7 +6032,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/lo-que-no-es.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="H. Resumiendo lo que el evangelio no es"  data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/lo-que-no-es.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="H. Resumiendo lo que el evangelio no es"  data-background-color="black" --> 
 
 
 
@@ -6129,7 +6129,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/cuidado-comprometerse.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="I. Cuídate de predicar cualquier otro evangelio"  data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/cuidado-comprometerse.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="I. Cuídate de predicar cualquier otro evangelio"  data-background-color="black" --> 
 
 
 
@@ -6213,7 +6213,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/seguros-por-siempre.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="5. Confusión: Cree y confiesa tus pecados"  data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/seguros-por-siempre.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="5. Confusión: Cree y confiesa tus pecados"  data-background-color="black" --> 
 
 
 
@@ -6907,7 +6907,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/cinco-personas.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="XIII. Cinco Personas que Debes Conocer"  data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/cinco-personas.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="XIII. Cinco Personas que Debes Conocer"  data-background-color="black" --> 
 
 
 
@@ -7207,7 +7207,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/tiene-precio.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="XIV. Resultados de Vivir una Vida Carnal"  data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/tiene-precio.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="XIV. Resultados de Vivir una Vida Carnal"  data-background-color="black" --> 
 
 
 
@@ -7343,6 +7343,6 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="80%" data-background-color="white" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="contain" data-background-color="white" --> 
 
  
