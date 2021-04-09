@@ -932,10 +932,6 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-caminos/3-caminos.004.jpeg"  data-background-size="80%" data-auto-animate="" data-background-color="black" --> 
-
-
-
 ## A. Romanos 1:18-32 – El juicio de Dios del pecador inmoral <i class="fas fa-balance-scale"></i>
 
 
@@ -1128,6 +1124,18 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-caminos/3-caminos.001.jpeg"  data-background-size="80%" data-auto-animate="" data-background-color="black" --> 
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-caminos/3-caminos.002.jpeg"  data-background-size="80%" data-auto-animate="" data-background-color="black" --> 
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-caminos/3-caminos.003.jpeg"  data-background-size="80%" data-auto-animate="" data-background-color="black" --> 
+
+
+
 ## B. Romanos 2:1-16 – El juicio de Dios del pecador moral <i class="fas fa-gavel"></i>
 
 
@@ -1289,6 +1297,17 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 <!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="70%" --> 
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-caminos/3-caminos.001.jpeg"  data-background-size="80%" data-auto-animate="" data-background-color="black" --> 
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-caminos/3-caminos.002.jpeg"  data-background-size="80%" data-auto-animate="" data-background-color="black" --> 
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-caminos/3-caminos.003.jpeg"  data-background-size="80%" data-auto-animate="" data-background-color="black" -->
 
 
 
