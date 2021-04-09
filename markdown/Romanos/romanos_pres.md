@@ -416,7 +416,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-## F. Tema y esquema para el libro de Romanos
+## F. Tema y esquema para el libro de Romanos  <i class="fas fa-book-open"></i>
 
 
 
@@ -537,7 +537,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-# II. Romanos 1:1-17 – Dirigiéndose a la Iglesia en Roma
+# II. Romanos 1:1-17 – Dirigiéndose a la Iglesia en Roma <i class="fas fa-users"></i>
 
 
 
@@ -717,7 +717,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-## B. Romanos 1:8-15 – Amor por los Romanos
+## B. Romanos 1:8-15 – Amor por los Romanos  <i class="fas fa-hands-helping"></i>
 
 
 
@@ -833,7 +833,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-## C. Romanos 1:16-17 – Una pasión por el evangelio
+## C. Romanos 1:16-17 – Una pasión por el evangelio 
 
 
 
@@ -913,7 +913,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-# III. Romanos 1:18-3:20 – La Justicia de Dios hacia los Pecadores
+# III. Romanos 1:18-3:20 – La Justicia de Dios hacia los Pecadores <i class="fas fa-balance-scale"></i>
 
 
 
