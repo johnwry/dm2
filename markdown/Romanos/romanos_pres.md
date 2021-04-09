@@ -6898,7 +6898,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-## A. La persona natural
+## A. La persona natural <i class="fas fa-skull-crossbones"></i>
 
 
 
@@ -6938,7 +6938,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-## B. El bebé en Cristo
+## B. El bebé en Cristo <i class="fas fa-baby"></i>
 
 
 
@@ -6982,7 +6982,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-## C. El cristiano espiritual
+## C. El cristiano espiritual <i class="fas fa-dove"></i>
 
 
 
@@ -7054,7 +7054,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-## D. El cristiano maduro
+## D. El cristiano maduro <i class="fas fa-male"></i>
 
 
 
@@ -7130,7 +7130,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-## F. El cristiano carnal (el cristiano de la carne)
+## F. El cristiano carnal (el cristiano de la carne) <i class="fas fa-blind"></i>
 
 
 
@@ -7214,7 +7214,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-## B. Aunque como cristiano no puedes perder tu salvación, perderás muchas cosas si eliges caminar según la carne en lugar de caminar por el Espíritu Santo. Como podrás ver en las siguientes “pérdidas” que se relacionan a continuación, el ser carnal tiene un alto precio.
+## B. Aunque como cristiano no puedes perder tu salvación, perderás muchas cosas si eliges caminar según la carne en lugar de caminar por el Espíritu Santo. Como podrás ver en las siguientes “pérdidas” que se relacionan a continuación, el ser carnal tiene un alto precio. <i class="fas fa-user-injured"></i>
 
 
 
