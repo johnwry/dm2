@@ -537,7 +537,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-# II. Romanos 1:1-17 – Dirigiéndose a la Iglesia en Roma 
+# II. Romanos 1:1-17 – Dirigiéndose a la Iglesia en Roma <!-- .element: class="r-fit-text" -->
 
 
 
