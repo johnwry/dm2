@@ -6041,14 +6041,18 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 ### 1. El evangelio no es un mensaje subjetivo.
-#### a. El evangelio no es algo que decimos o hacemos en nuestros **<u>corazones</u>**. <!-- .element: class="fragment" -->
-#### b. El evangelio no es una **<u>experiencia</u>** que hemos tenido. <!-- .element: class="fragment" -->
+<!-- .element: class="fragment" -->
+#### a. El evangelio no es algo que decimos o hacemos en nuestros **<u>corazones</u>**. 
+<!-- .element: class="fragment" -->
+#### b. El evangelio no es una **<u>experiencia</u>** que hemos tenido.  
 
 
 
 ### 2. El evangelio no es una fórmula.
-#### a. El evangelio no es repetir alguna **<u>frase</u>**. <!-- .element: class="fragment" -->
-#### b. El evangelio no es lo que decimos o lo que alguien nos **<u>dice</u>** que digamos. <!-- .element: class="fragment" -->
+<!-- .element: class="fragment" -->
+#### a. El evangelio no es repetir alguna **<u>frase</u>**.
+<!-- .element: class="fragment" -->
+#### b. El evangelio no es lo que decimos o lo que alguien nos **<u>dice</u>** que digamos.  
 
 
 
@@ -6057,17 +6061,22 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 ### 4. El evangelio no es una emoción.
-#### a. El evangelio no es una **<u>demostración</u>** de remordimiento o auto flagelamiento.  <!-- .element: class="fragment" -->
-#### b. El evangelio no es una exhibición de lágrimas, **<u>gozo</u>** o tristeza.  <!-- .element: class="fragment" -->
+<!-- .element: class="fragment" -->
+#### a. El evangelio no es una **<u>demostración</u>** de remordimiento o auto flagelamiento. 
+<!-- .element: class="fragment" -->
+#### b. El evangelio no es una exhibición de lágrimas, **<u>gozo</u>** o tristeza.   
 
 
 
 ### 5. El evangelio no es una experiencia eufórica o mística.
-#### a. El evangelio no es hablar en **<u>lenguas</u>**.  <!-- .element: class="fragment" -->
-#### b. El evangelio no es ser **<u>inmolado</u>** en el espíritu.  <!-- .element: class="fragment" -->
-#### c. El evangelio no es una especie de conjuro **<u>mágico</u>**  <!-- .element: class="fragment" -->
+ <!-- .element: class="fragment" -->
+#### a. El evangelio no es hablar en **<u>lenguas</u>**. 
+<!-- .element: class="fragment" -->
+#### b. El evangelio no es ser **<u>inmolado</u>** en el espíritu. 
+<!-- .element: class="fragment" -->
+#### c. El evangelio no es una especie de conjuro **<u>mágico</u>**  
 
- .
+
 
 ### 6. El evangelio no es una promesa o compromiso que **<u>hacemos</u>**.
 
