@@ -667,7 +667,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-##### 3) Romanos 1:5c – “*…recibimos... el **apostolado***,...” El término apostolado implica responsabilidad. A Pablo y los otros capóstoles les fue dada la urgente **<u>tarea</u>** de ser embajadores de Cristo. Al propagar el evangelio por todas partes, jugaron un papel principal en la fundación de la iglesia. Romanos 15:16-19, 1 Corintios 9:15-19, 2 Corintios 5:20-21
+##### 3) Romanos 1:5c – “*…recibimos... el **apostolado**,...*” El término apostolado implica responsabilidad. A Pablo y los otros capóstoles les fue dada la urgente **<u>tarea</u>** de ser embajadores de Cristo. Al propagar el evangelio por todas partes, jugaron un papel principal en la fundación de la iglesia. Romanos 15:16-19, 1 Corintios 9:15-19, 2 Corintios 5:20-21
 
 
 
@@ -687,7 +687,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-##### 1) Romanos 1:6a – “*…entre las cuales estáis también vosotros,…” * Pablo consideraba a los creyentes romanos incluidos en su alcance del **<u>deber</u>**.
+##### 1) Romanos 1:6a – “*…entre las cuales estáis también vosotros,…*”  Pablo consideraba a los creyentes romanos incluidos en su alcance del **<u>deber</u>**.
 
 
 
@@ -719,7 +719,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="70%" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="80%" data-background-image="white" --> 
 
 
 
@@ -739,11 +739,11 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-##### 2) Romanos 1:8b – “*…**<u>mediante</u>*** * Jesucristo...*" Jesús es el que abrió la puerta para que los creyentes puedan acercarse a Dios en oración. Romanos 5:1-2, Efesios 3:11-12
+##### 2) Romanos 1:8b – “*…**<u>mediante</u>** Jesucristo...*" Jesús es el que abrió la puerta para que los creyentes puedan acercarse a Dios en oración. Romanos 5:1-2, Efesios 3:11-12
 
 
 
-##### 3) Romanos 1:8c –*“…con respecto a todos vosotros, de que vuestra fe se divulga por todo el **<u>mundo</u>** .*" Pablo estaba agradecido de que la gente, a lo largo y ancho del mundo, estuvieran escuchando acerca de la fe de los creyentes romanos. Romanos 16:19, 1 Tesalonicenses 1:8
+##### 3) Romanos 1:8c –“*…con respecto a todos vosotros, de que vuestra fe se divulga por todo el **<u>mundo</u>** .*" Pablo estaba agradecido de que la gente, a lo largo y ancho del mundo, estuvieran escuchando acerca de la fe de los creyentes romanos. Romanos 16:19, 1 Tesalonicenses 1:8
 
 
 
@@ -751,11 +751,11 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-##### 1) Romanos 1:9a – “*Pues Dios, a quien sirvo en mi espíritu en la predicación del evangelio de su Hijo…” * [LBLA] A Pablo le apasionaba **<u>servir</u>** a Dios predicando las buenas nuevas de Jesucristo.
+##### 1) Romanos 1:9a – “*Pues Dios, a quien sirvo en mi espíritu en la predicación del evangelio de su Hijo…*”  [LBLA] A Pablo le apasionaba **<u>servir</u>** a Dios predicando las buenas nuevas de Jesucristo.
 
 
 
-##### 2) Romanos 1:9b –*Porque testigo me es Dios, “…de que sin cesar hago mención de vosotros siempre en mis oraciones,” * Pablo llamó a Dios mismo como **<u>testigo</u>** de que él oraba continuamente por los creyentes romanos. El amor de Pablo lo demostró orando siempre por ellos.
+##### 2) Romanos 1:9b –“*Porque testigo me es Dios…de que sin cesar hago mención de vosotros siempre en mis oraciones,*”  Pablo llamó a Dios mismo como **<u>testigo</u>** de que él oraba continuamente por los creyentes romanos. El amor de Pablo lo demostró orando siempre por ellos.
 
 
 
@@ -763,7 +763,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-##### 1) Romanos 1:10a – “*rogando que de alguna manera tenga al fin,…” * Pablo tenía **<u>peticiones</u>** de oración específicas por los creyentes en Roma. La Biblia de las Américas lo traduce; “*…siempre en mis oraciones, implorando...*" Filipenses 4:6
+##### 1) Romanos 1:10a – “*rogando que de alguna manera tenga al fin,…*” Pablo tenía **<u>peticiones</u>** de oración específicas por los creyentes en Roma. La Biblia de las Américas lo traduce; “*…siempre en mis oraciones, implorando...*" Filipenses 4:6
 
 
 
@@ -783,11 +783,11 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-##### 1) El* don espiritual *al que Pablo se refirió aquí no debe ser confundido con los **<u>dones</u>** espirituales específicos dados por Dios el Espíritu Santo a los creyentes individuales al momento de la salvación. 1 Corintios 12:4-11
+##### 1) El *don espiritual *al que Pablo se refirió aquí no debe ser confundido con los **<u>dones</u>** espirituales específicos dados por Dios el Espíritu Santo a los creyentes individuales al momento de la salvación. 1 Corintios 12:4-11
 
 
 
-##### 2) *“…para* *comunicaros algún don espiritual,…” *Pablo quiso decir que quería ser una bendición espiritual para la **<u>iglesia</u>** para ayudar a establecerlos en su fe. Efesios 1:3, Filipenses 1:25
+##### 2) “*…para comunicaros algún don espiritual,…*” Pablo quiso decir que quería ser una bendición espiritual para la **<u>iglesia</u>** para ayudar a establecerlos en su fe. Efesios 1:3, Filipenses 1:25
 
 
 
@@ -795,11 +795,11 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### d. Romanos 1:12b – “*…por la fe que nos es común a vosotros y a mí* .” Pablo comunicó una asombrosa **<u>humildad</u>** cuando aseguró a los creyentes romanos que sería impactado por la fe de ellos, tal como ellos serían impactados por la de él.
+#### d. Romanos 1:12b – “*…por la fe que nos es común a vosotros y a mí.* ” Pablo comunicó una asombrosa **<u>humildad</u>** cuando aseguró a los creyentes romanos que sería impactado por la fe de ellos, tal como ellos serían impactados por la de él.
 
 
 
-#### e. Romanos 1:13a – “*Pero no quiero, hermanos, que ignoréis que muchas veces me he propuesto ir a vosotros (pero hasta ahora he sido estorbado),… *” Aunque Pablo había planeado numerosas ** <u>veces</u>**  ir a verlos, algo siempre se lo impedía. Romanos 15:22
+#### e. Romanos 1:13a – “*Pero no quiero, hermanos, que ignoréis que muchas veces me he propuesto ir a vosotros (pero hasta ahora he sido estorbado),…*” Aunque Pablo había planeado numerosas ** <u>veces</u>**  ir a verlos, algo siempre se lo impedía. Romanos 15:22
 
 
 
@@ -823,7 +823,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-##### 1) Romanos 1:14a – “*A griegos y a no griegos,...” soy deudor...*Pablo estaba comprometido a predicar el evangelio **<u>tanto</u>** a los cultos (los griegos) como a los incultos (los bárbaros).
+##### 1) Romanos 1:14a – “*A griegos y a no griegos,...soy deudor...*” Pablo estaba comprometido a predicar el evangelio **<u>tanto</u>** a los cultos (los griegos) como a los incultos (los bárbaros).
 
 
 
