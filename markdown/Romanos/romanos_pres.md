@@ -948,7 +948,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-##### 1) Romanos 1:18a – “ *Porque la ira de Dios se revela desde el cielo...” *Desde el cielo Dios hace **<u>pública</u>** Su ira hacia el pecado. Job 36:29-37:5
+##### 1) Romanos 1:18a – “*Porque la ira de Dios se revela desde el cielo...*” Desde el cielo Dios hace **<u>pública</u>** Su ira hacia el pecado. Job 36:29-37:5
 
 
 
