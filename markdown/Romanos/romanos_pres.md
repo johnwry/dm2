@@ -404,7 +404,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-### 1. En Romanos 1:7, Pablo dirigió el libro *a todos los que están en Roma, amados de Dios, llamados a ser santos.* Posiblemente habían creyentes de muchas iglesias -  **<u>hogares</u>**  en Roma, similares a la que se encontraba en el hogar de Aquila y Priscilla. Romanos 16:5, 10, 11, 15 
+### 1. En Romanos 1:7, Pablo dirigió el libro *a todos los que están en Roma, amados de Dios, llamados a ser santos.* Posiblemente habían creyentes de muchas iglesias-**<u>hogares</u>**  en Roma, similares a la que se encontraba en el hogar de Aquila y Priscilla. Romanos 16:5, 10, 11, 15 
 
 
 
