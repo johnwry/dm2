@@ -581,7 +581,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### e. Romanos 1:1e – “*…apartado para el evangelio de ** <u>Dios</u>** .*” Dios es el originador del evangelio, las buenas nuevas de Dios. En Romanos 2:16, Pablo se refirió a él como mi evangelio, no porque pensara que era creación suya, sino porque era muy personal para él. Romanos 1:9, Gálatas 1:6-9
+#### e. Romanos 1:1e – “*…apartado para el evangelio de  **<u>Dios</u>**  .*” Dios es el originador del evangelio, las buenas nuevas de Dios. En Romanos 2:16, Pablo se refirió a él como mi evangelio, no porque pensara que era creación suya, sino porque era muy personal para él. Romanos 1:9, Gálatas 1:6-9
 
 
 
