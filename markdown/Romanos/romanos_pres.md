@@ -145,139 +145,139 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom-bosquejo.001.jpeg"  data-background-size="80%" data-auto-animate="" data-background-color="white" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/bosquejo/rom-bosquejo.001.jpeg"  data-background-size="80%" data-auto-animate="" data-background-color="white" --> 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom-bosquejo.002.jpeg"  data-background-size="80%" data-auto-animate="" data-background-color="white"  --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/bosquejo/rom-bosquejo.002.jpeg"  data-background-size="80%" data-auto-animate="" data-background-color="white"  --> 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom-bosquejo.003.jpeg"  data-background-size="80%" data-auto-animate=""data-background-color="white"  --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/bosquejo/rom-bosquejo.003.jpeg"  data-background-size="80%" data-auto-animate=""data-background-color="white"  --> 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom-bosquejo.004.jpeg"  data-background-size="80%" data-auto-animate="" data-background-color="white" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/bosquejo/rom-bosquejo.004.jpeg"  data-background-size="80%" data-auto-animate="" data-background-color="white" --> 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom-bosquejo.005.jpeg"  data-background-size="80%" data-auto-animate="" data-background-color="white" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/bosquejo/rom-bosquejo.005.jpeg"  data-background-size="80%" data-auto-animate="" data-background-color="white" --> 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom-bosquejo.006.jpeg"  data-background-size="80%" data-auto-animate="" data-background-color="white" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/bosquejo/rom-bosquejo.006.jpeg"  data-background-size="80%" data-auto-animate="" data-background-color="white" --> 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom-bosquejo.007.jpeg"  data-background-size="80%" data-auto-animate="" data-background-color="white" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/bosquejo/rom-bosquejo.007.jpeg"  data-background-size="80%" data-auto-animate="" data-background-color="white" --> 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom-bosquejo.008.jpeg"  data-background-size="80%" data-auto-animate="" data-background-color="white" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/bosquejo/rom-bosquejo.008.jpeg"  data-background-size="80%" data-auto-animate="" data-background-color="white" --> 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom-bosquejo.009.jpeg"  data-background-size="80%" data-auto-animate="" data-background-color="white" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/bosquejo/rom-bosquejo.009.jpeg"  data-background-size="80%" data-auto-animate="" data-background-color="white" --> 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom-bosquejo.010.jpeg"  data-background-size="80%" data-auto-animate="" data-background-color="white" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/bosquejo/rom-bosquejo.010.jpeg"  data-background-size="80%" data-auto-animate="" data-background-color="white" --> 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom-bosquejo.011.jpeg"  data-background-size="80%" data-auto-animate="" data-background-color="white" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/bosquejo/rom-bosquejo.011.jpeg"  data-background-size="80%" data-auto-animate="" data-background-color="white" --> 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom-bosquejo.012.jpeg"  data-background-size="80%" data-auto-animate="" data-background-color="white" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/bosquejo/rom-bosquejo.012.jpeg"  data-background-size="80%" data-auto-animate="" data-background-color="white" --> 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom-bosquejo.013.jpeg"  data-background-size="80%" data-auto-animate="" data-background-color="white" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/bosquejo/rom-bosquejo.013.jpeg"  data-background-size="80%" data-auto-animate="" data-background-color="white" --> 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom-bosquejo.014.jpeg"  data-background-size="80%" data-auto-animate="" data-background-color="white" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/bosquejo/rom-bosquejo.014.jpeg"  data-background-size="80%" data-auto-animate="" data-background-color="white" --> 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom-bosquejo.015.jpeg"  data-background-size="80%" data-auto-animate="" data-background-color="white" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/bosquejo/rom-bosquejo.015.jpeg"  data-background-size="80%" data-auto-animate="" data-background-color="white" --> 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom-bosquejo.016.jpeg"  data-background-size="80%" data-auto-animate="" data-background-color="white" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/bosquejo/rom-bosquejo.016.jpeg"  data-background-size="80%" data-auto-animate="" data-background-color="white" --> 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom-bosquejo.017.jpeg"  data-background-size="80%" data-auto-animate="" data-background-color="white" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/bosquejo/rom-bosquejo.017.jpeg"  data-background-size="80%" data-auto-animate="" data-background-color="white" --> 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom-bosquejo.018.jpeg"  data-background-size="80%" data-auto-animate="" data-background-color="white" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/bosquejo/rom-bosquejo.018.jpeg"  data-background-size="80%" data-auto-animate="" data-background-color="white" --> 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom-bosquejo.019.jpeg"  data-background-size="80%" data-auto-animate="" data-background-color="white" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/bosquejo/rom-bosquejo.019.jpeg"  data-background-size="80%" data-auto-animate="" data-background-color="white" --> 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom-bosquejo.020.jpeg"  data-background-size="80%" data-auto-animate="" data-background-color="white" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/bosquejo/rom-bosquejo.020.jpeg"  data-background-size="80%" data-auto-animate="" data-background-color="white" --> 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom-bosquejo.021.jpeg"  data-background-size="80%" data-auto-animate="" data-background-color="white" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/bosquejo/rom-bosquejo.021.jpeg"  data-background-size="80%" data-auto-animate="" data-background-color="white" --> 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom-bosquejo.022.jpeg"  data-background-size="80%" data-auto-animate="" data-background-color="white" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/bosquejo/rom-bosquejo.022.jpeg"  data-background-size="80%" data-auto-animate="" data-background-color="white" --> 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom-bosquejo.023.jpeg"  data-background-size="80%" data-auto-animate="" data-background-color="white" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/bosquejo/rom-bosquejo.023.jpeg"  data-background-size="80%" data-auto-animate="" data-background-color="white" --> 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom-bosquejo.024.jpeg"  data-background-size="80%" data-auto-animate="" data-background-color="white" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/bosquejo/rom-bosquejo.024.jpeg"  data-background-size="80%" data-auto-animate="" data-background-color="white" --> 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom-bosquejo.025.jpeg"  data-background-size="80%" data-auto-animate="" data-background-color="white" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/bosquejo/rom-bosquejo.025.jpeg"  data-background-size="80%" data-auto-animate="" data-background-color="white" --> 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom-bosquejo.026.jpeg"  data-background-size="80%" data-auto-animate="" data-background-color="white" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/bosquejo/rom-bosquejo.026.jpeg"  data-background-size="80%" data-auto-animate="" data-background-color="white" --> 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom-bosquejo.027.jpeg"  data-background-size="80%" data-auto-animate="" data-background-color="white" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/bosquejo/rom-bosquejo.027.jpeg"  data-background-size="80%" data-auto-animate="" data-background-color="white" --> 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom-bosquejo.028.jpeg"  data-background-size="80%" data-auto-animate="" data-background-color="white" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/bosquejo/rom-bosquejo.028.jpeg"  data-background-size="80%" data-auto-animate="" data-background-color="white" --> 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom-bosquejo.029.jpeg"  data-background-size="80%" data-auto-animate="" data-background-color="white" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/bosquejo/rom-bosquejo.029.jpeg"  data-background-size="80%" data-auto-animate="" data-background-color="white" --> 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom-bosquejo.030.jpeg"  data-background-size="80%" data-auto-animate="" data-background-color="white" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/bosquejo/rom-bosquejo.030.jpeg"  data-background-size="80%" data-auto-animate="" data-background-color="white" --> 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom-bosquejo.031.jpeg"  data-background-size="80%" data-auto-animate="" data-background-color="white" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/bosquejo/rom-bosquejo.031.jpeg"  data-background-size="80%" data-auto-animate="" data-background-color="white" --> 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom-bosquejo.032.jpeg"  data-background-size="80%" data-auto-animate="" data-background-color="white" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/bosquejo/rom-bosquejo.032.jpeg"  data-background-size="80%" data-auto-animate="" data-background-color="white" --> 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom-bosquejo.033.jpeg"  data-background-size="80%" data-auto-animate="" data-background-color="white" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/bosquejo/rom-bosquejo.033.jpeg"  data-background-size="80%" data-auto-animate="" data-background-color="white" --> 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom-bosquejo.034.jpeg"  data-background-size="80%" data-auto-animate="" data-background-color="white" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/bosquejo/rom-bosquejo.034.jpeg"  data-background-size="80%" data-auto-animate="" data-background-color="white" --> 
 
 
 
