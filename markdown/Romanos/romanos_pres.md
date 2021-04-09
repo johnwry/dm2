@@ -577,7 +577,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### d. Romanos 1:1d –*“*…*apartado para el evangelio...*” En Hechos 9:1-6, vemos que Pablo fue llamado por Jesucristo para el propósito específico de difundir el mensaje del evangelio. Este no era un trabajo secundario; iba a ser el **<u>enfoque</u>** principal y la vocación de vida de Pablo. Gálatas 1:13-16
+#### d. Romanos 1:1d – “*…apartado para el evangelio...*” En Hechos 9:1-6, vemos que Pablo fue llamado por Jesucristo para el propósito específico de difundir el mensaje del evangelio. Este no era un trabajo secundario; iba a ser el **<u>enfoque</u>** principal y la vocación de vida de Pablo. Gálatas 1:13-16
 
 
 
