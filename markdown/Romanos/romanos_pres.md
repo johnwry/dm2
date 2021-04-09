@@ -405,6 +405,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rome.png" data-background-size="400px" data-background-position="bottom" -->
 ## E. Los destinatarios del libro  <i class="fas fa-book-reader"></i>
 
 
