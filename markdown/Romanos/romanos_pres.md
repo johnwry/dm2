@@ -6137,7 +6137,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-### 1. Gálatas 1:6 –  "*Estoy maravillado de que tan pronto os hayáis alejado del que os llamó por la gracia de Cristo, para seguir un evangelio diferente.*" Tristemente, un creyente puede **<u>abandonar</u>** el evangelio, como estaba sucediendo en las iglesias de Galacia.
+### 1. Gálatas 1:6 –  "*Estoy maravillado de que tan pronto os hayáis alejado del que os llamó por la gracia de Cristo, para seguir un evangelio diferente.*"  Tristemente, un creyente puede **<u>abandonar</u>**  el evangelio, como estaba sucediendo en las iglesias de Galacia.
 
 
 
