@@ -920,6 +920,22 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-caminos/3-caminos.001.jpeg"  data-background-size="80%" data-auto-animate="" data-background-color="black" --> 
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-caminos/3-caminos.002.jpeg"  data-background-size="80%" data-auto-animate="" data-background-color="black" --> 
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-caminos/3-caminos.003.jpeg"  data-background-size="80%" data-auto-animate="" data-background-color="black" --> 
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-caminos/3-caminos.004.jpeg"  data-background-size="80%" data-auto-animate="" data-background-color="black" --> 
+
+
+
 ## A. Romanos 1:18-32 – El juicio de Dios del pecador inmoral <i class="fas fa-balance-scale"></i>
 
 
@@ -4798,15 +4814,15 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-##### 7) En Efesios 1:11, hablando de nuestra herencia, que es otra parte de nuestra futura glorificación, Pablo dijo: “*En él asimismo tuvimos herencia, habiendo sido predestinados conforme al propósito del que hace todas las cosas según el designio de su  **<u>voluntad</u>**, *” Todos los creyentes han sido predestinados a recibir una herencia.
+##### 7) En Efesios 1:11, hablando de nuestra herencia, que es otra parte de nuestra futura glorificación, Pablo dijo: “*En él asimismo tuvimos herencia, habiendo sido predestinados conforme al propósito del que hace todas las cosas según el designio de su  **<u>voluntad</u>**,*” Todos los creyentes han sido predestinados a recibir una herencia.
 
 
 
-#### c. Romanos 8:29c – *“…también los predestinó *[a estos] * para que fuesen hechos conformes a la imagen de su Hijo,...*" Esto habla del **<u>objetivo</u>** final de Dios de hacer a los creyentes como Cristo, el cual Él está trabajando diariamente a través de nuestro proceso de santificación y que finalmente logrará en nuestra glorificación en la eternidad.
+#### c. Romanos 8:29c – “*…también los predestinó* [a estos] *para que fuesen hechos conformes a la imagen de su Hijo,...*" Esto habla del **<u>objetivo</u>** final de Dios de hacer a los creyentes como Cristo, el cual Él está trabajando diariamente a través de nuestro proceso de santificación y que finalmente logrará en nuestra glorificación en la eternidad.
 
 
 
-#### d. Romanos 8:29d – “*…para que él sea el primogénito entre muchos hermanos.” *Dios planeó conformar a todos los creyentes a la imagen de Cristo. Tal como tú naciste llevando la imagen de Adán, fuiste nacido **<u>de nuevo</u>** con el plan de que en la eternidad llevaras plenamente la imagen del Hijo de Dios, Jesucristo. Juan 1:12, 3:3; Romanos 2:29
+#### d. Romanos 8:29d – “*…para que él sea el primogénito entre muchos hermanos.*” Dios planeó conformar a todos los creyentes a la imagen de Cristo. Tal como tú naciste llevando la imagen de Adán, fuiste nacido **<u>de nuevo</u>** con el plan de que en la eternidad llevaras plenamente la imagen del Hijo de Dios, Jesucristo. Juan 1:12, 3:3; Romanos 2:29
 
 
 
@@ -4842,7 +4858,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-##### 8) Fuimos llamados a pertenecer a Su reino y a experimentar Su **<u>gloria</u>** para siempre. 1 Tesalonicenses 2:12 dice :“…*que anduvieseis como es digno de Dios, que os llamó a su reino y gloria.*" 1 Pedro 5:10
+##### 8) Fuimos llamados a pertenecer a Su reino y a experimentar Su **<u>gloria</u>** para siempre. 1 Tesalonicenses 2:12 dice :“*…que anduvieseis como es digno de Dios, que os llamó a su reino y gloria.*" 1 Pedro 5:10
 
 
 
@@ -4866,7 +4882,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-##### 2) Fuimos justificados gratuitamente por la **<u>gracia</u>** de Dios. Romanos 3:24 dice: “*siendo justificados gratuitamente por su gracia, mediante la redención que es en Cristo Jesús*,” Tito 3:7
+##### 2) Fuimos justificados gratuitamente por la **<u>gracia</u>** de Dios. Romanos 3:24 dice: “*siendo justificados gratuitamente por su gracia, mediante la redención que es en Cristo Jesús,*” Tito 3:7
 
 
 
@@ -4894,11 +4910,11 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-### 1. Romanos 8:31a – Pregunta de Pablo # 1: En respuesta al hecho de que somos predestinados, llamados, justificados y glorificados, Pablo preguntó,“*¿Qué, pues, diremos a esto?...*” La respuesta anticipada es: “¡ **<u>Amén</u>**! ¡Gracias Señor!”
+### 1. Romanos 8:31a – Pregunta de Pablo # 1: En respuesta al hecho de que somos predestinados, llamados, justificados y glorificados, Pablo preguntó, “*¿Qué, pues, diremos a esto?...*” La respuesta anticipada es: “¡ **<u>Amén</u>**! ¡Gracias Señor!”
 
 
 
-### 2. Romanos 8:31b – Pregunta de Pablo # 2: A continuación, Pablo preguntó,“…*Si Dios es por nosotros, ¿quién contra nosotros?*” La respuesta esperada es, por supuesto, “**<u>Nadie</u>**”. Ya que Dios mismo está abogando por nosotros, nadie puede oponerse exitosamente a nosotros.
+### 2. Romanos 8:31b – Pregunta de Pablo # 2: A continuación, Pablo preguntó, “…*Si Dios es por nosotros, ¿quién contra nosotros?*” La respuesta esperada es, por supuesto, “**<u>Nadie</u>**”. Ya que Dios mismo está abogando por nosotros, nadie puede oponerse exitosamente a nosotros.
 
 
 
@@ -4910,7 +4926,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-### 5. Romanos 8:34 – Pregunta de Pablo # 5: “ *¿**<u>Quién</u>** es el que condenará?...*”
+### 5. Romanos 8:34 – Pregunta de Pablo # 5: “*¿**<u>Quién</u>** es el que condenará?...*”
 
 
 
@@ -4918,43 +4934,43 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### b. Romanos 8:34b – *“…más aun, el que también resucitó,…*” No puede ser Cristo quien nos condene, porque Dios demostró que estaba satisfecho con el pago de Cristo cuando lo **<u>resucitó</u>** de entre los muertos.
+#### b. Romanos 8:34b – “*…más aun, el que también resucitó,…*” No puede ser Cristo quien nos condene, porque Dios demostró que estaba satisfecho con el pago de Cristo cuando lo **<u>resucitó</u>** de entre los muertos.
 
 
 
-#### c. Romanos 8:34c – “*…el que además está a la diestra de Dios, el que también intercede por nosotros.*”No puede ser Cristo quien nos **<u>condene</u>**, porque Cristo se sienta en el lugar del honor a la diestra de Dios en el cielo mediando para siempre por nosotros. Juan 3:17, Hebreos 7:25, 1 Juan 2:2
+#### c. Romanos 8:34c – “*…el que además está a la diestra de Dios, el que también intercede por nosotros.*” No puede ser Cristo quien nos **<u>condene</u>**, porque Cristo se sienta en el lugar del honor a la diestra de Dios en el cielo mediando para siempre por nosotros. Juan 3:17, Hebreos 7:25, 1 Juan 2:2
 
 
 
-### 6. Romanos 8:35 – Pregunta de Pablo # 6:*“¿Quién nos separará del **<u>amor</u>** de Cristo?...*”Pablo dio siete escenarios potenciales que podrían hacernos sentir que Dios nos ha abandonado.
+### 6. Romanos 8:35 – Pregunta de Pablo # 6: “*¿Quién nos separará del **<u>amor</u>** de Cristo?...*” Pablo dio siete escenarios potenciales que podrían hacernos sentir que Dios nos ha abandonado.
 
 
 
-#### a. ***<u>Tribulación</u>*** * …nos separará del amor de Cristo?* ¿Qué si enfrentamos infortunio o alguna terrible aflicción? 2 Corintios 4:8-11
+#### a. ***<u>Tribulación</u>*** *…nos separará del amor de Cristo?* ¿Qué si enfrentamos infortunio o alguna terrible aflicción? 2 Corintios 4:8-11
 
 
 
-#### b. ***<u>Angustia</u>*** * …nos separará del amor de Cristo?* ¿Qué si sufrimos una calamidad terrible y tenemos que pasar por tiempos malos? 2 Corintios 7:5-6
+#### b. ***<u>Angustia</u>*** *…nos separará del amor de Cristo?* ¿Qué si sufrimos una calamidad terrible y tenemos que pasar por tiempos malos? 2 Corintios 7:5-6
 
 
 
-#### c. ***<u>Persecución</u>*** * …nos separará del amor de Cristo?* ¿Qué si somos odiados, cazados, torturados o incluso asesinados? Hechos 8:1
+#### c. ***<u>Persecución</u>*** *…nos separará del amor de Cristo?* ¿Qué si somos odiados, cazados, torturados o incluso asesinados? Hechos 8:1
 
 
 
-#### d. ***<u>Hambre</u>*** * …nos separará del amor de Cristo?* ¿Qué si no tenemos suficiente para comer y sufrimos hambre? Hechos 11:28-30
+#### d. ***<u>Hambre</u>*** *…nos separará del amor de Cristo?* ¿Qué si no tenemos suficiente para comer y sufrimos hambre? Hechos 11:28-30
 
 
 
-#### e. ***<u>Desnudez</u>*** * …nos separará del amor de Cristo?* ¿Qué si terminamos sin hogar y sufrimos exposición con poca o ninguna ropa? Hebreos 11:37-38
+#### e. ***<u>Desnudez</u>*** *…nos separará del amor de Cristo?* ¿Qué si terminamos sin hogar y sufrimos exposición con poca o ninguna ropa? Hebreos 11:37-38
 
 
 
-#### f. ***<u>Peligro</u>*** * …nos separará del amor de Cristo?* ¿Qué si somos amenazados y enfrentamos peligros indecibles? 2 Corintios 11:23-27
+#### f. ***<u>Peligro</u>*** *…nos separará del amor de Cristo?* ¿Qué si somos amenazados y enfrentamos peligros indecibles? 2 Corintios 11:23-27
 
 
 
-#### g. ***<u>Espada</u>*** * …nos separará del amor de Cristo?* ¿Qué si somos traicionados y/o sufrimos una muerte violenta? ¿Qué si estamos atrapados en una guerra horrible? Hechos 7:58‑8:2
+#### g. ***<u>Espada</u>*** *…nos separará del amor de Cristo?* ¿Qué si somos traicionados y/o sufrimos una muerte violenta? ¿Qué si estamos atrapados en una guerra horrible? Hechos 7:58‑8:2
 
 
 
