@@ -913,7 +913,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-# III. Romanos 1:18-3:20 – La Justicia de Dios hacia los Pecadores 
+# III. Romanos 1:18-3:20 – La Justicia de Dios hacia los Pecadores <!-- .element: class="r-fit-text" -->
 
 
 
@@ -1903,7 +1903,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-# IV.Romanos 3:21-5:11 – Justificación: Declarado Legalmente Justo Delante de Dios
+# IV.Romanos 3:21-5:11 – Justificación: Declarado Legalmente Justo Delante de Dios <!-- .element: class="r-fit-text" -->
 
 
 
@@ -2663,7 +2663,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-# V. Romanos 5:12-21 – La Doctrina de la Identificación: El Acceso a la Santificación
+# V. Romanos 5:12-21 – La Doctrina de la Identificación: El Acceso a la Santificación <!-- .element: class="r-fit-text" -->
 
 
 
@@ -2839,7 +2839,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-# VI.Romanos 6:1-10 – La Doctrina de la Santificación - Verdad Posicional
+# VI.Romanos 6:1-10 – La Doctrina de la Santificación - Verdad Posicional <!-- .element: class="r-fit-text" -->
 
 
 
@@ -3272,7 +3272,8 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-# VII. Romanos 6:11-23 – La Doctrina de la Santificación - Haciendo Práctica la Santificación
+# VII. Romanos 6:11-23 – La Doctrina de la Santificación - Haciendo Práctica la Santificación <!-- .element: class="r-fit-text" -->
+
 ## A. Romanos 6:11 – Contando con tu nueva identidad  <!-- .element: class="fragment" -->
 
 
@@ -3592,7 +3593,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-# VIII. Romanos 7:1-25 – La Doctrina de la Santificación - Tu Nueva Relación con la Ley
+# VIII. Romanos 7:1-25 – La Doctrina de la Santificación - Tu Nueva Relación con la Ley <!-- .element: class="r-fit-text" -->
 
 
 
@@ -4040,7 +4041,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-# IX. Romanos 8:1-17 – La Doctrina de la Santificación y el Espíritu Santo
+# IX. Romanos 8:1-17 – La Doctrina de la Santificación y el Espíritu Santo <!-- .element: class="r-fit-text" -->
 
 
 
@@ -4552,7 +4553,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-# X. Romanos 8:18-39 – Glorificación
+# X. Romanos 8:18-39 – Glorificación <!-- .element: class="r-fit-text" -->
 
 
 
@@ -5100,7 +5101,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-# XI. El mensaje del evangelio
+# XI. El mensaje del evangelio <!-- .element: class="r-fit-text" -->
 
 
 
@@ -6135,7 +6136,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-# XII. Seguros Por Siempre
+# XII. Seguros Por Siempre <!-- .element: class="r-fit-text" -->
 
 
 
@@ -6825,7 +6826,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-# XIII. Cinco Personas que Debes Conocer
+# XIII. Cinco Personas que Debes Conocer <!-- .element: class="r-fit-text" -->
 
 
 
@@ -7121,7 +7122,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-# XIV. Resultados de Vivir una Vida Carnal. ¿Qué está en juego?
+# XIV. Resultados de Vivir una Vida Carnal. ¿Qué está en juego? <!-- .element: class="r-fit-text" -->
 
 
 
