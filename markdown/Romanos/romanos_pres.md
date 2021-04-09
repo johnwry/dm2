@@ -309,12 +309,12 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/claudius.png" data-background-size="500px" data-background-position="right" -->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/claudius.png" data-background-size="400px" data-background-position="left" -->
 ### 6. Aunque Claudio había expulsado a todos los **<u>judíos</u>** que no eran ciudadanos de Roma en el año 50 d. C., hubo muchos judíos con ciudadanía romana que continuaron viviendo en la ciudad. Hechos 18:2 
 
 
 
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/paul.jpeg" data-background-size="200px" data-background-position="right" -->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/paul.jpeg" data-background-size="400px" data-background-position="right" -->
 ## C. Autor, localización y fecha de escritura
 
 
