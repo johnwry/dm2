@@ -125,7 +125,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 # I. Introducción
 
-## A. Importancia del libro de Romanos  <!-- .element: class="fragment" -->
+## A. Importancia del libro de Romanos  <!-- .element: class="fragment fade-up" -->
 
 
 
@@ -376,7 +376,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### c. Romanos 1:13 – Pablo quería * **<u>segar</u>** * *alguna cosecha* en Roma. En otras palabras, él quería compartir el evangelio en Roma. Hechos 28:17-31, 1 Corintios 9:15-18 
+#### c. Romanos 1:13 – Pablo quería ***<u>segar</u>**  alguna cosecha* en Roma. En otras palabras, él quería compartir el evangelio en Roma. Hechos 28:17-31, 1 Corintios 9:15-18 
 
 
 
@@ -5391,7 +5391,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 |               | SALVO POR:                  | NO SALVO POR:                       |
 |---------------|:----------------------------|:------------------------------------|
-| Efesios 2:8-9 | Porque por gracia sois salvos por medio de la fe | y esto no de vosotros | 
+| Efesios 2:8-9 | Porque por gracia sois salvos por medio de la fe | y esto no de vosotros |
 
 
 
@@ -5420,7 +5420,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 | Gálatas 2:16 |            | ...el hombre no es justificado por las obras de la ley |
 |                  |sino por la fe de Jesucristo,|   |
 |     |nosotros también hemos creído en Jesucristo, |                |
-|     |para ser justificados por la fe de Cristo | y no por las obras de la ley,   | 
+|     |para ser justificados por la fe de Cristo | y no por las obras de la ley,   |
 |          |           | ...por las obras de la ley nadie será justificado.|
 
 
