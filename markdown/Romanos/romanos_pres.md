@@ -3972,11 +3972,11 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### b. Romanos 7:22 – " *Porque según el hombre interior, me deleito en la ley de Dios;*" La nueva naturaleza de Pablo, su hombre **<u>interior</u>**, estaba muy feliz de hacer lo correcto en obediencia a la Ley de Dios. Efesios 3:16
+#### b. Romanos 7:22 –  "*Porque según el hombre interior, me deleito en la ley de Dios;*" La nueva naturaleza de Pablo, su hombre **<u>interior</u>**, estaba muy feliz de hacer lo correcto en obediencia a la Ley de Dios. Efesios 3:16
 
 
 
-#### c. Romanos 7:23a – "*…pero veo otra ley en mis miembros, que se rebela contra la ley de mi mente,…*" Aunque Pablo deseaba hacer lo correcto, había una **<u>guerra</u>** librándose en su interior. Su naturaleza de pecado estaba luchando en contra, y venciendo, los deseos de su nueva naturaleza. Gálatas 5:16-17 (LBLA)
+#### c. Romanos 7:23a –  "*…pero veo otra ley en mis miembros, que se rebela contra la ley de mi mente,...*" Aunque Pablo deseaba hacer lo correcto, había una **<u>guerra</u>** librándose en su interior. Su naturaleza de pecado estaba luchando en contra, y venciendo, los deseos de su nueva naturaleza. Gálatas 5:16-17 (LBLA)
 
 
 
@@ -3992,15 +3992,15 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-### 1. Romanos 7:24a – "*!Miserable de mí!..." *Pablo estaba totalmente exasperado en esta **<u>batalla</u>** con su naturaleza de pecado. Reconoció su propio fracaso e insuficiencia. Él estaba al límite de sí mismo y de sus propios esfuerzos humanos.
+### 1. Romanos 7:24a – "*!Miserable de mí!...*"  Pablo estaba totalmente exasperado en esta **<u>batalla</u>** con su naturaleza de pecado. Reconoció su propio fracaso e insuficiencia. Él estaba al límite de sí mismo y de sus propios esfuerzos humanos.
 
 
 
-### 2. Romanos 7:24b – "*…¿quién me librará de este cuerpo de muerte?*" Pablo estaba haciendo la pregunta correcta cuando preguntó **quién** lo liberaría en lugar de **qué** lo libraría. La libertad que buscaba se encontraba en una **<u>persona</u>** y no en un método. 1 Corintios 1:30
+### 2. Romanos 7:24b – *…¿quién me librará de este cuerpo de muerte?* Pablo estaba haciendo la pregunta correcta cuando preguntó **quién** lo liberaría en lugar de **qué** lo libraría. La libertad que buscaba se encontraba en una **<u>persona</u>** y no en un método. 1 Corintios 1:30
 
 
 
-#### a. Pablo intuyó que necesitaba ser liberado de*este cuerpo de muerte*. No era de su cuerpo **<u>físico</u>** que necesitaba liberación.
+#### a. Pablo intuyó que necesitaba ser liberado de *este cuerpo de muerte*. No era de su cuerpo **<u>físico</u>** que necesitaba liberación.
 
 
 
