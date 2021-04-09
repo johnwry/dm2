@@ -581,7 +581,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### e. Romanos 1:1e – *“…apartado para el evangelio de** <u>Dios</u>***.” Dios es el originador del evangelio, las buenas nuevas de Dios. En Romanos 2:16, Pablo se refirió a él como mi evangelio, no porque pensara que era creación suya, sino porque era muy personal para él. Romanos 1:9, Gálatas 1:6-9
+#### e. Romanos 1:1e – “*…apartado para el evangelio de ** <u>Dios</u>** .*” Dios es el originador del evangelio, las buenas nuevas de Dios. En Romanos 2:16, Pablo se refirió a él como mi evangelio, no porque pensara que era creación suya, sino porque era muy personal para él. Romanos 1:9, Gálatas 1:6-9
 
 
 
@@ -589,27 +589,27 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### a. Romanos 1:2 –*El evangelio de Dios ...”que él había prometido antes por sus profetas en las santas Escrituras,”* (Rom. 15:8). El evangelio, que significa buenas **<u>noticias</u>**, fue la culminación y el cumplimiento de las profecías del Antiguo Testamento. Isaías 52:7, 13‑15, 53:1-12; Lucas 24:25-27
+#### a. Romanos 1:2 –*El evangelio de Dios ...”que él había prometido antes por sus profetas en las santas Escrituras,*” (Rom. 15:8). El evangelio, que significa buenas **<u>noticias</u>**, fue la culminación y el cumplimiento de las profecías del Antiguo Testamento. Isaías 52:7, 13‑15, 53:1-12; Lucas 24:25-27
 
 
 
-##### 1) Romanos 1:2a – “…*que él había prometido antes...*” El evangelio fue prometido hace mucho tiempo. El evangelio no fue algo que la gente inventó después de que Jesús murió. El evangelio fue el **<u>plan</u>** de Dios desde el principio. Génesis 3:15; Hechos 2:23, 4:27-28; Romanos 16:25-27; Apocalipsis 13:8
+##### 1) Romanos 1:2a – “*…que él había prometido antes...*” El evangelio fue prometido hace mucho tiempo. El evangelio no fue algo que la gente inventó después de que Jesús murió. El evangelio fue el **<u>plan</u>** de Dios desde el principio. Génesis 3:15; Hechos 2:23, 4:27-28; Romanos 16:25-27; Apocalipsis 13:8
 
 
 
-##### 2) Romanos 1:2b – “…*por sus profetas en las santas Escrituras*,” El evangelio fue predicho por los **<u>escritores</u>** del Antiguo Testamento. El Antiguo Testamento fue una confirmación pre-escrita de que el evangelio fue diseñado y realizado por Dios mismo. Génesis 3:15, 15:1-6; Hechos 3:18, 24; Lucas 24:25-27, 44; Hebreos 1:1
+##### 2) Romanos 1:2b – “*…por sus profetas en las santas Escrituras,*” El evangelio fue predicho por los **<u>escritores</u>** del Antiguo Testamento. El Antiguo Testamento fue una confirmación pre-escrita de que el evangelio fue diseñado y realizado por Dios mismo. Génesis 3:15, 15:1-6; Hechos 3:18, 24; Lucas 24:25-27, 44; Hebreos 1:1
 
 
 
-#### b. Romanos 1:3a – “...*acerca de su **<u>Hijo</u>*** ,...” El evangelio se refiere a una persona específica, Jesucristo, el Hijo de Dios. Si quitas la identidad bíblica de Jesús del evangelio, no tienes mensaje del evangelio alguno. Entonces, ¿quién era Jesús? Juan 1:14, 8:24; Filipenses 2:5-8; Colosenses 2:9
+#### b. Romanos 1:3a – “*...acerca de su **<u>Hijo</u>** ,...*” El evangelio se refiere a una persona específica, Jesucristo, el Hijo de Dios. Si quitas la identidad bíblica de Jesús del evangelio, no tienes mensaje del evangelio alguno. Entonces, ¿quién era Jesús? Juan 1:14, 8:24; Filipenses 2:5-8; Colosenses 2:9
 
 
 
-#### c. Romanos 1:3b – “…*nuestro Señor Jesucristo*,…” Al identificar a Cristo utilizando Su **<u>título</u>** completo, Pablo eliminó todas las dudas con respecto a la identidad de Jesús. El nombre Jesús habla de Su humanidad. El título Cristo muestra que Él era el Libertador, o el Mesías, prometido en el Antiguo Testamento. *Nuestro Señor* afirma su deidad. Isaías 7:14, 9:6-7; Jeremías 23:5-6; Romanos 9:5
+#### c. Romanos 1:3b – “*…nuestro Señor Jesucristo,…*” Al identificar a Cristo utilizando Su **<u>título</u>** completo, Pablo eliminó todas las dudas con respecto a la identidad de Jesús. El nombre Jesús habla de Su humanidad. El título Cristo muestra que Él era el Libertador, o el Mesías, prometido en el Antiguo Testamento. *Nuestro Señor* afirma su deidad. Isaías 7:14, 9:6-7; Jeremías 23:5-6; Romanos 9:5
 
 
 
-#### d. Romanos 1:3c – “…*que era del linaje de **<u>David</u>** según la carne,...*” Aquí Pablo verificó la humanidad de Jesucristo. Romanos 9:5
+#### d. Romanos 1:3c –“*…que era del linaje de **<u>David</u>** según la carne,...*” Aquí Pablo verificó la humanidad de Jesucristo. Romanos 9:5
 
 
 
@@ -629,7 +629,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### e. Romanos 1:4 – “…*que fue declarado Hijo de Dios...*” Jesucristo no solo era 100% humano, también era 100% **<u>Dios</u>**. Pablo verificó la deidad de Jesucristo de muchas maneras convincentes. Tito 2:13
+#### e. Romanos 1:4 –“*…que fue declarado Hijo de Dios...*” Jesucristo no solo era 100% humano, también era 100% **<u>Dios</u>**. Pablo verificó la deidad de Jesucristo de muchas maneras convincentes. Tito 2:13
 
 
 
@@ -637,11 +637,11 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-##### 2) Romanos 1:4b – “…*declarado Hijo de Dios...****según el Espíritu de santidad,**...*” Jesucristo fue declarado Hijo de Dios por medio del **<u>Espíritu</u>** Santo que vino sobre Él en Su bautismo y lo dirigió durante toda Su vida. Marcos 1:10-13; Lucas 3:22; 4:1, 14, 18; Juan 1:32, 3:34; Hechos 10:38
+##### 2) Romanos 1:4b – “*…declarado Hijo de Dios...****según el Espíritu de santidad,**...*” Jesucristo fue declarado Hijo de Dios por medio del **<u>Espíritu</u>** Santo que vino sobre Él en Su bautismo y lo dirigió durante toda Su vida. Marcos 1:10-13; Lucas 3:22; 4:1, 14, 18; Juan 1:32, 3:34; Hechos 10:38
 
 
 
-##### 3) Romanos 1:4c – “…*declarado Hijo de Dios...**por la resurrección de entre los muertos,** ...*” La resurrección se erige como la más grande exhibición de poder de Dios. Verifica la **<u>afirmación</u>** de que Cristo era Dios el Hijo. Romanos 4:25, 1 Corintios 6:14, Efesios 1:19-20, Filipenses 3:10
+##### 3) Romanos 1:4c – “*…declarado Hijo de Dios...**por la resurrección de entre los muertos,** ...*” La resurrección se erige como la más grande exhibición de poder de Dios. Verifica la **<u>afirmación</u>** de que Cristo era Dios el Hijo. Romanos 4:25, 1 Corintios 6:14, Efesios 1:19-20, Filipenses 3:10
 
 
 
@@ -653,7 +653,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-##### 1) Romanos 1:5a – “…*y por quien...*” Esto hace referencia nuevamente a Jesucristo nuestro Señor en el versículo anterior. Pablo declaró que fue a través de Jesucristo que recibió su **<u>llamado</u>** para difundir las buenas nuevas.
+##### 1) Romanos 1:5a – “*…y por quien...*” Esto hace referencia nuevamente a Jesucristo nuestro Señor en el versículo anterior. Pablo declaró que fue a través de Jesucristo que recibió su **<u>llamado</u>** para difundir las buenas nuevas.
 
 
 
@@ -661,19 +661,19 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-##### 3) Romanos 1:5c – “…*recibimos... el **apostolado***,...” El término apostolado implica responsabilidad. A Pablo y los otros capóstoles les fue dada la urgente **<u>tarea</u>** de ser embajadores de Cristo. Al propagar el evangelio por todas partes, jugaron un papel principal en la fundación de la iglesia. Romanos 15:16-19, 1 Corintios 9:15-19, 2 Corintios 5:20-21
+##### 3) Romanos 1:5c – “*…recibimos... el **apostolado***,...” El término apostolado implica responsabilidad. A Pablo y los otros capóstoles les fue dada la urgente **<u>tarea</u>** de ser embajadores de Cristo. Al propagar el evangelio por todas partes, jugaron un papel principal en la fundación de la iglesia. Romanos 15:16-19, 1 Corintios 9:15-19, 2 Corintios 5:20-21
 
 
 
-##### 4) Romanos 1:5d – “…*para la obediencia a la fe...*” La obediencia a la que se refiere en este pasaje brota de la **<u>fe</u>**, no de la fuerza de voluntad humana o la resolución mental. Romanos 4:18-21, 15:18, 16:26
+##### 4) Romanos 1:5d – “*…para la obediencia a la fe...*” La obediencia a la que se refiere en este pasaje brota de la **<u>fe</u>**, no de la fuerza de voluntad humana o la resolución mental. Romanos 4:18-21, 15:18, 16:26
 
 
 
-##### 5) Romanos 1:5e – “…*en todas las naciones...*” La razón por la cual a Pablo le fue dada gracia y apostolado fue para inspirar la obediencia de la fe entre los **<u>grupos</u>** de personas no judías del mundo. Hechos 9:15; Romanos 1:8, 11:13; Gálatas 1:15-16
+##### 5) Romanos 1:5e – “*…en todas las naciones...*” La razón por la cual a Pablo le fue dada gracia y apostolado fue para inspirar la obediencia de la fe entre los **<u>grupos</u>** de personas no judías del mundo. Hechos 9:15; Romanos 1:8, 11:13; Gálatas 1:15-16
 
 
 
-##### 6) Romanos 1:5f – “…*por amor de su nombre*;” El propósito para promover la obediencia que brota de la fe es que el **<u>nombre</u>** de Dios sea glorificado en todo el mundo. Mateo 28:18-20
+##### 6) Romanos 1:5f – “*…por amor de su nombre*;” El propósito para promover la obediencia que brota de la fe es que el **<u>nombre</u>** de Dios sea glorificado en todo el mundo. Mateo 28:18-20
 
 
 
@@ -681,11 +681,11 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-##### 1) Romanos 1:6a – “…*entre las cuales estáis también vosotros,…” * Pablo consideraba a los creyentes romanos incluidos en su alcance del **<u>deber</u>**.
+##### 1) Romanos 1:6a – “*…entre las cuales estáis también vosotros,…” * Pablo consideraba a los creyentes romanos incluidos en su alcance del **<u>deber</u>**.
 
 
 
-##### 2) Romanos 1:6b – “…*llamados a ser de Jesucristo*;” En el Nuevo Testamento, los* llamados *son personas que han respondido por fe al evangelio. Puesto que los creyentes romanos ahora pertenecían a Cristo, ellos eran parte de este grupo de **<u>llamados</u>**. Romanos 8:29-30, 1 Pedro 2:9, Judas 1:1
+##### 2) Romanos 1:6b – “*…llamados a ser de Jesucristo*;” En el Nuevo Testamento, los* llamados *son personas que han respondido por fe al evangelio. Puesto que los creyentes romanos ahora pertenecían a Cristo, ellos eran parte de este grupo de **<u>llamados</u>**. Romanos 8:29-30, 1 Pedro 2:9, Judas 1:1
 
 
 
@@ -705,7 +705,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-##### 2) Romanos 1:7d – “…*de Dios nuestro Padre y del Señor Jesucristo*.” La verdadera gracia y paz provienen solo de Dios el Padre y de Dios el Hijo. Aunque el Espíritu Santo no es mencionado aquí, Él es el que silenciosamente administra estas bendiciones en la **<u>vida</u>** de los creyentes. Romanos 8:11, 15:13; 2 Corintios 13:14
+##### 2) Romanos 1:7d – “*…de Dios nuestro Padre y del Señor Jesucristo*.” La verdadera gracia y paz provienen solo de Dios el Padre y de Dios el Hijo. Aunque el Espíritu Santo no es mencionado aquí, Él es el que silenciosamente administra estas bendiciones en la **<u>vida</u>** de los creyentes. Romanos 8:11, 15:13; 2 Corintios 13:14
 
 
 
@@ -733,7 +733,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-##### 2) Romanos 1:8b – “…***<u>mediante</u>*** * Jesucristo*…” Jesús es el que abrió la puerta para que los creyentes puedan acercarse a Dios en oración. Romanos 5:1-2, Efesios 3:11-12
+##### 2) Romanos 1:8b – “*…**<u>mediante</u>*** * Jesucristo*…” Jesús es el que abrió la puerta para que los creyentes puedan acercarse a Dios en oración. Romanos 5:1-2, Efesios 3:11-12
 
 
 
@@ -773,7 +773,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### b. Romanos 1:11b – Pablo tenía un **<u>propósito</u>** específico en mente para su visita. “…*para comunicaros algún don espiritual, a fin de que seáis confirmados;…”*
+#### b. Romanos 1:11b – Pablo tenía un **<u>propósito</u>** específico en mente para su visita. “*…para comunicaros algún don espiritual, a fin de que seáis confirmados;…”*
 
 
 
@@ -785,11 +785,11 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### c. Romanos 1:12a – “…*esto es, para ser mutuamente confortados…”* Por medio de una visita cara a **<u>cara</u>**, Pablo creía que podían alentarse mutuamente los unos a los otros.
+#### c. Romanos 1:12a – “*…esto es, para ser mutuamente confortados…”* Por medio de una visita cara a **<u>cara</u>**, Pablo creía que podían alentarse mutuamente los unos a los otros.
 
 
 
-#### d. Romanos 1:12b – “…*por la fe que nos es común a vosotros y a mí* .” Pablo comunicó una asombrosa **<u>humildad</u>** cuando aseguró a los creyentes romanos que sería impactado por la fe de ellos, tal como ellos serían impactados por la de él.
+#### d. Romanos 1:12b – “*…por la fe que nos es común a vosotros y a mí* .” Pablo comunicó una asombrosa **<u>humildad</u>** cuando aseguró a los creyentes romanos que sería impactado por la fe de ellos, tal como ellos serían impactados por la de él.
 
 
 
@@ -821,7 +821,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-##### 2) Romanos 1:14b – “…*a sabios y a no sabios soy deudor.”* Pablo se sentía **<u>igualmente</u>** obligado tanto a los educados como a los no educados.
+##### 2) Romanos 1:14b – “*…a sabios y a no sabios soy deudor.”* Pablo se sentía **<u>igualmente</u>** obligado tanto a los educados como a los no educados.
 
 
 
@@ -845,7 +845,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### b. Romanos 1:16b – “…*porque es poder de Dios para salvación...” *Pablo tenía confianza absoluta en la capacidad del evangelio para **<u>salvar</u>** a los pecadores. Juan 3:36
+#### b. Romanos 1:16b – “*…porque es poder de Dios para salvación...” *Pablo tenía confianza absoluta en la capacidad del evangelio para **<u>salvar</u>** a los pecadores. Juan 3:36
 
 
 
@@ -853,7 +853,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### d. Romanos 1:16d – “…*al judío primeramente, y también al griego.” * Históricamente, el evangelio fue **<u>ofrecido</u>** primero al pueblo judío y después de eso a las naciones gentiles (griegos). Aunque en la actualidad Cristo está llamando personas de entre los gentiles, Israel todavía ocupa un lugar muy querido en su corazón, como vemos en Romanos 9‑11. Hechos 1:8
+#### d. Romanos 1:16d – “*…al judío primeramente, y también al griego.” * Históricamente, el evangelio fue **<u>ofrecido</u>** primero al pueblo judío y después de eso a las naciones gentiles (griegos). Aunque en la actualidad Cristo está llamando personas de entre los gentiles, Israel todavía ocupa un lugar muy querido en su corazón, como vemos en Romanos 9‑11. Hechos 1:8
 
 
 
@@ -881,23 +881,23 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### b. Romanos 1:17b – “…*por fe y para fe…” *El evangelio afirma que la justicia de Dios es obtenida sólo a través de la **<u>fe</u>**s .
+#### b. Romanos 1:17b – “*…por fe y para fe…” *El evangelio afirma que la justicia de Dios es obtenida sólo a través de la **<u>fe</u>**s .
 
 
 
-##### 1) “…*por fe…” *La justificación, ser salvo de la pena del pecado, es por fe o de la fe. La justicia ante Dios viene en el momento en que un pecador **<u>confía</u>** en Cristo.
+##### 1) “*…por fe…” *La justificación, ser salvo de la pena del pecado, es por fe o de la fe. La justicia ante Dios viene en el momento en que un pecador **<u>confía</u>** en Cristo.
 
 
 
-##### 2) “…*para fe,…” *De igual modo, la santificación, ser salvo del poder del pecado, es a través de la fe, o para fe. A través de la fe continua en Cristo, el creyente continúa **<u>aprendiendo</u>** a vivir rectamente día tras día.  Gálatas 2:20, Filipenses 3:9
+##### 2) “*…para fe,…” *De igual modo, la santificación, ser salvo del poder del pecado, es a través de la fe, o para fe. A través de la fe continua en Cristo, el creyente continúa **<u>aprendiendo</u>** a vivir rectamente día tras día.  Gálatas 2:20, Filipenses 3:9
 
 
 
-#### c. Romanos 1:17c – “…*como está escrito: Mas el justo **<u>por</u>** la fe vivirá.”* Aquellos declarados justos por la fe, deben así mismo, vivir justamente por la fe.
+#### c. Romanos 1:17c – “*…como está escrito: Mas el justo **<u>por</u>** la fe vivirá.”* Aquellos declarados justos por la fe, deben así mismo, vivir justamente por la fe.
 
 
 
-##### 1) Al citar Habacuc 2:4b, “…*mas el justo por su fe vivirá.*”, Pablo destacó el hecho de que Dios siempre ha esperado que las personas justas, incluso en el Antiguo Testamento, **<u>vivan</u>** por fe. Hebreos 11:6
+##### 1) Al citar Habacuc 2:4b, “*…mas el justo por su fe vivirá.*”, Pablo destacó el hecho de que Dios siempre ha esperado que las personas justas, incluso en el Antiguo Testamento, **<u>vivan</u>** por fe. Hebreos 11:6
 
 
 
@@ -941,7 +941,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-##### 2) Romanos 1:18b – “…*contra toda impiedad…”* La impiedad es rebelión contra Dios. La impiedad de la humanidad hace caso omiso del carácter justo de Dios. Cualquier cosa que se opone al carácter o existencia de Dios es **<u>impía</u>**, o no semejante a Dios, y se convierte en supresión de la verdad.
+##### 2) Romanos 1:18b – “*…contra toda impiedad…”* La impiedad es rebelión contra Dios. La impiedad de la humanidad hace caso omiso del carácter justo de Dios. Cualquier cosa que se opone al carácter o existencia de Dios es **<u>impía</u>**, o no semejante a Dios, y se convierte en supresión de la verdad.
 
 
 
@@ -957,11 +957,11 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-##### 1) Romanos 1:19a – “…*porque lo que de Dios se conoce les es manifiesto*,” **<u>Toda</u>** persona en la tierra posee de forma innata un conocimiento de Dios. Dios ha escrito un conocimiento básico de Su existencia en el corazón de cada persona. Eclesiastés 3:11, Hechos 14:15-17
+##### 1) Romanos 1:19a – “*…porque lo que de Dios se conoce les es manifiesto*,” **<u>Toda</u>** persona en la tierra posee de forma innata un conocimiento de Dios. Dios ha escrito un conocimiento básico de Su existencia en el corazón de cada persona. Eclesiastés 3:11, Hechos 14:15-17
 
 
 
-##### 2) Romanos 1:19b – “…*pues Dios se lo manifestó.”* Todas las civilizaciones y culturas tienen un conocimiento de Dios, porque Dios ha colocado este conocimiento en sus **<u>corazones</u>**. Este es el por qué, generalmente hablando, la mayoría de las personas son de alguna manera religiosas y abrazan fácilmente la existencia de alguna deidad. Génesis 1:26-27, Romanos 2:14-16
+##### 2) Romanos 1:19b – “*…pues Dios se lo manifestó.”* Todas las civilizaciones y culturas tienen un conocimiento de Dios, porque Dios ha colocado este conocimiento en sus **<u>corazones</u>**. Este es el por qué, generalmente hablando, la mayoría de las personas son de alguna manera religiosas y abrazan fácilmente la existencia de alguna deidad. Génesis 1:26-27, Romanos 2:14-16
 
 
 
@@ -973,7 +973,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-##### 2) Romanos 1:20b – “…*siendo entendidas por medio de las cosas **<u>hechas</u>**, de modo que no tienen excusa*.”
+##### 2) Romanos 1:20b – “*…siendo entendidas por medio de las cosas **<u>hechas</u>**, de modo que no tienen excusa*.”
 
 
 
@@ -997,7 +997,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-##### 2) Romanos 1:21b – “…*y su necio corazón fue entenebrecido*.” El rechazo de la verdad por parte de la humanidad resultó en una falta de **<u>comprensión</u>** y discernimiento. Esto le sucedió a Israel cuando se apartaron de Dios (Jeremías 4:22, 5:21). Esto le sucederá a cualquier civilización que menosprecie la verdad de Dios. Efesios 4:17-19
+##### 2) Romanos 1:21b – “*…y su necio corazón fue entenebrecido*.” El rechazo de la verdad por parte de la humanidad resultó en una falta de **<u>comprensión</u>** y discernimiento. Esto le sucedió a Israel cuando se apartaron de Dios (Jeremías 4:22, 5:21). Esto le sucederá a cualquier civilización que menosprecie la verdad de Dios. Efesios 4:17-19
 
 
 
@@ -1005,7 +1005,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-####  c. Romanos 1:23a – “…*y cambiaron la gloria del Dios incorruptible en semejanza de imagen…”* Ellos rechazaron al Dios eterno e indestructible y adoraron **<u>ídolos</u>** en su lugar. Génesis 3:8, Isaías 44:9-20
+####  c. Romanos 1:23a – “*…y cambiaron la gloria del Dios incorruptible en semejanza de imagen…”* Ellos rechazaron al Dios eterno e indestructible y adoraron **<u>ídolos</u>** en su lugar. Génesis 3:8, Isaías 44:9-20
 
 
 
@@ -1021,7 +1021,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### b. Romanos 1:24b – “…*de modo que deshonraron entre sí sus propios cuerpos*,” En el pasado, cuando la humanidad rebelde lo rechazaba a propósito, Dios les dejó hacer todas las cosas vergonzosas e impactantes que querían con los **<u>cuerpos</u>** de los demás.
+#### b. Romanos 1:24b – “*…de modo que deshonraron entre sí sus propios cuerpos*,” En el pasado, cuando la humanidad rebelde lo rechazaba a propósito, Dios les dejó hacer todas las cosas vergonzosas e impactantes que querían con los **<u>cuerpos</u>** de los demás.
 
 
 
@@ -1033,7 +1033,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### e. Romanos 1:25c – “…* al **<u>Creador</u>**, el cual es bendito por los siglos. Amén* .” Sus acciones insultaron al Dios verdadero, quien solo merece toda la alabanza y admiración para siempre.
+#### e. Romanos 1:25c – “*… al **<u>Creador</u>**, el cual es bendito por los siglos. Amén* .” Sus acciones insultaron al Dios verdadero, quien solo merece toda la alabanza y admiración para siempre.
 
 
 
@@ -1093,7 +1093,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### c. Romanos 1:32c – “…*no sólo las hacen,…”* El pecador inmoral no solo provoca a Dios a través de la rebelión personal, sino que osadamente va un **<u>paso</u>** más allá. 
+#### c. Romanos 1:32c – “*…no sólo las hacen,…”* El pecador inmoral no solo provoca a Dios a través de la rebelión personal, sino que osadamente va un **<u>paso</u>** más allá. 
 
 
 
@@ -1125,7 +1125,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-##### 2) Romanos 2:1b – “…*pues en lo que juzgas a otro, te condenas a ti mismo; porque tú que juzgas haces lo mismo *.” Los pecadores morales se condenan a sí mismos, porque hacen las **<u>mismas</u>** cosas que los que ellos critican.
+##### 2) Romanos 2:1b – “*…pues en lo que juzgas a otro, te condenas a ti mismo; porque tú que juzgas haces lo mismo *.” Los pecadores morales se condenan a sí mismos, porque hacen las **<u>mismas</u>** cosas que los que ellos critican.
 
 
 
@@ -1257,7 +1257,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-##### 3) Romanos 2:15b – “…*dando testimonio su conciencia, y acusándoles o defendiéndoles sus  razonamientos*,” La conciencia de una persona es su **<u>juez</u>** constante. Dentro de la mente, la conciencia está siempre acusando o felicitando al individuo.
+##### 3) Romanos 2:15b – “*…dando testimonio su conciencia, y acusándoles o defendiéndoles sus  razonamientos*,” La conciencia de una persona es su **<u>juez</u>** constante. Dentro de la mente, la conciencia está siempre acusando o felicitando al individuo.
 
 
 
@@ -1285,11 +1285,11 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### b. Romanos 2:17b – “…*y te apoyas en la ley,*…” Los pecadores religiosos en el judaísmo se apoyaban en la **<u>Ley</u>** del Antiguo Testamento para obtener justicia
+#### b. Romanos 2:17b – “*…y te apoyas en la ley,*…” Los pecadores religiosos en el judaísmo se apoyaban en la **<u>Ley</u>** del Antiguo Testamento para obtener justicia
 
 
 
-#### c. Romanos 2:17c – “…*y te glorías en Dios,”* Se **<u>enorgullecían</u>** de tener al Dios verdadero como su deidad nacional o étnica.
+#### c. Romanos 2:17c – “*…y te glorías en Dios,”* Se **<u>enorgullecían</u>** de tener al Dios verdadero como su deidad nacional o étnica.
 
 
 
@@ -1297,11 +1297,11 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### e. Romanos 2:18b – “…*e instruido por la ley…” *En este caso, estos pecadores religiosos tenían confianza en sí mismos porque tenían la misma Ley de Dios, la **<u>norma</u>** más precisa de todas.
+#### e. Romanos 2:18b – “*…e instruido por la ley…” *En este caso, estos pecadores religiosos tenían confianza en sí mismos porque tenían la misma Ley de Dios, la **<u>norma</u>** más precisa de todas.
 
 
 
-#### f. Romanos 2:18c – “…*apruebas lo mejor,” *Las personas religiosas siempre aseguran **<u>saber</u>** lo que una persona debe hacer para ser aceptable ante Dios.
+#### f. Romanos 2:18c – “*…apruebas lo mejor,” *Las personas religiosas siempre aseguran **<u>saber</u>** lo que una persona debe hacer para ser aceptable ante Dios.
 
 
 
@@ -1309,11 +1309,11 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-##### 1) Romanos 2:19a – “…*guía de los ciegos,*…” Las personas religiosas se ven a sí mismas sin rival en la **<u>guía</u>** de almas pobres y sin discernimiento a Dios.
+##### 1) Romanos 2:19a – “*…guía de los ciegos,*…” Las personas religiosas se ven a sí mismas sin rival en la **<u>guía</u>** de almas pobres y sin discernimiento a Dios.
 
 
 
-##### 2) Romanos 2:19b – “…*luz de los que están en tinieblas*,” Puesto que están seguros de que **<u>poseen</u>** la verdad, quieren iluminar el camino para los no informados.
+##### 2) Romanos 2:19b – “*…luz de los que están en tinieblas*,” Puesto que están seguros de que **<u>poseen</u>** la verdad, quieren iluminar el camino para los no informados.
 
 
 
@@ -1321,7 +1321,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-##### 4) Romanos 2:20b – “…*maestro de niños,*…” Suponiendo de que ellos son la élite **<u>madura</u>** y privilegiada, las personas religiosas hacen de la capacitación de bebés espirituales su prioridad.
+##### 4) Romanos 2:20b – “*…maestro de niños,*…” Suponiendo de que ellos son la élite **<u>madura</u>** y privilegiada, las personas religiosas hacen de la capacitación de bebés espirituales su prioridad.
 
 
 
@@ -1361,7 +1361,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### d. Romanos 2:22b – “…*Tú que abominas de los ídolos, ¿cometes  **<u>sacrilegio</u>**?” * Pablo señaló la hipocresía de estos pecadores religiosos.
+#### d. Romanos 2:22b – “*…Tú que abominas de los ídolos, ¿cometes  **<u>sacrilegio</u>**?” * Pablo señaló la hipocresía de estos pecadores religiosos.
 
 
 
@@ -1469,7 +1469,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### d. Romanos 3:4c – “…*como está escrito: Para que seas justificado en tus palabras, Y venzas cuando fueres juzgado.”* Esta cita del Antiguo Testamento confirma que cada vez que la integridad de Dios sea cuestionada, Dios siempre tendrá la **<u>razón</u>**.
+#### d. Romanos 3:4c – “*…como está escrito: Para que seas justificado en tus palabras, Y venzas cuando fueres juzgado.”* Esta cita del Antiguo Testamento confirma que cada vez que la integridad de Dios sea cuestionada, Dios siempre tendrá la **<u>razón</u>**.
 
 
 
@@ -1513,7 +1513,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### f. Romanos 3:8b – Pablo dijo que aquellos que lo acusaban de promover el pecado **<u>merecían</u>** el juicio que seguramente iban a obtener. “…*La condenación de los tales es justa.” *[LBLA]
+#### f. Romanos 3:8b – Pablo dijo que aquellos que lo acusaban de promover el pecado **<u>merecían</u>** el juicio que seguramente iban a obtener. “*…La condenación de los tales es justa.” *[LBLA]
 
 
 
@@ -1564,7 +1564,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-##### 3) Romanos 3:11b – Nadie **<u>busca</u>** a Dios o desea conocerlo. “…*No hay quien busque a Dios*.” Salmos 53:2b, Juan 6:44
+##### 3) Romanos 3:11b – Nadie **<u>busca</u>** a Dios o desea conocerlo. “*…No hay quien busque a Dios*.” Salmos 53:2b, Juan 6:44
 
 
 
@@ -1584,11 +1584,11 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-##### 2) Romanos 3:13b – La lengua de la humanidad dice continuamente **<u>mentiras</u>**. “…*Con su lengua engañan.*…” Salmos 5:9b
+##### 2) Romanos 3:13b – La lengua de la humanidad dice continuamente **<u>mentiras</u>**. “*…Con su lengua engañan.*…” Salmos 5:9b
 
 
 
-##### 3) Romanos 3:13c – Los **<u>labios</u>** de la humanidad, el instrumento que expresa sus pensamientos, esconden el veneno de una serpiente mortal. “…*Veneno de áspides hay debajo de sus labios*;” Salmos 140:3
+##### 3) Romanos 3:13c – Los **<u>labios</u>** de la humanidad, el instrumento que expresa sus pensamientos, esconden el veneno de una serpiente mortal. “*…Veneno de áspides hay debajo de sus labios*;” Salmos 140:3
 
 
 
@@ -1624,7 +1624,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### b. Romanos 3:19b – A pesar de que la Ley fue dada específicamente a Israel, se extendió a todas las personas de todas partes. Pablo dijo que la ley fue dada “…*para que **<u>toda</u>** boca se cierre…”* Dios dio la Ley para que todas las excusas fueran detenidas y la arrogancia del mundo fuera silenciada.
+#### b. Romanos 3:19b – A pesar de que la Ley fue dada específicamente a Israel, se extendió a todas las personas de todas partes. Pablo dijo que la ley fue dada “*…para que **<u>toda</u>** boca se cierre…”* Dios dio la Ley para que todas las excusas fueran detenidas y la arrogancia del mundo fuera silenciada.
 
 
 
@@ -1931,7 +1931,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### c. Romanos 3:21c – “…*testificada por la ley y por los profetas;*” El Antiguo Testamento (la Ley y los Profetas) predijo y confirmó que en el futuro, a personas indignas les sería otorgada una forma de ser declaradas **<u>justas</u>** ante Dios. En el capítulo 4 de Romanos, Pablo citó a dos testigos del Antiguo Testamento, Abraham y David, como prueba de este hecho.
+#### c. Romanos 3:21c – “*…testificada por la ley y por los profetas;*” El Antiguo Testamento (la Ley y los Profetas) predijo y confirmó que en el futuro, a personas indignas les sería otorgada una forma de ser declaradas **<u>justas</u>** ante Dios. En el capítulo 4 de Romanos, Pablo citó a dos testigos del Antiguo Testamento, Abraham y David, como prueba de este hecho.
 
 
 
@@ -1943,7 +1943,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### b. Romanos 3:22b – “…*para todos los que creen en él. …”* Esta acción legal de declarar a una persona justa es hecha, sin excepción, para todo y cada pecador que **<u>cree</u>** en Cristo.
+#### b. Romanos 3:22b – “*…para todos los que creen en él. …”* Esta acción legal de declarar a una persona justa es hecha, sin excepción, para todo y cada pecador que **<u>cree</u>** en Cristo.
 
 
 
@@ -1951,7 +1951,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### d. Romanos 3:23a – ¿Qué cosa tienen en común todos los humanos? No son iguales en educación, riqueza o estatus social, pero son iguales en que “…*todos pecaron*,…” Ya que todos hemos pecado **<u>igualmente</u>**, todos igualmente necesitamos que Dios, el Juez del universo, nos declare afablemente justos ante Sus ojos.
+#### d. Romanos 3:23a – ¿Qué cosa tienen en común todos los humanos? No son iguales en educación, riqueza o estatus social, pero son iguales en que “*…todos pecaron*,…” Ya que todos hemos pecado **<u>igualmente</u>**, todos igualmente necesitamos que Dios, el Juez del universo, nos declare afablemente justos ante Sus ojos.
 
 
 
@@ -2003,7 +2003,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### b. Romanos 3:25b – “…* para manifestar su justicia, a causa de haber pasado por alto, en su paciencia, los pecados pasados*,” Nuestra justificación ahora se basa en el hecho de que las demandas de Dios fueron **<u>completamente</u>** satisfechas a través de la muerte sacrificial de Cristo en nuestro lugar. Romanos 4:25, Hebreos 9:28
+#### b. Romanos 3:25b – “*… para manifestar su justicia, a causa de haber pasado por alto, en su paciencia, los pecados pasados*,” Nuestra justificación ahora se basa en el hecho de que las demandas de Dios fueron **<u>completamente</u>** satisfechas a través de la muerte sacrificial de Cristo en nuestro lugar. Romanos 4:25, Hebreos 9:28
 
 
 
@@ -2039,7 +2039,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### c. Romanos 3:27c – “…*No, sino por la ley de la fe*. Toda jactancia es eliminada por un principio de fe.” Dado que la fe es la cúspide de las cosas no basadas en las obras, nadie puede **<u>jactarse</u>** de haber hecho ninguna contribución a su justificación. Romanos 4:5
+#### c. Romanos 3:27c – “*…No, sino por la ley de la fe*. Toda jactancia es eliminada por un principio de fe.” Dado que la fe es la cúspide de las cosas no basadas en las obras, nadie puede **<u>jactarse</u>** de haber hecho ninguna contribución a su justificación. Romanos 4:5
 
 
 
@@ -2179,7 +2179,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### g. Romanos 4:5b – “…*sino cree en **<u>aquel</u>*** *…”* En el caso de Abraham, su fe estaba en Dios. Abraham creyó en nuestro bondadoso Dios quien gratuitamente declara a personas indignas, justas a Su vista.
+#### g. Romanos 4:5b – “*…sino cree en **<u>aquel</u>*** *…”* En el caso de Abraham, su fe estaba en Dios. Abraham creyó en nuestro bondadoso Dios quien gratuitamente declara a personas indignas, justas a Su vista.
 
 
 
@@ -2259,7 +2259,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### c. Romanos 4:11b – “…* para que fuese padre de todos los creyentes no circuncidados, a fin de que también a ellos la fe les sea contada por justicia*;” Cualquier persona en el mundo, judía o no judía, circuncidada o no circuncidada, puede ser **<u>salva</u>** sin ningún ritual.
+#### c. Romanos 4:11b – “*… para que fuese padre de todos los creyentes no circuncidados, a fin de que también a ellos la fe les sea contada por justicia*;” Cualquier persona en el mundo, judía o no judía, circuncidada o no circuncidada, puede ser **<u>salva</u>** sin ningún ritual.
 
 
 
@@ -2299,15 +2299,15 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-##### 1) Romanos 4:14a – “…***<u>vana</u>*** * resulta la fe,*…” Si la salvación viniera a través de la obediencia a la Ley, la fe en la muerte de Cristo en la cruz y la resurrección serían innecesarias. Gálatas 3:5-6, Tito 3:5-6
+##### 1) Romanos 4:14a – “*…**<u>vana</u>*** * resulta la fe,*…” Si la salvación viniera a través de la obediencia a la Ley, la fe en la muerte de Cristo en la cruz y la resurrección serían innecesarias. Gálatas 3:5-6, Tito 3:5-6
 
 
 
-##### 2) Romanos 4:14b – “…*y* *anulada la promesa*.” Si la salvación viniera a través de la obediencia a la Ley, no habría necesidad de la promesa de **<u>vida</u>** eterna y el perdón de pecados. Romanos 3:23
+##### 2) Romanos 4:14b – “*…y* *anulada la promesa*.” Si la salvación viniera a través de la obediencia a la Ley, no habría necesidad de la promesa de **<u>vida</u>** eterna y el perdón de pecados. Romanos 3:23
 
 
 
-#### c. Romanos 4:15 – “…* Pues la ley produce ira; pero donde no hay ley, tampoco hay transgresión.”* Cuidado, tú que crees que las personas se salvan al obedecer la ley.
+#### c. Romanos 4:15 – “*… Pues la ley produce ira; pero donde no hay ley, tampoco hay transgresión.”* Cuidado, tú que crees que las personas se salvan al obedecer la ley.
 
 
 
@@ -2335,7 +2335,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### b. Romanos 4:16b – “…*a fin de que la promesa sea firme para toda su descendencia; no solamente para la que es de la ley, sino también para la que es de la fe de Abraham, el cual es padre de todos nosotros* ”. La **<u>gracia</u>** de Dios se muestra a todos los que creen en Cristo, independientemente de la etnicidad nacional o cultural.
+#### b. Romanos 4:16b – “*…a fin de que la promesa sea firme para toda su descendencia; no solamente para la que es de la ley, sino también para la que es de la fe de Abraham, el cual es padre de todos nosotros* ”. La **<u>gracia</u>** de Dios se muestra a todos los que creen en Cristo, independientemente de la etnicidad nacional o cultural.
 
 
 
@@ -2355,7 +2355,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### a. Romanos 4:17b – La fe de Abraham no estaba basada en sus propias habilidades. “…*delante de Dios, a quien creyó, el cual da vida a los muertos, y llama las cosas que no son, como si fuesen *.” Abraham confió en la **<u>capacidad</u>** sobrenatural de Dios para proveer milagrosamente para sus necesidades.
+#### a. Romanos 4:17b – La fe de Abraham no estaba basada en sus propias habilidades. “*…delante de Dios, a quien creyó, el cual da vida a los muertos, y llama las cosas que no son, como si fuesen *.” Abraham confió en la **<u>capacidad</u>** sobrenatural de Dios para proveer milagrosamente para sus necesidades.
 
 
 
@@ -2511,7 +2511,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-##### 4) Romanos 5:4b – “…*y la prueba, esperanza*;” Finalmente, las pruebas de hecho crean **<u>esperanza</u>**. Cuando confías en Dios a través de tus pruebas, descubres que Dios nunca falla; Él siempre permanece fiel a Su palabra y Sus promesas. Romanos 15:13
+##### 4) Romanos 5:4b – “*…y la prueba, esperanza*;” Finalmente, las pruebas de hecho crean **<u>esperanza</u>**. Cuando confías en Dios a través de tus pruebas, descubres que Dios nunca falla; Él siempre permanece fiel a Su palabra y Sus promesas. Romanos 15:13
 
 
 
@@ -2547,7 +2547,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### c. Romanos 5:6c – ¿Por **<u>quién</u>** murió Cristo? Cristo murió “…*por los impíos*.”
+#### c. Romanos 5:6c – ¿Por **<u>quién</u>** murió Cristo? Cristo murió “*…por los impíos*.”
 
 
 
@@ -2619,7 +2619,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### b. Romanos 5:9b – “…*por él seremos salvos de la ira*.” El tiempo **<u>futuro</u>** de nuestra salvación es la glorificación. En el rapto, seremos salvos de la presencia del pecado. Romanos 6:5, 1 Corintios 15:50-57, 1 Tesalonicenses 1:10, 1 Juan 3:2 
+#### b. Romanos 5:9b – “*…por él seremos salvos de la ira*.” El tiempo **<u>futuro</u>** de nuestra salvación es la glorificación. En el rapto, seremos salvos de la presencia del pecado. Romanos 6:5, 1 Corintios 15:50-57, 1 Tesalonicenses 1:10, 1 Juan 3:2 
 
 
 
@@ -2707,11 +2707,11 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### b. Romanos 5:12b – “…*y por el pecado la muerte,*…” Dado que la **<u>pena</u>** por el pecado es la muerte, el pecado de Adán introdujo la muerte en el mundo.
+#### b. Romanos 5:12b – “*…y por el pecado la muerte,*…” Dado que la **<u>pena</u>** por el pecado es la muerte, el pecado de Adán introdujo la muerte en el mundo.
 
 
 
-#### c. Romanos 5:12c – “…*así la muerte pasó a todos los hombres,…”* Debido a nuestra relación con Adán, la **<u>muerte</u>** fue  transmitida a todos nosotros.
+#### c. Romanos 5:12c – “*…así la muerte pasó a todos los hombres,…”* Debido a nuestra relación con Adán, la **<u>muerte</u>** fue  transmitida a todos nosotros.
 
 
 
@@ -2735,7 +2735,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### i. Romanos 5:14c – “…*el cual es figura del que había de venir*.” **<u>Adán</u>** era un tipo de Cristo. ¿Cómo prefiguró Adán a Cristo?
+#### i. Romanos 5:14c – “*…el cual es figura del que había de venir*.” **<u>Adán</u>** era un tipo de Cristo. ¿Cómo prefiguró Adán a Cristo?
 
 
 
@@ -2763,7 +2763,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### c. Romanos 5:15c – “…*abundaron mucho más para los muchos la gracia y el don de Dios por la gracia de un hombre, Jesucristo*.” Al igual que Adán pasó la muerte a todo su linaje, a través de Jesucristo, el **<u>don</u>** gratuito de la gracia de Dios es ahora transmitido a Su linaje entero.
+#### c. Romanos 5:15c – “*…abundaron mucho más para los muchos la gracia y el don de Dios por la gracia de un hombre, Jesucristo*.” Al igual que Adán pasó la muerte a todo su linaje, a través de Jesucristo, el **<u>don</u>** gratuito de la gracia de Dios es ahora transmitido a Su linaje entero.
 
 
 
@@ -2775,11 +2775,11 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-### 2. Romanos 5:16b – “…*porque ciertamente el juicio vino a causa de un solo pecado para condenación,…”* En el caso de **Adán**, **<u>un</u> pecado resultó en juicio**, lo que trajo un legado de condenación a toda la raza humana.
+### 2. Romanos 5:16b – “*…porque ciertamente el juicio vino a causa de un solo pecado para condenación,…”* En el caso de **Adán**, **<u>un</u> pecado resultó en juicio**, lo que trajo un legado de condenación a toda la raza humana.
 
 
 
-### 3. Romanos 5:16c – “…*pero el don vino a causa de muchas transgresiones para justificación.”* En el caso de ***Cristo***, sin embargo, **<u>muchos</u> pecados resultaron en un regalo gratuito**, que resultó en justificación para todos los que creen. Debido a que Cristo murió por nuestros pecados y resucitó, Dios puede declararnos legalmente justos ante Él y darnos el regalo gratuito de la vida eterna.
+### 3. Romanos 5:16c – “*…pero el don vino a causa de muchas transgresiones para justificación.”* En el caso de ***Cristo***, sin embargo, **<u>muchos</u> pecados resultaron en un regalo gratuito**, que resultó en justificación para todos los que creen. Debido a que Cristo murió por nuestros pecados y resucitó, Dios puede declararnos legalmente justos ante Él y darnos el regalo gratuito de la vida eterna.
 
 
 
@@ -2791,7 +2791,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-### 2. Romanos 5:17b – “…*mucho más **<u>reinarán</u>** en vida por uno solo, Jesucristo, los que reciben la abundancia de la gracia y del don de la justicia.”* La buena noticia es que, aunque éramos dominados por la muerte, los dones de gracia y justicia de **Cristo** proporcionan vida abundante a todos los que creen en Él. Juan 7:38
+### 2. Romanos 5:17b – “*…mucho más **<u>reinarán</u>** en vida por uno solo, Jesucristo, los que reciben la abundancia de la gracia y del don de la justicia.”* La buena noticia es que, aunque éramos dominados por la muerte, los dones de gracia y justicia de **Cristo** proporcionan vida abundante a todos los que creen en Él. Juan 7:38
 
 
 
@@ -2803,7 +2803,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-### 2. Romanos 5:18b – “…*de la misma manera por la justicia de uno vino a todos los hombres la justificación de vida*.” Contrariamente, **Cristo** eligió **<u>obedecer</u>** al Padre. Filipenses 2:8 dice, “*…se humilló a sí mismo, haciéndose obediente hasta la muerte, y muerte de cruz.”* El sacrificio de Cristo trajo a toda la raza humana la oportunidad de ser justificados.
+### 2. Romanos 5:18b – “*…de la misma manera por la justicia de uno vino a todos los hombres la justificación de vida*.” Contrariamente, **Cristo** eligió **<u>obedecer</u>** al Padre. Filipenses 2:8 dice, “*…se humilló a sí mismo, haciéndose obediente hasta la muerte, y muerte de cruz.”* El sacrificio de Cristo trajo a toda la raza humana la oportunidad de ser justificados.
 
 
 
@@ -2952,7 +2952,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-### 5. Romanos 6:2b – “…*Porque los que hemos muerto al pecado,…” * Observa que el pronombre ***<u>nosotros</u>*** es implícito y esto se refiere exclusivamente a los creyentes.  
+### 5. Romanos 6:2b – “*…Porque los que hemos muerto al pecado,…” * Observa que el pronombre ***<u>nosotros</u>*** es implícito y esto se refiere exclusivamente a los creyentes.  
 
 
 
@@ -3036,7 +3036,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-### 3. Romanos 6:3c – Necesitas saber que “…*todos los que hemos sido bautizados **<u>en</u>** Cristo Jesús, hemos sido bautizados en su muerte?*”
+### 3. Romanos 6:3c – Necesitas saber que “*…todos los que hemos sido bautizados **<u>en</u>** Cristo Jesús, hemos sido bautizados en su muerte?*”
 
 
 
@@ -3132,7 +3132,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-### 2. Romanos 6:6b – Dios nos crucificó juntamente con Cristo “…*para que el cuerpo del pecado sea destruido,…”* El término *cuerpo del pecado* no se refiere al **<u>cuerpo</u>** humano. Romanos 7:17-19
+### 2. Romanos 6:6b – Dios nos crucificó juntamente con Cristo “*…para que el cuerpo del pecado sea destruido,…”* El término *cuerpo del pecado* no se refiere al **<u>cuerpo</u>** humano. Romanos 7:17-19
 
 
 
@@ -3152,7 +3152,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-### 3. Romanos 6:6c – “…*sea destruido,…”* La frase *sea destruido *(KATARGEO) significa ser despojado de poder o estar fuera de actividad. No significa aniquilación. La naturaleza de pecado no fue aniquilada en la salvación, pero Dios destruyó su autoridad sobre nosotros. A fin de liberarnos para el servicio, Dios despojó de **<u>poder</u>** a la naturaleza de pecado.
+### 3. Romanos 6:6c – “*…sea destruido,…”* La frase *sea destruido *(KATARGEO) significa ser despojado de poder o estar fuera de actividad. No significa aniquilación. La naturaleza de pecado no fue aniquilada en la salvación, pero Dios destruyó su autoridad sobre nosotros. A fin de liberarnos para el servicio, Dios despojó de **<u>poder</u>** a la naturaleza de pecado.
 
 
 
@@ -3196,7 +3196,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### a. Romanos 6:8a – “*Y si…” *(*si *es una condición griega de primera clase, que quiere decir que el que habla asume una realidad) “…*morimos con Cristo,…”* (y lo hicimos), [entonces *] “…creemos que también **<u>viviremos</u>** con él;”* (y lo haremos).
+#### a. Romanos 6:8a – “*Y si…” *(*si *es una condición griega de primera clase, que quiere decir que el que habla asume una realidad) “*…morimos con Cristo,…”* (y lo hicimos), [entonces *] “…creemos que también **<u>viviremos</u>** con él;”* (y lo haremos).
 
 
 
@@ -3208,7 +3208,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### b. Romanos 6:8b – *“…creemos que también **<u>viviremos</u>** con él*;”  Como creyente, tu muerte con Cristo es tan válida para Dios que, a pesar de que “…*está establecido para los hombres que mueran una sola vez*,…” (Heb. 9:27), si el rapto ocurriera hoy, irías directamente al cielo sin que tu cuerpo experimentara una muerte física.
+#### b. Romanos 6:8b – *“…creemos que también **<u>viviremos</u>** con él*;”  Como creyente, tu muerte con Cristo es tan válida para Dios que, a pesar de que “*…está establecido para los hombres que mueran una sola vez*,…” (Heb. 9:27), si el rapto ocurriera hoy, irías directamente al cielo sin que tu cuerpo experimentara una muerte física.
 
 
 
@@ -3228,7 +3228,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### a. Sabemos que “…*Que Cristo murió por nuestros pecados*,…” (1 Cor. 15:3, 1 Ped. 3:18), pero aquí Pablo incluyó otro **<u>aspecto</u>** de la muerte de Cristo. Cristo también murió “…*al pecado…”* en nuestro nombre. Romanos 8:3; 1 Pedro 2:24 (LBLA)
+#### a. Sabemos que “*…Que Cristo murió por nuestros pecados*,…” (1 Cor. 15:3, 1 Ped. 3:18), pero aquí Pablo incluyó otro **<u>aspecto</u>** de la muerte de Cristo. Cristo también murió “*…al pecado…”* en nuestro nombre. Romanos 8:3; 1 Pedro 2:24 (LBLA)
 
 
 
@@ -3405,7 +3405,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-### 3. Romanos 6:13b – “…*sino **<u>presentaos</u>** vosotros mismos a Dios como vivos de entre los muertos, y vuestros miembros a Dios como instrumentos de justicia*.”
+### 3. Romanos 6:13b – “*…sino **<u>presentaos</u>** vosotros mismos a Dios como vivos de entre los muertos, y vuestros miembros a Dios como instrumentos de justicia*.”
 
 
 
@@ -3528,11 +3528,11 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### b. Romanos 6:19b –** “…** *que así como para iniquidad presentasteis vuestros miembros para servir a la inmundicia y a la iniquidad,…”* Antes de que fueras salvo, ibas presentando las **<u>partes</u>** de tu cuerpo (manos, ojos, pies, mente, etc.) a la naturaleza de pecado para cometer actos de pecado. Esto resultó en más y más maldad en tu vida.
+#### b. Romanos 6:19b –** “*…* *que así como para iniquidad presentasteis vuestros miembros para servir a la inmundicia y a la iniquidad,…”* Antes de que fueras salvo, ibas presentando las **<u>partes</u>** de tu cuerpo (manos, ojos, pies, mente, etc.) a la naturaleza de pecado para cometer actos de pecado. Esto resultó en más y más maldad en tu vida.
 
 
 
-#### c. Romanos 6:19c –** “…** *así ahora para santificación presentad vuestros miembros para servir a la justicia*.” De la misma manera que solías presentar las partes de tu cuerpo a la naturaleza de pecado, **<u>preséntalas</u>** ahora a Dios y crecerás para ser más y más como Cristo.
+#### c. Romanos 6:19c –** “*…* *así ahora para santificación presentad vuestros miembros para servir a la justicia*.” De la misma manera que solías presentar las partes de tu cuerpo a la naturaleza de pecado, **<u>preséntalas</u>** ahora a Dios y crecerás para ser más y más como Cristo.
 
 
 
@@ -3548,15 +3548,15 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-### 5. Romanos 6:22b – “…*y hechos siervos de Dios,*…” Como **<u>hijo</u>** de Dios y creyente en Jesucristo, Dios es tu nuevo amo y Señor. 1 Corintios 6:19-20
+### 5. Romanos 6:22b – “*…y hechos siervos de Dios,*…” Como **<u>hijo</u>** de Dios y creyente en Jesucristo, Dios es tu nuevo amo y Señor. 1 Corintios 6:19-20
 
 
 
-### 6. Romanos 6:22c – “…*tenéis por vuestro fruto la santificación,…” * A medida que te presentas al Señor, comienzas a **<u>vivir</u>** justamente, y, de hecho, sacas partido del poder de Dios sobre el pecado en tu vida.
+### 6. Romanos 6:22c – “*…tenéis por vuestro fruto la santificación,…” * A medida que te presentas al Señor, comienzas a **<u>vivir</u>** justamente, y, de hecho, sacas partido del poder de Dios sobre el pecado en tu vida.
 
 
 
-### 7. Romanos 6:22e – “…*y como fin, la vida eterna.”* La vida eterna es tanto una cantidad de **<u>vida</u>** (interminable) como también una calidad de vida (abundante). Juan 17:3
+### 7. Romanos 6:22e – “*…y como fin, la vida eterna.”* La vida eterna es tanto una cantidad de **<u>vida</u>** (interminable) como también una calidad de vida (abundante). Juan 17:3
 
 
 
@@ -3692,7 +3692,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### d. Romanos 7:3b – “…*pero si su marido muriere, es libre de esa ley, de tal manera que, si se uniere a otro marido, no será adúltera.”* Pero si su esposo muere, ella queda **<u>libre</u>** de la ley del matrimonio y puede casarse legalmente con otro hombre.
+#### d. Romanos 7:3b – “*…pero si su marido muriere, es libre de esa ley, de tal manera que, si se uniere a otro marido, no será adúltera.”* Pero si su esposo muere, ella queda **<u>libre</u>** de la ley del matrimonio y puede casarse legalmente con otro hombre.
 
 
 
@@ -3724,7 +3724,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### c. Romanos 7:4c – “…*a fin de que llevemos fruto para Dios*.” Mientras estabas bajo la Ley y su legalismo resultante, eras incapaz de agradar a Dios. Sin embargo, ahora que estás unido a Cristo, Él en gracia produce **<u>frutos</u>** para Dios a través de ti. Romanos 8:3, Gálatas 2:19-20, Filipenses 1:11
+#### c. Romanos 7:4c – “*…a fin de que llevemos fruto para Dios*.” Mientras estabas bajo la Ley y su legalismo resultante, eras incapaz de agradar a Dios. Sin embargo, ahora que estás unido a Cristo, Él en gracia produce **<u>frutos</u>** para Dios a través de ti. Romanos 8:3, Gálatas 2:19-20, Filipenses 1:11
 
 
 
@@ -3768,7 +3768,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### b. Romanos 7:6b – “…*de modo que sirvamos bajo el régimen nuevo del Espíritu y no bajo el régimen viejo de la letra*.” Esta frase bajo *el régimen viejo de la letra *se refiere a la Ley de Moisés. Ahora que estás bajo la **<u>gracia</u>**, no la Ley, y ahora que Cristo vive a través de ti, la vida puede ser verdaderamente gozosa y digna de ser vivida. 2 Corintios 5:17, 1 Juan 1:4
+#### b. Romanos 7:6b – “*…de modo que sirvamos bajo el régimen nuevo del Espíritu y no bajo el régimen viejo de la letra*.” Esta frase bajo *el régimen viejo de la letra *se refiere a la Ley de Moisés. Ahora que estás bajo la **<u>gracia</u>**, no la Ley, y ahora que Cristo vive a través de ti, la vida puede ser verdaderamente gozosa y digna de ser vivida. 2 Corintios 5:17, 1 Juan 1:4
 
 
 
@@ -3860,7 +3860,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### d. Romanos 7:13c – “…*a fin de que por el mandamiento el pecado llegase a ser sobremanera pecaminoso*.” ¿Cómo **<u>utiliza</u>** Dios el abuso de tu naturaleza de pecado de la Ley y tu fracaso para tu bien?
+#### d. Romanos 7:13c – “*…a fin de que por el mandamiento el pecado llegase a ser sobremanera pecaminoso*.” ¿Cómo **<u>utiliza</u>** Dios el abuso de tu naturaleza de pecado de la Ley y tu fracaso para tu bien?
 
 
 
@@ -3900,11 +3900,11 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-##### 2) Además, Pablo no estaba escribiendo sobre su vida **<u>pasada</u>** como persona no salva. De lo contrario, habría utilizado una descripción de los no salvos, similar a la que usó en Romanos 7:5 – “…*mientras estábamos en la carne,…”*.
+##### 2) Además, Pablo no estaba escribiendo sobre su vida **<u>pasada</u>** como persona no salva. De lo contrario, habría utilizado una descripción de los no salvos, similar a la que usó en Romanos 7:5 – “*…mientras estábamos en la carne,…”*.
 
 
 
-#### c. Romanos 7:14c – “…*mas yo soy carnal, vendido al pecado.”* Esto podría entenderse como: “Soy de la carne **<u>cuando</u>** me esclavizo a la naturaleza del pecado”. Pablo sabía a quién culpar por el pecado en su vida.
+#### c. Romanos 7:14c – “*…mas yo soy carnal, vendido al pecado.”* Esto podría entenderse como: “Soy de la carne **<u>cuando</u>** me esclavizo a la naturaleza del pecado”. Pablo sabía a quién culpar por el pecado en su vida.
 
 
 
@@ -3924,7 +3924,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### b. Romanos 7:15b – “…*pues no hago lo que quiero,…”* Aunque él deseaba hacer lo que era **<u>correcto</u>**, en la práctica fue un total fracaso.
+#### b. Romanos 7:15b – “*…pues no hago lo que quiero,…”* Aunque él deseaba hacer lo que era **<u>correcto</u>**, en la práctica fue un total fracaso.
 
 
 
@@ -3952,7 +3952,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### c. Romanos 7:17b – Pablo entendió que “…*el pecado que **<u>mora</u>**…”*interiormente *,* o sea su naturaleza de pecado, producía pecados en su vida anterior. En la vida del creyente la raíz del problema de pecar y fracasar es la misma naturaleza de pecado.
+#### c. Romanos 7:17b – Pablo entendió que “*…el pecado que **<u>mora</u>**…”*interiormente *,* o sea su naturaleza de pecado, producía pecados en su vida anterior. En la vida del creyente la raíz del problema de pecar y fracasar es la misma naturaleza de pecado.
 
 
 
@@ -3980,11 +3980,11 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### c. Romanos 7:23a – “…*pero veo otra ley en mis miembros, que se rebela contra la ley de mi mente,…”* Aunque Pablo deseaba hacer lo correcto, había una **<u>guerra</u>** librándose en su interior. Su naturaleza de pecado estaba luchando en contra, y venciendo, los deseos de su nueva naturaleza. Gálatas 5:16-17 (LBLA)
+#### c. Romanos 7:23a – “*…pero veo otra ley en mis miembros, que se rebela contra la ley de mi mente,…”* Aunque Pablo deseaba hacer lo correcto, había una **<u>guerra</u>** librándose en su interior. Su naturaleza de pecado estaba luchando en contra, y venciendo, los deseos de su nueva naturaleza. Gálatas 5:16-17 (LBLA)
 
 
 
-#### d. Romanos 7:23b – “…*y que me lleva cautivo a la ley del pecado que está en mis miembros*.” Pablo estaba perdiendo la guerra porque su nueva naturaleza no era rival para su naturaleza pecaminosa. Necesitaba el **<u>poder</u>** del Espíritu Santo, el cual pasó a explicar en Romanos 8. Romanos 7:14-15
+#### d. Romanos 7:23b – “*…y que me lleva cautivo a la ley del pecado que está en mis miembros*.” Pablo estaba perdiendo la guerra porque su nueva naturaleza no era rival para su naturaleza pecaminosa. Necesitaba el **<u>poder</u>** del Espíritu Santo, el cual pasó a explicar en Romanos 8. Romanos 7:14-15
 
 
 
@@ -4000,7 +4000,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-### 2. Romanos 7:24b – “…*¿quién me librará de este cuerpo de muerte?”* Pablo estaba haciendo la pregunta correcta cuando preguntó **quién** lo liberaría en lugar de **qué** lo libraría. La libertad que buscaba se encontraba en una **<u>persona</u>** y no en un método. 1 Corintios 1:30
+### 2. Romanos 7:24b – “*…¿quién me librará de este cuerpo de muerte?”* Pablo estaba haciendo la pregunta correcta cuando preguntó **quién** lo liberaría en lugar de **qué** lo libraría. La libertad que buscaba se encontraba en una **<u>persona</u>** y no en un método. 1 Corintios 1:30
 
 
 
@@ -4016,7 +4016,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-### 4. Romanos 7:25b – Resumen de la **<u>batalla</u>**: “…*Así que, yo mismo con la mente sirvo a la ley de Dios, mas con la carne a la ley del pecado*.”
+### 4. Romanos 7:25b – Resumen de la **<u>batalla</u>**: “*…Así que, yo mismo con la mente sirvo a la ley de Dios, mas con la carne a la ley del pecado*.”
 
 
 
@@ -4068,7 +4068,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### b. “…*para los que están en Cristo Jesús,…”* Nuestra identificación con Jesucristo nos ha **<u>liberado</u>** de toda condenación. Su justicia ha llegado a ser nuestra justicia. Si aún así fuéramos condenados, Cristo también sería condenado, porque como creyentes estamos posicionados *en Cristo Jesús*. 2 Corintios 5:21; Efesios 1:3-5, 2:4-7; Colosenses 3:1-3
+#### b. “*…para los que están en Cristo Jesús,…”* Nuestra identificación con Jesucristo nos ha **<u>liberado</u>** de toda condenación. Su justicia ha llegado a ser nuestra justicia. Si aún así fuéramos condenados, Cristo también sería condenado, porque como creyentes estamos posicionados *en Cristo Jesús*. 2 Corintios 5:21; Efesios 1:3-5, 2:4-7; Colosenses 3:1-3
 
 
 
@@ -4156,11 +4156,11 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### c. Romanos 8:3c – Dios lo hizo: “…* enviando a su Hijo en semejanza de carne de pecado y a causa del pecado, condenó al pecado en la **<u>carne</u>**;”* La respuesta a nuestra libertad de la dominación del pecado se encuentra en la venida del único Hijo de Dios, Jesucristo.
+#### c. Romanos 8:3c – Dios lo hizo: “*… enviando a su Hijo en semejanza de carne de pecado y a causa del pecado, condenó al pecado en la **<u>carne</u>**;”* La respuesta a nuestra libertad de la dominación del pecado se encuentra en la venida del único Hijo de Dios, Jesucristo.
 
 
 
-##### 1) La frase “…*en semejanza* (HOMOIOMA) *de carne de pecado…”* nos dice que Jesucristo fue humano de verdad. Él era **<u>completamente</u>** humano. Él tenía nuestra forma exacta y semejanza. Su cuerpo humano no era diferente de nuestros cuerpos humanos. Gálatas 4:4, Filipenses 2:6, Hebreos 2:17
+##### 1) La frase “*…en semejanza* (HOMOIOMA) *de carne de pecado…”* nos dice que Jesucristo fue humano de verdad. Él era **<u>completamente</u>** humano. Él tenía nuestra forma exacta y semejanza. Su cuerpo humano no era diferente de nuestros cuerpos humanos. Gálatas 4:4, Filipenses 2:6, Hebreos 2:17
 
 
 
@@ -4172,7 +4172,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### d. Romanos 8:3d – “…*Dios, enviando a su **<u>Hijo</u>** en semejanza de carne de pecado y a causa del pecado*,…”
+#### d. Romanos 8:3d – “*…Dios, enviando a su **<u>Hijo</u>** en semejanza de carne de pecado y a causa del pecado*,…”
 
 
 
@@ -4412,7 +4412,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### c. Romanos 8:13b – “…*mas si por el Espíritu hacéis morir las obras de la carne, viviréis.*” Dios promete que si por el Espíritu Santo, haces *morir las obras de la carne, **<u>viviréis</u>**.*
+#### c. Romanos 8:13b – “*…mas si por el Espíritu hacéis morir las obras de la carne, viviréis.*” Dios promete que si por el Espíritu Santo, haces *morir las obras de la carne, **<u>viviréis</u>**.*
 
 
 
@@ -4524,7 +4524,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### e. Romanos 8:17c – “…*si es que padecemos juntamente con él, para que juntamente con él seamos glorificados.*”  Puesto que ser un hijo de Dios incluye el **<u>honor</u>** de participar en los sufrimientos de Cristo, Pablo nos aseguró que igualmente participaremos en Su gloria. 1 Pedro 4:13
+#### e. Romanos 8:17c – “*…si es que padecemos juntamente con él, para que juntamente con él seamos glorificados.*”  Puesto que ser un hijo de Dios incluye el **<u>honor</u>** de participar en los sufrimientos de Cristo, Pablo nos aseguró que igualmente participaremos en Su gloria. 1 Pedro 4:13
 
 
 
@@ -4564,7 +4564,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-### 2. Romanos 8:18b – “…*no son comparables con la gloria venidera que en nosotros ha de manifestarse*.” Pablo comparó nuestro presente sufrimiento con nuestro glorioso **<u>futuro</u>** y descubrió que no podían ser comparados. A la luz de tu sufrimiento presente, aquí hay algunos hechos a considerar.
+### 2. Romanos 8:18b – “*…no son comparables con la gloria venidera que en nosotros ha de manifestarse*.” Pablo comparó nuestro presente sufrimiento con nuestro glorioso **<u>futuro</u>** y descubrió que no podían ser comparados. A la luz de tu sufrimiento presente, aquí hay algunos hechos a considerar.
 
 
 
@@ -4604,7 +4604,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### d. Romanos 8:21b – “…*a la libertad gloriosa de los hijos de Dios*.” Dios promete que la naturaleza será **<u>liberada</u>** de su esclavitud a la corrupción en el día que los hijos de Dios sean revelados en toda su gloria. Mateo 22:2, Apocalipsis 19:9
+#### d. Romanos 8:21b – “*…a la libertad gloriosa de los hijos de Dios*.” Dios promete que la naturaleza será **<u>liberada</u>** de su esclavitud a la corrupción en el día que los hijos de Dios sean revelados en toda su gloria. Mateo 22:2, Apocalipsis 19:9
 
 
 
@@ -4620,7 +4620,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### b. Romanos 8:23b – “…*que tenemos las primicias del Espíritu,…*” Cuando creíste el Evangelio, recibiste inmediatamente el **<u>Espíritu</u>** Santo como garantía de tu glorificación futura. Efesios 1:14
+#### b. Romanos 8:23b – “*…que tenemos las primicias del Espíritu,…*” Cuando creíste el Evangelio, recibiste inmediatamente el **<u>Espíritu</u>** Santo como garantía de tu glorificación futura. Efesios 1:14
 
 
 
@@ -4640,7 +4640,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### e. Romanos 8:24b – “…*pero la esperanza que se ve, no es esperanza; porque lo que alguno ve, ¿a qué esperarlo?*”  Esta esperanza es aún futura. Depende de Dios quien hizo la promesa. Esto habla de nuestra **<u>glorificación</u>** venidera. Hebreos 11:6
+#### e. Romanos 8:24b – “*…pero la esperanza que se ve, no es esperanza; porque lo que alguno ve, ¿a qué esperarlo?*”  Esta esperanza es aún futura. Depende de Dios quien hizo la promesa. Esto habla de nuestra **<u>glorificación</u>** venidera. Hebreos 11:6
 
 
 
@@ -4720,7 +4720,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### d. Romanos 8:28d – “…*ayudan a **<u>bien</u>***,…” En  griego la palabra *bien* (AGATHOS) significa bueno en carácter o beneficioso.
+#### d. Romanos 8:28d – “*…ayudan a **<u>bien</u>***,…” En  griego la palabra *bien* (AGATHOS) significa bueno en carácter o beneficioso.
 
 
 
@@ -4732,7 +4732,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### e. Romanos 8:28f – Esta promesa es “…*a los que aman a Dios*,…” Quienes aman a Dios describe a **<u>todos</u>** los creyentes. 1 Corintios 2:9, Efesios 6:24
+#### e. Romanos 8:28f – Esta promesa es “*…a los que aman a Dios*,…” Quienes aman a Dios describe a **<u>todos</u>** los creyentes. 1 Corintios 2:9, Efesios 6:24
 
 
 
@@ -4756,7 +4756,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### g. Romanos 8:28h – “…*a los que conforme a su propósito son llamados.”* ¿Cuál es el buen **<u>plan</u>** que Dios quiere obrar en las vidas de todos los creyentes? Esto será desarrollado en los siguientes versículos.
+#### g. Romanos 8:28h – “*…a los que conforme a su propósito son llamados.”* ¿Cuál es el buen **<u>plan</u>** que Dios quiere obrar en las vidas de todos los creyentes? Esto será desarrollado en los siguientes versículos.
 
 
 
@@ -4852,7 +4852,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### e. Romanos 8:30a – “…*a éstos también llamó;…”* Los creyentes son aquellos que han respondido al **<u>llamado</u>** de Dios. Toda persona en Cristo es hijo de Dios en respuesta a la fe en el llamado del evangelio de Dios. 1 Corintios 1:24
+#### e. Romanos 8:30a – “*…a éstos también llamó;…”* Los creyentes son aquellos que han respondido al **<u>llamado</u>** de Dios. Toda persona en Cristo es hijo de Dios en respuesta a la fe en el llamado del evangelio de Dios. 1 Corintios 1:24
 
 
 
@@ -4900,7 +4900,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### f. Romanos 8:30b – “…*a éstos también justificó;…”* Los justificados aquí se refiere sólo a aquellos que han **<u>creído</u>** en Cristo.
+#### f. Romanos 8:30b – “*…a éstos también justificó;…”* Los justificados aquí se refiere sólo a aquellos que han **<u>creído</u>** en Cristo.
 
 
 
@@ -4924,7 +4924,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### g. Romanos 8:30c – “…*a éstos también glorificó.”* Aún no estamos glorificados, pero la palabra glorificado está en tiempo **<u>pasado</u>** porque Dios garantiza absolutamente que seremos glorificados. En lo que respecta a Dios, ya es un hecho consumado. Romanos 8:17
+#### g. Romanos 8:30c – “*…a éstos también glorificó.”* Aún no estamos glorificados, pero la palabra glorificado está en tiempo **<u>pasado</u>** porque Dios garantiza absolutamente que seremos glorificados. En lo que respecta a Dios, ya es un hecho consumado. Romanos 8:17
 
 
 
@@ -4956,7 +4956,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### a. Romanos 8:34a – “…*Cristo es el que murió;…”* No puede ser Cristo quien nos condene, porque Cristo murió para **<u>pagar</u>** por nuestros pecados, no para condenarnos. Juan 3:17
+#### a. Romanos 8:34a – “*…Cristo es el que murió;…”* No puede ser Cristo quien nos condene, porque Cristo murió para **<u>pagar</u>** por nuestros pecados, no para condenarnos. Juan 3:17
 
 
 
@@ -4964,7 +4964,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### c. Romanos 8:34c – “…*el que además está a la diestra de Dios, el que también intercede por nosotros.”*No puede ser Cristo quien nos **<u>condene</u>**, porque Cristo se sienta en el lugar del honor a la diestra de Dios en el cielo mediando para siempre por nosotros. Juan 3:17, Hebreos 7:25, 1 Juan 2:2
+#### c. Romanos 8:34c – “*…el que además está a la diestra de Dios, el que también intercede por nosotros.”*No puede ser Cristo quien nos **<u>condene</u>**, porque Cristo se sienta en el lugar del honor a la diestra de Dios en el cielo mediando para siempre por nosotros. Juan 3:17, Hebreos 7:25, 1 Juan 2:2
 
 
 
@@ -5168,7 +5168,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-### 1. 1 Corintios 15:3a – “…***<u>Cristo</u> *** *murió*…” Cristo es la persona en quien debes creer para salvación. 1 Timoteo 3:16 
+### 1. 1 Corintios 15:3a – “*…**<u>Cristo</u> *** *murió*…” Cristo es la persona en quien debes creer para salvación. 1 Timoteo 3:16 
 
 
 
@@ -5208,7 +5208,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### a. Prueba #1 – Profecías detalladas cumplidas: 1 Corintios 15:3d – “…*Cristo murió...conforme a las Escrituras*;” La muerte de Cristo fue un **<u>evento</u>** profético que sucedió exactamente como el Antiguo Testamento lo predijo. Salmos 22:17-18, 69:11; Isaías 53:3-6; Zacarías 12:10; Lucas 24:46; Hechos 10:43; Romanos 1:2-4  
+#### a. Prueba #1 – Profecías detalladas cumplidas: 1 Corintios 15:3d – “*…Cristo murió...conforme a las Escrituras*;” La muerte de Cristo fue un **<u>evento</u>** profético que sucedió exactamente como el Antiguo Testamento lo predijo. Salmos 22:17-18, 69:11; Isaías 53:3-6; Zacarías 12:10; Lucas 24:46; Hechos 10:43; Romanos 1:2-4  
 
 
 
@@ -5296,7 +5296,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### a. Mateo 17:20 – “…*porque de cierto os digo, que si tuviereis fe como un  **<u>grano</u>** de mostaza, diréis a este monte: Pásate de aquí allá, y se pasará; y nada os será imposible*.”
+#### a. Mateo 17:20 – “*…porque de cierto os digo, que si tuviereis fe como un  **<u>grano</u>** de mostaza, diréis a este monte: Pásate de aquí allá, y se pasará; y nada os será imposible*.”
 
 
 
@@ -5636,7 +5636,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-##### 4) En Hechos 19:4, Pablo dijo, “…*Juan bautizó con bautismo de arrepentimiento, diciendo al pueblo que  **<u>creyesen</u>** en aquel que vendría después de él, esto es, en Jesús el Cristo*.”
+##### 4) En Hechos 19:4, Pablo dijo, “*…Juan bautizó con bautismo de arrepentimiento, diciendo al pueblo que  **<u>creyesen</u>** en aquel que vendría después de él, esto es, en Jesús el Cristo*.”
 
 
 
@@ -5704,11 +5704,11 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-##### 1) Efesios 5:2 – “…*como también Cristo nos amó, y se **<u>entregó</u>** a sí mismo por nosotros, ofrenda y sacrificio a Dios en olor fragante*.”
+##### 1) Efesios 5:2 – “*…como también Cristo nos amó, y se **<u>entregó</u>** a sí mismo por nosotros, ofrenda y sacrificio a Dios en olor fragante*.”
 
 
 
-##### 2) Gálatas 2:20b – El “…*Hijo de Dios, el cual me **<u>amó</u>** y se entregó a sí mismo por mí*.”
+##### 2) Gálatas 2:20b – El “*…Hijo de Dios, el cual me **<u>amó</u>** y se entregó a sí mismo por mí*.”
 
 
 
@@ -5928,7 +5928,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### c. En 2 Timoteo 1:12, el apóstol Pablo declaró, “…*yo sé a quién he creído, y estoy seguro que *[**<u>Él</u>**] * es poderoso para guardar mi depósito para aquel día*.”
+#### c. En 2 Timoteo 1:12, el apóstol Pablo declaró, “*…yo sé a quién he creído, y estoy seguro que *[**<u>Él</u>**] * es poderoso para guardar mi depósito para aquel día*.”
 
 
 
@@ -6083,7 +6083,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-### 1. En Juan 14:6, Jesús dijo, “…*Yo soy el camino, y la verdad, y la vida; nadie viene al Padre, sino por mí*.” ¿Le crees a Jesús? ¿Crees que Él es el **<u>único</u>** camino a Dios? ¿O estaba Él equivocado? ¿Hay otra manera?
+### 1. En Juan 14:6, Jesús dijo, “*…Yo soy el camino, y la verdad, y la vida; nadie viene al Padre, sino por mí*.” ¿Le crees a Jesús? ¿Crees que Él es el **<u>único</u>** camino a Dios? ¿O estaba Él equivocado? ¿Hay otra manera?
 
 
 
@@ -6119,7 +6119,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-### 1. En Marcos 16:15, el Señor Jesucristo ordenó, “…*Id por **<u>todo</u>** el mundo y predicad el evangelio a toda criatura*.”
+### 1. En Marcos 16:15, el Señor Jesucristo ordenó, “*…Id por **<u>todo</u>** el mundo y predicad el evangelio a toda criatura*.”
 
 
 
@@ -6296,7 +6296,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### b. Tito 1:2 – “…*Dios …no **<u>miente</u>***…”
+#### b. Tito 1:2 – “*…Dios …no **<u>miente</u>***…”
 
 
 
@@ -6645,7 +6645,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### a. Juan 6:39b-40 – “…* no pierda yo nada, sino que lo resucite en el día postrero. Y esta es la voluntad del que me ha enviado: Que todo aquél que ve al Hijo, y cree en él, tenga vida eterna; y yo le  **<u>resucitaré</u>** en el día postrero*.”
+#### a. Juan 6:39b-40 – “*… no pierda yo nada, sino que lo resucite en el día postrero. Y esta es la voluntad del que me ha enviado: Que todo aquél que ve al Hijo, y cree en él, tenga vida eterna; y yo le  **<u>resucitaré</u>** en el día postrero*.”
 
 
 
@@ -6693,7 +6693,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### a. Efesios 1:13-14 – “…*habiendo oído la palabra de verdad, el evangelio de vuestra salvación, y habiendo creído en él, fuisteis sellados con el Espíritu Santo de la promesa, que es las **<u>arras</u>** de nuestra herencia hasta la redención de la posesión adquirida, para alabanza de su gloria*.”
+#### a. Efesios 1:13-14 – “*…habiendo oído la palabra de verdad, el evangelio de vuestra salvación, y habiendo creído en él, fuisteis sellados con el Espíritu Santo de la promesa, que es las **<u>arras</u>** de nuestra herencia hasta la redención de la posesión adquirida, para alabanza de su gloria*.”
 
 
 
@@ -6769,7 +6769,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### d. Si la salvación pudiera perderse, ¿qué se podría decir de la declaración de Cristo, “…*Consumado es. …”?* (Juan 19:30) ¿Fue realmente terminada? ¡**<u>Sí</u>**, fue ciertamente terminada!
+#### d. Si la salvación pudiera perderse, ¿qué se podría decir de la declaración de Cristo, “*…Consumado es. …”?* (Juan 19:30) ¿Fue realmente terminada? ¡**<u>Sí</u>**, fue ciertamente terminada!
 
 
 
@@ -6837,11 +6837,11 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### a. Romanos 8:9b – “…*Y si alguno no tiene el Espíritu de Cristo, no  **<u>es</u>** de él*.” 
+#### a. Romanos 8:9b – “*…Y si alguno no tiene el Espíritu de Cristo, no  **<u>es</u>** de él*.” 
 
 
 
-#### b. Judas 18b-19 – “…*En el postrer tiempo habrá burladores, que andarán según sus malvados deseos. Estos son los que causan divisiones; los sensuales, que  **<u>no tienen</u>** al Espíritu*.” 
+#### b. Judas 18b-19 – “*…En el postrer tiempo habrá burladores, que andarán según sus malvados deseos. Estos son los que causan divisiones; los sensuales, que  **<u>no tienen</u>** al Espíritu*.” 
 
 
 
@@ -6965,11 +6965,11 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### a. 1 Corintios 2:15a – “…*el espiritual juzga todas las cosas;*…” Estando debidamente relacionado con el Espíritu Santo, un cristiano espiritual es capaz de evaluar y **<u>discernir</u>** *todas las cosas*, incluyendo la doctrina, las situaciones y las personas. Esto es gracias a que el creyente espiritual está siendo misericordiosamente guiado por el Espíritu Santo. Romanos 8:14, Hebreos 5:14
+#### a. 1 Corintios 2:15a – “*…el espiritual juzga todas las cosas;*…” Estando debidamente relacionado con el Espíritu Santo, un cristiano espiritual es capaz de evaluar y **<u>discernir</u>** *todas las cosas*, incluyendo la doctrina, las situaciones y las personas. Esto es gracias a que el creyente espiritual está siendo misericordiosamente guiado por el Espíritu Santo. Romanos 8:14, Hebreos 5:14
 
 
 
-#### b. 1 Corintios 2:15b – “…*pero él no es juzgado de nadie*.” Un beneficio adicional que los cristianos espirituales tienen es que, dado que están siendo guiados por el Espíritu Santo, no necesitan preocuparse por el juicio de los **<u>demás</u>**. Romanos 6:22
+#### b. 1 Corintios 2:15b – “*…pero él no es juzgado de nadie*.” Un beneficio adicional que los cristianos espirituales tienen es que, dado que están siendo guiados por el Espíritu Santo, no necesitan preocuparse por el juicio de los **<u>demás</u>**. Romanos 6:22
 
 
 
@@ -6981,7 +6981,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### c. 1 Corintios 2:16 – “…*Mas nosotros tenemos la mente de Cristo*.” El cristiano espiritual se beneficia de tener la **<u>mente</u>** o el pensamiento de Cristo.
+#### c. 1 Corintios 2:16 – “*…Mas nosotros tenemos la mente de Cristo*.” El cristiano espiritual se beneficia de tener la **<u>mente</u>** o el pensamiento de Cristo.
 
 
 
@@ -7021,7 +7021,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-####  a. En 1 Juan 2:14, hablando de los menos maduros, Juan dijo, “…*Os he escrito a vosotros, jóvenes, porque sois  **<u>fuertes</u>**, y la palabra de Dios permanece en vosotros, y habéis vencido al maligno*.”
+####  a. En 1 Juan 2:14, hablando de los menos maduros, Juan dijo, “*…Os he escrito a vosotros, jóvenes, porque sois  **<u>fuertes</u>**, y la palabra de Dios permanece en vosotros, y habéis vencido al maligno*.”
 
 
 
@@ -7085,7 +7085,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### c. 1 Corintios 3:3b – “…*pues habiendo entre vosotros celos, contiendas y disensiones, ¿no sois carnales, y andáis como hombres?”* El cristiano carnal está caracterizado por la envidia y las relaciones **<u>rotas</u>**. Gálatas 5:19-21
+#### c. 1 Corintios 3:3b – “*…pues habiendo entre vosotros celos, contiendas y disensiones, ¿no sois carnales, y andáis como hombres?”* El cristiano carnal está caracterizado por la envidia y las relaciones **<u>rotas</u>**. Gálatas 5:19-21
 
 
 
@@ -7137,7 +7137,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-### 3. En 1 Pedro 5:12b, el apóstol Pedro dijo, “…*os he escrito brevemente, amonestándoos, y testificando que ésta es la  **<u>verdadera</u>** gracia de Dios, en la cual estáis.*” Recuerda siempre: la verdadera gracia bíblica no produce desgracia. No debemos temer a la gracia de Dios – Su favor inmerecido.
+### 3. En 1 Pedro 5:12b, el apóstol Pedro dijo, “*…os he escrito brevemente, amonestándoos, y testificando que ésta es la  **<u>verdadera</u>** gracia de Dios, en la cual estáis.*” Recuerda siempre: la verdadera gracia bíblica no produce desgracia. No debemos temer a la gracia de Dios – Su favor inmerecido.
 
 
 
@@ -7153,7 +7153,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### b. La voluntad de Dios para ti es que estés **<u>completamente</u>** seguro de tu salvación para que puedas beneficiarte de “…*todas las riquezas que proceden de una plena seguridad de comprensión,…”* (Col. 2:1-2 [LBLA]). La duda anula esta bendición y termina en inseguridad y falta de convicción. 2 Pedro 3:17
+#### b. La voluntad de Dios para ti es que estés **<u>completamente</u>** seguro de tu salvación para que puedas beneficiarte de “*…todas las riquezas que proceden de una plena seguridad de comprensión,…”* (Col. 2:1-2 [LBLA]). La duda anula esta bendición y termina en inseguridad y falta de convicción. 2 Pedro 3:17
 
 
 
@@ -7173,7 +7173,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### a. 1 Juan 1:5b – “…*Dios es luz, y no hay ningunas tinieblas en él*.” Si caminamos en la luz, por medio del Espíritu Santo, tenemos comunión con Dios; pero si **<u>andamos</u>** en tinieblas, de acuerdo con la carne, no disfrutamos de la comunión con Él.
+#### a. 1 Juan 1:5b – “*…Dios es luz, y no hay ningunas tinieblas en él*.” Si caminamos en la luz, por medio del Espíritu Santo, tenemos comunión con Dios; pero si **<u>andamos</u>** en tinieblas, de acuerdo con la carne, no disfrutamos de la comunión con Él.
 
 
 
@@ -7217,7 +7217,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### a. En aquel día, a Dios le gustaría decirte lo que Mateo 25:23 dice, “…*Bien* **<u>hecho</u>**, *buen siervo y fiel*;…” Pero si caminas por la carne, podrías entrar al cielo sin nada de valor que mostrar por tu vida. 1 Corintios 3:15, 9:24-27; 2 Corintios 5:9-11; 2 Timoteo 4:6-8
+#### a. En aquel día, a Dios le gustaría decirte lo que Mateo 25:23 dice, “*…Bien* **<u>hecho</u>**, *buen siervo y fiel*;…” Pero si caminas por la carne, podrías entrar al cielo sin nada de valor que mostrar por tu vida. 1 Corintios 3:15, 9:24-27; 2 Corintios 5:9-11; 2 Timoteo 4:6-8
 
 
 
