@@ -553,7 +553,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### b. Romanos 1:1b – “*Pablo, siervo *(DOULOS) *de Jesucristo*...” Pablo se refirió a sí mismo como un esclavo. Pocos líderes en el cristianismo moderno se presentan tan humildemente. La norma moderna es dar una larga lista de calificadores y credenciales. Pablo simplemente se consideraba, por encima de todo, un  **<u>esclavo</u>**   y *de Jesucristo*.  2 Corintios 12:11
+#### b. Romanos 1:1b – “*Pablo, siervo* (DOULOS) *de Jesucristo...*” Pablo se refirió a sí mismo como un esclavo. Pocos líderes en el cristianismo moderno se presentan tan humildemente. La norma moderna es dar una larga lista de calificadores y credenciales. Pablo simplemente se consideraba, por encima de todo, un  **<u>esclavo</u>**   y *de Jesucristo*.  2 Corintios 12:11
 
 
 
