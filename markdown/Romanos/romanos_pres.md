@@ -6041,19 +6041,19 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 ### 1. El evangelio no es un mensaje subjetivo.
-<!-- .element: class="fragment" -->
+
 #### a. El evangelio no es algo que decimos o hacemos en nuestros **<u>corazones</u>**. 
 <!-- .element: class="fragment" -->
 #### b. El evangelio no es una **<u>experiencia</u>** que hemos tenido.  
-
+<!-- .element: class="fragment" -->
 
 
 ### 2. El evangelio no es una fórmula.
-<!-- .element: class="fragment" -->
+
 #### a. El evangelio no es repetir alguna **<u>frase</u>**.
 <!-- .element: class="fragment" -->
 #### b. El evangelio no es lo que decimos o lo que alguien nos **<u>dice</u>** que digamos.  
-
+<!-- .element: class="fragment" -->
 
 
 ### 3. El evangelio no es decir la denominada “**<u>oración</u>** del pecador”.
@@ -6061,21 +6061,20 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 ### 4. El evangelio no es una emoción.
-<!-- .element: class="fragment" -->
 #### a. El evangelio no es una **<u>demostración</u>** de remordimiento o auto flagelamiento. 
 <!-- .element: class="fragment" -->
 #### b. El evangelio no es una exhibición de lágrimas, **<u>gozo</u>** o tristeza.   
-
+<!-- .element: class="fragment" -->
 
 
 ### 5. El evangelio no es una experiencia eufórica o mística.
- <!-- .element: class="fragment" -->
+
 #### a. El evangelio no es hablar en **<u>lenguas</u>**. 
 <!-- .element: class="fragment" -->
 #### b. El evangelio no es ser **<u>inmolado</u>** en el espíritu. 
 <!-- .element: class="fragment" -->
 #### c. El evangelio no es una especie de conjuro **<u>mágico</u>**  
-
+<!-- .element: class="fragment" -->
 
 
 ### 6. El evangelio no es una promesa o compromiso que **<u>hacemos</u>**.
@@ -6087,20 +6086,26 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 ### 8. El evangelio no es un **<u>trato</u>** que hacemos con Dios. Dios no dice,
-#### a. “Si me **<u>haces</u>** Señor, entonces te salvaré.”  <!-- .element: class="fragment" -->
-#### b. “Si me **<u>das</u>** tu vida, tu corazón o tu todo, entonces te daré la salvación.”  <!-- .element: class="fragment" -->
+#### a. “Si me **<u>haces</u>** Señor, entonces te salvaré.”  
+<!-- .element: class="fragment" -->
+#### b. “Si me **<u>das</u>** tu vida, tu corazón o tu todo, entonces te daré la salvación.”  
+<!-- .element: class="fragment" -->
 
 
 
 ### 9. El evangelio no es algo que debemos pedir o rogar a Dios.
-#### a. El evangelio no es pedir a Cristo que entre en tu corazón o en tu **<u>vida</u>**.  <!-- .element: class="fragment" -->
-#### b. El evangelio no es **<u>rogar</u>** por perdón o confesar tus pecados.  <!-- .element: class="fragment" -->
+#### a. El evangelio no es pedir a Cristo que entre en tu corazón o en tu **<u>vida</u>**.  
+<!-- .element: class="fragment" -->
+#### b. El evangelio no es **<u>rogar</u>** por perdón o confesar tus pecados.  
+<!-- .element: class="fragment" -->
 
 
 
 ### 10. El evangelio no es tu capacidad de creer.
-#### a. El evangelio no es confiar en tu **<u>fe</u>**.  <!-- .element: class="fragment" -->
-#### b. El evangelio no es tu habilidad para ser **<u>sincero</u>**  <!-- .element: class="fragment" -->
+#### a. El evangelio no es confiar en tu **<u>fe</u>**.  
+<!-- .element: class="fragment" -->
+#### b. El evangelio no es tu habilidad para ser **<u>sincero</u>**  
+<!-- .element: class="fragment" -->
 
  .
 
