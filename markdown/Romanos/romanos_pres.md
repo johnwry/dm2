@@ -5980,7 +5980,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### c. En 2 Timoteo 1:12, el apóstol Pablo declaró, "*…yo sé a quién he creído, y estoy seguro que *[**<u>Él</u>**] * es poderoso para guardar mi depósito para aquel día.*"
+#### c. En 2 Timoteo 1:12, el apóstol Pablo declaró, "*…yo sé a quién he creído, y estoy seguro que*  [**<u>Él</u>**] *es poderoso para guardar mi depósito para aquel día.*"
 
 
 
