@@ -1,4 +1,4 @@
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/cover.png"  data-background-size="contain" data-auto-animate="" data-menu-title="inicio" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/cover.png"  data-background-size="contain" data-auto-animate="" data-menu-title="inicio" data-background-color="black" --> 
 <small>
 ROMANOS 1-8  <!-- .element: style="color:white;" -->
 Versión: Romanos 5.5
@@ -2654,7 +2654,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### b. Romanos 5:11b –*“…por el Señor nuestro Jesucristo, por quien hemos recibido ahora la reconciliación*.” Nos regocijamos porque Jesucristo **<u>ganó</u>** la aceptación de Dios por nosotros.
+#### b. Romanos 5:11b – “*…por el Señor nuestro Jesucristo, por quien hemos recibido ahora la reconciliación.*” Nos regocijamos porque Jesucristo **<u>ganó</u>** la aceptación de Dios por nosotros.
 
 
 
