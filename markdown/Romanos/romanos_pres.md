@@ -381,7 +381,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### c. Romanos 1:13 – Pablo quería ***  <u>segar</u> ** alguna cosecha* en Roma. En otras palabras, él quería compartir el evangelio en Roma. Hechos 28:17-31, 1 Corintios 9:15-18 
+#### c. Romanos 1:13 – Pablo quería ***<u>segar</u>** alguna cosecha* en Roma. En otras palabras, él quería compartir el evangelio en Roma. Hechos 28:17-31, 1 Corintios 9:15-18 
 
 
 
