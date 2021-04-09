@@ -5477,6 +5477,10 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/ser-bautizado.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="3. Confusión: Cree y sé bautizado"  data-background-color="black" --> 
+
+
+
 ### 3. **Confusión: Cree y sé bautizado**
 
 
@@ -5490,6 +5494,10 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 #### c. El ladrón en la cruz fue indiscutiblemente salvo sin ser bautizado en  agua, lo cual es otra confirmación de que el **<u>ritual</u>** del bautismo no es necesario para la salvación. Lucas 23:42-43
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/ser-circuncidado.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="4. Confusión: Cree y sé circuncidado"  data-background-color="black" --> 
 
 
 
@@ -5553,6 +5561,10 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/pide-perdon.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="6. Confusión: Cree y pide perdón"  data-background-color="black" --> 
+
+
+
 ### 6. **Confusión: Cree y pide perdón**
 
 
@@ -5570,6 +5582,10 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 #### d. Colosenses 2:13-14 dice, “*Y a vosotros, estando muertos en pecados ...os dio vida juntamente con él, **<u>perdonándoos</u>** todos los pecados, anulando el acta de los decretos que había contra nosotros, que nos era contraria, quitándola de en medio y clavándola en la cruz.*"
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/arrepientete.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="7. Confusión: Arrepiéntete de tus pecados"  data-background-color="black" --> 
 
 
 
@@ -5645,7 +5661,11 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-### 8. **Confusión: Invita a Cristo a tu vida; pide a Jesús que entre en tu corazón **
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/pide-a-jesus.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="8. Confusión: Invita a Cristo a tu vida; pide a Jesús que entre en tu corazón"  data-background-color="black" --> 
+
+
+
+### 8. **Confusión: Invita a Cristo a tu vida; pide a Jesús que entre en tu corazón**
 
 
 
@@ -5674,6 +5694,10 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 ##### 2) Este versículo fue escrito a cristianos de la **<u>iglesia</u>** de Laodicea (Ap. 3:14-22). Osadamente, de todas las personas, estos creyentes habían excluido a Cristo de sus reuniones. Como creyentes, necesitaban reabrirle la puerta de la comunión a Él.
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/dale-tu-vida.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="9. Confusión: Dale tu vida a Dios; dale tu corazón a Jesús; haz un compromiso con Cristo"  data-background-color="black" --> 
 
 
 
@@ -5706,6 +5730,10 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 #### e. De ningún modo acepta Dios **<u>algo</u>** de ti a cambio de la salvación, no importa cuán sincero seas. No hacemos ninguna contribución o pago a cambio de la salvación. De principio a fin, la salvación es un regalo totalmente gratuito, dado a nosotros sólo por la gracia de Dios cuando creemos.
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/confesion-publica.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="10. Confusión: Pasa al frente y haz una profesión pública de fe"  data-background-color="black" --> 
 
 
 
@@ -5765,6 +5793,10 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/haz-una-oracion.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="11. Confusión: Haz la oración del pecador"  data-background-color="black" --> 
+
+
+
 ### 11. **Confusión: Haz la oración del pecador**
 
 
@@ -5778,6 +5810,10 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 #### c. ¿Estamos dando a entender que la oración es mala? **<u>Nunca</u>**. La Biblia insta a los creyentes a orar sin cesar (1 Tes. 5:17) y a orar en todo tiempo (Ef. 6:18), pero la oración no es un requisito para la salvación de los incrédulos. La fe en el evangelio es lo que salva, no ser guiado por alguien para orar una oración.
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/di-si.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="12. Confusión: Simplemente di sí a Jesús"  data-background-color="black" --> 
 
 
 
@@ -5798,6 +5834,10 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 #### d. De hecho, Mateo 7:22-23 habla de personas que fueron muy positivas hacia el Señor y, sin embargo, no fueron salvas. A este tipo de personas, Jesús les dirá, “*  Muchos me **<u>dirán</u>** en aquel día: Señor, Señor, ¿no  profetizamos en tu nombre, y en tu nombre echamos fuera demonios, y en tu nombre hicimos muchos milagros? Y entonces les declararé: Nunca os conocí; apartaos de mí, hacedores de maldad.*"
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/ama-a-dios.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="13. Confusión: Ama a Dios"  data-background-color="black" --> 
 
 
 
@@ -5825,6 +5865,10 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/toma-tu-cruz.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="14. Confusión: Sigue a Jesús; toma tu cruz"  data-background-color="black" --> 
+
+
+
 ### 14. **Confusión: Sigue a Jesús; toma tu cruz**
 
 
@@ -5845,7 +5889,11 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-### 15. **Confusión: Haz a Cristo Señor de tu vida; sométete al señorío de Jesús.**
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/confesion-publica.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="15. Confusión: Haz a Cristo Señor de tu vida; sométete al señorío de Jesús"  data-background-color="black" --> 
+
+
+
+### 15. **Confusión: Haz a Cristo Señor de tu vida; sométete al señorío de Jesús**
 
 
 
@@ -5889,6 +5937,10 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/solo-ten-fe.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="16. Confusión: Sólo ten fe"  data-background-color="black" --> 
+
+
+
 ### 16. **Confusión: Sólo ten fe**
 
 
@@ -5909,6 +5961,10 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/manten-la-fe.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="17. Confusión: Mantén la fe"  data-background-color="black" --> 
+
+
+
 ### 17. **Confusión: Mantén la fe**
 
 
@@ -5926,6 +5982,10 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 #### d. Este error se reduce a confiar en tu propia **<u>fe</u>** en lugar de en la obra terminada de Cristo para la salvación.
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/evangelio-sin-cruz.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="18. Confusión: El evangelio sin cruz;"  data-background-color="black" --> 
 
 
 
@@ -5965,7 +6025,11 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-##### 3) Pablo predicaba la resurrección a los no son salvos. Hechos 17:32 – “*Pero cuando oyeron lo de la resurrección de los muertos, unos se  **<u>burlaban</u>,…*”* * .
+##### 3) Pablo predicaba la resurrección a los no son salvos. Hechos 17:32 – “*Pero cuando oyeron lo de la resurrección de los muertos, unos se  **<u>burlaban</u>**,…*” .
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/lo-que-no-es.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="H. Resumiendo lo que el evangelio no es"  data-background-color="black" --> 
 
 
 
@@ -6048,6 +6112,10 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/cuidado-comprometerse.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="I. Cuídate de predicar cualquier otro evangelio"  data-background-color="black" --> 
+
+
+
 ## I. Cuídate de predicar cualquier otro evangelio. Gálatas 1:6-9
 
 
@@ -6108,7 +6176,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-## K. Cristo nos llama a compartir un evangelio claro en todo lugar.
+## K. Cristo nos llama a compartir un evangelio claro en todo lugar. <i class="fas fa-bullhorn"></i>
 
 
 
@@ -6125,6 +6193,10 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 ### 4. Debido a que es una cuestión de vida o muerte, asegurémonos de ser exactos y **<u>precisos</u>** al enseñar a otros la buena nueva de que Cristo murió por sus pecados y resucitó al tercer día.
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/seguros-por-siempre.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="5. Confusión: Cree y confiesa tus pecados"  data-background-color="black" --> 
 
 
 
@@ -6180,7 +6252,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-## **B.  Eternamente seguros**
+## B.  Eternamente seguros
 
 
 
@@ -6818,6 +6890,10 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/cinco-personas.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="XIII. Cinco Personas que Debes Conocer"  data-background-color="black" --> 
+
+
+
 # XIII. Cinco Personas que Debes Conocer <!-- .element: class="r-fit-text" -->
 
 
@@ -7114,6 +7190,10 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/tiene-precio.jpg" data-auto-animate="" data-background-size="80%" data-menu-title="XIV. Resultados de Vivir una Vida Carnal"  data-background-color="black" --> 
+
+
+
 # XIV. Resultados de Vivir una Vida Carnal. ¿Qué está en juego? <!-- .element: class="r-fit-text" -->
 
 
@@ -7246,6 +7326,6 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="70%" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="80%" data-background-color="white" --> 
 
  
