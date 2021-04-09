@@ -3996,7 +3996,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-### 2. Romanos 7:24b – "*…¿quién me librará de este cuerpo de muerte?*"  Pablo estaba haciendo la pregunta correcta cuando preguntó **quién** lo liberaría en lugar de **qué** lo libraría. La libertad que buscaba se encontraba en una **<u>persona</u>** y no en un método. 1 Corintios 1:30
+### 2. Romanos 7:24b – *…¿quién me librará de este cuerpo de muerte?*  Pablo estaba haciendo la pregunta correcta cuando preguntó **quién** lo liberaría en lugar de **qué** lo libraría. La libertad que buscaba se encontraba en una **<u>persona</u>** y no en un método. 1 Corintios 1:30
 
 
 
