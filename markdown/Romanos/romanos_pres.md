@@ -331,6 +331,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/ship.png" data-background-size="400px" data-background-position="right" data-background-opacity="0.5"-->
 #### c. Los planes de viaje y ministerio de Pablo descritos en Hechos coinciden con los **<u>planes</u>** expresados en Romanos. Hechos 19:21; Romanos 1:10-13, 15; 15:22-32 
 
 
@@ -418,11 +419,13 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/scroll.png" data-background-size="300px" data-background-position="left" data-background-opacity="0.5"-->
 ### 3. Al final del libro, Pablo saludó específicamente a 28 personas por su **<u>nombre</u>**, junto con varios grupos de personas. 
 
 
 
-## F. Tema y esquema para el libro de Romanos  <i class="fas fa-book-open"></i>
+ <i class="fas fa-book-open"></i>
+## F. Tema y esquema para el libro de Romanos 
 
 
 
@@ -434,14 +437,17 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
+<i class="fas fa-balance-scale"></i>
 #### a. Justificación: Esta es la provisión de Dios de una **<u>posición</u>** justa delante de Él para todos los que creen. En los escritos de Pablo, ser justificado significa ser declarado legalmente justo por Dios, el Juez supremo del cielo. Romanos 3:21-5:11 
 
 
 
+<i class="fas fa-walking"></i>
 #### b. Santificación: Este es el trabajo progresivo del Espíritu Santo en la vida de un creyente, haciéndole más y más justo en la conducta **<u>diaria</u>**. Romanos 5:12-8:17 
 
 
 
+<i class="fas fa-cloud-upload-alt"></i>
 #### c. Glorificación: Esta es la finalización de la obra de Dios en la vida del creyente. Esto sucederá en el rapto cuando el creyente sea hecho **<u>completamente</u>** justo. Romanos 8:18-39, 1 Corintios 15:50-57, Filipenses 1:6 
 
 
@@ -546,7 +552,8 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-## A. Romanos 1:1–7 – Un ministerio para el mundo <i class="fas fa-globe-americas"></i>
+<i class="fas fa-globe-americas"></i>
+## A. Romanos 1:1–7 – Un ministerio para el mundo 
 
 
 
