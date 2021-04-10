@@ -2189,7 +2189,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### b.	Romanos 4:2a – “*Porque si Abraham fue justificado por las obras, tiene de qué gloriarse,…*” Ya que esta declaración de “si” es una condición de primera clase en el griego bíblico, podría ser traducido: “*Puesto que Abraham fue justificado por las obras, y asumamos que fue, él tenía algo de qué **<u>jactarse</u>** *”.
+#### b.	Romanos 4:2a – “*Porque si Abraham fue justificado por las obras, tiene de qué gloriarse,…*” Ya que esta declaración de “si” es una condición de primera clase en el griego bíblico, podría ser traducido:  “*Puesto que Abraham fue justificado por las obras, y asumamos que fue, él tenía algo de qué **<u>jactarse</u>** .*”
 
 
 
@@ -2510,6 +2510,86 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 <!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom5.1-11.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="Romanos 5:1-11 - Las bendiciones inmerecidas de la justificación por fe"  data-background-color="black" --> 
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.001.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.002.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.003.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" -->
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.004.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.005.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" -->
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.006.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" -->
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.007.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" -->
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.008.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.009.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.010.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.011.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.012.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.013.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.014.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.015.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.016.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.017.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" -->
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.018.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" -->
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3_tiempos.019.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3_tiempos.020.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
 
 
 
@@ -2921,6 +3001,86 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.001.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.002.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.003.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" -->
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.004.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.005.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" -->
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.006.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" -->
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.007.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" -->
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.008.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.009.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.010.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.011.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.012.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.013.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.014.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.015.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.016.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.017.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" -->
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.018.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" -->
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3_tiempos.019.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3_tiempos.020.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
+
+
+
 <!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="contain"  data-background-color="white" --> 
 
 
@@ -3025,12 +3185,18 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 ##### 1) _________ No peques porque el pecado te lastima.
-##### 2) _________ No peques porque el pecado lastima a los que amas.  <!-- .element: class="fragment" -->
-##### 3) _________ No peques porque el pecado ofende a Dios. <!-- .element: class="fragment" -->
-##### 4) _________ No peques porque el pecado te hace perder gozo o recompensas.  <!-- .element: class="fragment" -->
-##### 5) _________ No peques porque el pecado es sumisión al diablo y al mundo.  <!-- .element: class="fragment" -->
-##### 6) _________ No peques porque el pecado traerá la disciplina de Dios.  <!-- .element: class="fragment" -->
-##### 7) _________ No peques porque el pecado quebranta la ley.  <!-- .element: class="fragment" -->
+##### 2) _________ No peques porque el pecado lastima a los que amas.  
+<!-- .element: class="fragment" -->
+##### 3) _________ No peques porque el pecado ofende a Dios. 
+<!-- .element: class="fragment" -->
+##### 4) _________ No peques porque el pecado te hace perder gozo o recompensas.  
+<!-- .element: class="fragment" -->
+##### 5) _________ No peques porque el pecado es sumisión al diablo y al mundo.  
+<!-- .element: class="fragment" -->
+##### 6) _________ No peques porque el pecado traerá la disciplina de Dios.  
+<!-- .element: class="fragment" -->
+##### 7) _________ No peques porque el pecado quebranta la ley.  
+<!-- .element: class="fragment" -->
 
 
 
@@ -3783,6 +3949,42 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/ley-matrimonio/ley-matrimonio.001.jpeg"  data-background-size="contain"  data-background-color="black" data-auto-animate="" --> 
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/ley-matrimonio/ley-matrimonio.002.jpeg"  data-background-size="contain"  data-background-color="black" data-auto-animate="" --> 
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/ley-matrimonio/ley-matrimonio.003.jpeg"  data-background-size="contain"  data-background-color="black" data-auto-animate="" --> 
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/ley-matrimonio/ley-matrimonio.004.jpeg"  data-background-size="contain"  data-background-color="black" data-auto-animate="" --> 
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/ley-matrimonio/ley-matrimonio.005.jpeg"  data-background-size="contain"  data-background-color="black" data-auto-animate="" --> 
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/ley-matrimonio/ley-matrimonio.006.jpeg"  data-background-size="contain"  data-background-color="black" data-auto-animate="" --> 
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/ley-matrimonio/ley-matrimonio.007.jpeg"  data-background-size="contain"  data-background-color="black" data-auto-animate="" --> 
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/ley-matrimonio/ley-matrimonio.008.jpeg"  data-background-size="contain"  data-background-color="black" data-auto-animate="" --> 
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/ley-matrimonio/ley-matrimonio.009.jpeg"  data-background-size="contain"  data-background-color="black" data-auto-animate="" --> 
+
+
+
 ### 3. Romanos 7:4 – Comprender esta enseñanza puede **<u>salvarte</u>** de una vida de legalismo. Puede liberarte de la inútil frustración de tratar de guardar los Diez Mandamientos o intentar seguir otras listas de qué se debe y no se debe hacer.
 
 
@@ -3807,7 +4009,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### b. Romanos 7:4b – *“…para que seáis de **<u>otro</u>**, del que resucitó de los muertos,…*” Cuando moriste con Cristo, la ley perdió su autoridad sobre ti y fuiste liberado *para que seáis de otro*. Ahora estás unido a Jesucristo, quien no es un capataz cruel como la Ley, sino un colaborador misericordioso.
+#### b. Romanos 7:4b – “*…para que seáis de **<u>otro</u>**, del que resucitó de los muertos,…*” Cuando moriste con Cristo, la ley perdió su autoridad sobre ti y fuiste liberado *para que seáis de otro*. Ahora estás unido a Jesucristo, quien no es un capataz cruel como la Ley, sino un colaborador misericordioso.
 
 
 
@@ -3875,19 +4077,19 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### a. *“¿Qué diremos, pues? ¿La ley es pecado?...” *Esencialmente, la pregunta que Pablo formuló fue esta: “¿Es la ley la de alguna manera **<u>culpable</u>** de mis acciones pecaminosas?”
+#### a. “*¿Qué diremos, pues? ¿La ley es pecado?...*” Esencialmente, la pregunta que Pablo formuló fue esta: “¿Es la ley la de alguna manera **<u>culpable</u>** de mis acciones pecaminosas?”
 
 
 
-#### b. *“…En ninguna manera. …” *La respuesta de Pablo fue: “¡Ni pensarlo!” La ley no es pecaminosa. La ley es **<u>perfecta</u>**, porque su autor es perfecto.
+#### b. “*…En ninguna manera. …*” La respuesta de Pablo fue: “¡Ni pensarlo!” La ley no es pecaminosa. La ley es **<u>perfecta</u>**, porque su autor es perfecto.
 
 
 
-#### c. *“…Pero yo no conocí el pecado sino por la ley;…*” La ley, en efecto, hizo su **<u>trabajo</u>**; le definió claramente el pecado a Pablo. Fue una excelente maestra. Gálatas 3:19, Romanos 3:19
+#### c. “*…Pero yo no conocí el pecado sino por la ley;…*” La ley, en efecto, hizo su **<u>trabajo</u>**; le definió claramente el pecado a Pablo. Fue una excelente maestra. Gálatas 3:19, Romanos 3:19
 
 
 
-#### d.*“…porque tampoco conociera la codicia, si la ley no dijera: No codiciarás.*” Sin la ley, Pablo no habría sabido que era incorrecto **<u>codiciar</u>**. Romanos 3:19-20
+#### d. “*…porque tampoco conociera la codicia, si la ley no dijera: No codiciarás.*” Sin la ley, Pablo no habría sabido que era incorrecto **<u>codiciar</u>**. Romanos 3:19-20
 
 
 
@@ -4323,6 +4525,86 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.001.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.002.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.003.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" -->
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.004.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.005.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" -->
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.006.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" -->
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.007.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" -->
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.008.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.009.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.010.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.011.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.012.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.013.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.014.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.015.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.016.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.017.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" -->
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.018.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" -->
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3_tiempos.019.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3_tiempos.020.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
+
+
+
 ## C. Romanos 8:5-8 – Características de la mente puesta en la carne y la mente puesta en el Espíritu
 
 
@@ -4632,6 +4914,86 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 <!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom8.18.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="Romanos 8:18-39 - Glorificación"  data-background-color="black" --> 
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.001.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.002.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.003.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" -->
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.004.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.005.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" -->
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.006.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" -->
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.007.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" -->
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.008.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.009.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.010.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.011.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.012.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.013.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.014.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.015.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.016.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.017.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" -->
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.018.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" -->
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3_tiempos.019.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3_tiempos.020.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
 
 
 
