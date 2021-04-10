@@ -281,7 +281,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/colosseum_old.png" data-background-size="500px" data-background-position="right" -->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/colosseum_old.png" data-background-size="500px" data-background-position="right" data-background-opacity="0.5" -->
 ## B. La ciudad de Roma
 
 
@@ -294,27 +294,27 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/aqueduct.png" data-background-size="400px" data-background-position="left" -->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/aqueduct.png" data-background-size="400px" data-background-position="left" data-background-opacity="0.5" -->
 ### 3. El Imperio Romano no solamente construyó canales y **<u>caminos</u>**, también promovió el griego como lengua unificadora. Gálatas 4:4 
 
 
 
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/colosseum-down.png" data-background-size="300px" data-background-position="right" -->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/colosseum-down.png" data-background-size="300px" data-background-position="right" data-background-opacity="0.5" -->
 ### 4. La ciudad era bien conocida por sus imponentes edificios públicos, música refinada y entretenimiento. También era conocida por sus concursos de gladiadores inmortales y peleas de animales brutales, donde tanto hombres como animales a menudo eran obligados a **<u>luchar</u>** hasta la muerte. 
 
 
 
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/roman-centurion.png" data-background-size="300px" data-background-position="left" -->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/roman-centurion.png" data-background-size="300px" data-background-position="left" data-background-opacity="0.5" -->
 ### 5. Roma se jactaba de contar con una prestigiosa unidad militar llamada Guardia Pretoriana. La Guardia Pretoriana era una unidad **<u>élite</u>** de soldados que luego sirvió como guardaespaldas del emperador. Eventualmente, sin embargo, se convirtió en una institución traidora, incluso derrocando emperadores y nombrando sucesores. 
 
 
 
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/claudius.png" data-background-size="300px" data-background-position="left" -->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/claudius.png" data-background-size="300px" data-background-position="left" data-background-opacity="0.5" -->
 ### 6. Aunque Claudio había expulsado a todos los **<u>judíos</u>** que no eran ciudadanos de Roma en el año 50 d. C., hubo muchos judíos con ciudadanía romana que continuaron viviendo en la ciudad. Hechos 18:2 
 
 
 
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/paul.jpeg" data-background-size="400px" data-background-position="right" -->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/paul.jpeg" data-background-size="400px" data-background-position="right" data-background-opacity="0.7"-->
 ## C. Autor, localización y fecha de escritura
 
 
@@ -405,7 +405,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rome.png" data-background-size="300px" data-background-position="bottom" -->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rome.png" data-background-size="300px" data-background-position="bottom" data-background-opacity="0.5" -->
 ## E. Los destinatarios del libro  <i class="fas fa-book-reader"></i>
 
 
