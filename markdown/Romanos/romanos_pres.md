@@ -2073,6 +2073,86 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.001.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.002.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.003.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" -->
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.004.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.005.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" -->
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.006.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" -->
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.007.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" -->
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.008.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.009.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.010.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.011.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.012.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.013.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.014.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.015.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.016.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.017.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" -->
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.018.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" -->
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3_tiempos.019.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
+
+
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3_tiempos.020.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
+
+
+
 <!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom4.1-9.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="Romanos 4:1-25 - Ejemplos del Antiguo Testamento de la justificación por la fe"  data-background-color="black" --> 
 
 
@@ -2133,7 +2213,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-##### 1) Porque Abraham no fue justificado por obras *delante de Dios*. Como observamos en el Antiguo Testamento (Gn. 15:6; Romanos 4:3, 9, 20, 22; Gálatas 3:6), Abraham fue justificado ante Dios por fe muchos años antes del **<u>nacimiento</u>** y el sacrificio de Isaac.
+##### 1) Porque Abraham no fue justificado por obras *delante de Dios*. Como observamos en el Antiguo Testamento (Gn. 15:6; Romanos 4:3, 9, 20, 22; Gálatas 3:6), Abraham fue justificado ante Dios por fe muchos años antes del  **<u>nacimiento</u>**  y el sacrificio de Isaac.
 
 
 
