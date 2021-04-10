@@ -3992,7 +3992,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-### 1. Romanos 7:24a – “*!Miserable de mí!...” *Pablo estaba totalmente exasperado en esta **<u>batalla</u>** con su naturaleza de pecado. Reconoció su propio fracaso e insuficiencia. Él estaba al límite de sí mismo y de sus propios esfuerzos humanos.
+### 1. Romanos 7:24a – “*¡Miserable de mí!...*” Pablo estaba totalmente exasperado en esta **<u>batalla</u>** con su naturaleza de pecado. Reconoció su propio fracaso e insuficiencia. Él estaba al límite de sí mismo y de sus propios esfuerzos humanos.
 
 
 
