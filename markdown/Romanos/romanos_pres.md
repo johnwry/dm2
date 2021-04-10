@@ -2209,11 +2209,11 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### c. Romanos 4:2b –“*Porque si Abraham fue justificado por las obras, tiene de qué gloriarse, pero no para con Dios.*" Basado en sus obras, Abraham podría haberse jactado ante los hombres, pero nunca ante **<u>Dios</u>**. ¿Por qué?
+#### c. Romanos 4:2b –“*Porque si Abraham fue justificado por las obras, tiene de qué gloriarse, pero no para con Dios.*” Basado en sus obras, Abraham podría haberse jactado ante los hombres, pero nunca ante **<u>Dios</u>**. ¿Por qué?
 
 
 
-##### 1) Porque Abraham no fue justificado por obras *delante de Dios*. Como observamos en el Antiguo Testamento (Gn. 15:6; Romanos 4:3, 9, 20, 22; Gálatas 3:6), Abraham fue justificado ante Dios por fe muchos años antes del  **<u>nacimiento</u>**  y el sacrificio de Isaac.
+##### 1) Porque Abraham no fue justificado por obras *delante de Dios*. Como observamos en el Antiguo Testamento (Gn. 15:6; Romanos 4:3, 9, 20, 22; Gálatas 3:6), Abraham fue justificado ante Dios por fe muchos años antes del  **<u> nacimiento </u>**  y el sacrificio de Isaac.
 
 
 
