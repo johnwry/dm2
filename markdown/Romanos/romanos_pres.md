@@ -4000,7 +4000,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### a. Pablo intuyó que necesitaba ser liberado de*este cuerpo de muerte*. No era de su cuerpo **<u>físico</u>** que necesitaba liberación.
+#### a. Pablo intuyó que necesitaba ser liberado de *este cuerpo de muerte*. No era de su cuerpo **<u>físico</u>** que necesitaba liberación.
 
 
 
@@ -4008,11 +4008,11 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-### 3. Romanos 7:25a – La liberación que Pablo buscaba viene a través de Jesucristo nuestro **<u>Señor</u>**. “ *Gracias doy a Dios, por Jesucristo Señor nuestro. …” *Pablo no explicó las dinámicas de esta liberación en este pasaje, solo su confianza que viene a través de Jesucristo. Romanos 8; Gálatas 5:16, 24 (LBLA)
+### 3. Romanos 7:25a – La liberación que Pablo buscaba viene a través de Jesucristo nuestro **<u>Señor</u>**. “ *Gracias doy a Dios, por Jesucristo Señor nuestro. …*” Pablo no explicó las dinámicas de esta liberación en este pasaje, solo su confianza que viene a través de Jesucristo. Romanos 8; Gálatas 5:16, 24 (LBLA)
 
 
 
-### 4. Romanos 7:25b – Resumen de la **<u>batalla</u>**: “*…Así que, yo mismo con la mente sirvo a la ley de Dios, mas con la carne a la ley del pecado.*"
+### 4. Romanos 7:25b – Resumen de la **<u>batalla</u>**: “*…Así que, yo mismo con la mente sirvo a la ley de Dios, mas con la carne a la ley del pecado.*”
 
 
 
@@ -4044,7 +4044,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-### 1. El clamor de Pablo en Romanos 7:24 fue,*“!Miserable de mí! ¿**<u>Quién</u>** me librará de este cuerpo de muerte?*” Y su respuesta en el versículo siguiente fue, “ *Gracias doy a Dios, por Jesucristo Señor nuestro.*"
+### 1. El clamor de Pablo en Romanos 7:24 fue, “*!Miserable de mí! ¿**<u>Quién</u>** me librará de este cuerpo de muerte?*” Y su respuesta en el versículo siguient*e fue, “ *Gracias doy a Dios, por Jesucristo Señor nuestro.*”
 
 
 
@@ -4056,7 +4056,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-### 1. Romanos 8:1a – “*Ahora, pues, ninguna condenación hay para los que están en Cristo Jesús*,…” Ahora que Dios nos identifica con Cristo Jesús, no necesitamos **<u>temer</u>** que seremos eternamente condenados. Romanos 8:33-34
+### 1. Romanos 8:1a – “*Ahora, pues, ninguna condenación hay para los que están en Cristo Jesús,…*” Ahora que Dios nos identifica con Cristo Jesús, no necesitamos **<u>temer</u>** que seremos eternamente condenados. Romanos 8:33-34
 
 
 
