@@ -561,15 +561,15 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### a. Romanos 1:1a – “*Pablo, siervo...*” Antiguamente un   **<u>violento</u>**  perseguidor de la iglesia, Pablo se convirtió al cristianismo por medio de un encuentro milagroso con el Señor Jesucristo. Hechos 9:1-6, 1 Timoteo 1:12-16 
+#### a. Romanos 1:1a –  “*Pablo, siervo...*” Antiguamente un   **<u>violento</u>**  perseguidor de la iglesia, Pablo se convirtió al cristianismo por medio de un encuentro milagroso con el Señor Jesucristo. Hechos 9:1-6, 1 Timoteo 1:12-16 
 
 
 
-#### b. Romanos 1:1b – “*Pablo, siervo* (DOULOS) *de Jesucristo...*” Pablo se refirió a sí mismo como un esclavo. Pocos líderes en el cristianismo moderno se presentan tan humildemente. La norma moderna es dar una larga lista de calificadores y credenciales. Pablo simplemente se consideraba, por encima de todo, un  <u>esclavo</u>   y  *de Jesucristo*.  2 Corintios 12:11
+#### b. Romanos 1:1b –  “*Pablo, siervo* (DOULOS) *de Jesucristo...*” Pablo se refirió a sí mismo como un esclavo. Pocos líderes en el cristianismo moderno se presentan tan humildemente. La norma moderna es dar una larga lista de calificadores y credenciales. Pablo simplemente se consideraba, por encima de todo, un  <u>esclavo</u>   y  *de Jesucristo*.  2 Corintios 12:11
 
 
 
-#### c. Romanos 1:1c – “*…llamado a ser apóstol...*” Aunque la palabra apóstol en su forma más simple significa mensajero, con el advenimiento de la Era de la Iglesia, el término apóstol se convirtió en el  **<u>título</u>**  oficial de los elegidos directamente por Cristo para sentar las bases de la iglesia. Efesios 2:20
+#### c. Romanos 1:1c –  “*…llamado a ser apóstol...*” Aunque la palabra apóstol en su forma más simple significa mensajero, con el advenimiento de la Era de la Iglesia, el término apóstol se convirtió en el  **<u>título</u>**  oficial de los elegidos directamente por Cristo para sentar las bases de la iglesia. Efesios 2:20
 
 
 
@@ -601,7 +601,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### a. Romanos 1:2 –*El evangelio de Dios...”que él había prometido antes por sus profetas en las santas Escrituras,*” (Rom. 15:8). El evangelio, que significa buenas **<u>noticias</u>**, fue la culminación y el cumplimiento de las profecías del Antiguo Testamento. Isaías 52:7, 13‑15, 53:1-12; Lucas 24:25-27
+#### a. Romanos 1:2 – “*El evangelio de Dios...que él había prometido antes por sus profetas en las santas Escrituras,*” (Rom. 15:8). El evangelio, que significa buenas **<u>noticias</u>**, fue la culminación y el cumplimiento de las profecías del Antiguo Testamento. Isaías 52:7, 13‑15, 53:1-12; Lucas 24:25-27
 
 
 
@@ -613,7 +613,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### b. Romanos 1:3a – “*...acerca de su **<u>Hijo</u>** ,...*” El evangelio se refiere a una persona específica, Jesucristo, el Hijo de Dios. Si quitas la identidad bíblica de Jesús del evangelio, no tienes mensaje del evangelio alguno. Entonces, ¿quién era Jesús? Juan 1:14, 8:24; Filipenses 2:5-8; Colosenses 2:9
+#### b. Romanos 1:3a – “*...acerca de su **<u>Hijo</u>**,...*” El evangelio se refiere a una persona específica, Jesucristo, el Hijo de Dios. Si quitas la identidad bíblica de Jesús del evangelio, no tienes mensaje del evangelio alguno. Entonces, ¿quién era Jesús? Juan 1:14, 8:24; Filipenses 2:5-8; Colosenses 2:9
 
 
 
@@ -633,6 +633,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/lamb.png" data-background-size="200px" data-background-position="left" data-background-opacity="0.5"-->
 ###### a) Un animal **<u>jamás</u>** funcionó como un sustituto aceptable para la humanidad. Era necesario un humano justo. Juan 1:29; Hebreos 10:1-4, 11
 
 
