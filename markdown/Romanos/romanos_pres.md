@@ -1001,7 +1001,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 ##### 2) Romanos 1:20b – “*…siendo entendidas por medio de las cosas **<u>hechas</u>**, de modo que no tienen excusa.*”
 
 
-
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/mona-lisa.png" data-background-size="200px" data-background-position="left" data-background-opacity="0.5"-->
 ###### a) Todo el mundo sabe que una hermosa pintura es obra de un gran artista. La literatura bien escrita **<u>refleja</u>** a un autor talentoso, y estructuras magníficas, son levantadas por constructores expertos, arquitectos brillantes e ingenieros habilidosos.
 
 
@@ -1042,7 +1042,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### a. Romanos 1:24a – “* Por lo cual también Dios los entregó a la inmundicia, en las concupiscencias de sus corazones,…” Dios los  **<u>entregó</u>** *significa que Dios dejó de ponerles limitaciones.
+#### a. Romanos 1:24a –  “* Por lo cual también Dios los entregó a la inmundicia, en las concupiscencias de sus corazones,…” Dios los  **<u>entregó</u>** *significa que Dios dejó de ponerles limitaciones.
 
 
 
@@ -1050,27 +1050,27 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### c. Romanos 1:25a – “ *ya que cambiaron la verdad de Dios por la mentira,…*” Estos  pecadores inmorales querían a Dios fuera de sus vidas. Ellos escogieron creer una **<u>mentira</u>** en lugar de la verdad. Romanos 8:13, Santiago 1:15
+#### c. Romanos 1:25a –  “*ya que cambiaron la verdad de Dios por la mentira,…*” Estos  pecadores inmorales querían a Dios fuera de sus vidas. Ellos escogieron creer una **<u>mentira</u>** en lugar de la verdad. Romanos 8:13, Santiago 1:15
 
 
 
-#### d. Romanos 1:25b – “ *…honrando y dando culto a las criaturas antes que al Creador,…*” En lugar de dar **<u>alabanza</u>** al Creador, ellos adoraron los seres que Él creó.
+#### d. Romanos 1:25b – “*…honrando y dando culto a las criaturas antes que al Creador,…*” En lugar de dar **<u>alabanza</u>** al Creador, ellos adoraron los seres que Él creó.
 
 
 
-#### e. Romanos 1:25c – “*… al **<u>Creador</u>**, el cual es bendito por los siglos. Amén* .” Sus acciones insultaron al Dios verdadero, quien solo merece toda la alabanza y admiración para siempre.
+#### e. Romanos 1:25c – “*… al **<u>Creador</u>**, el cual es bendito por los siglos. Amén .*” Sus acciones insultaron al Dios verdadero, quien solo merece toda la alabanza y admiración para siempre.
 
 
 
-#### f. Romanos 1:26a – “ *Por esto Dios los entregó a pasiones vergonzosas;…” *Cuando las personas decidieron a propósito creer una mentira en lugar de la verdad y se rehusaron a reconocer la autoridad de Dios como Creador, Dios les **<u>permitió</u>** hacer las cosas vergonzosas que querían hacer.
+#### f. Romanos 1:26a –  “*Por esto Dios los entregó a pasiones vergonzosas;…*” Cuando las personas decidieron a propósito creer una mentira en lugar de la verdad y se rehusaron a reconocer la autoridad de Dios como Creador, Dios les **<u>permitió</u>** hacer las cosas vergonzosas que querían hacer.
 
 
 
-##### 1) Romanos 1:26b – “*… pues aun sus mujeres cambiaron el uso natural por el que es contra  naturaleza *,” El sexo dentro del matrimonio es *natural* porque fue **<u>diseñado</u>** por Dios. Dios etiqueta la prostitución y otros pecados sexuales como *contra naturaleza*. Hebreos 13:4
+##### 1) Romanos 1:26b – “*… pues aun sus mujeres cambiaron el uso natural por el que es contra  naturaleza, *” El sexo dentro del matrimonio es *natural* porque fue **<u>diseñado</u>** por Dios. Dios etiqueta la prostitución y otros pecados sexuales como *contra naturaleza*. Hebreos 13:4
 
 
 
-##### 2) Romanos 1:27 – "* y de igual modo también los hombres, dejando el uso natural de la  mujer, se encendieron en su lascivia unos con otros, cometiendo hechos  vergonzosos hombres con hombres, y recibiendo en sí mismos la  retribución debida a su **<u>extravío</u>** *s .”
+##### 2) Romanos 1:27 –  "*y de igual modo también los hombres, dejando el uso natural de la  mujer, se encendieron en su lascivia unos con otros, cometiendo hechos  vergonzosos hombres con hombres, y recibiendo en sí mismos la  retribución debida a su **<u>extravío</u>** *s .”
 
 
 
@@ -1086,11 +1086,11 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### a. Romanos 1:28a – “* Y como ellos no aprobaron tener en cuenta a Dios, Dios los entregó a una mente reprobada, ...*” Cuando los pecadores inmorales abandonaban el **<u>verdadero</u>** conocimiento de Dios, se deterioraban intelectualmente.
+#### a. Romanos 1:28a –  “*Y como ellos no aprobaron tener en cuenta a Dios, Dios los entregó a una mente reprobada, ...*” Cuando los pecadores inmorales abandonaban el **<u>verdadero</u>** conocimiento de Dios, se deterioraban intelectualmente.
 
 
 
-#### b. Romanos 1:28b – “ *…para hacer cosas que no **<u>convienen</u>**;*” En la decadencia de sus mentes depravadas, terminaron pecando en formas inapropiadas para cualquier tipo de sociedad. Efesios 4:17-19
+#### b. Romanos 1:28b – “*…para hacer cosas que no **<u>convienen</u>**;*” En la decadencia de sus mentes depravadas, terminaron pecando en formas inapropiadas para cualquier tipo de sociedad. Efesios 4:17-19
 
 
 
@@ -1122,7 +1122,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### d. Romanos 1:32d – *“…sino que también se complacen con los que las practican.*”  Lamentablemente, el                     **<u>pecador</u>**  inmoral incluso llega tan lejos como animar a otros a hacer las cosas que él o ella sabe que merecen la muerte.
+#### d. Romanos 1:32d – “*…sino que también se complacen con los que las practican.*”  Lamentablemente, el                     **<u>pecador</u>**  inmoral incluso llega tan lejos como animar a otros a hacer las cosas que él o ella sabe que merecen la muerte.
 
 
 
@@ -1146,7 +1146,8 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-## B. Romanos 2:1-16 – El juicio de Dios del pecador moral <i class="fas fa-gavel"></i>
+<i class="fas fa-gavel"></i>
+## B. Romanos 2:1-16 – El juicio de Dios del pecador moral 
 
 
 
@@ -1321,7 +1322,8 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-## C. Romanos 2:17-29 – El juicio de Dios sobre el pecador religioso <i class="fas fa-scroll"></i>
+<i class="fas fa-scroll"></i>
+## C. Romanos 2:17-29 – El juicio de Dios sobre el pecador religioso 
 
 
 
@@ -1581,7 +1583,8 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-## E. Romanos 3:9-20 – En conclusión: Todo el mundo es culpable de pecado.   <i class="fas fa-balance-scale-right"></i>
+<i class="fas fa-balance-scale-right"></i>
+## E. Romanos 3:9-20 – En conclusión: Todo el mundo es culpable de pecado.   
 
 
 ### 1. Romanos 3:9 – Pablo concluyó que todas las **<u>personas</u>**, morales, inmorales y religiosas, son pecadores culpables. “*¿Qué, pues? ¿Somos nosotros* [judíos étnicos] *mejores que ellos* [paganos Gentiles] *En ninguna manera; pues ya hemos acusado a judíos y a gentiles, que  todos están bajo pecado.*” Gálatas 3:22
@@ -1692,7 +1695,8 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-## F. Hagamos un viaje por la Escuela del Derecho.  <i class="fas fa-file-contract"></i>
+ <i class="fas fa-file-contract"></i>
+## F. Hagamos un viaje por la Escuela del Derecho. 
 
 
 
@@ -1909,7 +1913,8 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-## A. Romanos 3:21-31 – Pablo explicó cómo Dios justifica a los pecadores <i class="fas fa-cross"></i>
+<i class="fas fa-cross"></i>
+## A. Romanos 3:21-31 – Pablo explicó cómo Dios justifica a los pecadores 
 
 
 
@@ -2841,7 +2846,8 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-## A. 1 Corintios 15:20-22, 45-49 – Dos identidades <i class="fas fa-gift"></i>
+<i class="fas fa-gift"></i>
+## A. 1 Corintios 15:20-22, 45-49 – Dos identidades 
 
 
 
@@ -2869,7 +2875,8 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-## B. Romanos 5:12-15 – Dos linajes <i class="fas fa-grip-lines-vertical"></i>
+<i class="fas fa-grip-lines-vertical"></i>
+## B. Romanos 5:12-15 – Dos linajes 
 
 
 
@@ -2969,7 +2976,8 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-## E. Romanos 5:18-19 – Dos resultados <i class="fas fa-flag-checkered"></i>
+ <i class="fas fa-flag-checkered"></i>
+## E. Romanos 5:18-19 – Dos resultados
 
 
 
@@ -2989,7 +2997,8 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-## F. Romanos 5:20-21 – Dos esferas: la ley frente a la gracia <i class="fas fa-spinner"></i>
+<i class="fas fa-spinner"></i>
+## F. Romanos 5:20-21 – Dos esferas: la ley frente a la gracia 
 
 
 
@@ -3093,11 +3102,12 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-# VI.Romanos 6:1-10 – La Doctrina de la Santificación - Verdad Posicional <!-- .element: class="r-fit-text" -->
+# VI.Romanos 6:1-10 – La Doctrina de la Santificación - Verdad Posicional  <!-- .element: class="r-fit-text" -->
 
 
 
-## A. Romanos 6:1-2 – ¿Por qué no pecar? <i class="fas fa-exclamation-triangle"></i>
+<i class="fas fa-exclamation-triangle"></i>
+## A. Romanos 6:1-2 – ¿Por qué no pecar? 
 
 
 
@@ -3126,9 +3136,12 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 ##### 1) En el capítulo 5:12-21, el pecado como sustantivo aparece **<u>7</u>** veces.
-##### 2) En el capítulo 6, el pecado como sustantivo aparece **<u>16</u>** veces.  <!-- .element: class="fragment" -->
-##### 3) En el capítulo 7, el pecado como sustantivo aparece **<u>16</u>** veces.  <!-- .element: class="fragment" -->
-##### 4) En el capítulo 8:1-10, el pecado como sustantivo aparece **<u>5</u>** veces.  <!-- .element: class="fragment" -->
+##### 2) En el capítulo 6, el pecado como sustantivo aparece **<u>16</u>** veces.  
+<!-- .element: class="fragment" -->
+##### 3) En el capítulo 7, el pecado como sustantivo aparece **<u>16</u>** veces.  
+<!-- .element: class="fragment" -->
+##### 4) En el capítulo 8:1-10, el pecado como sustantivo aparece **<u>5</u>** veces.  
+<!-- .element: class="fragment" -->
 
 
 
@@ -3602,7 +3615,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-### 3. Romanos 6:11b – Tú debes* *considerarte* “…muerto* [ *de cierto*, RVA 1909]* al **<u>pecado</u>***,…” Colosenses 2:20, 3:1-3
+### 3. Romanos 6:11b – Tú debes *considerarte “…muerto* [ *de cierto*, RVA 1909]* al **<u>pecado</u>**,…*” Colosenses 2:20, 3:1-3
 
 
 
@@ -3638,7 +3651,8 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-## B. Romanos 6:12-14 – Presentando tus miembros
+<i class="fas fa-hands"></i>
+## B. Romanos 6:12-14 – Presentando tus miembros  
 
 
 
@@ -3777,6 +3791,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
+<i class="fas fa-walking"></i>
 ## D. Romanos 6:19-23 – La santificación hecha simple
 
 
@@ -3825,7 +3840,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### b. La* vida eterna *no es meramente una vida infinita a poseer, es también una calidad de **<u>vida</u>** a experimentar. Esta es la vida abundante que Cristo prometió. Puedes comenzar a vivir verdaderamente en este mismo momento. Juan 10:10b, Gálatas 2:20, Colosenses 3:3-4, 1 Timoteo 6:12, 2 Timoteo 1:10
+#### b. La *vida eterna* no es meramente una vida infinita a poseer, es también una calidad de **<u>vida</u>** a experimentar. Esta es la vida abundante que Cristo prometió. Puedes comenzar a vivir verdaderamente en este mismo momento. Juan 10:10b, Gálatas 2:20, Colosenses 3:3-4, 1 Timoteo 6:12, 2 Timoteo 1:10
 
 
 
@@ -3921,7 +3936,8 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-## B. Romanos 7:1-6 – Casados con Cristo
+<i class="fas fa-ring"></i>
+## B. Romanos 7:1-6 – Casados con Cristo 
 
 
 
@@ -4077,6 +4093,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
+<i class="fas fa-ring"></i>
 ## C. Romanos 7:7-13 – La vida bajo la Ley
 
 
@@ -4177,6 +4194,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
+<i class="fas fa-tired"></i>
 ## D. Romanos 7:14-23 – Una vida frustrada
 
 
@@ -4289,7 +4307,8 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-## E. Romanos 7:24-25 – El reconocimiento de Pablo de la liberación en Cristo
+<i class="fas fa-unlink"></i>
+## E. Romanos 7:24-25 – El reconocimiento de Pablo de la liberación en Cristo 
 
 
 
@@ -4353,6 +4372,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
+<i class="fas fa-dove"></i>
 ## B. Romanos 8:1-4 – Un nuevo principio para vivir
 
 
@@ -5013,6 +5033,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
+<i class="fas fa-stopwatch"></i>
 ## A. Romanos 8:18 – Esperando ser glorificados
 
 
@@ -5141,6 +5162,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
+<i class="fas fa-check-double"></i>
 ## C. Romanos 8:28-30 – Garantizado ser glorificado
 
 

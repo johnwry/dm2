@@ -35,3 +35,8 @@ Use this to make the font as large as possible to fit in the screen:
 ```html
 class="r-fit-text"
 ```
+
+
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/scroll.png" data-background-size="300px" data-background-position="left" data-background-opacity="0.5"-->
+
+
