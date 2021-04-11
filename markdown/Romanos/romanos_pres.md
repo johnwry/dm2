@@ -7830,6 +7830,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 <!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="contain" data-background-color="white" --> 
 
 
+
 <svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
  <g>
   <title>Layer 1</title>
