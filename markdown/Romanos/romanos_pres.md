@@ -7857,7 +7857,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 <line stroke-linecap="null" stroke-linejoin="null" id="svg_13" y2="53.5" x2="747.07052" y1="53.5" x1="38" opacity="undefined" fill-opacity="null" stroke-opacity="null" stroke-dasharray="null" stroke="#000" fill="none"/>
 <!-- .element: class="fragment" data-fragment-index="10"-->
   <rect stroke="#000" id="svg_14" height="25" width="663" y="365.5" x="61" opacity="undefined" stroke-opacity="null" stroke-dasharray="null" stroke-width="0" fill="#ffd4aa"/>
-<!-- .element: class="fragment" data-fragment-index="11" -->
+<!-- .element: class="fragment" data-fragment-index="8" -->
   <g id="svg_19">
    <path id="svg_18" d="m729.25,96.12891c0.40039,-1.04492 0.625,-2.1875 0.625,-3.37891c0,-5.17578 -4.19922,-9.375 -9.375,-9.375c-1.92383,0 -3.7207,0.58594 -5.20508,1.58203c-2.70508,-4.6875 -7.75391,-7.83203 -13.54492,-7.83203c-8.63281,0 -15.625,6.99219 -15.625,15.625c0,0.26367 0.00977,0.52734 0.01953,0.79102c-5.46875,1.92383 -9.39453,7.13867 -9.39453,13.27148c0,7.76367 6.29883,14.0625 14.0625,14.0625l35.9375,0c6.9043,0 12.5,-5.5957 12.5,-12.5c0,-6.04492 -4.29688,-11.09375 -10,-12.24609zm-14.08203,5.99609l-6.38672,0l0,10.9375c0,0.85938 -0.70313,1.5625 -1.5625,1.5625l-4.6875,0c-0.85938,0 -1.5625,-0.70313 -1.5625,-1.5625l0,-10.9375l-6.38672,0c-1.39648,0 -2.08984,-1.67969 -1.10352,-2.66602l10.29297,-10.29297c0.60547,-0.60547 1.60156,-0.60547 2.20703,0l10.29297,10.29297c0.98633,0.98633 0.2832,2.66602 -1.10352,2.66602z" fill="#bf0000"/>
   </g>
@@ -7878,13 +7878,13 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 <!-- .element: class="fragment" data-fragment-index="11" -->
   <text xml:space="preserve" text-anchor="start" font-family="sans-serif" font-size="24" id="svg_33" y="169.5" x="520" opacity="undefined" fill-opacity="null" stroke-opacity="null" stroke-dasharray="null" stroke-width="0" stroke="#000" fill="#000000">la PRESENCIA</text>
 <!-- .element: class="fragment" data-fragment-index="17" -->
-  <text style="cursor: move;" xml:space="preserve" text-anchor="start" font-family="sans-serif" font-size="16" id="svg_34" y="456.5" x="28" opacity="undefined" fill-opacity="null" stroke-opacity="null" stroke-dasharray="null" stroke-width="0" stroke="#000" fill="#000000">Tito 3:5  nos salvó, no por obras de justicia que nosotros hubiéramos hecho, sino por su misericordia,</text>
+  <text style="cursor: move;" xml:space="preserve" text-anchor="start" font-family="sans-serif" font-size="16" id="svg_34" y="456.5" x="28" opacity="undefined" fill-opacity="null" stroke-opacity="null" stroke-dasharray="null" stroke-width="0" stroke="#000" fill="#000000"> Tito 3:5  nos salvó, no por obras de justicia que nosotros hubiéramos hecho, sino por su misericordia,</text>
 <!-- .element: class="fragment" data-fragment-index="17" -->
   <text xml:space="preserve" text-anchor="start" font-family="sans-serif" font-size="16" id="svg_35" y="495.5" x="27" opacity="undefined" fill-opacity="null" stroke-opacity="null" stroke-dasharray="null" stroke-width="0" stroke="#000" fill="#000000">1Co 1:18  Porque la palabra de la cruz es locura a los que se pierden; pero a los que se salvan,</text>
 <!-- .element: class="fragment" data-fragment-index="17" -->
-  <text xml:space="preserve" text-anchor="start" font-family="sans-serif" font-size="16" id="svg_36" y="519.5" x="30" opacity="undefined" fill-opacity="null" stroke-opacity="null" stroke-dasharray="null" stroke-width="0" stroke="#000" fill="#000000">esto es, a nosotros, es poder de Dios.</text>
+  <text xml:space="preserve" text-anchor="start" font-family="sans-serif" font-size="16" id="svg_36" y="519.5" x="30" opacity="undefined" fill-opacity="null" stroke-opacity="null" stroke-dasharray="null" stroke-width="0" stroke="#000" fill="#000000"> esto es, a nosotros, es poder de Dios.</text>
 <!-- .element: class="fragment" data-fragment-index="18" -->
-  <text font-weight="normal" xml:space="preserve" text-anchor="start" font-family="sans-serif" font-size="16" id="svg_37" y="556.5" x="27" opacity="undefined" fill-opacity="null" stroke-opacity="null" stroke-dasharray="null" stroke-width="0" stroke="#000" fill="#000000">Romanos 5:9  Pues mucho más, estando ya justificados en su sangre, por él seremos salvos de la ira.</text>
+  <text font-weight="normal" xml:space="preserve" text-anchor="start" font-family="sans-serif" font-size="16" id="svg_37" y="556.5" x="27" opacity="undefined" fill-opacity="null" stroke-opacity="null" stroke-dasharray="null" stroke-width="0" stroke="#000" fill="#000000"> Romanos 5:9  Pues mucho más, estando ya justificados en su sangre, por él seremos salvos de la ira.</text>
 <!-- .element: class="fragment" data-fragment-index="19"-->
  </g>
 </svg>
