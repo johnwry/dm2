@@ -7853,7 +7853,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
   <line stroke-linecap="null" stroke-linejoin="null" id="svg_11" y2="87.32398" x2="39" y1="317.5" x1="39" opacity="undefined" fill-opacity="null" stroke-opacity="null" stroke-dasharray="null" stroke="#000" fill="none"/>
 <!-- .element: class="fragment" data-fragment-index="6" -->
   <line stroke="#000" stroke-linecap="null" stroke-linejoin="null" id="svg_12" y2="86.36273" x2="750" y1="419.5" x1="750" opacity="undefined" fill-opacity="null" stroke-opacity="null" stroke-dasharray="null" fill="none"/>
-<!-- .element: class="fragment" data-fragment-index="9" -->
+<!-- .element: class="fragment" data-fragment-index="11" -->
 <line stroke-linecap="null" stroke-linejoin="null" id="svg_13" y2="53.5" x2="747.07052" y1="53.5" x1="38" opacity="undefined" fill-opacity="null" stroke-opacity="null" stroke-dasharray="null" stroke="#000" fill="none"/>
 <!-- .element: class="fragment" data-fragment-index="10"-->
   <rect stroke="#000" id="svg_14" height="25" width="663" y="365.5" x="61" opacity="undefined" stroke-opacity="null" stroke-dasharray="null" stroke-width="0" fill="#ffd4aa"/>
