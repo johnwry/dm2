@@ -7837,7 +7837,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
   <text font-style="normal" font-weight="normal" fill="#000000" stroke-width="0" opacity="undefined" x="239.55779" y="35.5" id="svg_1" font-size="24" font-family="'Anton'" text-anchor="start" xml:space="preserve" tr ansform="matrix(0.875950515270233,0,0,1,49.159233033657074,-4) " stroke="#000">Tres Tiempos de la Salvación</text> 
 <!-- .element: class="fragment" data-fragment-index="1" -->
   <text font-weight="bold" fill="#000000" stroke="#000" stroke-width="0" opacity="undefined" x="116" y="103.5" id="svg_2" font-size="24" font-family="sans-serif" text-anchor="start" xml:space="preserve">Justificación</text>
-<!-- .element: class="fragment" data-fragment-index="2" -->
+<!-- .element: class="fragment" data-fragment-index="3" -->
   <text font-style="normal" font-weight="bold" fill="#000000" stroke="#000" stroke-width="0" opacity="undefined" x="320" y="190.5" id="svg_3" font-size="24" font-family="sans-serif" text-anchor="start" xml:space="preserve">Santificación</text>
 <!-- .element: class="fragment" data-fragment-index="5" -->
   <text font-weight="bold" fill="#000000" stroke="#000" stroke-width="0" opacity="undefined" x="515" y="106.5" id="svg_4" font-size="24" font-family="sans-serif" text-anchor="start" xml:space="preserve">Glorificación</text>
@@ -7849,7 +7849,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 <rect stroke="#000" id="svg_6" height="100" width="18" y="320.5" x="27.5" opacity="undefined" stroke-opacity="null" stroke-dasharray="null" stroke-width="null" fill="#000000"/>
 <rect id="svg_7" height="15" width="55" y="338.5" x="9" opacity="undefined" stroke-opacity="null" stroke-dasharray="null" stroke-width="null" stroke="#000" fill="#000000"/>
   </g>
-<!-- .element: class="fragment" data-fragment-index="3"-->
+<!-- .element: class="fragment" data-fragment-index="2"-->
   <line stroke-linecap="null" stroke-linejoin="null" id="svg_11" y2="87.32398" x2="39" y1="317.5" x1="39" opacity="undefined" fill-opacity="null" stroke-opacity="null" stroke-dasharray="null" stroke="#000" fill="none"/>
 <!-- .element: class="fragment" data-fragment-index="8" -->
   <line stroke="#000" stroke-linecap="null" stroke-linejoin="null" id="svg_12" y2="86.36273" x2="750" y1="419.5" x1="750" opacity="undefined" fill-opacity="null" stroke-opacity="null" stroke-dasharray="null" fill="none"/>
