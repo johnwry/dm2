@@ -533,11 +533,11 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3_tiempos.019.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.019.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" -->
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3_tiempos.020.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.020.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" -->
 
 
 
