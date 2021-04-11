@@ -365,8 +365,8 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-
-## D. El propósito de Pablo para escribir Romanos <i class="fas fa-pen-nib"></i>
+<i class="fas fa-pen-nib"></i>
+## D. El propósito de Pablo para escribir Romanos 
 
 
 
@@ -407,7 +407,8 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 <!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rome.png" data-background-size="300px" data-background-position="bottom" data-background-opacity="0.5" -->
-## E. Los destinatarios del libro  <i class="fas fa-book-reader"></i>
+<i class="fas fa-book-reader"></i>
+## E. Los destinatarios del libro  
 
 
 
@@ -424,7 +425,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
- <i class="fas fa-book-open"></i>
+<i class="fas fa-book-open"></i>
 ## F. Tema y esquema para el libro de Romanos 
 
 
@@ -544,7 +545,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="70%" data-auto-animate="" data-background-color="white" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="contain" data-auto-animate="" data-background-color="white" --> 
 
 
 
