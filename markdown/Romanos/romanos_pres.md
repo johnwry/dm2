@@ -7834,7 +7834,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 <svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
  <g>
 <title>Los Tres Tiempos de la Salvación</title>
-  <text font-style="normal" font-weight="normal" fill="#000000" stroke-width="0" opacity="undefined" x="239.55779" y="35.5" id="svg_1" font-size="24" font-family="'Anton'" text-anchor="start" xml:space="preserve" tr ansform="matrix(0.875950515270233,0,0,1,49.159233033657074,-4) " stroke="#000">Tres Tiempos de la Salvación</text> 
+<text font-style="normal" font-weight="normal" fill="#000000" stroke-width="0" opacity="undefined" x="239.55779" y="35.5" id="svg_1" font-size="24" font-family="'Anton'" text-anchor="start" xml:space="preserve" tr ansform="matrix(0.875950515270233,0,0,1,49.159233033657074,-4) " stroke="#000">Tres Tiempos de la Salvación</text> 
 <!-- .element: class="fragment" data-fragment-index="1" -->
 
 <text font-weight="bold" fill="#000000" stroke="#000" stroke-width="0" opacity="undefined" x="116" y="103.5" id="svg_2" font-size="24" font-family="sans-serif" text-anchor="start" xml:space="preserve">Justificación</text>
@@ -7847,7 +7847,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 <!-- .element: class="fragment" data-fragment-index="4" -->
 
 <line fill="none" stroke="#000" opacity="undefined" x1="26" y1="422.5" x2="750.33418" y2="422.5" id="svg_5" stroke-linejoin="undefined" stroke-linecap="undefined"/>
-<!-- .element: class="fragment" data-fragment-index="2" -->
+<!-- .element: class="fragment" data-fragment-index="6" -->
  
 <g id="svg_8">
 <rect stroke="#000" id="svg_6" height="100" width="18" y="320.5" x="27.5" opacity="undefined" stroke-opacity="null" stroke-dasharray="null" stroke-width="null" fill="#000000"/>
