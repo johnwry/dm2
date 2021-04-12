@@ -7843,14 +7843,14 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 <text font-weight="bold" fill="#000000" stroke="#000" stroke-width="0" opacity="undefined" x="515" y="106.5" id="svg_4" font-size="24" font-family="sans-serif" text-anchor="start" xml:space="preserve">Glorificación</text>
 <!-- .element: class="fragment" data-fragment-index="4" -->
 <line fill="none" stroke="#000" opacity="undefined" x1="26" y1="422.5" x2="750.33418" y2="422.5" id="svg_5" stroke-linejoin="undefined" stroke-linecap="undefined"/>
-<!-- .element: class="fragment" data-fragment-index="3" -->
+<!-- .element: class="fragment" data-fragment-index="2" -->
 <g id="cross-group">
 	<rect stroke="#000" id="svg_6" height="100" width="18" y="320.5" x="27.5" opacity="undefined" stroke-opacity="null" stroke-dasharray="null" stroke-width="null" fill="#000000"/>
 	<rect id="svg_7" height="15" width="55" y="338.5" x="9" opacity="undefined" stroke-opacity="null" stroke-dasharray="null" stroke-width="null" stroke="#000" fill="#000000"/>
 </g>
 <!-- .element: class="fragment" data-fragment-index="2"-->
 <line stroke-linecap="null" stroke-linejoin="null" id="svg_11" y2="87.32398" x2="39" y1="317.5" x1="39" opacity="undefined" fill-opacity="null" stroke-opacity="null" stroke-dasharray="null" stroke="#000" fill="none"/>
-<!-- .element: class="fragment fade-up" data-fragment-index="6"  -->
+<!-- .element: class="fragment-fade-up" data-fragment-index="6"  -->
 <line stroke="#000" stroke-linecap="null" stroke-linejoin="null" id="glorification-line" y2="86.36273" x2="750" y1="419.5" x1="750" opacity="undefined" fill-opacity="null" stroke-opacity="null" stroke-dasharray="null" fill="none"/>
 <!-- .element: class="fragment" data-fragment-index="10" -->
 <line stroke-linecap="null" stroke-linejoin="null" id="svg_13" y2="53.5" x2="747.07052" y1="53.5" x1="38" opacity="undefined" fill-opacity="null" stroke-opacity="null" stroke-dasharray="null" stroke="#000" fill="none"/>
