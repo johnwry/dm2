@@ -1,7 +1,3 @@
-<video data-autoplay data-ignore src="https://www.youtube.com/embed/907tmyHyTxw"></video>
-
-
-
 <!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/cover.png"  data-background-size="contain" data-auto-animate="" data-menu-title="inicio" data-background-color="black" --> 
 <small>
 ROMANOS 1-8  <!-- .element: style="color:white;" -->
