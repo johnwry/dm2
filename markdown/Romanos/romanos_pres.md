@@ -308,7 +308,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
   <!-- .element: class="fragment" data-fragment-index="4" -->
   <g id="svg_17">
    <rect fill="#00bf5f" stroke-width="null" stroke-dasharray="null" stroke-opacity="null" opacity="undefined" x="224" y="206.5" width="377.00002" height="70" id="svg_6" stroke="#000"/>
-   <text fill="none" stroke-width="null" stroke-dasharray="null" stroke-opacity="null" fill-opacity="null" opacity="undefined" x="232.94406" y="245.5" id="svg_12" font-size="23" font-family="sans-serif" text-anchor="start" xml:space="preserve" stroke="#000" font-weight="normal">La Glorificación - Romanos 8:17-39</text>
+   <text fill="none" stroke-width="null" stroke-dasharray="null" stroke-opacity="null" fill-opacity="null" opacity="undefined" x="232.94406" y="245.5" id="svg_12" font-size="23" font-family="sans-serif" text-anchor="start" xml:space="preserve" stroke="#000" font-weight="normal">La Glorificación - "Romanos 8:17-39"</text>
   </g>
   <!-- .element: class="fragment" data-fragment-index="5" -->
   <g id="svg_22" stroke="null">
