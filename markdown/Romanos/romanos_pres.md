@@ -7850,7 +7850,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 </g>
 <!-- .element: class="fragment" data-fragment-index="2"-->
 <line stroke-linecap="null" stroke-linejoin="null" id="svg_11" y2="87.32398" x2="39" y1="317.5" x1="39" opacity="undefined" fill-opacity="null" stroke-opacity="null" stroke-dasharray="null" stroke="#000" fill="none"/>
-<!-- .element: class="fragment-fade-up" data-fragment-index="6"  -->
+<!-- .element: class="fragment fade-up" data-fragment-index="6"  -->
 <line stroke="#000" stroke-linecap="null" stroke-linejoin="null" id="glorification-line" y2="86.36273" x2="750" y1="419.5" x1="750" opacity="undefined" fill-opacity="null" stroke-opacity="null" stroke-dasharray="null" fill="none"/>
 <!-- .element: class="fragment" data-fragment-index="10" -->
 <line stroke-linecap="null" stroke-linejoin="null" id="svg_13" y2="53.5" x2="747.07052" y1="53.5" x1="38" opacity="undefined" fill-opacity="null" stroke-opacity="null" stroke-dasharray="null" stroke="#000" fill="none"/>
