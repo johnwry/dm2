@@ -7879,7 +7879,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 <!-- .element: class="fragment" data-fragment-index="13" -->
 <text style="cursor: move;" xml:space="preserve" text-anchor="start" font-family="sans-serif" font-size="18" id="svg_34" y="456.5" x="28" opacity="undefined" fill-opacity="null" stroke-opacity="null" stroke-dasharray="null" stroke-width="0" stroke="#000" fill="#000000"> Tito 3.5 nos salvó, no por obras de justicia que nosotros hubiéramos hecho, sino por su misericordia,</text>
 <!-- .element: class="fragment" data-fragment-index="8" -->
-<text xml:space="preserve" text-anchor="start" font-family="sans-serif" font-size="18" id="svg_35" y="495.5" x="27" opacity="undefined" fill-opacity="null" stroke-opacity="null" stroke-dasharray="null" stroke-width="0" stroke="#000" fill="#000000"> <um> 1 Corintios 1.18</um>  Porque la palabra de la cruz es locura a los que se pierden; pero a los que se salvan,</text>
+<text xml:space="preserve" text-anchor="start" font-family="sans-serif" font-size="18" id="svg_35" y="495.5" x="27" opacity="undefined" fill-opacity="null" stroke-opacity="null" stroke-dasharray="null" stroke-width="0" stroke="#000" fill="#000000"><h7> 1 Corintios 1.18  Porque la palabra de la cruz es locura a los que se pierden; pero a los que se salvan,</h7></text>
 <!-- .element: class="fragment" data-fragment-index="11" -->
 <text xml:space="preserve" text-anchor="start" font-family="sans-serif" font-size="18" id="svg_36" y="519.5" x="30" opacity="undefined" fill-opacity="null" stroke-opacity="null" stroke-dasharray="null" stroke-width="0" stroke="#000" fill="#000000"> esto es, a nosotros, es poder de Dios.</text>
 <!-- .element: class="fragment" data-fragment-index="11" -->
