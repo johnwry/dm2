@@ -452,7 +452,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 #### c. Glorificación: Esta es la finalización de la obra de Dios en la vida del creyente. Esto sucederá en el rapto cuando el creyente sea hecho **<u>completamente</u>** justo. Romanos 8:18-39, 1 Corintios 15:50-57, Filipenses 1:6 
 
 
-
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/jew.png" data-background-size="300px" data-background-position="left" data-background-opacity="0.5"-->
 ### 3. En los capítulos 9-11 de Romanos, la justicia de Dios es vista en Su fidelidad para con Su pueblo **<u>Israel</u>**. Estos tres capítulos explican el estado pasado, presente y futuro de Israel. 
 
 
