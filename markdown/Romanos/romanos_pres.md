@@ -7846,6 +7846,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 <!-- .element: class="fragment" data-fragment-index="6" -->
 <g id="svg_8">
 <rect stroke="#000" id="svg_6" height="100" width="18" y="320.5" x="27.5" opacity="undefined" stroke-opacity="null" stroke-dasharray="null" stroke-width="null" fill="#000000"/>
+<!-- .element: class="fragment" data-fragment-index="12"-->
 <rect id="svg_7" height="15" width="55" y="338.5" x="9" opacity="undefined" stroke-opacity="null" stroke-dasharray="null" stroke-width="null" stroke="#000" fill="#000000"/>
 </g>
 <!-- .element: class="fragment" data-fragment-index="2"-->
@@ -7868,10 +7869,10 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 <g stroke="null" id="svg_29">
 <path stroke="null" id="walking" d="m398.88888,267.18608c6.29444,0 11.40124,-5.10681 11.40124,-11.40124s-5.10681,-11.40124 -11.40124,-11.40124s-11.40124,5.10681 -11.40124,11.40124s5.10681,11.40124 11.40124,11.40124zm22.44619,35.41511l-5.53435,-2.80281l-2.304,-6.98326c-3.49163,-10.59365 -13.23019,-18.00446 -24.27514,-18.02821c-8.55093,-0.02375 -13.2777,2.39901 -22.16116,5.98565c-5.13056,2.06647 -9.33477,5.98565 -11.80504,10.97369l-1.59142,3.23035c-1.8527,3.75291 -0.35629,8.31341 3.37287,10.18986c3.7054,1.87645 8.21839,0.35629 10.09485,-3.39662l1.59142,-3.23035c0.83134,-1.66268 2.20899,-2.96907 3.91918,-3.6579l6.36569,-2.56528l-3.61039,14.41782c-1.23513,4.94054 0.09501,10.18986 3.53914,13.96652l14.2278,15.53419c1.71019,1.87645 2.92157,4.13295 3.53914,6.57947l4.34672,17.41065c1.02136,4.06169 5.15431,6.55571 9.216,5.53435c4.06169,-1.02136 6.55571,-5.15431 5.53435,-9.216l-5.27307,-21.1398c-0.61757,-2.44652 -1.82895,-4.72676 -3.53914,-6.57947l-10.80743,-11.80504l4.08544,-16.31803l1.30639,3.91918c1.25889,3.82417 3.96668,6.98326 7.52957,8.78846l5.53435,2.80281c3.7054,1.87645 8.21839,0.35629 10.09485,-3.39662c1.82895,-3.72916 0.33254,-8.33716 -3.39662,-10.21361zm-54.36967,33.41989c-0.76008,1.92396 -1.90021,3.6579 -3.37287,5.10681l-11.87629,11.90005c-2.96907,2.96907 -2.96907,7.79085 0,10.75992s7.7671,2.96907 10.73617,0l14.10904,-14.10904c1.44891,-1.44891 2.58903,-3.18285 3.37287,-5.10681l3.2066,-8.02837c-13.13518,-14.32281 -9.19225,-9.92858 -11.25873,-12.75514l-4.91679,12.23258z" fill="#bf0000"/>
 </g>
-
+<!-- .element: class="fragment fade-right" data-fragment-index="10"  -->
 <text xml:space="preserve" text-anchor="start" font-family="sans-serif" font-size="24" id="svg_30" y="147.5" x="72" opacity="undefined" fill-opacity="null" stroke-opacity="null" stroke-dasharray="null" stroke-width="0" stroke="#000" fill="#000000">Salvo de la PENA</text>
 <!-- .element: class="fragment" data-fragment-index="7" -->
-<text xml:space="preserve" text-anchor="start" font-family="sans-serif" font-size="24" id="svg_31" y="222.5" x="302" opacity="undefined" fill-opacity="null" stroke-opacity="null" stroke-dasharray="null" stroke-width="0" stroke="#000" fill="#000000">Salva del PODER</text>
+<text xml:space="preserve" text-anchor="start" font-family="sans-serif" font-size="24" id="svg_31" y="222.5" x="302" opacity="undefined" fill-opacity="null" stroke-opacity="null" stroke-dasharray="null" stroke-width="0" stroke="#000" fill="#000000">Salvo del PODER</text>
 <!-- .element: class="fragment" data-fragment-index="9" -->
 <text xml:space="preserve" text-anchor="start" font-family="sans-serif" font-size="24" id="svg_32" y="138.5" x="519" opacity="undefined" fill-opacity="null" stroke-opacity="null" stroke-dasharray="null" stroke-width="0" stroke="#000" fill="#000000">Salvará de</text>
 <!-- .element: class="fragment" data-fragment-index="11" -->
