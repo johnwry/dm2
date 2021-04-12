@@ -281,6 +281,45 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+
+ <g id="Layer_1">
+  <title>Bosquejo de Romanos 1-8</title>
+  <g id="svg_13">
+   <rect fill="#ffd4aa" stroke="#000" stroke-width="null" stroke-dasharray="null" stroke-opacity="null" opacity="undefined" x="53" y="486.5" width="700" height="70" id="svg_1"/>
+   <text fill="#000000" stroke="#000" stroke-width="0" stroke-dasharray="null" stroke-opacity="null" fill-opacity="null" opacity="undefined" x="241" y="525.5" id="svg_7" font-size="24" font-family="sans-serif" text-anchor="start" xml:space="preserve">Introducción - Romanos 1:1-17</text>
+  </g>
+  <!-- .element: class="fragment" data-fragment-index="1" -->
+  <g id="svg_14">
+   <rect fill="#7f7f7f" stroke-width="null" stroke-dasharray="null" stroke-opacity="null" opacity="undefined" x="103" y="416.5" width="600.00002" height="70" id="svg_2" stroke="#000"/>
+   <text fill="#000000" stroke="#000" stroke-width="0" stroke-dasharray="null" stroke-opacity="null" fill-opacity="null" opacity="undefined" x="167" y="458.5" id="svg_8" font-size="24" font-family="sans-serif" text-anchor="start" xml:space="preserve">La Realidad del Hombre - Romanos 1:18-3:20</text>
+  </g>
+  <!-- .element: class="fragment" data-fragment-index="2" -->
+  <g id="svg_15">
+   <rect fill="#ffaaff" stroke-width="null" stroke-dasharray="null" stroke-opacity="null" opacity="undefined" x="150.00001" y="346.5" width="518.99998" height="70" id="svg_4" stroke="#000"/>
+   <text fill="none" stroke-width="null" stroke-dasharray="null" stroke-opacity="null" fill-opacity="null" opacity="undefined" x="161.44263" y="373.70859" id="svg_9" font-size="24" font-family="sans-serif" text-anchor="start" xml:space="preserve" transform="matrix(1.17384253874377,0,0,1.3178434976513242,-12.311823967745006,-102.89630726056632) " stroke="#000">La Justificación - Romanos 3:21-5:11</text>
+  </g>
+  <!-- .element: class="fragment" data-fragment-index="3" -->
+  <g id="svg_16">
+   <rect fill="#aaffff" stroke-width="null" stroke-dasharray="null" stroke-opacity="null" opacity="undefined" x="186" y="276.5" width="446.99998" height="70" id="svg_5" stroke="#000"/>
+   <text fill="none" stroke="#000" stroke-width="null" stroke-dasharray="null" stroke-opacity="null" fill-opacity="null" opacity="undefined" x="211" y="319.5" id="svg_10" font-size="24" font-family="sans-serif" text-anchor="start" xml:space="preserve">La Santificación - Romanos 5:12-8:17</text>
+  </g>
+  <!-- .element: class="fragment" data-fragment-index="4" -->
+  <g id="svg_17">
+   <rect fill="#00bf5f" stroke-width="null" stroke-dasharray="null" stroke-opacity="null" opacity="undefined" x="224" y="206.5" width="377.00002" height="70" id="svg_6" stroke="#000"/>
+   <text fill="none" stroke-width="null" stroke-dasharray="null" stroke-opacity="null" fill-opacity="null" opacity="undefined" x="232.94406" y="245.5" id="svg_12" font-size="23" font-family="sans-serif" text-anchor="start" xml:space="preserve" stroke="#000" font-weight="normal">La Glorificación - Romanos 8:17-39</text>
+  </g>
+  <!-- .element: class="fragment" data-fragment-index="5" -->
+  <g id="svg_22" stroke="null">
+   <path fill="#aaffaa" d="m430.68058,130.19007l0,16.24455c5.95137,1.40738 11.24148,3.72122 16.78241,5.31943l0,-16.2684c-5.92857,-1.38353 -11.26428,-3.69736 -16.78241,-5.29558zm50.91727,-29.34037c-7.82115,3.79278 -17.44367,7.60941 -26.67855,7.60941c-12.19917,0 -22.30054,-8.30118 -37.66921,-8.30118c-5.70055,0 -10.78543,1.04957 -15.50548,2.86248c0.63846,-1.74134 0.93489,-3.6258 0.82088,-5.62954c-0.41044,-6.77453 -5.72335,-12.21323 -12.22197,-12.49948c-7.2967,-0.3101 -13.29367,5.79651 -13.29367,13.35822c0,4.53225 2.16621,8.53972 5.47252,10.94897l0,92.10015c0,3.17258 2.43983,5.72495 5.47252,5.72495l3.64835,0c3.03269,0 5.47252,-2.55237 5.47252,-5.72495l0,-22.51814c6.45302,-2.88633 14.50219,-5.27173 26.0857,-5.27173c12.22197,0 22.30054,8.30118 37.66921,8.30118c10.99065,0 19.76949,-3.8882 27.93267,-9.75627c1.98379,-1.43124 3.1467,-3.76893 3.1467,-6.29745l0,-57.98898c0.0228,-5.55797 -5.51813,-9.25534 -10.35219,-6.91765l0,0.00001zm-67.69968,61.68635c-5.88296,0.64406 -11.40109,1.95602 -16.78241,3.95976l0,-16.81704c5.97417,-2.21842 10.83104,-3.57809 16.78241,-4.15059l0,17.00788l0,-0.00001zm67.12963,-32.08358c-5.38132,2.33769 -10.55741,4.65152 -16.78241,5.7011l0,16.96017c5.65494,-0.81103 11.72032,-2.81477 16.78241,-6.20203l0,16.81704c-5.72335,3.84049 -11.05906,5.89193 -16.78241,6.46442l0,-17.07944c-6.15659,0.8826 -10.92225,0.35781 -16.78241,-1.33582l0,16.07757c-5.44972,-1.76519 -10.78543,-3.98361 -16.78241,-5.08089l0,-16.33996c-4.49203,-1.04957 -9.30329,-1.62207 -16.78241,-0.90645l0,-16.69777c-5.10769,0.73947 -10.16977,2.4331 -16.78241,4.98548l0,-16.81704c7.57032,-2.91018 11.42389,-4.72308 16.78241,-5.24787l0,17.07944c6.15659,-0.8826 11.03626,-0.3101 16.78241,1.35968l0,-16.07757c5.40412,1.76519 10.76263,3.98361 16.78241,5.08089l0,16.31611c5.40412,1.26426 10.85384,1.64592 16.78241,0.64406l0,-17.151c6.15659,-1.14499 11.92554,-3.24414 16.78241,-5.36714l0,16.81704l0,-0.00002z" id="svg_21" stroke="#7f7f7f"/>
+  </g>
+  <!-- .element: class="fragment" data-fragment-index="5" -->
+ </g>
+</svg>
+
+
+
 <!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/colosseum_old.png" data-background-size="500px" data-background-position="right" data-background-opacity="0.5" -->
 ## B. La ciudad de Roma
 
