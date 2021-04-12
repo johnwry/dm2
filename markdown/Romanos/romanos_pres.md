@@ -465,7 +465,6 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
  <g>
 <title>Los Tres Tiempos de la Salvación</title>
 <text font-style="normal" font-weight="bold" fill="#000000" stroke-width="0" opacity="undefined" x="239.55779" y="35.5" id="svg_1" font-size="24" font-family="'Anton'" text-anchor="start" xml:space="preserve" tr ansform="matrix(0.875950515270233,0,0,1,49.159233033657074,-4) " stroke="#000">Tres Tiempos de la Salvación</text> 
-<!-- .element: class="fragment" data-fragment-index="1" -->
 <text font-weight="bold" fill="#000000" stroke="#000" stroke-width="0" opacity="undefined" x="116" y="103.5" id="svg_2" font-size="24" font-family="sans-serif" text-anchor="start" xml:space="preserve">Justificación</text>
 <!-- .element: class="fragment" data-fragment-index="3" -->
 <text font-style="normal" font-weight="bold" fill="#000000" stroke="#000" stroke-width="0" opacity="undefined" x="320" y="190.5" id="svg_3" font-size="24" font-family="sans-serif" text-anchor="start" xml:space="preserve">Santificación</text>
