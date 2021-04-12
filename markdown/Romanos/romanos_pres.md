@@ -438,7 +438,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<i class="fas fa-balance-scale"></i>
+<i class="fas fa-user-plus"></i>
 #### a. Justificación: Esta es la provisión de Dios de una **<u>posición</u>** justa delante de Él para todos los que creen. En los escritos de Pablo, ser justificado significa ser declarado legalmente justo por Dios, el Juez supremo del cielo. Romanos 3:21-5:11 
 
 
