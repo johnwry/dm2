@@ -5471,7 +5471,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### a.  **<u>Tribulación</u>**  *…nos separará del amor de Cristo?* ¿Qué si enfrentamos infortunio o alguna terrible aflicción? 2 Corintios 4:8-11
+#### a.  **<u>*Tribulación*</u>**  *…nos separará del amor de Cristo?* ¿Qué si enfrentamos infortunio o alguna terrible aflicción? 2 Corintios 4:8-11
 
 
 
