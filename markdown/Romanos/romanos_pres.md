@@ -5475,27 +5475,27 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### b.  **<u>Angustia</u>**  *…nos separará del amor de Cristo?* ¿Qué si sufrimos una calamidad terrible y tenemos que pasar por tiempos malos? 2 Corintios 7:5-6
+#### b.  **<u>*Angustia*</u>**  *…nos separará del amor de Cristo?* ¿Qué si sufrimos una calamidad terrible y tenemos que pasar por tiempos malos? 2 Corintios 7:5-6
 
 
 
-#### c.  **<u>Persecución</u>**  *…nos separará del amor de Cristo?* ¿Qué si somos odiados, cazados, torturados o incluso asesinados? Hechos 8:1
+#### c.  **<u>*Persecución*</u>**  *…nos separará del amor de Cristo?* ¿Qué si somos odiados, cazados, torturados o incluso asesinados? Hechos 8:1
 
 
 
-#### d.  **<u>Hambre</u>**  *…nos separará del amor de Cristo?* ¿Qué si no tenemos suficiente para comer y sufrimos hambre? Hechos 11:28-30
+#### d.  **<u>*Hambre*</u>**  *…nos separará del amor de Cristo?* ¿Qué si no tenemos suficiente para comer y sufrimos hambre? Hechos 11:28-30
 
 
 
-#### e.  **<u>Desnudez</u>**  *…nos separará del amor de Cristo?* ¿Qué si terminamos sin hogar y sufrimos exposición con poca o ninguna ropa? Hebreos 11:37-38
+#### e.  **<u>*Desnudez*</u>**  *…nos separará del amor de Cristo?* ¿Qué si terminamos sin hogar y sufrimos exposición con poca o ninguna ropa? Hebreos 11:37-38
 
 
 
-#### f.  **<u>Peligro</u>**  *…nos separará del amor de Cristo?* ¿Qué si somos amenazados y enfrentamos peligros indecibles? 2 Corintios 11:23-27
+#### f.  **<u>*Peligro*</u>**  *…nos separará del amor de Cristo?* ¿Qué si somos amenazados y enfrentamos peligros indecibles? 2 Corintios 11:23-27
 
 
 
-#### g.  **<u>Espada</u>**  *…nos separará del amor de Cristo?* ¿Qué si somos traicionados y/o sufrimos una muerte violenta? ¿Qué si estamos atrapados en una guerra horrible? Hechos 7:58‑8:2
+#### g.  **<u>*Espada*</u>**  *…nos separará del amor de Cristo?* ¿Qué si somos traicionados y/o sufrimos una muerte violenta? ¿Qué si estamos atrapados en una guerra horrible? Hechos 7:58‑8:2
 
 
 
