@@ -914,15 +914,15 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### b. Romanos 1:17b – “*…por fe y para fe…” *El evangelio afirma que la justicia de Dios es obtenida sólo a través de la **<u>fe</u>**s .
+#### b. Romanos 1:17b – “*…por fe y para fe…*” El evangelio afirma que la justicia de Dios es obtenida sólo a través de la **<u>fe</u>**s .
 
 
 
-##### 1) “*…por fe…” *La justificación, ser salvo de la pena del pecado, es por fe o de la fe. La justicia ante Dios viene en el momento en que un pecador **<u>confía</u>** en Cristo.
+##### 1) “*…por fe…*” La justificación, ser salvo de la pena del pecado, es por fe o de la fe. La justicia ante Dios viene en el momento en que un pecador **<u>confía</u>** en Cristo.
 
 
 
-##### 2) “*…para fe,…” *De igual modo, la santificación, ser salvo del poder del pecado, es a través de la fe, o para fe. A través de la fe continua en Cristo, el creyente continúa **<u>aprendiendo</u>** a vivir rectamente día tras día.  Gálatas 2:20, Filipenses 3:9
+##### 2) “*…para fe,…*” De igual modo, la santificación, ser salvo del poder del pecado, es a través de la fe, o para fe. A través de la fe continua en Cristo, el creyente continúa **<u>aprendiendo</u>** a vivir rectamente día tras día.  Gálatas 2:20, Filipenses 3:9
 
 
 
@@ -5431,7 +5431,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-## D. Romanos 8:31-39 – Glorificación probada y demostrada
+## D. Romanos 8:31-39 – Glorificación probada y demostrada <i class="fas fa-cloud-upload-alt"></i>
 
 
 
@@ -5439,7 +5439,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-### 2. Romanos 8:31b – Pregunta de Pablo # 2: A continuación, Pablo preguntó, “…*Si Dios es por nosotros, ¿quién contra nosotros?*” La respuesta esperada es, por supuesto, “**<u>Nadie</u>**”. Ya que Dios mismo está abogando por nosotros, nadie puede oponerse exitosamente a nosotros.
+### 2. Romanos 8:31b – Pregunta de Pablo # 2: A continuación, Pablo preguntó, “*...Si Dios es por nosotros, ¿quién contra nosotros?*” La respuesta esperada es, por supuesto, “**<u>Nadie</u>**”. Ya que Dios mismo está abogando por nosotros, nadie puede oponerse exitosamente a nosotros.
 
 
 
@@ -5523,7 +5523,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-### 10. Romanos 8:38b – *“de que ni la muerte, ni la vida,…*” Pablo estaba convencido de que ninguna forma de existencia, incluida la muerte o la **<u>vida</u>**, podía separarlo del amor de Dios en Cristo. Romanos 8:35
+### 10. Romanos 8:38b – “*de que ni la muerte, ni la vida,…*” Pablo estaba convencido de que ninguna forma de existencia, incluida la muerte o la **<u>vida</u>**, podía separarlo del amor de Dios en Cristo. Romanos 8:35
 
 
 
@@ -5539,7 +5539,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-### 12. Romanos 8:38d – “ *…ni potestades, ni lo presente, ni lo por venir*,” Ninguna realidad presente o posibilidad futura tiene el **<u>poder</u>** de separarnos del amor de Dios en Cristo. Romanos 8:35
+### 12. Romanos 8:38d – “*…ni potestades, ni lo presente, ni lo por venir,*” Ninguna realidad presente o posibilidad futura tiene el **<u>poder</u>** de separarnos del amor de Dios en Cristo. Romanos 8:35
 
 
 
@@ -5551,7 +5551,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-### 13. Romanos 8:39a – “*ni lo alto, ni lo profundo,…” *Ningún extremo de ubicación en el cosmos, incluidas las alturas o las **<u>profundidades</u>**, pueden separarte del amor de Dios en Cristo.
+### 13. Romanos 8:39a – “*ni lo alto, ni lo profundo,…*” Ningún extremo de ubicación en el cosmos, incluidas las alturas o las **<u>profundidades</u>**, pueden separarte del amor de Dios en Cristo.
 
 
 
@@ -5579,11 +5579,11 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### b. Algunos enseñan erróneamente que puedes separarte del amor de Dios devolviendo Su regalo gratuito de salvación. Pero Romanos 11:29 dice que*irrevocables son los dones y el llamamiento de Dios*. No puedes **<u>devolver</u>** tu ADN espiritual a Dios y volverte nonato. 1 Pedro 1:23
+#### b. Algunos enseñan erróneamente que puedes separarte del amor de Dios devolviendo Su regalo gratuito de salvación. Pero Romanos 11:29 dice que *irrevocables son los dones y el llamamiento de Dios*. No puedes **<u>devolver</u>** tu ADN espiritual a Dios y volverte nonato. 1 Pedro 1:23
 
 
 
-### 15. Romanos 8:39b – “*…del amor de Dios, que es en Cristo Jesús Señor nuestro.” *Debido a tu unión con Cristo, no hay absolutamente **<u>nada</u>** en toda la Creación que pueda hacer que Dios deje de amarte. Él tendría que dejar de amar a Jesús, y Él nunca hará eso.
+### 15. Romanos 8:39b – “*…del amor de Dios, que es en Cristo Jesús Señor nuestro.*” Debido a tu unión con Cristo, no hay absolutamente **<u>nada</u>** en toda la Creación que pueda hacer que Dios deje de amarte. Él tendría que dejar de amar a Jesús, y Él nunca hará eso.
 
 
 
@@ -6921,7 +6921,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### b. Colosenses 2:13 – “*Y a vosotros, estando muertos en pecados y en la incircuncisión de vuestra carne, os dio vida juntamente con él,  **<u>perdonándoos</u>** todos los pecados*,”
+#### b. Colosenses 2:13 – “*Y a vosotros, estando muertos en pecados y en la incircuncisión de vuestra carne, os dio vida juntamente con él,  **<u>perdonándoos</u>** todos los pecados,*”
 
 
 
@@ -6961,7 +6961,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### d. 1 Juan 2:1b-2 –*“…y si alguno hubiere pecado, **<u>abogado</u>** tenemos para con el Padre, a Jesucristo el justo. y él es la propiciación * [pago satisfactorio]* por nuestros pecados; y no solamente por los nuestros, sino también por los de todo el mundo.*” Apocalipsis 12:9-10
+#### d. 1 Juan 2:1b-2 – “*…y si alguno hubiere pecado, **<u>abogado</u>** tenemos para con el Padre, a Jesucristo el justo. y él es la propiciación * [pago satisfactorio]* por nuestros pecados; y no solamente por los nuestros, sino también por los de todo el mundo.*” Apocalipsis 12:9-10
 
 
 
@@ -6973,7 +6973,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-### 16. Un argumento de **un** **hecho consumado**: Si pudieras **<u>perder</u>** tu salvación, la obra de Cristo en la cruz no habría sido completada, pero sabemos que ese no es el caso en absoluto. El sacrificio de Cristo fue una obra terminada.
+### 16. Un argumento de **un hecho consumado**: Si pudieras **<u>perder</u>** tu salvación, la obra de Cristo en la cruz no habría sido completada, pero sabemos que ese no es el caso en absoluto. El sacrificio de Cristo fue una obra terminada.
 
 
 
@@ -6981,15 +6981,15 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### b. Hebreos 7:27 –* “que no tiene necesidad cada día, como aquellos sumos sacerdotes, de ofrecer primero sacrificios por sus propios pecados, y luego por los del pueblo; porque esto lo hizo **<u>una vez</u>** para siempre, ofreciéndose a sí mismo .*”
+#### b. Hebreos 7:27 – “*que no tiene necesidad cada día, como aquellos sumos sacerdotes, de ofrecer primero sacrificios por sus propios pecados, y luego por los del pueblo; porque esto lo hizo **<u>una vez</u>** para siempre, ofreciéndose a sí mismo .*”
 
 
 
-#### c. Hebreos 10:10 – “* En esa voluntad somos santificados mediante la ofrenda del cuerpo de Jesucristo hecha una vez para **<u>siempre</u>** * .”
+#### c. Hebreos 10:10 – “* En esa voluntad somos santificados mediante la ofrenda del cuerpo de Jesucristo hecha una vez para **<u>siempre</u>** .*”
 
 
 
-#### d. Hebreos 10:14 –*“porque con una sola ofrenda hizo perfectos para  **<u>siempre</u>** a los santificados * .”
+#### d. Hebreos 10:14 – “*porque con una sola ofrenda hizo perfectos para  **<u>siempre</u>** a los santificados * .”
 
 
 
@@ -7009,7 +7009,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-### 19. Un argumento de **total satisfacción**: Si pudieras perder tu salvación, nuevamente llegarías a estar espiritualmente hambriento y sediento, pero Cristo prometió que nadie que cree en Él volverá a tener **<u>sed</u> **o hambre jamás.
+### 19. Un argumento de **total satisfacción**: Si pudieras perder tu salvación, nuevamente llegarías a estar espiritualmente hambriento y sediento, pero Cristo prometió que nadie que cree en Él volverá a tener **<u>sed</u> ** o hambre jamás.
 
 
 
@@ -7017,7 +7017,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### b. Juan 6:35 – “*Jesús les dijo: Yo soy el pan de vida; el que a mí viene, nunca tendrá hambre; y el que en mí cree, no tendrá sed  **<u>jamás</u>** * .”
+#### b. Juan 6:35 – “*Jesús les dijo: Yo soy el pan de vida; el que a mí viene, nunca tendrá hambre; y el que en mí cree, no tendrá sed  **<u>jamás</u>** .*”
 
 
 
@@ -7029,11 +7029,11 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### b. Juan 6:39a – “* Y esta es la voluntad del Padre, el que me envió: Que de todo lo que me diere, no pierda yo **<u>nada</u>** *,…” Cristo nunca perderá a ninguno de los hijos de Dios.
+#### b. Juan 6:39a – “* Y esta es la voluntad del Padre, el que me envió: Que de todo lo que me diere, no pierda yo **<u>nada</u>**,…*” Cristo nunca perderá a ninguno de los hijos de Dios.
 
 
 
-### 21. Un argumento de **total pertenencia**: Eres completamente bendecido en Cristo, aparte de cualquier mérito personal. Efesios 1:6-7 –*“para alabanza de la gloria de **<u>su</u>** gracia, con la cual nos hizo aceptos en el Amado, en quien tenemos redención por su sangre, el perdón de pecados según las riquezas de su gracia*,”
+### 21. Un argumento de **total pertenencia**: Eres completamente bendecido en Cristo, aparte de cualquier mérito personal. Efesios 1:6-7 – “*para alabanza de la gloria de **<u>su</u>** gracia, con la cual nos hizo aceptos en el Amado, en quien tenemos redención por su sangre, el perdón de pecados según las riquezas de su gracia,*”
 
 
 
@@ -7041,11 +7041,11 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### a. Dios **<u>siempre</u>** cumple sus promesas. Romanos 3:4a dice, “*…sea Dios veraz, y todo hombre mentiroso*;…”
+#### a. Dios **<u>siempre</u>** cumple sus promesas. Romanos 3:4a dice, “*…sea Dios veraz, y todo hombre mentiroso;…*”
 
 
 
-#### b. Juan 10:27-28a – “*Mis ovejas oyen mi voz, y yo las conozco, y me siguen, y yo les doy vida eterna; y no perecerán **<u>jamás</u>** *,…”
+#### b. Juan 10:27-28a – “*Mis ovejas oyen mi voz, y yo las conozco, y me siguen, y yo les doy vida eterna; y no perecerán **<u>jamás</u>**,…*”
 
 
 
@@ -7053,7 +7053,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### a. Cristo te protege en su mano. Juan 10:28b declara, “ *…ni nadie las **<u>arrebatará</u>** de mi mano.*”
+#### a. Cristo te protege en su mano. Juan 10:28b declara,  “*…ni nadie las **<u>arrebatará</u>** de mi mano.*”
 
 
 
@@ -7065,7 +7065,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-### 24. Un argumento de **total amor**: Si pudiéramos perder nuestra salvación, seríamos quitados del amor de Dios, pero Dios prometió que nada puede separarnos de Su amor en Jesucristo. Ni siquiera **<u>tú</u>**, una* cosa creada [te] podrá[s] separar del amor de Dios, que es en Cristo Jesús Señor nuestro*. El poder de Dios no permitirá esto.
+### 24. Un argumento de **total amor**: Si pudiéramos perder nuestra salvación, seríamos quitados del amor de Dios, pero Dios prometió que nada puede separarnos de Su amor en Jesucristo. Ni siquiera **<u>tú</u>**, una *cosa creada [te] podrá[s] separar del amor de Dios, que es en Cristo Jesús Señor nuestro*. El poder de Dios no permitirá esto.
 
 
 
@@ -7077,19 +7077,19 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### c. 1 Pedro 1:5 – “ *que sois guardados por el **<u>poder</u>** de Dios mediante la fe, para alcanzar la salvación que está preparada para ser manifestada en el tiempo postrero.*”
+#### c. 1 Pedro 1:5 – “*que sois guardados por el **<u>poder</u>** de Dios mediante la fe, para alcanzar la salvación que está preparada para ser manifestada en el tiempo postrero.*”
 
 
 
-#### d. Judas 1:24 – “* Y a aquel que es **<u>poderoso</u>** para guardaros sin caída, y presentaros sin mancha delante de su gloria con gran alegría*,”
+#### d. Judas 1:24 – “* Y a aquel que es **<u>poderoso</u>** para guardaros sin caída, y presentaros sin mancha delante de su gloria con gran alegría,*”
 
 
 
-### 25. Un argumento de **total victoria**: Hablando de cristianos débiles en Romanos 14:4, Pablo afirmó, “*¿Tú quién eres, que juzgas al criado ajeno? Para su propio señor está en pie, o cae; pero estará firme, porque  **<u>poderoso</u>** es el Señor para hacerle estar firme* .”
+### 25. Un argumento de **total victoria**: Hablando de cristianos débiles en Romanos 14:4, Pablo afirmó, “*¿Tú quién eres, que juzgas al criado ajeno? Para su propio señor está en pie, o cae; pero estará firme, porque  **<u>poderoso</u>** es el Señor para hacerle estar firme.*”
 
 
 
-#### a. Filipenses 2:13 –*“porque Dios es el que en vosotros produce así el querer como el hacer, por su buena voluntad.*” Aunque a veces puedes **<u>caer</u>**, tú nunca “caerás fuera” de la salvación.
+#### a. Filipenses 2:13 – “*porque Dios es el que en vosotros produce así el querer como el hacer, por su buena voluntad.*” Aunque a veces puedes **<u>caer</u>**, tú nunca “caerás fuera” de la salvación.
 
 
 
@@ -7154,7 +7154,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### a. Romanos 5:1 – “***<u>Justificados</u>*** *, pues, por la fe, tenemos paz para con Dios por medio de nuestro Señor Jesucristo;*”
+#### a. Romanos 5:1 – “* **<u>Justificados</u>**, pues, por la fe, tenemos paz para con Dios por medio de nuestro Señor Jesucristo;*”
 
 
 
@@ -7170,15 +7170,15 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### a. Romanos 8:1 – “*Ahora, pues, ninguna condenación hay para los que están  **<u>en Cristo</u>** Jesús*,…”
+#### a. Romanos 8:1 – “*Ahora, pues, ninguna condenación hay para los que están  **<u>en Cristo</u>** Jesús,…*”
 
 
 
-#### b. Efesios 1:3 – “*Bendito sea el Dios y Padre de nuestro Señor Jesucristo, que nos bendijo con toda bendición espiritual en los lugares celestiales  **<u>en Cristo</u>** *,”
+#### b. Efesios 1:3 – “*Bendito sea el Dios y Padre de nuestro Señor Jesucristo, que nos bendijo con toda bendición espiritual en los lugares celestiales  **<u>en Cristo</u>**, *”
 
 
 
-#### c. Efesios 2:6 –*“y juntamente con él nos resucitó, y asimismo nos hizo sentar en los lugares celestiales **<u>con Cristo</u>** Jesús*,”
+#### c. Efesios 2:6 – “*y juntamente con él nos resucitó, y asimismo nos hizo sentar en los lugares celestiales **<u>con Cristo</u>** Jesús,*”
 
 
 
@@ -7214,7 +7214,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### a. Romanos 6:5 [LBLA] dice, “*Porque si hemos sido **<u>unidos</u> **a Él en la semejanza de su muerte, ciertamente lo seremos también en la semejanza de su resurrección;” * Ya que en la salvación fuimos crucificados con Cristo, un día también viviremos con Él. Gálatas 2:20
+#### a. Romanos 6:5 [LBLA] dice, “*Porque si hemos sido **<u>unidos</u> **a Él en la semejanza de su muerte, ciertamente lo seremos también en la semejanza de su resurrección;*”  Ya que en la salvación fuimos crucificados con Cristo, un día también viviremos con Él. Gálatas 2:20
 
 
 
@@ -7258,11 +7258,11 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### a. 1 Corintios 1:8-9 –*“el cual también os **<u>confirmará</u>** hasta el fin, para que seáis irreprensibles en el día de nuestro Señor Jesucristo. Fiel es Dios, por el cual fuisteis llamados a la comunión con su Hijo Jesucristo nuestro Señor.*”
+#### a. 1 Corintios 1:8-9 – “*el cual también os **<u>confirmará</u>** hasta el fin, para que seáis irreprensibles en el día de nuestro Señor Jesucristo. Fiel es Dios, por el cual fuisteis llamados a la comunión con su Hijo Jesucristo nuestro Señor.*”
 
 
 
-#### b. 2 Corintios 4:14 –*“sabiendo que el que resucitó al Señor Jesús, a nosotros también nos resucitará con Jesús, y nos **<u>presentará</u>** juntamente con vosotros.*”
+#### b. 2 Corintios 4:14 – “*sabiendo que el que resucitó al Señor Jesús, a nosotros también nos resucitará con Jesús, y nos **<u>presentará</u>** juntamente con vosotros.*”
 
 
 
@@ -7310,11 +7310,11 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### a. Filipenses 3:20-21a – “*Mas nuestra ciudadanía está en los **<u>cielos</u>**, de donde también esperamos al Salvador, al Señor Jesucristo; el cual transformará el cuerpo de la humillación nuestra, para que sea semejante al cuerpo de la gloria suya*,…”
+#### a. Filipenses 3:20-21a – “*Mas nuestra ciudadanía está en los **<u>cielos</u>**, de donde también esperamos al Salvador, al Señor Jesucristo; el cual transformará el cuerpo de la humillación nuestra, para que sea semejante al cuerpo de la gloria suya,…*”
 
 
 
-#### b. Colosenses 1:13 –*“el cual nos ha librado de la potestad de las tinieblas, y trasladado al **<u>reino</u>** de su amado Hijo*,”
+#### b. Colosenses 1:13 – “*el cual nos ha librado de la potestad de las tinieblas, y trasladado al **<u>reino</u>** de su amado Hijo,*”
 
 
 
@@ -7322,15 +7322,15 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### a. 2 Corintios 1:22 –*“el cual también nos ha sellado, y nos ha dado las  **<u>arras</u>** del Espíritu en nuestros corazones.*”
+#### a. 2 Corintios 1:22 – “*el cual también nos ha sellado, y nos ha dado las  **<u>arras</u>** del Espíritu en nuestros corazones.*”
 
 
 
-#### b. Efesios 1:14 –*“que es las **<u>arras</u>** de nuestra herencia hasta la redención de la posesión adquirida, para alabanza de su gloria.*”
+#### b. Efesios 1:14 – “*que es las **<u>arras</u>** de nuestra herencia hasta la redención de la posesión adquirida, para alabanza de su gloria.*”
 
 
 
-#### c. 1 Pedro 1:4-5 –*“para una herencia incorruptible, incontaminada e inmarcesible,  **<u>reservada</u>** en los cielos para vosotros, que sois guardados por el poder de Dios mediante la fe, para alcanzar la salvación que está preparada para ser manifestada en el tiempo postrero.*”
+#### c. 1 Pedro 1:4-5 – “*para una herencia incorruptible, incontaminada e inmarcesible,  **<u>reservada</u>** en los cielos para vosotros, que sois guardados por el poder de Dios mediante la fe, para alcanzar la salvación que está preparada para ser manifestada en el tiempo postrero.*”
 
 
 
@@ -7354,7 +7354,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### d. Si la salvación pudiera perderse, ¿qué se podría decir de la declaración de Cristo, “*…Consumado es. …”?* (Juan 19:30) ¿Fue realmente terminada? ¡**<u>Sí</u>**, fue ciertamente terminada!
+#### d. Si la salvación pudiera perderse, ¿qué se podría decir de la declaración de Cristo, “*…Consumado es. …?*” (Juan 19:30) ¿Fue realmente terminada? ¡**<u>Sí</u>**, fue ciertamente terminada!
 
 
 
@@ -7382,7 +7382,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### f. Si pudiéramos perder nuestra salvación, el amor de Cristo sería condicional. La incertidumbre de este tipo es debilitante, pero el amor de Cristo es un motivador. La Biblia dice, “*Porque el amor de Cristo nos constriñe *[o **<u>controla</u>**],…” 2 Corintios 5:14a
+#### f. Si pudiéramos perder nuestra salvación, el amor de Cristo sería condicional. La incertidumbre de este tipo es debilitante, pero el amor de Cristo es un motivador. La Biblia dice, “*Porque el amor de Cristo nos constriñe *[o **<u>controla</u>**]*,…*” 2 Corintios 5:14a
 
 
 
@@ -7438,7 +7438,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### a. Efesios 2:1-2 – “*Y él os dio vida a vosotros, cuando estabais  **<u>muertos</u>** en vuestros delitos y pecados, en los cuales anduvisteis en otro tiempo, siguiendo la corriente de este mundo, conforme al príncipe de la potestad del aire, el espíritu que ahora opera en los hijos de desobediencia*,” 
+#### a. Efesios 2:1-2 – “*Y él os dio vida a vosotros, cuando estabais  **<u>muertos</u>** en vuestros delitos y pecados, en los cuales anduvisteis en otro tiempo, siguiendo la corriente de este mundo, conforme al príncipe de la potestad del aire, el espíritu que ahora opera en los hijos de desobediencia,*” 
 
 
 
@@ -7470,7 +7470,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### b. Afortunadamente, los nuevos creyentes nacen de nuevo con un deseo innato por la Palabra de Dios. 1 Pedro 2:2 dice, “* desead, como niños recién nacidos, la **<u>leche</u>** espiritual no adulterada, para que por ella crezcáis para salvación*,”
+#### b. Afortunadamente, los nuevos creyentes nacen de nuevo con un deseo innato por la Palabra de Dios. 1 Pedro 2:2 dice, “* desead, como niños recién nacidos, la **<u>leche</u>** espiritual no adulterada, para que por ella crezcáis para salvación,*”
 
 
 
@@ -7478,7 +7478,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### a. Efesios 4:14-15 –*“para que ya no seamos **<u>niños</u>** fluctuantes,  llevados por doquiera de todo viento de doctrina, por estratagema de hombres que para engañar emplean con astucia las artimañas del error, sino que siguiendo la verdad en amor, crezcamos en todo en aquel que es la cabeza, esto es, Cristo.*”
+#### a. Efesios 4:14-15 – “*para que ya no seamos **<u>niños</u>** fluctuantes,  llevados por doquiera de todo viento de doctrina, por estratagema de hombres que para engañar emplean con astucia las artimañas del error, sino que siguiendo la verdad en amor, crezcamos en todo en aquel que es la cabeza, esto es, Cristo.*”
 
 
 
@@ -7542,7 +7542,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-##### 4) Efesios 4:20-22 – “*Mas vosotros no habéis **<u>aprendido</u>** así a Cristo, si en verdad le habéis oído, y habéis sido por él enseñados, conforme a la verdad que está en Jesús. En cuanto a la pasada manera de vivir, despojaos del viejo hombre, que está viciado conforme a los deseos engañosos*,”
+##### 4) Efesios 4:20-22 – “*Mas vosotros no habéis **<u>aprendido</u>** así a Cristo, si en verdad le habéis oído, y habéis sido por él enseñados, conforme a la verdad que está en Jesús. En cuanto a la pasada manera de vivir, despojaos del viejo hombre, que está viciado conforme a los deseos engañosos,*”
 
 
 
@@ -7666,7 +7666,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-####  a. 1 Corintios 3:2 – “*Os di a beber leche, y no vianda; porque aún no erais capaces, ni sois capaces todavía*,” Este cristiano continúa bebiendo leche espiritual en lugar de consumir las verdades **<u>sólidas</u>** de la Palabra de Dios, como un cristiano más maduro es capaz de hacer.
+####  a. 1 Corintios 3:2 – “*Os di a beber leche, y no vianda; porque aún no erais capaces, ni sois capaces todavía,*” Este cristiano continúa bebiendo leche espiritual en lugar de consumir las verdades **<u>sólidas</u>** de la Palabra de Dios, como un cristiano más maduro es capaz de hacer.
 
 
 
@@ -7678,7 +7678,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### d. 1 Corintios 3:4 – “*Porque cuando uno dice: Yo soy de Pablo, y otro: Yo soy de Apolos, ¿no sois simplemente **<u>hombres</u>**?  [LBLA] *”  Un creyente carnal es un seguidor de personas más que un seguidor de Cristo.
+#### d. 1 Corintios 3:4 – “*Porque cuando uno dice: Yo soy de Pablo, y otro: Yo soy de Apolos, ¿no sois simplemente **<u>hombres</u>**?*”  [LBLA]   Un creyente carnal es un seguidor de personas más que un seguidor de Cristo.
 
 
 
@@ -7694,7 +7694,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### c. Romanos 8:7a – “ *Por cuanto los designios de la carne son enemistad contra Dios;…*”  Las personas carnales son hostiles hacia Dios. A menudo se quejan de que Dios es distante e indiferente, cuando en realidad su **<u>propia</u>** carnalidad los ha distanciado de Dios.
+#### c. Romanos 8:7a – “*Por cuanto los designios de la carne son enemistad contra Dios;…*”  Las personas carnales son hostiles hacia Dios. A menudo se quejan de que Dios es distante e indiferente, cuando en realidad su **<u>propia</u>** carnalidad los ha distanciado de Dios.
 
 
 
@@ -7702,11 +7702,11 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### e. Romanos 8:8 – “ *y los que viven según la carne no pueden agradar a Dios.*” Tal como los que no son salvos no pueden agradar a Dios, el cristiano carnal tampoco puede **<u>agradar</u>** a Dios.
+#### e. Romanos 8:8 – “*y los que viven según la carne no pueden agradar a Dios.*” Tal como los que no son salvos no pueden agradar a Dios, el cristiano carnal tampoco puede **<u>agradar</u>** a Dios.
 
 
 
-#### f. Romanos 8:12-13 – “Así que, hermanos, deudores somos, no a la carne, para que vivamos conforme a la carne; porque si vivís conforme a la carne, moriréis;…” La persona carnal está a punto de **<u>morir</u>** , ya sea por el mecanismo destructivo que incorpora el pecado, por sufrir las consecuencias del pecado o por disciplina. Romanos 6:23, 8:2
+#### f. Romanos 8:12-13 – “*Así que, hermanos, deudores somos, no a la carne, para que vivamos conforme a la carne; porque si vivís conforme a la carne, moriréis;…*” La persona carnal está a punto de **<u>morir</u>** , ya sea por el mecanismo destructivo que incorpora el pecado, por sufrir las consecuencias del pecado o por disciplina. Romanos 6:23, 8:2
 
 
 
@@ -7734,7 +7734,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-## B. Aunque como cristiano no puedes perder tu salvación, perderás muchas cosas si eliges caminar según la carne en lugar de caminar por el Espíritu Santo. Como podrás ver en las siguientes “pérdidas” que se relacionan a continuación, el ser carnal tiene un alto precio. <i class="fas fa-user-injured"></i>
+## B. Aunque como cristiano no puedes perder tu salvación, perderás muchas cosas si eliges caminar según la carne en lugar de caminar por el Espíritu Santo. Como podrás ver en las siguientes “pérdidas” que se relacionan a continuación, el ser carnal tiene un alto precio. 
 
 
 
@@ -7802,7 +7802,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### b. Un creyente que camina conforme a la carne, se ve y **<u>actúa</u>** exactamente como un incrédulo y se vuelve totalmente ineficaz en su testimonio para el Señor. 2 Pedro 2:2 muestra esto en acción: “*Y muchos seguirán sus disoluciones, por causa de los cuales el camino de la verdad será blasfemado*,” Mateo 5:13-16
+#### b. Un creyente que camina conforme a la carne, se ve y **<u>actúa</u>** exactamente como un incrédulo y se vuelve totalmente ineficaz en su testimonio para el Señor. 2 Pedro 2:2 muestra esto en acción: “*Y muchos seguirán sus disoluciones, por causa de los cuales el camino de la verdad será blasfemado,*” Mateo 5:13-16
 
 
 
@@ -7810,7 +7810,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### a. En aquel día, a Dios le gustaría decirte lo que Mateo 25:23 dice, “*…Bien* **<u>hecho</u>**, *buen siervo y fiel*;…” Pero si caminas por la carne, podrías entrar al cielo sin nada de valor que mostrar por tu vida. 1 Corintios 3:15, 9:24-27; 2 Corintios 5:9-11; 2 Timoteo 4:6-8
+#### a. En aquel día, a Dios le gustaría decirte lo que Mateo 25:23 dice, “*…Bien* **<u>hecho</u>**, *buen siervo y fiel;…*” Pero si caminas por la carne, podrías entrar al cielo sin nada de valor que mostrar por tu vida. 1 Corintios 3:15, 9:24-27; 2 Corintios 5:9-11; 2 Timoteo 4:6-8
 
 
 
@@ -7818,15 +7818,15 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-### 8. Pérdida: **Una conciencia limpia** – Los creyentes carnales **<u>empañan</u>** su propia conciencia. En orgullo y rebeldemente hacen lo que saben que está mal. En rebelión, se alejan de lo que alguna vez creyeron. 1 Timoteo 3:9 – *“que guarden el misterio de la fe con limpia conciencia.*”
+### 8. Pérdida: **Una conciencia limpia** – Los creyentes carnales **<u>empañan</u>** su propia conciencia. En orgullo y rebeldemente hacen lo que saben que está mal. En rebelión, se alejan de lo que alguna vez creyeron. 1 Timoteo 3:9 – “*que guarden el misterio de la fe con limpia conciencia.*”
 
 
 
-#### a. Himeneo y Alejandro son ejemplos de dos personas que sufrieron las consecuencias de alejarse de lo que alguna vez creyeron. No perdieron su salvación, pero 1 Timoteo 1:19-20 muestra cómo, a través de la disciplina de la iglesia, fueron entregados *a **<u>Satanás</u>** para la destrucción de sus cuerpos *(no de sus espíritus)* para que“…aprendan a no blasfemar.*”
+#### a. Himeneo y Alejandro son ejemplos de dos personas que sufrieron las consecuencias de alejarse de lo que alguna vez creyeron. No perdieron su salvación, pero 1 Timoteo 1:19-20 muestra cómo, a través de la disciplina de la iglesia, fueron entregados *a **<u>Satanás</u>** para la destrucción de sus cuerpos *(no de sus espíritus)* para que “*…aprendan a no blasfemar.*”
 
 
 
-#### b. De la misma manera, en 1 Corintios 5 vemos el ejemplo de un creyente quien descaradamente hizo lo que sabía que estaba mal. Pablo le dijo a la iglesia que lo expulsaran de su congregación. Al hacerlo el tal sería *“…**<u>entregado</u>** a Satanás para destrucción de la carne, a fin de que el espíritu sea salvo en el día del Señor Jesús.*” 1 Corintios 5:5
+#### b. De la misma manera, en 1 Corintios 5 vemos el ejemplo de un creyente quien descaradamente hizo lo que sabía que estaba mal. Pablo le dijo a la iglesia que lo expulsaran de su congregación. Al hacerlo el tal sería “*…**<u>entregado</u>** a Satanás para destrucción de la carne, a fin de que el espíritu sea salvo en el día del Señor Jesús.*” 1 Corintios 5:5
 
 
 
@@ -7834,7 +7834,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### a. En Colosenses 2:8, Pablo advirtió, “*Mirad que nadie os **<u>haga</u>** cautivos por medio de su filosofía y vanas sutilezas, según la tradición de los hombres, conforme a los principios elementales del mundo y no según Cristo*. [LBLA]”
+#### a. En Colosenses 2:8, Pablo advirtió, “*Mirad que nadie os **<u>haga</u>** cautivos por medio de su filosofía y vanas sutilezas, según la tradición de los hombres, conforme a los principios elementales del mundo y no según Cristo*”. [LBLA]
 
 
 
