@@ -5579,7 +5579,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### b. Algunos enseñan erróneamente que puedes separarte del amor de Dios devolviendo Su regalo gratuito de salvación. Pero Romanos 11:29 dice que *irrevocables son los dones y el llamamiento de Dios*. No puedes **<u>devolver</u>** tu ADN espiritual a Dios y volverte nonato. 1 Pedro 1:23
+#### b. Algunos enseñan erróneamente que puedes separarte del amor de Dios devolviendo Su regalo gratuito de salvación. Pero Romanos 11:29 dice que *irrevocables son los dones y el llamamiento de Dios.*  No puedes  **<u>devolver</u>** tu ADN espiritual a Dios y volverte nonato. 1 Pedro 1:23
 
 
 
