@@ -7909,7 +7909,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<svg width="900" height="660" xmlns="http://www.w3.org/2000/svg">
+<svg width="1920" height="1080" xmlns="http://www.w3.org/2000/svg">
   <defs
      id="defs2">
     <linearGradient
