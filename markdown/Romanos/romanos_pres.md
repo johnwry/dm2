@@ -144,37 +144,44 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 ### 4. El hecho de que el libro de Romanos abarca prácticamente todas las  **<u>principales</u>** doctrinas de la Era de la Iglesia puede ser la razón por la cual los primeros líderes de la iglesia que organizaron el Nuevo Testamento colocaron Romanos justo después del libro de Hechos. 
 
 
-## Los Tres Tiempos de la Salvación
+
 <svg id="svg6480" class="fullScreen" width="956.26" height="507.22" version="1.1" xmlns="http://www.w3.org/2000/svg">
  <g id="g6453" transform="translate(-8.5,-53)">
   <title id="title6450">Los Tres Tiempos de la Salvación</title>
   <text id="svg_1" x="239.55779" y="35.5" fill="#000000" font-family="Anton" font-size="24px" font-weight="bold" opacity="undefined" stroke-width="0" xml:space="preserve"/>ansform="matrix(0.875950515270233,0,0,1,49.159233033657074,-4) " stroke="#000"&gt;Tres Tiempos de la Salvación
  </g>
+ <!-- .element: class="fragment fade-up" data-fragment-index="1"-->
  <g fill="#000000" font-family="sans-serif" font-size="24px" font-weight="bold" stroke="#000000" stroke-width="0">
   <text id="svg_2" x="143.5" y="50.5" opacity="undefined" xml:space="preserve">Justificación</text>
   <text id="svg_3" x="387.83707" y="157.72472" opacity="undefined" xml:space="preserve">Santificación</text>
   <text id="svg_4" x="622.02252" y="56.971912" opacity="undefined" xml:space="preserve">Glorificación</text>
  </g>
+ <!-- .element: class="fragment fade-up" data-fragment-index="2"-->
  <line id="svg_5" x1="69.213" x2="861.81" y1="366.34" y2="366.34" fill="none" opacity="undefined" stroke="#000" stroke-linecap="undefined" stroke-linejoin="undefined" stroke-width="1.0461"/>
  <g id="cross-group" transform="translate(27.5,-53)" stroke="#000" stroke-opacity="null" stroke-width="null">
   <rect id="svg_6" x="27.5" y="320.5" width="18" height="100" opacity="undefined"/>
   <rect id="svg_7" x="9" y="338.5" width="55" height="15" opacity="undefined"/>
  </g>
+ <!-- .element: class="fragment fade-up" data-fragment-index="3"-->
  <g fill="none" fill-opacity="null" stroke="#000" stroke-linecap="null" stroke-linejoin="null" stroke-opacity="null">
   <line id="svg_11" x1="62.5" x2="62.5" y1="264.5" y2="34.324" opacity="undefined"/>
   <line id="glorification-line" x1="861.58" x2="861.58" y1="365.03" y2="31.891" opacity="undefined"/>
   <line id="svg_13" x1="29.5" x2="738.57" y1=".5" y2=".5" opacity="undefined"/>
  </g>
+ <!-- .element: class="fragment fade-up" data-fragment-index="1"-->
  <rect id="yellow-line" x="85.972" y="337.78" width="765.39" height="25" fill="#ffd4aa" opacity="undefined" stroke="#000" stroke-opacity="null" stroke-width="0"/>
  <g id="svg_19" transform="translate(117.17 -44.013)">
   <path id="up-arrow" d="m729.25 96.129c0.40039-1.0449 0.625-2.1875 0.625-3.3789 0-5.1758-4.1992-9.375-9.375-9.375-1.9238 0-3.7207 0.58594-5.2051 1.582-2.7051-4.6875-7.7539-7.832-13.545-7.832-8.6328 0-15.625 6.9922-15.625 15.625 0 0.26367 0.01 0.52734 0.0195 0.79102-5.4688 1.9238-9.3945 7.1387-9.3945 13.271 0 7.7637 6.2988 14.062 14.062 14.062h35.938c6.9043 0 12.5-5.5957 12.5-12.5 0-6.0449-4.2969-11.094-10-12.246zm-14.082 5.9961h-6.3867v10.938c0 0.85938-0.70313 1.5625-1.5625 1.5625h-4.6875c-0.85938 0-1.5625-0.70313-1.5625-1.5625v-10.938h-6.3867c-1.3965 0-2.0898-1.6797-1.1035-2.666l10.293-10.293c0.60547-0.60547 1.6016-0.60547 2.207 0l10.293 10.293c0.98633 0.98633 0.2832 2.666-1.1035 2.666z" fill="#bf0000"/>
  </g>
+ <!-- .element: class="fragment fade-up" data-fragment-index="5"-->
  <g id="svg_24" transform="translate(30.685 -47.944)">
   <path id="guy-plus" d="m104.69 93.312h-6.25v-6.25c0-0.85938-0.70313-1.5625-1.5625-1.5625h-3.125c-0.85938 0-1.5625 0.70313-1.5625 1.5625v6.25h-6.25c-0.85938 0-1.5625 0.70313-1.5625 1.5625v3.125c0 0.85938 0.70313 1.5625 1.5625 1.5625h6.25v6.25c0 0.85938 0.70313 1.5625 1.5625 1.5625h3.125c0.85938 0 1.5625-0.70313 1.5625-1.5625v-6.25h6.25c0.85938 0 1.5625-0.70313 1.5625-1.5625v-3.125c0-0.85938-0.70313-1.5625-1.5625-1.5625zm-39.062 4.6875c6.9043 0 12.5-5.5957 12.5-12.5s-5.5957-12.5-12.5-12.5-12.5 5.5957-12.5 12.5 5.5957 12.5 12.5 12.5zm8.75 3.125h-1.6309c-2.168 0.99609-4.5801 1.5625-7.1191 1.5625s-4.9414-0.56641-7.1191-1.5625h-1.6309c-7.2461 0-13.125 5.8789-13.125 13.125v4.0625c0 2.5879 2.0996 4.6875 4.6875 4.6875h34.375c2.5879 0 4.6875-2.0996 4.6875-4.6875v-4.0625c0-7.2461-5.8789-13.125-13.125-13.125z" fill="#bf0000"/>
  </g>
+ <!-- .element: class="fragment fade-up" data-fragment-index="6"-->
  <g id="svg_29" transform="translate(78.174 -28.983)" stroke="null">
   <path id="walking" d="m398.89 267.19c6.2944 0 11.401-5.1068 11.401-11.401s-5.1068-11.401-11.401-11.401-11.401 5.1068-11.401 11.401 5.1068 11.401 11.401 11.401zm22.446 35.415-5.5344-2.8028-2.304-6.9833c-3.4916-10.594-13.23-18.004-24.275-18.028-8.5509-0.0237-13.278 2.399-22.161 5.9856-5.1306 2.0665-9.3348 5.9856-11.805 10.974l-1.5914 3.2304c-1.8527 3.7529-0.35629 8.3134 3.3729 10.19 3.7054 1.8764 8.2184 0.35629 10.095-3.3966l1.5914-3.2304c0.83134-1.6627 2.209-2.9691 3.9192-3.6579l6.3657-2.5653-3.6104 14.418c-1.2351 4.9405 0.095 10.19 3.5391 13.967l14.228 15.534c1.7102 1.8764 2.9216 4.133 3.5391 6.5795l4.3467 17.411c1.0214 4.0617 5.1543 6.5557 9.216 5.5344s6.5557-5.1543 5.5344-9.216l-5.2731-21.14c-0.61757-2.4465-1.829-4.7268-3.5391-6.5795l-10.807-11.805 4.0854-16.318 1.3064 3.9192c1.2589 3.8242 3.9667 6.9833 7.5296 8.7885l5.5344 2.8028c3.7054 1.8764 8.2184 0.35629 10.095-3.3966 1.829-3.7292 0.33254-8.3372-3.3966-10.214zm-54.37 33.42c-0.76008 1.924-1.9002 3.6579-3.3729 5.1068l-11.876 11.9c-2.9691 2.9691-2.9691 7.7908 0 10.76s7.7671 2.9691 10.736 0l14.109-14.109c1.4489-1.4489 2.589-3.1828 3.3729-5.1068l3.2066-8.0284c-13.135-14.323-9.1922-9.9286-11.259-12.755z" fill="#bf0000" stroke="null"/>
  </g>
+ <!-- .element: class="fragment fade-up" data-fragment-index="7"-->
  <g fill="#000000" fill-opacity="null" font-family="sans-serif" stroke="#000000" stroke-opacity="null" stroke-width="0">
   <g font-size="24px">
    <text id="svg_30" x="145.21349" y="78.067413" opacity="undefined" xml:space="preserve">Salvo de la PENA</text>
@@ -182,12 +189,15 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
    <text id="svg_32" x="625.28656" y="82.65168" opacity="undefined" xml:space="preserve">Salvará de</text>
    <text id="svg_33" x="626.81464" y="109.65169" opacity="undefined" xml:space="preserve">la PRESENCIA</text>
   </g>
+  <!-- .element: class="fragment fade-up" data-fragment-index="8"-->
   <text id="svg_34" transform="scale(.99084 1.0092)" x="10.33853" y="399.80374" font-size="17.834px" opacity="undefined" xml:space="preserve"><tspan id="tspan6488" font-weight="bold" stroke-width="0"> Tito 3:5</tspan> nos salvó, no por obras de justicia que nosotros hubiéramos hecho, sino por su misericordia,</text>
   <text id="svg_35" transform="scale(.98398 1.0163)" x="8.5241909" y="430.43643" font-size="17.712px" opacity="undefined" xml:space="preserve"><tspan id="tspan6490" font-weight="bold" stroke-width="0"> 1 Corintios 1:18</tspan>  Porque la palabra de la cruz es locura a los que se pierden; pero a los que se salvan,</text>
   <text id="svg_36" x="180.76967" y="457.65167" font-size="18px" opacity="undefined" xml:space="preserve"> esto es, a nosotros, es poder de Dios.</text>
   <text id="svg_37" transform="scale(.99175 1.0083)" x="4.6337385" y="483.04782" font-size="17.852px" opacity="undefined" xml:space="preserve"> <tspan id="tspan6492" font-weight="bold" stroke-width="0"> Romanos 5:9</tspan>  Pues mucho más, estando ya justificados en su sangre, por él seremos salvos de la ira.</text>
  </g>
+ <!-- .element: class="fragment fade-up" data-fragment-index="9"-->
 </svg>
+
 
 
 
