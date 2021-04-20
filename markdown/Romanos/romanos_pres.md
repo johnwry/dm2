@@ -8016,75 +8016,78 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
   <rect transform="translate(231.32 47.625)" x="-49.94" y="25.95" width="65.557" height="11.012" fill="#0ff" stroke-width=".17165"/>
   <text transform="matrix(1.012 0 0 1.1089 162.28 12.413)" x="24.435354" fill="#22b6fa" font-family="sans-serif" font-size="7.9923px" stroke="#000000" stroke-width=".15009" text-align="center" style="line-height:0.85;shape-inside:url(#rect2508-9-2-4-1-1-22);white-space:pre" xml:space="preserve"><tspan x="31.786968" y="62.247852"><tspan fill="#22b6fa" font-size="7.9923px" font-weight="bold" stroke="#000000" stroke-width=".15009">3:21-5:21</tspan></tspan></text>
   </g>
-<!-- .element: class="fragment" data-fragment-index="14"-->
+<!-- .element: class="fragment" data-fragment-index="15"-->
 <g id="block15">
   <rect transform="translate(231.32 47.625)" x="-49.525" y="38.65" width="65.252" height="30.28" fill="#8d5fd3" stroke-width=".28397"/>
   <text transform="matrix(1.012 0 0 1.1089 163.87 27.982)" x="24.435354" fill="#ffffff" font-family="sans-serif" font-size="5.9942px" text-align="center" style="line-height:1.05;shape-inside:url(#rect2508-9-2-4-1-1-31);white-space:pre" xml:space="preserve"><tspan x="26.395881" y="61.423982"><tspan style="shape-inside:url(#rect2508-9-2-4-1-1-31)">La Justificacion </tspan></tspan><tspan x="34.877951" y="67.717923"><tspan style="shape-inside:url(#rect2508-9-2-4-1-1-31)">Explicada </tspan></tspan><tspan x="36.8331" y="74.011865"><tspan style="shape-inside:url(#rect2508-9-2-4-1-1-31)">3:21-31</tspan></tspan></text>
   </g>
-<!-- .element: class="fragment" data-fragment-index="15"-->
+<!-- .element: class="fragment" data-fragment-index="16"-->
 <g id="block16">
   <rect transform="translate(231.32 47.625)" x="-49.2" y="70.118" width="64.868" height="30.553" fill="#8d5fd3" stroke-width=".2844"/>
   <text transform="matrix(1.012 0 0 1.1089 163.24 59.754)" x="24.435354" fill="#ffffff" font-family="sans-serif" font-size="6.6603px" text-align="center" style="line-height:1.05;shape-inside:url(#rect2508-9-2-4-1-1-8);white-space:pre" xml:space="preserve"><tspan x="24.971534" y="61.965019"><tspan style="shape-inside:url(#rect2508-9-2-4-1-1-8)">La Justificacion </tspan></tspan><tspan x="27.911414" y="68.958289"><tspan style="shape-inside:url(#rect2508-9-2-4-1-1-8)">Ejemplificada </tspan></tspan><tspan x="38.688808" y="75.95156"><tspan style="shape-inside:url(#rect2508-9-2-4-1-1-8)">4:1-25</tspan></tspan></text>
   </g>
-<!-- .element: class="fragment" data-fragment-index="16"-->
+<!-- .element: class="fragment" data-fragment-index="17"-->
 <g id="block17">
   <rect transform="translate(231.32 47.625)" x="-49.391" y="102" width="65.104" height="49.467" fill="#8d5fd3" stroke-width=".36254"/>
   <text transform="matrix(1.012 0 0 1.1089 164.51 96.611)" x="24.435354" fill="#ffffff" font-family="sans-serif" font-size="6.6603px" text-align="center" style="line-height:1.15;shape-inside:url(#rect2508-9-2-4-1-1-228);white-space:pre" xml:space="preserve"><tspan x="23.872901" y="62.298032"><tspan style="shape-inside:url(#rect2508-9-2-4-1-1-228)">La Justificacion </tspan></tspan><tspan x="31.78196" y="69.957333"><tspan style="shape-inside:url(#rect2508-9-2-4-1-1-228)">Disfrutada </tspan></tspan><tspan x="37.590175" y="77.616635"><tspan style="shape-inside:url(#rect2508-9-2-4-1-1-228)">5:1-11</tspan></tspan></text>
   </g>
-<!-- .element: class="fragment" data-fragment-index="17"-->
+<!-- .element: class="fragment" data-fragment-index="18"-->
 <g id="block18">
   <rect transform="translate(231.32 47.625)" x="-49.336" y="152.81" width="65.028" height="55.611" fill="#8d5fd3" stroke-width=".38417"/>
   <text transform="matrix(1.012 0 0 1.1089 161.65 144.59)" x="24.435354" fill="#ffffff" font-family="sans-serif" font-size="5.9942px" text-align="center" style="line-height:1.2;shape-inside:url(#rect2508-9-2-4-1-1-4);white-space:pre" xml:space="preserve"><tspan x="22.455237" y="61.873549"><tspan font-weight="bold">La Identificacion</tspan><tspan>: </tspan></tspan><tspan x="29.602654" y="69.066627"><tspan>En Adan Todos </tspan></tspan><tspan x="23.778182" y="76.259704"><tspan>Mueren - En Cristo </tspan></tspan><tspan x="32.910017" y="83.452781"><tspan>Todos Vivien </tspan></tspan><tspan x="24.814294" y="90.645858"><tspan font-style="italic">Romanos 5:11-21</tspan></tspan></text>
   </g>
-<!-- .element: class="fragment" data-fragment-index="18"-->
+<!-- .element: class="fragment" data-fragment-index="19"-->
 <g id="block19">
   <rect transform="translate(231.32 47.625)" x="-49.87" y="6.82" width="65.507" height="17.373" fill="#8d5fd3" stroke-width=".21552"/>
   <rect transform="translate(231.32 47.625)" x="16.807" y="6.7917" width="68.576" height="8.2646" fill="#008000" stroke-width=".15209"/>
   <text transform="matrix(1.012 0 0 1.1089 226.68 -6.9681)" x="24.435354" fill="#ffffff" font-family="sans-serif" font-size="6.6603px" text-align="center" style="line-height:0.85;shape-inside:url(#rect2508-9-2-4-1-1-0);white-space:pre" xml:space="preserve"><tspan x="25.116162" y="61.298993"><tspan font-weight="bold">SANTIFICACION</tspan></tspan></text>
   </g>
-<!-- .element: class="fragment" data-fragment-index="19"-->
+<!-- .element: class="fragment" data-fragment-index="20"-->
 <g id="block20">
   <text transform="translate(-2.8981 1.2076)" fill="#ffffff" font-family="sans-serif" font-size="7.0556px" style="line-height:1.25;shape-inside:url(#rect4398);white-space:pre" xml:space="preserve"><tspan x="185.69727" y="63.171376"><tspan fill="#ffffff" font-size="7.0556px" font-weight="bold">JUSTIFICACION</tspan></tspan></text>
+  </g>
+  <!-- .element: class="fragment" data-fragment-index="14"-->
+  <g id="block20">
   <rect transform="translate(231.32 47.625)" x="16.891" y="16.518" width="68.492" height="8.2813" fill="#ab37c8" stroke-width=".15215"/>
   <text transform="matrix(1.012 0 0 1.1089 228.27 2.7752)" x="24.435354" fill="#ffffff" font-family="sans-serif" font-size="6.6603px" text-align="center" style="line-height:0.85;shape-inside:url(#rect2508-9-2-4-1-1-5);white-space:pre" xml:space="preserve"><tspan x="23.338693" y="61.298993"><tspan font-weight="bold">GLORIFICACION</tspan></tspan></text>
   </g>
-<!-- .element: class="fragment" data-fragment-index="20"-->
+<!-- .element: class="fragment" data-fragment-index="21"-->
 <g id="block21">
   <rect transform="translate(231.32 47.625)" x="17.138" y="26.028" width="68.245" height="10.913" fill="#0ff" stroke-width=".17434"/>
   <text transform="matrix(1.012 0 0 1.1089 231.55 12.835)" x="24.435354" fill="#22b6fa" font-family="sans-serif" font-size="7.9923px" stroke="#000000" stroke-width=".15009" text-align="center" style="line-height:0.85;shape-inside:url(#rect2508-9-2-4-1-1-25);white-space:pre" xml:space="preserve"><tspan x="41.500479" y="62.247852"><tspan fill="#22b6fa" font-family="sans-serif" font-size="7.9923px" font-weight="bold" stroke="#000000" stroke-width=".15009" text-align="center" text-anchor="middle">6-8</tspan></tspan></text>
   </g>
-<!-- .element: class="fragment" data-fragment-index="21"-->
+<!-- .element: class="fragment" data-fragment-index="22"-->
 <g id="block22">
   <rect transform="matrix(.99999 -.0037362 0 1 231.32 47.625)" x="16.954" y="38.663" width="68.655" height="21.737" fill="#00d455" stroke-width=".2468"/>
   <text transform="matrix(1.012 0 0 1.1089 229.96 24.698)" x="24.435354" fill="#ffffff" font-family="sans-serif" font-size="5.9942px" text-align="center" style="line-height:0.95;shape-inside:url(#rect2508-9-2-4-1-1-02);white-space:pre" xml:space="preserve"><tspan x="30.211462" y="61.124271"><tspan font-family="sans-serif" font-size="5.9942px">LA Santificacion </tspan></tspan><tspan x="38.810606" y="66.81879"><tspan font-family="sans-serif" font-size="5.9942px">Explicada 
 </tspan></tspan><tspan x="43.727747" y="72.513309"><tspan font-style="italic">6:1-10</tspan></tspan></text>
 </g>
-<!-- .element: class="fragment" data-fragment-index="22"-->
+<!-- .element: class="fragment" data-fragment-index="23"-->
 <g id="block23">
   <rect transform="translate(231.32 47.625)" x="16.855" y="61.032" width="68.612" height="20.773" fill="#00d455" stroke-width=".24118"/>
   <text transform="matrix(1.012 0 0 1.1089 230.81 46.092)" x="24.435354" fill="#ffffff" font-family="sans-serif" font-size="5.9942px" text-align="center" style="line-height:1.05;shape-inside:url(#rect2508-9-2-4-1-1-03);white-space:pre" xml:space="preserve"><tspan x="28.468298" y="61.423982"><tspan style="shape-inside:url(#rect2508-9-2-4-1-1-03)">La Santificacion </tspan></tspan><tspan x="40.515295" y="67.717923"><tspan style="shape-inside:url(#rect2508-9-2-4-1-1-03)">Practica
 </tspan></tspan><tspan x="40.076264" y="74.011865"><tspan font-style="italic">6:11-23</tspan></tspan></text>
 </g>
-<!-- .element: class="fragment" data-fragment-index="23"-->
+<!-- .element: class="fragment" data-fragment-index="24"-->
 <g id="block24">
   <rect transform="translate(231.32 47.625)" x="17.126" y="83.184" width="68.449" height="20.878" fill="#00d455" stroke-width=".24151"/>
   <text transform="matrix(1.012 0 0 1.1089 227.95 69.71)" x="24.435354" fill="#ffffff" font-family="sans-serif" font-size="5.9942px" text-align="center" style="line-height:0.95;shape-inside:url(#rect2508-9-2-4-1-1-89);white-space:pre" xml:space="preserve"><tspan x="35.428549" y="61.124271"><tspan style="shape-inside:url(#rect2508-9-2-4-1-1-89)">Santificacion </tspan></tspan><tspan x="38.355419" y="66.81879"><tspan style="shape-inside:url(#rect2508-9-2-4-1-1-89)">Reprobada
 </tspan></tspan><tspan x="44.174036" y="72.513309"><tspan font-style="italic">7:1-25</tspan></tspan></text>
 </g>
-<!-- .element: class="fragment" data-fragment-index="24"-->
+<!-- .element: class="fragment" data-fragment-index="25"-->
 <g id="block25">
   <rect transform="translate(231.32 47.625)" x="17.012" y="105.43" width="68.545" height="20.689" fill="#00d455" stroke-width=".24058"/>
   <text transform="matrix(1.012 0 0 1.1089 230.6 91.738)" x="24.435354" fill="#ffffff" font-family="sans-serif" font-size="5.9942px" text-align="center" style="line-height:0.95;shape-inside:url(#rect2508-9-2-4-1-1-45);white-space:pre" xml:space="preserve"><tspan x="29.804975" y="61.124271"><tspan>La Santificacion </tspan></tspan><tspan x="34.511382" y="66.81879"><tspan>Empoderado
 </tspan></tspan><tspan x="40.218778" y="72.513309"><tspan font-style="italic">8:1-17a</tspan><tspan font-style="italic"> </tspan><tspan fill="#ffffff" font-family="sans-serif" font-size="5.9942px" font-weight="bold" text-align="center" text-anchor="middle">
 </tspan></tspan><tspan x="22.240234" y="78.997317" visibility="hidden"><tspan dx="0 3.8166385 2.7278428 3.8166389 2.7278423 3.8166389">8:1-17</tspan></tspan></text>
 </g>
-<!-- .element: class="fragment" data-fragment-index="25"-->
+<!-- .element: class="fragment" data-fragment-index="26"-->
 <g id="block26">
   <rect transform="translate(231.32 47.625)" x="16.959" y="152.67" width="68.933" height="55.99" fill="#ab37c8" stroke-width=".39689"/>
   <text transform="matrix(1.012 0 0 1.1089 235.68 145.86)" x="24.435354" fill="#ffffff" font-family="sans-serif" font-size="10.583px" text-align="center" style="line-height:0.85;shape-inside:url(#rect2508-9-2-4-1-1-37);white-space:pre" xml:space="preserve"><tspan x="24.142192" y="64.093493" font-size="5.9942px"><tspan>El Jubilo: </tspan><tspan>Somos </tspan></tspan><tspan x="36.218457" y="73.089297"><tspan font-size="5.9942px">mas que </tspan></tspan><tspan x="25.956851" y="82.0851"><tspan font-size="5.9942px">vencedores por </tspan></tspan><tspan x="25.359769" y="91.080904"><tspan font-size="5.9942px">medio de Cristo</tspan><tspan fill="#ffffff" font-family="sans-serif" font-size="5.6444px" font-weight="bold" text-align="center" text-anchor="middle">
 </tspan></tspan><tspan x="22.240234" y="103.65795" visibility="hidden"><tspan dx="0 4.420743 3.8805523 5.9751692 3.7703094 4.0238686 3.8805523 3.351387 1.9292526 4.0128441 2.2710037 4.0128441 4.0128441 1.9292526 4.0238686 4.0238686 3.7482605 3.351387 2.5686607 2.8111954 3.8805542 1.9292526 4.0128403" fill="#ffffff" font-family="sans-serif" font-size="5.6444px" font-weight="bold" text-align="center" text-anchor="middle">Romanos 8:37 nuestro Se</tspan></tspan></text>
 </g>
-<!-- .element: class="fragment" data-fragment-index="26"-->
+<!-- .element: class="fragment" data-fragment-index="21"-->
 <g id="block27">
   <rect transform="translate(231.32 47.625)" x="16.997" y="127.39" width="68.545" height="24.115" fill="#ab37c8" stroke-width=".25973"/>
   <text transform="matrix(1.012 0 0 1.1089 230.28 114.4)" x="24.435354" fill="#ffffff" font-family="sans-serif" font-size="5.9942px" text-align="center" style="line-height:1.05;shape-inside:url(#rect2508-9-2-4-1-1-55);white-space:pre" xml:space="preserve"><tspan x="30.334595" y="61.423982"><tspan style="shape-inside:url(#rect2508-9-2-4-1-1-55)">La Glorificacion </tspan></tspan><tspan x="38.008848" y="67.717923"><tspan style="shape-inside:url(#rect2508-9-2-4-1-1-55)">Explicada 
