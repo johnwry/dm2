@@ -7925,9 +7925,9 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
   <g fill="#000000" font-family="sans-serif">
 
    <g font-size="10.583px">
-      <text transform="translate(19.596 -3.877)" style="line-height:1.25;shape-inside:url(#rect558);white-space:pre" xml:space="preserve"><tspan x="125.9375" y="272.97773"><tspan>La Justifica de Dios Revelada 5ta edicion</tspan></tspan></text>
-     </g>
-   <text transform="translate(10.449 -29.436)" font-size="25.4px" style="line-height:1.25;shape-inside:url(#rect2502);white-space:pre" xml:space="preserve"><tspan x="88.103516" y="64.159518"><tspan font-size="25.4px">ROMANOS - el bosquejo</tspan></tspan></text>
+      <text transform="translate(19.596 -3.877)" style="line-height:1.25;shape-inside:url(#rect558);white-space:pre" xml:space="preserve"><tspan x="130.9375" y="272.97773"><tspan>La Justifica de Dios Revelada 5ta edicion</tspan></tspan></text>
+</g>
+   <text transform="translate(10.449 -29.436)" font-size="25.4px" style="line-height:1.25;shape-inside:url(#rect2502);white-space:pre" xml:space="preserve"><tspan x="94.103516" y="64.159518"><tspan font-size="25.4px">ROMANOS - el bosquejo</tspan></tspan></text>
   </g>
 <g id="block1">
   <rect transform="translate(231.32 47.625)" x="-164.09" y="-6.0862" width="55.742" height="30.532" fill="#008000" stroke-width=".2615"/>
