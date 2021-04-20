@@ -8162,12 +8162,12 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
   <rect transform="translate(231.32 47.625)" x="140.94" y="152.81" width="68.946" height="55.816" fill="#f95" stroke-width=".39631"/>
   <text transform="matrix(1.012 0 0 1.1089 352.81 143.63)" x="24.435354" fill="#ffffff" font-family="sans-serif" font-size="6.6603px" text-align="center" style="line-height:1.25;shape-inside:url(#rect2508-9-2-4-1-1-04);white-space:pre" xml:space="preserve"><tspan x="25.203415" y="62.631045"><tspan font-size="6.6603px" font-weight="bold">Saludos Finales</tspan><tspan style="shape-inside:url(#rect2508-9-2-4-1-1-04)"> </tspan></tspan><tspan x="32.741737" y="70.95637"><tspan style="shape-inside:url(#rect2508-9-2-4-1-1-04)">Advertencias </tspan></tspan><tspan x="37.073508" y="79.281695"><tspan style="shape-inside:url(#rect2508-9-2-4-1-1-04)">Especiales </tspan></tspan><tspan x="27.044763" y="87.60702"><tspan font-size="5.9942px" font-style="italic">Romanos 16:1-27</tspan></tspan></text>
   </g>
-<!-- .element: class="fragment" data-fragment-index="39"-->
+<!-- .element: class="fragment" data-fragment-index="40"-->
 <g id="block40">
   <rect transform="translate(231.32 47.625)" x="140.68" y="127.46" width="68.746" height="24.007" fill="#f95" stroke-width=".25953"/>
   <text transform="matrix(1.012 0 0 1.1089 355.46 114.72)" x="24.435354" fill="#ffffff" font-family="sans-serif" font-size="5.9942px" text-align="center" style="line-height:1.05;shape-inside:url(#rect2508-9-2-4-1-1-170);white-space:pre" xml:space="preserve"><tspan x="32.120839" y="61.423982"><tspan style="shape-inside:url(#rect2508-9-2-4-1-1-170)">Sirviendo a </tspan></tspan><tspan x="25.184157" y="67.717923"><tspan style="shape-inside:url(#rect2508-9-2-4-1-1-170)">traves de Cristo </tspan></tspan><tspan x="36.8331" y="74.011865"><tspan font-style="italic">15:1-33</tspan></tspan></text>
   </g>
-<!-- .element: class="fragment" data-fragment-index="40"-->
+<!-- .element: class="fragment" data-fragment-index="39"-->
 <g id="block41">
   <g fill="#000000" font-family="sans-serif" font-size="10.583px">
    <text style="line-height:1.25;shape-inside:url(#rect4163);white-space:pre" xml:space="preserve"/>
