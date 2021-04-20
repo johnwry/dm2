@@ -7923,15 +7923,10 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
  </g>
  <g transform="translate(-67.115 -12.78)" style="mix-blend-mode:normal">
   <g fill="#000000" font-family="sans-serif">
+
    <g font-size="10.583px">
-    <g>
-     <g>
       <text transform="translate(19.596 -3.877)" style="line-height:1.25;shape-inside:url(#rect558);white-space:pre" xml:space="preserve"><tspan x="125.9375" y="272.97773"><tspan>La Justifica de Dios Revelada 5ta edicion</tspan></tspan></text>
      </g>
-   
-    </g>
-
-   </g>
    <text transform="translate(10.449 -29.436)" font-size="25.4px" style="line-height:1.25;shape-inside:url(#rect2502);white-space:pre" xml:space="preserve"><tspan x="88.103516" y="64.159518"><tspan font-size="25.4px">ROMANOS - el bosquejo</tspan></tspan></text>
   </g>
 <g id="block1">
