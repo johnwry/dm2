@@ -8038,12 +8038,12 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
   </g>
 <!-- .element: class="fragment" data-fragment-index="19"-->
 <g id="block19">
-  <rect transform="translate(231.32 47.625)" x="-49.87" y="6.82" width="65.507" height="17.373" fill="#8d5fd3" stroke-width=".21552"/>
   <rect transform="translate(231.32 47.625)" x="16.807" y="6.7917" width="68.576" height="8.2646" fill="#008000" stroke-width=".15209"/>
   <text transform="matrix(1.012 0 0 1.1089 226.68 -6.9681)" x="24.435354" fill="#ffffff" font-family="sans-serif" font-size="6.6603px" text-align="center" style="line-height:0.85;shape-inside:url(#rect2508-9-2-4-1-1-0);white-space:pre" xml:space="preserve"><tspan x="25.116162" y="61.298993"><tspan font-weight="bold">SANTIFICACION</tspan></tspan></text>
   </g>
 <!-- .element: class="fragment" data-fragment-index="20"-->
 <g id="block20">
+<rect transform="translate(231.32 47.625)" x="-49.87" y="6.82" width="65.507" height="17.373" fill="#8d5fd3" stroke-width=".21552"/>
   <text transform="translate(-2.8981 1.2076)" fill="#ffffff" font-family="sans-serif" font-size="7.0556px" style="line-height:1.25;shape-inside:url(#rect4398);white-space:pre" xml:space="preserve"><tspan x="185.69727" y="63.171376"><tspan fill="#ffffff" font-size="7.0556px" font-weight="bold">JUSTIFICACION</tspan></tspan></text>
   </g>
   <!-- .element: class="fragment" data-fragment-index="14"-->
