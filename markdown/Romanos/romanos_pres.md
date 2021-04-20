@@ -8087,13 +8087,13 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
   <text transform="matrix(1.012 0 0 1.1089 235.68 145.86)" x="24.435354" fill="#ffffff" font-family="sans-serif" font-size="10.583px" text-align="center" style="line-height:0.85;shape-inside:url(#rect2508-9-2-4-1-1-37);white-space:pre" xml:space="preserve"><tspan x="24.142192" y="64.093493" font-size="5.9942px"><tspan>El Jubilo: </tspan><tspan>Somos </tspan></tspan><tspan x="36.218457" y="73.089297"><tspan font-size="5.9942px">mas que </tspan></tspan><tspan x="25.956851" y="82.0851"><tspan font-size="5.9942px">vencedores por </tspan></tspan><tspan x="25.359769" y="91.080904"><tspan font-size="5.9942px">medio de Cristo</tspan><tspan fill="#ffffff" font-family="sans-serif" font-size="5.6444px" font-weight="bold" text-align="center" text-anchor="middle">
 </tspan></tspan><tspan x="22.240234" y="103.65795" visibility="hidden"><tspan dx="0 4.420743 3.8805523 5.9751692 3.7703094 4.0238686 3.8805523 3.351387 1.9292526 4.0128441 2.2710037 4.0128441 4.0128441 1.9292526 4.0238686 4.0238686 3.7482605 3.351387 2.5686607 2.8111954 3.8805542 1.9292526 4.0128403" fill="#ffffff" font-family="sans-serif" font-size="5.6444px" font-weight="bold" text-align="center" text-anchor="middle">Romanos 8:37 nuestro Se</tspan></tspan></text>
 </g>
-<!-- .element: class="fragment" data-fragment-index="26"-->
+<!-- .element: class="fragment" data-fragment-index="27"-->
 <g id="block27">
   <rect transform="translate(231.32 47.625)" x="16.997" y="127.39" width="68.545" height="24.115" fill="#ab37c8" stroke-width=".25973"/>
   <text transform="matrix(1.012 0 0 1.1089 230.28 114.4)" x="24.435354" fill="#ffffff" font-family="sans-serif" font-size="5.9942px" text-align="center" style="line-height:1.05;shape-inside:url(#rect2508-9-2-4-1-1-55);white-space:pre" xml:space="preserve"><tspan x="30.334595" y="61.423982"><tspan style="shape-inside:url(#rect2508-9-2-4-1-1-55)">La Glorificacion </tspan></tspan><tspan x="38.008848" y="67.717923"><tspan style="shape-inside:url(#rect2508-9-2-4-1-1-55)">Explicada 
 </tspan></tspan><tspan x="41.01767" y="74.011865"><tspan font-style="italic">8:18-39</tspan></tspan></text>
 </g>
-<!-- .element: class="fragment" data-fragment-index="27"-->
+<!-- .element: class="fragment" data-fragment-index="26"-->
 <g id="block28">
   <rect transform="translate(231.32 47.625)" x="86.957" y="-6.0407" width="52.683" height="30.597" fill="#d35f5f" stroke-width=".25649"/>
   <text transform="matrix(1.012 0 0 1.1089 298.57 -14.447)" x="24.435354" fill="#ffffff" font-family="sans-serif" font-size="6.6603px" text-align="center" style="line-height:1.15;shape-inside:url(#rect2508-9-2-4-1-1-56);white-space:pre" xml:space="preserve"><tspan x="45.73974" y="62.298032"><tspan fill="#ffffff" font-family="sans-serif" font-size="6.6603px" font-weight="bold" text-align="center" text-anchor="middle">LA NACION </tspan></tspan><tspan x="45" y="69.957333"><tspan fill="#ffffff" font-family="sans-serif" font-size="6.6603px" font-weight="bold" text-align="center" text-anchor="middle">DE ISRAEL</tspan></tspan></text>
