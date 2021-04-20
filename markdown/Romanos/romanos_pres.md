@@ -7909,7 +7909,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<svg width="1413.9" height="981.38" version="1.1" viewBox="0 0 374.09 259.66" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="900" height="600" version="1.1" viewBox="0 0 374.09 259.66" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns:xlink="http://www.w3.org/1999/xlink">
  <defs>
   <filter id="filter4441" x="-.0034439" y="-.016684" width="1.0069" height="1.0334" color-interpolation-filters="sRGB">
    <feGaussianBlur stdDeviation="0.047254303"/>
