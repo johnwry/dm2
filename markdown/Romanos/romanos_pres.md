@@ -7470,7 +7470,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### b. Afortunadamente, los nuevos creyentes nacen de nuevo con un deseo innato por la Palabra de Dios. 1 Pedro 2:2 dice, “* desead, como niños recién nacidos, la **<u>leche</u>** espiritual no adulterada, para que por ella crezcáis para salvación,*”
+#### b. Afortunadamente, los nuevos creyentes nacen de nuevo con un deseo innato por la Palabra de Dios. 1 Pedro 2:2 dice,  “* desead, como niños recién nacidos, la **<u>leche</u>** espiritual no adulterada, para que por ella crezcáis para salvación,*”
 
 
 
@@ -7482,7 +7482,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-#### b. Hebreos 5:14 explica, “* pero el alimento **<u>sólido</u>** es para los que han alcanzado madurez, para los que por el uso tienen los sentidos ejercitados en el discernimiento del bien y del mal.*”
+#### b. Hebreos 5:14 explica,  “*pero el alimento **<u>sólido</u>** es para los que han alcanzado madurez, para los que por el uso tienen los sentidos ejercitados en el discernimiento del bien y del mal.*”
 
 
 
@@ -7498,7 +7498,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-### 4. Dios aconsejaría al bebé en Cristo “*… **<u>crecer</u>**  en la gracia y el conocimiento de nuestro Señor y Salvador Jesucristo…*” 2 Pedro 3:18a
+### 4. Dios aconsejaría al bebé en Cristo “*… **<u>*crecer*</u>**  en la gracia y el conocimiento de nuestro Señor y Salvador Jesucristo…*” 2 Pedro 3:18a
 
 
 
@@ -7905,4 +7905,1312 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 <text font-weight="normal" xml:space="preserve" text-anchor="start" font-family="sans-serif" font-size="18" id="svg_37" y="556.5" x="27" opacity="undefined" fill-opacity="null" stroke-opacity="null" stroke-dasharray="null" stroke-width="0" stroke="#000" fill="#000000">  R-omanos 5:9  Pues mucho más, estando ya justificados en su sangre, por él seremos salvos de la ira.</text>
 <!-- .element: class="fragment" data-fragment-index="14"-->
  </g>
+</svg>
+
+
+<svg xmlns:svg="http://www.w3.org/2000/svg">
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(231.32143,47.625)"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       id="text2346"
+       style="font-style:normal;font-weight:normal;font-size:10.58329999999999949px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect2348);fill:#000000;fill-opacity:1;stroke:none;" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="text"
+     style="display:inline;mix-blend-mode:normal">
+    <text
+       xml:space="preserve"
+       id="text542"
+       style="font-style:normal;font-weight:normal;font-size:19.75560000000000116px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect544);fill:#000000;fill-opacity:1;stroke:none;"><tspan
+         style="visibility:hidden"
+         x="96.90625"
+         y="54.006055"><tspan
+           dx="0 13.54339 18.019268 17.05464 14.508018 12.88744 18.019272 12.887444 4.4758759 9.1060944 4.4758835 10.495163 4.3601227 4.4758759 11.922821 11.807053 9.3376007 11.382629 11.035355 10.495163 4.1286011"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Papyrus;-inkscape-font-specification:Papyrus">ROMANOS - el bosquejo</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       id="text556"
+       style="font-style:normal;font-weight:normal;font-size:10.58329999999999949px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect558);fill:#000000;fill-opacity:1;stroke:none;"
+       transform="translate(19.5962,-0.70203169)"><tspan
+         x="125.9375"
+         y="272.97773"><tspan>La Justifica de Dios Revelada 5ta edicion</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       id="text590"
+       style="font-style:normal;font-weight:normal;font-size:10.58329999999999949px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect592);fill:#000000;fill-opacity:1;stroke:none;"><tspan
+         style="visibility:hidden"
+         x="69.582031"
+         y="81.778512"><tspan
+           dx="0 8.1648502 2.9145412 7.3587017 4.4648285 8.206192 4.4648304 6.6972427 7.9168053 8.1648483 8.3302116 7.2346802">DiRIGIENDOSE</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       id="text596"
+       style="font-style:normal;font-weight:normal;font-size:10.58329999999999949px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect598);fill:#000000;fill-opacity:1;stroke:none;"><tspan
+         style="visibility:hidden"
+         x="70.535156"
+         y="82.096871"><tspan
+           dx="0 8.1648502 4.4648294 7.3587008 4.4648285 8.206192 4.4648285 6.6972466 7.9168015 8.1648521 8.3302155 7.2346725">DIRIGIENDOSE</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       id="text1439"
+       style="font-style:normal;font-weight:normal;font-size:10.58329999999999949px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect1441);fill:#000000;fill-opacity:1;stroke:none;" />
+    <text
+       xml:space="preserve"
+       id="text1451"
+       style="font-style:normal;font-weight:normal;font-size:10.58329999999999949px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect1453);fill:#000000;fill-opacity:1;stroke:none;" />
+    <text
+       xml:space="preserve"
+       id="text2334"
+       style="font-style:normal;font-weight:normal;font-size:10.58329999999999949px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect2336);fill:#000000;fill-opacity:1;stroke:none;"><tspan
+         style="visibility:hidden"
+         x="75.9375"
+         y="74.471871"><tspan
+           dx="0 7.3587008 6.4285278 10.293914 6.3665161 6.6972427 6.4285278">Romanos</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       id="text2352"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.58329999999999949px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect2354);fill:#000000;fill-opacity:1;stroke:none;"><tspan
+         style="visibility:hidden"
+         x="76.890625"
+         y="76.696481"><tspan
+           dx="0 8.2888737 7.2760181 11.203415 7.069313 7.544735 7.2760201"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.5833px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Romanos</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       id="text2500"
+       style="font-style:normal;font-weight:normal;font-size:25.39999999999999858px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect2502);fill:#000000;fill-opacity:1;stroke:none;"
+       transform="translate(10.449429,-32.081448)"><tspan
+         x="86.103516"
+         y="64.159518"><tspan
+           style="font-size:25.4px">ROMANOS - el bosquejo</tspan></tspan></text>
+    <g
+       id="block1">
+      <rect
+         style="display:inline;fill:#008000;stroke-width:0.261495"
+         id="rect74"
+         width="55.741692"
+         height="30.531548"
+         x="-164.09413"
+         y="-6.0861959"
+         transform="translate(231.32143,47.625)" />
+      <text
+         xml:space="preserve"
+         id="text2506"
+         style="font-style:normal;font-weight:normal;font-size:10.58329999999999949px;line-height:0.75;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect2508);fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+         transform="matrix(1.0120073,0,0,1.108911,45.981125,-20.511967)"
+         x="24.435354"
+         y="0"><tspan
+           x="24.634111"
+           y="63.564328"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none">DIRIGIENDOSE </tspan></tspan><tspan
+           x="38.778285"
+           y="71.501805"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none">A LOS 
+</tspan></tspan><tspan
+           x="32.830676"
+           y="79.439282"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none">ROMANOS</tspan></tspan></text>
+    </g>
+ <!-- .element: class="fragment" -->
+    <g
+       id="block2">
+      <rect
+         style="display:inline;fill:#00ffff;stroke-width:0.156702"
+         id="rect80-9-4-4-7-1-29"
+         width="55.650143"
+         height="10.811561"
+         x="-163.79539"
+         y="26.051113"
+         transform="translate(231.32143,47.625)" />
+      <text
+         xml:space="preserve"
+         id="text2506-7"
+         style="font-style:normal;font-weight:normal;font-size:7.99230999999999980px;line-height:0.85;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect2508-6);display:inline;fill:#22b6fa;fill-opacity:1;stroke:url(#linearGradient4449);stroke-width:0.150092;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4441);"
+         transform="matrix(1.0120073,0,0,1.108911,45.99617,12.09437)"
+         x="24.435354"
+         y="0"><tspan
+           x="34.210618"
+           y="62.247852"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.99231px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#22b6fa;fill-opacity:1;stroke:url(#linearGradient4449);stroke-width:0.150092;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">1:1-17</tspan></tspan></text>
+    </g>
+    <!-- .element: class="fragment" -->
+    <g
+       id="block3">
+      <rect
+         style="display:inline;fill:#008000;stroke-width:0.264583"
+         id="rect80"
+         width="56.060951"
+         height="30.596645"
+         x="-164.20621"
+         y="38.440411"
+         transform="translate(231.32143,47.625)" />
+      <text
+         xml:space="preserve"
+         id="text2506-1"
+         style="font-style:normal;font-weight:normal;font-size:10.58329999999999949px;line-height:0.85;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect2508-9);display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;"
+         transform="matrix(1.0120073,0,0,1.108911,46.631622,25.419657)"
+         x="24.435354"
+         y="0"><tspan
+           x="23.586718"
+           y="64.093493"><tspan
+             style="font-size:6.66026px">el deber de dar </tspan></tspan><tspan
+           x="29.050213"
+           y="73.089297"><tspan
+             style="font-size:6.66026px">el evangelio</tspan><tspan
+             style="shape-inside:url(#rect2508-9);display:inline"> </tspan></tspan></text>
+    </g>
+    <!-- .element: class="fragment" -->
+    <g
+       id="block4">
+      <rect
+         style="display:inline;fill:#008000;stroke-width:0.267671"
+         id="rect84"
+         width="56.094746"
+         height="30.959112"
+         x="-164.11745"
+         y="70.102272"
+         transform="translate(231.32143,47.625)" />
+      <text
+         xml:space="preserve"
+         id="text2506-1-5"
+         style="font-style:normal;font-weight:normal;font-size:6.66026000000000007px;line-height:1.05;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect2508-9-8);display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;"
+         transform="matrix(1.0120073,0,0,1.108911,46.001817,58.965228)"
+         x="24.435354"
+         y="0"><tspan
+           x="25.147716"
+           y="61.965019"><tspan
+             style="shape-inside:url(#rect2508-9-8);display:inline">El corazon por </tspan></tspan><tspan
+           x="28.698988"
+           y="68.958289"><tspan
+             style="shape-inside:url(#rect2508-9-8);display:inline">los romanos</tspan></tspan></text>
+    </g>
+    <!-- .element: class="fragment" -->
+    <g
+       id="block5">
+      <rect
+         style="display:inline;fill:#008000;stroke-width:0.338113"
+         id="rect84-2"
+         width="56.094746"
+         height="49.398357"
+         x="-164.12793"
+         y="102.06663"
+         transform="translate(231.32143,47.625)" />
+      <text
+         xml:space="preserve"
+         id="text2506-1-7"
+         style="font-style:normal;font-weight:normal;font-size:7.99230999999999980px;line-height:0.95;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect2508-9-2);display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;"
+         transform="matrix(1.0120073,0,0,1.108911,46.631623,93.780577)"
+         x="24.435354"
+         y="0"><tspan
+           x="26.585136"
+           y="62.647468"><tspan
+             style="font-size:6.66026px">La Pasion por </tspan></tspan><tspan
+           x="31.39171"
+           y="70.240165"><tspan
+             style="font-size:6.66026px">predicar el </tspan></tspan><tspan
+           x="31.951068"
+           y="77.832862"><tspan
+             style="font-size:6.66026px">evangelio 
+</tspan></tspan><tspan
+           x="41.226001"
+           y="85.425559"><tspan
+             style="font-size:6.66026px">1:16</tspan></tspan></text>
+    </g>
+    <!-- .element: class="fragment" -->
+    <g
+       id="block6">
+      <g
+         id="g3989"
+         style="display:inline"
+         transform="translate(231.32143,47.625)">
+        <rect
+           style="fill:#008000;stroke-width:0.358328"
+           id="rect84-2-9"
+           width="56.094746"
+           height="55.48143"
+           x="-163.94925"
+           y="152.76961" />
+      </g>
+      <text
+         xml:space="preserve"
+         id="text2506-1-7-5"
+         style="font-style:normal;font-weight:normal;font-size:6.66026000000000007px;line-height:1.2;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect2508-9-2-4);display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;"
+         transform="matrix(1.0120073,0,0,1.108911,45.042992,143.31636)"
+         x="24.435354"
+         y="0"><tspan
+           x="27.807918"
+           y="62.464538"><tspan
+             style="font-weight:bold">El producto</tspan><tspan
+             style="shape-inside:url(#rect2508-9-2-4);display:inline"> </tspan></tspan><tspan
+           x="23.352568"
+           y="70.456848"><tspan
+             style="shape-inside:url(#rect2508-9-2-4);display:inline">del Eveangelio: </tspan></tspan><tspan
+           x="25.921712"
+           y="78.449158"><tspan
+             style="shape-inside:url(#rect2508-9-2-4);display:inline">el justo por la </tspan></tspan><tspan
+           x="34.403137"
+           y="86.441467"><tspan
+             style="shape-inside:url(#rect2508-9-2-4);display:inline">fe vivira 
+</tspan></tspan><tspan
+           x="27.057354"
+           y="94.433777"><tspan
+             style="font-style:italic;font-size:5.99423px">Romanos 1:17</tspan></tspan></text>
+    </g>
+    <!-- .element: class="fragment" -->
+    <g
+       id="block7">
+      <rect
+         style="display:inline;fill:#1c1c24;stroke-width:0.260921"
+         id="rect80-9"
+         width="55.485821"
+         height="30.064102"
+         x="-106.70918"
+         y="-5.8094997"
+         transform="translate(231.32143,47.625)" />
+      <text
+         xml:space="preserve"
+         id="text2506-1-7-5-0"
+         style="font-style:normal;font-weight:normal;font-size:6.66026000000000007px;line-height:1.05;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect2508-9-2-4-1);display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;"
+         transform="matrix(1.0120073,0,0,1.108911,102.75721,-17.453024)"
+         x="24.435354"
+         y="0"><tspan
+           x="25.414387"
+           y="61.965019"><tspan
+             style="font-weight:bold">LOS 3 TIPOS </tspan></tspan><tspan
+           x="44.061815"
+           y="68.958289"><tspan
+             style="font-weight:bold">DE </tspan></tspan><tspan
+           x="26.539607"
+           y="75.95156"><tspan
+             style="font-weight:bold">PECADORES</tspan></tspan></text>
+    </g>
+    <!-- .element: class="fragment" -->
+    <g
+       id="block8">
+      <rect
+         style="display:inline;fill:#00ffff;stroke-width:0.157865"
+         id="rect80-9-4"
+         width="55.721973"
+         height="10.958592"
+         x="-106.90251"
+         y="25.920752"
+         transform="translate(231.32143,47.625)" />
+      <text
+         xml:space="preserve"
+         id="text2506-1-7-5-0-5"
+         style="font-style:normal;font-weight:normal;font-size:7.99230999999999980px;line-height:0.85;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect2508-9-2-4-1-1);display:inline;fill:#22b6fa;fill-opacity:1;stroke:#000000;stroke-width:0.150092;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
+         transform="matrix(1.0120073,0,0,1.108911,99.374147,12.095499)"
+         x="24.435354"
+         y="0"><tspan
+           x="29.432475"
+           y="62.247852"><tspan
+             style="font-weight:bold;font-size:7.99231px;fill:#22b6fa;fill-opacity:1;stroke:#000000;stroke-width:0.150092;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">1:18-3:20</tspan></tspan></text>
+    </g>
+    <!-- .element: class="fragment" -->
+    <g
+       id="block9">
+      <rect
+         style="display:inline;fill:#1c1c24;stroke-width:0.264583"
+         id="rect80-9-4-0"
+         width="56.060951"
+         height="30.596645"
+         x="-107.08693"
+         y="38.440411"
+         transform="translate(231.32143,47.625)" />
+      <text
+         xml:space="preserve"
+         id="text2506-1-7-5-0-5-1"
+         style="font-style:normal;font-weight:normal;font-size:6.66026000000000007px;line-height:0.95;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect2508-9-2-4-1-1-3);display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;"
+         transform="matrix(1.0120073,0,0,1.108911,101.91596,27.981801)"
+         x="24.435354"
+         y="0"><tspan
+           x="30.715278"
+           y="61.632006"><tspan
+             style="shape-inside:url(#rect2508-9-2-4-1-1-3);display:inline">EL Pecador </tspan></tspan><tspan
+           x="35.983648"
+           y="67.959253"><tspan
+             style="shape-inside:url(#rect2508-9-2-4-1-1-3);display:inline">Inmoral </tspan></tspan><tspan
+           x="35.469819"
+           y="74.286501"><tspan
+             style="shape-inside:url(#rect2508-9-2-4-1-1-3);display:inline">1:18-32</tspan></tspan></text>
+    </g>
+    <!-- .element: class="fragment" -->
+    <g
+       id="block10">
+      <rect
+         style="display:inline;fill:#1c1c24;stroke-width:0.264583"
+         id="rect80-9-4-6"
+         width="56.060951"
+         height="30.596645"
+         x="-106.96439"
+         y="70.102272"
+         transform="translate(231.32143,47.625)" />
+      <text
+         xml:space="preserve"
+         id="text2506-1-7-5-0-5-8"
+         style="font-style:normal;font-weight:normal;font-size:6.66026000000000007px;line-height:1.15;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect2508-9-2-4-1-1-2);display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;"
+         transform="matrix(1.0120073,0,0,1.108911,102.23368,58.165777)"
+         x="24.435354"
+         y="0"><tspan
+           x="31.651877"
+           y="62.298032"><tspan
+             style="shape-inside:url(#rect2508-9-2-4-1-1-2);display:inline">El Pecador </tspan></tspan><tspan
+           x="38.75442"
+           y="69.957333"><tspan
+             style="shape-inside:url(#rect2508-9-2-4-1-1-2);display:inline">Moral 
+</tspan></tspan><tspan
+           x="37.590175"
+           y="77.616635"><tspan
+             style="shape-inside:url(#rect2508-9-2-4-1-1-2);display:inline">2:1-16</tspan></tspan></text>
+    </g>
+    <!-- .element: class="fragment" -->
+    <g
+       id="block11">
+      <rect
+         style="display:inline;fill:#1c1c24;stroke-width:0.334649"
+         id="rect80-9-4-01"
+         width="55.619335"
+         height="49.335922"
+         x="-106.71844"
+         y="101.93851"
+         transform="translate(231.32143,47.625)" />
+      <text
+         xml:space="preserve"
+         id="text2506-1-7-5-0-5-6"
+         style="font-style:normal;font-weight:normal;font-size:6.66026000000000007px;line-height:1.05;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect2508-9-2-4-1-1-9);display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;"
+         transform="matrix(1.0120073,0,0,1.108911,101.59823,93.751096)"
+         x="24.435354"
+         y="0"><tspan
+           x="31.651877"
+           y="61.965019"><tspan
+             style="shape-inside:url(#rect2508-9-2-4-1-1-9);display:inline">El Pecador </tspan></tspan><tspan
+           x="34.195004"
+           y="68.958289"><tspan
+             style="shape-inside:url(#rect2508-9-2-4-1-1-9);display:inline">Religioso </tspan></tspan><tspan
+           x="33.95435"
+           y="75.95156"><tspan
+             style="shape-inside:url(#rect2508-9-2-4-1-1-9);display:inline">2:17-3:8</tspan></tspan></text>
+    </g>
+    <!-- .element: class="fragment" -->
+    <g
+       id="block12">
+      <rect
+         style="display:inline;fill:#1c1c24;stroke-width:0.353302"
+         id="rect80-9-4-62"
+         width="55.361309"
+         height="55.245079"
+         x="-106.6619"
+         y="153.0531"
+         transform="translate(231.32143,47.625)" />
+      <text
+         xml:space="preserve"
+         id="text2506-1-7-5-0-5-82"
+         style="font-style:normal;font-weight:normal;font-size:6.66026000000000007px;line-height:1;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect2508-9-2-4-1-1-1);display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;"
+         transform="matrix(1.0120073,0,0,1.108911,102.33885,144.58726)"
+         x="24.435354"
+         y="0"><tspan
+           x="44.75776"
+           y="61.798512"><tspan
+             style="font-weight:bold">La </tspan></tspan><tspan
+           x="27.261569"
+           y="68.458772"><tspan
+             style="font-weight:bold">Conclusion</tspan><tspan
+             style="shape-inside:url(#rect2508-9-2-4-1-1-1);display:inline">: </tspan></tspan><tspan
+           x="23.645255"
+           y="75.119031"><tspan
+             style="shape-inside:url(#rect2508-9-2-4-1-1-1);display:inline">No hay justo ni </tspan></tspan><tspan
+           x="31.847002"
+           y="81.779294"><tspan
+             style="shape-inside:url(#rect2508-9-2-4-1-1-1);display:inline">aun uno...
+</tspan></tspan><tspan
+           x="25.427388"
+           y="88.439557"><tspan
+             style="shape-inside:url(#rect2508-9-2-4-1-1-1);display:inline"> </tspan><tspan
+             style="font-style:italic;font-size:5.32821px">Romanos 3:9-20</tspan></tspan></text>
+    </g>
+    <!-- .element: class="fragment" -->
+    <g
+       id="block13">
+      <rect
+         style="display:inline;fill:#ff9955;stroke-width:0.246008"
+         id="rect80-9-4-1"
+         width="135.1752"
+         height="10.970119"
+         x="-49.708591"
+         y="-5.7633772"
+         transform="translate(231.32143,47.625)" />
+      <text
+         xml:space="preserve"
+         id="text2506-1-7-5-0-5-2"
+         style="font-style:normal;font-weight:normal;font-size:7.99230999999999980px;line-height:0.85;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect2508-9-2-4-1-1-30);display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;"
+         transform="matrix(1.0120073,0,0,1.108911,145.1267,-18.832472)"
+         x="24.435354"
+         y="0"><tspan
+           x="43.990179"
+           y="62.247852"><tspan
+             style="shape-inside:url(#rect2508-9-2-4-1-1-30);display:inline">3 TIEMPOS DE LA SALVACION</tspan></tspan></text>
+    </g>
+    <!-- .element: class="fragment" -->
+    <g
+       id="block14">
+      <rect
+         style="display:inline;fill:#8d5fd3;stroke-width:0.215515"
+         id="rect80-9-4-4"
+         width="65.506691"
+         height="17.372938"
+         x="-49.869755"
+         y="6.820044"
+         transform="translate(231.32143,47.625)" />
+      <text
+         xml:space="preserve"
+         id="text2506-1-7-5-0-5-17"
+         style="font-style:normal;font-weight:normal;font-size:6.66026000000000007px;line-height:0.85;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect2508-9-2-4-1-1-20);display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;"
+         transform="matrix(1.0120073,0,0,1.108911,161.01301,-4.1085309)"
+         x="24.435354"
+         y="0"><tspan
+           x="23.059672"
+           y="61.298993"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.66026px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none">JUSTIFICACION</tspan></tspan></text>
+    </g>
+    <!-- .element: class="fragment" -->
+    <g
+       id="block15">
+      <rect
+         style="display:inline;fill:#00ffff;stroke-width:0.171648"
+         id="rect80-9-4-47"
+         width="65.556656"
+         height="11.012115"
+         x="-49.940273"
+         y="25.950233"
+         transform="translate(231.32143,47.625)" />
+      <text
+         xml:space="preserve"
+         id="text2506-1-7-5-0-5-3"
+         style="font-style:normal;font-weight:normal;font-size:7.99230999999999980px;line-height:0.85;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect2508-9-2-4-1-1-22);display:inline;fill:#22b6fa;fill-opacity:1;stroke:#000000;stroke-width:0.150092;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
+         transform="matrix(1.0120073,0,0,1.108911,162.2839,12.413225)"
+         x="24.435354"
+         y="0"><tspan
+           x="31.786968"
+           y="62.247852"><tspan
+             style="font-weight:bold;font-size:7.99231px;fill:#22b6fa;fill-opacity:1;stroke:#000000;stroke-width:0.150092;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">3:21-5:21</tspan></tspan></text>
+    </g>
+    <!-- .element: class="fragment" -->
+    <g
+       id="block16">
+      <rect
+         style="display:inline;fill:#8d5fd3;stroke-width:0.28397"
+         id="rect80-9-4-4-6"
+         width="65.252151"
+         height="30.280191"
+         x="-49.525497"
+         y="38.650467"
+         transform="translate(231.32143,47.625)" />
+      <text
+         xml:space="preserve"
+         id="text2506-1-7-5-0-5-4"
+         style="font-style:normal;font-weight:normal;font-size:5.99422999999999995px;line-height:1.05;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect2508-9-2-4-1-1-31);display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;"
+         transform="matrix(1.0120073,0,0,1.108911,163.87253,27.981801)"
+         x="24.435354"
+         y="0"><tspan
+           x="26.395881"
+           y="61.423982"><tspan
+             style="shape-inside:url(#rect2508-9-2-4-1-1-31);display:inline">La Justificacion </tspan></tspan><tspan
+           x="34.877951"
+           y="67.717923"><tspan
+             style="shape-inside:url(#rect2508-9-2-4-1-1-31);display:inline">Explicada </tspan></tspan><tspan
+           x="36.8331"
+           y="74.011865"><tspan
+             style="shape-inside:url(#rect2508-9-2-4-1-1-31);display:inline">3:21-31</tspan></tspan></text>
+    </g>
+    <!-- .element: class="fragment" -->
+    <g
+       id="block17">
+      <rect
+         style="display:inline;fill:#8d5fd3;stroke-width:0.284403"
+         id="rect80-9-4-4-9"
+         width="64.867577"
+         height="30.552683"
+         x="-49.200481"
+         y="70.117836"
+         transform="translate(231.32143,47.625)" />
+      <text
+         xml:space="preserve"
+         id="text2506-1-7-5-0-5-40"
+         style="font-style:normal;font-weight:normal;font-size:6.66026000000000007px;line-height:1.05;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect2508-9-2-4-1-1-8);display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;"
+         transform="matrix(1.0120073,0,0,1.108911,163.23709,59.754407)"
+         x="24.435354"
+         y="0"><tspan
+           x="24.971534"
+           y="61.965019"><tspan
+             style="shape-inside:url(#rect2508-9-2-4-1-1-8);display:inline">La Justificacion </tspan></tspan><tspan
+           x="27.911414"
+           y="68.958289"><tspan
+             style="shape-inside:url(#rect2508-9-2-4-1-1-8);display:inline">Ejemplificada </tspan></tspan><tspan
+           x="38.688808"
+           y="75.95156"><tspan
+             style="shape-inside:url(#rect2508-9-2-4-1-1-8);display:inline">4:1-25</tspan></tspan></text>
+    </g>
+    <!-- .element: class="fragment" -->
+    <g
+       id="block18">
+      <rect
+         style="display:inline;fill:#8d5fd3;stroke-width:0.362541"
+         id="rect80-9-4-4-4"
+         width="65.103554"
+         height="49.467369"
+         x="-49.391327"
+         y="101.99677"
+         transform="translate(231.32143,47.625)" />
+      <text
+         xml:space="preserve"
+         id="text2506-1-7-5-0-5-43"
+         style="font-style:normal;font-weight:normal;font-size:6.66026000000000007px;line-height:1.15;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect2508-9-2-4-1-1-228);display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;"
+         transform="matrix(1.0120073,0,0,1.108911,164.50799,96.610629)"
+         x="24.435354"
+         y="0"><tspan
+           x="23.872901"
+           y="62.298032"><tspan
+             style="shape-inside:url(#rect2508-9-2-4-1-1-228);display:inline">La Justificacion </tspan></tspan><tspan
+           x="31.78196"
+           y="69.957333"><tspan
+             style="shape-inside:url(#rect2508-9-2-4-1-1-228);display:inline">Disfrutada </tspan></tspan><tspan
+           x="37.590175"
+           y="77.616635"><tspan
+             style="shape-inside:url(#rect2508-9-2-4-1-1-228);display:inline">5:1-11</tspan></tspan></text>
+    </g>
+    <!-- .element: class="fragment" -->
+    <g
+       id="block19">
+      <rect
+         style="display:inline;fill:#8d5fd3;stroke-width:0.384174"
+         id="rect80-9-4-4-7"
+         width="65.027924"
+         height="55.61142"
+         x="-49.335709"
+         y="152.81424"
+         transform="translate(231.32143,47.625)" />
+      <text
+         xml:space="preserve"
+         id="text2506-1-7-5-0-5-5"
+         style="font-style:normal;font-weight:normal;font-size:5.99422999999999995px;line-height:1.2;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect2508-9-2-4-1-1-4);display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;"
+         transform="matrix(1.0120073,0,0,1.108911,161.64846,144.58725)"
+         x="24.435354"
+         y="0"><tspan
+           x="22.455237"
+           y="61.873549"><tspan
+             style="font-weight:bold">La Identificacion</tspan><tspan>: </tspan></tspan><tspan
+           x="29.602654"
+           y="69.066627"><tspan>En Adan Todos </tspan></tspan><tspan
+           x="23.778182"
+           y="76.259704"><tspan>Mueren - En Cristo </tspan></tspan><tspan
+           x="32.910017"
+           y="83.452781"><tspan>Todos Vivien </tspan></tspan><tspan
+           x="24.814294"
+           y="90.645858"><tspan
+             style="font-style:italic">Romanos 5:11-21</tspan></tspan></text>
+    </g>
+    <!-- .element: class="fragment" -->
+    <g
+       id="block20">
+      <rect
+         style="display:inline;fill:#008000;stroke-width:0.152087"
+         id="rect80-9-4-4-7-1"
+         width="68.575935"
+         height="8.2645559"
+         x="16.806589"
+         y="6.7917328"
+         transform="translate(231.32143,47.625)" />
+      <text
+         xml:space="preserve"
+         id="text2506-1-7-5-0-5-14"
+         style="font-style:normal;font-weight:normal;font-size:6.66026000000000007px;line-height:0.85;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect2508-9-2-4-1-1-0);display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;"
+         transform="matrix(1.0120073,0,0,1.108911,226.67602,-6.9680634)"
+         x="24.435354"
+         y="0"><tspan
+           x="25.116162"
+           y="61.298993"><tspan
+             style="font-weight:bold">SANTIFICACION</tspan></tspan></text>
+    </g>
+    <!-- .element: class="fragment" -->
+    <g
+       id="block21">
+      <rect
+         style="display:inline;fill:#ab37c8;stroke-width:0.152148"
+         id="rect80-9-4-4-7-1-3"
+         width="68.491646"
+         height="8.2812767"
+         x="16.890879"
+         y="16.518475"
+         transform="translate(231.32143,47.625)" />
+      <text
+         xml:space="preserve"
+         id="text2506-1-7-5-0-5-0"
+         style="font-style:normal;font-weight:normal;font-size:6.66026000000000007px;line-height:0.85;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect2508-9-2-4-1-1-5);display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;"
+         transform="matrix(1.0120073,0,0,1.108911,228.26577,2.7751574)"
+         x="24.435354"
+         y="0"><tspan
+           x="23.338693"
+           y="61.298993"><tspan
+             style="font-weight:bold">GLORIFICACION</tspan></tspan></text>
+    </g>
+    <!-- .element: class="fragment" -->
+    <g
+       id="block22">
+      <rect
+         style="display:inline;fill:#00ffff;stroke-width:0.174345"
+         id="rect80-9-4-4-7-1-9"
+         width="68.244934"
+         height="10.91321"
+         x="17.137587"
+         y="26.027996"
+         transform="translate(231.32143,47.625)" />
+      <text
+         xml:space="preserve"
+         id="text2506-1-7-5-0-5-63"
+         style="font-style:normal;font-weight:normal;font-size:7.99230999999999980px;line-height:0.85;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect2508-9-2-4-1-1-25);display:inline;fill:#22b6fa;fill-opacity:1;stroke:#000000;stroke-width:0.150092;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
+         transform="matrix(1.0120073,0,0,1.108911,231.54819,12.834977)"
+         x="24.435354"
+         y="0"><tspan
+           x="41.500479"
+           y="62.247852"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.99231px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#22b6fa;fill-opacity:1;stroke:#000000;stroke-width:0.150092;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">6-8</tspan></tspan></text>
+    </g>
+    <!-- .element: class="fragment" -->
+    <g
+       id="block23">
+      <rect
+         style="display:inline;fill:#00d455;stroke-width:0.246797"
+         id="rect80-9-4-4-7-1-8"
+         width="68.655128"
+         height="21.737413"
+         x="16.953825"
+         y="38.662785"
+         transform="matrix(0.99999303,-0.00373617,0,1,231.32143,47.625)" />
+      <text
+         xml:space="preserve"
+         id="text2506-1-7-5-0-5-19"
+         style="font-style:normal;font-weight:normal;font-size:5.99422999999999995px;line-height:0.95;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect2508-9-2-4-1-1-02);display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;"
+         transform="matrix(1.0120073,0,0,1.108911,229.95956,24.698257)"
+         x="24.435354"
+         y="0"><tspan
+           x="30.211462"
+           y="61.124271"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99423px;font-family:sans-serif;-inkscape-font-specification:sans-serif">LA Santificacion </tspan></tspan><tspan
+           x="38.810606"
+           y="66.81879"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99423px;font-family:sans-serif;-inkscape-font-specification:sans-serif">Explicada 
+</tspan></tspan><tspan
+           x="43.727747"
+           y="72.513309"><tspan
+             style="font-style:italic">6:1-10</tspan></tspan></text>
+    </g>
+    <!-- .element: class="fragment" -->
+    <g
+       id="block24">
+      <rect
+         style="display:inline;fill:#00d455;stroke-width:0.241181"
+         id="rect80-9-4-4-7-1-2"
+         width="68.611794"
+         height="20.772516"
+         x="16.854502"
+         y="61.031845"
+         transform="translate(231.32143,47.625)" />
+      <text
+         xml:space="preserve"
+         id="text2506-1-7-5-0-5-86"
+         style="font-style:normal;font-weight:normal;font-size:5.99422999999999995px;line-height:1.05;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect2508-9-2-4-1-1-03);display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;"
+         transform="matrix(1.0120073,0,0,1.108911,230.80757,46.092187)"
+         x="24.435354"
+         y="0"><tspan
+           x="28.468298"
+           y="61.423982"><tspan
+             style="shape-inside:url(#rect2508-9-2-4-1-1-03);display:inline">LA Santificacion </tspan></tspan><tspan
+           x="40.515295"
+           y="67.717923"><tspan
+             style="shape-inside:url(#rect2508-9-2-4-1-1-03);display:inline">Practica
+</tspan></tspan><tspan
+           x="40.076264"
+           y="74.011865"><tspan
+             style="font-style:italic">6:11-23</tspan></tspan></text>
+    </g>
+    <!-- .element: class="fragment" -->
+    <g
+       id="block25">
+      <rect
+         style="display:inline;fill:#00d455;stroke-width:0.241507"
+         id="rect80-9-4-4-7-1-1"
+         width="68.449135"
+         height="20.878326"
+         x="17.125826"
+         y="83.183716"
+         transform="translate(231.32143,47.625)" />
+      <text
+         xml:space="preserve"
+         id="text2506-1-7-5-0-5-16"
+         style="font-style:normal;font-weight:normal;font-size:5.99422999999999995px;line-height:0.95;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect2508-9-2-4-1-1-89);display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;"
+         transform="matrix(1.0120073,0,0,1.108911,227.94803,69.710201)"
+         x="24.435354"
+         y="0"><tspan
+           x="35.428549"
+           y="61.124271"><tspan
+             style="shape-inside:url(#rect2508-9-2-4-1-1-89);display:inline">Santificacion </tspan></tspan><tspan
+           x="38.355419"
+           y="66.81879"><tspan
+             style="shape-inside:url(#rect2508-9-2-4-1-1-89);display:inline">Reprobada
+</tspan></tspan><tspan
+           x="44.174036"
+           y="72.513309"><tspan
+             style="font-style:italic">7:1-25</tspan></tspan></text>
+    </g>
+    <!-- .element: class="fragment" -->
+    <g
+       id="block26">
+      <rect
+         style="display:inline;fill:#00d455;stroke-width:0.240578"
+         id="rect80-9-4-4-7-1-11"
+         width="68.545288"
+         height="20.688963"
+         x="17.012402"
+         y="105.4293"
+         transform="translate(231.32143,47.625)" />
+      <text
+         xml:space="preserve"
+         id="text2506-1-7-5-0-5-83"
+         style="font-style:normal;font-weight:normal;font-size:5.99422999999999995px;line-height:0.95;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect2508-9-2-4-1-1-45);display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;"
+         transform="matrix(1.0120073,0,0,1.108911,230.59501,91.738455)"
+         x="24.435354"
+         y="0"><tspan
+           x="29.804975"
+           y="61.124271"><tspan
+             style="font-weight:normal">La Santificacion </tspan></tspan><tspan
+           x="34.511382"
+           y="66.81879"><tspan
+             style="font-weight:normal">Empoderado
+</tspan></tspan><tspan
+           x="40.248047"
+           y="72.513309"><tspan
+             style="font-style:italic">8:1-17a</tspan><tspan
+             style="font-style:italic"> </tspan><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.99423px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none">
+</tspan></tspan><tspan
+           style="visibility:hidden"
+           x="22.240234"
+           y="78.997317"><tspan
+             dx="0 3.8166385 2.7278428 3.8166389 2.7278423 3.8166389"
+             style="font-weight:normal">8:1-17</tspan></tspan></text>
+    </g>
+    <!-- .element: class="fragment" -->
+    <g
+       id="block28">
+      <rect
+         style="display:inline;fill:#ab37c8;stroke-width:0.396887"
+         id="rect80-9-4-4-7-1-22"
+         width="68.932899"
+         height="55.990295"
+         x="16.958994"
+         y="152.67194"
+         transform="translate(231.32143,47.625)" />
+      <text
+         xml:space="preserve"
+         id="text2506-1-7-5-0-5-39"
+         style="font-style:normal;font-weight:normal;font-size:10.58329999999999949px;line-height:0.85;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect2508-9-2-4-1-1-37);display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;"
+         transform="matrix(1.0120073,0,0,1.108911,235.67863,145.85817)"
+         x="24.435354"
+         y="0"><tspan
+           x="22.602658"
+           y="64.093493"><tspan
+             style="font-size:5.99423px">El Jubilo: </tspan><tspan
+             style="font-weight:normal;font-size:5.99423px">Somos </tspan></tspan><tspan
+           x="36.218457"
+           y="73.089297"><tspan
+             style="font-weight:normal;font-size:5.99423px">mas que </tspan></tspan><tspan
+           x="25.956851"
+           y="82.0851"><tspan
+             style="font-weight:normal;font-size:5.99423px">vencedores por </tspan></tspan><tspan
+           x="25.359769"
+           y="91.080904"><tspan
+             style="font-weight:normal;font-size:5.99423px">medio de Cristo</tspan><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none">
+</tspan></tspan><tspan
+           style="visibility:hidden"
+           x="22.240234"
+           y="103.65795"><tspan
+             dx="0 4.420743 3.8805523 5.9751692 3.7703094 4.0238686 3.8805523 3.351387 1.9292526 4.0128441 2.2710037 4.0128441 4.0128441 1.9292526 4.0238686 4.0238686 3.7482605 3.351387 2.5686607 2.8111954 3.8805542 1.9292526 4.0128403"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none">Romanos 8:37 nuestro Se</tspan></tspan></text>
+    </g>
+    <!-- .element: class="fragment" -->
+    <g
+       id="block27">
+      <rect
+         style="display:inline;fill:#ab37c8;stroke-width:0.259732"
+         id="rect80-9-4-4-7-1-6"
+         width="68.545288"
+         height="24.114655"
+         x="16.997269"
+         y="127.39369"
+         transform="translate(231.32143,47.625)" />
+      <text
+         xml:space="preserve"
+         id="text2506-1-7-5-0-5-25"
+         style="font-style:normal;font-weight:normal;font-size:5.99422999999999995px;line-height:1.05;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect2508-9-2-4-1-1-55);display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;"
+         transform="matrix(1.0120073,0,0,1.108911,230.27728,114.40104)"
+         x="24.435354"
+         y="0"><tspan
+           x="30.334595"
+           y="61.423982"><tspan
+             style="shape-inside:url(#rect2508-9-2-4-1-1-55);display:inline">La Glorificacion </tspan></tspan><tspan
+           x="38.008848"
+           y="67.717923"><tspan
+             style="shape-inside:url(#rect2508-9-2-4-1-1-55);display:inline">Explicada 
+</tspan></tspan><tspan
+           x="41.01767"
+           y="74.011865"><tspan
+             style="font-style:italic">8:18-39</tspan></tspan></text>
+    </g>
+    <!-- .element: class="fragment" -->
+    <g
+       id="block29">
+      <rect
+         style="display:inline;fill:#d35f5f;stroke-width:0.256491"
+         id="rect80-9-4-4-7-1-95"
+         width="52.682991"
+         height="30.596992"
+         x="86.957184"
+         y="-6.0406656"
+         transform="translate(231.32143,47.625)" />
+      <text
+         xml:space="preserve"
+         id="text2506-1-7-5-0-5-62"
+         style="font-style:normal;font-weight:normal;font-size:6.66026000000000007px;line-height:1.15;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect2508-9-2-4-1-1-56);display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;"
+         transform="matrix(1.0120073,0,0,1.108911,298.57285,-14.447441)"
+         x="24.435354"
+         y="0"><tspan
+           x="25.73974"
+           y="62.298032"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.66026px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none">LA NACION </tspan></tspan><tspan
+           x="26.923498"
+           y="69.957333"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.66026px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none">DE ISRAEL</tspan></tspan></text>
+    </g>
+    <!-- .element: class="fragment" -->
+    <g
+       id="block30">
+      <rect
+         style="display:inline;fill:#00ffff;stroke-width:0.152543"
+         id="rect80-9-4-4-7-1-99"
+         width="52.444538"
+         height="10.871432"
+         x="86.944977"
+         y="26.027996"
+         transform="translate(231.32143,47.625)" />
+      <text
+         xml:space="preserve"
+         id="text2506-1-7-5-0-5-7"
+         style="font-style:normal;font-weight:normal;font-size:7.99230999999999980px;line-height:0.85;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect2508-9-2-4-1-1-567);display:inline;fill:#22b6fa;fill-opacity:1;stroke:#000000;stroke-width:0.150092;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
+         transform="matrix(1.0120073,0,0,1.108911,296.04658,12.095498)"
+         x="24.435354"
+         y="0"><tspan
+           x="38.659462"
+           y="62.247852"><tspan
+             style="font-weight:bold;font-size:7.99231px;fill:#22b6fa;fill-opacity:1;stroke:#000000;stroke-width:0.150092;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">9-11</tspan></tspan></text>
+    </g>
+    <!-- .element: class="fragment" -->
+    <g
+       id="block31">
+      <rect
+         style="display:inline;fill:#d35f5f;stroke-width:0.257706"
+         id="rect80-9-4-4-7-1-4"
+         width="53.022015"
+         height="30.690033"
+         x="86.704025"
+         y="38.308533"
+         transform="translate(231.32143,47.625)" />
+      <text
+         xml:space="preserve"
+         id="text2506-1-7-5-0-5-03"
+         style="font-style:normal;font-weight:normal;font-size:6.66026000000000007px;line-height:1.15;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect2508-9-2-4-1-1-17);display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;"
+         transform="matrix(1.0120073,0,0,1.108911,294.45795,25.860616)"
+         x="24.435354"
+         y="0"><tspan
+           x="35.73649"
+           y="62.298032"><tspan
+             style="shape-inside:url(#rect2508-9-2-4-1-1-17);display:inline">Pasado: </tspan></tspan><tspan
+           x="35.359248"
+           y="69.957333"><tspan
+             style="shape-inside:url(#rect2508-9-2-4-1-1-17);display:inline">Escojida
+</tspan></tspan><tspan
+           x="38.741419"
+           y="77.616635"><tspan
+             style="font-style:italic;font-size:5.99423px">9:1-33</tspan></tspan></text>
+    </g>
+    <!-- .element: class="fragment" -->
+    <g
+       id="block32">
+      <rect
+         style="display:inline;fill:#d35f5f;stroke-width:0.256961"
+         id="rect80-9-4-4-7-1-48"
+         width="52.812649"
+         height="30.634007"
+         x="86.761032"
+         y="70.144836"
+         transform="translate(231.32143,47.625)" />
+      <text
+         xml:space="preserve"
+         id="text2506-1-7-5-0-5-9"
+         style="font-style:normal;font-weight:normal;font-size:6.66026000000000007px;line-height:1.15;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect2508-9-2-4-1-1-7);display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;"
+         transform="matrix(1.0120073,0,0,1.108911,295.72885,58.053845)"
+         x="24.435354"
+         y="0"><tspan
+           x="33.043767"
+           y="62.298032"><tspan
+             style="shape-inside:url(#rect2508-9-2-4-1-1-7);display:inline">Presente: </tspan></tspan><tspan
+           x="31.12504"
+           y="69.957333"><tspan
+             style="shape-inside:url(#rect2508-9-2-4-1-1-7);display:inline">Rechazada
+</tspan></tspan><tspan
+           x="36.8331"
+           y="77.616635"><tspan
+             style="font-style:italic;font-size:5.99423px">10:1-21</tspan></tspan></text>
+    </g>
+    <!-- .element: class="fragment" -->
+    <g
+       id="block33">
+      <rect
+         style="display:inline;fill:#d35f5f;stroke-width:0.327532"
+         id="rect80-9-4-4-7-1-5"
+         width="52.897903"
+         height="49.69075"
+         x="86.769218"
+         y="101.9208"
+         transform="translate(231.32143,47.625)" />
+      <text
+         xml:space="preserve"
+         id="text2506-1-7-5-0-5-02"
+         style="font-style:normal;font-weight:normal;font-size:6.66026000000000007px;line-height:1.15;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect2508-9-2-4-1-1-370);display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;"
+         transform="matrix(1.0120073,0,0,1.108911,295.0934,94.068821)"
+         x="24.435354"
+         y="0"><tspan
+           x="36.699105"
+           y="62.298032"><tspan
+             style="shape-inside:url(#rect2508-9-2-4-1-1-370);display:inline">Futuro: </tspan></tspan><tspan
+           x="30.136407"
+           y="69.957333"><tspan
+             style="shape-inside:url(#rect2508-9-2-4-1-1-370);display:inline">Restaurada
+</tspan></tspan><tspan
+           x="36.8331"
+           y="77.616635"><tspan
+             style="font-style:italic;font-size:5.99423px">11:1-32</tspan></tspan></text>
+    </g>
+    <!-- .element: class="fragment" -->
+    <g
+       id="block34">
+      <rect
+         style="display:inline;fill:#d35f5f;stroke-width:0.347105"
+         id="rect80-9-4-4-7-1-0"
+         width="52.60408"
+         height="56.118759"
+         x="86.967163"
+         y="152.72426"
+         transform="translate(231.32143,47.625)" />
+      <text
+         xml:space="preserve"
+         id="text2506-1-7-5-0-5-28"
+         style="font-style:normal;font-weight:normal;font-size:7.32627999999999968px;line-height:1.05;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect2508-9-2-4-1-1-72);display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;"
+         transform="matrix(1.0120073,0,0,1.108911,297.42264,140.99871)"
+         x="24.435354"
+         y="0"><tspan
+           x="42.639692"
+           y="62.506047"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.32628px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none">La </tspan></tspan><tspan
+           x="24.130819"
+           y="70.198643"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.32628px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none">Doxologia: 
+</tspan></tspan><tspan
+           x="23.572762"
+           y="77.89124"><tspan
+             style="font-weight:normal;font-size:7.32628px">A Dios sea la </tspan></tspan><tspan
+           x="36.565462"
+           y="85.583836"><tspan
+             style="font-weight:normal;font-size:7.32628px">Gloria </tspan></tspan><tspan
+           x="33.516313"
+           y="93.276433"><tspan
+             style="font-style:italic;font-size:5.99423px">Romanos </tspan></tspan><tspan
+           x="33.241187"
+           y="100.96903"><tspan
+             style="font-style:italic;font-size:5.99423px">11:33-36</tspan></tspan></text>
+    </g>
+    <!-- .element: class="fragment" -->
+    <g
+       id="g4215">
+      <rect
+         style="display:inline;fill:#ff9955;stroke-width:0.292388"
+         id="rect80-9-4-4-7-1-51"
+         width="68.554024"
+         height="30.555761"
+         x="140.77615"
+         y="-6.0625973"
+         transform="translate(231.32143,47.625)" />
+      <text
+         xml:space="preserve"
+         id="text2506-1-7-5-0-5-36"
+         style="font-style:normal;font-weight:normal;font-size:7.32627999999999968px;line-height:1.15;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect2508-9-2-4-1-1-94);display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.999668;stroke-miterlimit:4;stroke-dasharray:none;"
+         transform="matrix(1.0120073,0,0,1.108911,351.435,-14.486141)"
+         x="24.435354"
+         y="0"><tspan
+           x="36.87423"
+           y="62.872361"><tspan
+             style="font-weight:bold;font-size:7.32628px">LA VIDA </tspan></tspan><tspan
+           x="30.563899"
+           y="71.297585"><tspan
+             style="font-weight:bold;font-size:7.32628px">CRISTIANA</tspan></tspan></text>
+    </g>
+    <!-- .element: class="fragment" -->
+    <g
+       id="block36">
+      <rect
+         style="display:inline;fill:#00ffff;stroke-width:0.174723"
+         id="rect80-9-4-4-7-1-44"
+         width="68.020905"
+         height="10.996763"
+         x="140.9744"
+         y="25.986219"
+         transform="translate(231.32143,47.625)" />
+      <text
+         xml:space="preserve"
+         id="text2506-1-7-5-0-5-53"
+         style="font-style:normal;font-weight:normal;font-size:7.99230999999999980px;line-height:0.85;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect2508-9-2-4-1-1-05);display:inline;fill:#22b6fa;fill-opacity:1;stroke:#000000;stroke-width:0.150092;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
+         transform="matrix(1.0120073,0,0,1.108911,355.77908,12.095498)"
+         x="24.435354"
+         y="0"><tspan
+           x="37.702235"
+           y="62.247852"><tspan
+             style="font-weight:bold;font-size:7.99231px;fill:#22b6fa;fill-opacity:1;stroke:#000000;stroke-width:0.150092;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">12-16</tspan></tspan></text>
+    </g>
+    <!-- .element: class="fragment" -->
+    <g
+       id="block37">
+      <rect
+         style="display:inline;fill:#ff9955;stroke-width:0.292304"
+         id="rect80-9-4-4-7-1-64"
+         width="68.445778"
+         height="30.586475"
+         x="141.10764"
+         y="38.450115"
+         transform="translate(231.32143,47.625)" />
+      <text
+         xml:space="preserve"
+         id="text2506-1-7-5-0-5-24"
+         style="font-style:normal;font-weight:normal;font-size:6.66026000000000007px;line-height:1.15;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect2508-9-2-4-1-1-84);display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;"
+         transform="matrix(1.0120073,0,0,1.108911,352.28409,26.181731)"
+         x="24.435354"
+         y="0"><tspan
+           x="33.534657"
+           y="62.298032"><tspan
+             style="shape-inside:url(#rect2508-9-2-4-1-1-84);display:inline">Sirviendo la </tspan></tspan><tspan
+           x="41.112004"
+           y="69.957333"><tspan
+             style="shape-inside:url(#rect2508-9-2-4-1-1-84);display:inline">Iglesia 
+</tspan></tspan><tspan
+           x="39.687592"
+           y="77.616635"><tspan
+             style="font-style:italic">12:1-21</tspan></tspan></text>
+    </g>
+    <!-- .element: class="fragment" -->
+    <g
+       id="block38">
+      <rect
+         style="display:inline;fill:#ff9955;stroke-width:0.291922"
+         id="rect80-9-4-4-7-1-997"
+         width="68.54187"
+         height="30.463715"
+         x="140.78004"
+         y="70.255859"
+         transform="translate(231.32143,47.625)" />
+      <text
+         xml:space="preserve"
+         id="text2506-1-7-5-0-5-69"
+         style="font-style:normal;font-weight:normal;font-size:10.58329999999999949px;line-height:0.75;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect2508-9-2-4-1-1-77);display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;"
+         transform="matrix(1.0120073,0,0,1.108911,357.04998,54.670791)"
+         x="24.435354"
+         y="0"><tspan
+           x="29.644654"
+           y="63.564328"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none">Sirviendo a la </tspan></tspan><tspan
+           x="35.322168"
+           y="71.501805"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none">Sociedad 
+</tspan></tspan><tspan
+           x="37.549076"
+           y="79.439282"><tspan
+             style="font-style:italic">13:1-14</tspan></tspan></text>
+    </g>
+    <!-- .element: class="fragment" -->
+    <g
+       id="block39">
+      <rect
+         style="display:inline;fill:#ff9955;stroke-width:0.261433"
+         id="rect80-9-4-4-7-1-30"
+         width="68.393456"
+         height="24.485607"
+         x="140.96452"
+         y="101.758"
+         transform="translate(231.32143,47.625)" />
+      <text
+         xml:space="preserve"
+         id="text2506-1-7-5-0-5-04"
+         style="font-style:normal;font-weight:normal;font-size:5.99422999999999995px;line-height:1.15;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect2508-9-2-4-1-1-031);display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;"
+         transform="matrix(1.0120073,0,0,1.108911,355.46135,87.927999)"
+         x="24.435354"
+         y="0"><tspan
+           x="26.858327"
+           y="61.723694"><tspan
+             style="shape-inside:url(#rect2508-9-2-4-1-1-031);display:inline">Sirviendo a los </tspan></tspan><tspan
+           x="37.084811"
+           y="68.617057"><tspan
+             style="shape-inside:url(#rect2508-9-2-4-1-1-031);display:inline">Debiles 
+</tspan></tspan><tspan
+           x="36.8331"
+           y="75.510421"><tspan
+             style="font-style:italic">14:1-23</tspan></tspan></text>
+    </g>
+    <!-- .element: class="fragment" -->
+    <g
+       id="block41">
+      <rect
+         style="display:inline;fill:#ff9955;stroke-width:0.396306"
+         id="rect80-9-4-4-7-1-56"
+         width="68.945908"
+         height="55.815807"
+         x="140.94238"
+         y="152.81163"
+         transform="translate(231.32143,47.625)" />
+      <text
+         xml:space="preserve"
+         id="text2506-1-7-5-0-5-08"
+         style="font-style:normal;font-weight:normal;font-size:6.66026000000000007px;line-height:1.25;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect2508-9-2-4-1-1-04);display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;"
+         transform="matrix(1.0120073,0,0,1.108911,352.81438,143.63409)"
+         x="24.435354"
+         y="0"><tspan
+           x="25.203415"
+           y="62.631045"><tspan
+             style="font-weight:bold;font-size:6.66026px">Saludos Finales</tspan><tspan
+             style="shape-inside:url(#rect2508-9-2-4-1-1-04);display:inline"> </tspan></tspan><tspan
+           x="32.741737"
+           y="70.95637"><tspan
+             style="shape-inside:url(#rect2508-9-2-4-1-1-04);display:inline">Advertencias </tspan></tspan><tspan
+           x="37.073508"
+           y="79.281695"><tspan
+             style="shape-inside:url(#rect2508-9-2-4-1-1-04);display:inline">Especiales </tspan></tspan><tspan
+           x="27.044763"
+           y="87.60702"><tspan
+             style="font-style:italic;font-size:5.99423px">Romanos 16:1-27</tspan></tspan></text>
+    </g>
+    <!-- .element: class="fragment" -->
+    <g
+       id="block40">
+      <rect
+         style="display:inline;fill:#ff9955;stroke-width:0.259534"
+         id="rect80-9-4-4-7-1-957"
+         width="68.746109"
+         height="24.007423"
+         x="140.67732"
+         y="127.45924"
+         transform="translate(231.32143,47.625)" />
+      <text
+         xml:space="preserve"
+         id="text2506-1-7-5-0-5-70"
+         style="font-style:normal;font-weight:normal;font-size:5.99422999999999995px;line-height:1.05;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect2508-9-2-4-1-1-170);display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;"
+         transform="matrix(1.0120073,0,0,1.108911,355.46135,114.72213)"
+         x="24.435354"
+         y="0"><tspan
+           x="32.120839"
+           y="61.423982"><tspan
+             style="shape-inside:url(#rect2508-9-2-4-1-1-170);display:inline">Sirviendo a </tspan></tspan><tspan
+           x="25.184157"
+           y="67.717923"><tspan
+             style="shape-inside:url(#rect2508-9-2-4-1-1-170);display:inline">traves de Cristo </tspan></tspan><tspan
+           x="36.8331"
+           y="74.011865"><tspan
+             style="font-style:italic">15:1-33</tspan></tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       id="text4161"
+       style="font-style:normal;font-weight:normal;font-size:10.58329999999999949px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect4163);fill:#000000;fill-opacity:1;stroke:none;" />
+    <text
+       xml:space="preserve"
+       id="text4183"
+       style="font-style:normal;font-weight:normal;font-size:10.58329999999999949px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect4185);fill:#000000;fill-opacity:1;stroke:none;" />
+    <text
+       xml:space="preserve"
+       id="text4189"
+       style="font-style:normal;font-weight:normal;font-size:10.58329999999999949px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect4191);fill:#000000;fill-opacity:1;stroke:none;" />
+    <text
+       xml:space="preserve"
+       id="text4199"
+       style="font-style:normal;font-weight:normal;font-size:10.58329999999999949px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect4201);fill:#000000;fill-opacity:1;stroke:none;" />
+    <text
+       xml:space="preserve"
+       id="text4207"
+       style="font-style:normal;font-weight:normal;font-size:10.58329999999999949px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect4209);fill:#000000;fill-opacity:1;stroke:none;" />
+    <text
+       xml:space="preserve"
+       id="text4217"
+       style="font-style:normal;font-weight:normal;font-size:10.58329999999999949px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect4219);fill:#000000;fill-opacity:1;stroke:none;" />
+    <text
+       xml:space="preserve"
+       id="text4223"
+       style="font-style:normal;font-weight:normal;font-size:10.58329999999999949px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect4225);fill:#000000;fill-opacity:1;stroke:none;" />
+    <text
+       xml:space="preserve"
+       id="text4231"
+       style="font-style:normal;font-weight:normal;font-size:10.58329999999999949px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect4233);fill:#000000;fill-opacity:1;stroke:none;" />
+    <text
+       xml:space="preserve"
+       id="text4237"
+       style="font-size:6.34999999999999964px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect4239);" />
+    <text
+       xml:space="preserve"
+       id="text4247"
+       style="font-size:6.34999999999999964px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect4249);" />
+    <text
+       xml:space="preserve"
+       id="text4253"
+       style="font-size:6.34999999999999964px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect4255);" />
+    <text
+       xml:space="preserve"
+       id="text4259"
+       style="font-size:6.34999999999999964px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect4261);" />
+    <text
+       xml:space="preserve"
+       id="text4299"
+       style="font-size:6.34999999999999964px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect4301);" />
+    <text
+       xml:space="preserve"
+       id="text4305"
+       style="font-size:6.34999999999999964px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect4307);" />
+    <text
+       xml:space="preserve"
+       id="text4313"
+       style="font-size:6.34999999999999964px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect4315);" />
+    <text
+       xml:space="preserve"
+       id="text4341"
+       style="font-size:7.76111000000000040px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect4343);" />
+    <text
+       xml:space="preserve"
+       id="text3843"
+       style="line-height:1.35;font-family:sans-serif;font-size:8.46666667000000039px;white-space:pre;shape-inside:url(#rect3845);" />
+    <text
+       xml:space="preserve"
+       id="text3857"
+       style="line-height:1.35;font-family:sans-serif;font-size:8.46666667000000039px;white-space:pre;shape-inside:url(#rect3859);" />
+  </g>
 </svg>
