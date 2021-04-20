@@ -191,20 +191,19 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 <!-- .element: class="fragment" data-fragment-index="13" -->
 <text xml:space="preserve" text-anchor="start" font-family="sans-serif" font-size="24" id="svg_33" y="169.5" x="520" opacity="undefined" fill-opacity="null" stroke-opacity="null" stroke-dasharray="null" stroke-width="0" stroke="#000" fill="#000000">la PRESENCIA</text>
 <!-- .element: class="fragment" data-fragment-index="13" -->
-<text style="cursor: move;" xml:space="preserve" text-anchor="start" font-family="sans-serif" font-size="18" id="svg_34" y="456.5" x="28" opacity="undefined" fill-opacity="null" stroke-opacity="null" stroke-dasharray="null" stroke-width="0" stroke="#000" fill="#000000"> T-ito 3:5 nos salvó, no por obras de justicia que nosotros hubiéramos hecho, sino por su misericordia,</text>
+<text style="cursor: move;" xml:space="preserve" text-anchor="start" font-family="sans-serif" font-size="18" id="svg_34" y="456.5" x="28" opacity="undefined" fill-opacity="null" stroke-opacity="null" stroke-dasharray="null" stroke-width="0" stroke="#000" fill="#000000"> <strong>Tito 3:5</strong> nos salvó, no por obras de justicia que nosotros hubiéramos hecho, sino por su misericordia,</text>
 <!-- .element: class="fragment" data-fragment-index="8" -->
-<text xml:space="preserve" text-anchor="start" font-family="sans-serif" font-size="18" id="svg_35" y="495.5" x="27" opacity="undefined" fill-opacity="null" stroke-opacity="null" stroke-dasharray="null" stroke-width="0" stroke="#000" fill="#000000"> 1 C-orintios 1:18  Porque la palabra de la cruz es locura a los que se pierden; pero a los que se salvan,</text>
+<text xml:space="preserve" text-anchor="start" font-family="sans-serif" font-size="18" id="svg_35" y="495.5" x="27" opacity="undefined" fill-opacity="null" stroke-opacity="null" stroke-dasharray="null" stroke-width="0" stroke="#000" fill="#000000"> <strong>1 Corintios 1:18</strong>  Porque la palabra de la cruz es locura a los que se pierden; pero a los que se salvan,</text>
 <!-- .element: class="fragment" data-fragment-index="11" -->
 <text xml:space="preserve" text-anchor="start" font-family="sans-serif" font-size="18" id="svg_36" y="519.5" x="30" opacity="undefined" fill-opacity="null" stroke-opacity="null" stroke-dasharray="null" stroke-width="0" stroke="#000" fill="#000000"> esto es, a nosotros, es poder de Dios.</text>
 <!-- .element: class="fragment" data-fragment-index="11" -->
-<text font-weight="normal" xml:space="preserve" text-anchor="start" font-family="sans-serif" font-size="18" id="svg_37" y="556.5" x="27" opacity="undefined" fill-opacity="null" stroke-opacity="null" stroke-dasharray="null" stroke-width="0" stroke="#000" fill="#000000">  R-omanos 5:9  Pues mucho más, estando ya justificados en su sangre, por él seremos salvos de la ira.</text>
+<text font-weight="normal" xml:space="preserve" text-anchor="start" font-family="sans-serif" font-size="18" id="svg_37" y="556.5" x="27" opacity="undefined" fill-opacity="null" stroke-opacity="null" stroke-dasharray="null" stroke-width="0" stroke="#000" fill="#000000">  <strong>Romanos 5:9</strong>  Pues mucho más, estando ya justificados en su sangre, por él seremos salvos de la ira.</text>
 <!-- .element: class="fragment" data-fragment-index="14"-->
  </g>
 </svg>
 
 
-
-<svg class="fullScreen" width="900" height="660" xmlns="http://www.w3.org/2000/svg">
+<svg class="fullScreen" width="900" height="600" version="1.1" viewBox="0 0 374.09 259.66" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns:xlink="http://www.w3.org/1999/xlink">
  <defs>
   <filter id="filter4441" x="-.0034439" y="-.016684" width="1.0069" height="1.0334" color-interpolation-filters="sRGB">
    <feGaussianBlur stdDeviation="0.047254303"/>
@@ -218,7 +217,6 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
  </g>
  <g transform="translate(-67.115 -12.78)" style="mix-blend-mode:normal">
   <g fill="#000000" font-family="sans-serif">
-
    <g font-size="10.583px">
       <text transform="translate(19.596 -3.877)" style="line-height:1.25;shape-inside:url(#rect558);white-space:pre" xml:space="preserve"><tspan x="130.9375" y="272.97773"><tspan>La Justifica de Dios Revelada 5ta edicion</tspan></tspan></text>
 </g>
@@ -233,7 +231,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 <!-- .element: class="fragment fade-up" data-fragment-index="1"-->
 <g id="block2">
   <rect transform="translate(231.32 47.625)" x="-163.8" y="26.051" width="55.65" height="10.812" fill="#0ff" stroke-width=".1567"/>
-  <text transform="matrix(1.012 0 0 1.1089 45.467 12.624)" x="24.435354" fill="#22b6fa" filter="url(#filter4441)" font-family="sans-serif" font-size="7.9923px" stroke="url(#linearGradient4394)" stroke-width=".15009" text-align="center" style="line-height:0.85;shape-inside:url(#rect2508-6);white-space:pre" xml:space="preserve"><tspan x="48.210618" y="62.247852"><tspan fill="#22b6fa" font-family="sans-serif" font-size="7.9923px" font-weight="bold" stroke="url(#linearGradient4394)" stroke-width=".15009" text-align="center" text-anchor="middle">1:1-17</tspan></tspan></text>
+<text transform="matrix(1.012 0 0 1.1089 45.467 12.624)" x="24.435354" fill="#22b6fa" filter="url(#filter4441)" font-family="sans-serif" font-size="7.9923px" stroke="url(#linearGradient4394)" stroke-width=".15009" text-align="center" style="line-height:0.85;shape-inside:url(#rect2508-6);white-space:pre" xml:space="preserve"><tspan x="48.210618" y="62.247852"><tspan fill="#22b6fa" font-family="sans-serif" font-size="7.9923px" font-weight="bold" stroke="url(#linearGradient4394)" stroke-width=".15009" text-align="center" text-anchor="middle"> 1:1-17 </tspan></tspan></text>
   </g>
 <!-- .element: class="fragment fade-up" data-fragment-index="2"-->
 <g id="block3">
@@ -411,8 +409,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
   <rect transform="translate(231.32 47.625)" x="86.967" y="152.72" width="52.604" height="56.119" fill="#d35f5f" stroke-width=".3471"/>
   <text transform="matrix(1.012 0 0 1.1089 297.42 141)" x="24.435354" fill="#ffffff" font-family="sans-serif" font-size="6.6603px" text-align="center" style="line-height:1.05;shape-inside:url(#rect2508-9-2-4-1-1-72);white-space:pre" xml:space="preserve"><tspan x="46.074166" y="61.965019"><tspan fill="#ffffff" font-family="sans-serif" font-size="6.6603px" font-weight="bold" text-align="center" text-anchor="middle">La </tspan></tspan><tspan x="48.247903" y="68.958289"><tspan fill="#ffffff" font-family="sans-serif" font-size="6.6603px" font-weight="bold" text-align="center" text-anchor="middle">Doxologia: 
 </tspan></tspan><tspan x="25.740579" y="75.95156"><tspan font-size="6.6603px">A Dios sea la </tspan></tspan><tspan x="37.552134" y="82.944831"><tspan font-size="6.6603px">Gloria </tspan></tspan><tspan x="31.971564" y="89.938102"><tspan font-size="6.6603px" font-style="italic">Romanos </tspan></tspan><tspan x="31.665869" y="96.931373"><tspan font-size="6.6603px" font-style="italic">11:33-36</tspan></tspan></text>
-
-  <text fill="black" font-family="sans-serif" font-size="10.583px" style="line-height:1.25;shape-inside:url(#rect4420);white-space:pre" xml:space="preserve"/>
+<text fill="black" font-family="sans-serif" font-size="10.583px" style="line-height:1.25;shape-inside:url(#rect4420);white-space:pre" xml:space="preserve"/>
   </g>
 <!-- .element: class="fragment" data-fragment-index="33"-->
 <g id="block34">
@@ -481,6 +478,8 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
   </g>
  </g>
 </svg> 
+
+
 
 
 
@@ -8036,7 +8035,6 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
  </g>
  <g transform="translate(-67.115 -12.78)" style="mix-blend-mode:normal">
   <g fill="#000000" font-family="sans-serif">
-
    <g font-size="10.583px">
       <text transform="translate(19.596 -3.877)" style="line-height:1.25;shape-inside:url(#rect558);white-space:pre" xml:space="preserve"><tspan x="130.9375" y="272.97773"><tspan>La Justifica de Dios Revelada 5ta edicion</tspan></tspan></text>
 </g>
@@ -8229,7 +8227,6 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
   <rect transform="translate(231.32 47.625)" x="86.967" y="152.72" width="52.604" height="56.119" fill="#d35f5f" stroke-width=".3471"/>
   <text transform="matrix(1.012 0 0 1.1089 297.42 141)" x="24.435354" fill="#ffffff" font-family="sans-serif" font-size="6.6603px" text-align="center" style="line-height:1.05;shape-inside:url(#rect2508-9-2-4-1-1-72);white-space:pre" xml:space="preserve"><tspan x="46.074166" y="61.965019"><tspan fill="#ffffff" font-family="sans-serif" font-size="6.6603px" font-weight="bold" text-align="center" text-anchor="middle">La </tspan></tspan><tspan x="48.247903" y="68.958289"><tspan fill="#ffffff" font-family="sans-serif" font-size="6.6603px" font-weight="bold" text-align="center" text-anchor="middle">Doxologia: 
 </tspan></tspan><tspan x="25.740579" y="75.95156"><tspan font-size="6.6603px">A Dios sea la </tspan></tspan><tspan x="37.552134" y="82.944831"><tspan font-size="6.6603px">Gloria </tspan></tspan><tspan x="31.971564" y="89.938102"><tspan font-size="6.6603px" font-style="italic">Romanos </tspan></tspan><tspan x="31.665869" y="96.931373"><tspan font-size="6.6603px" font-style="italic">11:33-36</tspan></tspan></text>
-
   <text fill="black" font-family="sans-serif" font-size="10.583px" style="line-height:1.25;shape-inside:url(#rect4420);white-space:pre" xml:space="preserve"/>
   </g>
 <!-- .element: class="fragment" data-fragment-index="33"-->
