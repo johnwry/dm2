@@ -145,7 +145,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<svg class="fullScreen" width="900" height="660" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 374.09 259.66" >
+<svg class="fullScreen" width="900" height="660" xmlns="http://www.w3.org/2000/svg"  >
  <g>
 <title>Los Tres Tiempos de la Salvación</title>
 <text font-style="normal" font-weight="bold" fill="#000000" stroke-width="0" opacity="undefined" x="239.55779" y="35.5" id="svg_1" font-size="24" font-family="'Anton'" text-anchor="start" xml:space="preserve" tr ansform="matrix(0.875950515270233,0,0,1,49.159233033657074,-4) " stroke="#000">Tres Tiempos de la Salvación</text> 
