@@ -7961,16 +7961,14 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
   <text transform="matrix(1.012 0 0 1.1089 46.002 58.965)" x="24.435354" fill="#ffffff" font-family="sans-serif" font-size="6.6603px" text-align="center" style="line-height:1.05;shape-inside:url(#rect2508-9-8);white-space:pre" xml:space="preserve"><tspan x="25.147716" y="61.965019"><tspan style="shape-inside:url(#rect2508-9-8)">El corazón por </tspan></tspan><tspan x="28.698988" y="68.958289"><tspan style="shape-inside:url(#rect2508-9-8)">los romanos</tspan></tspan></text>
   </g>
   <!-- .element: class="fragment" data-fragment-index="4"-->
-  <g id="block5">
+<g id="block5">
   <rect transform="translate(231.32 47.625)" x="-164.13" y="102.07" width="56.095" height="49.398" fill="#008000" stroke-width=".33811"/>
   <text transform="matrix(1.012 0 0 1.1089 46.632 93.781)" x="24.435354" fill="#ffffff" font-family="sans-serif" font-size="7.9923px" text-align="center" style="line-height:0.95;shape-inside:url(#rect2508-9-2);white-space:pre" xml:space="preserve"><tspan x="26.585136" y="62.647468"><tspan font-size="6.6603px">La Pasion por </tspan></tspan><tspan x="31.39171" y="70.240165"><tspan font-size="6.6603px">predicar el </tspan></tspan><tspan x="31.951068" y="77.832862"><tspan font-size="6.6603px">evangelio 
 </tspan></tspan><tspan x="41.226001" y="85.425559"><tspan font-size="6.6603px">1:16</tspan></tspan></text>
-  <g transform="translate(231.32 47.625)">
-  </g></g>
+  </g>
   <!-- .element: class="fragment" data-fragment-index="5"-->
   <g id="block6">
    <rect x="-163.95" y="152.77" width="56.095" height="55.481" fill="#008000" stroke-width=".35833"/>
-  </g>
   <text transform="matrix(1.012 0 0 1.1089 45.043 143.32)" x="24.435354" fill="#ffffff" font-family="sans-serif" font-size="6.6603px" text-align="center" style="line-height:1.2;shape-inside:url(#rect2508-9-2-4);white-space:pre" xml:space="preserve"><tspan x="27.807918" y="62.464538"><tspan font-weight="bold">El producto</tspan><tspan style="shape-inside:url(#rect2508-9-2-4)"> </tspan></tspan><tspan x="23.352568" y="70.456848"><tspan style="shape-inside:url(#rect2508-9-2-4)">del Eveangelio: </tspan></tspan><tspan x="25.921712" y="78.449158"><tspan style="shape-inside:url(#rect2508-9-2-4)">el justo por la </tspan></tspan><tspan x="34.403137" y="86.441467"><tspan style="shape-inside:url(#rect2508-9-2-4)">fe vivira 
 </tspan></tspan><tspan x="27.057354" y="94.433777"><tspan font-size="5.9942px" font-style="italic">Romanos 1:17</tspan></tspan></text>
 </g>
