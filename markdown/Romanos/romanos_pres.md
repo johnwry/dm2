@@ -7923,19 +7923,16 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
  </g>
  <g transform="translate(-67.115 -12.78)" style="mix-blend-mode:normal">
   <g fill="#000000" font-family="sans-serif">
-   <text font-size="19.756px" style="line-height:1.25;shape-inside:url(#rect544);white-space:pre" xml:space="preserve"><tspan x="96.90625" y="54.006055" visibility="hidden"><tspan dx="0 13.54339 18.019268 17.05464 14.508018 12.88744 18.019272 12.887444 4.4758759 9.1060944 4.4758835 10.495163 4.3601227 4.4758759 11.922821 11.807053 9.3376007 11.382629 11.035355 10.495163 4.1286011" font-family="Papyrus">  ROMANOS - el bosquejo</tspan></tspan></text>
    <g font-size="10.583px">
     <g>
      <g>
       <text transform="translate(19.596 -3.877)" style="line-height:1.25;shape-inside:url(#rect558);white-space:pre" xml:space="preserve"><tspan x="125.9375" y="272.97773"><tspan>La Justifica de Dios Revelada 5ta edicion</tspan></tspan></text>
      </g>
-     <text style="line-height:1.25;shape-inside:url(#rect1441);white-space:pre" xml:space="preserve"/>
-     <text style="line-height:1.25;shape-inside:url(#rect1453);white-space:pre" xml:space="preserve"/>
-     <text style="line-height:1.25;shape-inside:url(#rect2336);white-space:pre" xml:space="preserve"><tspan x="75.9375" y="74.471871" visibility="hidden"><tspan dx="0 7.3587008 6.4285278 10.293914 6.3665161 6.6972427 6.4285278">Romanos</tspan></tspan></text>
+   
     </g>
-    <text font-weight="bold" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25;shape-inside:url(#rect2354);white-space:pre" xml:space="preserve"><tspan x="78.890625" y="76.696481" visibility="hidden"><tspan dx="0 8.2888737 7.2760181 11.203415 7.069313 7.544735 7.2760201" font-family="sans-serif" font-size="10.583px" font-weight="bold" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">Romanos</tspan></tspan></text>
+
    </g>
-   <text transform="translate(10.449 -29.436)" font-size="25.4px" style="line-height:1.25;shape-inside:url(#rect2502);white-space:pre" xml:space="preserve"><tspan x="88.103516" y="64.159518"><tspan font-size="25.4px">ROMANOS - el bosquejo!!</tspan></tspan></text>
+   <text transform="translate(10.449 -29.436)" font-size="25.4px" style="line-height:1.25;shape-inside:url(#rect2502);white-space:pre" xml:space="preserve"><tspan x="88.103516" y="64.159518"><tspan font-size="25.4px">ROMANOS - el bosquejo</tspan></tspan></text>
   </g>
 <g id="block1">
   <rect transform="translate(231.32 47.625)" x="-164.09" y="-6.0862" width="55.742" height="30.532" fill="#008000" stroke-width=".2615"/>
