@@ -7951,22 +7951,26 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
   </g>
 <!-- .element: class="fragment" data-fragment-index="1" -->
   <g id="block2" transform="matrix(-4754.4 0 0 0 453405 12.78)">
-   <rect id="rect80-9-4-4-7-1-29" transform="translate(231.32 47.625)" x="-163.8" y="26.051" width="55.65" height="10.812" fill="#0ff" stroke-width=".1567"/>
-   <text id="text2506-7" transform="matrix(1.012 0 0 1.1089 45.467 12.624)" x="24.435354" fill="#22b6fa" filter="url(#filter4441)" font-family="sans-serif" font-size="7.9923px" stroke="url(#linearGradient5787)" stroke-width=".15009" text-align="center" style="line-height:0.85;shape-inside:url(#rect2508-6);white-space:pre" xml:space="preserve"><tspan x="34.210618" y="62.247852"><tspan fill="#22b6fa" font-family="sans-serif" font-size="7.9923px" font-weight="bold" stroke="url(#linearGradient5787)" stroke-width=".15009" text-align="center" text-anchor="middle">1:1-17</tspan></tspan></text>
+    <rect transform="translate(231.32 47.625)" x="-163.8" y="26.051" width="55.65" height="10.812" fill="#0ff" stroke-width=".1567"/>
+  <text transform="matrix(1.012 0 0 1.1089 45.467 12.624)" x="24.435354" fill="#22b6fa" filter="url(#filter4441)" font-family="sans-serif" font-size="7.9923px" stroke="url(#linearGradient4394)" stroke-width=".15009" text-align="center" style="line-height:0.85;shape-inside:url(#rect2508-6);white-space:pre" xml:space="preserve"><tspan x="48.210618" y="62.247852"><tspan fill="#22b6fa" font-family="sans-serif" font-size="7.9923px" font-weight="bold" stroke="url(#linearGradient4394)" stroke-width=".15009" text-align="center" text-anchor="middle">1:1-17</tspan></tspan></text>
   </g>
+<!-- .element: class="fragment" data-fragment-index="2" -->
   <g id="block3">
    <rect id="rect80" transform="translate(231.32 47.625)" x="-164.21" y="38.44" width="56.061" height="30.597" fill="#008000" stroke-width=".26458"/>
    <text id="text2506-1" transform="matrix(1.012 0 0 1.1089 46.632 25.42)" x="24.435354" fill="#ffffff" font-family="sans-serif" font-size="10.583px" text-align="center" style="line-height:0.85;shape-inside:url(#rect2508-9);white-space:pre" xml:space="preserve"><tspan x="23.586718" y="64.093493"><tspan font-size="6.6603px">el deber de dar </tspan></tspan><tspan x="29.050213" y="73.089297"><tspan font-size="6.6603px">el evangelio</tspan><tspan style="shape-inside:url(#rect2508-9)"> </tspan></tspan></text>
   </g>
+<!-- .element: class="fragment" data-fragment-index="3" -->
   <g id="block4">
    <rect id="rect84" transform="translate(231.32 47.625)" x="-164.12" y="70.102" width="56.095" height="30.959" fill="#008000" stroke-width=".26767"/>
    <text id="text2506-1-5" transform="matrix(1.012 0 0 1.1089 46.002 58.965)" x="24.435354" fill="#ffffff" font-family="sans-serif" font-size="6.6603px" text-align="center" style="line-height:1.05;shape-inside:url(#rect2508-9-8);white-space:pre" xml:space="preserve"><tspan x="25.147716" y="61.965019"><tspan style="shape-inside:url(#rect2508-9-8)">El corazon por </tspan></tspan><tspan x="28.698988" y="68.958289"><tspan style="shape-inside:url(#rect2508-9-8)">los romanos</tspan></tspan></text>
   </g>
+<!-- .element: class="fragment" data-fragment-index="4" -->
   <g id="block5">
    <rect id="rect84-2" transform="translate(231.32 47.625)" x="-164.13" y="102.07" width="56.095" height="49.398" fill="#008000" stroke-width=".33811"/>
    <text id="text2506-1-7" transform="matrix(1.012 0 0 1.1089 46.632 93.781)" x="24.435354" fill="#ffffff" font-family="sans-serif" font-size="7.9923px" text-align="center" style="line-height:0.95;shape-inside:url(#rect2508-9-2);white-space:pre" xml:space="preserve"><tspan x="26.585136" y="62.647468"><tspan font-size="6.6603px">La Pasion por </tspan></tspan><tspan x="31.39171" y="70.240165"><tspan font-size="6.6603px">predicar el </tspan></tspan><tspan x="31.951068" y="77.832862"><tspan font-size="6.6603px">evangelio 
 </tspan></tspan><tspan x="41.226001" y="85.425559"><tspan font-size="6.6603px">1:16</tspan></tspan></text>
   </g>
+<!-- .element: class="fragment" data-fragment-index="5" -->
   <g id="block6">
    <g id="g3989" transform="translate(231.32 47.625)">
     <rect id="rect84-2-9" x="-163.95" y="152.77" width="56.095" height="55.481" fill="#008000" stroke-width=".35833"/>
@@ -7974,10 +7978,12 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
    <text id="text2506-1-7-5" transform="matrix(1.012 0 0 1.1089 45.043 143.32)" x="24.435354" fill="#ffffff" font-family="sans-serif" font-size="6.6603px" text-align="center" style="line-height:1.2;shape-inside:url(#rect2508-9-2-4);white-space:pre" xml:space="preserve"><tspan x="27.807918" y="62.464538"><tspan font-weight="bold">El producto</tspan><tspan style="shape-inside:url(#rect2508-9-2-4)"> </tspan></tspan><tspan x="23.352568" y="70.456848"><tspan style="shape-inside:url(#rect2508-9-2-4)">del Eveangelio: </tspan></tspan><tspan x="25.921712" y="78.449158"><tspan style="shape-inside:url(#rect2508-9-2-4)">el justo por la </tspan></tspan><tspan x="34.403137" y="86.441467"><tspan style="shape-inside:url(#rect2508-9-2-4)">fe vivira 
 </tspan></tspan><tspan x="27.057354" y="94.433777"><tspan font-size="5.9942px" font-style="italic">Romanos 1:17</tspan></tspan></text>
   </g>
+<!-- .element: class="fragment" data-fragment-index="6" -->
   <g id="block7">
    <rect id="rect80-9" transform="translate(231.32 47.625)" x="-106.71" y="-5.8095" width="55.486" height="30.064" fill="#1c1c24" stroke-width=".26092"/>
    <text id="text2506-1-7-5-0" transform="matrix(1.012 0 0 1.1089 102.76 -17.453)" x="24.435354" fill="#ffffff" font-family="sans-serif" font-size="6.6603px" text-align="center" style="line-height:1.05;shape-inside:url(#rect2508-9-2-4-1);white-space:pre" xml:space="preserve"><tspan x="25.414387" y="61.965019"><tspan font-weight="bold">LOS 3 TIPOS </tspan></tspan><tspan x="44.061815" y="68.958289"><tspan font-weight="bold">DE </tspan></tspan><tspan x="26.539607" y="75.95156"><tspan font-weight="bold">PECADORES</tspan></tspan></text>
   </g>
+<!-- .element: class="fragment" data-fragment-index="7" -->
   <g id="block8">
    <rect id="rect80-9-4" transform="translate(231.32 47.625)" x="-106.9" y="25.921" width="55.722" height="10.959" fill="#0ff" stroke-width=".15786"/>
    <text id="text2506-1-7-5-0-5" transform="matrix(1.012 0 0 1.1089 99.374 12.095)" x="24.435354" fill="#22b6fa" font-family="sans-serif" font-size="7.9923px" stroke="#000000" stroke-width=".15009" text-align="center" style="line-height:0.85;shape-inside:url(#rect2508-9-2-4-1-1);white-space:pre" xml:space="preserve"><tspan x="29.432475" y="62.247852"><tspan fill="#22b6fa" font-size="7.9923px" font-weight="bold" stroke="#000000" stroke-width=".15009">1:18-3:20</tspan></tspan></text>
