@@ -7909,7 +7909,6 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
    xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
    xmlns:dc="http://purl.org/dc/elements/1.1/"
@@ -7920,8 +7919,8 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="508mm"
-   height="285.75mm"
+   width="1920px"
+   height="1080px"
    viewBox="0 0 508 285.75"
    version="1.1"
    id="svg8"
