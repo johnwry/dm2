@@ -145,61 +145,389 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<svg class="fullScreen" width="900" height="660" xmlns="http://www.w3.org/2000/svg"  >
- <g>
-<title>Los Tres Tiempos de la Salvación</title>
-<text font-style="normal" font-weight="bold" fill="#000000" stroke-width="0" opacity="undefined" x="239.55779" y="35.5" id="svg_1" font-size="24" font-family="'Anton'" text-anchor="start" xml:space="preserve" tr ansform="matrix(0.875950515270233,0,0,1,49.159233033657074,-4) " stroke="#000">Tres Tiempos de la Salvación</text> 
-<!-- .element: class="fragment" data-fragment-index="1" -->
-<text font-weight="bold" fill="#000000" stroke="#000" stroke-width="0" opacity="undefined" x="116" y="103.5" id="svg_2" font-size="24" font-family="sans-serif" text-anchor="start" xml:space="preserve">Justificación</text>
-<!-- .element: class="fragment" data-fragment-index="3" -->
-<text font-style="normal" font-weight="bold" fill="#000000" stroke="#000" stroke-width="0" opacity="undefined" x="320" y="190.5" id="svg_3" font-size="24" font-family="sans-serif" text-anchor="start" xml:space="preserve">Santificación</text>
-<!-- .element: class="fragment" data-fragment-index="5" -->
-<text font-weight="bold" fill="#000000" stroke="#000" stroke-width="0" opacity="undefined" x="515" y="106.5" id="svg_4" font-size="24" font-family="sans-serif" text-anchor="start" xml:space="preserve">Glorificación</text>
-<!-- .element: class="fragment" data-fragment-index="4" -->
-<line fill="none" stroke="#000" opacity="undefined" x1="26" y1="422.5" x2="750.33418" y2="422.5" id="svg_5" stroke-linejoin="undefined" stroke-linecap="undefined"/>
-<!-- .element: class="fragment" data-fragment-index="2" -->
-<g id="cross-group">
-	<rect stroke="#000" id="svg_6" height="100" width="18" y="320.5" x="27.5" opacity="undefined" stroke-opacity="null" stroke-dasharray="null" stroke-width="null" fill="#000000"/>
-	<rect id="svg_7" height="15" width="55" y="338.5" x="9" opacity="undefined" stroke-opacity="null" stroke-dasharray="null" stroke-width="null" stroke="#000" fill="#000000"/>
-</g>
-<!-- .element: class="fragment" data-fragment-index="2"-->
-<line stroke-linecap="null" stroke-linejoin="null" id="svg_11" y2="87.32398" x2="39" y1="317.5" x1="39" opacity="undefined" fill-opacity="null" stroke-opacity="null" stroke-dasharray="null" stroke="#000" fill="none"/>
-<!-- .element: class="fragment fade-up" data-fragment-index="6"  -->
-<line stroke="#000" stroke-linecap="null" stroke-linejoin="null" id="glorification-line" y2="86.36273" x2="750" y1="419.5" x1="750" opacity="undefined" fill-opacity="null" stroke-opacity="null" stroke-dasharray="null" fill="none"/>
-<!-- .element: class="fragment" data-fragment-index="12" -->
-<line stroke-linecap="null" stroke-linejoin="null" id="svg_13" y2="53.5" x2="747.07052" y1="53.5" x1="38" opacity="undefined" fill-opacity="null" stroke-opacity="null" stroke-dasharray="null" stroke="#000" fill="none"/>
-<!-- .element: class="fragment fade-right" data-fragment-index="9"-->
-<rect stroke="#000" id="yellow-line" height="25" width="663" y="365.5" x="61" opacity="undefined" stroke-opacity="null" stroke-dasharray="null" stroke-width="0" fill="#ffd4aa"/>
-<!-- .element: class="fragment fade-left" data-fragment-index="9" -->
-<g id="svg_19">
-<path id="up-arrow" d="m729.25,96.12891c0.40039,-1.04492 0.625,-2.1875 0.625,-3.37891c0,-5.17578 -4.19922,-9.375 -9.375,-9.375c-1.92383,0 -3.7207,0.58594 -5.20508,1.58203c-2.70508,-4.6875 -7.75391,-7.83203 -13.54492,-7.83203c-8.63281,0 -15.625,6.99219 -15.625,15.625c0,0.26367 0.00977,0.52734 0.01953,0.79102c-5.46875,1.92383 -9.39453,7.13867 -9.39453,13.27148c0,7.76367 6.29883,14.0625 14.0625,14.0625l35.9375,0c6.9043,0 12.5,-5.5957 12.5,-12.5c0,-6.04492 -4.29688,-11.09375 -10,-12.24609zm-14.08203,5.99609l-6.38672,0l0,10.9375c0,0.85938 -0.70313,1.5625 -1.5625,1.5625l-4.6875,0c-0.85938,0 -1.5625,-0.70313 -1.5625,-1.5625l0,-10.9375l-6.38672,0c-1.39648,0 -2.08984,-1.67969 -1.10352,-2.66602l10.29297,-10.29297c0.60547,-0.60547 1.60156,-0.60547 2.20703,0l10.29297,10.29297c0.98633,0.98633 0.2832,2.66602 -1.10352,2.66602z" fill="#bf0000"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   class="fullScreen"
+   width="956.25781"
+   height="507.21777"
+   version="1.1"
+   id="svg6480"
+   sodipodi:docname="3-tiempos.svg"
+   inkscape:version="1.0.2 (e86c8708, 2021-01-15)">
+  <metadata
+     id="metadata6486">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6484" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1472"
+     inkscape:window-height="750"
+     id="namedview6482"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="0.79111111"
+     inkscape:cx="441.5"
+     inkscape:cy="277"
+     inkscape:window-x="121"
+     inkscape:window-y="159"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg6480" />
+  <g
+     id="g6453"
+     transform="translate(-8.5,-53)"><title
+   id="title6450">Los Tres Tiempos de la Salvación</title>
+<text
+   font-style="normal"
+   font-weight="bold"
+   fill="#000000"
+   stroke-width="0"
+   opacity="undefined"
+   x="239.55779"
+   y="35.5"
+   id="svg_1"
+   font-size="24px"
+   font-family="Anton"
+   text-anchor="start"
+   xml:space="preserve" />
+ansform=&quot;matrix(0.875950515270233,0,0,1,49.159233033657074,-4) &quot; stroke=&quot;#000&quot;&gt;Tres Tiempos de la Salvación</g>
+  <!-- .element: class="fragment" data-fragment-index="1" -->
+  <text
+     font-weight="bold"
+     fill="#000000"
+     stroke="#000000"
+     stroke-width="0"
+     opacity="undefined"
+     x="143.5"
+     y="50.5"
+     id="svg_2"
+     font-size="24px"
+     font-family="sans-serif"
+     text-anchor="start"
+     xml:space="preserve">Justificación</text>
+  <!-- .element: class="fragment" data-fragment-index="3" -->
+  <text
+     font-style="normal"
+     font-weight="bold"
+     fill="#000000"
+     stroke="#000000"
+     stroke-width="0"
+     opacity="undefined"
+     x="387.83707"
+     y="157.72472"
+     id="svg_3"
+     font-size="24px"
+     font-family="sans-serif"
+     text-anchor="start"
+     xml:space="preserve">Santificación</text>
+  <!-- .element: class="fragment" data-fragment-index="5" -->
+  <text
+     font-weight="bold"
+     fill="#000000"
+     stroke="#000000"
+     stroke-width="0"
+     opacity="undefined"
+     x="622.02252"
+     y="56.971912"
+     id="svg_4"
+     font-size="24px"
+     font-family="sans-serif"
+     text-anchor="start"
+     xml:space="preserve">Glorificación</text>
+  <!-- .element: class="fragment" data-fragment-index="4" -->
+  <line
+     fill="none"
+     stroke="#000000"
+     opacity="undefined"
+     x1="69.213486"
+     y1="366.33987"
+     x2="861.80609"
+     y2="366.33987"
+     id="svg_5"
+     stroke-linejoin="undefined"
+     stroke-linecap="undefined"
+     style="stroke-width:1.04606" />
+  <!-- .element: class="fragment" data-fragment-index="2" -->
+  <g
+     id="cross-group"
+     transform="translate(27.5,-53)">
+    <rect
+       stroke="#000000"
+       id="svg_6"
+       height="100"
+       width="18"
+       y="320.5"
+       x="27.5"
+       opacity="undefined"
+       stroke-opacity="null"
+       stroke-dasharray="none"
+       stroke-width="null"
+       fill="#000000" />
+    <rect
+       id="svg_7"
+       height="15"
+       width="55"
+       y="338.5"
+       x="9"
+       opacity="undefined"
+       stroke-opacity="null"
+       stroke-dasharray="none"
+       stroke-width="null"
+       stroke="#000000"
+       fill="#000000" />
   </g>
-<!-- .element: class="fragment fade-right" data-fragment-index="12"  -->
-<g id="svg_24">
-<path id="guy-plus" d="m104.6875,93.3125l-6.25,0l0,-6.25c0,-0.85938 -0.70313,-1.5625 -1.5625,-1.5625l-3.125,0c-0.85938,0 -1.5625,0.70313 -1.5625,1.5625l0,6.25l-6.25,0c-0.85938,0 -1.5625,0.70313 -1.5625,1.5625l0,3.125c0,0.85938 0.70313,1.5625 1.5625,1.5625l6.25,0l0,6.25c0,0.85938 0.70313,1.5625 1.5625,1.5625l3.125,0c0.85938,0 1.5625,-0.70313 1.5625,-1.5625l0,-6.25l6.25,0c0.85938,0 1.5625,-0.70313 1.5625,-1.5625l0,-3.125c0,-0.85938 -0.70313,-1.5625 -1.5625,-1.5625zm-39.0625,4.6875c6.9043,0 12.5,-5.5957 12.5,-12.5s-5.5957,-12.5 -12.5,-12.5s-12.5,5.5957 -12.5,12.5s5.5957,12.5 12.5,12.5zm8.75,3.125l-1.63086,0c-2.16797,0.99609 -4.58008,1.5625 -7.11914,1.5625s-4.94141,-0.56641 -7.11914,-1.5625l-1.63086,0c-7.24609,0 -13.125,5.87891 -13.125,13.125l0,4.0625c0,2.58789 2.09961,4.6875 4.6875,4.6875l34.375,0c2.58789,0 4.6875,-2.09961 4.6875,-4.6875l0,-4.0625c0,-7.24609 -5.87891,-13.125 -13.125,-13.125z" fill="#bf0000"/>
-</g>
-<!-- .element: class="fragment fade-right" data-fragment-index="6"  -->
-<g stroke="null" id="svg_29">
-<path stroke="null" id="walking" d="m398.88888,267.18608c6.29444,0 11.40124,-5.10681 11.40124,-11.40124s-5.10681,-11.40124 -11.40124,-11.40124s-11.40124,5.10681 -11.40124,11.40124s5.10681,11.40124 11.40124,11.40124zm22.44619,35.41511l-5.53435,-2.80281l-2.304,-6.98326c-3.49163,-10.59365 -13.23019,-18.00446 -24.27514,-18.02821c-8.55093,-0.02375 -13.2777,2.39901 -22.16116,5.98565c-5.13056,2.06647 -9.33477,5.98565 -11.80504,10.97369l-1.59142,3.23035c-1.8527,3.75291 -0.35629,8.31341 3.37287,10.18986c3.7054,1.87645 8.21839,0.35629 10.09485,-3.39662l1.59142,-3.23035c0.83134,-1.66268 2.20899,-2.96907 3.91918,-3.6579l6.36569,-2.56528l-3.61039,14.41782c-1.23513,4.94054 0.09501,10.18986 3.53914,13.96652l14.2278,15.53419c1.71019,1.87645 2.92157,4.13295 3.53914,6.57947l4.34672,17.41065c1.02136,4.06169 5.15431,6.55571 9.216,5.53435c4.06169,-1.02136 6.55571,-5.15431 5.53435,-9.216l-5.27307,-21.1398c-0.61757,-2.44652 -1.82895,-4.72676 -3.53914,-6.57947l-10.80743,-11.80504l4.08544,-16.31803l1.30639,3.91918c1.25889,3.82417 3.96668,6.98326 7.52957,8.78846l5.53435,2.80281c3.7054,1.87645 8.21839,0.35629 10.09485,-3.39662c1.82895,-3.72916 0.33254,-8.33716 -3.39662,-10.21361zm-54.36967,33.41989c-0.76008,1.92396 -1.90021,3.6579 -3.37287,5.10681l-11.87629,11.90005c-2.96907,2.96907 -2.96907,7.79085 0,10.75992s7.7671,2.96907 10.73617,0l14.10904,-14.10904c1.44891,-1.44891 2.58903,-3.18285 3.37287,-5.10681l3.2066,-8.02837c-13.13518,-14.32281 -9.19225,-9.92858 -11.25873,-12.75514l-4.91679,12.23258z" fill="#bf0000"/>
-</g>
-<!-- .element: class="fragment fade-right" data-fragment-index="9"  -->
-<text xml:space="preserve" text-anchor="start" font-family="sans-serif" font-size="24" id="svg_30" y="147.5" x="72" opacity="undefined" fill-opacity="null" stroke-opacity="null" stroke-dasharray="null" stroke-width="0" stroke="#000" fill="#000000">Salvo de la PENA</text>
-<!-- .element: class="fragment" data-fragment-index="7" -->
-<text xml:space="preserve" text-anchor="start" font-family="sans-serif" font-size="24" id="svg_31" y="222.5" x="302" opacity="undefined" fill-opacity="null" stroke-opacity="null" stroke-dasharray="null" stroke-width="0" stroke="#000" fill="#000000">Salvo del PODER</text>
-<!-- .element: class="fragment" data-fragment-index="10" -->
-<text xml:space="preserve" text-anchor="start" font-family="sans-serif" font-size="24" id="svg_32" y="138.5" x="519" opacity="undefined" fill-opacity="null" stroke-opacity="null" stroke-dasharray="null" stroke-width="0" stroke="#000" fill="#000000">Salvará de</text>
-<!-- .element: class="fragment" data-fragment-index="13" -->
-<text xml:space="preserve" text-anchor="start" font-family="sans-serif" font-size="24" id="svg_33" y="169.5" x="520" opacity="undefined" fill-opacity="null" stroke-opacity="null" stroke-dasharray="null" stroke-width="0" stroke="#000" fill="#000000">la PRESENCIA</text>
-<!-- .element: class="fragment" data-fragment-index="13" -->
-<text style="cursor: move;" xml:space="preserve" text-anchor="start" font-family="sans-serif" font-size="18" id="svg_34" y="456.5" x="28" opacity="undefined" fill-opacity="null" stroke-opacity="null" stroke-dasharray="null" stroke-width="0" stroke="#000" fill="#000000"> Tito 3:5 nos salvó, no por obras de justicia que nosotros hubiéramos hecho, sino por su misericordia,</text>
-<!-- .element: class="fragment" data-fragment-index="8" -->
-<text xml:space="preserve" text-anchor="start" font-family="sans-serif" font-size="18" id="svg_35" y="495.5" x="27" opacity="undefined" fill-opacity="null" stroke-opacity="null" stroke-dasharray="null" stroke-width="0" stroke="#000" fill="#000000"> 1 Corintios 1:18  Porque la palabra de la cruz es locura a los que se pierden; pero a los que se salvan,</text>
-<!-- .element: class="fragment" data-fragment-index="11" -->
-<text xml:space="preserve" text-anchor="start" font-family="sans-serif" font-size="18" id="svg_36" y="519.5" x="30" opacity="undefined" fill-opacity="null" stroke-opacity="null" stroke-dasharray="null" stroke-width="0" stroke="#000" fill="#000000"> esto es, a nosotros, es poder de Dios.</text>
-<!-- .element: class="fragment" data-fragment-index="11" -->
-<text font-weight="normal" xml:space="preserve" text-anchor="start" font-family="sans-serif" font-size="18" id="svg_37" y="556.5" x="27" opacity="undefined" fill-opacity="null" stroke-opacity="null" stroke-dasharray="null" stroke-width="0" stroke="#000" fill="#000000">  Romanos 5:9  Pues mucho más, estando ya justificados en su sangre, por él seremos salvos de la ira.</text>
-<!-- .element: class="fragment" data-fragment-index="14"-->
- </g>
+  <!-- .element: class="fragment" data-fragment-index="2"-->
+  <line
+     stroke-linecap="null"
+     stroke-linejoin="null"
+     id="svg_11"
+     y2="34.323982"
+     x2="62.5"
+     y1="264.5"
+     x1="62.5"
+     opacity="undefined"
+     fill-opacity="null"
+     stroke-opacity="null"
+     stroke-dasharray="none"
+     stroke="#000000"
+     fill="none" />
+  <!-- .element: class="fragment fade-up" data-fragment-index="6"  -->
+  <line
+     stroke="#000000"
+     stroke-linecap="null"
+     stroke-linejoin="null"
+     id="glorification-line"
+     y2="31.890823"
+     x2="861.58429"
+     y1="365.02808"
+     x1="861.58429"
+     opacity="undefined"
+     fill-opacity="null"
+     stroke-opacity="null"
+     stroke-dasharray="none"
+     fill="none" />
+  <!-- .element: class="fragment" data-fragment-index="12" -->
+  <line
+     stroke-linecap="null"
+     stroke-linejoin="null"
+     id="svg_13"
+     y2="0.5"
+     x2="738.5705"
+     y1="0.5"
+     x1="29.5"
+     opacity="undefined"
+     fill-opacity="null"
+     stroke-opacity="null"
+     stroke-dasharray="none"
+     stroke="#000000"
+     fill="none" />
+  <!-- .element: class="fragment fade-right" data-fragment-index="9"-->
+  <rect
+     stroke="#000000"
+     id="yellow-line"
+     height="25"
+     width="765.38763"
+     y="337.78088"
+     x="85.971909"
+     opacity="undefined"
+     stroke-opacity="null"
+     stroke-dasharray="none"
+     stroke-width="0"
+     fill="#ffd4aa" />
+  <!-- .element: class="fragment fade-left" data-fragment-index="9" -->
+  <g
+     id="svg_19"
+     transform="translate(117.16574,-44.013368)">
+    <path
+       id="up-arrow"
+       d="m 729.25,96.12891 c 0.40039,-1.04492 0.625,-2.1875 0.625,-3.37891 0,-5.17578 -4.19922,-9.375 -9.375,-9.375 -1.92383,0 -3.7207,0.58594 -5.20508,1.58203 -2.70508,-4.6875 -7.75391,-7.83203 -13.54492,-7.83203 -8.63281,0 -15.625,6.99219 -15.625,15.625 0,0.26367 0.01,0.52734 0.0195,0.79102 -5.46875,1.92383 -9.39453,7.13867 -9.39453,13.27148 0,7.76367 6.29883,14.0625 14.0625,14.0625 H 726.75 c 6.9043,0 12.5,-5.5957 12.5,-12.5 0,-6.04492 -4.29688,-11.09375 -10,-12.24609 z m -14.08203,5.99609 h -6.38672 v 10.9375 c 0,0.85938 -0.70313,1.5625 -1.5625,1.5625 h -4.6875 c -0.85938,0 -1.5625,-0.70313 -1.5625,-1.5625 V 102.125 h -6.38672 c -1.39648,0 -2.08984,-1.67969 -1.10352,-2.66602 l 10.29297,-10.29297 c 0.60547,-0.60547 1.60156,-0.60547 2.20703,0 l 10.29297,10.29297 c 0.98633,0.98633 0.2832,2.66602 -1.10352,2.66602 z"
+       fill="#bf0000" />
+  </g>
+  <!-- .element: class="fragment fade-right" data-fragment-index="12"  -->
+  <g
+     id="svg_24"
+     transform="translate(30.685393,-47.94382)">
+    <path
+       id="guy-plus"
+       d="m 104.6875,93.3125 h -6.25 v -6.25 C 98.4375,86.20312 97.73437,85.5 96.875,85.5 H 93.75 c -0.85938,0 -1.5625,0.70313 -1.5625,1.5625 v 6.25 h -6.25 c -0.85938,0 -1.5625,0.70313 -1.5625,1.5625 V 98 c 0,0.85938 0.70313,1.5625 1.5625,1.5625 h 6.25 v 6.25 c 0,0.85938 0.70313,1.5625 1.5625,1.5625 h 3.125 c 0.85938,0 1.5625,-0.70313 1.5625,-1.5625 v -6.25 h 6.25 c 0.85938,0 1.5625,-0.70313 1.5625,-1.5625 v -3.125 c 0,-0.85938 -0.70313,-1.5625 -1.5625,-1.5625 z M 65.625,98 c 6.9043,0 12.5,-5.5957 12.5,-12.5 0,-6.9043 -5.5957,-12.5 -12.5,-12.5 -6.9043,0 -12.5,5.5957 -12.5,12.5 0,6.9043 5.5957,12.5 12.5,12.5 z m 8.75,3.125 h -1.63086 c -2.16797,0.99609 -4.58008,1.5625 -7.11914,1.5625 -2.53906,0 -4.94141,-0.56641 -7.11914,-1.5625 H 56.875 c -7.24609,0 -13.125,5.87891 -13.125,13.125 v 4.0625 c 0,2.58789 2.09961,4.6875 4.6875,4.6875 h 34.375 c 2.58789,0 4.6875,-2.09961 4.6875,-4.6875 V 114.25 c 0,-7.24609 -5.87891,-13.125 -13.125,-13.125 z"
+       fill="#bf0000" />
+  </g>
+  <!-- .element: class="fragment fade-right" data-fragment-index="6"  -->
+  <g
+     stroke="null"
+     id="svg_29"
+     transform="translate(78.174161,-28.983146)">
+    <path
+       stroke="null"
+       id="walking"
+       d="m 398.88888,267.18608 c 6.29444,0 11.40124,-5.10681 11.40124,-11.40124 0,-6.29443 -5.10681,-11.40124 -11.40124,-11.40124 -6.29443,0 -11.40124,5.10681 -11.40124,11.40124 0,6.29443 5.10681,11.40124 11.40124,11.40124 z m 22.44619,35.41511 -5.53435,-2.80281 -2.304,-6.98326 c -3.49163,-10.59365 -13.23019,-18.00446 -24.27514,-18.02821 -8.55093,-0.0237 -13.2777,2.39901 -22.16116,5.98565 -5.13056,2.06647 -9.33477,5.98565 -11.80504,10.97369 l -1.59142,3.23035 c -1.8527,3.75291 -0.35629,8.31341 3.37287,10.18986 3.7054,1.87645 8.21839,0.35629 10.09485,-3.39662 l 1.59142,-3.23035 c 0.83134,-1.66268 2.20899,-2.96907 3.91918,-3.6579 l 6.36569,-2.56528 -3.61039,14.41782 c -1.23513,4.94054 0.095,10.18986 3.53914,13.96652 l 14.2278,15.53419 c 1.71019,1.87645 2.92157,4.13295 3.53914,6.57947 l 4.34672,17.41065 c 1.02136,4.06169 5.15431,6.55571 9.216,5.53435 4.06169,-1.02136 6.55571,-5.15431 5.53435,-9.216 l -5.27307,-21.1398 c -0.61757,-2.44652 -1.82895,-4.72676 -3.53914,-6.57947 l -10.80743,-11.80504 4.08544,-16.31803 1.30639,3.91918 c 1.25889,3.82417 3.96668,6.98326 7.52957,8.78846 l 5.53435,2.80281 c 3.7054,1.87645 8.21839,0.35629 10.09485,-3.39662 1.82895,-3.72916 0.33254,-8.33716 -3.39662,-10.21361 z m -54.36967,33.41989 c -0.76008,1.92396 -1.90021,3.6579 -3.37287,5.10681 l -11.87629,11.90005 c -2.96907,2.96907 -2.96907,7.79085 0,10.75992 2.96907,2.96907 7.7671,2.96907 10.73617,0 l 14.10904,-14.10904 c 1.44891,-1.44891 2.58903,-3.18285 3.37287,-5.10681 l 3.2066,-8.02837 c -13.13518,-14.32281 -9.19225,-9.92858 -11.25873,-12.75514 z"
+       fill="#bf0000" />
+  </g>
+  <!-- .element: class="fragment fade-right" data-fragment-index="9"  -->
+  <text
+     xml:space="preserve"
+     text-anchor="start"
+     font-family="sans-serif"
+     font-size="24px"
+     id="svg_30"
+     y="78.067413"
+     x="145.21349"
+     opacity="undefined"
+     fill-opacity="null"
+     stroke-opacity="null"
+     stroke-dasharray="none"
+     stroke-width="0"
+     stroke="#000000"
+     fill="#000000">Salvo de la PENA</text>
+  <!-- .element: class="fragment" data-fragment-index="7" -->
+  <text
+     xml:space="preserve"
+     text-anchor="start"
+     font-family="sans-serif"
+     font-size="24px"
+     id="svg_31"
+     y="187.19664"
+     x="374.89328"
+     opacity="undefined"
+     fill-opacity="null"
+     stroke-opacity="null"
+     stroke-dasharray="none"
+     stroke-width="0"
+     stroke="#000000"
+     fill="#000000">Salvo del PODER</text>
+  <!-- .element: class="fragment" data-fragment-index="10" -->
+  <text
+     xml:space="preserve"
+     text-anchor="start"
+     font-family="sans-serif"
+     font-size="24px"
+     id="svg_32"
+     y="82.65168"
+     x="625.28656"
+     opacity="undefined"
+     fill-opacity="null"
+     stroke-opacity="null"
+     stroke-dasharray="none"
+     stroke-width="0"
+     stroke="#000000"
+     fill="#000000">Salvará de</text>
+  <!-- .element: class="fragment" data-fragment-index="13" -->
+  <text
+     xml:space="preserve"
+     text-anchor="start"
+     font-family="sans-serif"
+     font-size="24px"
+     id="svg_33"
+     y="109.65169"
+     x="626.81464"
+     opacity="undefined"
+     fill-opacity="null"
+     stroke-opacity="null"
+     stroke-dasharray="none"
+     stroke-width="0"
+     stroke="#000000"
+     fill="#000000">la PRESENCIA</text>
+  <!-- .element: class="fragment" data-fragment-index="13" -->
+  <text
+     xml:space="preserve"
+     text-anchor="start"
+     font-family="sans-serif"
+     font-size="17.8336px"
+     id="svg_34"
+     y="399.80374"
+     x="10.33853"
+     opacity="undefined"
+     fill-opacity="null"
+     stroke-opacity="null"
+     stroke-dasharray="none"
+     stroke-width="0"
+     stroke="#000000"
+     fill="#000000"
+     transform="scale(0.99083959,1.0092451)"><tspan
+   style="font-weight:bold;stroke-width:0"
+   id="tspan6488"> Tito 3:5</tspan> nos salvó, no por obras de justicia que nosotros hubiéramos hecho, sino por su misericordia,</text>
+  <!-- .element: class="fragment" data-fragment-index="8" -->
+  <text
+     xml:space="preserve"
+     text-anchor="start"
+     font-family="sans-serif"
+     font-size="17.712px"
+     id="svg_35"
+     y="430.43643"
+     x="8.5241909"
+     opacity="undefined"
+     fill-opacity="null"
+     stroke-opacity="null"
+     stroke-dasharray="none"
+     stroke-width="0"
+     stroke="#000000"
+     fill="#000000"
+     transform="scale(0.98398068,1.0162801)"><tspan
+   style="font-weight:bold;stroke-width:0"
+   id="tspan6490"> 1 Corintios 1:18</tspan>  Porque la palabra de la cruz es locura a los que se pierden; pero a los que se salvan,</text>
+  <!-- .element: class="fragment" data-fragment-index="11" -->
+  <text
+     xml:space="preserve"
+     text-anchor="start"
+     font-family="sans-serif"
+     font-size="18px"
+     id="svg_36"
+     y="457.65167"
+     x="180.76967"
+     opacity="undefined"
+     fill-opacity="null"
+     stroke-opacity="null"
+     stroke-dasharray="none"
+     stroke-width="0"
+     stroke="#000000"
+     fill="#000000"> esto es, a nosotros, es poder de Dios.</text>
+  <!-- .element: class="fragment" data-fragment-index="11" -->
+  <text
+     font-weight="normal"
+     xml:space="preserve"
+     text-anchor="start"
+     font-family="sans-serif"
+     font-size="17.8519px"
+     id="svg_37"
+     y="483.04782"
+     x="4.6337385"
+     opacity="undefined"
+     fill-opacity="null"
+     stroke-opacity="null"
+     stroke-dasharray="none"
+     stroke-width="0"
+     stroke="#000000"
+     fill="#000000"
+     transform="scale(0.99174764,1.008321)"> <tspan
+   style="font-weight:bold;stroke-width:0"
+   id="tspan6492"> Romanos 5:9</tspan>  Pues mucho más, estando ya justificados en su sangre, por él seremos salvos de la ira.</text>
+  <!-- .element: class="fragment" data-fragment-index="14"-->
 </svg>
 
 
