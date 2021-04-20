@@ -7968,8 +7968,10 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
   </g>
   <!-- .element: class="fragment" data-fragment-index="5"-->
   <g id="block6">
-   <rect x="-163.95" y="152.77" width="56.095" height="55.481" fill="#008000" stroke-width=".35833"/>
-  <text transform="matrix(1.012 0 0 1.1089 45.043 143.32)" x="24.435354" fill="#ffffff" font-family="sans-serif" font-size="6.6603px" text-align="center" style="line-height:1.2;shape-inside:url(#rect2508-9-2-4);white-space:pre" xml:space="preserve"><tspan x="27.807918" y="62.464538"><tspan font-weight="bold">El producto</tspan><tspan style="shape-inside:url(#rect2508-9-2-4)"> </tspan></tspan><tspan x="23.352568" y="70.456848"><tspan style="shape-inside:url(#rect2508-9-2-4)">del Eveangelio: </tspan></tspan><tspan x="25.921712" y="78.449158"><tspan style="shape-inside:url(#rect2508-9-2-4)">el justo por la </tspan></tspan><tspan x="34.403137" y="86.441467"><tspan style="shape-inside:url(#rect2508-9-2-4)">fe vivira 
+<g id="g3989" transform="translate(231.32 47.625)">
+    <rect id="rect84-2-9" x="-163.95" y="152.77" width="56.095" height="55.481" fill="#008000" stroke-width=".35833"/>
+   </g>
+   <text id="text2506-1-7-5" transform="matrix(1.012 0 0 1.1089 45.043 143.32)" x="24.435354" fill="#ffffff" font-family="sans-serif" font-size="6.6603px" text-align="center" style="line-height:1.2;shape-inside:url(#rect2508-9-2-4);white-space:pre" xml:space="preserve"><tspan x="27.807918" y="62.464538"><tspan font-weight="bold">El producto</tspan><tspan style="shape-inside:url(#rect2508-9-2-4)"> </tspan></tspan><tspan x="23.352568" y="70.456848"><tspan style="shape-inside:url(#rect2508-9-2-4)">del Eveangelio: </tspan></tspan><tspan x="25.921712" y="78.449158"><tspan style="shape-inside:url(#rect2508-9-2-4)">el justo por la </tspan></tspan><tspan x="34.403137" y="86.441467"><tspan style="shape-inside:url(#rect2508-9-2-4)">fe vivira 
 </tspan></tspan><tspan x="27.057354" y="94.433777"><tspan font-size="5.9942px" font-style="italic">Romanos 1:17</tspan></tspan></text>
 </g>
 <!-- .element: class="fragment" data-fragment-index="6"-->
