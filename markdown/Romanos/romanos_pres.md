@@ -7945,22 +7945,22 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 </tspan></tspan><tspan x="96" y="55.416081"><tspan font-size="5.6444px" font-weight="bold" text-align="center" text-anchor="middle">A LOS 
 </tspan></tspan><tspan x="96" y="62.471631"><tspan font-size="5.6444px" font-weight="bold" text-align="center" text-anchor="middle">ROMANOS</tspan></tspan></text>
 </g>
-<!-- .element: class="fragment" data-fragment-index="1"-->
+<!-- .element: class="fragment fade-up" data-fragment-index="1"-->
 <g id="block2">
   <rect transform="translate(231.32 47.625)" x="-163.8" y="26.051" width="55.65" height="10.812" fill="#0ff" stroke-width=".1567"/>
   <text transform="matrix(1.012 0 0 1.1089 45.467 12.624)" x="24.435354" fill="#22b6fa" filter="url(#filter4441)" font-family="sans-serif" font-size="7.9923px" stroke="url(#linearGradient4394)" stroke-width=".15009" text-align="center" style="line-height:0.85;shape-inside:url(#rect2508-6);white-space:pre" xml:space="preserve"><tspan x="48.210618" y="62.247852"><tspan fill="#22b6fa" font-family="sans-serif" font-size="7.9923px" font-weight="bold" stroke="url(#linearGradient4394)" stroke-width=".15009" text-align="center" text-anchor="middle">1:1-17</tspan></tspan></text>
   </g>
-<!-- .element: class="fragment" data-fragment-index="2"-->
+<!-- .element: class="fragment fade-up" data-fragment-index="2"-->
 <g id="block3">
   <rect transform="translate(231.32 47.625)" x="-164.21" y="38.44" width="56.061" height="30.597" fill="#008000" stroke-width=".26458"/>
   <text transform="matrix(1.012 0 0 1.1089 46.632 25.42)" x="24.435354" fill="#ffffff" font-family="sans-serif" font-size="10.583px" text-align="center" style="line-height:0.85;shape-inside:url(#rect2508-9);white-space:pre" xml:space="preserve"><tspan x="23.586718" y="64.093493"><tspan font-size="6.6603px">El deber de dar </tspan></tspan><tspan x="29.050213" y="73.089297"><tspan font-size="6.6603px">el evangelio</tspan><tspan style="shape-inside:url(#rect2508-9)"> </tspan></tspan></text>
   </g>
-  <!-- .element: class="fragment" data-fragment-index="3"-->
+  <!-- .element: class="fragment fade-up" data-fragment-index="3"-->
 <g id="block4">
   <rect transform="translate(231.32 47.625)" x="-164.12" y="70.102" width="56.095" height="30.959" fill="#008000" stroke-width=".26767"/>
   <text transform="matrix(1.012 0 0 1.1089 46.002 58.965)" x="24.435354" fill="#ffffff" font-family="sans-serif" font-size="6.6603px" text-align="center" style="line-height:1.05;shape-inside:url(#rect2508-9-8);white-space:pre" xml:space="preserve"><tspan x="25.147716" y="61.965019"><tspan style="shape-inside:url(#rect2508-9-8)">El corazón por </tspan></tspan><tspan x="28.698988" y="68.958289"><tspan style="shape-inside:url(#rect2508-9-8)">los romanos</tspan></tspan></text>
   </g>
-  <!-- .element: class="fragment" data-fragment-index="4"-->
+  <!-- .element: class="fragment fade-up" data-fragment-index="4"-->
 <g id="block5">
   <rect transform="translate(231.32 47.625)" x="-164.13" y="102.07" width="56.095" height="49.398" fill="#008000" stroke-width=".33811"/>
   <text transform="matrix(1.012 0 0 1.1089 46.632 93.781)" x="24.435354" fill="#ffffff" font-family="sans-serif" font-size="7.9923px" text-align="center" style="line-height:0.95;shape-inside:url(#rect2508-9-2);white-space:pre" xml:space="preserve"><tspan x="26.585136" y="62.647468"><tspan font-size="6.6603px">La Pasion por </tspan></tspan><tspan x="31.39171" y="70.240165"><tspan font-size="6.6603px">predicar el </tspan></tspan><tspan x="31.951068" y="77.832862"><tspan font-size="6.6603px">evangelio 
