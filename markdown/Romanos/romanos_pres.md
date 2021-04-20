@@ -145,7 +145,6 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -333,21 +332,6 @@ ansform=&quot;matrix(0.875950515270233,0,0,1,49.159233033657074,-4) &quot; strok
      stroke-dasharray="none"
      fill="none" />
   <!-- .element: class="fragment" data-fragment-index="12" -->
-  <line
-     stroke-linecap="null"
-     stroke-linejoin="null"
-     id="svg_13"
-     y2="0.5"
-     x2="738.5705"
-     y1="0.5"
-     x1="29.5"
-     opacity="undefined"
-     fill-opacity="null"
-     stroke-opacity="null"
-     stroke-dasharray="none"
-     stroke="#000000"
-     fill="none" />
-  <!-- .element: class="fragment fade-right" data-fragment-index="9"-->
   <rect
      stroke="#000000"
      id="yellow-line"
