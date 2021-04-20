@@ -7966,7 +7966,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
   <text transform="matrix(1.012 0 0 1.1089 46.632 93.781)" x="24.435354" fill="#ffffff" font-family="sans-serif" font-size="7.9923px" text-align="center" style="line-height:0.95;shape-inside:url(#rect2508-9-2);white-space:pre" xml:space="preserve"><tspan x="26.585136" y="62.647468"><tspan font-size="6.6603px">La Pasion por </tspan></tspan><tspan x="31.39171" y="70.240165"><tspan font-size="6.6603px">predicar el </tspan></tspan><tspan x="31.951068" y="77.832862"><tspan font-size="6.6603px">evangelio 
 </tspan></tspan><tspan x="41.226001" y="85.425559"><tspan font-size="6.6603px">1:16</tspan></tspan></text>
   <g transform="translate(231.32 47.625)">
-  </g>
+  </g></g>
   <!-- .element: class="fragment" data-fragment-index="5"-->
   <g id="block6">
    <rect x="-163.95" y="152.77" width="56.095" height="55.481" fill="#008000" stroke-width=".35833"/>
