@@ -145,7 +145,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<svg id="svg6548" class="fullScreen" width="900" height="600" version="1.1" viewBox="0 0 200.13 150.75" xmlns="http://www.w3.org/2000/svg">
+<svg id="svg6548" class="fullScreen" width="900" height="600" version="1.1" viewBox="0 0 300.13 250.75" xmlns="http://www.w3.org/2000/svg">
  <g id="layer1">
   <g id="cross-group" transform="matrix(.35474 0 0 .35474 15.622 -47.507)" stroke="#000" stroke-opacity="null" stroke-width="null">
    <rect id="svg_6" x="27.5" y="320.5" width="18" height="100" opacity="undefined"/>
