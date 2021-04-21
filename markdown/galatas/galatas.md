@@ -5,34 +5,34 @@
 
 
 
-<p>Copyright © <strong>2020 by DM2 International Inc</strong> All rights reserved</p>
+ Copyright © <strong>2020 by DM2 International Inc</strong> All rights reserved 
 <h1>Notas Introductorias</h1>
-<p>En las iglesias de Galacia, no sólo el evangelio de la gracia estaba bajo ataque, sino que también la gracia para vivir la vida cristiana. Claramente, la ley y la gracia no se mezclan. No pueden estar casadas. Si la ley y la gracia intentan vivir bajo el mismo techo, obtienes guerra. En Galacia, la gracia tanto para la salvación como para la santificación estaba bajo ataque.</p>
+ En las iglesias de Galacia, no sólo el evangelio de la gracia estaba bajo ataque, sino que también la gracia para vivir la vida cristiana. Claramente, la ley y la gracia no se mezclan. No pueden estar casadas. Si la ley y la gracia intentan vivir bajo el mismo techo, obtienes guerra. En Galacia, la gracia tanto para la salvación como para la santificación estaba bajo ataque. 
 
 
-<p>En el primer siglo, entre las iglesias de Galacia, el mayor peligro era el veneno y no la persecución. Misioneros viajaban por el mundo vendiendo su aceite de serpiente de salvación por la circuncisión.</p>
+ En el primer siglo, entre las iglesias de Galacia, el mayor peligro era el veneno y no la persecución. Misioneros viajaban por el mundo vendiendo su aceite de serpiente de salvación por la circuncisión. 
 
 
-<p>Estos engañadores les vendieron a creyentes gentiles la idea de que para ser completamente salvos necesitaban “ritualizar”. A pesar de que la circuncisión para la salvación se promulgaba hace mucho tiempo, ese tipo de pensamiento está tan fresco hoy en día como una lechuga. Cuando escaneas el horizonte, es difícil encontrar una congregación no afectada. Los falsos maestros aún agregan todo tipo de reglas y regulaciones para ganar la aprobación de Dios. Los engañadores prometen espiritualidad y madurez basadas en el desempeño, además proclaman que la verdadera gracia es el enemigo público número uno y están determinados en eliminarla a toda costa.</p>
+ Estos engañadores les vendieron a creyentes gentiles la idea de que para ser completamente salvos necesitaban “ritualizar”. A pesar de que la circuncisión para la salvación se promulgaba hace mucho tiempo, ese tipo de pensamiento está tan fresco hoy en día como una lechuga. Cuando escaneas el horizonte, es difícil encontrar una congregación no afectada. Los falsos maestros aún agregan todo tipo de reglas y regulaciones para ganar la aprobación de Dios. Los engañadores prometen espiritualidad y madurez basadas en el desempeño, además proclaman que la verdadera gracia es el enemigo público número uno y están determinados en eliminarla a toda costa. 
 
 
-<p>Si has estado bajo ataque debido a la asombrosa gracia de Dios, entonces Gálatas es para ti.</p>
+ Si has estado bajo ataque debido a la asombrosa gracia de Dios, entonces Gálatas es para ti. 
 
 
-<p>20 de Julio, 2020</p>
-<p>3<sup>ra</sup> Edición<em></em><strong><br></strong></p>
-<p>Derechos de Autor © <strong>2020</strong> <strong>DM2</strong> <strong>International</strong> <strong>Inc.</strong> Todos los derechos reservados</p>
-<p><strong>Póliza de los Derechos de Autor. </strong>Traducción no autorizada, re-publicación, duplicación del documento, página de la internet o distribución del correo electrónico de cualquier porción de este material de derechos de autor de cualquier forma, sin el expreso consentimiento escrito de DM2™ es estrictamente prohibido. Puedes usar los materiales de DM2 para tu propio estudio personal o para volverlos a enseñar en una clase, siempre y cuando, el logo de DM2 y esta póliza de los derechos de autor estén incluidos siempre en el material al ser enseñados. Puedes bajar una copia a tú PC, imprimirla o hacer copias para la clase o estudio de grupo Bíblico; sin embargo, no puedes cobrar por este material o por conducir una clase usando el mismo, excepto por el costo actual del copiado. NO puedes hacer cambios a este material, tiene derechos de autor. Para una más amplia exposición de la póliza del DM2 con respecto a los usos de sus materiales, por favor referirse a la página de la internet DM2-USA<br>al <a href="http://www.dm2usa.org">http://www.dm2usa.org</a>. [DM2™]</p>
+ 20 de Julio, 2020 
+ 3<sup>ra</sup> Edición<em></em><strong><br></strong> 
+ Derechos de Autor © <strong>2020</strong> <strong>DM2</strong> <strong>International</strong> <strong>Inc.</strong> Todos los derechos reservados 
+ <strong>Póliza de los Derechos de Autor. </strong>Traducción no autorizada, re-publicación, duplicación del documento, página de la internet o distribución del correo electrónico de cualquier porción de este material de derechos de autor de cualquier forma, sin el expreso consentimiento escrito de DM2™ es estrictamente prohibido. Puedes usar los materiales de DM2 para tu propio estudio personal o para volverlos a enseñar en una clase, siempre y cuando, el logo de DM2 y esta póliza de los derechos de autor estén incluidos siempre en el material al ser enseñados. Puedes bajar una copia a tú PC, imprimirla o hacer copias para la clase o estudio de grupo Bíblico; sin embargo, no puedes cobrar por este material o por conducir una clase usando el mismo, excepto por el costo actual del copiado. NO puedes hacer cambios a este material, tiene derechos de autor. Para una más amplia exposición de la póliza del DM2 con respecto a los usos de sus materiales, por favor referirse a la página de la internet DM2-USA<br>al <a href="http://www.dm2usa.org">http://www.dm2usa.org</a>. [DM2™] 
 
 
-<p><strong>Impreso</strong> <strong>y</strong> <strong>Propiedad</strong> <strong>de:</strong></p>
-<p><strong>DM2</strong></p>
-<p><strong>Disciple</strong> <strong>Makers</strong> <strong>Multiplied</strong></p>
-<p><strong>PO Box 1614</strong></p>
-<p><strong>Livingston, TX 77351</strong></p>
-<p><strong>Para más información:</strong> <strong></strong></p>
-<p><strong>disciplemakersmultiplied@gmail.com</strong></p>
-<p><strong>DM2USA.org</strong><strong><br></strong></p>
+ <strong>Impreso</strong> <strong>y</strong> <strong>Propiedad</strong> <strong>de:</strong> 
+ <strong>DM2</strong> 
+ <strong>Disciple</strong> <strong>Makers</strong> <strong>Multiplied</strong> 
+ <strong>PO Box 1614</strong> 
+ <strong>Livingston, TX 77351</strong> 
+ <strong>Para más información:</strong> <strong></strong> 
+ <strong>disciplemakersmultiplied@gmail.com</strong> 
+ <strong>DM2USA.org</strong><strong><br></strong> 
 
 
 

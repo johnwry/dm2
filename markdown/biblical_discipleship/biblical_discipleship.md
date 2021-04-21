@@ -1,7 +1,7 @@
+# Biblical Discipleship
+<!-- .slide: data-background="green" -->
 <img title="cover" data-src="/markdown/biblical_discipleship/img/front_cover.png">
-
-
-<p>
+---
 The greatest challenge the church faces in any given generation is
 getting people engaged in the process of replication. This is
 especially difficult in circles were teachers deny the Great Commission
@@ -10,10 +10,7 @@ biblical impetus for churches to reproduce. If the church of Jesus
 Christ fails to reduplicate itself through effective discipleship,
 churches will slowly become vacant because new members stop being added
 to the body of Christ.
-	</p>
-
-
-<p>
+---
 Getting Christians into the game is the heart of this study. Don’t be
 derailed by the use of terms like <strong>discipleship</strong>, or
 becoming a <strong>disciple-maker</strong>, derived from Matthew
@@ -25,27 +22,17 @@ and in the world, is at stake. Will you leave someone to fill your
 place in church when you graduate to heaven? Will you do anything to
 fill the empty seat next to you while you’re still here?
 Godspeed!
-	</p>
-
-
-	<p>
+---	 
 March 30, 2012
-	</p>
-	<p>
-<em>(3<sup>rd</sup> Edition)</em>
-	</p>
+	 
+	<em>(3<sup>rd</sup> Edition)</em>
 	<p align="center">
-Copyright © <strong>2018 by DM Multiplied, Inc</strong><strong></strong>
-	</p>
+	Copyright © <strong>2018 by DM Multiplied, Inc</strong><strong></strong>
 	<p align="center">
-All rights reserved.<strong></strong>
-	</p>
-	<p>
-<strong> </strong>
-	</p>
+	All rights reserved.<strong></strong>	 
 
+---	 
 
-	<p>
 <strong>Copyright Policy.</strong>
 You may use the DM2® materials for your own personal study or for
 teaching a class so long as the DM2® logo and this copyright policy is
@@ -56,166 +43,143 @@ for the actual cost of copying. You may NOT make changes to this
 copyrighted material. For a more complete disclosure of DM2® policy
 regarding the use of DM2® materials, please refer to the DM2 USA
 website at <a href="http://www.dm2usa.org">www.dm2usa.org</a>.
-	</p>
-
+	 
+---
 
 	<p align="center">
 <strong>Printed and Owned by:</strong>
-	</p>
+	 
 	<p align="center">
 <strong>DM2®</strong>
-	</p>
+	 
 	<p align="center">
 <strong>Disciple Makers Multiplied</strong>
-	</p>
+	 
 	<p align="center">
 <strong>PO Box 7758</strong>
-	</p>
+	 
 	<p align="center">
 <strong>Beaumont, TX 77726</strong>
-	</p>
+	 
 	<p align="center">
 <strong> </strong>
-	</p>
+	 
 	<p align="center">
 <strong>For more information:</strong>
 <strong></strong>
-	</p>
+	 
 	<p align="center">
 <strong>disciplemakersmultiplied@gmail.com</strong>
-	</p>
-	<p align="center"><strong><a href="http://www.dm2usa.org">www.dm2usa.org</a></strong></p>
+	 
+	<p align="center"><strong><a href="http://www.dm2usa.org">www.dm2usa.org</a></strong> 
 
-
+===
 
 	<h1  class="r-fit-text">Biblical Discipleship</h1>
-	<h2>
-<strong>Making Disciple Makers</strong>
-	</h2>
-
-
-
-	<p>
+	<h2><strong>Making Disciple Makers</strong></h2>
+===	 
 <strong>The Vision and Mission of Jesus Christ 7</strong>
-	</p>
-	<p>The Vision of Jesus Christ 7</p>
-	<p>The Mission of Jesus Christ 7
-	</p>
-	<p>The Great Commission 7
-	</p>
-	<p>Local Churches as Senders and Equippers 9
-	</p>
-	<p><strong>The Gospel 10</strong>
-	</p>
-	<p>What the Gospel Is 10
-	</p>
-	<p>What the Gospel Is Not 11
-	</p>
-	<p>Understanding Gospel Dynamics 17
-	</p>
-	<p>Satan’s Many Anti-Gospel Tactics 20
-	</p>
-	<p>The Response to the Gospel Dynamics 21
-	</p>
-	<p>Summarizing God’s Gospel Dynamics 21
-	</p>
-	<p><strong>The Biblical Model of Disciple-Making 22</strong>
-	</p>
-	<p>What Disciple-Making Is and Is Not 22
-	</p>
-	<p>Jesus’ Perfect Example 23
-	</p>
-	<p>Paul’s Disciple-Making Concept 24
-	</p>
-	<p>Summarizing Disciple-Making 31
-	</p>
-	<p><strong>The Role of DM2 in Fulfilling the Great Commission 32</strong>
-	</p>
-	<p>DM2 Is a Service Organization 32
-	</p>
-	<p>Making Disciple Maker Overseas 33
-	</p>
-	<p>Practical Disciple-Making 34
-	</p>
-	<p>The Indigenous Paradigm 35
-	</p>
-	<p>Future Disciple-Makers Must be Committed to Discipleship 38
-	</p>
-	<p><strong>A Workable Strategy 40</strong>
-	</p>
-	<p>A Basic Strategy for Implementing Organic Disciple-Making 40
-	</p>
-	<p>Regional Ministry Directors 44
-	</p>
-	<p>Field Directors 47
-	</p>
-	<p><strong>The Curriculum 48</strong>
-	</p>
-	<p>The Focus of the DM2 Curriculum 48
-	</p>
-	<p>Introductory 48
-	</p>
-	<p>Establishment 49
-	</p>
-	<p>Doctrine 49
-	</p>
-	<p><strong>Conclusion 50</strong>
-	</p>
-	<p>Empowered with the Gospel of Jesus Christ 50
-	</p>
-	<p>The Job of Worldwide Disciple-Making Can Be Done! 50
-	</p>
+	 
+	 The Vision of Jesus Christ 7 
+	 The Mission of Jesus Christ 7
+	 
+	 The Great Commission 7
+	 
+	 Local Churches as Senders and Equippers 9
+	 
+	 <strong>The Gospel 10</strong>
+	 
+	 What the Gospel Is 10
+	 
+	 What the Gospel Is Not 11
+	 
+	 Understanding Gospel Dynamics 17
+	 
+	 Satan’s Many Anti-Gospel Tactics 20
+	 
+	 The Response to the Gospel Dynamics 21
+	 
+	 Summarizing God’s Gospel Dynamics 21
+===
+	 <strong>The Biblical Model of Disciple-Making 22</strong>
+	 
+	 What Disciple-Making Is and Is Not 22
+	 
+	 Jesus’ Perfect Example 23
+	 
+	 Paul’s Disciple-Making Concept 24
+	 
+	 Summarizing Disciple-Making 31
+	 
+	 <strong>The Role of DM2 in Fulfilling the Great Commission 32</strong>
+	 
+	 DM2 Is a Service Organization 32
+	 
+	 Making Disciple Maker Overseas 33
+	 
+	 Practical Disciple-Making 34
+	 
+	 The Indigenous Paradigm 35
+	 
+	 Future Disciple-Makers Must be Committed to Discipleship 38
+	 
+	 <strong>A Workable Strategy 40</strong>
+	 
+	 A Basic Strategy for Implementing Organic Disciple-Making 40
+===	 
+	 Regional Ministry Directors 44
+	 
+	 Field Directors 47
+	 
+	 <strong>The Curriculum 48</strong>
+	 
+	 The Focus of the DM2 Curriculum 48
+	 
+	 Introductory 48
+	 
+	 Establishment 49
+	 
+	 Doctrine 49
+	 
+	 <strong>Conclusion 50</strong>
+	 
+	 Empowered with the Gospel of Jesus Christ 50
+	 
+	 The Job of Worldwide Disciple-Making Can Be Done! 50
+===	 
+<h1  class="r-fit-text">Making Disciple-Maker</h1>
+<p align="center">Rediscovering the lost art of disciple-making 
+
+<h1>I. The Vision and Mission of Jesus Christ</h1>
+<h2  class="fragment">A. The vision of Jesus Christ, “<em>I will build my <strong><u>Church</u></strong></em>.”</h2>
 
 
 
-	<h1  class="r-fit-text">Making Disciple-Maker</h1>
-	<p align="center">Rediscovering the lost art of disciple-making</p>
+<h3>1. The vision of Jesus Christ is to see <em>His</em> church, the <strong><u>body</u></strong> and bride of Christ, completed. Matthew 16:18; 28:19-20; Romans 11:25
+</h3>
 
 
 
-	<h1>I. The Vision and Mission of Jesus Christ</h1>
-	<h2  class="fragment">A. The vision of Jesus Christ, “<em>I will build my <strong><u>Church</u></strong></em>.”</h2>
+<h3>2. The book of Revelation says that the body of Christ will not only be completed but will be comprised of people <strong><u>from</u></strong> every tribe, tongue, and nation. Revelation 5:9</h3>
 
 
 
-	<h3>1. The vision of Jesus Christ is to see <em>His</em> church, the <strong><u>body</u></strong> and bride of Christ, completed. Matthew 16:18; 28:19-20; Romans 11:25
-	</h3>
+<h2>B. The mission of Jesus Christ is The Great Commission. Mark 16:15</h2>
+<h3 class="fragment">1. The mission of Jesus Christ is to <strong><u>fulfill</u> </strong>His vision.</h3>
 
 
 
-	<h3>2. The book of Revelation says that the body of Christ will not only be completed but will be comprised of people <strong><u>from</u></strong> every tribe, tongue, and nation. Revelation 5:9
- </h3>
+<h3>2. In order to fulfill this mission, Jesus commissioned His disciples to “<strong><u>go</u></strong>.”</h3>
 
 
 
-	<h2>
-B. The mission of Jesus Christ is The Great Commission. Mark 16:15
-	</h2>
-	<h3 class="fragment">1. The mission of Jesus Christ is to <strong><u>fulfill</u></strong> His vision.</h3>
+<h2>C. The Great Commission is Three-Fold</h2>
+<h3 class="fragment">1. The first part of our job is <strong><em>evangelism</em></strong>. We are to <strong><u>go</u></strong> into the entire world and preach the Gospel to every creature. Mark 16:15</h3>
 
 
 
-	<h3>
-2. In order to fulfill this mission, Jesus commissioned His disciples to “<strong><u>go</u></strong>.”
-	</h3>
-
-
-
-	<h2>
-C. The Great Commission is Three-Fold
-	</h2>
-	<h3 class="fragment">
-1. The first part of our job is <strong><em>evangelism</em></strong>. We are to <strong><u>go</u></strong> into the entire world and preach the Gospel to every creature. Mark 16:15
-	</h3>
-
-
-
-	<h4>
-a. The Great Commission has the concept of going forth <strong><u>built</u></strong> into it. Matthew 28:18-20
-	</h4>
-	<h4 class="fragment">
-b. Jesus said <em> you shall be my witnesses, not in one place only, but in Jerusalem,
-	Judea, Samaria, and to the uttermost part of the earth</em>; Jesus wants His church to <strong><u>grow<u></strong> world-wide. Acts 1:8
+<h4>a. The Great Commission has the concept of going forth <strong><u>built</u></strong> into it. Matthew 28:18-20</h4>
+<h4 class="fragment">b. Jesus said <em> you shall be my witnesses, not in one place only, but in Jerusalem, Judea, Samaria, and to the uttermost part of the earth</em>; Jesus wants His church to <strong><u>grow<u></strong> world-wide. Acts 1:8
 	</h4>
 
 
@@ -2801,21 +2765,21 @@ c) The people you give the most to without requiring anything in return are very
 
 
 
-	<p>
+	 
 (i) Spiritual returns on our investments become very<strong><u>low</u></strong> when there is not a personal investment on the part of the one being trained. Matthew 8:20‑22
-	</p>
+	 
 	<p class="fragment">
 (ii) Often those who are given the most without being required to invest in their <strong><u>own</u></strong> training turn out to be the least responsible. 2 Corinthians 12:15
-	</p>
+	 
 
 
 
-	<p>
+	 
 (iii) Often the people who receive the least amount of help and have to make the most sacrifices <strong><u>are</u></strong> the most thankful for the teaching and most responsible in teaching others.
-	</p>
+	 
 	<p class="fragment">
 (iv) Don’t be afraid to ask people to invest in their<strong><u>own</u></strong> training. Luke 17:16-18
-	</p>
+	 
 
 
 
