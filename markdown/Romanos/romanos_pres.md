@@ -145,7 +145,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
 
 
 
-<svg id="svg6548" width="900" height="600" version="1.1" viewBox="0 0 238 159" xmlns="http://www.w3.org/2000/svg">
+<svg id="svg6548" class="fullScreen" width="900" height="600" version="1.1" viewBox="0 0 238 159" xmlns="http://www.w3.org/2000/svg">
  <g id="layer1">
   <g id="cross-group" transform="matrix(.35 0 0 .35 15 -48)" fill="#01000a" stroke="#000" stroke-opacity="null" stroke-width="null">
    <rect id="svg_6" x="28" y="320" width="18" height="100" opacity="undefined"/>
@@ -157,6 +157,7 @@ Traducción no autorizada, re-publicación, duplicación del documento, página 
   <g>
    <text id="text7200" transform="translate(-36 -1.2)" x="80.860435" fill="#000000" font-family="sans-serif" font-size="11px" text-align="center" style="line-height:1.25;shape-inside:url(#rect7202);white-space:pre" xml:space="preserve"><tspan x="67.982459" y="13.143746"><tspan text-align="center" text-anchor="middle">Los Tres Tiempos de la Salvacion</tspan></tspan></text>
    <path id="path7226" d="m45 32h-2.6v-2.6c0-0.35-0.29-0.64-0.64-0.64h-1.3c-0.35 0-0.64 0.29-0.64 0.64v2.6h-2.6c-0.35 0-0.64 0.29-0.64 0.64v1.3c0 0.35 0.29 0.64 0.64 0.64h2.6v2.6c0 0.35 0.29 0.64 0.64 0.64h1.3c0.35 0 0.64-0.29 0.64-0.64v-2.6h2.6c0.35 0 0.64-0.29 0.64-0.64v-1.3c0-0.35-0.29-0.64-0.64-0.64zm-16 1.9c2.8 0 5.1-2.3 5.1-5.1s-2.3-5.1-5.1-5.1c-2.8 0-5.1 2.3-5.1 5.1s2.3 5.1 5.1 5.1zm3.6 1.3h-0.67c-0.89 0.41-1.9 0.64-2.9 0.64-1 0-2-0.23-2.9-0.64h-0.67c-3 0-5.4 2.4-5.4 5.4v1.7c0 1.1 0.86 1.9 1.9 1.9h14c1.1 0 1.9-0.86 1.9-1.9v-1.7c0-3-2.4-5.4-5.4-5.4z" fill="#008000" stroke-width=".04"/>
+   <!-- .element: class="fragment fade-up" data-fragment-index="1"-->
    <path id="path7237" d="m117 74c1.4 0 2.6-1.2 2.6-2.6s-1.2-2.6-2.6-2.6-2.6 1.2-2.6 2.6 1.2 2.6 2.6 2.6zm5.1 8-1.2-0.63-0.52-1.6c-0.79-2.4-3-4.1-5.5-4.1-1.9-0.0056-3 0.54-5 1.4-1.2 0.47-2.1 1.4-2.7 2.5l-0.36 0.73c-0.42 0.85-0.08 1.9 0.76 2.3 0.84 0.42 1.9 0.08 2.3-0.77l0.36-0.73c0.19-0.38 0.5-0.67 0.88-0.83l1.4-0.58-0.81 3.3c-0.28 1.1 0.022 2.3 0.8 3.2l3.2 3.5c0.39 0.42 0.66 0.93 0.8 1.5l0.98 3.9c0.23 0.92 1.2 1.5 2.1 1.2 0.92-0.23 1.5-1.2 1.2-2.1l-1.2-4.8c-0.14-0.55-0.41-1.1-0.8-1.5l-2.4-2.7 0.92-3.7 0.29 0.88c0.28 0.86 0.9 1.6 1.7 2l1.2 0.63c0.84 0.42 1.9 0.08 2.3-0.77 0.41-0.84 0.075-1.9-0.77-2.3zm-12 7.5c-0.17 0.43-0.43 0.83-0.76 1.2l-2.7 2.7c-0.67 0.67-0.67 1.8 0 2.4 0.67 0.67 1.8 0.67 2.4 0l3.2-3.2c0.33-0.33 0.58-0.72 0.76-1.2l0.72-1.8c-3-3.2-2.1-2.2-2.5-2.9z" fill="#00d455" stroke="#000" stroke-width=".054"/>
   </g>
   <g fill="#000000" font-family="sans-serif" font-size="4.9px">
