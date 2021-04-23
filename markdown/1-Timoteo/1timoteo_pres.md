@@ -1,4 +1,5 @@
 <!-- .slide:  data-background-image="markdown/1-Timoteo/img/cover.png"  --> 
+
 ___
 Copyright © **2018 by DM Multiplied, Inc**
 Todos los derechos reservados.
@@ -308,7 +309,7 @@ ___
 
 ####            d.  Cuatro: Una de las características determinantes de la iglesia es la **<u>morada</u>** permanente del Espíritu Santo. Esto comenzó el día de Pentecostés. Romanos 8:9, 1 Corintios 3:16
 
-#####                1.  En Juan 14:16-17, Jesús habló de esta morada permanente cuando dijo: \"*Y Yo rogaré al Padre, y os dará otro Consolador, para que esté con vosotros para siempre: el Espíritu de verdad\... vosotros Le conocéis, porque mora con vosotros, **y estará [en</u> vosotros**.*\"
+#####                1.  En Juan 14:16-17, Jesús habló de esta morada permanente cuando dijo: \"*Y Yo rogaré al Padre, y os dará otro Consolador, para que esté con vosotros para siempre: el Espíritu de verdad\... vosotros Le conocéis, porque mora con vosotros, __y estará <u>en</u> vosotros__.*\"
 
 #####                2.  En Juan 14:20, Jesús explicó más detalladamente lo que quiso decir: *En aquel día vosotros conoceréis que Yo estoy en Mi Padre, y vosotros en Mí, y Yo **<u>en</u>** vosotros*.
 
@@ -498,7 +499,7 @@ ___
 
 ####            h.  Hechos 2:47a -- \...*alabando a Dios*\... Una iglesia local se reúne para **<u>adorar</u>** a Dios corporativamente. Esto se hace a través de reuniones corporativas y al cantar al Señor juntos. Efesios 5:19, Colosenses 3: 12-17
 
-####            i.  Hechos 2:47b -- *...y teniendo favor con todo el pueblo.*  Aunque no siempre se aprecia, una iglesia local se reúne para ** <u>impactar</u>**   favorablemente a la comunidad en la que viven. Hechos 5:12-16
+####            i.  Hechos 2:47b -- *...y teniendo favor con todo el pueblo.*  Aunque no siempre se aprecia, una iglesia local se reúne para __<u>impactar</u>__  favorablemente a la comunidad en la que viven. Hechos 5:12-16
 
 ####            j.  Hechos 2:47c -- *Y el Señor añadía cada día a la iglesia los que habían de ser salvos*. Una iglesia local prosigue a **<u>evangelizar</u>** a su comunidad local y añade almas a su congregación a través del alcance. Mateo 28:19-20, Marcos 16:15, Hechos 1:8
 
@@ -815,7 +816,7 @@ ___
 
 ####            b.  1 Timoteo 1:5b -- \...*el amor nacido de corazón limpio, y de buena conciencia, y de fe no fingida*. Pablo no estaba personalmente en contra de estos maestros, pero lo que estaban enseñando no estaba promoviendo el amor en la iglesia. Ese fue el **<u>problema</u>**. La meta de la enseñanza es estimular el amor en el cuerpo de Cristo. Efesios 4:15-16
 
-#####                1.  Pablo quería que las correcciones de Timoteo promovieran el amor nacido de un *corazón **<u>limpio</u>***. Un corazón limpio es un corazón puro o claro, lo opuesto a un corazón engañoso.
+#####                1.  Pablo quería que las correcciones de Timoteo promovieran el amor nacido de un *corazón __<u>limpio</u>__*. Un corazón limpio es un corazón puro o claro, lo opuesto a un corazón engañoso.
 
 #####                2.  Pablo quería que las correcciones de Timoteo promovieran el amor nacido de una *buena **<u>conciencia</u>***. Una buena conciencia significa que no tienes conciencia culpable.
 
@@ -839,7 +840,7 @@ ___
 
 #####                3.  El Nuevo Testamento enseña que un creyente que quiere estar bajo la **<u>ley</u>**, o que quiere poner a otros creyentes bajo la ley, en realidad promueve la infructuosidad. Romanos 4:15; Gálatas 3:12-13, 5:3-4; 1 Corintios 15:56; 2 Corintios 3:6
 
-#####                4.  Una de las razones más importantes por las cuales los creyentes han sido crucificados con Cristo es para l**<u>iberarnos</u>**, para que podamos llevar fruto para Dios. Romanos 7:4; Gálatas 2:20
+#####                4.  Una de las razones más importantes por las cuales los creyentes han sido crucificados con Cristo es para **<u>liberarnos</u>**, para que podamos llevar fruto para Dios. Romanos 7:4; Gálatas 2:20
 
 #####                5.  La Ley tenía un propósito en nuestras vidas, pero ese propósito **<u>terminó</u>** cuando pusimos nuestra fe en Cristo. Dios ahora usa la gracia para madurarnos.
 
@@ -931,7 +932,7 @@ ___
 
 #####                2.  Mientras que el mundo se preocupa por la fuerza física externa; el creyente necesita fortalecimiento **<u>interno</u>**, y esta fue la forma inspirada del Espíritu Santo de describir cómo un creyente realmente se fortalece. Efesios 3:16
 
-####            b.  La palabra ENDUNAMOO es también usada por Pablo en 2 Timoteo 2:1, cuando le mandó a Timoteo a ***<u>esforzarse</u>** en la gracia que es en Cristo Jesús*.
+####            b.  La palabra ENDUNAMOO es también usada por Pablo en 2 Timoteo 2:1, cuando le mandó a Timoteo a *__<u>esforzarse</u>__ en la gracia que es en Cristo Jesús*.
 
 #####                1.  El uso único de este mandato en 2 Timoteo 2:1 es que está en la voz pasiva, lo que indica que Timoteo debía por la fe **<u>permitir</u>** que el Señor lo "en-fortaleciera".
 
@@ -1097,7 +1098,7 @@ ___
 
 ###        5.  Cualquier estilo de vida **<u>desordenado</u>** podría ser causa de disciplina en la iglesia. 2 Tesalonicenses 3:6 dice: *\"Pero os ordenamos, hermanos, en el nombre de nuestro Señor Jesucristo, que os apartéis de todo hermano que ande desordenadamente, y no según la enseñanza* \['doctrina' -- LBLA\] *que recibisteis de nosotros\"* 2 Tesalonicenses 3:6-15
 
-####            a.  2 Tesalonicenses 3:6a -- *que os apartéis de todo hermano*\... Pablo ordenó a estos creyentes que no tuvieran comunión con ***<u>todo</u>** hermano* \[no solo con algunos\] *que ande desordenadamente*. Además, la palabra griega traducida *\"apartéis\"* está en la voz media, lo que implica que deben desasociarse de tal creyente por su propio bien.
+####            a.  2 Tesalonicenses 3:6a -- *que os apartéis de todo hermano*\... Pablo ordenó a estos creyentes que no tuvieran comunión con *__<u>todo</u>__ hermano* \[no solo con algunos\] *que ande desordenadamente*. Además, la palabra griega traducida *\"apartéis\"* está en la voz media, lo que implica que deben desasociarse de tal creyente por su propio bien.
 
 ####            b.  2 Tesalonicenses 3:6b -- \...*que ande desordenadamente*\... La palabra *desordenadamente* significa fuera de **<u>orden</u>**. En griego esto se usó para describir a un soldado perezoso. Desordenadamente implicaba a una persona que era insubordinada, holgazana y negligente en sus deberes.
 
@@ -1217,6 +1218,46 @@ ___
 
 # VI. 1 Timoteo 2:1-15 -- Instrucción Sobre la Adoración
 
+<svg id="svg12583" width="1000" height="700" inkscape:version="1.0.2 (e86c8708, 2021-01-15)" sodipodi:docname="bosquejo-opt.svg" version="1.1" viewBox="0 0 296 207" xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd">
+ <sodipodi:namedview id="base" bordercolor="#666666" borderopacity="1.0" fit-margin-bottom="0" fit-margin-left="0" fit-margin-right="0" fit-margin-top="0" inkscape:bbox-paths="true" inkscape:current-layer="layer3" inkscape:cx="394.77242" inkscape:cy="339.58244" inkscape:document-rotation="0" inkscape:document-units="mm" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:snap-bbox="true" inkscape:window-height="935" inkscape:window-maximized="0" inkscape:window-width="1654" inkscape:window-x="24" inkscape:window-y="25" inkscape:zoom="0.74937383" pagecolor="#ffffff" showgrid="false"/>
+ <g id="layer3" transform="translate(-1.8 -.18)" inkscape:groupmode="layer" inkscape:label="letters">
+  <g id="g1">
+   <rect id="rect13214-65" transform="translate(-.91)" x="3.3" y="23" width="49" height="26" style="fill:#a710ff;stroke-linejoin:round;stroke-miterlimit:.4;stroke-width:.97;stroke:#ffffff"/>
+   <text id="text13817" x="27.705727" y="34.551746" style="fill:#d5fff6;font-family:sans-serif;font-size:4.9px;line-height:1.25;stroke-width:.26;text-align:center;text-anchor:middle" xml:space="preserve"><tspan id="tspan13815" x="27.705727" y="34.551746" style="fill:#d5fff6;font-size:4.9px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Mantenimiento </tspan><tspan id="tspan13819" x="27.705727" y="40.725357" style="fill:#d5fff6;font-size:4.9px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Residencial</tspan></text>
+  </g>
+<!-- .element: class="fragment fade-up" data-fragment-index="1" -->
+  <g id="g5">
+   <rect id="rect13214-65-1" transform="translate(-.91)" x="52" y="23" width="49" height="26" style="fill:#a710ff;stroke-linejoin:round;stroke-miterlimit:.4;stroke-width:.97;stroke:#ffffff"/>
+   <text id="text13823-4-9" x="76.953575" y="34.373463" style="fill:#d5fff6;font-family:sans-serif;font-size:6.4px;line-height:1.25;stroke-width:.26;text-align:center;text-anchor:middle" xml:space="preserve"><tspan id="tspan13821-9-1" x="76.953575" y="34.373463" style="fill:#d5fff6;font-size:6.4px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Deberes de </tspan><tspan id="tspan13825-8-6" x="76.953575" y="42.310963" style="fill:#d5fff6;font-size:6.4px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">la casa</tspan></text>
+  </g>
+  <!-- .element: class="fragment fade-up" data-fragment-index="5" -->
+  <g id="g2">
+   <rect id="rect13214-33-9-8" transform="translate(-.91)" x="3.3" y="49" width="49" height="44" style="fill:#000000;stroke-linejoin:round;stroke-miterlimit:.4;stroke-width:1.3;stroke:#ffffff"/>
+   <text id="text13823-4-04" x="27.703661" y="65.676445" style="fill:#d5fff6;font-family:sans-serif;font-size:5.6px;line-height:1.25;stroke-width:.26;text-align:center;text-anchor:middle" xml:space="preserve"><tspan id="tspan13821-9-4" x="27.703661" y="65.676445" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Razón por </tspan><tspan id="tspan13825-8-18" x="27.703661" y="72.731995" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">la Escritura  </tspan><tspan id="tspan13928-9" x="27.703661" y="79.787544" style="fill:#d5fff6;font-size:5.6px;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">1 Tim 1:1-11</tspan></text>
+  </g>
+  <!-- .element: class="fragment fade-up" data-fragment-index="2" -->
+  <g id="g3">
+   <rect id="rect13214-2-5" transform="translate(-.91)" x="3.3" y="93" width="49" height="44" style="fill:#000000;stroke-linejoin:round;stroke-miterlimit:.4;stroke-width:1.3;stroke:#ffffff"/>
+   <text id="text13823-4-2" x="26.764179" y="110.01151" style="fill:#d5fff6;font-family:sans-serif;font-size:5.6px;line-height:1.25;stroke-width:.26;text-align:center;text-anchor:middle" xml:space="preserve"><tspan id="tspan13825-8-5" x="26.764179" y="110.01151" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Gracia para </tspan><tspan id="tspan14395" x="26.764179" y="117.06706" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">la Batalla</tspan><tspan id="tspan13928-46" x="26.764179" y="124.12261" style="fill:#d5fff6;font-size:5.6px;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">1 Tim 1:12-18</tspan></text>
+  </g>
+  <!-- .element: class="fragment fade-up" data-fragment-index="3" -->
+<g id="g4">
+   <rect id="rect13214-69-3" transform="translate(-.91)" x="3.3" y="138" width="49" height="44" style="fill:#000000;stroke-linejoin:round;stroke-miterlimit:.4;stroke-width:1.3;stroke:#ffffff"/>
+   <text id="text13823-4-01" x="26.847895" y="154.30006" style="fill:#d5fff6;font-family:sans-serif;font-size:5.6px;line-height:1.25;stroke-width:.26;text-align:center;text-anchor:middle" xml:space="preserve"><tspan id="tspan13825-8-40" x="26.847895" y="154.30006" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Disciplinando</tspan><tspan id="tspan14417" x="26.847895" y="161.35562" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">los Errores</tspan><tspan id="tspan13928-1" x="26.847895" y="168.41116" style="fill:#d5fff6;font-size:5.6px;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">1 Tim 1:19-20</tspan></text>
+  </g>
+  <!-- .element: class="fragment fade-up" data-fragment-index="4" -->
+  <g id="g14698">
+   <rect id="rect13152-1-4" transform="translate(-.91)" x="3.3" y="182" width="295" height="24" style="fill:#00aad4;stroke-linejoin:round;stroke-miterlimit:.4;stroke-width:1.3;stroke:#ffffff" inkscape:transform-center-x="49.555314" inkscape:transform-center-y="-34.864316"/>
+   <text id="text14325" x="23.512632" y="196.00737" style="fill:#d5fff6;font-family:sans-serif;font-size:7.1px;line-height:1.25;stroke-width:.26" xml:space="preserve"><tspan id="tspan14323" x="23.512632" y="196.00737" style="fill:#d5fff6;font-size:7.1px;font-style:italic;stroke-width:.26" sodipodi:role="line">...para que sepas cómo conducirte en la casa de Dios...1 Timoteo 3:15</tspan></text>
+  </g>
+  <g id="g14705">
+   <rect id="rect13152" transform="translate(-.91)" x="3.3" y=".79" width="295" height="22" style="fill:#00aad4;stroke-linejoin:round;stroke-miterlimit:.4;stroke-width:1.2;stroke:#ffffff"/>
+   <text id="text13461" x="43.845448" y="16.519194" style="fill:#ffffff;font-family:sans-serif;font-size:13px;line-height:1.25;stroke-width:.26" xml:space="preserve"><tspan id="tspan13459" x="43.845448" y="16.519194" style="fill:#ffffff;font-size:13px;stroke-width:.26" sodipodi:role="line"><tspan id="tspan14351" style="font-size:13px;font-weight:bold">1 TIMOTEO</tspan> - en la casa de Dios</tspan></text>
+  </g>
+  <text id="text14455" style="fill:#000000;font-family:sans-serif;font-size:11px;line-height:1.25;shape-inside:url(#rect14457);white-space:pre" xml:space="preserve"/>
+ </g>
+</svg>
+
 ##    A.  1 Timoteo 2:1-7 -- La oración
 
 ###        1.  1 Timoteo 2:1 -- La iglesia tiene la responsabilidad de **<u>orar</u>** por todas las personas en todas partes.
@@ -1233,7 +1274,7 @@ ___
 
 #####                4.  *Acciones de gracias\...* Esta palabra se enfoca en un espíritu de **<u>gratitud</u>** que debería dominar todas nuestras oraciones. Filipenses 4:6
 
-####            c.  1 Timoteo 2:1c -- \...*por todos los hombres*\... Nuestras oraciones deberían incluir a ***<u>todos</u>** los hombres*. El ministerio de la oración es uno de los principales servicios que la iglesia de Jesucristo puede prestar al mundo en el que vivimos. Tristemente, la oración es uno de los ministerios más descuidados en las iglesias hoy.
+####            c.  1 Timoteo 2:1c -- \...*por todos los hombres*\... Nuestras oraciones deberían incluir a *__<u>todos</u>__ los hombres*. El ministerio de la oración es uno de los principales servicios que la iglesia de Jesucristo puede prestar al mundo en el que vivimos. Tristemente, la oración es uno de los ministerios más descuidados en las iglesias hoy.
 
 ###        2.  1 Timoteo 2:2a -- \...*por los reyes y por todos los que están en eminencia*\... Pablo mencionó específicamente a los *reyes* y a todos los que están en autoridad. Los **<u>líderes</u>** de nuestro país deberían ser una de las principales prioridades de nuestras oraciones colectivas como iglesia. Esdras 6:10
 
@@ -1271,7 +1312,7 @@ ___
 
 #####                3.  En lugar de estos, la Biblia presenta a una persona muy específica como el solo y único **<u>verdadero</u>** mediador.
 
-####            c.  1 Timoteo 2:5c -- \...***<u>Jesucristo</u>** hombre*\... La Biblia es clara y muy estricta en este tema.
+####            c.  1 Timoteo 2:5c -- \...*__<u>Jesucristo</u>__ hombre*\... La Biblia es clara y muy estricta en este tema.
 
 #####                1.  Solo hay un mediador **<u>entre</u>** la humanidad y Dios y es el ser humano Cristo Jesús. Juan 14:6; Filipenses 2:6-11
 
@@ -1387,11 +1428,11 @@ ___
 
 #####                2.  Aunque los hombres y las mujeres son iguales, son **<u>diferentes</u>**. Dios le dio a cada género roles específicos y diferentes. Dios creó al hombre y a la mujer para que se complementen el uno al otro, no para competir entre ellos. Un género no es superior al otro.
 
-####            b.  1 Timoteo 2:14 -- *Y Adán no fue engañado, sino que la mujer, siendo engañada, incurrió en transgresión*. Luego, Pablo dio un argumento posterior a la **<u>caída</u>** del por qué las mujeres no deberían ejercer autoridad sobre los hombres en la iglesia local.
+####            b.  1 Timoteo 2:14 -- *Y Adán no fue engañado, sino que la mujer, siendo engañada, incurrió en transgresión*. Luego, Pablo dio un argumento posterior a la __<u>caída</u>__ del por qué las mujeres no deberían ejercer autoridad sobre los hombres en la iglesia local.
 
 #####                1.  Dios dio específicamente la orden de no comer el fruto a Adán. Era responsabilidad de Adán **<u>proteger</u>** a su esposa y asegurarse de que siguieran las instrucciones de Dios.
 
-#####                2.  Génesis 2:16-17 -- ***Y mandó Jehová Dios al [hombre</u>**, diciendo: "De todo árbol del huerto podrás comer; mas del árbol de la ciencia del bien y del mal no comerás; porque el día que de él comieres, ciertamente morirás".*
+#####                2.  Génesis 2:16-17 -- *__Y mandó Jehová Dios al <u>hombre</u>__, diciendo: "De todo árbol del huerto podrás comer; mas del árbol de la ciencia del bien y del mal no comerás; porque el día que de él comieres, ciertamente morirás".*
 
 #####                3.  Por alguna razón, Adán aceptó la oferta de Eva de comer el fruto más allá del mandato de Dios; en lugar de someterse a lo que Dios dijo, se sometió a Eva. Si Adán y Eva hubiesen estado cumpliendo los roles que Dios les dio, Satanás no habría tenido éxito en engañar a **<u>Eva</u>**. 2 Corintios 11:3
 
@@ -1414,6 +1455,66 @@ ___
 ####            c.  Las mujeres necesitan creer en la Palabra de Dios y confiar en Él, que Su voluntad para ellas, tal como se describe en Su Palabra, es *buena, aceptable y **<u>perfecta</u>***, conduciendo al gozo y la realización. Romanos 12:1-2; 2 Corintios 11:3; Gálatas 6:7-9, 1 Timoteo 5:6; 1 Juan 2:15-17
 
 # VII. 1 Timoteo 3:1-16 -- Instrucción en la selección de líderes en la iglesia
+
+<svg id="svg12583" width="1000" height="700" inkscape:version="1.0.2 (e86c8708, 2021-01-15)" sodipodi:docname="bosquejo-opt.svg" version="1.1" viewBox="0 0 296 207" xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd">
+ <sodipodi:namedview id="base" bordercolor="#666666" borderopacity="1.0" fit-margin-bottom="0" fit-margin-left="0" fit-margin-right="0" fit-margin-top="0" inkscape:bbox-paths="true" inkscape:current-layer="layer3" inkscape:cx="394.77242" inkscape:cy="339.58244" inkscape:document-rotation="0" inkscape:document-units="mm" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:snap-bbox="true" inkscape:window-height="935" inkscape:window-maximized="0" inkscape:window-width="1654" inkscape:window-x="24" inkscape:window-y="25" inkscape:zoom="0.74937383" pagecolor="#ffffff" showgrid="false"/>
+ <g id="layer3" transform="translate(-1.8 -.18)" inkscape:groupmode="layer" inkscape:label="letters">
+  <g id="g1">
+   <rect id="rect13214-65" transform="translate(-.91)" x="3.3" y="23" width="49" height="26" style="fill:#a710ff;stroke-linejoin:round;stroke-miterlimit:.4;stroke-width:.97;stroke:#ffffff"/>
+   <text id="text13817" x="27.705727" y="34.551746" style="fill:#d5fff6;font-family:sans-serif;font-size:4.9px;line-height:1.25;stroke-width:.26;text-align:center;text-anchor:middle" xml:space="preserve"><tspan id="tspan13815" x="27.705727" y="34.551746" style="fill:#d5fff6;font-size:4.9px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Mantenimiento </tspan><tspan id="tspan13819" x="27.705727" y="40.725357" style="fill:#d5fff6;font-size:4.9px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Residencial</tspan></text>
+  </g>
+<!-- .element: class="fragment fade-up" data-fragment-index="1" -->
+  <g id="g6">
+   <rect id="rect13214-33-9-1" transform="translate(-.91)" x="52" y="49" width="49" height="44" style="fill:#000000;stroke-linejoin:round;stroke-miterlimit:.4;stroke-width:1.3;stroke:#ffffff"/>
+   <text id="text13823-4" x="75.935036" y="65.780312" style="fill:#d5fff6;font-family:sans-serif;font-size:5.6px;line-height:1.25;stroke-width:.26;text-align:center;text-anchor:middle" xml:space="preserve"><tspan id="tspan13825-8" x="75.935036" y="65.780312" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Oración</tspan><tspan id="tspan14421" x="75.935036" y="72.835861" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Corporal</tspan><tspan id="tspan13928" x="75.935036" y="79.891411" style="fill:#d5fff6;font-size:5.6px;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">1 Tim 2:1-7</tspan></text>
+  </g>
+  <!-- .element: class="fragment fade-up" data-fragment-index="6" -->
+  <g id="g5">
+   <rect id="rect13214-65-1" transform="translate(-.91)" x="52" y="23" width="49" height="26" style="fill:#a710ff;stroke-linejoin:round;stroke-miterlimit:.4;stroke-width:.97;stroke:#ffffff"/>
+   <text id="text13823-4-9" x="76.953575" y="34.373463" style="fill:#d5fff6;font-family:sans-serif;font-size:6.4px;line-height:1.25;stroke-width:.26;text-align:center;text-anchor:middle" xml:space="preserve"><tspan id="tspan13821-9-1" x="76.953575" y="34.373463" style="fill:#d5fff6;font-size:6.4px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Deberes de </tspan><tspan id="tspan13825-8-6" x="76.953575" y="42.310963" style="fill:#d5fff6;font-size:6.4px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">la casa</tspan></text>
+  </g>
+  <!-- .element: class="fragment fade-up" data-fragment-index="5" -->
+  <g id="g2">
+   <rect id="rect13214-33-9-8" transform="translate(-.91)" x="3.3" y="49" width="49" height="44" style="fill:#000000;stroke-linejoin:round;stroke-miterlimit:.4;stroke-width:1.3;stroke:#ffffff"/>
+   <text id="text13823-4-04" x="27.703661" y="65.676445" style="fill:#d5fff6;font-family:sans-serif;font-size:5.6px;line-height:1.25;stroke-width:.26;text-align:center;text-anchor:middle" xml:space="preserve"><tspan id="tspan13821-9-4" x="27.703661" y="65.676445" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Razón por </tspan><tspan id="tspan13825-8-18" x="27.703661" y="72.731995" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">la Escritura  </tspan><tspan id="tspan13928-9" x="27.703661" y="79.787544" style="fill:#d5fff6;font-size:5.6px;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">1 Tim 1:1-11</tspan></text>
+  </g>
+  <!-- .element: class="fragment fade-up" data-fragment-index="2" -->
+  <g id="g3">
+   <rect id="rect13214-2-5" transform="translate(-.91)" x="3.3" y="93" width="49" height="44" style="fill:#000000;stroke-linejoin:round;stroke-miterlimit:.4;stroke-width:1.3;stroke:#ffffff"/>
+   <text id="text13823-4-2" x="26.764179" y="110.01151" style="fill:#d5fff6;font-family:sans-serif;font-size:5.6px;line-height:1.25;stroke-width:.26;text-align:center;text-anchor:middle" xml:space="preserve"><tspan id="tspan13825-8-5" x="26.764179" y="110.01151" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Gracia para </tspan><tspan id="tspan14395" x="26.764179" y="117.06706" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">la Batalla</tspan><tspan id="tspan13928-46" x="26.764179" y="124.12261" style="fill:#d5fff6;font-size:5.6px;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">1 Tim 1:12-18</tspan></text>
+  </g>
+  <!-- .element: class="fragment fade-up" data-fragment-index="3" -->
+  <g id="g7">
+   <rect id="rect13214-2-0" transform="translate(-.91)" x="52" y="93" width="49" height="44" style="fill:#000000;stroke-linejoin:round;stroke-miterlimit:.4;stroke-width:1.3;stroke:#ffffff"/>
+   <text id="text13823-4-90" x="76.953575" y="106.0474" style="fill:#d5fff6;font-family:sans-serif;font-size:5.6px;line-height:1.25;stroke-width:.26;text-align:center;text-anchor:middle" xml:space="preserve"><tspan id="tspan13825-8-7" x="76.953575" y="106.0474" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Hombres y </tspan><tspan id="tspan14425" x="76.953575" y="113.10295" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">la Oración</tspan><tspan id="tspan14427" x="76.953575" y="120.1585" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Pública</tspan><tspan id="tspan13928-7" x="76.953575" y="127.21405" style="fill:#d5fff6;font-size:5.6px;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">1 Tim 2:8</tspan></text>
+  </g>
+  <!-- .element: class="fragment fade-up" data-fragment-index="7" -->
+  <g id="g8">
+   <rect id="rect13214-69-71" transform="translate(-.91)" x="52" y="138" width="49" height="44" style="fill:#000000;stroke-linejoin:round;stroke-miterlimit:.4;stroke-width:1.3;stroke:#ffffff"/>
+   <text id="text13823-4-47" x="76.953575" y="154.30006" style="fill:#d5fff6;font-family:sans-serif;font-size:5.6px;line-height:1.25;stroke-width:.26;text-align:center;text-anchor:middle" xml:space="preserve"><tspan id="tspan13825-8-8" x="76.953575" y="154.30006" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Mujeres en </tspan><tspan id="tspan14431" x="76.953575" y="161.35562" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">el Culto</tspan><tspan id="tspan13928-73" x="76.953575" y="168.41116" style="fill:#d5fff6;font-size:5.6px;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">1 Tim 2:9-15</tspan></text>
+  </g>
+  <!-- .element: class="fragment fade-up" data-fragment-index="8" -->
+  <g id="g4">
+   <rect id="rect13214-69-3" transform="translate(-.91)" x="3.3" y="138" width="49" height="44" style="fill:#000000;stroke-linejoin:round;stroke-miterlimit:.4;stroke-width:1.3;stroke:#ffffff"/>
+   <text id="text13823-4-01" x="26.847895" y="154.30006" style="fill:#d5fff6;font-family:sans-serif;font-size:5.6px;line-height:1.25;stroke-width:.26;text-align:center;text-anchor:middle" xml:space="preserve"><tspan id="tspan13825-8-40" x="26.847895" y="154.30006" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Disciplinando</tspan><tspan id="tspan14417" x="26.847895" y="161.35562" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">los Errores</tspan><tspan id="tspan13928-1" x="26.847895" y="168.41116" style="fill:#d5fff6;font-size:5.6px;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">1 Tim 1:19-20</tspan></text>
+  </g>
+  <!-- .element: class="fragment fade-up" data-fragment-index="4" -->
+  <g id="g9">
+   <rect id="rect13214-65-8" transform="translate(-.91)" x="102" y="23" width="49" height="26" style="fill:#a710ff;stroke-linejoin:round;stroke-miterlimit:.4;stroke-width:.97;stroke:#ffffff"/>
+   <text id="text13823-4-9-1" x="125.433" y="34.373463" style="fill:#d5fff6;font-family:sans-serif;font-size:6.4px;line-height:1.25;stroke-width:.26;text-align:center;text-anchor:middle" xml:space="preserve"><tspan id="tspan13825-8-6-4" x="125.433" y="34.373463" style="fill:#d5fff6;font-size:6.4px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Manejo</tspan><tspan id="tspan14516" x="125.433" y="42.310963" style="fill:#d5fff6;font-size:6.4px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">de la Casa</tspan></text>
+  </g>
+  <!-- .element: class="fragment fade-up" data-fragment-index="9" -->
+  <g id="g14698">
+   <rect id="rect13152-1-4" transform="translate(-.91)" x="3.3" y="182" width="295" height="24" style="fill:#00aad4;stroke-linejoin:round;stroke-miterlimit:.4;stroke-width:1.3;stroke:#ffffff" inkscape:transform-center-x="49.555314" inkscape:transform-center-y="-34.864316"/>
+   <text id="text14325" x="23.512632" y="196.00737" style="fill:#d5fff6;font-family:sans-serif;font-size:7.1px;line-height:1.25;stroke-width:.26" xml:space="preserve"><tspan id="tspan14323" x="23.512632" y="196.00737" style="fill:#d5fff6;font-size:7.1px;font-style:italic;stroke-width:.26" sodipodi:role="line">...para que sepas cómo conducirte en la casa de Dios...1 Timoteo 3:15</tspan></text>
+  </g>
+  <g id="g14705">
+   <rect id="rect13152" transform="translate(-.91)" x="3.3" y=".79" width="295" height="22" style="fill:#00aad4;stroke-linejoin:round;stroke-miterlimit:.4;stroke-width:1.2;stroke:#ffffff"/>
+   <text id="text13461" x="43.845448" y="16.519194" style="fill:#ffffff;font-family:sans-serif;font-size:13px;line-height:1.25;stroke-width:.26" xml:space="preserve"><tspan id="tspan13459" x="43.845448" y="16.519194" style="fill:#ffffff;font-size:13px;stroke-width:.26" sodipodi:role="line"><tspan id="tspan14351" style="font-size:13px;font-weight:bold">1 TIMOTEO</tspan> - en la casa de Dios</tspan></text>
+  </g>
+  <text id="text14455" style="fill:#000000;font-family:sans-serif;font-size:11px;line-height:1.25;shape-inside:url(#rect14457);white-space:pre" xml:space="preserve"/>
+ </g>
+</svg>
 
 ##     A.  1 Timoteo 3:1 -- Deseando el oficio de anciano/obispo
 
@@ -1773,6 +1874,86 @@ ___
 
 # VIII. 1 Timoteo 4:1-16 -- Protección Contra la Apostasía
 
+<svg id="svg12583" width="1000" height="700" inkscape:version="1.0.2 (e86c8708, 2021-01-15)" sodipodi:docname="bosquejo-opt.svg" version="1.1" viewBox="0 0 296 207" xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd">
+ <sodipodi:namedview id="base" bordercolor="#666666" borderopacity="1.0" fit-margin-bottom="0" fit-margin-left="0" fit-margin-right="0" fit-margin-top="0" inkscape:bbox-paths="true" inkscape:current-layer="layer3" inkscape:cx="394.77242" inkscape:cy="339.58244" inkscape:document-rotation="0" inkscape:document-units="mm" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:snap-bbox="true" inkscape:window-height="935" inkscape:window-maximized="0" inkscape:window-width="1654" inkscape:window-x="24" inkscape:window-y="25" inkscape:zoom="0.74937383" pagecolor="#ffffff" showgrid="false"/>
+ <g id="layer3" transform="translate(-1.8 -.18)" inkscape:groupmode="layer" inkscape:label="letters">
+  <g id="g1">
+   <rect id="rect13214-65" transform="translate(-.91)" x="3.3" y="23" width="49" height="26" style="fill:#a710ff;stroke-linejoin:round;stroke-miterlimit:.4;stroke-width:.97;stroke:#ffffff"/>
+   <text id="text13817" x="27.705727" y="34.551746" style="fill:#d5fff6;font-family:sans-serif;font-size:4.9px;line-height:1.25;stroke-width:.26;text-align:center;text-anchor:middle" xml:space="preserve"><tspan id="tspan13815" x="27.705727" y="34.551746" style="fill:#d5fff6;font-size:4.9px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Mantenimiento </tspan><tspan id="tspan13819" x="27.705727" y="40.725357" style="fill:#d5fff6;font-size:4.9px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Residencial</tspan></text>
+  </g>
+<!-- .element: class="fragment fade-up" data-fragment-index="1" -->
+  <g id="g6">
+   <rect id="rect13214-33-9-1" transform="translate(-.91)" x="52" y="49" width="49" height="44" style="fill:#000000;stroke-linejoin:round;stroke-miterlimit:.4;stroke-width:1.3;stroke:#ffffff"/>
+   <text id="text13823-4" x="75.935036" y="65.780312" style="fill:#d5fff6;font-family:sans-serif;font-size:5.6px;line-height:1.25;stroke-width:.26;text-align:center;text-anchor:middle" xml:space="preserve"><tspan id="tspan13825-8" x="75.935036" y="65.780312" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Oración</tspan><tspan id="tspan14421" x="75.935036" y="72.835861" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Corporal</tspan><tspan id="tspan13928" x="75.935036" y="79.891411" style="fill:#d5fff6;font-size:5.6px;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">1 Tim 2:1-7</tspan></text>
+  </g>
+  <!-- .element: class="fragment fade-up" data-fragment-index="6" -->
+  <g id="g5">
+   <rect id="rect13214-65-1" transform="translate(-.91)" x="52" y="23" width="49" height="26" style="fill:#a710ff;stroke-linejoin:round;stroke-miterlimit:.4;stroke-width:.97;stroke:#ffffff"/>
+   <text id="text13823-4-9" x="76.953575" y="34.373463" style="fill:#d5fff6;font-family:sans-serif;font-size:6.4px;line-height:1.25;stroke-width:.26;text-align:center;text-anchor:middle" xml:space="preserve"><tspan id="tspan13821-9-1" x="76.953575" y="34.373463" style="fill:#d5fff6;font-size:6.4px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Deberes de </tspan><tspan id="tspan13825-8-6" x="76.953575" y="42.310963" style="fill:#d5fff6;font-size:6.4px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">la casa</tspan></text>
+  </g>
+  <!-- .element: class="fragment fade-up" data-fragment-index="5" -->
+  <g id="g10">
+   <rect id="rect13214-33-9-9" transform="translate(-.91)" x="102" y="49" width="49" height="44" style="fill:#000000;stroke-linejoin:round;stroke-miterlimit:.4;stroke-width:1.3;stroke:#ffffff"/>
+   <text id="text13823-4-6" x="125.53687" y="65.732254" style="fill:#d5fff6;font-family:sans-serif;font-size:5.6px;line-height:1.25;stroke-width:.26;text-align:center;text-anchor:middle" xml:space="preserve"><tspan id="tspan13825-8-0" x="125.53687" y="65.732254" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Ancianos en</tspan><tspan id="tspan14435" x="125.53687" y="72.787804" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">la Iglesia</tspan><tspan id="tspan13928-4" x="125.53687" y="79.843353" style="fill:#d5fff6;font-size:5.6px;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">1 Tim 3:1-7</tspan></text>
+  </g>
+  <!-- .element: class="fragment fade-up" data-fragment-index="10" -->
+  <g id="g2">
+   <rect id="rect13214-33-9-8" transform="translate(-.91)" x="3.3" y="49" width="49" height="44" style="fill:#000000;stroke-linejoin:round;stroke-miterlimit:.4;stroke-width:1.3;stroke:#ffffff"/>
+   <text id="text13823-4-04" x="27.703661" y="65.676445" style="fill:#d5fff6;font-family:sans-serif;font-size:5.6px;line-height:1.25;stroke-width:.26;text-align:center;text-anchor:middle" xml:space="preserve"><tspan id="tspan13821-9-4" x="27.703661" y="65.676445" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Razón por </tspan><tspan id="tspan13825-8-18" x="27.703661" y="72.731995" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">la Escritura  </tspan><tspan id="tspan13928-9" x="27.703661" y="79.787544" style="fill:#d5fff6;font-size:5.6px;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">1 Tim 1:1-11</tspan></text>
+  </g>
+  <!-- .element: class="fragment fade-up" data-fragment-index="2" -->
+  <g id="g3">
+   <rect id="rect13214-2-5" transform="translate(-.91)" x="3.3" y="93" width="49" height="44" style="fill:#000000;stroke-linejoin:round;stroke-miterlimit:.4;stroke-width:1.3;stroke:#ffffff"/>
+   <text id="text13823-4-2" x="26.764179" y="110.01151" style="fill:#d5fff6;font-family:sans-serif;font-size:5.6px;line-height:1.25;stroke-width:.26;text-align:center;text-anchor:middle" xml:space="preserve"><tspan id="tspan13825-8-5" x="26.764179" y="110.01151" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Gracia para </tspan><tspan id="tspan14395" x="26.764179" y="117.06706" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">la Batalla</tspan><tspan id="tspan13928-46" x="26.764179" y="124.12261" style="fill:#d5fff6;font-size:5.6px;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">1 Tim 1:12-18</tspan></text>
+  </g>
+  <!-- .element: class="fragment fade-up" data-fragment-index="3" -->
+  <g id="g7">
+   <rect id="rect13214-2-0" transform="translate(-.91)" x="52" y="93" width="49" height="44" style="fill:#000000;stroke-linejoin:round;stroke-miterlimit:.4;stroke-width:1.3;stroke:#ffffff"/>
+   <text id="text13823-4-90" x="76.953575" y="106.0474" style="fill:#d5fff6;font-family:sans-serif;font-size:5.6px;line-height:1.25;stroke-width:.26;text-align:center;text-anchor:middle" xml:space="preserve"><tspan id="tspan13825-8-7" x="76.953575" y="106.0474" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Hombres y </tspan><tspan id="tspan14425" x="76.953575" y="113.10295" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">la Oración</tspan><tspan id="tspan14427" x="76.953575" y="120.1585" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Pública</tspan><tspan id="tspan13928-7" x="76.953575" y="127.21405" style="fill:#d5fff6;font-size:5.6px;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">1 Tim 2:8</tspan></text>
+  </g>
+  <!-- .element: class="fragment fade-up" data-fragment-index="7" -->
+  <g id="g11">
+   <rect id="rect13214-2-9" transform="translate(-.91)" x="102" y="93" width="49" height="44" style="fill:#000000;stroke-linejoin:round;stroke-miterlimit:.4;stroke-width:1.3;stroke:#ffffff"/>
+   <text id="text13823-4-4" x="126.07636" y="110.01151" style="fill:#d5fff6;font-family:sans-serif;font-size:5.6px;line-height:1.25;stroke-width:.26;text-align:center;text-anchor:middle" xml:space="preserve"><tspan id="tspan13825-8-4" x="126.07636" y="110.01151" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Diaconos en </tspan><tspan id="tspan14439" x="126.07636" y="117.06706" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">la Iglesia</tspan><tspan id="tspan13928-92" x="126.07636" y="124.12261" style="fill:#d5fff6;font-size:5.6px;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">1 Tim 3:8-13</tspan></text>
+  </g>
+  <!-- .element: class="fragment fade-up" data-fragment-index="11" -->
+  <g id="g12">
+   <rect id="rect13214-69-79" transform="translate(-.91)" x="102" y="138" width="49" height="44" style="fill:#000000;stroke-linejoin:round;stroke-miterlimit:.4;stroke-width:1.3;stroke:#ffffff"/>
+   <text id="text13823-4-42" x="125.06712" y="154.24113" style="fill:#d5fff6;font-family:sans-serif;font-size:5.6px;line-height:1.25;stroke-width:.26;text-align:center;text-anchor:middle" xml:space="preserve"><tspan id="tspan13825-8-70" x="125.06712" y="154.24113" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">La Casa</tspan><tspan id="tspan14443" x="125.06712" y="161.29669" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">de Dios</tspan><tspan id="tspan13928-03" x="125.06712" y="168.35223" style="fill:#d5fff6;font-size:5.6px;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">1 Tim 3:14-16</tspan></text>
+  </g>
+  <!-- .element: class="fragment fade-up" data-fragment-index="12" -->
+  <g id="g8">
+   <rect id="rect13214-69-71" transform="translate(-.91)" x="52" y="138" width="49" height="44" style="fill:#000000;stroke-linejoin:round;stroke-miterlimit:.4;stroke-width:1.3;stroke:#ffffff"/>
+   <text id="text13823-4-47" x="76.953575" y="154.30006" style="fill:#d5fff6;font-family:sans-serif;font-size:5.6px;line-height:1.25;stroke-width:.26;text-align:center;text-anchor:middle" xml:space="preserve"><tspan id="tspan13825-8-8" x="76.953575" y="154.30006" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Mujeres en </tspan><tspan id="tspan14431" x="76.953575" y="161.35562" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">el Culto</tspan><tspan id="tspan13928-73" x="76.953575" y="168.41116" style="fill:#d5fff6;font-size:5.6px;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">1 Tim 2:9-15</tspan></text>
+  </g>
+  <!-- .element: class="fragment fade-up" data-fragment-index="8" -->
+  <g id="g4">
+   <rect id="rect13214-69-3" transform="translate(-.91)" x="3.3" y="138" width="49" height="44" style="fill:#000000;stroke-linejoin:round;stroke-miterlimit:.4;stroke-width:1.3;stroke:#ffffff"/>
+   <text id="text13823-4-01" x="26.847895" y="154.30006" style="fill:#d5fff6;font-family:sans-serif;font-size:5.6px;line-height:1.25;stroke-width:.26;text-align:center;text-anchor:middle" xml:space="preserve"><tspan id="tspan13825-8-40" x="26.847895" y="154.30006" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Disciplinando</tspan><tspan id="tspan14417" x="26.847895" y="161.35562" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">los Errores</tspan><tspan id="tspan13928-1" x="26.847895" y="168.41116" style="fill:#d5fff6;font-size:5.6px;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">1 Tim 1:19-20</tspan></text>
+  </g>
+  <!-- .element: class="fragment fade-up" data-fragment-index="4" -->
+  <g id="g9">
+   <rect id="rect13214-65-8" transform="translate(-.91)" x="102" y="23" width="49" height="26" style="fill:#a710ff;stroke-linejoin:round;stroke-miterlimit:.4;stroke-width:.97;stroke:#ffffff"/>
+   <text id="text13823-4-9-1" x="125.433" y="34.373463" style="fill:#d5fff6;font-family:sans-serif;font-size:6.4px;line-height:1.25;stroke-width:.26;text-align:center;text-anchor:middle" xml:space="preserve"><tspan id="tspan13825-8-6-4" x="125.433" y="34.373463" style="fill:#d5fff6;font-size:6.4px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Manejo</tspan><tspan id="tspan14516" x="125.433" y="42.310963" style="fill:#d5fff6;font-size:6.4px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">de la Casa</tspan></text>
+  </g>
+  <!-- .element: class="fragment fade-up" data-fragment-index="9" -->
+  <g id="g13">
+   <rect id="rect13214-65-19" transform="translate(-.91)" x="151" y="23" width="49" height="26" style="fill:#a710ff;stroke-linejoin:round;stroke-miterlimit:.4;stroke-width:.97;stroke:#ffffff"/>
+   <text id="text13823-4-9-3" x="174.43797" y="34.367283" style="fill:#d5fff6;font-family:sans-serif;font-size:6.4px;line-height:1.25;stroke-width:.26;text-align:center;text-anchor:middle" xml:space="preserve"><tspan id="tspan13825-8-6-7" x="174.43797" y="34.367283" style="fill:#d5fff6;font-size:6.4px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Seguridad</tspan><tspan id="tspan14512" x="174.43797" y="42.304783" style="fill:#d5fff6;font-size:6.4px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Doméstica</tspan></text>
+  </g>
+  <!-- .element: class="fragment fade-up" data-fragment-index="13" -->
+  <g id="g14698">
+   <rect id="rect13152-1-4" transform="translate(-.91)" x="3.3" y="182" width="295" height="24" style="fill:#00aad4;stroke-linejoin:round;stroke-miterlimit:.4;stroke-width:1.3;stroke:#ffffff" inkscape:transform-center-x="49.555314" inkscape:transform-center-y="-34.864316"/>
+   <text id="text14325" x="23.512632" y="196.00737" style="fill:#d5fff6;font-family:sans-serif;font-size:7.1px;line-height:1.25;stroke-width:.26" xml:space="preserve"><tspan id="tspan14323" x="23.512632" y="196.00737" style="fill:#d5fff6;font-size:7.1px;font-style:italic;stroke-width:.26" sodipodi:role="line">...para que sepas cómo conducirte en la casa de Dios...1 Timoteo 3:15</tspan></text>
+  </g>
+  <g id="g14705">
+   <rect id="rect13152" transform="translate(-.91)" x="3.3" y=".79" width="295" height="22" style="fill:#00aad4;stroke-linejoin:round;stroke-miterlimit:.4;stroke-width:1.2;stroke:#ffffff"/>
+   <text id="text13461" x="43.845448" y="16.519194" style="fill:#ffffff;font-family:sans-serif;font-size:13px;line-height:1.25;stroke-width:.26" xml:space="preserve"><tspan id="tspan13459" x="43.845448" y="16.519194" style="fill:#ffffff;font-size:13px;stroke-width:.26" sodipodi:role="line"><tspan id="tspan14351" style="font-size:13px;font-weight:bold">1 TIMOTEO</tspan> - en la casa de Dios</tspan></text>
+  </g>
+  <text id="text14455" style="fill:#000000;font-family:sans-serif;font-size:11px;line-height:1.25;shape-inside:url(#rect14457);white-space:pre" xml:space="preserve"/>
+ </g>
+</svg>
+
 ##      A.  1 Timoteo 4:1 -- El apartamiento
 
 ###          1.  1 Timoteo 4:1a -- *Pero el Espíritu dice claramente que en los postreros tiempos*\... Pablo le advirtió a Timoteo de falsas enseñanzas venideras y sus efectos erosivos. La palabra *pero* en este pasaje, expone el marcado contraste entre la gloria del misterio de Dios explicado en 1 Timoteo 3:15-16 y el triste alejamiento de la fe que el Espíritu Santo vigilantemente **<u>predijo</u>**.
@@ -1857,7 +2038,7 @@ ___
 
 ####              c.  Como Pablo señaló en 1 Timoteo 3:16, el **<u>misterio</u>** de la piedad es Cristo. Colosenses 1:27
 
-####              d.  La piedad no viene por golpearnos a nosotros mismos para estar en forma. La piedad viene a medida que aprendemos a andar por la fe. Gálatas 2:20 lo dice bien: *\"Con Cristo estoy juntamente crucificado, y ya no vivo yo, mas vive Cristo en mí; **y lo que ahora vivo en la carne, lo vivo en la fe del Hijo de Dios, el cual Me amó y Se entregó a Sí mismo por [mí</u>**.\"*
+####              d.  La piedad no viene por golpearnos a nosotros mismos para estar en forma. La piedad viene a medida que aprendemos a andar por la fe. Gálatas 2:20 lo dice bien: *\"Con Cristo estoy juntamente crucificado, y ya no vivo yo, mas vive Cristo en mí; **y lo que ahora vivo en la carne, lo vivo en la fe del Hijo de Dios, el cual Me amó y Se entregó a Sí mismo por <u>mí</u>**.\"*
 
 ###          8.  1 Timoteo 4:10b -- \...*porque esperamos en el Dios viviente*\... ¿Por qué seguimos a Dios? Fijamos nuestra esperanza en Él, porque Él es el Dios viviente. Nadie lo reemplazará jamás. Solo Él es el Dios verdadero y nunca perderá esa **<u>posición</u>**.
 
@@ -1929,7 +2110,7 @@ ___
 
 ###          7.  **Séptimo Mandato:** 1 Timoteo 4:15a -- *Ocúpate en estas cosas*\... La afirmación *ocúpate en estas cosas* es una orden que significa considerar, concentrarse o reflexionar sobre estas cosas con el propósito de desempeñarse bien. Ocúpate en estas cosas significaba que Timoteo necesitaría ser incansable y tenaz en su dedicación a estos **<u>asuntos</u>**.
 
-###          8.  **Octavo Mandato:** 1 Timoteo 4:15b -- **\...***permanece en ellas, para que tu aprovechamiento sea manifiesto a todos*. El mandato aquí para *permanece en ellas*, es literalmente estar en ellas. La idea comunicada es que Timoteo debería estar viviendo y respirando estas cosas. Pablo estaba ultra interesado en que Timoteo estuviera completamente concentrado en cumplir su **<u>llamado</u>**.
+###          8.  **Octavo Mandato:** 1 Timoteo 4:15b -- *...**permanece en ellas, para que tu aprovechamiento sea manifiesto a todos.* El mandato aquí para *permanece en ellas*, es literalmente estar en ellas. La idea comunicada es que Timoteo debería estar viviendo y respirando estas cosas. Pablo estaba ultra interesado en que Timoteo estuviera completamente concentrado en cumplir su **<u>llamado</u>**.
 
 ####              a.  *Aprovechamiento* tiene la idea de avance. Timoteo debía perseguir apasionadamente el propósito de Dios para su vida, con atención continua al **<u>detalle</u>**.
 
@@ -1956,6 +2137,106 @@ ___
 #####                  3.  Del mismo modo, si aquellos bajo su enseñanza aprendían a andar por la fe y disfrutar de la comunión con el Señor, ellos también experimentarían el poder sobre el **<u>pecado</u>** en su vida diaria.
 
 # IX. 1 Timoteo 5:1-6:21 -- Relaciones dentro de la Iglesia
+
+<svg id="svg12583" width="1000" height="700" inkscape:version="1.0.2 (e86c8708, 2021-01-15)" sodipodi:docname="bosquejo-opt.svg" version="1.1" viewBox="0 0 296 207" xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd">
+ <sodipodi:namedview id="base" bordercolor="#666666" borderopacity="1.0" fit-margin-bottom="0" fit-margin-left="0" fit-margin-right="0" fit-margin-top="0" inkscape:bbox-paths="true" inkscape:current-layer="layer3" inkscape:cx="394.77242" inkscape:cy="339.58244" inkscape:document-rotation="0" inkscape:document-units="mm" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:snap-bbox="true" inkscape:window-height="935" inkscape:window-maximized="0" inkscape:window-width="1654" inkscape:window-x="24" inkscape:window-y="25" inkscape:zoom="0.74937383" pagecolor="#ffffff" showgrid="false"/>
+ <g id="layer3" transform="translate(-1.8 -.18)" inkscape:groupmode="layer" inkscape:label="letters">
+  <g id="g1">
+   <rect id="rect13214-65" transform="translate(-.91)" x="3.3" y="23" width="49" height="26" style="fill:#a710ff;stroke-linejoin:round;stroke-miterlimit:.4;stroke-width:.97;stroke:#ffffff"/>
+   <text id="text13817" x="27.705727" y="34.551746" style="fill:#d5fff6;font-family:sans-serif;font-size:4.9px;line-height:1.25;stroke-width:.26;text-align:center;text-anchor:middle" xml:space="preserve"><tspan id="tspan13815" x="27.705727" y="34.551746" style="fill:#d5fff6;font-size:4.9px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Mantenimiento </tspan><tspan id="tspan13819" x="27.705727" y="40.725357" style="fill:#d5fff6;font-size:4.9px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Residencial</tspan></text>
+  </g>
+<!-- .element: class="fragment fade-up" data-fragment-index="1" -->
+  <g id="g6">
+   <rect id="rect13214-33-9-1" transform="translate(-.91)" x="52" y="49" width="49" height="44" style="fill:#000000;stroke-linejoin:round;stroke-miterlimit:.4;stroke-width:1.3;stroke:#ffffff"/>
+   <text id="text13823-4" x="75.935036" y="65.780312" style="fill:#d5fff6;font-family:sans-serif;font-size:5.6px;line-height:1.25;stroke-width:.26;text-align:center;text-anchor:middle" xml:space="preserve"><tspan id="tspan13825-8" x="75.935036" y="65.780312" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Oración</tspan><tspan id="tspan14421" x="75.935036" y="72.835861" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Corporal</tspan><tspan id="tspan13928" x="75.935036" y="79.891411" style="fill:#d5fff6;font-size:5.6px;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">1 Tim 2:1-7</tspan></text>
+  </g>
+  <!-- .element: class="fragment fade-up" data-fragment-index="6" -->
+  <g id="g5">
+   <rect id="rect13214-65-1" transform="translate(-.91)" x="52" y="23" width="49" height="26" style="fill:#a710ff;stroke-linejoin:round;stroke-miterlimit:.4;stroke-width:.97;stroke:#ffffff"/>
+   <text id="text13823-4-9" x="76.953575" y="34.373463" style="fill:#d5fff6;font-family:sans-serif;font-size:6.4px;line-height:1.25;stroke-width:.26;text-align:center;text-anchor:middle" xml:space="preserve"><tspan id="tspan13821-9-1" x="76.953575" y="34.373463" style="fill:#d5fff6;font-size:6.4px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Deberes de </tspan><tspan id="tspan13825-8-6" x="76.953575" y="42.310963" style="fill:#d5fff6;font-size:6.4px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">la casa</tspan></text>
+  </g>
+  <!-- .element: class="fragment fade-up" data-fragment-index="5" -->
+  <g id="g10">
+   <rect id="rect13214-33-9-9" transform="translate(-.91)" x="102" y="49" width="49" height="44" style="fill:#000000;stroke-linejoin:round;stroke-miterlimit:.4;stroke-width:1.3;stroke:#ffffff"/>
+   <text id="text13823-4-6" x="125.53687" y="65.732254" style="fill:#d5fff6;font-family:sans-serif;font-size:5.6px;line-height:1.25;stroke-width:.26;text-align:center;text-anchor:middle" xml:space="preserve"><tspan id="tspan13825-8-0" x="125.53687" y="65.732254" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Ancianos en</tspan><tspan id="tspan14435" x="125.53687" y="72.787804" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">la Iglesia</tspan><tspan id="tspan13928-4" x="125.53687" y="79.843353" style="fill:#d5fff6;font-size:5.6px;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">1 Tim 3:1-7</tspan></text>
+  </g>
+  <!-- .element: class="fragment fade-up" data-fragment-index="10" -->
+  <g id="g14">
+   <rect id="rect13214-33-9" transform="translate(-.91)" x="151" y="49" width="49" height="44" style="fill:#000000;stroke-linejoin:round;stroke-miterlimit:.4;stroke-width:1.3;stroke:#ffffff"/>
+   <text id="text13823-4-5" x="174.27985" y="65.732269" style="fill:#d5fff6;font-family:sans-serif;font-size:5.6px;line-height:1.25;stroke-width:.26;text-align:center;text-anchor:middle" xml:space="preserve"><tspan id="tspan14447" x="174.27985" y="65.732269" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Herejes</tspan><tspan id="tspan14471" x="174.27985" y="72.787819" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Venideros</tspan><tspan id="tspan13928-6" x="174.27985" y="79.843369" style="fill:#d5fff6;font-size:5.6px;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">1 Tim 4:1-5</tspan></text>
+  </g>
+  <!-- .element: class="fragment fade-up" data-fragment-index="14" -->
+  <g id="g2">
+   <rect id="rect13214-33-9-8" transform="translate(-.91)" x="3.3" y="49" width="49" height="44" style="fill:#000000;stroke-linejoin:round;stroke-miterlimit:.4;stroke-width:1.3;stroke:#ffffff"/>
+   <text id="text13823-4-04" x="27.703661" y="65.676445" style="fill:#d5fff6;font-family:sans-serif;font-size:5.6px;line-height:1.25;stroke-width:.26;text-align:center;text-anchor:middle" xml:space="preserve"><tspan id="tspan13821-9-4" x="27.703661" y="65.676445" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Razón por </tspan><tspan id="tspan13825-8-18" x="27.703661" y="72.731995" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">la Escritura  </tspan><tspan id="tspan13928-9" x="27.703661" y="79.787544" style="fill:#d5fff6;font-size:5.6px;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">1 Tim 1:1-11</tspan></text>
+  </g>
+  <!-- .element: class="fragment fade-up" data-fragment-index="2" -->
+  <g id="g3">
+   <rect id="rect13214-2-5" transform="translate(-.91)" x="3.3" y="93" width="49" height="44" style="fill:#000000;stroke-linejoin:round;stroke-miterlimit:.4;stroke-width:1.3;stroke:#ffffff"/>
+   <text id="text13823-4-2" x="26.764179" y="110.01151" style="fill:#d5fff6;font-family:sans-serif;font-size:5.6px;line-height:1.25;stroke-width:.26;text-align:center;text-anchor:middle" xml:space="preserve"><tspan id="tspan13825-8-5" x="26.764179" y="110.01151" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Gracia para </tspan><tspan id="tspan14395" x="26.764179" y="117.06706" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">la Batalla</tspan><tspan id="tspan13928-46" x="26.764179" y="124.12261" style="fill:#d5fff6;font-size:5.6px;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">1 Tim 1:12-18</tspan></text>
+  </g>
+  <!-- .element: class="fragment fade-up" data-fragment-index="3" -->
+  <g id="g7">
+   <rect id="rect13214-2-0" transform="translate(-.91)" x="52" y="93" width="49" height="44" style="fill:#000000;stroke-linejoin:round;stroke-miterlimit:.4;stroke-width:1.3;stroke:#ffffff"/>
+   <text id="text13823-4-90" x="76.953575" y="106.0474" style="fill:#d5fff6;font-family:sans-serif;font-size:5.6px;line-height:1.25;stroke-width:.26;text-align:center;text-anchor:middle" xml:space="preserve"><tspan id="tspan13825-8-7" x="76.953575" y="106.0474" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Hombres y </tspan><tspan id="tspan14425" x="76.953575" y="113.10295" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">la Oración</tspan><tspan id="tspan14427" x="76.953575" y="120.1585" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Pública</tspan><tspan id="tspan13928-7" x="76.953575" y="127.21405" style="fill:#d5fff6;font-size:5.6px;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">1 Tim 2:8</tspan></text>
+  </g>
+  <!-- .element: class="fragment fade-up" data-fragment-index="7" -->
+  <g id="g11">
+   <rect id="rect13214-2-9" transform="translate(-.91)" x="102" y="93" width="49" height="44" style="fill:#000000;stroke-linejoin:round;stroke-miterlimit:.4;stroke-width:1.3;stroke:#ffffff"/>
+   <text id="text13823-4-4" x="126.07636" y="110.01151" style="fill:#d5fff6;font-family:sans-serif;font-size:5.6px;line-height:1.25;stroke-width:.26;text-align:center;text-anchor:middle" xml:space="preserve"><tspan id="tspan13825-8-4" x="126.07636" y="110.01151" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Diaconos en </tspan><tspan id="tspan14439" x="126.07636" y="117.06706" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">la Iglesia</tspan><tspan id="tspan13928-92" x="126.07636" y="124.12261" style="fill:#d5fff6;font-size:5.6px;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">1 Tim 3:8-13</tspan></text>
+  </g>
+  <!-- .element: class="fragment fade-up" data-fragment-index="11" -->
+  <g id="g15">
+   <rect id="rect13214-2-71" transform="translate(-.91)" x="151" y="93" width="49" height="44" style="fill:#000000;stroke-linejoin:round;stroke-miterlimit:.4;stroke-width:1.3;stroke:#ffffff"/>
+   <text id="text13823-4-40" x="174.3279" y="110.01615" style="fill:#d5fff6;font-family:sans-serif;font-size:5.6px;line-height:1.25;stroke-width:.26;text-align:center;text-anchor:middle" xml:space="preserve"><tspan id="tspan13825-8-12" x="174.3279" y="110.01615" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Protegiendo</tspan><tspan id="tspan14463" x="174.3279" y="117.0717" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">a la Iglesia</tspan><tspan id="tspan13928-5" x="174.3279" y="124.12725" style="fill:#d5fff6;font-size:5.6px;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">1 Tim 4:6-10</tspan></text>
+  </g>
+  <!-- .element: class="fragment fade-up" data-fragment-index="15" -->
+  <g id="g16">
+   <rect id="rect13214-69-7" transform="translate(-.91)" x="151" y="138" width="49" height="44" style="fill:#000000;stroke-linejoin:round;stroke-miterlimit:.4;stroke-width:1.3;stroke:#ffffff"/>
+   <text id="text13823-4-02" x="174.3186" y="154.30005" style="fill:#d5fff6;font-family:sans-serif;font-size:5.6px;line-height:1.25;stroke-width:.26;text-align:center;text-anchor:middle" xml:space="preserve"><tspan id="tspan13825-8-28" x="174.3186" y="154.30005" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Protegiéndote</tspan><tspan id="tspan14467" x="174.3186" y="161.35561" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">a Ti Mismo</tspan><tspan id="tspan13928-42" x="174.3186" y="168.41115" style="fill:#d5fff6;font-size:5.6px;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">1 Tim 4:11-16</tspan></text>
+  </g>
+  <!-- .element: class="fragment fade-up" data-fragment-index="16" -->
+  <g id="g12">
+   <rect id="rect13214-69-79" transform="translate(-.91)" x="102" y="138" width="49" height="44" style="fill:#000000;stroke-linejoin:round;stroke-miterlimit:.4;stroke-width:1.3;stroke:#ffffff"/>
+   <text id="text13823-4-42" x="125.06712" y="154.24113" style="fill:#d5fff6;font-family:sans-serif;font-size:5.6px;line-height:1.25;stroke-width:.26;text-align:center;text-anchor:middle" xml:space="preserve"><tspan id="tspan13825-8-70" x="125.06712" y="154.24113" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">La Casa</tspan><tspan id="tspan14443" x="125.06712" y="161.29669" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">de Dios</tspan><tspan id="tspan13928-03" x="125.06712" y="168.35223" style="fill:#d5fff6;font-size:5.6px;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">1 Tim 3:14-16</tspan></text>
+  </g>
+  <!-- .element: class="fragment fade-up" data-fragment-index="12" -->
+  <g id="g8">
+   <rect id="rect13214-69-71" transform="translate(-.91)" x="52" y="138" width="49" height="44" style="fill:#000000;stroke-linejoin:round;stroke-miterlimit:.4;stroke-width:1.3;stroke:#ffffff"/>
+   <text id="text13823-4-47" x="76.953575" y="154.30006" style="fill:#d5fff6;font-family:sans-serif;font-size:5.6px;line-height:1.25;stroke-width:.26;text-align:center;text-anchor:middle" xml:space="preserve"><tspan id="tspan13825-8-8" x="76.953575" y="154.30006" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Mujeres en </tspan><tspan id="tspan14431" x="76.953575" y="161.35562" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">el Culto</tspan><tspan id="tspan13928-73" x="76.953575" y="168.41116" style="fill:#d5fff6;font-size:5.6px;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">1 Tim 2:9-15</tspan></text>
+  </g>
+  <!-- .element: class="fragment fade-up" data-fragment-index="8" -->
+  <g id="g4">
+   <rect id="rect13214-69-3" transform="translate(-.91)" x="3.3" y="138" width="49" height="44" style="fill:#000000;stroke-linejoin:round;stroke-miterlimit:.4;stroke-width:1.3;stroke:#ffffff"/>
+   <text id="text13823-4-01" x="26.847895" y="154.30006" style="fill:#d5fff6;font-family:sans-serif;font-size:5.6px;line-height:1.25;stroke-width:.26;text-align:center;text-anchor:middle" xml:space="preserve"><tspan id="tspan13825-8-40" x="26.847895" y="154.30006" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Disciplinando</tspan><tspan id="tspan14417" x="26.847895" y="161.35562" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">los Errores</tspan><tspan id="tspan13928-1" x="26.847895" y="168.41116" style="fill:#d5fff6;font-size:5.6px;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">1 Tim 1:19-20</tspan></text>
+  </g>
+  <!-- .element: class="fragment fade-up" data-fragment-index="4" -->
+  <g id="g9">
+   <rect id="rect13214-65-8" transform="translate(-.91)" x="102" y="23" width="49" height="26" style="fill:#a710ff;stroke-linejoin:round;stroke-miterlimit:.4;stroke-width:.97;stroke:#ffffff"/>
+   <text id="text13823-4-9-1" x="125.433" y="34.373463" style="fill:#d5fff6;font-family:sans-serif;font-size:6.4px;line-height:1.25;stroke-width:.26;text-align:center;text-anchor:middle" xml:space="preserve"><tspan id="tspan13825-8-6-4" x="125.433" y="34.373463" style="fill:#d5fff6;font-size:6.4px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Manejo</tspan><tspan id="tspan14516" x="125.433" y="42.310963" style="fill:#d5fff6;font-size:6.4px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">de la Casa</tspan></text>
+  </g>
+  <!-- .element: class="fragment fade-up" data-fragment-index="9" -->
+  <g id="g13">
+   <rect id="rect13214-65-19" transform="translate(-.91)" x="151" y="23" width="49" height="26" style="fill:#a710ff;stroke-linejoin:round;stroke-miterlimit:.4;stroke-width:.97;stroke:#ffffff"/>
+   <text id="text13823-4-9-3" x="174.43797" y="34.367283" style="fill:#d5fff6;font-family:sans-serif;font-size:6.4px;line-height:1.25;stroke-width:.26;text-align:center;text-anchor:middle" xml:space="preserve"><tspan id="tspan13825-8-6-7" x="174.43797" y="34.367283" style="fill:#d5fff6;font-size:6.4px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Seguridad</tspan><tspan id="tspan14512" x="174.43797" y="42.304783" style="fill:#d5fff6;font-size:6.4px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Doméstica</tspan></text>
+  </g>
+  <!-- .element: class="fragment fade-up" data-fragment-index="13" -->
+    <g id="g18">
+   <rect id="rect13214-65-7" transform="translate(-.91)" x="200" y="23" width="49" height="26" style="fill:#a710ff;stroke-linejoin:round;stroke-miterlimit:.4;stroke-width:.97;stroke:#ffffff"/>
+   <text id="text13823-4-9-7" x="223.59798" y="34.367283" style="fill:#d5fff6;font-family:sans-serif;font-size:6.4px;line-height:1.25;stroke-width:.26;text-align:center;text-anchor:middle" xml:space="preserve"><tspan id="tspan13825-8-6-0" x="223.59798" y="34.367283" style="fill:#d5fff6;font-size:6.4px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Atención</tspan><tspan id="tspan14508" x="223.59798" y="42.304783" style="fill:#d5fff6;font-size:6.4px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Doméstica</tspan></text>
+  </g>
+  <!-- .element: class="fragment fade-up" data-fragment-index="18" -->
+  <g id="g14698">
+   <rect id="rect13152-1-4" transform="translate(-.91)" x="3.3" y="182" width="295" height="24" style="fill:#00aad4;stroke-linejoin:round;stroke-miterlimit:.4;stroke-width:1.3;stroke:#ffffff" inkscape:transform-center-x="49.555314" inkscape:transform-center-y="-34.864316"/>
+   <text id="text14325" x="23.512632" y="196.00737" style="fill:#d5fff6;font-family:sans-serif;font-size:7.1px;line-height:1.25;stroke-width:.26" xml:space="preserve"><tspan id="tspan14323" x="23.512632" y="196.00737" style="fill:#d5fff6;font-size:7.1px;font-style:italic;stroke-width:.26" sodipodi:role="line">...para que sepas cómo conducirte en la casa de Dios...1 Timoteo 3:15</tspan></text>
+  </g>
+  <g id="g14705">
+   <rect id="rect13152" transform="translate(-.91)" x="3.3" y=".79" width="295" height="22" style="fill:#00aad4;stroke-linejoin:round;stroke-miterlimit:.4;stroke-width:1.2;stroke:#ffffff"/>
+   <text id="text13461" x="43.845448" y="16.519194" style="fill:#ffffff;font-family:sans-serif;font-size:13px;line-height:1.25;stroke-width:.26" xml:space="preserve"><tspan id="tspan13459" x="43.845448" y="16.519194" style="fill:#ffffff;font-size:13px;stroke-width:.26" sodipodi:role="line"><tspan id="tspan14351" style="font-size:13px;font-weight:bold">1 TIMOTEO</tspan> - en la casa de Dios</tspan></text>
+  </g>
+  <text id="text14455" style="fill:#000000;font-family:sans-serif;font-size:11px;line-height:1.25;shape-inside:url(#rect14457);white-space:pre" xml:space="preserve"/>
+ </g>
+</svg>
 
 ##    A.  1 Timoteo 5:1-2 -- Honraos los unos a los otros
 
@@ -2164,6 +2445,126 @@ ___
 
 ##    F.  1 Timoteo 6:1-2 -- Honra a los esclavos, honra a los amos
 
+<svg id="svg12583" width="1000" height="700" inkscape:version="1.0.2 (e86c8708, 2021-01-15)" sodipodi:docname="bosquejo-opt.svg" version="1.1" viewBox="0 0 296 207" xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd">
+ <sodipodi:namedview id="base" bordercolor="#666666" borderopacity="1.0" fit-margin-bottom="0" fit-margin-left="0" fit-margin-right="0" fit-margin-top="0" inkscape:bbox-paths="true" inkscape:current-layer="layer3" inkscape:cx="394.77242" inkscape:cy="339.58244" inkscape:document-rotation="0" inkscape:document-units="mm" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:snap-bbox="true" inkscape:window-height="935" inkscape:window-maximized="0" inkscape:window-width="1654" inkscape:window-x="24" inkscape:window-y="25" inkscape:zoom="0.74937383" pagecolor="#ffffff" showgrid="false"/>
+ <g id="layer3" transform="translate(-1.8 -.18)" inkscape:groupmode="layer" inkscape:label="letters">
+  <g id="g1">
+   <rect id="rect13214-65" transform="translate(-.91)" x="3.3" y="23" width="49" height="26" style="fill:#a710ff;stroke-linejoin:round;stroke-miterlimit:.4;stroke-width:.97;stroke:#ffffff"/>
+   <text id="text13817" x="27.705727" y="34.551746" style="fill:#d5fff6;font-family:sans-serif;font-size:4.9px;line-height:1.25;stroke-width:.26;text-align:center;text-anchor:middle" xml:space="preserve"><tspan id="tspan13815" x="27.705727" y="34.551746" style="fill:#d5fff6;font-size:4.9px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Mantenimiento </tspan><tspan id="tspan13819" x="27.705727" y="40.725357" style="fill:#d5fff6;font-size:4.9px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Residencial</tspan></text>
+  </g>
+<!-- .element: class="fragment fade-up" data-fragment-index="1" -->
+  <g id="g6">
+   <rect id="rect13214-33-9-1" transform="translate(-.91)" x="52" y="49" width="49" height="44" style="fill:#000000;stroke-linejoin:round;stroke-miterlimit:.4;stroke-width:1.3;stroke:#ffffff"/>
+   <text id="text13823-4" x="75.935036" y="65.780312" style="fill:#d5fff6;font-family:sans-serif;font-size:5.6px;line-height:1.25;stroke-width:.26;text-align:center;text-anchor:middle" xml:space="preserve"><tspan id="tspan13825-8" x="75.935036" y="65.780312" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Oración</tspan><tspan id="tspan14421" x="75.935036" y="72.835861" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Corporal</tspan><tspan id="tspan13928" x="75.935036" y="79.891411" style="fill:#d5fff6;font-size:5.6px;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">1 Tim 2:1-7</tspan></text>
+  </g>
+  <!-- .element: class="fragment fade-up" data-fragment-index="6" -->
+  <g id="g5">
+   <rect id="rect13214-65-1" transform="translate(-.91)" x="52" y="23" width="49" height="26" style="fill:#a710ff;stroke-linejoin:round;stroke-miterlimit:.4;stroke-width:.97;stroke:#ffffff"/>
+   <text id="text13823-4-9" x="76.953575" y="34.373463" style="fill:#d5fff6;font-family:sans-serif;font-size:6.4px;line-height:1.25;stroke-width:.26;text-align:center;text-anchor:middle" xml:space="preserve"><tspan id="tspan13821-9-1" x="76.953575" y="34.373463" style="fill:#d5fff6;font-size:6.4px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Deberes de </tspan><tspan id="tspan13825-8-6" x="76.953575" y="42.310963" style="fill:#d5fff6;font-size:6.4px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">la casa</tspan></text>
+  </g>
+  <!-- .element: class="fragment fade-up" data-fragment-index="5" -->
+  <g id="g10">
+   <rect id="rect13214-33-9-9" transform="translate(-.91)" x="102" y="49" width="49" height="44" style="fill:#000000;stroke-linejoin:round;stroke-miterlimit:.4;stroke-width:1.3;stroke:#ffffff"/>
+   <text id="text13823-4-6" x="125.53687" y="65.732254" style="fill:#d5fff6;font-family:sans-serif;font-size:5.6px;line-height:1.25;stroke-width:.26;text-align:center;text-anchor:middle" xml:space="preserve"><tspan id="tspan13825-8-0" x="125.53687" y="65.732254" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Ancianos en</tspan><tspan id="tspan14435" x="125.53687" y="72.787804" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">la Iglesia</tspan><tspan id="tspan13928-4" x="125.53687" y="79.843353" style="fill:#d5fff6;font-size:5.6px;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">1 Tim 3:1-7</tspan></text>
+  </g>
+  <!-- .element: class="fragment fade-up" data-fragment-index="10" -->
+  <g id="g14">
+   <rect id="rect13214-33-9" transform="translate(-.91)" x="151" y="49" width="49" height="44" style="fill:#000000;stroke-linejoin:round;stroke-miterlimit:.4;stroke-width:1.3;stroke:#ffffff"/>
+   <text id="text13823-4-5" x="174.27985" y="65.732269" style="fill:#d5fff6;font-family:sans-serif;font-size:5.6px;line-height:1.25;stroke-width:.26;text-align:center;text-anchor:middle" xml:space="preserve"><tspan id="tspan14447" x="174.27985" y="65.732269" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Herejes</tspan><tspan id="tspan14471" x="174.27985" y="72.787819" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Venideros</tspan><tspan id="tspan13928-6" x="174.27985" y="79.843369" style="fill:#d5fff6;font-size:5.6px;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">1 Tim 4:1-5</tspan></text>
+  </g>
+  <!-- .element: class="fragment fade-up" data-fragment-index="14" -->
+  <g id="g19">
+   <rect id="rect13214-33" transform="translate(-.91)" x="200" y="49" width="49" height="44" style="fill:#000000;stroke-linejoin:round;stroke-miterlimit:.4;stroke-width:1.3;stroke:#ffffff"/>
+   <text id="text13823-4-0" x="223.38713" y="65.732277" style="fill:#d5fff6;font-family:sans-serif;font-size:5.6px;line-height:1.25;stroke-width:.26;text-align:center;text-anchor:middle" xml:space="preserve"><tspan id="tspan13825-8-1" x="223.38713" y="65.732277" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Honrando</tspan><tspan id="tspan14475" x="223.38713" y="72.787827" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">las Viudas</tspan><tspan id="tspan13928-2" x="223.38713" y="79.843376" style="fill:#d5fff6;font-size:5.6px;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">1 Tim 5:1-16</tspan></text>
+  </g>
+  <!-- .element: class="fragment fade-up" data-fragment-index="19" -->
+  <g id="g2">
+   <rect id="rect13214-33-9-8" transform="translate(-.91)" x="3.3" y="49" width="49" height="44" style="fill:#000000;stroke-linejoin:round;stroke-miterlimit:.4;stroke-width:1.3;stroke:#ffffff"/>
+   <text id="text13823-4-04" x="27.703661" y="65.676445" style="fill:#d5fff6;font-family:sans-serif;font-size:5.6px;line-height:1.25;stroke-width:.26;text-align:center;text-anchor:middle" xml:space="preserve"><tspan id="tspan13821-9-4" x="27.703661" y="65.676445" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Razón por </tspan><tspan id="tspan13825-8-18" x="27.703661" y="72.731995" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">la Escritura  </tspan><tspan id="tspan13928-9" x="27.703661" y="79.787544" style="fill:#d5fff6;font-size:5.6px;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">1 Tim 1:1-11</tspan></text>
+  </g>
+  <!-- .element: class="fragment fade-up" data-fragment-index="2" -->
+  <g id="g3">
+   <rect id="rect13214-2-5" transform="translate(-.91)" x="3.3" y="93" width="49" height="44" style="fill:#000000;stroke-linejoin:round;stroke-miterlimit:.4;stroke-width:1.3;stroke:#ffffff"/>
+   <text id="text13823-4-2" x="26.764179" y="110.01151" style="fill:#d5fff6;font-family:sans-serif;font-size:5.6px;line-height:1.25;stroke-width:.26;text-align:center;text-anchor:middle" xml:space="preserve"><tspan id="tspan13825-8-5" x="26.764179" y="110.01151" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Gracia para </tspan><tspan id="tspan14395" x="26.764179" y="117.06706" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">la Batalla</tspan><tspan id="tspan13928-46" x="26.764179" y="124.12261" style="fill:#d5fff6;font-size:5.6px;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">1 Tim 1:12-18</tspan></text>
+  </g>
+  <!-- .element: class="fragment fade-up" data-fragment-index="3" -->
+  <g id="g7">
+   <rect id="rect13214-2-0" transform="translate(-.91)" x="52" y="93" width="49" height="44" style="fill:#000000;stroke-linejoin:round;stroke-miterlimit:.4;stroke-width:1.3;stroke:#ffffff"/>
+   <text id="text13823-4-90" x="76.953575" y="106.0474" style="fill:#d5fff6;font-family:sans-serif;font-size:5.6px;line-height:1.25;stroke-width:.26;text-align:center;text-anchor:middle" xml:space="preserve"><tspan id="tspan13825-8-7" x="76.953575" y="106.0474" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Hombres y </tspan><tspan id="tspan14425" x="76.953575" y="113.10295" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">la Oración</tspan><tspan id="tspan14427" x="76.953575" y="120.1585" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Pública</tspan><tspan id="tspan13928-7" x="76.953575" y="127.21405" style="fill:#d5fff6;font-size:5.6px;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">1 Tim 2:8</tspan></text>
+  </g>
+  <!-- .element: class="fragment fade-up" data-fragment-index="7" -->
+  <g id="g11">
+   <rect id="rect13214-2-9" transform="translate(-.91)" x="102" y="93" width="49" height="44" style="fill:#000000;stroke-linejoin:round;stroke-miterlimit:.4;stroke-width:1.3;stroke:#ffffff"/>
+   <text id="text13823-4-4" x="126.07636" y="110.01151" style="fill:#d5fff6;font-family:sans-serif;font-size:5.6px;line-height:1.25;stroke-width:.26;text-align:center;text-anchor:middle" xml:space="preserve"><tspan id="tspan13825-8-4" x="126.07636" y="110.01151" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Diaconos en </tspan><tspan id="tspan14439" x="126.07636" y="117.06706" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">la Iglesia</tspan><tspan id="tspan13928-92" x="126.07636" y="124.12261" style="fill:#d5fff6;font-size:5.6px;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">1 Tim 3:8-13</tspan></text>
+  </g>
+  <!-- .element: class="fragment fade-up" data-fragment-index="11" -->
+  <g id="g20">
+   <rect id="rect13214-2-7" transform="translate(-.91)" x="200" y="93" width="49" height="44" style="fill:#000000;stroke-linejoin:round;stroke-miterlimit:.4;stroke-width:1.3;stroke:#ffffff"/>
+   <text id="text13823-4-57" x="223.55301" y="106.04741" style="fill:#d5fff6;font-family:sans-serif;font-size:5.6px;line-height:1.25;stroke-width:.26;text-align:center;text-anchor:middle" xml:space="preserve"><tspan id="tspan14453" x="223.55301" y="106.04741" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Honrando</tspan><tspan id="tspan14482" x="223.55301" y="113.10296" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Algunos</tspan><tspan id="tspan14484" x="223.55301" y="120.15851" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Ancianos</tspan><tspan id="tspan13928-0" x="223.55301" y="127.21406" style="fill:#d5fff6;font-size:5.6px;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">1 Tim 5:17-21</tspan></text>
+  </g>
+  <!-- .element: class="fragment fade-up" data-fragment-index="20" -->
+  <g id="g15">
+   <rect id="rect13214-2-71" transform="translate(-.91)" x="151" y="93" width="49" height="44" style="fill:#000000;stroke-linejoin:round;stroke-miterlimit:.4;stroke-width:1.3;stroke:#ffffff"/>
+   <text id="text13823-4-40" x="174.3279" y="110.01615" style="fill:#d5fff6;font-family:sans-serif;font-size:5.6px;line-height:1.25;stroke-width:.26;text-align:center;text-anchor:middle" xml:space="preserve"><tspan id="tspan13825-8-12" x="174.3279" y="110.01615" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Protegiendo</tspan><tspan id="tspan14463" x="174.3279" y="117.0717" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">a la Iglesia</tspan><tspan id="tspan13928-5" x="174.3279" y="124.12725" style="fill:#d5fff6;font-size:5.6px;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">1 Tim 4:6-10</tspan></text>
+  </g>
+  <!-- .element: class="fragment fade-up" data-fragment-index="15" -->
+  <g id="g21">
+   <rect id="rect13214-69-0" transform="translate(-.91)" x="200" y="138" width="49" height="44" style="fill:#000000;stroke-linejoin:round;stroke-miterlimit:.4;stroke-width:1.3;stroke:#ffffff"/>
+   <text id="text13823-4-8" x="223.42123" y="154.30006" style="fill:#d5fff6;font-family:sans-serif;font-size:5.6px;line-height:1.25;stroke-width:.26;text-align:center;text-anchor:middle" xml:space="preserve"><tspan id="tspan13825-8-44" x="223.42123" y="154.30006" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Andando con</tspan><tspan id="tspan14488" x="223.42123" y="161.35562" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Honradez</tspan><tspan id="tspan13928-58" x="223.42123" y="168.41116" style="fill:#d5fff6;font-size:5.6px;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">1 Tim 5:22-6:2</tspan></text>
+  </g>
+  <!-- .element: class="fragment fade-up" data-fragment-index="21" -->
+  <g id="g16">
+   <rect id="rect13214-69-7" transform="translate(-.91)" x="151" y="138" width="49" height="44" style="fill:#000000;stroke-linejoin:round;stroke-miterlimit:.4;stroke-width:1.3;stroke:#ffffff"/>
+   <text id="text13823-4-02" x="174.3186" y="154.30005" style="fill:#d5fff6;font-family:sans-serif;font-size:5.6px;line-height:1.25;stroke-width:.26;text-align:center;text-anchor:middle" xml:space="preserve"><tspan id="tspan13825-8-28" x="174.3186" y="154.30005" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Protegiéndote</tspan><tspan id="tspan14467" x="174.3186" y="161.35561" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">a Ti Mismo</tspan><tspan id="tspan13928-42" x="174.3186" y="168.41115" style="fill:#d5fff6;font-size:5.6px;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">1 Tim 4:11-16</tspan></text>
+  </g>
+  <!-- .element: class="fragment fade-up" data-fragment-index="16" -->
+  <g id="g12">
+   <rect id="rect13214-69-79" transform="translate(-.91)" x="102" y="138" width="49" height="44" style="fill:#000000;stroke-linejoin:round;stroke-miterlimit:.4;stroke-width:1.3;stroke:#ffffff"/>
+   <text id="text13823-4-42" x="125.06712" y="154.24113" style="fill:#d5fff6;font-family:sans-serif;font-size:5.6px;line-height:1.25;stroke-width:.26;text-align:center;text-anchor:middle" xml:space="preserve"><tspan id="tspan13825-8-70" x="125.06712" y="154.24113" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">La Casa</tspan><tspan id="tspan14443" x="125.06712" y="161.29669" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">de Dios</tspan><tspan id="tspan13928-03" x="125.06712" y="168.35223" style="fill:#d5fff6;font-size:5.6px;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">1 Tim 3:14-16</tspan></text>
+  </g>
+  <!-- .element: class="fragment fade-up" data-fragment-index="12" -->
+  <g id="g8">
+   <rect id="rect13214-69-71" transform="translate(-.91)" x="52" y="138" width="49" height="44" style="fill:#000000;stroke-linejoin:round;stroke-miterlimit:.4;stroke-width:1.3;stroke:#ffffff"/>
+   <text id="text13823-4-47" x="76.953575" y="154.30006" style="fill:#d5fff6;font-family:sans-serif;font-size:5.6px;line-height:1.25;stroke-width:.26;text-align:center;text-anchor:middle" xml:space="preserve"><tspan id="tspan13825-8-8" x="76.953575" y="154.30006" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Mujeres en </tspan><tspan id="tspan14431" x="76.953575" y="161.35562" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">el Culto</tspan><tspan id="tspan13928-73" x="76.953575" y="168.41116" style="fill:#d5fff6;font-size:5.6px;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">1 Tim 2:9-15</tspan></text>
+  </g>
+  <!-- .element: class="fragment fade-up" data-fragment-index="8" -->
+  <g id="g4">
+   <rect id="rect13214-69-3" transform="translate(-.91)" x="3.3" y="138" width="49" height="44" style="fill:#000000;stroke-linejoin:round;stroke-miterlimit:.4;stroke-width:1.3;stroke:#ffffff"/>
+   <text id="text13823-4-01" x="26.847895" y="154.30006" style="fill:#d5fff6;font-family:sans-serif;font-size:5.6px;line-height:1.25;stroke-width:.26;text-align:center;text-anchor:middle" xml:space="preserve"><tspan id="tspan13825-8-40" x="26.847895" y="154.30006" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Disciplinando</tspan><tspan id="tspan14417" x="26.847895" y="161.35562" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">los Errores</tspan><tspan id="tspan13928-1" x="26.847895" y="168.41116" style="fill:#d5fff6;font-size:5.6px;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">1 Tim 1:19-20</tspan></text>
+  </g>
+  <!-- .element: class="fragment fade-up" data-fragment-index="4" -->
+  <g id="g9">
+   <rect id="rect13214-65-8" transform="translate(-.91)" x="102" y="23" width="49" height="26" style="fill:#a710ff;stroke-linejoin:round;stroke-miterlimit:.4;stroke-width:.97;stroke:#ffffff"/>
+   <text id="text13823-4-9-1" x="125.433" y="34.373463" style="fill:#d5fff6;font-family:sans-serif;font-size:6.4px;line-height:1.25;stroke-width:.26;text-align:center;text-anchor:middle" xml:space="preserve"><tspan id="tspan13825-8-6-4" x="125.433" y="34.373463" style="fill:#d5fff6;font-size:6.4px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Manejo</tspan><tspan id="tspan14516" x="125.433" y="42.310963" style="fill:#d5fff6;font-size:6.4px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">de la Casa</tspan></text>
+  </g>
+  <!-- .element: class="fragment fade-up" data-fragment-index="9" -->
+  <g id="g13">
+   <rect id="rect13214-65-19" transform="translate(-.91)" x="151" y="23" width="49" height="26" style="fill:#a710ff;stroke-linejoin:round;stroke-miterlimit:.4;stroke-width:.97;stroke:#ffffff"/>
+   <text id="text13823-4-9-3" x="174.43797" y="34.367283" style="fill:#d5fff6;font-family:sans-serif;font-size:6.4px;line-height:1.25;stroke-width:.26;text-align:center;text-anchor:middle" xml:space="preserve"><tspan id="tspan13825-8-6-7" x="174.43797" y="34.367283" style="fill:#d5fff6;font-size:6.4px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Seguridad</tspan><tspan id="tspan14512" x="174.43797" y="42.304783" style="fill:#d5fff6;font-size:6.4px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Doméstica</tspan></text>
+  </g>
+  <!-- .element: class="fragment fade-up" data-fragment-index="13" -->
+  <g id="g22">
+   <rect id="rect13214-65-3" transform="translate(-.91)" x="249" y="23" width="49" height="26" style="fill:#a710ff;stroke-linejoin:round;stroke-miterlimit:.4;stroke-width:.97;stroke:#ffffff"/>
+   <text id="text13823-4-9-4" x="272.84906" y="34.369434" style="fill:#d5fff6;font-family:sans-serif;font-size:6.4px;line-height:1.25;stroke-width:.26;text-align:center;text-anchor:middle" xml:space="preserve"><tspan id="tspan13825-8-6-6" x="272.84906" y="34.369434" style="fill:#d5fff6;font-size:6.4px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Limpieza</tspan><tspan id="tspan14504" x="272.84906" y="42.306934" style="fill:#d5fff6;font-size:6.4px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">de la Casa</tspan></text>
+  </g>
+  <!-- .element: class="fragment fade-up" data-fragment-index="22" -->
+  <g id="g18">
+   <rect id="rect13214-65-7" transform="translate(-.91)" x="200" y="23" width="49" height="26" style="fill:#a710ff;stroke-linejoin:round;stroke-miterlimit:.4;stroke-width:.97;stroke:#ffffff"/>
+   <text id="text13823-4-9-7" x="223.59798" y="34.367283" style="fill:#d5fff6;font-family:sans-serif;font-size:6.4px;line-height:1.25;stroke-width:.26;text-align:center;text-anchor:middle" xml:space="preserve"><tspan id="tspan13825-8-6-0" x="223.59798" y="34.367283" style="fill:#d5fff6;font-size:6.4px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Atención</tspan><tspan id="tspan14508" x="223.59798" y="42.304783" style="fill:#d5fff6;font-size:6.4px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Doméstica</tspan></text>
+  </g>
+  <!-- .element: class="fragment fade-up" data-fragment-index="18" -->
+  <g id="g14698">
+   <rect id="rect13152-1-4" transform="translate(-.91)" x="3.3" y="182" width="295" height="24" style="fill:#00aad4;stroke-linejoin:round;stroke-miterlimit:.4;stroke-width:1.3;stroke:#ffffff" inkscape:transform-center-x="49.555314" inkscape:transform-center-y="-34.864316"/>
+   <text id="text14325" x="23.512632" y="196.00737" style="fill:#d5fff6;font-family:sans-serif;font-size:7.1px;line-height:1.25;stroke-width:.26" xml:space="preserve"><tspan id="tspan14323" x="23.512632" y="196.00737" style="fill:#d5fff6;font-size:7.1px;font-style:italic;stroke-width:.26" sodipodi:role="line">...para que sepas cómo conducirte en la casa de Dios...1 Timoteo 3:15</tspan></text>
+  </g>
+  <g id="g14705">
+   <rect id="rect13152" transform="translate(-.91)" x="3.3" y=".79" width="295" height="22" style="fill:#00aad4;stroke-linejoin:round;stroke-miterlimit:.4;stroke-width:1.2;stroke:#ffffff"/>
+   <text id="text13461" x="43.845448" y="16.519194" style="fill:#ffffff;font-family:sans-serif;font-size:13px;line-height:1.25;stroke-width:.26" xml:space="preserve"><tspan id="tspan13459" x="43.845448" y="16.519194" style="fill:#ffffff;font-size:13px;stroke-width:.26" sodipodi:role="line"><tspan id="tspan14351" style="font-size:13px;font-weight:bold">1 TIMOTEO</tspan> - en la casa de Dios</tspan></text>
+  </g>
+  <text id="text14455" style="fill:#000000;font-family:sans-serif;font-size:11px;line-height:1.25;shape-inside:url(#rect14457);white-space:pre" xml:space="preserve"/>
+ </g>
+</svg>
+
 ###        1.  1 Timoteo 6:1a -- *Todos los que están bajo el yugo de esclavitud*\... Al momento de la escritura del Nuevo Testamento, un gran porcentaje de la población del Imperio Romano estaba en la esclavitud. Muchos esclavos se hicieron creyentes. Este gran cuerpo de esclavos creyentes necesitaba entender la perspectiva de Dios sobre su situación y sus obligaciones para con sus **<u>amos</u>** terrenales.
 
 ###        2.  1 Timoteo 6:1b -- \...*tengan a sus amos por dignos de todo honor*\... Pablo instruyó a los creyentes que se encontraban presos de la esclavitud a tener una actitud extraordinariamente **<u>positiva</u>** hacia sus amos.
@@ -2193,6 +2594,141 @@ ___
 #####                2.  Sobre la esclavitud: Pablo no motivó la rebelión contra la sociedad o el gobierno, como a menudo se promueve en las iglesias hoy bajo el título de justicia social. Sin embargo, Pablo sí motivó a los esclavos a no dejar pasar la posibilidad de la **<u>libertad</u>** si se les ofreciera. 1 Corintios 7:21
 
 # X.  1 Timoteo 6:3-21 -- Asuntos Relacionados con la Iglesia
+
+<svg id="svg12583" width="1000" height="700" inkscape:version="1.0.2 (e86c8708, 2021-01-15)" sodipodi:docname="bosquejo-opt.svg" version="1.1" viewBox="0 0 296 207" xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd">
+ <sodipodi:namedview id="base" bordercolor="#666666" borderopacity="1.0" fit-margin-bottom="0" fit-margin-left="0" fit-margin-right="0" fit-margin-top="0" inkscape:bbox-paths="true" inkscape:current-layer="layer3" inkscape:cx="394.77242" inkscape:cy="339.58244" inkscape:document-rotation="0" inkscape:document-units="mm" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:snap-bbox="true" inkscape:window-height="935" inkscape:window-maximized="0" inkscape:window-width="1654" inkscape:window-x="24" inkscape:window-y="25" inkscape:zoom="0.74937383" pagecolor="#ffffff" showgrid="false"/>
+ <g id="layer3" transform="translate(-1.8 -.18)" inkscape:groupmode="layer" inkscape:label="letters">
+  <g id="g1">
+   <rect id="rect13214-65" transform="translate(-.91)" x="3.3" y="23" width="49" height="26" style="fill:#a710ff;stroke-linejoin:round;stroke-miterlimit:.4;stroke-width:.97;stroke:#ffffff"/>
+   <text id="text13817" x="27.705727" y="34.551746" style="fill:#d5fff6;font-family:sans-serif;font-size:4.9px;line-height:1.25;stroke-width:.26;text-align:center;text-anchor:middle" xml:space="preserve"><tspan id="tspan13815" x="27.705727" y="34.551746" style="fill:#d5fff6;font-size:4.9px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Mantenimiento </tspan><tspan id="tspan13819" x="27.705727" y="40.725357" style="fill:#d5fff6;font-size:4.9px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Residencial</tspan></text>
+  </g>
+<!-- .element: class="fragment fade-up" data-fragment-index="1" -->
+  <g id="g6">
+   <rect id="rect13214-33-9-1" transform="translate(-.91)" x="52" y="49" width="49" height="44" style="fill:#000000;stroke-linejoin:round;stroke-miterlimit:.4;stroke-width:1.3;stroke:#ffffff"/>
+   <text id="text13823-4" x="75.935036" y="65.780312" style="fill:#d5fff6;font-family:sans-serif;font-size:5.6px;line-height:1.25;stroke-width:.26;text-align:center;text-anchor:middle" xml:space="preserve"><tspan id="tspan13825-8" x="75.935036" y="65.780312" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Oración</tspan><tspan id="tspan14421" x="75.935036" y="72.835861" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Corporal</tspan><tspan id="tspan13928" x="75.935036" y="79.891411" style="fill:#d5fff6;font-size:5.6px;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">1 Tim 2:1-7</tspan></text>
+  </g>
+  <!-- .element: class="fragment fade-up" data-fragment-index="6" -->
+  <g id="g5">
+   <rect id="rect13214-65-1" transform="translate(-.91)" x="52" y="23" width="49" height="26" style="fill:#a710ff;stroke-linejoin:round;stroke-miterlimit:.4;stroke-width:.97;stroke:#ffffff"/>
+   <text id="text13823-4-9" x="76.953575" y="34.373463" style="fill:#d5fff6;font-family:sans-serif;font-size:6.4px;line-height:1.25;stroke-width:.26;text-align:center;text-anchor:middle" xml:space="preserve"><tspan id="tspan13821-9-1" x="76.953575" y="34.373463" style="fill:#d5fff6;font-size:6.4px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Deberes de </tspan><tspan id="tspan13825-8-6" x="76.953575" y="42.310963" style="fill:#d5fff6;font-size:6.4px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">la casa</tspan></text>
+  </g>
+  <!-- .element: class="fragment fade-up" data-fragment-index="5" -->
+  <g id="g10">
+   <rect id="rect13214-33-9-9" transform="translate(-.91)" x="102" y="49" width="49" height="44" style="fill:#000000;stroke-linejoin:round;stroke-miterlimit:.4;stroke-width:1.3;stroke:#ffffff"/>
+   <text id="text13823-4-6" x="125.53687" y="65.732254" style="fill:#d5fff6;font-family:sans-serif;font-size:5.6px;line-height:1.25;stroke-width:.26;text-align:center;text-anchor:middle" xml:space="preserve"><tspan id="tspan13825-8-0" x="125.53687" y="65.732254" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Ancianos en</tspan><tspan id="tspan14435" x="125.53687" y="72.787804" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">la Iglesia</tspan><tspan id="tspan13928-4" x="125.53687" y="79.843353" style="fill:#d5fff6;font-size:5.6px;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">1 Tim 3:1-7</tspan></text>
+  </g>
+  <!-- .element: class="fragment fade-up" data-fragment-index="10" -->
+  <g id="g14">
+   <rect id="rect13214-33-9" transform="translate(-.91)" x="151" y="49" width="49" height="44" style="fill:#000000;stroke-linejoin:round;stroke-miterlimit:.4;stroke-width:1.3;stroke:#ffffff"/>
+   <text id="text13823-4-5" x="174.27985" y="65.732269" style="fill:#d5fff6;font-family:sans-serif;font-size:5.6px;line-height:1.25;stroke-width:.26;text-align:center;text-anchor:middle" xml:space="preserve"><tspan id="tspan14447" x="174.27985" y="65.732269" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Herejes</tspan><tspan id="tspan14471" x="174.27985" y="72.787819" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Venideros</tspan><tspan id="tspan13928-6" x="174.27985" y="79.843369" style="fill:#d5fff6;font-size:5.6px;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">1 Tim 4:1-5</tspan></text>
+  </g>
+  <!-- .element: class="fragment fade-up" data-fragment-index="14" -->
+  <g id="g19">
+   <rect id="rect13214-33" transform="translate(-.91)" x="200" y="49" width="49" height="44" style="fill:#000000;stroke-linejoin:round;stroke-miterlimit:.4;stroke-width:1.3;stroke:#ffffff"/>
+   <text id="text13823-4-0" x="223.38713" y="65.732277" style="fill:#d5fff6;font-family:sans-serif;font-size:5.6px;line-height:1.25;stroke-width:.26;text-align:center;text-anchor:middle" xml:space="preserve"><tspan id="tspan13825-8-1" x="223.38713" y="65.732277" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Honrando</tspan><tspan id="tspan14475" x="223.38713" y="72.787827" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">las Viudas</tspan><tspan id="tspan13928-2" x="223.38713" y="79.843376" style="fill:#d5fff6;font-size:5.6px;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">1 Tim 5:1-16</tspan></text>
+  </g>
+  <!-- .element: class="fragment fade-up" data-fragment-index="19" -->
+  <g id="g23">
+   <rect id="rect13214-7" transform="translate(-.91)" x="249" y="49" width="49" height="44" style="fill:#000000;stroke-linejoin:round;stroke-miterlimit:.4;stroke-width:1.3;stroke:#ffffff" inkscape:transform-center-x="52.110736" inkscape:transform-center-y="-2.5962789"/>
+   <text id="text13823-4-1" x="272.78278" y="65.743118" style="fill:#d5fff6;font-family:sans-serif;font-size:5.6px;line-height:1.25;stroke-width:.26;text-align:center;text-anchor:middle" xml:space="preserve"><tspan id="tspan13825-8-9" x="272.78278" y="65.743118" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Confrontando</tspan><tspan id="tspan14492" x="272.78278" y="72.798668" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">la Oposición</tspan><tspan id="tspan13928-8" x="272.78278" y="79.854218" style="fill:#d5fff6;font-size:5.6px;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">1 Tim 6:3-8</tspan></text>
+  </g>
+  <!-- .element: class="fragment fade-up" data-fragment-index="23" -->
+  <g id="g2">
+   <rect id="rect13214-33-9-8" transform="translate(-.91)" x="3.3" y="49" width="49" height="44" style="fill:#000000;stroke-linejoin:round;stroke-miterlimit:.4;stroke-width:1.3;stroke:#ffffff"/>
+   <text id="text13823-4-04" x="27.703661" y="65.676445" style="fill:#d5fff6;font-family:sans-serif;font-size:5.6px;line-height:1.25;stroke-width:.26;text-align:center;text-anchor:middle" xml:space="preserve"><tspan id="tspan13821-9-4" x="27.703661" y="65.676445" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Razón por </tspan><tspan id="tspan13825-8-18" x="27.703661" y="72.731995" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">la Escritura  </tspan><tspan id="tspan13928-9" x="27.703661" y="79.787544" style="fill:#d5fff6;font-size:5.6px;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">1 Tim 1:1-11</tspan></text>
+  </g>
+  <!-- .element: class="fragment fade-up" data-fragment-index="2" -->
+  <g id="g3">
+   <rect id="rect13214-2-5" transform="translate(-.91)" x="3.3" y="93" width="49" height="44" style="fill:#000000;stroke-linejoin:round;stroke-miterlimit:.4;stroke-width:1.3;stroke:#ffffff"/>
+   <text id="text13823-4-2" x="26.764179" y="110.01151" style="fill:#d5fff6;font-family:sans-serif;font-size:5.6px;line-height:1.25;stroke-width:.26;text-align:center;text-anchor:middle" xml:space="preserve"><tspan id="tspan13825-8-5" x="26.764179" y="110.01151" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Gracia para </tspan><tspan id="tspan14395" x="26.764179" y="117.06706" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">la Batalla</tspan><tspan id="tspan13928-46" x="26.764179" y="124.12261" style="fill:#d5fff6;font-size:5.6px;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">1 Tim 1:12-18</tspan></text>
+  </g>
+  <!-- .element: class="fragment fade-up" data-fragment-index="3" -->
+  <g id="g7">
+   <rect id="rect13214-2-0" transform="translate(-.91)" x="52" y="93" width="49" height="44" style="fill:#000000;stroke-linejoin:round;stroke-miterlimit:.4;stroke-width:1.3;stroke:#ffffff"/>
+   <text id="text13823-4-90" x="76.953575" y="106.0474" style="fill:#d5fff6;font-family:sans-serif;font-size:5.6px;line-height:1.25;stroke-width:.26;text-align:center;text-anchor:middle" xml:space="preserve"><tspan id="tspan13825-8-7" x="76.953575" y="106.0474" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Hombres y </tspan><tspan id="tspan14425" x="76.953575" y="113.10295" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">la Oración</tspan><tspan id="tspan14427" x="76.953575" y="120.1585" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Pública</tspan><tspan id="tspan13928-7" x="76.953575" y="127.21405" style="fill:#d5fff6;font-size:5.6px;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">1 Tim 2:8</tspan></text>
+  </g>
+  <!-- .element: class="fragment fade-up" data-fragment-index="7" -->
+  <g id="g11">
+   <rect id="rect13214-2-9" transform="translate(-.91)" x="102" y="93" width="49" height="44" style="fill:#000000;stroke-linejoin:round;stroke-miterlimit:.4;stroke-width:1.3;stroke:#ffffff"/>
+   <text id="text13823-4-4" x="126.07636" y="110.01151" style="fill:#d5fff6;font-family:sans-serif;font-size:5.6px;line-height:1.25;stroke-width:.26;text-align:center;text-anchor:middle" xml:space="preserve"><tspan id="tspan13825-8-4" x="126.07636" y="110.01151" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Diaconos en </tspan><tspan id="tspan14439" x="126.07636" y="117.06706" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">la Iglesia</tspan><tspan id="tspan13928-92" x="126.07636" y="124.12261" style="fill:#d5fff6;font-size:5.6px;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">1 Tim 3:8-13</tspan></text>
+  </g>
+  <!-- .element: class="fragment fade-up" data-fragment-index="11" -->
+  <g id="g20">
+   <rect id="rect13214-2-7" transform="translate(-.91)" x="200" y="93" width="49" height="44" style="fill:#000000;stroke-linejoin:round;stroke-miterlimit:.4;stroke-width:1.3;stroke:#ffffff"/>
+   <text id="text13823-4-57" x="223.55301" y="106.04741" style="fill:#d5fff6;font-family:sans-serif;font-size:5.6px;line-height:1.25;stroke-width:.26;text-align:center;text-anchor:middle" xml:space="preserve"><tspan id="tspan14453" x="223.55301" y="106.04741" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Honrando</tspan><tspan id="tspan14482" x="223.55301" y="113.10296" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Algunos</tspan><tspan id="tspan14484" x="223.55301" y="120.15851" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Ancianos</tspan><tspan id="tspan13928-0" x="223.55301" y="127.21406" style="fill:#d5fff6;font-size:5.6px;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">1 Tim 5:17-21</tspan></text>
+  </g>
+  <!-- .element: class="fragment fade-up" data-fragment-index="20" -->
+  <g id="g15">
+   <rect id="rect13214-2-71" transform="translate(-.91)" x="151" y="93" width="49" height="44" style="fill:#000000;stroke-linejoin:round;stroke-miterlimit:.4;stroke-width:1.3;stroke:#ffffff"/>
+   <text id="text13823-4-40" x="174.3279" y="110.01615" style="fill:#d5fff6;font-family:sans-serif;font-size:5.6px;line-height:1.25;stroke-width:.26;text-align:center;text-anchor:middle" xml:space="preserve"><tspan id="tspan13825-8-12" x="174.3279" y="110.01615" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Protegiendo</tspan><tspan id="tspan14463" x="174.3279" y="117.0717" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">a la Iglesia</tspan><tspan id="tspan13928-5" x="174.3279" y="124.12725" style="fill:#d5fff6;font-size:5.6px;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">1 Tim 4:6-10</tspan></text>
+  </g>
+  <!-- .element: class="fragment fade-up" data-fragment-index="15" -->
+  <g id="g24">
+   <rect id="rect13214-2" transform="translate(-.91)" x="249" y="93" width="49" height="44" style="fill:#000000;stroke-linejoin:round;stroke-miterlimit:.4;stroke-width:1.3;stroke:#ffffff"/>
+   <text id="text13823-4-09" x="272.61691" y="110.01617" style="fill:#d5fff6;font-family:sans-serif;font-size:5.6px;line-height:1.25;stroke-width:.26;text-align:center;text-anchor:middle" xml:space="preserve"><tspan id="tspan13825-8-55" x="272.61691" y="110.01617" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Motivaciones</tspan><tspan id="tspan14496" x="272.61691" y="117.07172" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Correctas</tspan><tspan id="tspan13928-06" x="272.61691" y="124.12727" style="fill:#d5fff6;font-size:5.6px;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">1 Tim 6:9-14</tspan></text>
+  </g>
+  <!-- .element: class="fragment fade-up" data-fragment-index="24" -->
+  <g id="g25">
+   <rect id="rect13214-69" transform="translate(-.91)" x="249" y="138" width="49" height="44" style="fill:#000000;stroke-linejoin:round;stroke-miterlimit:.4;stroke-width:1.3;stroke:#ffffff"/>
+   <text id="text13823-4-27" x="272.71301" y="154.30006" style="fill:#d5fff6;font-family:sans-serif;font-size:5.6px;line-height:1.25;stroke-width:.26;text-align:center;text-anchor:middle" xml:space="preserve"><tspan id="tspan13825-8-2" x="272.71301" y="154.30006" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Doxología &amp;</tspan><tspan id="tspan14500" x="272.71301" y="161.35562" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Conclusión</tspan><tspan id="tspan13928-23" x="272.71301" y="168.41116" style="fill:#d5fff6;font-size:5.6px;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">1 Tim 6:15-21</tspan></text>
+  </g>
+  <!-- .element: class="fragment fade-up" data-fragment-index="25" -->
+  <g id="g21">
+   <rect id="rect13214-69-0" transform="translate(-.91)" x="200" y="138" width="49" height="44" style="fill:#000000;stroke-linejoin:round;stroke-miterlimit:.4;stroke-width:1.3;stroke:#ffffff"/>
+   <text id="text13823-4-8" x="223.42123" y="154.30006" style="fill:#d5fff6;font-family:sans-serif;font-size:5.6px;line-height:1.25;stroke-width:.26;text-align:center;text-anchor:middle" xml:space="preserve"><tspan id="tspan13825-8-44" x="223.42123" y="154.30006" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Andando con</tspan><tspan id="tspan14488" x="223.42123" y="161.35562" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Honradez</tspan><tspan id="tspan13928-58" x="223.42123" y="168.41116" style="fill:#d5fff6;font-size:5.6px;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">1 Tim 5:22-6:2</tspan></text>
+  </g>
+  <!-- .element: class="fragment fade-up" data-fragment-index="21" -->
+  <g id="g16">
+   <rect id="rect13214-69-7" transform="translate(-.91)" x="151" y="138" width="49" height="44" style="fill:#000000;stroke-linejoin:round;stroke-miterlimit:.4;stroke-width:1.3;stroke:#ffffff"/>
+   <text id="text13823-4-02" x="174.3186" y="154.30005" style="fill:#d5fff6;font-family:sans-serif;font-size:5.6px;line-height:1.25;stroke-width:.26;text-align:center;text-anchor:middle" xml:space="preserve"><tspan id="tspan13825-8-28" x="174.3186" y="154.30005" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Protegiéndote</tspan><tspan id="tspan14467" x="174.3186" y="161.35561" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">a Ti Mismo</tspan><tspan id="tspan13928-42" x="174.3186" y="168.41115" style="fill:#d5fff6;font-size:5.6px;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">1 Tim 4:11-16</tspan></text>
+  </g>
+  <!-- .element: class="fragment fade-up" data-fragment-index="16" -->
+  <g id="g12">
+   <rect id="rect13214-69-79" transform="translate(-.91)" x="102" y="138" width="49" height="44" style="fill:#000000;stroke-linejoin:round;stroke-miterlimit:.4;stroke-width:1.3;stroke:#ffffff"/>
+   <text id="text13823-4-42" x="125.06712" y="154.24113" style="fill:#d5fff6;font-family:sans-serif;font-size:5.6px;line-height:1.25;stroke-width:.26;text-align:center;text-anchor:middle" xml:space="preserve"><tspan id="tspan13825-8-70" x="125.06712" y="154.24113" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">La Casa</tspan><tspan id="tspan14443" x="125.06712" y="161.29669" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">de Dios</tspan><tspan id="tspan13928-03" x="125.06712" y="168.35223" style="fill:#d5fff6;font-size:5.6px;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">1 Tim 3:14-16</tspan></text>
+  </g>
+  <!-- .element: class="fragment fade-up" data-fragment-index="12" -->
+  <g id="g8">
+   <rect id="rect13214-69-71" transform="translate(-.91)" x="52" y="138" width="49" height="44" style="fill:#000000;stroke-linejoin:round;stroke-miterlimit:.4;stroke-width:1.3;stroke:#ffffff"/>
+   <text id="text13823-4-47" x="76.953575" y="154.30006" style="fill:#d5fff6;font-family:sans-serif;font-size:5.6px;line-height:1.25;stroke-width:.26;text-align:center;text-anchor:middle" xml:space="preserve"><tspan id="tspan13825-8-8" x="76.953575" y="154.30006" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Mujeres en </tspan><tspan id="tspan14431" x="76.953575" y="161.35562" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">el Culto</tspan><tspan id="tspan13928-73" x="76.953575" y="168.41116" style="fill:#d5fff6;font-size:5.6px;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">1 Tim 2:9-15</tspan></text>
+  </g>
+  <!-- .element: class="fragment fade-up" data-fragment-index="8" -->
+  <g id="g4">
+   <rect id="rect13214-69-3" transform="translate(-.91)" x="3.3" y="138" width="49" height="44" style="fill:#000000;stroke-linejoin:round;stroke-miterlimit:.4;stroke-width:1.3;stroke:#ffffff"/>
+   <text id="text13823-4-01" x="26.847895" y="154.30006" style="fill:#d5fff6;font-family:sans-serif;font-size:5.6px;line-height:1.25;stroke-width:.26;text-align:center;text-anchor:middle" xml:space="preserve"><tspan id="tspan13825-8-40" x="26.847895" y="154.30006" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Disciplinando</tspan><tspan id="tspan14417" x="26.847895" y="161.35562" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">los Errores</tspan><tspan id="tspan13928-1" x="26.847895" y="168.41116" style="fill:#d5fff6;font-size:5.6px;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">1 Tim 1:19-20</tspan></text>
+  </g>
+  <!-- .element: class="fragment fade-up" data-fragment-index="4" -->
+  <g id="g9">
+   <rect id="rect13214-65-8" transform="translate(-.91)" x="102" y="23" width="49" height="26" style="fill:#a710ff;stroke-linejoin:round;stroke-miterlimit:.4;stroke-width:.97;stroke:#ffffff"/>
+   <text id="text13823-4-9-1" x="125.433" y="34.373463" style="fill:#d5fff6;font-family:sans-serif;font-size:6.4px;line-height:1.25;stroke-width:.26;text-align:center;text-anchor:middle" xml:space="preserve"><tspan id="tspan13825-8-6-4" x="125.433" y="34.373463" style="fill:#d5fff6;font-size:6.4px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Manejo</tspan><tspan id="tspan14516" x="125.433" y="42.310963" style="fill:#d5fff6;font-size:6.4px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">de la Casa</tspan></text>
+  </g>
+  <!-- .element: class="fragment fade-up" data-fragment-index="9" -->
+  <g id="g13">
+   <rect id="rect13214-65-19" transform="translate(-.91)" x="151" y="23" width="49" height="26" style="fill:#a710ff;stroke-linejoin:round;stroke-miterlimit:.4;stroke-width:.97;stroke:#ffffff"/>
+   <text id="text13823-4-9-3" x="174.43797" y="34.367283" style="fill:#d5fff6;font-family:sans-serif;font-size:6.4px;line-height:1.25;stroke-width:.26;text-align:center;text-anchor:middle" xml:space="preserve"><tspan id="tspan13825-8-6-7" x="174.43797" y="34.367283" style="fill:#d5fff6;font-size:6.4px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Seguridad</tspan><tspan id="tspan14512" x="174.43797" y="42.304783" style="fill:#d5fff6;font-size:6.4px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Doméstica</tspan></text>
+  </g>
+  <!-- .element: class="fragment fade-up" data-fragment-index="13" -->
+  <g id="g22">
+   <rect id="rect13214-65-3" transform="translate(-.91)" x="249" y="23" width="49" height="26" style="fill:#a710ff;stroke-linejoin:round;stroke-miterlimit:.4;stroke-width:.97;stroke:#ffffff"/>
+   <text id="text13823-4-9-4" x="272.84906" y="34.369434" style="fill:#d5fff6;font-family:sans-serif;font-size:6.4px;line-height:1.25;stroke-width:.26;text-align:center;text-anchor:middle" xml:space="preserve"><tspan id="tspan13825-8-6-6" x="272.84906" y="34.369434" style="fill:#d5fff6;font-size:6.4px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Limpieza</tspan><tspan id="tspan14504" x="272.84906" y="42.306934" style="fill:#d5fff6;font-size:6.4px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">de la Casa</tspan></text>
+  </g>
+  <!-- .element: class="fragment fade-up" data-fragment-index="22" -->
+  <g id="g18">
+   <rect id="rect13214-65-7" transform="translate(-.91)" x="200" y="23" width="49" height="26" style="fill:#a710ff;stroke-linejoin:round;stroke-miterlimit:.4;stroke-width:.97;stroke:#ffffff"/>
+   <text id="text13823-4-9-7" x="223.59798" y="34.367283" style="fill:#d5fff6;font-family:sans-serif;font-size:6.4px;line-height:1.25;stroke-width:.26;text-align:center;text-anchor:middle" xml:space="preserve"><tspan id="tspan13825-8-6-0" x="223.59798" y="34.367283" style="fill:#d5fff6;font-size:6.4px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Atención</tspan><tspan id="tspan14508" x="223.59798" y="42.304783" style="fill:#d5fff6;font-size:6.4px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Doméstica</tspan></text>
+  </g>
+  <!-- .element: class="fragment fade-up" data-fragment-index="18" -->
+  <g id="g14698">
+   <rect id="rect13152-1-4" transform="translate(-.91)" x="3.3" y="182" width="295" height="24" style="fill:#00aad4;stroke-linejoin:round;stroke-miterlimit:.4;stroke-width:1.3;stroke:#ffffff" inkscape:transform-center-x="49.555314" inkscape:transform-center-y="-34.864316"/>
+   <text id="text14325" x="23.512632" y="196.00737" style="fill:#d5fff6;font-family:sans-serif;font-size:7.1px;line-height:1.25;stroke-width:.26" xml:space="preserve"><tspan id="tspan14323" x="23.512632" y="196.00737" style="fill:#d5fff6;font-size:7.1px;font-style:italic;stroke-width:.26" sodipodi:role="line">...para que sepas cómo conducirte en la casa de Dios...1 Timoteo 3:15</tspan></text>
+  </g>
+  <g id="g14705">
+   <rect id="rect13152" transform="translate(-.91)" x="3.3" y=".79" width="295" height="22" style="fill:#00aad4;stroke-linejoin:round;stroke-miterlimit:.4;stroke-width:1.2;stroke:#ffffff"/>
+   <text id="text13461" x="43.845448" y="16.519194" style="fill:#ffffff;font-family:sans-serif;font-size:13px;line-height:1.25;stroke-width:.26" xml:space="preserve"><tspan id="tspan13459" x="43.845448" y="16.519194" style="fill:#ffffff;font-size:13px;stroke-width:.26" sodipodi:role="line"><tspan id="tspan14351" style="font-size:13px;font-weight:bold">1 TIMOTEO</tspan> - en la casa de Dios</tspan></text>
+  </g>
+  <text id="text14455" style="fill:#000000;font-family:sans-serif;font-size:11px;line-height:1.25;shape-inside:url(#rect14457);white-space:pre" xml:space="preserve"/>
+ </g>
+</svg>
 
 ##    A.  1 Timoteo 6:3-5 -- Tratando con la oposición
 
@@ -2482,4 +3018,137 @@ ___
 
 ####            e.  *La gracia sea contigo.* Como siempre, cerró su carta con una mención de *la gracia*. ¡Timoteo necesitaba la gracia de Dios tanto como tú la necesitas hoy! Hermanos **<u>oren</u>** los unos por los otros.
 
-![](media/image4.png){width="10.715972222222222in" height="8.08925743657043in"}
+<svg id="svg12583" width="1000" height="700" inkscape:version="1.0.2 (e86c8708, 2021-01-15)" sodipodi:docname="bosquejo-opt.svg" version="1.1" viewBox="0 0 296 207" xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd">
+ <sodipodi:namedview id="base" bordercolor="#666666" borderopacity="1.0" fit-margin-bottom="0" fit-margin-left="0" fit-margin-right="0" fit-margin-top="0" inkscape:bbox-paths="true" inkscape:current-layer="layer3" inkscape:cx="394.77242" inkscape:cy="339.58244" inkscape:document-rotation="0" inkscape:document-units="mm" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:snap-bbox="true" inkscape:window-height="935" inkscape:window-maximized="0" inkscape:window-width="1654" inkscape:window-x="24" inkscape:window-y="25" inkscape:zoom="0.74937383" pagecolor="#ffffff" showgrid="false"/>
+ <g id="layer3" transform="translate(-1.8 -.18)" inkscape:groupmode="layer" inkscape:label="letters">
+  <g id="g1">
+   <rect id="rect13214-65" transform="translate(-.91)" x="3.3" y="23" width="49" height="26" style="fill:#a710ff;stroke-linejoin:round;stroke-miterlimit:.4;stroke-width:.97;stroke:#ffffff"/>
+   <text id="text13817" x="27.705727" y="34.551746" style="fill:#d5fff6;font-family:sans-serif;font-size:4.9px;line-height:1.25;stroke-width:.26;text-align:center;text-anchor:middle" xml:space="preserve"><tspan id="tspan13815" x="27.705727" y="34.551746" style="fill:#d5fff6;font-size:4.9px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Mantenimiento </tspan><tspan id="tspan13819" x="27.705727" y="40.725357" style="fill:#d5fff6;font-size:4.9px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Residencial</tspan></text>
+  </g>
+<!-- .element: class="fragment fade-up" data-fragment-index="1" -->
+  <g id="g6">
+   <rect id="rect13214-33-9-1" transform="translate(-.91)" x="52" y="49" width="49" height="44" style="fill:#000000;stroke-linejoin:round;stroke-miterlimit:.4;stroke-width:1.3;stroke:#ffffff"/>
+   <text id="text13823-4" x="75.935036" y="65.780312" style="fill:#d5fff6;font-family:sans-serif;font-size:5.6px;line-height:1.25;stroke-width:.26;text-align:center;text-anchor:middle" xml:space="preserve"><tspan id="tspan13825-8" x="75.935036" y="65.780312" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Oración</tspan><tspan id="tspan14421" x="75.935036" y="72.835861" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Corporal</tspan><tspan id="tspan13928" x="75.935036" y="79.891411" style="fill:#d5fff6;font-size:5.6px;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">1 Tim 2:1-7</tspan></text>
+  </g>
+  <!-- .element: class="fragment fade-up" data-fragment-index="6" -->
+  <g id="g5">
+   <rect id="rect13214-65-1" transform="translate(-.91)" x="52" y="23" width="49" height="26" style="fill:#a710ff;stroke-linejoin:round;stroke-miterlimit:.4;stroke-width:.97;stroke:#ffffff"/>
+   <text id="text13823-4-9" x="76.953575" y="34.373463" style="fill:#d5fff6;font-family:sans-serif;font-size:6.4px;line-height:1.25;stroke-width:.26;text-align:center;text-anchor:middle" xml:space="preserve"><tspan id="tspan13821-9-1" x="76.953575" y="34.373463" style="fill:#d5fff6;font-size:6.4px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Deberes de </tspan><tspan id="tspan13825-8-6" x="76.953575" y="42.310963" style="fill:#d5fff6;font-size:6.4px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">la casa</tspan></text>
+  </g>
+  <!-- .element: class="fragment fade-up" data-fragment-index="5" -->
+  <g id="g10">
+   <rect id="rect13214-33-9-9" transform="translate(-.91)" x="102" y="49" width="49" height="44" style="fill:#000000;stroke-linejoin:round;stroke-miterlimit:.4;stroke-width:1.3;stroke:#ffffff"/>
+   <text id="text13823-4-6" x="125.53687" y="65.732254" style="fill:#d5fff6;font-family:sans-serif;font-size:5.6px;line-height:1.25;stroke-width:.26;text-align:center;text-anchor:middle" xml:space="preserve"><tspan id="tspan13825-8-0" x="125.53687" y="65.732254" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Ancianos en</tspan><tspan id="tspan14435" x="125.53687" y="72.787804" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">la Iglesia</tspan><tspan id="tspan13928-4" x="125.53687" y="79.843353" style="fill:#d5fff6;font-size:5.6px;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">1 Tim 3:1-7</tspan></text>
+  </g>
+  <!-- .element: class="fragment fade-up" data-fragment-index="10" -->
+  <g id="g14">
+   <rect id="rect13214-33-9" transform="translate(-.91)" x="151" y="49" width="49" height="44" style="fill:#000000;stroke-linejoin:round;stroke-miterlimit:.4;stroke-width:1.3;stroke:#ffffff"/>
+   <text id="text13823-4-5" x="174.27985" y="65.732269" style="fill:#d5fff6;font-family:sans-serif;font-size:5.6px;line-height:1.25;stroke-width:.26;text-align:center;text-anchor:middle" xml:space="preserve"><tspan id="tspan14447" x="174.27985" y="65.732269" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Herejes</tspan><tspan id="tspan14471" x="174.27985" y="72.787819" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Venideros</tspan><tspan id="tspan13928-6" x="174.27985" y="79.843369" style="fill:#d5fff6;font-size:5.6px;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">1 Tim 4:1-5</tspan></text>
+  </g>
+  <!-- .element: class="fragment fade-up" data-fragment-index="14" -->
+  <g id="g19">
+   <rect id="rect13214-33" transform="translate(-.91)" x="200" y="49" width="49" height="44" style="fill:#000000;stroke-linejoin:round;stroke-miterlimit:.4;stroke-width:1.3;stroke:#ffffff"/>
+   <text id="text13823-4-0" x="223.38713" y="65.732277" style="fill:#d5fff6;font-family:sans-serif;font-size:5.6px;line-height:1.25;stroke-width:.26;text-align:center;text-anchor:middle" xml:space="preserve"><tspan id="tspan13825-8-1" x="223.38713" y="65.732277" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Honrando</tspan><tspan id="tspan14475" x="223.38713" y="72.787827" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">las Viudas</tspan><tspan id="tspan13928-2" x="223.38713" y="79.843376" style="fill:#d5fff6;font-size:5.6px;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">1 Tim 5:1-16</tspan></text>
+  </g>
+  <!-- .element: class="fragment fade-up" data-fragment-index="19" -->
+  <g id="g23">
+   <rect id="rect13214-7" transform="translate(-.91)" x="249" y="49" width="49" height="44" style="fill:#000000;stroke-linejoin:round;stroke-miterlimit:.4;stroke-width:1.3;stroke:#ffffff" inkscape:transform-center-x="52.110736" inkscape:transform-center-y="-2.5962789"/>
+   <text id="text13823-4-1" x="272.78278" y="65.743118" style="fill:#d5fff6;font-family:sans-serif;font-size:5.6px;line-height:1.25;stroke-width:.26;text-align:center;text-anchor:middle" xml:space="preserve"><tspan id="tspan13825-8-9" x="272.78278" y="65.743118" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Confrontando</tspan><tspan id="tspan14492" x="272.78278" y="72.798668" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">la Oposición</tspan><tspan id="tspan13928-8" x="272.78278" y="79.854218" style="fill:#d5fff6;font-size:5.6px;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">1 Tim 6:3-8</tspan></text>
+  </g>
+  <!-- .element: class="fragment fade-up" data-fragment-index="23" -->
+  <g id="g2">
+   <rect id="rect13214-33-9-8" transform="translate(-.91)" x="3.3" y="49" width="49" height="44" style="fill:#000000;stroke-linejoin:round;stroke-miterlimit:.4;stroke-width:1.3;stroke:#ffffff"/>
+   <text id="text13823-4-04" x="27.703661" y="65.676445" style="fill:#d5fff6;font-family:sans-serif;font-size:5.6px;line-height:1.25;stroke-width:.26;text-align:center;text-anchor:middle" xml:space="preserve"><tspan id="tspan13821-9-4" x="27.703661" y="65.676445" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Razón por </tspan><tspan id="tspan13825-8-18" x="27.703661" y="72.731995" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">la Escritura  </tspan><tspan id="tspan13928-9" x="27.703661" y="79.787544" style="fill:#d5fff6;font-size:5.6px;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">1 Tim 1:1-11</tspan></text>
+  </g>
+  <!-- .element: class="fragment fade-up" data-fragment-index="2" -->
+  <g id="g3">
+   <rect id="rect13214-2-5" transform="translate(-.91)" x="3.3" y="93" width="49" height="44" style="fill:#000000;stroke-linejoin:round;stroke-miterlimit:.4;stroke-width:1.3;stroke:#ffffff"/>
+   <text id="text13823-4-2" x="26.764179" y="110.01151" style="fill:#d5fff6;font-family:sans-serif;font-size:5.6px;line-height:1.25;stroke-width:.26;text-align:center;text-anchor:middle" xml:space="preserve"><tspan id="tspan13825-8-5" x="26.764179" y="110.01151" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Gracia para </tspan><tspan id="tspan14395" x="26.764179" y="117.06706" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">la Batalla</tspan><tspan id="tspan13928-46" x="26.764179" y="124.12261" style="fill:#d5fff6;font-size:5.6px;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">1 Tim 1:12-18</tspan></text>
+  </g>
+  <!-- .element: class="fragment fade-up" data-fragment-index="3" -->
+  <g id="g7">
+   <rect id="rect13214-2-0" transform="translate(-.91)" x="52" y="93" width="49" height="44" style="fill:#000000;stroke-linejoin:round;stroke-miterlimit:.4;stroke-width:1.3;stroke:#ffffff"/>
+   <text id="text13823-4-90" x="76.953575" y="106.0474" style="fill:#d5fff6;font-family:sans-serif;font-size:5.6px;line-height:1.25;stroke-width:.26;text-align:center;text-anchor:middle" xml:space="preserve"><tspan id="tspan13825-8-7" x="76.953575" y="106.0474" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Hombres y </tspan><tspan id="tspan14425" x="76.953575" y="113.10295" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">la Oración</tspan><tspan id="tspan14427" x="76.953575" y="120.1585" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Pública</tspan><tspan id="tspan13928-7" x="76.953575" y="127.21405" style="fill:#d5fff6;font-size:5.6px;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">1 Tim 2:8</tspan></text>
+  </g>
+  <!-- .element: class="fragment fade-up" data-fragment-index="7" -->
+  <g id="g11">
+   <rect id="rect13214-2-9" transform="translate(-.91)" x="102" y="93" width="49" height="44" style="fill:#000000;stroke-linejoin:round;stroke-miterlimit:.4;stroke-width:1.3;stroke:#ffffff"/>
+   <text id="text13823-4-4" x="126.07636" y="110.01151" style="fill:#d5fff6;font-family:sans-serif;font-size:5.6px;line-height:1.25;stroke-width:.26;text-align:center;text-anchor:middle" xml:space="preserve"><tspan id="tspan13825-8-4" x="126.07636" y="110.01151" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Diaconos en </tspan><tspan id="tspan14439" x="126.07636" y="117.06706" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">la Iglesia</tspan><tspan id="tspan13928-92" x="126.07636" y="124.12261" style="fill:#d5fff6;font-size:5.6px;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">1 Tim 3:8-13</tspan></text>
+  </g>
+  <!-- .element: class="fragment fade-up" data-fragment-index="11" -->
+  <g id="g20">
+   <rect id="rect13214-2-7" transform="translate(-.91)" x="200" y="93" width="49" height="44" style="fill:#000000;stroke-linejoin:round;stroke-miterlimit:.4;stroke-width:1.3;stroke:#ffffff"/>
+   <text id="text13823-4-57" x="223.55301" y="106.04741" style="fill:#d5fff6;font-family:sans-serif;font-size:5.6px;line-height:1.25;stroke-width:.26;text-align:center;text-anchor:middle" xml:space="preserve"><tspan id="tspan14453" x="223.55301" y="106.04741" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Honrando</tspan><tspan id="tspan14482" x="223.55301" y="113.10296" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Algunos</tspan><tspan id="tspan14484" x="223.55301" y="120.15851" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Ancianos</tspan><tspan id="tspan13928-0" x="223.55301" y="127.21406" style="fill:#d5fff6;font-size:5.6px;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">1 Tim 5:17-21</tspan></text>
+  </g>
+  <!-- .element: class="fragment fade-up" data-fragment-index="20" -->
+  <g id="g15">
+   <rect id="rect13214-2-71" transform="translate(-.91)" x="151" y="93" width="49" height="44" style="fill:#000000;stroke-linejoin:round;stroke-miterlimit:.4;stroke-width:1.3;stroke:#ffffff"/>
+   <text id="text13823-4-40" x="174.3279" y="110.01615" style="fill:#d5fff6;font-family:sans-serif;font-size:5.6px;line-height:1.25;stroke-width:.26;text-align:center;text-anchor:middle" xml:space="preserve"><tspan id="tspan13825-8-12" x="174.3279" y="110.01615" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Protegiendo</tspan><tspan id="tspan14463" x="174.3279" y="117.0717" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">a la Iglesia</tspan><tspan id="tspan13928-5" x="174.3279" y="124.12725" style="fill:#d5fff6;font-size:5.6px;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">1 Tim 4:6-10</tspan></text>
+  </g>
+  <!-- .element: class="fragment fade-up" data-fragment-index="15" -->
+  <g id="g24">
+   <rect id="rect13214-2" transform="translate(-.91)" x="249" y="93" width="49" height="44" style="fill:#000000;stroke-linejoin:round;stroke-miterlimit:.4;stroke-width:1.3;stroke:#ffffff"/>
+   <text id="text13823-4-09" x="272.61691" y="110.01617" style="fill:#d5fff6;font-family:sans-serif;font-size:5.6px;line-height:1.25;stroke-width:.26;text-align:center;text-anchor:middle" xml:space="preserve"><tspan id="tspan13825-8-55" x="272.61691" y="110.01617" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Motivaciones</tspan><tspan id="tspan14496" x="272.61691" y="117.07172" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Correctas</tspan><tspan id="tspan13928-06" x="272.61691" y="124.12727" style="fill:#d5fff6;font-size:5.6px;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">1 Tim 6:9-14</tspan></text>
+  </g>
+  <!-- .element: class="fragment fade-up" data-fragment-index="24" -->
+  <g id="g25">
+   <rect id="rect13214-69" transform="translate(-.91)" x="249" y="138" width="49" height="44" style="fill:#000000;stroke-linejoin:round;stroke-miterlimit:.4;stroke-width:1.3;stroke:#ffffff"/>
+   <text id="text13823-4-27" x="272.71301" y="154.30006" style="fill:#d5fff6;font-family:sans-serif;font-size:5.6px;line-height:1.25;stroke-width:.26;text-align:center;text-anchor:middle" xml:space="preserve"><tspan id="tspan13825-8-2" x="272.71301" y="154.30006" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Doxología &amp;</tspan><tspan id="tspan14500" x="272.71301" y="161.35562" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Conclusión</tspan><tspan id="tspan13928-23" x="272.71301" y="168.41116" style="fill:#d5fff6;font-size:5.6px;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">1 Tim 6:15-21</tspan></text>
+  </g>
+  <!-- .element: class="fragment fade-up" data-fragment-index="25" -->
+  <g id="g21">
+   <rect id="rect13214-69-0" transform="translate(-.91)" x="200" y="138" width="49" height="44" style="fill:#000000;stroke-linejoin:round;stroke-miterlimit:.4;stroke-width:1.3;stroke:#ffffff"/>
+   <text id="text13823-4-8" x="223.42123" y="154.30006" style="fill:#d5fff6;font-family:sans-serif;font-size:5.6px;line-height:1.25;stroke-width:.26;text-align:center;text-anchor:middle" xml:space="preserve"><tspan id="tspan13825-8-44" x="223.42123" y="154.30006" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Andando con</tspan><tspan id="tspan14488" x="223.42123" y="161.35562" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Honradez</tspan><tspan id="tspan13928-58" x="223.42123" y="168.41116" style="fill:#d5fff6;font-size:5.6px;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">1 Tim 5:22-6:2</tspan></text>
+  </g>
+  <!-- .element: class="fragment fade-up" data-fragment-index="21" -->
+  <g id="g16">
+   <rect id="rect13214-69-7" transform="translate(-.91)" x="151" y="138" width="49" height="44" style="fill:#000000;stroke-linejoin:round;stroke-miterlimit:.4;stroke-width:1.3;stroke:#ffffff"/>
+   <text id="text13823-4-02" x="174.3186" y="154.30005" style="fill:#d5fff6;font-family:sans-serif;font-size:5.6px;line-height:1.25;stroke-width:.26;text-align:center;text-anchor:middle" xml:space="preserve"><tspan id="tspan13825-8-28" x="174.3186" y="154.30005" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Protegiéndote</tspan><tspan id="tspan14467" x="174.3186" y="161.35561" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">a Ti Mismo</tspan><tspan id="tspan13928-42" x="174.3186" y="168.41115" style="fill:#d5fff6;font-size:5.6px;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">1 Tim 4:11-16</tspan></text>
+  </g>
+  <!-- .element: class="fragment fade-up" data-fragment-index="16" -->
+  <g id="g12">
+   <rect id="rect13214-69-79" transform="translate(-.91)" x="102" y="138" width="49" height="44" style="fill:#000000;stroke-linejoin:round;stroke-miterlimit:.4;stroke-width:1.3;stroke:#ffffff"/>
+   <text id="text13823-4-42" x="125.06712" y="154.24113" style="fill:#d5fff6;font-family:sans-serif;font-size:5.6px;line-height:1.25;stroke-width:.26;text-align:center;text-anchor:middle" xml:space="preserve"><tspan id="tspan13825-8-70" x="125.06712" y="154.24113" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">La Casa</tspan><tspan id="tspan14443" x="125.06712" y="161.29669" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">de Dios</tspan><tspan id="tspan13928-03" x="125.06712" y="168.35223" style="fill:#d5fff6;font-size:5.6px;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">1 Tim 3:14-16</tspan></text>
+  </g>
+  <!-- .element: class="fragment fade-up" data-fragment-index="12" -->
+  <g id="g8">
+   <rect id="rect13214-69-71" transform="translate(-.91)" x="52" y="138" width="49" height="44" style="fill:#000000;stroke-linejoin:round;stroke-miterlimit:.4;stroke-width:1.3;stroke:#ffffff"/>
+   <text id="text13823-4-47" x="76.953575" y="154.30006" style="fill:#d5fff6;font-family:sans-serif;font-size:5.6px;line-height:1.25;stroke-width:.26;text-align:center;text-anchor:middle" xml:space="preserve"><tspan id="tspan13825-8-8" x="76.953575" y="154.30006" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Mujeres en </tspan><tspan id="tspan14431" x="76.953575" y="161.35562" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">el Culto</tspan><tspan id="tspan13928-73" x="76.953575" y="168.41116" style="fill:#d5fff6;font-size:5.6px;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">1 Tim 2:9-15</tspan></text>
+  </g>
+  <!-- .element: class="fragment fade-up" data-fragment-index="8" -->
+  <g id="g4">
+   <rect id="rect13214-69-3" transform="translate(-.91)" x="3.3" y="138" width="49" height="44" style="fill:#000000;stroke-linejoin:round;stroke-miterlimit:.4;stroke-width:1.3;stroke:#ffffff"/>
+   <text id="text13823-4-01" x="26.847895" y="154.30006" style="fill:#d5fff6;font-family:sans-serif;font-size:5.6px;line-height:1.25;stroke-width:.26;text-align:center;text-anchor:middle" xml:space="preserve"><tspan id="tspan13825-8-40" x="26.847895" y="154.30006" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Disciplinando</tspan><tspan id="tspan14417" x="26.847895" y="161.35562" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">los Errores</tspan><tspan id="tspan13928-1" x="26.847895" y="168.41116" style="fill:#d5fff6;font-size:5.6px;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">1 Tim 1:19-20</tspan></text>
+  </g>
+  <!-- .element: class="fragment fade-up" data-fragment-index="4" -->
+  <g id="g9">
+   <rect id="rect13214-65-8" transform="translate(-.91)" x="102" y="23" width="49" height="26" style="fill:#a710ff;stroke-linejoin:round;stroke-miterlimit:.4;stroke-width:.97;stroke:#ffffff"/>
+   <text id="text13823-4-9-1" x="125.433" y="34.373463" style="fill:#d5fff6;font-family:sans-serif;font-size:6.4px;line-height:1.25;stroke-width:.26;text-align:center;text-anchor:middle" xml:space="preserve"><tspan id="tspan13825-8-6-4" x="125.433" y="34.373463" style="fill:#d5fff6;font-size:6.4px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Manejo</tspan><tspan id="tspan14516" x="125.433" y="42.310963" style="fill:#d5fff6;font-size:6.4px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">de la Casa</tspan></text>
+  </g>
+  <!-- .element: class="fragment fade-up" data-fragment-index="9" -->
+  <g id="g13">
+   <rect id="rect13214-65-19" transform="translate(-.91)" x="151" y="23" width="49" height="26" style="fill:#a710ff;stroke-linejoin:round;stroke-miterlimit:.4;stroke-width:.97;stroke:#ffffff"/>
+   <text id="text13823-4-9-3" x="174.43797" y="34.367283" style="fill:#d5fff6;font-family:sans-serif;font-size:6.4px;line-height:1.25;stroke-width:.26;text-align:center;text-anchor:middle" xml:space="preserve"><tspan id="tspan13825-8-6-7" x="174.43797" y="34.367283" style="fill:#d5fff6;font-size:6.4px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Seguridad</tspan><tspan id="tspan14512" x="174.43797" y="42.304783" style="fill:#d5fff6;font-size:6.4px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Doméstica</tspan></text>
+  </g>
+  <!-- .element: class="fragment fade-up" data-fragment-index="13" -->
+  <g id="g22">
+   <rect id="rect13214-65-3" transform="translate(-.91)" x="249" y="23" width="49" height="26" style="fill:#a710ff;stroke-linejoin:round;stroke-miterlimit:.4;stroke-width:.97;stroke:#ffffff"/>
+   <text id="text13823-4-9-4" x="272.84906" y="34.369434" style="fill:#d5fff6;font-family:sans-serif;font-size:6.4px;line-height:1.25;stroke-width:.26;text-align:center;text-anchor:middle" xml:space="preserve"><tspan id="tspan13825-8-6-6" x="272.84906" y="34.369434" style="fill:#d5fff6;font-size:6.4px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Limpieza</tspan><tspan id="tspan14504" x="272.84906" y="42.306934" style="fill:#d5fff6;font-size:6.4px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">de la Casa</tspan></text>
+  </g>
+  <!-- .element: class="fragment fade-up" data-fragment-index="22" -->
+  <g id="g18">
+   <rect id="rect13214-65-7" transform="translate(-.91)" x="200" y="23" width="49" height="26" style="fill:#a710ff;stroke-linejoin:round;stroke-miterlimit:.4;stroke-width:.97;stroke:#ffffff"/>
+   <text id="text13823-4-9-7" x="223.59798" y="34.367283" style="fill:#d5fff6;font-family:sans-serif;font-size:6.4px;line-height:1.25;stroke-width:.26;text-align:center;text-anchor:middle" xml:space="preserve"><tspan id="tspan13825-8-6-0" x="223.59798" y="34.367283" style="fill:#d5fff6;font-size:6.4px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Atención</tspan><tspan id="tspan14508" x="223.59798" y="42.304783" style="fill:#d5fff6;font-size:6.4px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Doméstica</tspan></text>
+  </g>
+  <!-- .element: class="fragment fade-up" data-fragment-index="18" -->
+  <g id="g14698">
+   <rect id="rect13152-1-4" transform="translate(-.91)" x="3.3" y="182" width="295" height="24" style="fill:#00aad4;stroke-linejoin:round;stroke-miterlimit:.4;stroke-width:1.3;stroke:#ffffff" inkscape:transform-center-x="49.555314" inkscape:transform-center-y="-34.864316"/>
+   <text id="text14325" x="23.512632" y="196.00737" style="fill:#d5fff6;font-family:sans-serif;font-size:7.1px;line-height:1.25;stroke-width:.26" xml:space="preserve"><tspan id="tspan14323" x="23.512632" y="196.00737" style="fill:#d5fff6;font-size:7.1px;font-style:italic;stroke-width:.26" sodipodi:role="line">...para que sepas cómo conducirte en la casa de Dios...1 Timoteo 3:15</tspan></text>
+  </g>
+  <g id="g14705">
+   <rect id="rect13152" transform="translate(-.91)" x="3.3" y=".79" width="295" height="22" style="fill:#00aad4;stroke-linejoin:round;stroke-miterlimit:.4;stroke-width:1.2;stroke:#ffffff"/>
+   <text id="text13461" x="43.845448" y="16.519194" style="fill:#ffffff;font-family:sans-serif;font-size:13px;line-height:1.25;stroke-width:.26" xml:space="preserve"><tspan id="tspan13459" x="43.845448" y="16.519194" style="fill:#ffffff;font-size:13px;stroke-width:.26" sodipodi:role="line"><tspan id="tspan14351" style="font-size:13px;font-weight:bold">1 TIMOTEO</tspan> - en la casa de Dios</tspan></text>
+  </g>
+  <text id="text14455" style="fill:#000000;font-family:sans-serif;font-size:11px;line-height:1.25;shape-inside:url(#rect14457);white-space:pre" xml:space="preserve"/>
+ </g>
+</svg>

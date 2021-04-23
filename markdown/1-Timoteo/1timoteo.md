@@ -18,7 +18,7 @@ Casi comparable al currículo de Economía Doméstica, Pablo dio pautas específ
 
 Timoteo era el mayordomo, no el propietario. Ninguno de nosotros, de hecho, somos dueños de la iglesia. La iglesia pertenece a Jesucristo. Es Su trofeo de gracia; es Su obra en progreso; y es Su esposa. Como Sus mayordomos, tenemos un gran honor y también una gran responsabilidad.
 
-Junio 1, 2018 1^ra^ edición
+Junio 1, 2018 1ra edición
 
 Derechos de Autor © **2018 DM2 International Inc.** Todos los derechos reservados
 
@@ -27,9 +27,7 @@ Derechos de Autor © **2018 DM2 International Inc.** Todos los derechos reservad
 **Impreso y Propiedad de:**
 
 **DM2®**
-
-**\
-Disciple Makers Multiplied**
+**Disciple Makers Multiplied**
 
 **PO Box 7758**
 
@@ -37,12 +35,9 @@ Disciple Makers Multiplied**
 
 **Para más información:**
 
-**\
-disciplemakersmultiplied\@gmail.com**
+**disciplemakersmultiplied\@gmail.com**
 
 **www.DM2USA.org**
-
-**\
 **
 
 **1 Timoteo**

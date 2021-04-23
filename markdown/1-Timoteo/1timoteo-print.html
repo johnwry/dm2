@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="en">
+
+	<head>
+		<meta charset="utf-8">
+
+		<title>Biblical Discipleship</title>
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+	</head>
+
+	<body>
+        <div class="reveal">
+            <div class="slides">
+                    <section data-markdown="markdown/1-Timoteo/1timoteo_pres.md" 
+                    data-separator="^\n"
+                                      data-separator-vertical="^___"
+                               data-separator-notes="^Note:">
+                  </section>
+                  </div>
+              </div>
+	<script>
+    // node.js, "classic" way:
+        var MarkdownIt = require('markdown-it'),
+            md = new MarkdownIt();
+        var result = md.render('# markdown-it rulezz!');
+        
+        // node.js, the same, but with sugar:
+        var md = require('markdown-it')();
+        var result = md.render('# markdown-it rulezz!');
+        
+        // browser without AMD, added to "window" on script load
+        // Note, there is no dash in "markdownit".
+        var md = window.markdownit();
+        var result = md.render('# markdown-it rulezz!');
+        
+        </script>
+
+
+	</body>
+</html>
