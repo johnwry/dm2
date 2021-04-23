@@ -1,4 +1,4 @@
-<!-- .slide:  data-background-image="markdown/1-Timoteo/img/church-cover.jpeg" data-background-size="cover"  data-menu-title="Início"--> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/church-cover.jpeg" data-background-size="cover"  data-menu-title="Início"--> 
 <svg width="1920" height="1080" version="1.1" viewBox="0 0 460 240" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
  <defs>
   <filter id="filter1805" color-interpolation-filters="sRGB">
@@ -182,7 +182,7 @@ ___
 
 ####            c.  La palabra con menor frecuencia se refiere a la iglesia **<u>universal</u>**, comprendida por cada creyente individual (vivo y muerto) de todas las diversas iglesias locales de todas las edades durante los últimos 2000 años.
 
-#####                1.  Refiriéndose a la iglesia universal en Mateo 16:18b, Jesús dijo: *\"Edificaré Mi **<u>iglesia</u>**; y las puertas del Hades no prevalecerán contra ella".*
+#####                1.  Refiriéndose a la iglesia universal en Mateo 16:18b, Jesús dijo: *\"Edificaré Mi __<u>iglesia</u>__; y las puertas del Hades no prevalecerán contra ella".*
 
 #####                2.  Además, Efesios 1:22-23 habla de la iglesia universal cuando dice que Dios dio a Jesús *por cabeza sobre todas las cosas a la iglesia, la cual es Su **<u>cuerpo</u>**.*
 
@@ -220,7 +220,7 @@ ___
 ####            d.  Cristo es la **<u>roca</u>** sobre la cual la iglesia se edifica y se levanta. Mateo 21:42; Hechos 4:11; Romanos 9:33; 1 Corintios 3:11; Efesios 2:20; 1 Pedro 2:4, 6-7
 
 <!-- .slide: data-background-image="markdown/1-Timoteo/img/body-christ.png" data-background-size="contain" -->
-<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5" version="1.1" viewBox="0 0 1920 1080" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"><metadata><rdf:RDF><cc:Work rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/><dc:title/></cc:Work></rdf:RDF></metadata><g clip-rule="evenodd" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5"><rect x="980.36" y="75.168" width="720" height="940" fill="#0071e5" stroke="#f5fffc" stroke-width="3.7"/><text x="1020.7415" y="145.26077" fill="#ffffff" font-family="Calibri" font-size="74.667px" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25" xml:space="preserve"><tspan x="1020.7415" y="145.26077">Conforme a la gracia </tspan><tspan x="1020.7415" y="238.59415">de Dios que me ha </tspan><tspan x="1020.7415" y="331.92752">sido dada, yo como </tspan><tspan x="1020.7415" y="425.26089">perito arquitecto </tspan><tspan x="1020.7415" y="518.5943">puse el fundamento </tspan><tspan x="1020.7415" y="611.92767">[de La Iglesia], </tspan><tspan x="1020.7415" y="705.26105">y otro edifica encima; </tspan><tspan x="1020.7415" y="798.59442">pero cada uno mire </tspan><tspan x="1020.7415" y="891.9278">cómo sobreedifica.</tspan><tspan x="1020.7415" y="985.26117">1 Corintios 3:10</tspan></text></g></svg>
+<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5" version="1.1" viewBox="0 0 1920 1080" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"><metadata><rdf:RDF><cc:Work rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/><dc:title/></cc:Work></rdf:RDF></metadata><g clip-rule="evenodd" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5"><rect x="980.36" y="75.168" width="720" height="940" fill="#0071e5" stroke="#f5fffc" stroke-width="3.7"/><text x="1036.7415" y="197.26077" fill="#ffffff" font-family="Calibri" font-size="74.667px" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25" xml:space="preserve"><tspan x="1036.7415" y="197.26077">Y yo también te digo, </tspan><tspan x="1036.7415" y="290.59415">que tú eres Pedro, </tspan><tspan x="1036.7415" y="383.92752">y sobre esta roca </tspan><tspan x="1036.7415" y="477.26089">edificaré mi iglesia; </tspan><tspan x="1036.7415" y="570.5943">y las puertas del </tspan><tspan x="1036.7415" y="663.92767">Hades no </tspan><tspan x="1036.7415" y="757.26105">prevalecerán </tspan><tspan x="1036.7415" y="850.59442">contra ella.</tspan><tspan x="1036.7415" y="943.9278">Mateo 16:18</tspan></text></g></svg>
 
 ## C.  Un análisis más profundo de Mateo 16:18
 
@@ -250,15 +250,15 @@ ___
 
 ####            b.  La palabra traducida *Mi* está en la posición enfática en la oración del griego, mostrando claramente que la iglesia pertenece a **<u>Jesucristo</u>** y solo a Él. Apocalipsis 19:7
 
-###        4.  Matthew 16:18d -- *...y las **puertas del Hades** no prevalecerán contra ella*. Las puertas normalmente se usan para mantener alejados a los ejércitos invasores. El *Hades* habría sido entendido por la audiencia de Jesús como el lugar de los **<u>muertos</u>**.
+###        4.  Matthew 16:18d -- *...y las **puertas del Hades** no prevalecerán contra ella.* Las puertas normalmente se usan para mantener alejados a los ejércitos invasores. El *Hades* habría sido entendido por la audiencia de Jesús como el lugar de los **<u>muertos</u>**.
 
 ####            a.  Cuando la iglesia va a todo el mundo para predicar el evangelio (Marcos 16:15) y hacer discípulos (Mateo 28:19-20), **<u>prevalece</u>** contra el Hades. Apocalipsis 20:11-15
 
 ####            b.  La iglesia **<u>rescata</u>** a pecadores del pecado, Satanás y la inevitable destrucción en el infierno. Efesios 2:1-3
 
-###        5.  Mateo 16: 18e -- \...*y las puertas del Hades **no prevalecerán contra ella***. La iglesia tendrá una existencia **<u>continua</u>** hasta el rapto de la iglesia.
+###        5.  Mateo 16: 18e -- *...y las puertas del Hades __no prevalecerán contra ella__.* La iglesia tendrá una existencia **<u>continua</u>** hasta el rapto de la iglesia.
 
-####            a.  Aquí Jesús habló de la *iglesia* EKKLESIA en un sentido **<u>global</u>** para describir a la iglesia universal. Note que Él no dijo que edificaría Sus iglesias (plural) sino más bien Su iglesia (singular).
+####            a.  Aquí Jesús habló de la *iglesia*  EKKLESIA en un sentido **<u>global</u>** para describir a la iglesia universal. Note que Él no dijo que edificaría Sus iglesias (plural) sino más bien Su iglesia (singular).
 
 ####            b.  A lo largo de la historia de la iglesia, las iglesias locales han venido y se han **<u>ido</u>**. En Apocalipsis 2:5, Jesús prometió cerrar la iglesia local en Éfeso si no renovaba su primer amor.
 
@@ -304,36 +304,36 @@ ___
 
 ####            a.  Uno: Cuando Cristo dijo que Él edificaría Su iglesia, aún era **<u>futuro</u>** para Su ministerio terrenal.
 
-#####                1.  Cuando Jesús dijo en Mateo 16:18, "*Edificaré Mi iglesia,*" Él usó la forma indicativa, activa y futura del verbo edificar, indicando que Él comenzaría a edificar la iglesia en algún momento **<u>después</u>** de haber hecho esta declaración.
+#####                1.  Cuando Jesús dijo en Mateo 16:18, \"*Edificaré Mi iglesia,*\" Él usó la forma indicativa, activa y futura del verbo edificar, indicando que Él comenzaría a edificar la iglesia en algún momento **<u>después</u>** de haber hecho esta declaración.
 
-#####                2.  Como se mencionó anteriormente, Jesús pudo haber dicho, "He estado edificando Mi iglesia," o "Estoy edificando Mi iglesia," pero no lo hizo. Él escogió decir, "***<u>Edificaré</u>** Mi iglesia*".
+#####                2.  Como se mencionó anteriormente, Jesús pudo haber dicho, "He estado edificando Mi iglesia," o "Estoy edificando Mi iglesia," pero no lo hizo. Él escogió decir, "*__<u>Edificaré</u>__ Mi iglesia*".
 
 ####            b.  Dos: El apóstol Pedro describió lo que sucedió en el día de Pentecostés como el **<u>bautismo</u>** del Espíritu Santo.
 
-#####                1.  1 Corintios 12:13 -- *Porque por un solo Espíritu fuimos todos bautizados en un cuerpo, sean judíos o griegos, sean esclavos o libres; y a todos se nos dio a beber de un mismo Espíritu*. Sabemos por este versículo que todo creyente es bautizado en el cuerpo de Cristo. El bautismo en el **<u>Espíritu</u>** es el medio de Dios para colocar a los creyentes en la iglesia, que es el cuerpo de Cristo.
+#####                1.  1 Corintios 12:13 -- *Porque por un solo Espíritu fuimos todos bautizados en un cuerpo, sean judíos o griegos, sean esclavos o libres; y a todos se nos dio a beber de un mismo Espíritu.* Sabemos por este versículo que todo creyente es bautizado en el cuerpo de Cristo. El bautismo en el __<u>Espíritu</u>__ es el medio de Dios para colocar a los creyentes en la iglesia, que es el cuerpo de Cristo.
 
 #####                2.  Por lo tanto, fechamos el comienzo de la iglesia con el **<u>primer</u>** instante de bautismo del Espíritu. ¿Cuándo pasó esto?
 
 ######                    a.  Lucas 3:16 -- *Respondió Juan, diciendo a todos: Yo a la verdad os bautizo en agua; pero viene uno más poderoso que yo, de quien no soy digno de desatar la correa de Su calzado; Él os bautizará en **<u>Espíritu</u>** Santo y fuego*.
 
-#######                        i.  Durante su ministerio, Juan el Bautista se refirió al bautismo del Espíritu como un acontecimiento **<u>futuro</u>**.
-    
-#######                        ii. Por lo tanto, el bautismo del Espíritu sucedió **<u>después</u>** del ministerio de Juan el Bautista.
-    
+######                        i.  Durante su ministerio, Juan el Bautista se refirió al bautismo del Espíritu como un acontecimiento **<u>futuro</u>**.
+
+######                        ii. Por lo tanto, el bautismo del Espíritu sucedió **<u>después</u>** del ministerio de Juan el Bautista.
+
 ######                    b.  En Hechos 1:4-5, después que fue resucitado, Jesús dijo a los discípulos que *esperasen la promesa del Padre* \[que ellos **<u>serían</u>**\] *bautizados con el Espíritu Santo dentro de no muchos días*.
 
-#######                        i.  La promesa de Jesús reitera el hecho de que la iglesia **<u>no</u>** existió durante Su vida en la tierra, y ciertamente no en el Antiguo Testamento.
+######                        i.  La promesa de Jesús reitera el hecho de que la iglesia **<u>no</u>** existió durante Su vida en la tierra, y ciertamente no en el Antiguo Testamento.
 
-#######                        ii. En Hechos 2:33, Pedro afirmó que el bautismo del Espíritu Santo ocurrió en el día de **<u>Pentecostés</u>**, cuando testificó: *\"Así que, exaltado por la diestra de Dios, y habiendo recibido del Padre la promesa del Espíritu Santo, ha derramado esto que vosotros veis y oís".*
+######                        ii. En Hechos 2:33, Pedro afirmó que el bautismo del Espíritu Santo ocurrió en el día de **<u>Pentecostés</u>**, cuando testificó: *\"Así que, exaltado por la diestra de Dios, y habiendo recibido del Padre la promesa del Espíritu Santo, ha derramado esto que vosotros veis y oís".*
 
 ######                    c.  Del testimonio de Pedro en Hechos 11, concluimos que Jesucristo, por medio del Espíritu Santo, comenzó a **<u>bautizar</u>** espiritualmente a cada creyente en Cristo comenzando en el Día de Pentecostés en Hechos 2.
 
-#######                        i.  Hechos 11:15 -- *Y cuando comencé a hablar, cayó el Espíritu Santo sobre ellos también, como sobre nosotros al principio*. Pedro se estaba refiriendo al comienzo de la **<u>iglesia</u>** en Hechos 2.
-    
-#######                        ii. Hechos 11:16 -- *Entonces me acordé de lo dicho por el Señor, cuando dijo: Juan ciertamente bautizó en agua, mas vosotros **<u>seréis</u>** bautizados con el Espíritu Santo*.
-    
-#######                        iii. Hechos 11:17 -- *Si Dios, pues, les concedió también el mismo **<u>don</u>** que a nosotros que hemos creído en el Señor Jesucristo, ¿quién era yo que pudiese estorbar a Dios?*
-    
+######                        i.  Hechos 11:15 -- *Y cuando comencé a hablar, cayó el Espíritu Santo sobre ellos también, como sobre nosotros al principio.* Pedro se estaba refiriendo al comienzo de la **<u>iglesia</u>** en Hechos 2.
+
+######                       ii. Hechos 11:16 -- *Entonces me acordé de lo dicho por el Señor, cuando dijo: Juan ciertamente bautizó en agua, mas vosotros **<u>seréis</u>** bautizados con el Espíritu Santo.*
+
+######                       iii. Hechos 11:17 -- *Si Dios, pues, les concedió también el mismo **<u>don</u>** que a nosotros que hemos creído en el Señor Jesucristo, ¿quién era yo que pudiese estorbar a Dios?*
+
 ####            c.  Tres: La iglesia no comenzó hasta después de que Cristo fue **<u>sentado</u>** a la diestra de Dios el Padre en el cielo. No fue sino hasta después de que fue exaltado que Cristo se convirtió en la cabeza de la iglesia y equipó a la iglesia con dones espirituales.
 
 #####                1.  Efesios 1:20-23 nos dice que cuando Dios el Padre resucitó a Cristo *de los muertos y sentándole a Su diestra en los lugares celestiales \... sometió todas las cosas bajo Sus pies, y lo dio por **<u>cabeza</u>** sobre todas las cosas a la iglesia, la cual es Su cuerpo, la plenitud de Aquel que todo lo llena en todo*.
@@ -373,6 +373,9 @@ ___
 ##    A.  La iglesia es el <u>cuerpo</u> de Cristo en la tierra
 
 ###        1.  La iglesia es el cuerpo de Cristo en la tierra, encargada de **<u>influenciar</u>** al mundo. Jesús dijo: \"*Sobre esta roca edificaré Mi iglesia; y las puertas del Hades no prevalecerán contra ella*\". Mateo 16:18
+
+<!-- .slide: data-background-image="markdown/1-Timoteo/img/body-christ.png" data-background-size="contain" -->
+<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5" version="1.1" viewBox="0 0 1920 1080" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"><metadata><rdf:RDF><cc:Work rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/><dc:title/></cc:Work></rdf:RDF></metadata><g clip-rule="evenodd" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5"><rect x="980.36" y="75.168" width="720" height="940" fill="#0071e5" stroke="#f5fffc" stroke-width="3.7"/><text x="1020.7415" y="145.26077" fill="#ffffff" font-family="Calibri" font-size="74.667px" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25" xml:space="preserve"><tspan x="1020.7415" y="145.26077">Conforme a la gracia </tspan><tspan x="1020.7415" y="238.59415">de Dios que me ha </tspan><tspan x="1020.7415" y="331.92752">sido dada, yo como </tspan><tspan x="1020.7415" y="425.26089">perito arquitecto </tspan><tspan x="1020.7415" y="518.5943">puse el fundamento </tspan><tspan x="1020.7415" y="611.92767">[de La Iglesia], </tspan><tspan x="1020.7415" y="705.26105">y otro edifica encima; </tspan><tspan x="1020.7415" y="798.59442">pero cada uno mire </tspan><tspan x="1020.7415" y="891.9278">cómo sobreedifica.</tspan><tspan x="1020.7415" y="985.26117">1 Corintios 3:10</tspan></text></g></svg>
 
 ###        2.  En cada dispensación, desde la caída del hombre, Dios se ha esforzado por llegar a este mundo agonizante con el verdadero **<u>conocimiento</u>** de Sí mismo. Mientras que en el pasado usó a la humanidad en general (Enoc y Noé) y a la nación de Israel en su conjunto, en este momento está alcanzando a la humanidad perdida a través de la iglesia, el cuerpo de Cristo.
 
