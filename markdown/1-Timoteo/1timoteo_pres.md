@@ -186,6 +186,7 @@ ___
 
 #####                2.  Además, Efesios 1:22-23 habla de la iglesia universal cuando dice que Dios dio a Jesús *por cabeza sobre todas las cosas a la iglesia, la cual es Su **<u>cuerpo</u>**.*
 
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/scroll.png" data-background-size="300px" data-background-position="left" data-background-opacity="0.5"-->
 ##    B.  La primera mención de la palabra iglesia en la Biblia -- Mateo 16:18
 
 ###        1.  La primera mención de la iglesia, refiriéndose específicamente a los **<u>llamados</u>** de Cristo, se encuentra en Mateo 16:18 donde Jesús dijo: *\"Y Yo también Te digo, que tú eres Pedro, y sobre esta roca edificaré Mi iglesia; y las puertas del Hades no prevalecerán contra ella\".*
