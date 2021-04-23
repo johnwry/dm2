@@ -152,22 +152,22 @@ ___
 
 #####                1.  Entre otros usos, fue usada en las ciudades-estado griegas para describir a los ciudadanos convocados para un deber **<u>cívico</u>**.
 
-<!-- .slide: data-background-image="markdown/1-Timoteo/img/athens.png" data-background-size="400px" data-background-position="bottom" data-background-opacity="0.5"-->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/athens.png" data-background-size="400px" data-background-position="bottom" data-background-opacity="0.5"-->
 #####                2.  En ciudades como Atenas, era considerado un gran honor y un deber solemne **<u>asistir</u>** al llamado. Un heraldo sería enviado a la plaza del mercado de la ciudad para proclamar: \"EKKLESIA, EKKLESIA\".
 
-<!-- .slide: data-background-image="markdown/1-Timoteo/img/assembly.png" data-background-size="300px" data-background-position="left" data-background-opacity="0.5"-->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/assembly.png" data-background-size="300px" data-background-position="left" data-background-opacity="0.5"-->
 #####                3.  Inmediatamente, todos los ciudadanos abandonarían lo que estaban haciendo, dejando el mercado, sus tiendas y sus hogares para asistir a la **<u>reunión</u>**.
 
 ####            b.  Esta convocatoria del estado era para que cada ciudadano **<u>viniera</u>** a cumplir con sus responsabilidades cívicas. Es significativo que las mujeres y los esclavos no eran contados como ciudadanos.
 
 ###        2.  Aunque la palabra EKKLESIA era común en las escrituras seculares, la designación TE EKKLESIA, o \"la iglesia\", era única en el Nuevo Testamento. El uso del artículo definido \"**<u>la</u>**\" (TE) con la palabra \"iglesia\" (EKKLESIA) en la literatura cristiana es evidencia de la naturaleza única de la iglesia del Nuevo Testamento en las mentes de los escritores del Nuevo Testamento.
 
-<!-- .slide: data-background-image="markdown/1-Timoteo/img/class.png" data-background-size="300px" data-background-position="left" data-background-opacity="0.5"-->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/class.png" data-background-size="300px" data-background-position="left" data-background-opacity="0.5"-->
 ####            a.  Los autores del Nuevo Testamento se apropiaron de una palabra secular (EKKLESIA), convirtiéndola en un término técnico (TE EKKLESIA) para describir al pueblo de Dios en esta **<u>dispensación</u>**. Este es el uso principal de la palabra en el Nuevo Testamento, aunque su uso secular también es observable, como es visto en los siguientes ejemplos.
 
 #####                1.  En Hechos 7:35-38, Esteban usó el término EKKLESIA para describir a la nación de **<u>Israel</u>** durante el tiempo de su deambular en el desierto.
 
-<!-- .slide: data-background-image="markdown/1-Timoteo/img/temple-artemis.svg" data-background-size="400px" data-background-position="bottom" data-background-opacity="0.5"-->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/temple-artemis.svg" data-background-size="400px" data-background-position="bottom" data-background-opacity="0.5"-->
 #####                2.  En Hechos 19:32 y 9:41, se usó la palabra EKKLESIA para describir a una asamblea de adoradores de **<u>Diana</u>** en Éfeso.
 
 #####                3.  En Hechos 19:39, EKKLESIA se usó para describir a un **<u>tribunal</u>** general de justicia.
@@ -219,7 +219,7 @@ ___
 
 ####            d.  Cristo es la **<u>roca</u>** sobre la cual la iglesia se edifica y se levanta. Mateo 21:42; Hechos 4:11; Romanos 9:33; 1 Corintios 3:11; Efesios 2:20; 1 Pedro 2:4, 6-7
 
-<!-- .slide: data-background-image="markdown/1-Timoteo/img/body-christ.png" data-background-size="contain" -->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/body-christ.png" data-background-size="contain" -->
 <svg clip-rule="evenodd" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5" version="1.1" viewBox="0 0 1920 1080" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"><metadata><rdf:RDF><cc:Work rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/><dc:title/></cc:Work></rdf:RDF></metadata><g clip-rule="evenodd" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5"><rect x="980.36" y="75.168" width="720" height="940" fill="#0071e5" stroke="#f5fffc" stroke-width="3.7"/><text x="1036.7415" y="197.26077" fill="#ffffff" font-family="Calibri" font-size="74.667px" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25" xml:space="preserve"><tspan x="1036.7415" y="197.26077">Y yo también te digo, </tspan><tspan x="1036.7415" y="290.59415">que tú eres Pedro, </tspan><tspan x="1036.7415" y="383.92752">y sobre esta roca </tspan><tspan x="1036.7415" y="477.26089">edificaré mi iglesia; </tspan><tspan x="1036.7415" y="570.5943">y las puertas del </tspan><tspan x="1036.7415" y="663.92767">Hades no </tspan><tspan x="1036.7415" y="757.26105">prevalecerán </tspan><tspan x="1036.7415" y="850.59442">contra ella.</tspan><tspan x="1036.7415" y="943.9278">Mateo 16:18</tspan></text></g></svg>
 
 ## C.  Un análisis más profundo de Mateo 16:18
@@ -374,7 +374,7 @@ ___
 
 ###        1.  La iglesia es el cuerpo de Cristo en la tierra, encargada de **<u>influenciar</u>** al mundo. Jesús dijo: \"*Sobre esta roca edificaré Mi iglesia; y las puertas del Hades no prevalecerán contra ella*\". Mateo 16:18
 
-<!-- .slide: data-background-image="markdown/1-Timoteo/img/body-christ.png" data-background-size="contain" -->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/body-christ.png" data-background-size="contain" -->
 <svg clip-rule="evenodd" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5" version="1.1" viewBox="0 0 1920 1080" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"><metadata><rdf:RDF><cc:Work rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/><dc:title/></cc:Work></rdf:RDF></metadata><g clip-rule="evenodd" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5"><rect x="980.36" y="75.168" width="720" height="940" fill="#0071e5" stroke="#f5fffc" stroke-width="3.7"/><text x="1020.7415" y="145.26077" fill="#ffffff" font-family="Calibri" font-size="74.667px" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25" xml:space="preserve"><tspan x="1020.7415" y="145.26077">Conforme a la gracia </tspan><tspan x="1020.7415" y="238.59415">de Dios que me ha </tspan><tspan x="1020.7415" y="331.92752">sido dada, yo como </tspan><tspan x="1020.7415" y="425.26089">perito arquitecto </tspan><tspan x="1020.7415" y="518.5943">puse el fundamento </tspan><tspan x="1020.7415" y="611.92767">[de La Iglesia], </tspan><tspan x="1020.7415" y="705.26105">y otro edifica encima; </tspan><tspan x="1020.7415" y="798.59442">pero cada uno mire </tspan><tspan x="1020.7415" y="891.9278">cómo sobreedifica.</tspan><tspan x="1020.7415" y="985.26117">1 Corintios 3:10</tspan></text></g></svg>
 
 ###        2.  En cada dispensación, desde la caída del hombre, Dios se ha esforzado por llegar a este mundo agonizante con el verdadero **<u>conocimiento</u>** de Sí mismo. Mientras que en el pasado usó a la humanidad en general (Enoc y Noé) y a la nación de Israel en su conjunto, en este momento está alcanzando a la humanidad perdida a través de la iglesia, el cuerpo de Cristo.
