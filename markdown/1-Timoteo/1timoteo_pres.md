@@ -1,5 +1,32 @@
-<!-- .slide:  data-background-image="markdown/1-Timoteo/img/cover.png"  --> 
-
+<!-- .slide:  data-background-image="markdown/1-Timoteo/img/church-cover.jpeg" data-background-size="cover"  data-menu-title="Início"--> 
+<svg width="1920" height="1080" version="1.1" viewBox="0 0 460 240" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <defs>
+  <filter id="filter1805" color-interpolation-filters="sRGB">
+   <feGaussianBlur result="result3" stdDeviation="5"/>
+   <feColorMatrix result="result7" values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 50 0 "/>
+   <feComposite in2="SourceGraphic" operator="in" result="result9"/>
+   <feComposite in="result9" in2="result7" k1="0.5" k3="0.5" operator="arithmetic" result="result1"/>
+   <feBlend in="SourceGraphic" in2="result1" mode="screen" result="result5"/>
+   <feBlend in="result5" in2="result5" mode="darken" result="result6"/>
+   <feComposite in2="SourceGraphic" operator="in" result="result8"/>
+  </filter>
+ </defs>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g style="mix-blend-mode:normal">
+  <text transform="scale(.77136 1.2964)" x="17.6604" y="20.665264" fill="#ffffff" font-family="sans-serif" font-size="23.148px" stroke="#3a3a3a" stroke-width=".3175" style="line-height:1.25" xml:space="preserve"><tspan x="17.6604" y="20.665264" fill="#ffffff" font-family="sans-serif" font-size="23.148px" font-weight="bold" stroke="#3a3a3a" stroke-width=".3175" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">EN LA CASA DE DIOS</tspan></text>
+  <text transform="scale(.91646 1.0912)" x="83.368599" y="33.763767" fill="#000000" font-family="Georgia" font-size="7.5745px" stroke-width=".25912" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25" xml:space="preserve"><tspan x="83.368599" y="33.763767" font-family="Georgia" font-size="7.5745px" stroke-width=".25912" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">UN ESTUDIO DE 1 TIMOTEO</tspan></text>
+  <rect x=".16842" y="128.76" width="237.79" height="22.447" fill="#fff" fill-rule="evenodd" stroke="#000" stroke-linejoin="round" stroke-width=".094103"/>
+  <text x="13.375127" y="142.58911" fill="#000000" font-family="Calibri" font-size="11.289px" stroke-width=".26458" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25" xml:space="preserve"><tspan x="13.375127" y="142.58911" font-family="Calibri" font-size="11.289px" stroke-width=".26458" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">DM2 - HACIENDO HACEDORES DE DISCIPULOS</tspan></text>
+ </g>
+</svg>
 ___
 Copyright © **2018 by DM Multiplied, Inc**
 Todos los derechos reservados.
@@ -33,8 +60,7 @@ Disciple Makers Multiplied**
 **Beaumont, TX 77726**
 **Para más información:**
 ___
-**\
-disciplemakersmultiplied\@gmail.com**d
+**\disciplemakersmultiplied\@gmail.com**
 **www.DM2USA.org**
 ___
 ## 1 Timoteo
@@ -124,21 +150,24 @@ ___
 
 ####            a.  Originalmente una EKKLESIA era una **<u>asamblea</u>** de personas convocadas, llamadas fuera, independientemente de la naturaleza de la reunión.
 
-<!-- .slide: data-background-image="markdown/1-Timoteo/img/assembly.png" data-background-size="300px" data-background-position="left" data-background-opacity="0.5"-->
 #####                1.  Entre otros usos, fue usada en las ciudades-estado griegas para describir a los ciudadanos convocados para un deber **<u>cívico</u>**.
 
+<!-- .slide: data-background-image="markdown/1-Timoteo/img/athens.png" data-background-size="400px" data-background-position="bottom" data-background-opacity="0.5"-->
 #####                2.  En ciudades como Atenas, era considerado un gran honor y un deber solemne **<u>asistir</u>** al llamado. Un heraldo sería enviado a la plaza del mercado de la ciudad para proclamar: \"EKKLESIA, EKKLESIA\".
 
+<!-- .slide: data-background-image="markdown/1-Timoteo/img/assembly.png" data-background-size="300px" data-background-position="left" data-background-opacity="0.5"-->
 #####                3.  Inmediatamente, todos los ciudadanos abandonarían lo que estaban haciendo, dejando el mercado, sus tiendas y sus hogares para asistir a la **<u>reunión</u>**.
 
 ####            b.  Esta convocatoria del estado era para que cada ciudadano **<u>viniera</u>** a cumplir con sus responsabilidades cívicas. Es significativo que las mujeres y los esclavos no eran contados como ciudadanos.
 
 ###        2.  Aunque la palabra EKKLESIA era común en las escrituras seculares, la designación TE EKKLESIA, o \"la iglesia\", era única en el Nuevo Testamento. El uso del artículo definido \"**<u>la</u>**\" (TE) con la palabra \"iglesia\" (EKKLESIA) en la literatura cristiana es evidencia de la naturaleza única de la iglesia del Nuevo Testamento en las mentes de los escritores del Nuevo Testamento.
 
+<!-- .slide: data-background-image="markdown/1-Timoteo/img/class.png" data-background-size="300px" data-background-position="left" data-background-opacity="0.5"-->
 ####            a.  Los autores del Nuevo Testamento se apropiaron de una palabra secular (EKKLESIA), convirtiéndola en un término técnico (TE EKKLESIA) para describir al pueblo de Dios en esta **<u>dispensación</u>**. Este es el uso principal de la palabra en el Nuevo Testamento, aunque su uso secular también es observable, como es visto en los siguientes ejemplos.
 
 #####                1.  En Hechos 7:35-38, Esteban usó el término EKKLESIA para describir a la nación de **<u>Israel</u>** durante el tiempo de su deambular en el desierto.
 
+<!-- .slide: data-background-image="markdown/1-Timoteo/img/temple-artemis.svg" data-background-size="400px" data-background-position="bottom" data-background-opacity="0.5"-->
 #####                2.  En Hechos 19:32 y 9:41, se usó la palabra EKKLESIA para describir a una asamblea de adoradores de **<u>Diana</u>** en Éfeso.
 
 #####                3.  En Hechos 19:39, EKKLESIA se usó para describir a un **<u>tribunal</u>** general de justicia.
@@ -181,13 +210,16 @@ ___
 
 #####                1.  Cuando Jesús dijo: *\"Tú eres Pedro\",* usó la palabra griega PETROS, que significa una **<u>piedra</u>**.
 
-#####                2.  Por otro lado, cuando Jesús habló de la base sobre la cual edificaría la iglesia (*sobre esta roca*), usó la palabra más fuerte PETRA, que significa roca masiva, o incluso un acantilado de roca, junto con el artículo definido \"la\". Jesús no estaba hablando de Pedro, una piedra, sino de la roca masiva TE PETRA, **<u>Jesucristo</u>** Mismo.
+#####                2.  Por otro lado, cuando Jesús habló de la base sobre la cual edificaría la iglesia (*sobre esta roca*), usó la palabra más fuerte PETRA, que significa roca masiva, o incluso un acantilado de roca, junto con el artículo definido \"la\". Jesús no estaba hablando de Pedro, una piedra, sino de la roca masiva TE PETRA, __<u>Jesucristo</u>__ Mismo.
 
 #####                3.  En griego, como en muchos idiomas, el sustantivo y el artículo deben coincidir en género. Como el artículo TE es femenino, encaja con el sustantivo PETRA, pero no con PETROS. El artículo femenino TE no puede referirse al sustantivo masculino PETROS (Pedro). Por lo tanto, cuando Jesús dijo: *\"Sobre esta roca\",* Él **<u>no</u>** se estaba refiriendo a Pedro.
 
 #####                4.  Es interesante que solo unos pocos versículos después, el Espíritu Santo condujo a Mateo a registrar la **<u>reprensión</u>** de Pedro por parte de Cristo, aparentemente reiterando que Pedro no era la roca masiva (TE PETRA) sobre la cual se iba a edificar la iglesia. Mateo 16:22-23
 
 ####            d.  Cristo es la **<u>roca</u>** sobre la cual la iglesia se edifica y se levanta. Mateo 21:42; Hechos 4:11; Romanos 9:33; 1 Corintios 3:11; Efesios 2:20; 1 Pedro 2:4, 6-7
+
+<!-- .slide: data-background-image="markdown/1-Timoteo/img/body-christ.png" data-background-size="contain" -->
+<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5" version="1.1" viewBox="0 0 1920 1080" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"><metadata><rdf:RDF><cc:Work rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/><dc:title/></cc:Work></rdf:RDF></metadata><g clip-rule="evenodd" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5"><rect x="980.36" y="75.168" width="720" height="940" fill="#0071e5" stroke="#f5fffc" stroke-width="3.7"/><text x="1020.7415" y="145.26077" fill="#ffffff" font-family="Calibri" font-size="74.667px" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25" xml:space="preserve"><tspan x="1020.7415" y="145.26077">Conforme a la gracia </tspan><tspan x="1020.7415" y="238.59415">de Dios que me ha </tspan><tspan x="1020.7415" y="331.92752">sido dada, yo como </tspan><tspan x="1020.7415" y="425.26089">perito arquitecto </tspan><tspan x="1020.7415" y="518.5943">puse el fundamento </tspan><tspan x="1020.7415" y="611.92767">[de La Iglesia], </tspan><tspan x="1020.7415" y="705.26105">y otro edifica encima; </tspan><tspan x="1020.7415" y="798.59442">pero cada uno mire </tspan><tspan x="1020.7415" y="891.9278">cómo sobreedifica.</tspan><tspan x="1020.7415" y="985.26117">1 Corintios 3:10</tspan></text></g></svg>
 
 ## C.  Un análisis más profundo de Mateo 16:18
 
@@ -201,7 +233,7 @@ ___
 
 #####                2.  Esto también indica que Cristo no estaba edificando la iglesia durante Su primera venida. Cuando declaró: *\"Edificaré Mi iglesia\",* Él estaba hablando de un tiempo **<u>futuro</u>**. Hechos 2
 
-###        2.  Matthew 16:18b -- ...*sobre esta roca, **edificaré** Mi iglesia.*
+###        2.  Matthew 16:18b -- *...sobre esta roca, **edificaré** Mi iglesia.*
 
 ####            a.  La palabra traducida *edificar* se usó para describir la edificación de un **<u>edificio</u>**. Construir un edificio es un proceso que involucra tiempo, habilidad y obreros. Cristo está edificando progresivamente Su iglesia y los creyentes son Sus *colaboradores*. 1 Corintios 3:5-9, Efesios 4:11-16
 
