@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="900"
+   height="600"
+   viewBox="0 0 238.12501 158.75"
+   version="1.1"
+   id="svg6548">
+  <defs
+     id="defs6542">
+    <rect
+       x="191.60745"
+       y="105.69094"
+       width="19.774435"
+       height="11.137325"
+       id="rect7451" />
+    <rect
+       x="83.189001"
+       y="20.001727"
+       width="37.275946"
+       height="11.137325"
+       id="rect7425" />
+    <rect
+       x="33.411976"
+       y="15.001295"
+       width="46.140348"
+       height="11.59191"
+       id="rect7419" />
+    <rect
+       x="26.138621"
+       y="53.640995"
+       width="58.868723"
+       height="15.455881"
+       id="rect7323" />
+    <rect
+       x="65.005613"
+       y="106.60011"
+       width="187.51619"
+       height="16.137757"
+       id="rect7317" />
+    <rect
+       x="43.075388"
+       y="26.615687"
+       width="60.018991"
+       height="13.351751"
+       id="rect7250" />
+    <rect
+       x="38.368263"
+       y="3.4880239"
+       width="236.02295"
+       height="12.789421"
+       id="rect7202" />
+    <rect
+       x="43.07539"
+       y="26.615686"
+       width="215.48696"
+       height="9.7150742"
+       id="rect7250-8" />
+    <rect
+       x="43.07539"
+       y="26.615686"
+       width="90.703461"
+       height="19.261353"
+       id="rect7263" />
+    <rect
+       x="43.07539"
+       y="26.615686"
+       width="90.703461"
+       height="19.261353"
+       id="rect7250-6" />
+    <rect
+       x="43.07539"
+       y="26.615686"
+       width="90.703461"
+       height="19.261353"
+       id="rect7263-0" />
+    <rect
+       x="26.13862"
+       y="53.640995"
+       width="76.370234"
+       height="34.321146"
+       id="rect7323-5" />
+    <rect
+       x="26.13862"
+       y="53.640995"
+       width="51.595367"
+       height="13.637542"
+       id="rect7336" />
+    <rect
+       x="26.13862"
+       y="53.640995"
+       width="51.595367"
+       height="21.592774"
+       id="rect7323-8" />
+    <rect
+       x="26.13862"
+       y="53.640995"
+       width="51.595367"
+       height="13.637542"
+       id="rect7380" />
+  </defs>
+  <metadata
+     id="metadata6545">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer2" />
+  <g
+     id="layer1">
+    <g
+       id="cross-group"
+       transform="matrix(0.35473547,0,0,0.35473547,15.12284,-47.507375)"
+       style="fill:#01000a;fill-opacity:1;stroke:none">
+      <rect
+         stroke="#000000"
+         id="svg_6"
+         height="100"
+         width="18"
+         y="320.5"
+         x="27.5"
+         opacity="undefined"
+         stroke-opacity="null"
+         stroke-dasharray="none"
+         stroke-width="null"
+         fill="#000000"
+         style="fill:#01000a;fill-opacity:1;stroke:none" />
+      <rect
+         id="svg_7"
+         height="15"
+         width="55"
+         y="338.5"
+         x="9"
+         opacity="undefined"
+         stroke-opacity="null"
+         stroke-dasharray="none"
+         stroke-width="null"
+         stroke="#000000"
+         fill="#000000"
+         style="fill:#01000a;fill-opacity:1;stroke:none" />
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.266903px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 15.232793,101.70336 H 220.10441 Z"
+       id="path7163" />
+    <path
+       fill="currentColor"
+       d="m 213.26063,31.35657 c 0.18817,-0.544603 0.29373,-1.140103 0.29373,-1.761052 0,-2.697565 -1.97353,-4.886156 -4.40602,-4.886156 -0.90416,0 -1.74864,0.305385 -2.44627,0.824539 -1.27132,-2.443078 -3.64416,-4.081977 -6.3658,-4.081977 -4.05721,0 -7.34337,3.644259 -7.34337,8.143594 0,0.137424 0.005,0.274846 0.01,0.41227 -2.57019,1.00268 -4.41521,3.720605 -4.41521,6.916964 0,4.046347 2.96031,7.329235 6.60904,7.329235 h 16.88978 c 3.24486,0 5.8747,-2.916425 5.8747,-6.514874 0,-3.150554 -2.01943,-5.781952 -4.69976,-6.382543 z m -6.61823,3.125105 h -3.0016 v 5.700514 c 0,0.447899 -0.33045,0.81436 -0.73434,0.81436 h -2.20302 c -0.40388,0 -0.73433,-0.366461 -0.73433,-0.81436 v -5.700514 h -3.00161 c -0.65632,0 -0.98218,-0.875437 -0.51863,-1.389501 l 4.83746,-5.364592 c 0.28456,-0.315565 0.7527,-0.315565 1.03725,0 l 4.83745,5.364592 c 0.46355,0.514064 0.13311,1.389501 -0.51863,1.389501 z"
+       id="path7169"
+       style="fill:#ab37c8;fill-opacity:1;stroke-width:0.0483319" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.247227px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 31.173401,10.046276 H 206.9516 Z"
+       id="path7163-5" />
+    <text
+       xml:space="preserve"
+       id="text7200"
+       style="font-style:normal;font-weight:normal;font-size:10.58329999999999949px;line-height:1.25;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect7202);fill:#000000;fill-opacity:1;stroke:none"
+       transform="translate(-37.376814,-5.1029191)"
+       x="80.860435"
+       y="0"><tspan
+         x="67.982459"
+         y="13.143746"><tspan
+           style="text-align:center;text-anchor:middle">Los Tres Tiempos de la Salvacion</tspan></tspan></text>
+    <path
+       fill="currentColor"
+       d="m 40.30132,31.869504 h -2.57487 v -2.57487 c 0,-0.354045 -0.28967,-0.643718 -0.64372,-0.643718 H 35.7953 c -0.35405,0 -0.64372,0.289673 -0.64372,0.643718 v 2.57487 h -2.57487 c -0.35404,0 -0.64372,0.289673 -0.64372,0.643718 v 1.287435 c 0,0.354045 0.28968,0.643718 0.64372,0.643718 h 2.57487 v 2.574871 c 0,0.354044 0.28967,0.643717 0.64372,0.643717 h 1.28743 c 0.35405,0 0.64372,-0.289673 0.64372,-0.643717 v -2.574871 h 2.57487 c 0.35405,0 0.64372,-0.289673 0.64372,-0.643718 v -1.287435 c 0,-0.354045 -0.28967,-0.643718 -0.64372,-0.643718 z m -16.09294,1.931153 c 2.84443,0 5.14974,-2.305314 5.14974,-5.149741 0,-2.844427 -2.30531,-5.149741 -5.14974,-5.149741 -2.84443,0 -5.14974,2.305314 -5.14974,5.149741 0,2.844427 2.30531,5.149741 5.14974,5.149741 z m 3.60482,1.287436 h -0.67188 c -0.89316,0.410369 -1.8869,0.643717 -2.93294,0.643717 -1.04604,0 -2.03576,-0.233348 -2.93294,-0.643717 h -0.67188 c -2.98524,0 -5.40723,2.421987 -5.40723,5.407227 v 1.673666 c 0,1.066156 0.865,1.931153 1.93116,1.931153 h 14.16178 c 1.06616,0 1.93116,-0.864997 1.93116,-1.931153 V 40.49532 c 0,-2.98524 -2.42199,-5.407227 -5.40723,-5.407227 z"
+       id="path7226"
+       style="fill:#008000;fill-opacity:1;stroke-width:0.0402323" />
+    <path
+       fill="currentColor"
+       d="m 121.63276,73.94596 c 1.42058,0 2.57312,-1.152542 2.57312,-2.57312 0,-1.420578 -1.15254,-2.57312 -2.57312,-2.57312 -1.42058,0 -2.57312,1.152542 -2.57312,2.57312 0,1.420578 1.15254,2.57312 2.57312,2.57312 z m 5.06583,7.992757 -1.24903,-0.632562 -0.51999,-1.576038 c -0.78802,-2.390857 -2.98589,-4.063384 -5.4786,-4.06874 -1.92984,-0.0056 -2.99662,0.541421 -5.0015,1.350885 -1.15791,0.466379 -2.10675,1.350891 -2.66425,2.476629 l -0.35917,0.729053 c -0.41813,0.846985 -0.0804,1.876233 0.76121,2.299722 0.83627,0.423496 1.8548,0.08041 2.27829,-0.766574 l 0.35917,-0.729053 c 0.18761,-0.375244 0.49853,-0.670083 0.8845,-0.825543 l 1.43666,-0.578949 -0.81482,3.253921 c -0.27875,1.115021 0.0215,2.299729 0.79874,3.152075 l 3.21104,3.505878 c 0.38597,0.423489 0.65936,0.932751 0.79874,1.484902 l 0.981,3.929374 c 0.23051,0.916667 1.16327,1.479534 2.07994,1.249027 0.91668,-0.23051 1.47954,-1.163261 1.24904,-2.079933 l -1.19007,-4.770996 c -0.13938,-0.552144 -0.41278,-1.066768 -0.79874,-1.484902 l -2.43911,-2.664255 0.92204,-3.682779 0.29484,0.884513 c 0.28411,0.863064 0.89523,1.576038 1.69933,1.983447 l 1.24903,0.632556 c 0.83627,0.423496 1.85479,0.08041 2.27829,-0.766574 0.41277,-0.841623 0.0751,-1.881595 -0.76658,-2.305084 z m -12.27057,7.542459 c -0.17154,0.434213 -0.42885,0.825543 -0.76121,1.152542 l -2.68033,2.685696 c -0.67009,0.670084 -0.67009,1.758294 0,2.428373 0.67008,0.670084 1.75294,0.670084 2.42302,0 l 3.18423,-3.18423 c 0.327,-0.326998 0.58431,-0.718328 0.76122,-1.152541 l 0.72369,-1.811909 c -2.96445,-3.232479 -2.07458,-2.240759 -2.54096,-2.878676 z"
+       id="path7237"
+       style="fill:#00d455;fill-opacity:1;stroke:#000000;stroke-width:0.0536066;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       id="text7248"
+       style="font-style:normal;font-weight:normal;font-size:4.93888999999999978px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect7250);fill:#000000;fill-opacity:1;stroke:none;"
+       transform="translate(-36.986923,18.311154)"><tspan
+         x="43.076172"
+         y="31.121133"><tspan
+           style="font-weight:bold">JUSTIFICACION</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       id="text7248-4"
+       style="font-style:normal;font-weight:normal;font-size:4.93888999999999978px;line-height:1.25;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect7250-8);fill:#000000;fill-opacity:1;stroke:none"
+       transform="translate(-31.656756,18.623346)"
+       x="19.825495"
+       y="0"><tspan
+         x="128.02038"
+         y="31.121133"><tspan
+           style="font-weight:bold;font-size:4.93889px;text-align:center;text-anchor:middle">SANTIFICACION</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       id="text7248-0"
+       style="font-style:normal;font-weight:normal;font-size:4.93888999999999978px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect7250-6);fill:#000000;fill-opacity:1;stroke:none;"
+       transform="translate(137.3523,18.359939)"><tspan
+         x="43.076172"
+         y="31.121133"><tspan
+           style="font-weight:bold;font-size:4.93889px">GLORIFICACION</tspan></tspan></text>
+    <rect
+       style="fill:#00d455;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.097542;stroke-linejoin:round;stroke-opacity:1"
+       id="rect7311"
+       width="176.85817"
+       height="5.4562306"
+       x="31.263304"
+       y="96.20266" />
+    <text
+       xml:space="preserve"
+       id="text7315"
+       style="font-style:normal;font-weight:normal;font-size:4.23332999999999959px;line-height:1.25;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect7317);fill:#ffffff;fill-opacity:1;stroke:none"
+       transform="translate(-39.804526,-10.078991)"
+       x="30.84033"
+       y="0"><tspan
+         x="129.25439"
+         y="110.4618"><tspan
+           style="font-weight:bold;font-size:4.23333px;text-align:center;text-anchor:middle;fill:#ffffff">El Creyente en el Tiempo</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       id="text7321"
+       style="font-style:normal;font-weight:normal;font-size:4.93888999999999978px;line-height:1.25;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect7323);fill:#000000;fill-opacity:1;stroke:none"
+       x="21.052982"
+       y="0"
+       transform="translate(63.533873,-2.5002158)"><tspan
+         x="34.004184"
+         y="58.146524"><tspan
+           style="font-size:4.93889px;text-align:center;text-anchor:middle">Siendo salvos del </tspan></tspan><tspan
+         x="32.72123"
+         y="64.320139"><tspan
+           style="font-style:italic">PODER</tspan><tspan
+           style="font-size:4.93889px;text-align:center;text-anchor:middle"> del pecado</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       id="text7321-6"
+       style="font-style:normal;font-weight:normal;font-size:4.93888999999999978px;line-height:1.25;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect7323-5);fill:#000000;fill-opacity:1;stroke:none;"
+       x="21.052982"
+       y="0"
+       transform="translate(-36.365672,-2.7289526)"><tspan
+         x="44.626536"
+         y="58.146524"><tspan
+           style="font-size:4.93889px;text-align:center;text-anchor:middle">Nos salvo de la 
+</tspan></tspan><tspan
+         x="44.168339"
+         y="64.320139"><tspan
+           style="font-size:4.93889px;text-align:center;text-anchor:middle">PENA de pecado</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       id="text7321-3"
+       style="font-style:normal;font-weight:normal;font-size:4.93888999999999978px;line-height:1.25;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect7323-8);fill:#000000;fill-opacity:1;stroke:none;"
+       x="21.052982"
+       y="0"
+       transform="translate(151.29693,-2.9562445)"><tspan
+         x="28.611844"
+         y="58.146524"><tspan
+           style="shape-inside:url(#rect7323-8)">Seremos salvos de
+</tspan></tspan><tspan
+         x="30.020199"
+         y="64.320139"><tspan
+           style="shape-inside:url(#rect7323-8)">la </tspan><tspan
+           style="font-style:italic">PRESENCIA</tspan><tspan
+           style="shape-inside:url(#rect7323-8)"> del
+</tspan></tspan><tspan
+         x="43.11501"
+         y="70.493753"><tspan
+           style="shape-inside:url(#rect7323-8)">pecado</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       id="text7417"
+       style="font-style:normal;font-weight:normal;font-size:10.58329999999999949px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect7419);fill:#000000;fill-opacity:1;stroke:none;"><tspan
+         style="visibility:hidden"
+         x="33.412109"
+         y="36.249215"><tspan
+           dx="0 6.3871865 6.3665156 5.5190258 6.3665161 6.5938911">Pasado</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       id="text7423"
+       style="fill:black;fill-opacity:1;line-height:1.25;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:10.58333333000000032px;white-space:pre;shape-inside:url(#rect7425);" />
+    <path
+       fill="currentColor"
+       d="m 215.98087,78.083411 -8.60312,-6.687605 c -0.78487,-0.609869 -2.12467,-0.610766 -2.91062,0 l -8.60386,6.687605 c -1.17554,0.913555 -0.27937,2.408133 1.4553,2.408133 h 5.2939 v 16.240893 h -6.94896 a 0.99266108,0.71627111 0 0 0 -0.70213,0.209872 l -4.63396,3.343721 c -0.62558,0.45134 -0.18255,1.22314 0.70212,1.22314 h 16.21689 c 1.09684,0 1.98598,-0.64157 1.98598,-1.43302 V 80.491544 h 5.29315 c 1.72764,0 2.63565,-1.490878 1.45531,-2.408133 z"
+       id="path7438"
+       style="fill:#00d455;fill-opacity:1;stroke-width:0.0702914" />
+    <text
+       xml:space="preserve"
+       id="text7449"
+       style="font-style:normal;font-weight:normal;font-size:10.58329999999999949px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect7451);fill:#000000;fill-opacity:1;stroke:none;"><tspan
+         style="visibility:hidden"
+         x="191.60742"
+         y="126.48359"><tspan
+           dx="0 7.3587008 6.3665161 6.5938921 4.1754417">Rapto</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="200.29773"
+       y="78.192108"
+       id="text7457"><tspan
+         id="tspan7455"
+         x="200.29773"
+         y="78.192108"
+         style="font-size:3.52778px;fill:#ffffff;stroke-width:0.264583">Rapto</tspan></text>
+    <g
+       id="tit3.5"
+       transform="translate(2.595851,2.5551703)">
+      <rect
+         style="fill:#008000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0997412;stroke-linejoin:round;stroke-opacity:1"
+         id="rect7487"
+         width="214.78731"
+         height="18.081417"
+         x="9.0964994"
+         y="101.70251" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:1.05;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="13.63754"
+         y="109.55846"
+         id="text7461"><tspan
+           id="tspan7459"
+           x="13.63754"
+           y="109.55846"
+           style="font-weight:bold;font-size:6.35px;fill:#ffffff;stroke-width:0.264583">Tito 3:5 nos salvó...no por obras de justicia que nosotros </tspan><tspan
+           x="13.63754"
+           y="116.9668"
+           style="font-weight:bold;font-size:6.35px;fill:#ffffff;stroke-width:0.264583"
+           id="tspan7477">hubiéramos hecho sino por su misericordia...</tspan></text>
+    </g>
+    <g
+       id="1co1.18"
+       transform="translate(2.6161852,2.6565883)">
+      <rect
+         style="fill:#00d455;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0997303;stroke-linejoin:round;stroke-opacity:1"
+         id="rect7487-2"
+         width="214.7403"
+         height="18.081377"
+         x="9.0996714"
+         y="119.78224" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:6.35px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="12.54438"
+         y="126.74744"
+         id="text7465"><tspan
+           x="12.54438"
+           y="126.74744"
+           style="font-weight:bold;font-size:6.35px;fill:#ffffff;stroke-width:0.264583"
+           id="tspan7475">1Corintios 1:18  Porque la palabra de la cruz es...a los que</tspan><tspan
+           x="12.54438"
+           y="134.68494"
+           style="font-weight:bold;font-size:6.35px;fill:#ffffff;stroke-width:0.264583"
+           id="tspan7485"> se salvan...es poder de Dios.</tspan></text>
+    </g>
+    <g
+       id="rom5.9"
+       transform="translate(2.5713463,2.757392)">
+      <rect
+         style="fill:#ab37c8;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0997371;stroke-linejoin:round;stroke-opacity:1"
+         id="rect7487-5"
+         width="214.78406"
+         height="18.080191"
+         x="9.0991249"
+         y="137.86255" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:6.48241px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.2701"
+         x="12.578422"
+         y="147.80064"
+         id="text7469"
+         transform="scale(1.0208519,0.97957404)"><tspan
+           x="12.578422"
+           y="147.80064"
+           style="font-weight:bold;font-size:6.48241px;fill:#ffffff;stroke-width:0.2701"
+           id="tspan7471">Romanos 5:9 ...estando ya justificados...por él seremos </tspan><tspan
+           x="12.578422"
+           y="155.90366"
+           style="font-weight:bold;font-size:6.48241px;fill:#ffffff;stroke-width:0.2701"
+           id="tspan7481">salvos de la ira.</tspan></text>
+    </g>
+  </g>
+</svg>
