@@ -365,7 +365,7 @@ ___
 
 #####                2.  Hechos 1:2 -- *Hasta el día en que fue recibido arriba, después de haber dado mandamientos por el Espíritu Santo a los **<u>apóstoles</u>** que había escogido*. Hechos 1:8-26, 2:14
 
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/seis.png" data-background-size="300px" data-background-position="left" data-background-opacity="0.5"-->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/seispng.png" data-background-size="300px" data-background-position="left" data-background-opacity="0.5"-->
 ####            f.  Seis: Otra indicación de que la iglesia comenzó en el Día de Pentecostés es que en Hechos 5:11, el mismo año de los acontecimientos de Hechos 2, la iglesia ya estaba en existencia, como se muestra en el registro de Lucas: *Y vino gran temor sobre toda la **<u>iglesia</u>**, y sobre todos los que oyeron estas cosas*.
 
 <!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/siete.png" data-background-size="300px" data-background-position="left" data-background-opacity="0.5"-->
