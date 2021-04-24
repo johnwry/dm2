@@ -153,9 +153,11 @@ ___
 #####                1.  Entre otros usos, fue usada en las ciudades-estado griegas para describir a los ciudadanos convocados para un deber **<u>cívico</u>**.
 
 <!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/athens.png" data-background-size="400px" data-background-position="bottom" data-background-opacity="0.5"-->
+
 #####                2.  En ciudades como Atenas, era considerado un gran honor y un deber solemne **<u>asistir</u>** al llamado. Un heraldo sería enviado a la plaza del mercado de la ciudad para proclamar: \"EKKLESIA, EKKLESIA\".
 
 <!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/assembly.png" data-background-size="300px" data-background-position="left" data-background-opacity="0.5"-->
+
 #####                3.  Inmediatamente, todos los ciudadanos abandonarían lo que estaban haciendo, dejando el mercado, sus tiendas y sus hogares para asistir a la **<u>reunión</u>**.
 
 ####            b.  Esta convocatoria del estado era para que cada ciudadano **<u>viniera</u>** a cumplir con sus responsabilidades cívicas. Es significativo que las mujeres y los esclavos no eran contados como ciudadanos.
@@ -184,6 +186,7 @@ ___
 
 #####                1.  Refiriéndose a la iglesia universal en Mateo 16:18b, Jesús dijo: *\"Edificaré Mi __<u>iglesia</u>__; y las puertas del Hades no prevalecerán contra ella".*
 
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/body-christ.png"  data-background-size="1200px" -->
 #####                2.  Además, Efesios 1:22-23 habla de la iglesia universal cuando dice que Dios dio a Jesús *por cabeza sobre todas las cosas a la iglesia, la cual es Su **<u>cuerpo</u>**.*
 
 <!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/scroll.png" data-background-size="300px" data-background-position="left" data-background-opacity="0.5"-->
@@ -376,6 +379,8 @@ ___
 #####                2.  En 1 Corintios 15:9, el apóstol Pablo dijo: \"*Porque yo soy el más pequeño de los apóstoles, que no soy digno de ser llamado apóstol, porque perseguí a la **<u>iglesia</u>** de Dios*\". Hechos 8:3
 
 # II. Características Distintivas de la Iglesia del Nuevo Testamento
+
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/body-christ.png"  data-background-size="400px" data-background-position="bottom" data-background-opacity="0.5" -->
 
 ##    A.  La iglesia es el <u>cuerpo</u> de Cristo en la tierra
 
