@@ -185,6 +185,32 @@
 
 			});
 
+      Reveal.on( 'slidechanged', event => {
+				// event.previousSlide, event.currentSlide, event.indexh, event.indexv
+				console.log("----------------");
+				console.log(event.currentSlide);
+				console.log(event.indexh+","+ event.indexv);
+				for(var i=0; i<event.currentSlide.childNodes.length; i++){
+					if(event.currentSlide.childNodes[0].localName){
+
+						if(event.currentSlide.childNodes[i].localName == "h2"){
+							console.log("si es h2")
+							var h = event.currentSlide.childNodes[i].localName;
+							document.getElementById("titleSpan").innerText = event.currentSlide.childNodes[i].textContent;
+							i = event.currentSlide.childNodes.length;
+						}
+						else{
+							document.getElementById("titleSpan").innerText="NO h2";
+							console.log("NO h2")
+						}
+					}else{
+						console.log("sale")
+						document.getElementById("titleSpan").innerText = "";
+						i = event.currentSlide.childNodes.length;
+					}
+				}
+			});
+
 
 		</script>
 
