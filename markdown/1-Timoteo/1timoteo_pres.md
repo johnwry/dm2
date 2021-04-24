@@ -309,7 +309,7 @@ ___
 
 #####                2.  Como se mencionó anteriormente, Jesús pudo haber dicho, "He estado edificando Mi iglesia," o "Estoy edificando Mi iglesia," pero no lo hizo. Él escogió decir, "*__<u>Edificaré</u>__ Mi iglesia*".
 
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/dos.png" data-background-size="300px" data-background-position="left" data-background-opacity="0.5"-->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/two.png" data-background-size="300px" data-background-position="left" data-background-opacity="0.5"-->
 ####            b.  Dos: El apóstol Pedro describió lo que sucedió en el día de Pentecostés como el **<u>bautismo</u>** del Espíritu Santo.
 
 #####                1.  1 Corintios 12:13 -- *Porque por un solo Espíritu fuimos todos bautizados en un cuerpo, sean judíos o griegos, sean esclavos o libres; y a todos se nos dio a beber de un mismo Espíritu.* Sabemos por este versículo que todo creyente es bautizado en el cuerpo de Cristo. El bautismo en el __<u>Espíritu</u>__ es el medio de Dios para colocar a los creyentes en la iglesia, que es el cuerpo de Cristo.
