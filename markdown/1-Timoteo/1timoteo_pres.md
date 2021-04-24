@@ -302,13 +302,14 @@ ___
 
 ###        2.  Los autores de este currículo enseñan que la iglesia comenzó en el día de **<u>Pentecostés</u>** como se registra en Hechos 2. Aquí hay siete puntos que nos llevan a concluir que la iglesia comenzó el día de pentecostés, no antes ni después.
 
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/uno.png" data-background-size="300px" data-background-position="left" data-background-opacity="0.5"-->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/one.png" data-background-size="300px" data-background-position="left" data-background-opacity="0.5"-->
 ####            a.  Uno: Cuando Cristo dijo que Él edificaría Su iglesia, aún era **<u>futuro</u>** para Su ministerio terrenal.
 
 #####                1.  Cuando Jesús dijo en Mateo 16:18, \"*Edificaré Mi iglesia,*\" Él usó la forma indicativa, activa y futura del verbo edificar, indicando que Él comenzaría a edificar la iglesia en algún momento **<u>después</u>** de haber hecho esta declaración.
 
 #####                2.  Como se mencionó anteriormente, Jesús pudo haber dicho, "He estado edificando Mi iglesia," o "Estoy edificando Mi iglesia," pero no lo hizo. Él escogió decir, "*__<u>Edificaré</u>__ Mi iglesia*".
 
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/dos.png" data-background-size="300px" data-background-position="left" data-background-opacity="0.5"-->
 ####            b.  Dos: El apóstol Pedro describió lo que sucedió en el día de Pentecostés como el **<u>bautismo</u>** del Espíritu Santo.
 
 #####                1.  1 Corintios 12:13 -- *Porque por un solo Espíritu fuimos todos bautizados en un cuerpo, sean judíos o griegos, sean esclavos o libres; y a todos se nos dio a beber de un mismo Espíritu.* Sabemos por este versículo que todo creyente es bautizado en el cuerpo de Cristo. El bautismo en el __<u>Espíritu</u>__ es el medio de Dios para colocar a los creyentes en la iglesia, que es el cuerpo de Cristo.
@@ -335,12 +336,14 @@ ___
 
 ######                       iii. Hechos 11:17 -- *Si Dios, pues, les concedió también el mismo **<u>don</u>** que a nosotros que hemos creído en el Señor Jesucristo, ¿quién era yo que pudiese estorbar a Dios?*
 
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/tres.png" data-background-size="300px" data-background-position="left" data-background-opacity="0.5"-->
 ####            c.  Tres: La iglesia no comenzó hasta después de que Cristo fue **<u>sentado</u>** a la diestra de Dios el Padre en el cielo. No fue sino hasta después de que fue exaltado que Cristo se convirtió en la cabeza de la iglesia y equipó a la iglesia con dones espirituales.
 
 #####                1.  Efesios 1:20-23 nos dice que cuando Dios el Padre resucitó a Cristo *de los muertos y sentándole a Su diestra en los lugares celestiales \... sometió todas las cosas bajo Sus pies, y lo dio por **<u>cabeza</u>** sobre todas las cosas a la iglesia, la cual es Su cuerpo, la plenitud de Aquel que todo lo llena en todo*.
 
 #####                2.  Efesios 4:8-13 -- *Por lo cual dice: Subiendo a lo **<u>alto</u>**, llevó cautiva la cautividad, Y dio dones a los hombres\... Y Él mismo constituyó a unos, apóstoles; a otros, profetas; a otros, evangelistas; a otros, pastores y maestros, a fin de perfeccionar* \['capacitar' -- LBLA\] *a los santos para la obra del ministerio, para la edificación del cuerpo de Cristo*...
 
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/cuatro.png" data-background-size="300px" data-background-position="left" data-background-opacity="0.5"-->
 ####            d.  Cuatro: Una de las características determinantes de la iglesia es la **<u>morada</u>** permanente del Espíritu Santo. Esto comenzó el día de Pentecostés. Romanos 8:9, 1 Corintios 3:16
 
 #####                1.  En Juan 14:16-17, Jesús habló de esta morada permanente cuando dijo: \"*Y Yo rogaré al Padre, y os dará otro Consolador, para que esté con vosotros para siempre: el Espíritu de verdad\... vosotros Le conocéis, porque mora con vosotros, __y estará <u>en</u> vosotros__.*\"
@@ -355,14 +358,17 @@ ___
 
 #####                3.  Pedro confirmó que todos los creyentes, tanto judíos como gentiles, **<u>recibieron</u>** el Espíritu Santo por medio de la fe en Cristo comenzando en Pentecostés. *\"Si Dios, pues, les concedió también el mismo don que a nosotros que hemos creído en el Señor Jesucristo, ¿quién era yo que pudiese estorbar a Dios?\"* Hechos 11:17
 
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/cinco.png" data-background-size="300px" data-background-position="left" data-background-opacity="0.5"-->
 ####            e.  Cinco: La iglesia está construida sobre la base de los profetas y **<u>apóstoles</u>** del Nuevo Testamento, cuyo ministerio comenzó el Día de Pentecostés.
 
 #####                1.  Efesios 2:19-22 dice que la iglesia está edificada *sobre el fundamento de los apóstoles y profetas, siendo la principal piedra del ángulo Jesucristo mismo*, indicando que la iglesia comenzó con el Señor Jesucristo y los apóstoles y profetas del **<u>Nuevo</u>** Testamento. Colosenses 1:24-27
 
 #####                2.  Hechos 1:2 -- *Hasta el día en que fue recibido arriba, después de haber dado mandamientos por el Espíritu Santo a los **<u>apóstoles</u>** que había escogido*. Hechos 1:8-26, 2:14
 
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/seis.png" data-background-size="300px" data-background-position="left" data-background-opacity="0.5"-->
 ####            f.  Seis: Otra indicación de que la iglesia comenzó en el Día de Pentecostés es que en Hechos 5:11, el mismo año de los acontecimientos de Hechos 2, la iglesia ya estaba en existencia, como se muestra en el registro de Lucas: *Y vino gran temor sobre toda la **<u>iglesia</u>**, y sobre todos los que oyeron estas cosas*.
 
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/siete.png" data-background-size="300px" data-background-position="left" data-background-opacity="0.5"-->
 ####            g.  Siete: Puesto que la iglesia comenzó en Hechos **<u>2</u>** en el día de Pentecostés, no pudo haber comenzado con el apóstol Pablo, como algunos afirman.
 
 #####                1.  En Romanos 16:7, el apóstol Pablo declaró que Andrónico y Junias estaban *en Cristo* antes que él. Solo a los miembros del cuerpo de Cristo, la iglesia, son referidos como estando **<u>en</u> <u>Cristo</u>**. Efesios 1:3-4
