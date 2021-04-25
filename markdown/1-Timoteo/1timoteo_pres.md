@@ -1,5 +1,5 @@
 <!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/church-cover.jpeg" data-background-size="cover"  data-menu-title="Início"--> 
-<svg width="1920" height="1080" version="1.1" viewBox="0 0 460 240" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<svg width="1920" height="1080" version="1.1" viewBox="0 0 460 250" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
  <defs>
   <filter id="filter1805" color-interpolation-filters="sRGB">
    <feGaussianBlur result="result3" stdDeviation="5"/>
@@ -153,11 +153,10 @@ ___
 #####                1.  Entre otros usos, fue usada en las ciudades-estado griegas para describir a los ciudadanos convocados para un deber **<u>cívico</u>**.
 
 <!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/athens.png" data-background-size="400px" data-background-position="bottom" data-background-opacity="0.5"-->
-
 #####                2.  En ciudades como Atenas, era considerado un gran honor y un deber solemne **<u>asistir</u>** al llamado. Un heraldo sería enviado a la plaza del mercado de la ciudad para proclamar: \"EKKLESIA, EKKLESIA\".
+Note: Dentro del sistema democrático Atense, había un grupo llamado ekklesia - una asamblea popular compuesta de ciudadanos con un mínimo de 30 años de edad. Esta asamblea votaba por decretos, tratados, propuestas de leyes y para algunos magistrados. Eran convocados para reunirse y levantaban la mano para votar. 
 
 <!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/assembly.png" data-background-size="300px" data-background-position="left" data-background-opacity="0.5"-->
-
 #####                3.  Inmediatamente, todos los ciudadanos abandonarían lo que estaban haciendo, dejando el mercado, sus tiendas y sus hogares para asistir a la **<u>reunión</u>**.
 
 ####            b.  Esta convocatoria del estado era para que cada ciudadano **<u>viniera</u>** a cumplir con sus responsabilidades cívicas. Es significativo que las mujeres y los esclavos no eran contados como ciudadanos.
@@ -186,7 +185,7 @@ ___
 
 #####                1.  Refiriéndose a la iglesia universal en Mateo 16:18b, Jesús dijo: *\"Edificaré Mi __<u>iglesia</u>__; y las puertas del Hades no prevalecerán contra ella".*
 
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/body-christ.png"  data-background-size="1200px" -->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/body-christ.png"  data-background-size="600px" data-background-opacity="0.5" data-background-position="top"-->
 #####                2.  Además, Efesios 1:22-23 habla de la iglesia universal cuando dice que Dios dio a Jesús *por cabeza sobre todas las cosas a la iglesia, la cual es Su **<u>cuerpo</u>**.*
 
 <!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/scroll.png" data-background-size="300px" data-background-position="left" data-background-opacity="0.5"-->
@@ -690,7 +689,7 @@ ___
 
 ##     A.  Pablo, el autor de la epístola
 
-###         1.  1 Timoteo 1:1a -- *Pablo*... Pablo firmó su nombre como el **<u>escritor</u>** de esta carta.
+###         1.  1 Timoteo 1:1a -- *Pablo...* Pablo firmó su nombre como el **<u>escritor</u>** de esta carta.
 
 ####            a.  Al nacer, Pablo recibió el nombre judío, Saulo. Saulo quería decir pedido, grande o el de **<u>gran</u>** importancia.
 
@@ -744,9 +743,9 @@ ___
 
 ####             a.  Pablo fue un apóstol **<u>no</u>** por ambición personal o por nombramiento humano, sino por la autoridad de Dios. Hechos 9:3-6, Gálatas 1:1, 1 Corintios 1:1, 2 Timoteo 1:1, Tito 1:1
 
-####             b.  Dios es descrito aquí como *nuestro Salvador*. Salvador significa **<u>libertador</u>**. Antes de que comenzara el tiempo, era el plan de Dios el Padre rescatar a la humanidad de Satanás, el pecado y la muerte a través de la obra de Dios el Hijo. Hechos 2:23; 1 Pedro 1: 20-21
+####             b.  Dios es descrito aquí como *nuestro Salvador.* Salvador significa **<u>libertador</u>**. Antes de que comenzara el tiempo, era el plan de Dios el Padre rescatar a la humanidad de Satanás, el pecado y la muerte a través de la obra de Dios el Hijo. Hechos 2:23; 1 Pedro 1: 20-21
 
-###         4.  1 Timoteo 1: 1d -- *Jesucristo nuestra esperanza*\... La esperanza aquí habla del deseo de algo bueno con la expectativa de obtenerlo. Es gracias a que Jesucristo pagó la pena por nuestros pecados en la cruz, que todos aquellos que creen en Él pueden esperar con **<u>confianza</u>** vivir con Dios en el cielo para siempre. Juan 3:16
+###         4.  1 Timoteo 1:1d -- *Jesucristo nuestra esperanza*\... La esperanza aquí habla del deseo de algo bueno con la expectativa de obtenerlo. Es gracias a que Jesucristo pagó la pena por nuestros pecados en la cruz, que todos aquellos que creen en Él pueden esperar con **<u>confianza</u>** vivir con Dios en el cielo para siempre. Juan 3:16
 
 ##     B.  Timoteo, el receptor de la epístola
 
@@ -772,13 +771,13 @@ ___
 
 #####                 2.  Pablo creía que la **<u>vida</u>** cristiana se vivía por gracia. ¿Y tú?
 
-####             b.  ***<u>Misericordia</u>*** (para ti): este es un deseo extra no incluido típicamente en otras cartas paulinas.
+####             b.  *__<u>Misericordia</u>__* (para ti): este es un deseo extra no incluido típicamente en otras cartas paulinas.
 
 #####                 1.  La misericordia de Dios es **<u>no</u>** darle a alguien el sufrimiento o el castigo que ellos merecen. Es verdaderamente una bendición que Dios sea un Dios de misericordia.
 
 #####                 2.  Pablo sabía que Timoteo, como todos nosotros, era un pecador **<u>salvo</u>** por gracia. Romanos 7:13-25
 
-####             c.  ***<u>Paz</u>*** (para ti): Un típico deseo judío para un medio-judío (Timoteo).
+####             c.  *__<u>Paz</u>__* (para ti): Un típico deseo judío para un medio-judío (Timoteo).
 
 #####                 1.  La paz proviene de un entendimiento de la **<u>gracia</u>** de Dios.
 
@@ -844,11 +843,11 @@ ___
 
 #####                3.  Aunque no es seguro, estas fábulas o mitos y genealogías interminables muy probablemente se refieren a escritos rabínicos basados en gran parte en una interpretación **<u>alegórica</u>** de la Escritura.
 
-#####                4.  La razón por la cual Pablo usó la palabra ***<u>interminables</u>*** es porque la única limitación en la interpretación alegórica es la creatividad y el ingenio del maestro.
+#####                4.  La razón por la cual Pablo usó la palabra *__<u>interminables</u>__* es porque la única limitación en la interpretación alegórica es la creatividad y el ingenio del maestro.
 
 ####            g.  1 Timoteo 1:4b -- \...*que acarrean disputas* \['a discusiones inútiles -- LBLA\]\... Estas fábulas y genealogías interminables conducían solo a especulaciones sin fundamento. No puedes construir tu vida cristiana sobre ese tipo de **<u>conjeturas</u>**. Es este tipo de cosas las que causan *vana palabrería* (1 Timoteo 1:6b), lo que lleva a la controversia y también desalienta el crecimiento de los creyentes.
 
-####            h.  1 Timoteo 1:4c -- \...*más bien que edificación de Dios que es por fe*. Estas disputas no avanzaban la obra de Dios. Este tipo de discusión conduce invariablemente a preguntas y **<u>dudas</u>**, y socava la fe en Dios y en Su Palabra.
+####            h.  1 Timoteo 1:4c -- \...*más bien que edificación de Dios que es por fe.* Estas disputas no avanzaban la obra de Dios. Este tipo de discusión conduce invariablemente a preguntas y **<u>dudas</u>**, y socava la fe en Dios y en Su Palabra.
 
 ###        2.  1 Timoteo 1:5-7 -- Pablo **<u>comparó</u>** el resultado esperado de la sana enseñanza con el resultado destructivo de la falsa enseñanza.
 
@@ -862,13 +861,13 @@ ___
 
 ######                     b.  1 Corintios 13:13 -- *Y ahora permanecen la fe, la esperanza y el amor, estos tres; pero el **<u>mayor</u>** de ellos es el amor*.
 
-####            b.  1 Timoteo 1:5b -- \...*el amor nacido de corazón limpio, y de buena conciencia, y de fe no fingida*. Pablo no estaba personalmente en contra de estos maestros, pero lo que estaban enseñando no estaba promoviendo el amor en la iglesia. Ese fue el **<u>problema</u>**. La meta de la enseñanza es estimular el amor en el cuerpo de Cristo. Efesios 4:15-16
+####            b.  1 Timoteo 1:5b -- \...*el amor nacido de corazón limpio, y de buena conciencia, y de fe no fingida.* Pablo no estaba personalmente en contra de estos maestros, pero lo que estaban enseñando no estaba promoviendo el amor en la iglesia. Ese fue el **<u>problema</u>**. La meta de la enseñanza es estimular el amor en el cuerpo de Cristo. Efesios 4:15-16
 
 #####                1.  Pablo quería que las correcciones de Timoteo promovieran el amor nacido de un *corazón __<u>limpio</u>__*. Un corazón limpio es un corazón puro o claro, lo opuesto a un corazón engañoso.
 
 #####                2.  Pablo quería que las correcciones de Timoteo promovieran el amor nacido de una *buena **<u>conciencia</u>***. Una buena conciencia significa que no tienes conciencia culpable.
 
-#####                3.  Pablo quería que las correcciones de Timoteo promovieran el amor nacido de una *fe no fingida*. Una fe no fingida significa que estás genuinamente **<u>dependiendo</u>** del Señor.
+#####                3.  Pablo quería que las correcciones de Timoteo promovieran el amor nacido de una *fe no fingida.* Una fe no fingida significa que estás genuinamente **<u>dependiendo</u>** del Señor.
 
 #####                4.  Los **<u>falsos</u>** maestros rutinariamente rechazan un corazón limpio, una buena conciencia y una fe no fingida. Esto fue un problema con los maestros en Éfeso. 1 Timoteo 1:19-20
 

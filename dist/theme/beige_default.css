@@ -111,7 +111,57 @@
  .reveal h1 {
    text-shadow: 0 1px 0 #ccc, 0 2px 0 #c9c9c9, 0 3px 0 #bbb, 0 4px 0 #b9b9b9, 0 5px 0 #aaa, 0 6px 1px rgba(0, 0, 0, 0.1), 0 0 5px rgba(0, 0, 0, 0.1), 0 1px 3px rgba(0, 0, 0, 0.3), 0 3px 5px rgba(0, 0, 0, 0.2), 0 5px 10px rgba(0, 0, 0, 0.25), 0 20px 20px rgba(0, 0, 0, 0.15);
  }
- 
+#titleSpan {
+  color:#564826; 
+  font-size: x-large;
+  padding-top:10px;
+  padding-bottom:10px;
+  text-transform:uppercase;
+  padding-left: 5%;
+  background-color:#c0a86e;
+  display:block;
+  width:100%;
+}#titleSpan::first-letter{
+
+  color:transparent;
+}
+
+/* this is for header numbering 
+
+
+h2:before {
+    counter-increment: h2counter;
+    content: counter(h2counter) ".\0000a0\0000a0";
+}
+
+h3:before {
+  color:#c0a86e;
+  font-size:18px;
+  position: absolute;
+  left: 0px;
+  content: "-•-•->";
+}
+
+h4:before {
+  color:#c0a86e;
+  font-size:18px;
+  position: absolute;
+  left: 0px;
+  content: "-•-•-•->";
+}
+
+h5:before {
+    counter-increment: h5counter;
+    content: counter(h2counter) "." counter(h3counter) "." counter(h4counter) "." counter(h5counter) ".\0000a0\0000a0";
+}
+
+h6:before {
+    counter-increment: h6counter;
+    content: counter(h2counter) "." counter(h3counter) "." counter(h4counter) "." counter(h5counter) "." counter(h6counter) ".\0000a0\0000a0";
+}
+
+ END HEADER NUMBERING */
+
  .reveal u {
      color:#8b743d;
      font-weight:400;
