@@ -58,7 +58,7 @@ ___
 **Beaumont, TX 77726**
 **Para más información:**
 ___
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/logo-opt.svg" data-background-size="400px" data-background-position="bottom" -->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/DM2logo.png" data-background-size="400px" data-background-position="bottom" -->
 **disciplemakersmultiplied@gmail.com**
 www.DM2USA.org
 ___
