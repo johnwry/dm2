@@ -27,11 +27,10 @@
   <text x="13.375127" y="142.58911" fill="#000000" font-family="Calibri" font-size="11.289px" stroke-width=".26458" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25" xml:space="preserve"><tspan x="13.375127" y="142.58911" font-family="Calibri" font-size="11.289px" stroke-width=".26458" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">DM2 - HACIENDO HACEDORES DE DISCIPULOS</tspan></text>
  </g>
 </svg>
-Note: Timoteo es recomendado por su iglesia: Hechos 16:2
-Circuncidado por Pablo por tener acceso a los judios: Hechos 16:3
+Note: Pablo habia conocido a Timoteo unos 10 años antes. Timoteo es un joven que fué recomendado por su iglesia: Hechos 16:2. Circuncidado por Pablo por tener acceso a ministrar a los judios: Hechos 16:3
 Timoteo era joven todavia, madre judia padre griego. 
 Problema fisico? 1 Tim 5:23 - en vez de solo agua mezclar con vino. 
-
+Timoteo ayudó a Pablo a escribir a las segunda carta a los Corintios. 
 ___
 Copyright © **2018 by DM Multiplied, Inc**
 Todos los derechos reservados.
@@ -72,7 +71,7 @@ ___
 |--------------|-----|
 |El uso de la palabra Iglesia en el Nuevo Testamento| 7|
 |La primera mención de la palabra iglesia en la Biblia -- Mateo 16:18| 8|
-|Un análisis más profundo de Mateo16:18| 9|
+|Un análisis más profundo de Mateo 16:18| 9|
 |¿Cuándo comenzó́ la iglesia?| 11|
 ___
 |**Características Distintivas de la Iglesia del Nuevo Testamento**| **15**|
@@ -146,6 +145,8 @@ ___
 
 # 1 Timoteo
 En la Casa de Dios
+Note: ¿Cómo te comportas en casa? ¿Cómo te comportas en la casa de otra persona? Una cosa es hacer las cosas como quieres en tu propia casa; otra cosa es hacer lo que quieres en la casa de otra persona. 
+Timoteo es como un hijo para Pablo. Sin embargo le escribe una carta muy formal. Un padre generalmente no escribe una carta tan formal a su hijo. POrque? Es porque trata de un tema muy importante, no era un tema liviano ni sujetivo según el concepto de iglesia de Pablo sino de Jesucristo. 
 
 <!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/church-cover.jpeg" data-background-size="cover"  data-menu-title="I.  La Iglesia: Información General"--> 
 # I.  La Iglesia: Información General 
@@ -173,19 +174,26 @@ Note: Dentro del sistema democrático Atense, había un grupo llamado ekklesia -
 ####            a.  Los autores del Nuevo Testamento se apropiaron de una palabra secular (EKKLESIA), convirtiéndola en un término técnico (TE EKKLESIA) para describir al pueblo de Dios en esta **<u>dispensación</u>**. Este es el uso principal de la palabra en el Nuevo Testamento, aunque su uso secular también es observable, como es visto en los siguientes ejemplos.
 
 #####                1.  En Hechos 7:35-38, Esteban usó el término EKKLESIA para describir a la nación de **<u>Israel</u>** durante el tiempo de su deambular en el desierto.
+Note: Hechos 7:35-38 A este Moisés, a quien habían rechazado, diciendo: ¿Quién te ha puesto por gobernante y juez?, a éste lo envió Dios como gobernante y libertador por mano del ángel que se le apareció en la zarza. Éste los sacó, habiendo hecho prodigios y señales en tierra de Egipto, y en el Mar Rojo, y en el desierto por cuarenta años.  Este Moisés es el que dijo a los hijos de Israel: Profeta os levantará el Señor vuestro Dios de entre vuestros hermanos, como a mí; a él oiréis. Éste es aquel Moisés que estuvo en la congregación [Asamblea - EKKLESIA] en el desierto con el ángel que le hablaba en el monte Sinaí, y con nuestros padres, y que recibió palabras de vida que darnos
 
 <!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/temple-artemis.svg" data-background-size="400px" data-background-position="bottom" data-background-opacity="0.5"-->
 #####                2.  En Hechos 19:32 y 9:41, se usó la palabra EKKLESIA para describir a una asamblea de adoradores de **<u>Diana</u>** en Éfeso.
+Note: Hechos 19:32  Así que unos gritaban una cosa y otros otra, porque había confusión en la asamblea, y la mayoría no sabía por qué razón se habían reunido. 
+Hechos 9:41  Y él le dio la mano y la levantó; y llamando a los santos y a las viudas, la presentó viva.
 
 #####                3.  En Hechos 19:39, EKKLESIA se usó para describir a un **<u>tribunal</u>** general de justicia.
+Note: Hechos 19:39  Pero si demandáis algo más que esto, se decidirá en asamblea legítima.
 
 ####            b.  El **<u>contexto</u>** determina si se está refiriendo a una asamblea secular o específicamente a la iglesia de Jesucristo. Hechos 20:17, 28
+Note: Hechos 20:17  Y desde Mileto mandó mensaje a Efeso y llamó a los ancianos de la iglesia.
+Hechos 20:28  Tened cuidado de vosotros y de toda la grey, en medio de la cual el Espíritu Santo os ha hecho obispos para pastorear la iglesia de Dios, la cual Él compró con su propia sangre.
 
 ###        3.  Cuando se refiere específicamente a la iglesia de Jesucristo en el Nuevo Testamento, la palabra iglesia se refiere tanto a la iglesia universal como a iglesias **<u>locales</u>** específicas.
 
 ####            a.  La distinción entre las dos es que la iglesia local es un grupo **<u>autónomo</u>** de creyentes en Cristo, unidos tanto geográfica como espiritualmente; mientras que la iglesia universal se refiere a todos los creyentes en Cristo, sin importar dónde se encuentren en el mundo.
 
 ####            b.  El uso principal de la palabra EKKLESIA en el Nuevo Testamento se refiere a iglesias locales o asambleas en ciudades **<u>específicas</u>**. 1 Corintios 1:2; 2 Corintios 1:1; Gálatas 1:2; Filemón 2; Apocalipsis 1:4, y capítulos 2 y 3
+Note: 1Co 1:2  a la iglesia de Dios que está en Corinto... 2 Cor 1:1 A la iglesia de Dios que está en Corinto...Gal 1:2  y todos los hermanos que están conmigo: A las iglesias de Galacia:..Filemón 1:2 - filemón, Apia, Arquipo, y la igleisa...Apo 1:4 Juan, a las siete iglesias que están en Asia...
 
 ####            c.  La palabra con menor frecuencia se refiere a la iglesia **<u>universal</u>**, comprendida por cada creyente individual (vivo y muerto) de todas las diversas iglesias locales de todas las edades durante los últimos 2000 años.
 
@@ -193,6 +201,8 @@ Note: Dentro del sistema democrático Atense, había un grupo llamado ekklesia -
 
 <!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/body-christ.png"  data-background-size="600px" data-background-opacity="0.5" data-background-position="top"-->
 #####                2.  Además, Efesios 1:22-23 habla de la iglesia universal cuando dice que Dios dio a Jesús *por cabeza sobre todas las cosas a la iglesia, la cual es Su **<u>cuerpo</u>**.*
+Note: Efe 1:22  Y todo sometió bajo sus pies, y a Él lo dio por cabeza sobre todas las cosas a la iglesia,
+Efe 1:23  la cual es su cuerpo, la plenitud de aquel que lo llena todo en todo.
 
 <!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/scroll.png" data-background-size="300px" data-background-position="left" data-background-opacity="0.5"-->
 ##    B.  La primera mención de la palabra iglesia en la Biblia -- Mateo 16:18
@@ -200,32 +210,53 @@ Note: Dentro del sistema democrático Atense, había un grupo llamado ekklesia -
 ###        1.  La primera mención de la iglesia, refiriéndose específicamente a los **<u>llamados</u>** de Cristo, se encuentra en Mateo 16:18 donde Jesús dijo: *\"Y Yo también Te digo, que tú eres Pedro, y sobre esta roca edificaré Mi iglesia; y las puertas del Hades no prevalecerán contra ella\".*
 
 ####            a.  Un estudio de Efesios 2:11-22 confirma que la iglesia es una **<u>entidad</u>** del Nuevo Testamento formada por judíos y gentiles creyentes. La iglesia no existía en el Antiguo Testamento, ni fue mencionada. 1 Corintios 10:32
+Note: Efe 2:11  Recordad, pues, que en otro tiempo vosotros los gentiles en la carne, llamados incircuncisión por la tal llamada circuncisión, hecha por manos en la carne,
+Efe 2:12  recordad que en ese tiempo estabais separados de Cristo, excluidos de la ciudadanía de Israel, extraños a los pactos de la promesa, sin tener esperanza, y sin Dios en el mundo.
+Efe 2:19  Así pues, ya no sois extraños ni extranjeros, sino que sois conciudadanos de los santos y sois de la familia de Dios,
+1Co 10:32  No seáis motivo de tropiezo ni a judíos, ni a griegos, ni a la iglesia de Dios;
 
 ####            b.  Efesios 3:4-6 y 3:9 se refieren a la iglesia como un misterio. El término **<u>misterio</u>** del Nuevo Testamento no se refiere a algo místico o extraño sino simplemente a algo previamente no revelado en el Antiguo Testamento. Efesios 3:1-11
+Note: Efe 3:4  En vista de lo cual, leyendo, podréis comprender mi discernimiento del misterio de Cristo,
+Efe 3:5  que en otras generaciones no se dio a conocer a los hijos de los hombres, como ahora ha sido revelado a sus santos apóstoles y profetas por el Espíritu;
+Efe 3:6  a saber, que los gentiles son coherederos y miembros del mismo cuerpo, participando igualmente de la promesa en Cristo Jesús mediante el evangelio,
+Efe 3:9  y sacar a luz cuál es la dispensación del misterio que por los siglos ha estado oculto en Dios, creador de todas las cosas;
 
 ####            c.  El misterio que Pablo describió cuando se refería a la iglesia fue que a través del evangelio de Jesucristo, creyentes gentiles y creyentes judíos serían **<u>coherederos</u>** y miembros de la misma entidad, es decir, la iglesia.
 
 ###        2.  La declaración de Jesús en Mateo 16:18 acerca de edificar Su iglesia fue hecha **<u>después</u>** del rechazo nacional de Israel por parte de sus líderes en Mateo 12:22-45.
+Note: Mateo 12 (blasfemia del Espiritu Santo)
 
-####            a.  En este punto, el enfoque de Cristo empezó a cambiar desde ofrecer el reino a Israel hasta predecir Su muerte y resurrección venideras (Mateo 12: 38-40) y la **<u>edificación</u>** de Su iglesia.
+####            a.  En este punto, el enfoque de Cristo empezó a cambiar desde ofrecer el reino a Israel hasta predecir Su muerte y resurrección venideras (Mateo 12:38-40) y la **<u>edificación</u>** de Su iglesia.
+Note: Mat 12:38  Entonces le respondieron algunos de los escribas y fariseos, diciendo: Maestro, queremos ver una señal de parte tuya.
+Mat 12:39  Pero respondiendo Él, les dijo: Una generación perversa y adúltera demanda señal, y ninguna señal se le dará, sino la señal de Jonás el profeta;
+Mat 12:40  porque como ESTUVO JONÁS EN EL VIENTRE DEL MONSTRUO MARINO TRES DÍAS Y TRES NOCHES, así estará el Hijo del Hombre tres días y tres noches en el corazón de la tierra.
 
 ####            b.  La mención de Jesús de la iglesia aquí vino de una conversación entre Él y Sus discípulos que comenzó en Mateo 16:13 donde Jesús les hizo una simple pregunta: *\"¿**<u>Quién</u>** dicen los hombres que es el Hijo del Hombre?\"*
 
 #####                1.  Cuando los discípulos dijeron que la gente especulaba que Él era Juan el Bautista, Elías, Jeremías o incluso uno de los profetas, Jesús les preguntó directamente: *\"Y **<u>vosotros</u>**, ¿quién decís que soy Yo?\"* Mateo 16:15
 
 #####                2.  La declaración sólida de Simón Pedro en Mateo 16:16, *\"Tú eres el Cristo, el Hijo del Dios viviente\",* fue a lo que Jesús se refería en Mateo 16:18 cuando dijo: *\"Sobre esta roca edificaré Mi Iglesia.\"*
+Note: esta - se refiere a el Cristo, el Hijo de Dios. 
 
 ####            c.  Pero a pesar de que ha sido especulado que Pedro era la roca sobre la cual se edificaría la iglesia, el texto griego prueba que este **<u>no</u>** es el caso.
 
 #####                1.  Cuando Jesús dijo: *\"Tú eres Pedro\",* usó la palabra griega PETROS, que significa una **<u>piedra</u>**.
+Note: Piedrita
 
 #####                2.  Por otro lado, cuando Jesús habló de la base sobre la cual edificaría la iglesia (*sobre esta roca*), usó la palabra más fuerte PETRA, que significa roca masiva, o incluso un acantilado de roca, junto con el artículo definido \"la\". Jesús no estaba hablando de Pedro, una piedra, sino de la roca masiva TE PETRA, __<u>Jesucristo</u>__ Mismo.
 
 #####                3.  En griego, como en muchos idiomas, el sustantivo y el artículo deben coincidir en género. Como el artículo TE es femenino, encaja con el sustantivo PETRA, pero no con PETROS. El artículo femenino TE no puede referirse al sustantivo masculino PETROS (Pedro). Por lo tanto, cuando Jesús dijo: *\"Sobre esta roca\",* Él **<u>no</u>** se estaba refiriendo a Pedro.
 
 #####                4.  Es interesante que solo unos pocos versículos después, el Espíritu Santo condujo a Mateo a registrar la **<u>reprensión</u>** de Pedro por parte de Cristo, aparentemente reiterando que Pedro no era la roca masiva (TE PETRA) sobre la cual se iba a edificar la iglesia. Mateo 16:22-23
+Note: Mat 16:22  Y tomándole aparte, Pedro comenzó a reprenderle, diciendo: ¡No lo permita Dios, Señor! Eso nunca te acontecerá.
+Mat 16:23  Pero volviéndose Él, dijo a Pedro: ¡Quítate de delante de mí, Satanás! Me eres piedra de tropiezo; porque no estás pensando en las cosas de Dios, sino en las de los hombres.
 
 ####            d.  Cristo es la **<u>roca</u>** sobre la cual la iglesia se edifica y se levanta. Mateo 21:42; Hechos 4:11; Romanos 9:33; 1 Corintios 3:11; Efesios 2:20; 1 Pedro 2:4, 6-7
+Note: Mat 21:42  Jesús les dijo*: ¿Nunca leísteis en las Escrituras: «LA PIEDRA QUE DESECHARON LOS CONSTRUCTORES, ESA, EN PIEDRA ANGULAR SE HA CONVERTIDO; ESTO FUE HECHO DE PARTE DEL SEÑOR, Y ES MARAVILLOSO A NUESTROS OJOS»?
+Hechos 4:11  Este Jesús es la PIEDRA DESECHADA por vosotros LOS CONSTRUCTORES, pero QUE HA VENIDO A SER LA PIEDRA ANGULAR.
+Rom 9:33  tal como está escrito: HE AQUÍ, PONGO EN SIÓN UNA PIEDRA DE TROPIEZO Y ROCA DE ESCANDALO; Y EL QUE CREA EN ÉL NO SERÁ AVERGONZADO.
+Efe 2:20  edificados sobre el fundamento de los apóstoles y profetas, siendo Cristo Jesús mismo **la piedra angular**,
+Dan 2:34  Estuviste mirando hasta que **una piedra fue cortada sin ayuda de manos, y golpeó la estatua en sus pies de hierro y de barro, y los desmenuzó**.
 
 <!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/body-christ.png"  data-background-size="1200px" -->
 <svg clip-rule="evenodd" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5" version="1.1" viewBox="0 0 1920 1080" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"><metadata><rdf:RDF><cc:Work rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/><dc:title/></cc:Work></rdf:RDF></metadata><g clip-rule="evenodd" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5"><rect x="980.36" y="75.168" width="720" height="940" fill="#0071e5" stroke="#f5fffc" stroke-width="3.7"/><text x="1036.7415" y="197.26077" fill="#ffffff" font-family="Calibri" font-size="74.667px" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25" xml:space="preserve"><tspan x="1036.7415" y="197.26077">Y yo también te digo, </tspan><tspan x="1036.7415" y="290.59415">que tú eres Pedro, </tspan><tspan x="1036.7415" y="383.92752">y sobre esta roca </tspan><tspan x="1036.7415" y="477.26089">edificaré mi iglesia; </tspan><tspan x="1036.7415" y="570.5943">y las puertas del </tspan><tspan x="1036.7415" y="663.92767">Hades no </tspan><tspan x="1036.7415" y="757.26105">prevalecerán </tspan><tspan x="1036.7415" y="850.59442">contra ella.</tspan><tspan x="1036.7415" y="943.9278">Mateo 16:18</tspan></text></g></svg>
@@ -245,30 +276,67 @@ Note: Dentro del sistema democrático Atense, había un grupo llamado ekklesia -
 ###        2.  Matthew 16:18b -- *...sobre esta roca, **edificaré** Mi iglesia.*
 
 ####            a.  La palabra traducida *edificar* se usó para describir la edificación de un **<u>edificio</u>**. Construir un edificio es un proceso que involucra tiempo, habilidad y obreros. Cristo está edificando progresivamente Su iglesia y los creyentes son Sus *colaboradores*. 1 Corintios 3:5-9, Efesios 4:11-16
+Note: 1Co 3:5  ¿Qué es, pues, Apolos? Y ¿qué es Pablo? Servidores mediante los cuales vosotros habéis creído, según el Señor dio oportunidad a cada uno.
+1Co 3:6  Yo planté, Apolos regó, pero Dios ha dado el crecimiento.
+1Co 3:7  Así que ni el que planta ni el que riega es algo, sino Dios, que da el crecimiento.
+1Co 3:8  Ahora bien, el que planta y el que riega son una misma cosa, pero cada uno recibirá su propia recompensa conforme a su propia labor.
+1Co 3:9  Porque nosotros somos colaboradores de Dios, y vosotros sois labranza de Dios, edificio de Dios.
+Efe 4:11  Y Él dio a algunos el ser apóstoles, a otros profetas, a otros evangelistas, a otros pastores y maestros,
+Efe 4:12  a fin de capacitar a los santos para la obra del ministerio, para la edificación del cuerpo de Cristo;
+Efe 4:13  hasta que todos lleguemos a la unidad de la fe y del conocimiento pleno del Hijo de Dios, a la condición de un hombre maduro, a la medida de la estatura de la plenitud de Cristo;
+Efe 4:14  para que ya no seamos niños, sacudidos por las olas y llevados de aquí para allá por todo viento de doctrina, por la astucia de los hombres, por las artimañas engañosas del error;
+Efe 4:15  sino que hablando la verdad en amor, crezcamos en todos los aspectos en aquel que es la cabeza, es decir, Cristo,
+Efe 4:16  de quien todo el cuerpo (estando bien ajustado y unido por la cohesión que las coyunturas proveen), conforme al funcionamiento adecuado de cada miembro, produce el crecimiento del cuerpo para su propia edificación en amor.
 
 ####            b.  Efesios 5:25-27 nos dice que Cristo amó a la iglesia, dio Su vida por la iglesia y continúa **<u>purificándola</u>** día a día.
+Note: Efe 5:25  Maridos, amad a vuestras mujeres, así como Cristo amó a la iglesia y se dio a sí mismo por ella,
+Efe 5:26  para santificarla, habiéndola purificado por el lavamiento del agua con la palabra,
+Efe 5:27  a fin de presentársela a sí mismo, una iglesia en toda su gloria, sin que tenga mancha ni arruga ni cosa semejante, sino que fuera santa e inmaculada.
 
 ####            c.  La venida del Espíritu Santo para **<u>morar</u>** en los creyentes en el día de Pentecostés marcó el comienzo del proyecto de la edificación de la iglesia de Cristo. Hechos 2:47, Hechos 11:15-17
+Note: Act 2:47  alabando a Dios y hallando favor con todo el pueblo. Y el Señor añadía cada día al número de **ellos** los que iban siendo salvos.
+Hechos 11:15  Cuando comencé a hablar, el Espíritu Santo descendió sobre ellos, tal como lo hizo sobre nosotros al principio.
+Hechos 11:16  Entonces me acordé de las palabras del Señor, cuando dijo: «Juan bautizó con agua, pero vosotros seréis bautizados con el Espíritu Santo».
+Hechos 11:17  Por tanto, si Dios les dio a ellos el mismo don que también nos dio a nosotros después de creer en el Señor Jesucristo, ¿quién era yo para poder estorbar a Dios?
 
 ####            d.  En el **<u>rapto</u>**, se completará el proyecto de la edificación de Cristo. En ese momento, Él se presentará la iglesia a Sí mismo como una bella novia, sin ningún defecto. 1 Corintios 1:8, Apocalipsis 19:8-10
+Note: 1Co 1:8  el cual también os confirmará hasta el fin, para que seáis irreprensibles en el día de nuestro Señor Jesucristo.
+Apo 19:8  Y a ella le fue concedido vestirse de lino fino, resplandeciente y limpio, porque las acciones justas de los santos son el lino fino.
+Apo 19:9  Y el ángel me dijo*: Escribe: «Bienaventurados los que están invitados a la cena de las bodas del Cordero». Y me dijo*: Estas son palabras verdaderas de Dios.
+Apo 19:10  Entonces caí a sus pies para adorarle. Y me dijo*: No hagas eso; yo soy consiervo tuyo y de tus hermanos que poseen el testimonio de Jesús; adora a Dios. Pues el testimonio de Jesús es el espíritu de la profecía.
 
-###        3.  Mateo 16: 18c -- \...*sobre esta roca edificaré **Mi** iglesia*\... La iglesia **<u>pertenece</u>** a Jesucristo. 1 Corintios 3:9, 16-17; Efesios 5:23
+###        3.  Mateo 16:18c -- \...*sobre esta roca edificaré **Mi** iglesia*\... La iglesia **<u>pertenece</u>** a Jesucristo. 1 Corintios 3:9, 16-17; Efesios 5:23
+Note: 1Co 3:9  Porque nosotros somos colaboradores de Dios, y vosotros sois labranza de Dios, edificio de Dios.
+1Co 3:16  ¿No sabéis que sois templo de Dios y que el Espíritu de Dios habita en vosotros?
+1Co 3:17  Si alguno destruye el templo de Dios, Dios lo destruirá a él, porque el templo de Dios es santo, y eso es lo que vosotros sois.
+Efe 5:23  Porque el marido es cabeza de la mujer, así como Cristo es cabeza de la iglesia, siendo Él mismo el Salvador del cuerpo.
 
 ####            a.  La iglesia **<u>no</u>** pertenece a ningún pastor, anciano, diácono, apóstol, papa, junta de iglesia o denominación.
 
 ####            b.  La palabra traducida *Mi* está en la posición enfática en la oración del griego, mostrando claramente que la iglesia pertenece a **<u>Jesucristo</u>** y solo a Él. Apocalipsis 19:7
+Note: Apo 19:7  Regocijémonos y alegrémonos, y démosle a Él la gloria, porque las bodas del Cordero han llegado y su esposa se ha preparado.
 
 ###        4.  Matthew 16:18d -- *...y las **puertas del Hades** no prevalecerán contra ella.* Las puertas normalmente se usan para mantener alejados a los ejércitos invasores. El *Hades* habría sido entendido por la audiencia de Jesús como el lugar de los **<u>muertos</u>**.
 
 ####            a.  Cuando la iglesia va a todo el mundo para predicar el evangelio (Marcos 16:15) y hacer discípulos (Mateo 28:19-20), **<u>prevalece</u>** contra el Hades. Apocalipsis 20:11-15
+Note: Apo 20:11  Y vi un gran trono blanco y al que estaba sentado en él, de cuya presencia huyeron la tierra y el cielo, y no se halló lugar para ellos.
+Apo 20:12  Y vi a los muertos, grandes y pequeños, de pie delante del trono, y los libros fueron abiertos; y otro libro fue abierto, que es el libro de la vida, y los muertos fueron juzgados por lo que estaba escrito en los libros, según sus obras.
+Apo 20:13  Y el mar entregó los muertos que estaban en él, y la Muerte y el Hades entregaron a los muertos que estaban en ellos; y fueron juzgados, cada uno según sus obras.
+Apo 20:14  Y la Muerte y el Hades fueron arrojados al lago de fuego. Esta es la muerte segunda: el lago de fuego.
+Apo 20:15  Y el que no se encontraba inscrito en el libro de la vida fue arrojado al lago de fuego.
 
 ####            b.  La iglesia **<u>rescata</u>** a pecadores del pecado, Satanás y la inevitable destrucción en el infierno. Efesios 2:1-3
+Note: Efe 2:1  Y Él os dio vida a vosotros, que estabais muertos en vuestros delitos y pecados,
+Efe 2:2  en los cuales anduvisteis en otro tiempo según la corriente de este mundo, conforme al príncipe de la potestad del aire, el espíritu que ahora opera en los hijos de desobediencia,
+Efe 2:3  entre los cuales también todos nosotros en otro tiempo vivíamos en las pasiones de nuestra carne, satisfaciendo los deseos de la carne y de la mente, y éramos por naturaleza hijos de ira, lo mismo que los demás.
 
 ###        5.  Mateo 16: 18e -- *...y las puertas del Hades __no prevalecerán contra ella__.* La iglesia tendrá una existencia **<u>continua</u>** hasta el rapto de la iglesia.
 
 ####            a.  Aquí Jesús habló de la *iglesia*  EKKLESIA en un sentido **<u>global</u>** para describir a la iglesia universal. Note que Él no dijo que edificaría Sus iglesias (plural) sino más bien Su iglesia (singular).
 
 ####            b.  A lo largo de la historia de la iglesia, las iglesias locales han venido y se han **<u>ido</u>**. En Apocalipsis 2:5, Jesús prometió cerrar la iglesia local en Éfeso si no renovaba su primer amor.
+
+>Apocalipsis 2:5  Recuerda, por tanto, de dónde has caído y arrepiéntete, y haz las obras que hiciste al principio; si no, vendré a ti y quitaré tu candelabro de su lugar, si no te arrepientes.
 
 ####            c.  Jesús prometió que la iglesia universal, a la cual todos nosotros pertenecemos, nunca **<u>cesará</u>** de existir. Ni los poderes de la muerte, Satanás o los demonios de Satanás pueden prevalecer sobre la iglesia universal.
 
