@@ -53,15 +53,14 @@ ___
 </small>
 ___
 **Impreso y Propiedad de:**
-**DM2®**
-**\
-Disciple Makers Multiplied**
+**DM2® Disciple Makers Multiplied**
 **PO Box 7758**
 **Beaumont, TX 77726**
 **Para más información:**
 ___
-**\disciplemakersmultiplied\@gmail.com**
-**www.DM2USA.org**
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/logo-opt.svg" data-background-size="400px" data-background-position="bottom" -->
+**disciplemakersmultiplied@gmail.com**
+www.DM2USA.org
 ___
 ## 1 Timoteo
 |**La Iglesia: Información General**| **7** |
@@ -139,10 +138,12 @@ ___
 |1 Timoteo 6:15-16 -- Doxología |87|
 |1 Timoteo 6:17-19 -- Instrucciones para los ricos| 88|
 ___
-# 1 Timoteo
-## En la Casa de Dios
 
-# I.  La Iglesia: Información General
+# 1 Timoteo
+En la Casa de Dios
+
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/church-cover.jpeg" data-background-size="cover"  data-menu-title="I.  La Iglesia: Información General"--> 
+# I.  La Iglesia: Información General 
 
 ##    A.  El uso de la palabra iglesia en el Nuevo Testamento
 
@@ -377,6 +378,7 @@ Note: Dentro del sistema democrático Atense, había un grupo llamado ekklesia -
 
 #####                2.  En 1 Corintios 15:9, el apóstol Pablo dijo: \"*Porque yo soy el más pequeño de los apóstoles, que no soy digno de ser llamado apóstol, porque perseguí a la **<u>iglesia</u>** de Dios*\". Hechos 8:3
 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/church-cover.jpeg" data-background-size="cover"  data-menu-title="II. Características Distintivas de la Iglesia del Nuevo "--> 
 # II. Características Distintivas de la Iglesia del Nuevo Testamento
 
 <!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/body-christ.png"  data-background-size="400px" data-background-position="bottom" data-background-opacity="0.5" -->
@@ -550,6 +552,7 @@ Note: Dentro del sistema democrático Atense, había un grupo llamado ekklesia -
 
 ####            j.  Hechos 2:47c -- *Y el Señor añadía cada día a la iglesia los que habían de ser salvos*. Una iglesia local prosigue a **<u>evangelizar</u>** a su comunidad local y añade almas a su congregación a través del alcance. Mateo 28:19-20, Marcos 16:15, Hechos 1:8
 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/church-cover.jpeg" data-background-size="cover"  data-menu-title="III. 1 Timoteo 1:1-2 - Saludos e Información Biográfica"--> 
 # III. 1 Timoteo 1:1-2 -- Saludos e Información Biográfica
 
 <svg id="svg12583" width="1000" height="700" inkscape:version="1.0.2 (e86c8708, 2021-01-15)" sodipodi:docname="bosquejo-opt.svg" version="1.1" viewBox="0 0 296 207" xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd">
@@ -787,6 +790,7 @@ Note: Dentro del sistema democrático Atense, había un grupo llamado ekklesia -
 
 ###         3.  1 Timoteo 1:2b -- \...*de Dios nuestro Padre y de Cristo Jesús nuestro Señor.* Gracia, misericordia y paz **<u>vienen</u>** de Dios el Padre y Cristo Jesús nuestro Señor.
 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/church-cover.jpeg" data-background-size="cover"  data-menu-title="IV. 1 Timoteo 1:3-20 - Batallando por la Gracia"--> 
 # IV. 1 Timoteo 1:3-20 -- Batallando por la Gracia
 
 ##    A.  1 Timoteo 1:3-11 -- Un encargo de corregir
@@ -1107,6 +1111,7 @@ Note: Dentro del sistema democrático Atense, había un grupo llamado ekklesia -
 
 ####            c.  Desafortunadamente, sabemos por 2 Timoteo que **<u>Himeneo</u>** no respondió bien a esta disciplina. No sabemos cómo respondió Alejandro. 2 Timoteo 2:16-18
 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/church-cover.jpeg" data-background-size="cover"  data-menu-title="V. Breve Doctrina sobre la Disciplina en la Iglesia"--> 
 # V.  Breve Doctrina sobre la Disciplina en la Iglesia
 
 ##    A.  Definición de la disciplina en la iglesia
@@ -1263,6 +1268,7 @@ Note: Dentro del sistema democrático Atense, había un grupo llamado ekklesia -
 
 #####                5.  ¿Manifiesta en el presente la persona el **<u>fruto</u>** del Espíritu o un interés en las cosas espirituales? Gálatas 5:22-23
 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/church-cover.jpeg" data-background-size="cover"  data-menu-title="VI. 1 Timoteo 2:1-15 - Instrucción Sobre la Adoración"--> 
 # VI. 1 Timoteo 2:1-15 -- Instrucción Sobre la Adoración
 
 <svg id="svg12583" width="1000" height="700" inkscape:version="1.0.2 (e86c8708, 2021-01-15)" sodipodi:docname="bosquejo-opt.svg" version="1.1" viewBox="0 0 296 207" xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd">
@@ -1501,6 +1507,7 @@ Note: Dentro del sistema democrático Atense, había un grupo llamado ekklesia -
 
 ####            c.  Las mujeres necesitan creer en la Palabra de Dios y confiar en Él, que Su voluntad para ellas, tal como se describe en Su Palabra, es *buena, aceptable y **<u>perfecta</u>***, conduciendo al gozo y la realización. Romanos 12:1-2; 2 Corintios 11:3; Gálatas 6:7-9, 1 Timoteo 5:6; 1 Juan 2:15-17
 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/church-cover.jpeg" data-background-size="cover"  data-menu-title="VII. 1 Timoteo 3:1-16 - Instrucción en la Selección de Líderes en la Iglesia"--> 
 # VII. 1 Timoteo 3:1-16 -- Instrucción en la selección de líderes en la iglesia
 
 <svg id="svg12583" width="1000" height="700" inkscape:version="1.0.2 (e86c8708, 2021-01-15)" sodipodi:docname="bosquejo-opt.svg" version="1.1" viewBox="0 0 296 207" xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd">
@@ -1919,6 +1926,7 @@ Note: Dentro del sistema democrático Atense, había un grupo llamado ekklesia -
 
 ###         8.  1 Timoteo 3:16g -- El misterio de la piedad es Cristo quien fue *recibido arriba en gloria*. Cristo ascendió al cielo y ahora está sentado a la diestra de Dios el Padre. Junto con la resurrección, la ascensión prueba que Dios estuvo completamente satisfecho con la **<u>vida</u>** y obra de Jesucristo. Hechos 1:9-11; Romanos 3:24-25; 8:34; Efesios 1:20; 1 Juan 2:1-2
 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/church-cover.jpeg" data-background-size="cover"  data-menu-title="VIII. 1 Timoteo 4:1-16 - Protección Contra la Apostasía"--> 
 # VIII. 1 Timoteo 4:1-16 -- Protección Contra la Apostasía
 
 <svg id="svg12583" width="1000" height="700" inkscape:version="1.0.2 (e86c8708, 2021-01-15)" sodipodi:docname="bosquejo-opt.svg" version="1.1" viewBox="0 0 296 207" xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd">
@@ -2183,6 +2191,7 @@ Note: Dentro del sistema democrático Atense, había un grupo llamado ekklesia -
 
 #####                  3.  Del mismo modo, si aquellos bajo su enseñanza aprendían a andar por la fe y disfrutar de la comunión con el Señor, ellos también experimentarían el poder sobre el **<u>pecado</u>** en su vida diaria.
 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/church-cover.jpeg" data-background-size="cover"  data-menu-title="IX. 1 Timoteo 5:1-6:21 - Relaciones Dentro de la Iglesia"--> 
 # IX. 1 Timoteo 5:1-6:21 -- Relaciones dentro de la Iglesia
 
 <svg id="svg12583" width="1000" height="700" inkscape:version="1.0.2 (e86c8708, 2021-01-15)" sodipodi:docname="bosquejo-opt.svg" version="1.1" viewBox="0 0 296 207" xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd">
@@ -2640,6 +2649,7 @@ Note: Dentro del sistema democrático Atense, había un grupo llamado ekklesia -
 
 #####                2.  Sobre la esclavitud: Pablo no motivó la rebelión contra la sociedad o el gobierno, como a menudo se promueve en las iglesias hoy bajo el título de justicia social. Sin embargo, Pablo sí motivó a los esclavos a no dejar pasar la posibilidad de la **<u>libertad</u>** si se les ofreciera. 1 Corintios 7:21
 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/church-cover.jpeg" data-background-size="cover"  data-menu-title="X. 1 Timoteo 6:3-21 - Asuntos Relacionados con la Iglesia"--> 
 # X.  1 Timoteo 6:3-21 -- Asuntos Relacionados con la Iglesia
 
 <svg id="svg12583" width="1000" height="700" inkscape:version="1.0.2 (e86c8708, 2021-01-15)" sodipodi:docname="bosquejo-opt.svg" version="1.1" viewBox="0 0 296 207" xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd">

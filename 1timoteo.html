@@ -42,13 +42,15 @@
 				history: true,
 				center: true,
 				slideNumber: true,
-
+        markdown: {
+    smartypants: true
+    },
 				menu: {
 
     side: 'left',
     width: 'normal',
     numbers: false,
-    titleSelector: 'h1, h2',
+    titleSelector: 'data-menu-title, h2',
     useTextContentForMissingTitles: false,
     hideMissingTitles: true,
     markers: true,
@@ -64,7 +66,7 @@
     delayInit: false,
     openOnInit: false,
     loadIcons: true
-
+    
   },
 
 				plugins: [ RevealMarkdown, RevealHighlight, RevealNotes, RevealMenu ]
