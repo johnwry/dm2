@@ -27,6 +27,11 @@
   <text x="13.375127" y="142.58911" fill="#000000" font-family="Calibri" font-size="11.289px" stroke-width=".26458" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25" xml:space="preserve"><tspan x="13.375127" y="142.58911" font-family="Calibri" font-size="11.289px" stroke-width=".26458" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">DM2 - HACIENDO HACEDORES DE DISCIPULOS</tspan></text>
  </g>
 </svg>
+Note: Timoteo es recomendado por su iglesia: Hechos 16:2
+Circuncidado por Pablo por tener acceso a los judios: Hechos 16:3
+Timoteo era joven todavia, madre judia padre griego. 
+Problema fisico? 1 Tim 5:23 - en vez de solo agua mezclar con vino. 
+
 ___
 Copyright © **2018 by DM Multiplied, Inc**
 Todos los derechos reservados.
