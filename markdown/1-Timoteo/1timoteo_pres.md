@@ -456,7 +456,7 @@ Note: Gal 3:8  Y la Escritura, previendo que Dios justificaría a los gentiles p
 <!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/church-cover.jpeg" data-background-size="cover"  data-menu-title="II. Características Distintivas de la Iglesia del Nuevo "--> 
 # II. Características Distintivas de la Iglesia del Nuevo Testamento
 
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/body-christ.png"  data-background-size="1200px" data-background-position="bottom" data-background-opacity="0.5" -->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/body-christ.png"  data-background-size="contain" data-background-position="bottom" data-background-opacity="0.5" -->
 
 ##    A.  La iglesia es el <u>cuerpo</u> de Cristo en la tierra
 
