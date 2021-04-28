@@ -340,6 +340,7 @@ Efe 2:3  entre los cuales también todos nosotros en otro tiempo vivíamos en la
 
 ####            c.  Jesús prometió que la iglesia universal, a la cual todos nosotros pertenecemos, nunca **<u>cesará</u>** de existir. Ni los poderes de la muerte, Satanás o los demonios de Satanás pueden prevalecer sobre la iglesia universal.
 
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/building.png" data-background-size="300px" data-background-position="left" data-background-opacity="0.5"-->
 ##    D.  ¿Cuándo comenzó la iglesia?
 
 ###        1.  Hay opiniones diferentes con respecto al **<u>inicio</u>** histórico de la iglesia. Aquí tenemos algunas de las opiniones más populares, pero defectuosas, del origen histórico de la iglesia.
