@@ -1,5 +1,4 @@
 <!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/church-cover.jpeg" data-background-size="cover"  data-menu-title="Início"--> 
-
 <svg width="1920" height="1080" version="1.1" viewBox="0 0 460 250" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
  <defs>
   <filter id="filter1805" color-interpolation-filters="sRGB">
@@ -146,7 +145,7 @@ ___
 
 # 1 Timoteo
 En la Casa de Dios
-Note: ¿Cómo te comportas en casa? ¿Cómo te comportas en la casa de otra persona? Una cosa es hacer las cosas como quieres en tu propia casa; otra cosa es hacer lo que quieres en la casa de otra persona. 
+Note: ¿Cómo te comportas en tu casa? ¿Cómo te comportas en la casa de otra persona? Una cosa es hacer las cosas como quieres en tu propia casa; otra cosa es hacer lo que quieres en la casa de otra persona. 
 Timoteo es como un hijo para Pablo. Sin embargo le escribe una carta muy formal. Un padre generalmente no escribe una carta tan formal a su hijo. POrque? Es porque trata de un tema muy importante, no era un tema liviano ni sujetivo según el concepto de iglesia de Pablo sino de Jesucristo. 
 
 <!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/church-cover.jpeg" data-background-size="cover"  data-menu-title="I.  La Iglesia: Información General"--> 
@@ -365,6 +364,7 @@ Note: Gal 3:8  Y la Escritura, previendo que Dios justificaría a los gentiles p
 #####                1.  Esta conclusión está basada en gran parte en la creencia de que cada uno de los siguientes acontecimientos estaban relacionados con el establecimiento de la iglesia: el **<u>llamado</u>** de los primeros discípulos; la confesión de Pedro; la última cena; y las apariciones de Cristo después de la resurrección a Pedro, a los otros apóstoles y a los quinientos creyentes.
 
 #####                2.  Aquellos que sostienen este punto de vista argumentan que el tiempo futuro usado en la declaración de Jesús en Mateo 16:18, *\"Edificaré Mi iglesia\"*, **<u>no</u>** debe tomarse literalmente.
+Note: "Cristo esta edificando su iglesia desde siempre. Hoy Cristo te promete edificaré mi iglesia". No toman en cuenta que era literalmente sobre el en un punto de tiempo que construiria Pedro (y los apóstoles). Un edificio solo tiene una cabeza principál y un solo funamento.  
 
 ####            d.  **Pablo**: Mientras que los tres puntos de vista anteriores enseñan que la iglesia comenzó antes del día de Pentecostés, esta perspectiva enseña que la iglesia comenzó **<u>mucho</u>** después del día de Pentecostés.
 
@@ -373,6 +373,7 @@ Note: Gal 3:8  Y la Escritura, previendo que Dios justificaría a los gentiles p
 #####                2.  Ellos creen que no fue hasta que Pablo recibió la revelación concerniente a judíos y gentiles uniéndose en un solo cuerpo que la iglesia nació **<u>completamente</u>**.
 
 ######                    a.  Algunas personas fechan este comienzo \"**<u>oficial</u>**\" de la iglesia con Hechos 9, otros con Hechos 13, y algunos lo relegan a Hechos 28.
+Note: Hech 9 - conversión de Saulo Hech13: primer viaje misionero de pablo Hech 28: El rechazo completo de los judios y por el misterio enseñado a Pablo en Rom 16 y Efe 2 que tuvo que ser despues de Hechos 28. 
 
 ######                    b.  Todos estos **<u>discreparían</u>** fuertemente con una fecha de inicio para la iglesia en el Día de Pentecostés de Hechos 2.
 
@@ -406,7 +407,7 @@ Note: Gal 3:8  Y la Escritura, previendo que Dios justificaría a los gentiles p
 
 ######                        ii. En Hechos 2:33, Pedro afirmó que el bautismo del Espíritu Santo ocurrió en el día de **<u>Pentecostés</u>**, cuando testificó: *\"Así que, exaltado por la diestra de Dios, y habiendo recibido del Padre la promesa del Espíritu Santo, ha derramado esto que vosotros veis y oís".*
 
-######                    c.  Del testimonio de Pedro en Hechos 11, concluimos que Jesucristo, por medio del Espíritu Santo, comenzó a **<u>bautizar</u>** espiritualmente a cada creyente en Cristo comenzando en el Día de Pentecostés en Hechos 2.
+######                    c.  Del testimonio de Pedro en Hechos 11, concluimos que Jesucristo, por medio del Espíritu Santo, comenzó a **<u>bautizar</u>** espiritualmente a cada creyente en Cristo comenzando en el Día de Pentecostés en Hechos 2. 
 
 ######                        i.  Hechos 11:15 -- *Y cuando comencé a hablar, cayó el Espíritu Santo sobre ellos también, como sobre nosotros al principio.* Pedro se estaba refiriendo al comienzo de la **<u>iglesia</u>** en Hechos 2.
 
@@ -423,16 +424,20 @@ Note: Gal 3:8  Y la Escritura, previendo que Dios justificaría a los gentiles p
 
 <!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/cuatro.png" data-background-size="300px" data-background-position="left" data-background-opacity="0.5"-->
 ####            d.  Cuatro: Una de las características determinantes de la iglesia es la **<u>morada</u>** permanente del Espíritu Santo. Esto comenzó el día de Pentecostés. Romanos 8:9, 1 Corintios 3:16
+Note: Rom 8:9  Sin embargo, vosotros no estáis en la carne sino en el Espíritu, si en verdad el Espíritu de Dios habita en vosotros. Pero si alguno no tiene el Espíritu de Cristo, el tal no es de Él.  
+1Co 3:16  ¿No sabéis que sois templo de Dios y que el Espíritu de Dios habita en vosotros?
 
 #####                1.  En Juan 14:16-17, Jesús habló de esta morada permanente cuando dijo: \"*Y Yo rogaré al Padre, y os dará otro Consolador, para que esté con vosotros para siempre: el Espíritu de verdad\... vosotros Le conocéis, porque mora con vosotros, __y estará <u>en</u> vosotros__.*\"
 
-#####                2.  En Juan 14:20, Jesús explicó más detalladamente lo que quiso decir: *En aquel día vosotros conoceréis que Yo estoy en Mi Padre, y vosotros en Mí, y Yo **<u>en</u>** vosotros*.
+#####                2.  En Juan 14:20, Jesús explicó más detalladamente lo que quiso decir: *En aquel día vosotros conoceréis que Yo estoy en Mi Padre, y vosotros en Mí, y Yo **<u>en</u>** vosotros.*
 
 ######                    a.  En efecto, Jesús dijo: En el día en que el Espíritu Santo venga a vivir permanentemente en ustedes (vs. 17), estarán en Mí (en Cristo) y Yo estaré en ustedes (por medio del Espíritu Santo que **<u>mora</u>**).
 
 ######                     b.  Cuando Jesús dijo: *\"vosotros en Mí\"*, se refirió a la iglesia **<u>futura</u>** cuando Dios el Espíritu Santo bautizaría a los creyentes en el cuerpo de Cristo. 1 Corintios 12:13
+Note:  1Co 12:13  Pues por un mismo Espíritu todos fuimos bautizados en un solo cuerpo, ya judíos o griegos, ya esclavos o libres, y a todos se nos dio a beber del mismo Espíritu.
 
 ######                     c.  Cuando Jesús dijo: *\"Yo **<u>en</u>** vosotros\"*, se refirió a la morada permanente del Espíritu Santo, lo cual es único de la Edad de la Iglesia. Juan 14:16
+Note: Juan 14:16  Y yo rogaré al Padre, y Él os dará otro Consolador para que esté con vosotros para siempre;
 
 #####                3.  Pedro confirmó que todos los creyentes, tanto judíos como gentiles, **<u>recibieron</u>** el Espíritu Santo por medio de la fe en Cristo comenzando en Pentecostés. *\"Si Dios, pues, les concedió también el mismo don que a nosotros que hemos creído en el Señor Jesucristo, ¿quién era yo que pudiese estorbar a Dios?\"* Hechos 11:17
 
@@ -440,8 +445,13 @@ Note: Gal 3:8  Y la Escritura, previendo que Dios justificaría a los gentiles p
 ####            e.  Cinco: La iglesia está construida sobre la base de los profetas y **<u>apóstoles</u>** del Nuevo Testamento, cuyo ministerio comenzó el Día de Pentecostés.
 
 #####                1.  Efesios 2:19-22 dice que la iglesia está edificada *sobre el fundamento de los apóstoles y profetas, siendo la principal piedra del ángulo Jesucristo mismo*, indicando que la iglesia comenzó con el Señor Jesucristo y los apóstoles y profetas del **<u>Nuevo</u>** Testamento. Colosenses 1:24-27
+Note: Col 1:24  Ahora me alegro de mis sufrimientos por vosotros, y en mi carne, completando lo que falta de las aflicciones de Cristo, hago mi parte por su cuerpo, que es la iglesia,
+Col 1:25  de la cual fui hecho ministro conforme a la administración de Dios que me fue dada para beneficio vuestro, a fin de llevar a cabo la predicación de la palabra de Dios,
+Col 1:26  es decir, el misterio que ha estado oculto desde los siglos y generaciones pasadas, pero que ahora ha sido manifestado a sus santos,
+Col 1:27  a quienes Dios quiso dar a conocer cuáles son las riquezas de la gloria de este misterio entre los gentiles, que es Cristo en vosotros, la esperanza de la gloria.
 
 #####                2.  Hechos 1:2 -- *Hasta el día en que fue recibido arriba, después de haber dado mandamientos por el Espíritu Santo a los **<u>apóstoles</u>** que había escogido*. Hechos 1:8-26, 2:14
+Note: Hech 2:14  Entonces Pedro, poniéndose en pie con los once, alzó la voz y les declaró: Varones judíos y todos los que vivís en Jerusalén, sea esto de vuestro conocimiento y prestad atención a mis palabras,
 
 <!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/seispng.png" data-background-size="300px" data-background-position="left" data-background-opacity="0.5"-->
 ####            f.  Seis: Otra indicación de que la iglesia comenzó en el Día de Pentecostés es que en Hechos 5:11, el mismo año de los acontecimientos de Hechos 2, la iglesia ya estaba en existencia, como se muestra en el registro de Lucas: *Y vino gran temor sobre toda la **<u>iglesia</u>**, y sobre todos los que oyeron estas cosas*.
@@ -450,8 +460,13 @@ Note: Gal 3:8  Y la Escritura, previendo que Dios justificaría a los gentiles p
 ####            g.  Siete: Puesto que la iglesia comenzó en Hechos **<u>2</u>** en el día de Pentecostés, no pudo haber comenzado con el apóstol Pablo, como algunos afirman.
 
 #####                1.  En Romanos 16:7, el apóstol Pablo declaró que Andrónico y Junias estaban *en Cristo* antes que él. Solo a los miembros del cuerpo de Cristo, la iglesia, son referidos como estando **<u>en</u> <u>Cristo</u>**. Efesios 1:3-4
+Note: Efe 1:3  Bendito sea el Dios y Padre de nuestro Señor Jesucristo, que nos ha bendecido con toda bendición espiritual en los lugares celestiales en Cristo,
+Efe 1:4  según nos escogió en Él antes de la fundación del mundo, para que fuéramos santos y sin mancha delante de Él. En amor
 
 #####                2.  En 1 Corintios 15:9, el apóstol Pablo dijo: \"*Porque yo soy el más pequeño de los apóstoles, que no soy digno de ser llamado apóstol, porque perseguí a la **<u>iglesia</u>** de Dios*\". Hechos 8:3
+Note: Hech 8:3  Pero Saulo hacía estragos en la iglesia entrando de casa en casa, y arrastrando a hombres y mujeres, los echaba en la cárcel.
+En Resumen:
+Vemos claramente cuando La Iglesia (Te EKKLESIA) fué iniciado por Dios el Espiritu Santo. NO fué con ADAN, ABRAHAM, JESUS, PABLO. La iglesia de Jesucristo empezó en Hechos 2 cuando descendió el ES. Vimos 7 razones por lo cual creemos que si es evidente que la Biblia enseña su inicio en el día de Pentecostés, no antes ni después. Ahora empezamos a mirar algunas caracteristicas del la iglesia local. El primero es que la iglesia de Cristo es su cuerpo. La segunda caracteristica es como debe ser la iglesia local. Luego veremos por que es importante que la iglesia local sea autóctona. 
 
 <!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/church-cover.jpeg" data-background-size="cover"  data-menu-title="II. Características Distintivas de la Iglesia del Nuevo "--> 
 # II. Características Distintivas de la Iglesia del Nuevo Testamento
@@ -473,8 +488,13 @@ Note: Gal 3:8  Y la Escritura, previendo que Dios justificaría a los gentiles p
 ####            b.  1 Timoteo 3:15b -- \...*la iglesia del Dios viviente, columna y baluarte* \['**<u>sostén</u>**' -- LBLA\] *de la verdad.*
 
 ###        4.  La iglesia, que consiste en todos los **<u>creyentes</u>**, es la morada de Dios (*templo de Dios*, Efesios 2:21-22) y el canal a través del cual Él vive y se extiende al mundo.
+Note: Efe 1:21  muy por encima de todo principado, autoridad, poder, dominio y de todo nombre que se nombra, no solo en este siglo sino también en el venidero.
+Efe 1:22  Y todo sometió bajo sus pies, y a Él lo dio por cabeza sobre todas las cosas a la iglesia,
 
 ####            a.  No solo el Espíritu Santo mora individualmente dentro de cada miembro de la iglesia, sino que todos los miembros juntos forman un cuerpo **<u>unificado</u>** a través del cual el Espíritu Santo quiere afectar nuestro mundo. Filipenses 1:27b, 2:2; Efesios 4:4-6
+Note: Fil 1:27 ...luchando unánimes por la fe del evangelio; Efe 4:4  Hay un solo cuerpo y un solo Espíritu, así como también vosotros fuisteis llamados en una misma esperanza de vuestra vocación;
+Efe 4:5  un solo Señor, una sola fe, un solo bautismo,
+Efe 4:6  un solo Dios y Padre de todos, que está sobre todos, por todos y en todos.
 
 ####            b.  En este mismo punto, al hablar a la iglesia en Corinto, Pablo preguntó: *\"¿No sabéis que sois* \[plural, todos ustedes\] *templo de Dios, y que el Espíritu de Dios mora en **<u>vosotros</u>*** \[todos ustedes\]*? Si alguno destruyere el templo de Dios, Dios le destruirá a él; porque el templo de Dios, el cual sois vosotros* \[todos ustedes\]*, santo es*\". 1 Corintios 3:16-17
 
@@ -493,12 +513,17 @@ Note: Gal 3:8  Y la Escritura, previendo que Dios justificaría a los gentiles p
 ###        6.  Del Nuevo Testamento, observamos que las iglesias locales ni siquiera erigieron **<u>edificios</u>**; simplemente se reunían en lugares convenientes.
 
 ####            a.  La primera iglesia local, la iglesia de Jerusalén, se reunió por primera vez en el **<u>templo</u>**. Hechos 2:46 dice: \"*Y perseverando unánimes cada día en el templo, y partiendo el pan en las casas, comían juntos con alegría y sencillez de corazón*\". Más tarde, la persecución detuvo a la iglesia de continuar con esta práctica. Hechos 8:1-4
+Note: Hech 8:1  Y Saulo estaba de completo acuerdo con ellos en su muerte. En aquel día se desató una gran persecución en contra de la iglesia en Jerusalén, y todos fueron esparcidos por las regiones de Judea y Samaria, excepto los apóstoles.
+Hech 8:2  Y algunos hombres piadosos sepultaron a Esteban, y lloraron a gran voz por él.
+Hech 8:3  Pero Saulo hacía estragos en la iglesia entrando de casa en casa, y arrastrando a hombres y mujeres, los echaba en la cárcel.
+Hech 8:4  Así que los que habían sido esparcidos iban predicando la palabra.
 
 ####            b.  Hay varias referencias a grupos de creyentes reuniéndose en **<u>hogares</u>**: Priscila y Aquila en Roma (Romanos 16:5), Gayo en Corinto (Romanos 16:23) y Ninfas en Laodicea (Col. 4:15).
 
 ####            c.  En Hechos 19:1-10 leemos acerca de creyentes reuniéndose en una **<u>escuela</u>**. Por lo que podemos discernir, todos estos lugares fueron proporcionados de forma gratuita.
 
 ###        7.  También es de interés notar los **<u>nombres</u>** de las iglesias del Nuevo Testamento. En lugar de ser nombradas de acuerdo con alguna denominación o creencia, obtuvieron sus nombres de las ciudades donde estaban localizadas.
+Note: Se llama la iglesia de Dios 12x (hech 28:28, 1 Cor 1:2, 10:32, 11:16, 11:22, 15:9, 2 Cor 1:1, Gal 1:13, 1 Tes 2:14, 2 Tes 1:14, 1 Tim 3:15), La iglesia de Cristo (Rom 16:16). La iglesia de Efeso (Apo 2:1), Las iglesias de galacia, las iglesias de macedonia (2 Cor 8:1), las iglesias de judea (Gal 1:22)
 
 ###        8.  Aquellos que establecen iglesias deben aprender a distinguir entre ideas históricas y culturales y lo que el Nuevo Testamento en realidad **<u>enseña</u>** acerca de lo que constituye una verdadera iglesia del Nuevo Testamento. Este es uno de los conceptos más difíciles de comprender para los misioneros y plantadores de iglesias.
 
