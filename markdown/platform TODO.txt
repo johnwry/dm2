@@ -1,0 +1,8 @@
+RB-Platform TODO
+
+
+1. Implementar presentaciónes (reveal.js) como plugin Wordpress
+2. Examenes
+3. Notas individualizadas
+4. Presentador descargable para proyectar/mostrar sin necesidad de internet
+5. arreglar titulos con imágenes

@@ -7,22 +7,21 @@
 		<title>Biblical Discipleship</title>
 
 		<link rel="stylesheet" href="dist/reveal.css">
-		<link rel="stylesheet" href="dist/theme/black.css" id="theme">
+		<link rel="stylesheet" href="dist/theme/beige_default.css" id="theme">
 		<link rel="stylesheet" href="plugin/highlight/monokai.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
 	</head>
 
 	<body>
 
 		<div class="reveal">
-			<!-- ====================== BETWEEN REVEAL AND SLIDES ======================
-			<header class="left" style="position: absolute; left: 30px;top:20px;font-size:55px;"></header>
-			 ====================== BETWEEN REVEAL AND SLIDES ====================== -->
-			<div class="slides">
-                <sections data-markdown="markdown/biblical_discipleship/biblical_discipleship.md" data-separator="^\n\n\n" data-separator-vertical="^\n\n"></section>
-			</div>
-					<!---	<a href="#" onclick="toggleMenu(); return false;"
-						              ><i class="fa fa-bars"></i></a>
-<a href="#" onclick="toggleMenu(); return false;">menu</a>---->
+      <div class="slides">
+              <section data-markdown="markdown/list.md" 
+              data-separator="^\n"
+								data-separator-vertical="^___"
+         				data-separator-notes="^Note:">
+            </section>
+            </div>
 		</div>
 
 				<script src="dist/reveal.js"></script>
@@ -31,6 +30,7 @@
         <script src="plugin/notes/notes.js"></script>
 				<script src="plugin/menu/menu.js"></script>
 
+  
 
 		<script>
 
@@ -181,21 +181,18 @@
     loadIcons: true
 
   },
-/*	multiplex: {
-     // Example values. To generate your own, see the socket.io server instructions.
-     secret: '16162120261589670638', // Obtained from the socket.io server. Gives this (the master) control of the presentation
-     id: 'f31d4c5c7e9aea52', // Obtained from socket.io server
-		 url: 'https://reveal-multiplex.glitch.me/' // Location of socket.io server
-   },
+  multiplex: {
+    // Example values. To generate your own, see the socket.io server instructions.
+    secret: '16195508829401964297', // Obtained from the socket.io server. Gives this (the master) control of the presentation
+    id: '0da0daa6addd87d8', // Obtained from socket.io server
+    url: 'https://reveal-multiplex.glitch.me/' // Location of socket.io server
+  },
 
-   // Don't forget to add the dependencies
-	 dependencies: [
+				plugins: [ RevealMarkdown, RevealHighlight, RevealNotes, RevealMenu ],
+        dependencies: [
     { src: 'https://reveal-multiplex.glitch.me/socket.io/socket.io.js', async: true },
     { src: 'https://reveal-multiplex.glitch.me/client.js', async: true }
-  ],
-*/
-				plugins: [ RevealMarkdown, RevealHighlight, RevealNotes, RevealMenu ]
-
+  ]
 			});
 
 

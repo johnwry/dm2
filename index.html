@@ -16,14 +16,13 @@
 
 		<div class="reveal">
       <div class="slides">
-              <section data-markdown="dm2/web/markdown/list.md" 
-              data-separator="^\n\n\n"
-								data-separator-vertical="^\n\n"
+              <section data-markdown="markdown/list.md" 
+              data-separator="^\n"
+								data-separator-vertical="^___"
          				data-separator-notes="^Note:">
             </section>
             </div>
 		</div>
-
 				<script src="dist/reveal.js"></script>
         <script src="plugin/markdown/markdown.js"></script>
         <script src="plugin/highlight/highlight.js"></script>
@@ -34,7 +33,6 @@
 		<script>
 
 			Reveal.initialize({
-
 				controls: true,
 				progress: true,
 				history: true,
@@ -180,9 +178,21 @@
     loadIcons: true
 
   },
+  multiplex: {
+    // Example values. To generate your own, see the socket.io server instructions.
+    secret: '16195508829401964297', // Obtained from the socket.io server. Gives this (the master) control of the presentation
+    id: '0da0daa6addd87d8', // Obtained from socket.io server
+    url: 'https://reveal-multiplex.glitch.me/' // Location of socket.io server
+  },
 
-				plugins: [ RevealMarkdown, RevealHighlight, RevealNotes, RevealMenu ]
+				plugins: [ RevealMarkdown, RevealHighlight, RevealNotes, RevealMenu ],
+        dependencies: [
+    { src: 'https://reveal-multiplex.glitch.me/socket.io/socket.io.js', async: true },
+    { src: 'https://reveal-multiplex.glitch.me/master.js', async: true },
 
+    // and if you want speaker notes
+    { src: 'https://unpkg.com/reveal-notes-server/client.js', async: true }
+  ]
 			});
 
 

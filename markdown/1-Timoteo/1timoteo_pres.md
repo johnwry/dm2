@@ -1,4 +1,5 @@
 <!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/church-cover.jpeg" data-background-size="cover"  data-menu-title="Início"--> 
+
 <svg width="1920" height="1080" version="1.1" viewBox="0 0 460 250" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
  <defs>
   <filter id="filter1805" color-interpolation-filters="sRGB">
@@ -355,6 +356,7 @@ Efe 2:3  entre los cuales también todos nosotros en otro tiempo vivíamos en la
 ####            b.  **Abraham**: El argumento para la iglesia que comienza con Abraham se basa en las **<u>promesas</u>** hechas a Abraham y su simiente. Esta opinión se basa en lo siguiente:
 
 #####                1.  Ya que la promesa del **<u>evangelio</u>** está contenida en la promesa a Abraham (Gálatas 3:8), y dado que Dios llamó a Abraham con el objetivo de separar para Sí mismo una compañía de personas llamadas, elegidas y fieles, la iglesia debe haber comenzado con Abraham.
+Note: Gal 3:8  Y la Escritura, previendo que Dios justificaría a los gentiles por la fe, anunció de antemano las buenas nuevas a Abraham, diciendo: EN TI SERÁN BENDITAS TODAS LAS NACIONES.
 
 #####                2.  La mayoría de los que sostienen este punto de vista dicen que la iglesia no alcanzó la madurez completa hasta que el Espíritu Santo fue derramado en Pentecostés. Este punto de vista considera a la iglesia del Nuevo Testamento como una **<u>continuación</u>** de la iglesia del Antiguo Testamento.
 
@@ -454,7 +456,7 @@ Efe 2:3  entre los cuales también todos nosotros en otro tiempo vivíamos en la
 <!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/church-cover.jpeg" data-background-size="cover"  data-menu-title="II. Características Distintivas de la Iglesia del Nuevo "--> 
 # II. Características Distintivas de la Iglesia del Nuevo Testamento
 
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/body-christ.png"  data-background-size="400px" data-background-position="bottom" data-background-opacity="0.5" -->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/body-christ.png"  data-background-size="1200px" data-background-position="bottom" data-background-opacity="0.5" -->
 
 ##    A.  La iglesia es el <u>cuerpo</u> de Cristo en la tierra
 
