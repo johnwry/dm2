@@ -120,16 +120,7 @@ al <http://www.dm2usa.org>. \[DM2™\]
 
 ## Gálatas 1:2b -- La audiencia de la epístola fueron *las <u>iglesias</u> de Galacia.*
 
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/map.png" data-background-size="contain" -->
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="1624" height="1084.9" version="1.1" viewBox="150 50 429.69 287.04" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" >
-  <g>
-   <path d="m320.03 148.18 0.57558 3.108 7.137 1.3814 0.11512 1.9569-4.7196 2.8778-2.072-0.23023-3.3383 3.6836 10.13 10.245 6.101 0.69067 6.4463-1.8418 1.7267-1.8418-9.7846-12.893 2.4174-3.7987 9.209-2.8778 0.80579-7.9428-15.886 2.072s1.8418-1.2662-0.57558 0.69068c-2.4173 1.9569-8.2881 4.7196-8.2881 4.7196z" fill="#0ebecd" stroke="#000" stroke-width=".26458px"/>
-   <text x="323.15665" y="125.7216" fill="#000000" font-family="sans-serif" font-size="10.583px" stroke-width=".26458" style="line-height:1.25" xml:space="preserve"><tspan x="323.15665" y="125.7216" stroke-width=".26458">Galacia</tspan></text>
-   <path d="m338.65 126.64c-7.4663 15.398-8.5467 19.386-8.5467 19.386l-1.2068-3.2584 4.6195 1.6142-2.9002 2.5044-0.28085-1.765" stroke="#000" stroke-width="1.3151"/>
-  </g>
- </g>
-</svg>
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/map2.png" data-background-size="contain" -->
 
 ### Gálatas 1:2b -- ¿Quiénes eran las iglesias de Galacia?
 
