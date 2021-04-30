@@ -121,7 +121,7 @@
   background-color:#c0a86e;
   display:block;
   width:100%;
-}#titleSpan::first-letter{
+}#titleSpan::first-letter {
 
   color:transparent;
 }

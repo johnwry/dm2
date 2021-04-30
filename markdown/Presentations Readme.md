@@ -42,3 +42,17 @@ class="r-fit-text"
 # PANDOC
 pandoc -f docx "Haciendo Hacedores de Discípulos Maestro.docx" -t markdown --wrap=none --markdown-headings=atx --extract-media=extracted-media -o discipulado2.md
 
+# Steps to convert Word to Markdown
+1. Convert using pandoc (command above)
+2. Clean up markdown
+
+	a. make sure headers (# to ######) are in place
+	b. find/replace the following:
+		```
+		"]{.ul}**" to "</u>__"
+		```
+		and 
+		```
+		"**[" to "__<u>"
+		```
+
