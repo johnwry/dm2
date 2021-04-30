@@ -1,6 +1,6 @@
 ![](img/image1.jpeg){width="8.459027777777777in" height="10.956944444444444in"}
 
-![](img/image2.png){width="2.2847222222222223in" height="0.7986111111111112in"}![](extracted-media/media/image2.png){width="2.2847222222222223in" height="0.7986111111111112in"}
+![](img/image2.png){width="2.2847222222222223in" height="0.7986111111111112in"}![](img/image2.png){width="2.2847222222222223in" height="0.7986111111111112in"}
 
 ![](img/image3.png){width="3.161111111111111in" height="1.125in"}
 
@@ -18,10 +18,9 @@ Si has estado bajo ataque debido a la asombrosa gracia de Dios, entonces Gálata
 
 20 de Julio, 2020
 
-3^ra^ Edición
+3ra Edición
 
-**\
-**
+
 
 Derechos de Autor © **2020** **DM2** **International** **Inc.** Todos los derechos reservados
 
@@ -36,10 +35,9 @@ al <http://www.dm2usa.org>. \[DM2™\]
 **Para más información:**
 **disciplemakersmultiplied\@gmail.com**
 **DM2USA.org**
-**\
-**
 
 **Gálatas**
+
 |I.       Gálatas 1:1-5 -- Familiarizándose con el Libro de Gálatas                                                      | 6|
 |------------------------------------------------------------------| ----|
 |II\.     Gálatas 1:6-10 -- Una Mirada Cercana a la Apostasía en Galacia                                               |   12|
@@ -157,6 +155,8 @@ al <http://www.dm2usa.org>. \[DM2™\]
 ##### Hechos 13:51 -- La ciudad de **[Iconio]{.ul}** fue evangelizada.
 
 ##### Hechos 14:6 -- Y finalmente se establecieron iglesias en las ciudades de Listra y Derbe, la ciudad de la cual **[Timoteo]{.ul}** era originario. Hechos 16:1, 1 Corintios 4:17
+
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/evangelio/evangelio.001.png" data-background-size="contain"-->
 
 ## Gálatas 1:2c -- Al mencionar la resurrección, una parte integral del Evangelio, Pablo aludió su propósito principal en escribir: abordar la [distorsión]{.ul} del evangelio.
 

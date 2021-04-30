@@ -39,4 +39,6 @@ class="r-fit-text"
 
 <!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/scroll.png" data-background-size="300px" data-background-position="left" data-background-opacity="0.5"-->
 
+# PANDOC
+pandoc -f docx "Haciendo Hacedores de Discípulos Maestro.docx" -t markdown --wrap=none --markdown-headings=atx --extract-media=extracted-media -o discipulado2.md
 
