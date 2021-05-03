@@ -469,8 +469,8 @@ Note: Hech 8:3  Pero Saulo hacía estragos en la iglesia entrando de casa en cas
 En Resumen:
 Vemos claramente cuando La Iglesia (Te EKKLESIA) fué iniciado por Dios el Espiritu Santo. NO fué con ADAN, ABRAHAM, JESUS, PABLO. La iglesia de Jesucristo empezó en Hechos 2 cuando descendió el ES. Vimos 7 razones por lo cual creemos que si es evidente que la Biblia enseña su inicio en el día de Pentecostés, no antes ni después. Ahora empezamos a mirar algunas caracteristicas del la iglesia local. El primero es que la iglesia de Cristo es su cuerpo. La segunda caracteristica es como debe ser la iglesia local. Luego veremos por que es importante que la iglesia local sea autóctona. 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/church-cover.jpeg" data-background-size="cover"  data-menu-title="II. Características Distintivas de la Iglesia del Nuevo" style="color:white;" --> 
-# II. Características Distintivas de la Iglesia del Nuevo Testamento 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/church-cover.jpeg" data-background-size="cover"  data-menu-title="II. Características Distintivas de la Iglesia del Nuevo"  --> 
+# II. Características Distintivas de la Iglesia del Nuevo Testamento <!-- .element: style="color:white;" -->
 
 <!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/body-christ.png"  data-background-size="cover"  data-background-opacity="0.3" -->
 ##    A.  La iglesia es el <u>cuerpo</u> de Cristo en la tierra
