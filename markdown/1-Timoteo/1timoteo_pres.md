@@ -473,7 +473,7 @@ Vemos claramente cuando La Iglesia (Te EKKLESIA) fué iniciado por Dios el Espir
 # II. Características Distintivas de la Iglesia del Nuevo Testamento <!-- .element: style="color:white;" -->
 
 <!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/body-christ.png"  data-background-size="auto"  data-background-position="center" data-background-opacity="0.5" data-background-color="#0071e5ff" -->
-##    A.  La iglesia es el <u style="color:white;">cuerpo</u> de Cristo en la tierra 
+## A.  La iglesia es el <u style="color:white;">cuerpo</u> de Cristo en la tierra 
 <!-- .element: style="color:white;" -->
 
 ###        1.  La iglesia es el cuerpo de Cristo en la tierra, encargada de **<u>influenciar</u>** al mundo. Jesús dijo: \"*Sobre esta roca edificaré Mi iglesia; y las puertas del Hades no prevalecerán contra ella*\". Mateo 16:18
