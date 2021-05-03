@@ -15,7 +15,7 @@
 ### For advancing points within a slide (add this to the end of the line):
 
  <!-- .element: class="fragment" -->
-
+<!-- .element: class="fragment" data-fragment-index="26"-->
 ### For adding a background image:
 
 <!-- .slide:  data-background-image="markdown/img/mount.png"  --> 
