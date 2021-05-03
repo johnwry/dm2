@@ -505,7 +505,7 @@ Efe 4:6  un solo Dios y Padre de todos, que está sobre todos, por todos y en to
 
 ###        2.  A lo largo de los años, misioneros occidentales han superpuesto involuntariamente tradiciones y métodos occidentales en iglesias de todo el mundo. Desafortunadamente, esto ha resultado en la creencia de que la manera **<u>occidental</u>** de conducir una iglesia es bíblica.
 
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/church.png" data-background-size="300px" data-background-position="left" data-background-opacity="0.8"-->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/church.svg" data-background-size="300px" data-background-position="left" data-background-opacity="0.8"-->
 ###        3.  Ventanas con vitrales, rituales específicos para el culto, vestimenta eclesiástica, un tipo particular de música o el uso de himnarios, plataformas elevadas (altares) y platos de ofrendas son sólo algunas de las tradiciones que los occidentales han **<u>impuesto</u>** inadvertidamente a las iglesias locales.
 
 ###        4.  Incluso si no eres occidental, es posible que estés conduciendo la iglesia de una manera **<u>extraña</u>** y superpuesta que no tiene una base real en las Escrituras.
