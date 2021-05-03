@@ -997,6 +997,7 @@ Resulta en ser demasiado crítico con uno mismo y de los demás.
 <!-- .slide: data-background-color="#00285A" style="color:white;" -->
 ### El Legalismo
 Conduce a la hipocresía y la farsabilidad
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/hypocrites.svg" data-background-size="300px" data-background-position="left" data-background-opacity="0.8"-->
 
 <!-- .slide: data-background-color="#00285A" style="color:white;" -->
 ### El Legalismo
