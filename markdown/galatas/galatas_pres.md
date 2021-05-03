@@ -980,24 +980,24 @@ al <http://www.dm2usa.org>. \[DM2™\]
 ### El Legalismo
 Enfoque en lo externo-Las buenas obras externas de una persona
 Su enfoque es en la habilidad para ser bueno y hacerse acepto ante Dios.
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/fat-man.svg" data-background-size="300px" data-background-position="right" data-background-opacity="0.8"-->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/fat-man.svg" data-background-size="300px" data-background-position="right" data-background-opacity="1"-->
 
 <!-- .slide: data-background-color="#00285A" style="color:white;" -->
 ### El Legalismo
 Alienta el orgullo porque el enfoque está en el esfuerzo humano personal.
 Por lo general termina en la desesperación porque prácticamente nadie puede ser bueno basado en el esfuerzo humano personal.
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/pride.svg" data-background-size="300px" data-background-position="right" data-background-opacity="0.8"-->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/pride.svg" data-background-size="300px" data-background-position="right" data-background-opacity="1"-->
 
 <!-- .slide: data-background-color="#00285A" style="color:white;" -->
 ### El Legalismo
 Resulta en competencia con otros.
 Resulta en ser demasiado crítico con uno mismo y de los demás.
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/compete.svg" data-background-size="300px" data-background-position="left" data-background-opacity="0.8"-->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/compete.svg" data-background-size="300px" data-background-position="left" data-background-opacity="1"-->
 
 <!-- .slide: data-background-color="#00285A" style="color:white;" -->
 ### El Legalismo
 Conduce a la hipocresía y la farsabilidad
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/hypocrites.svg" data-background-size="300px" data-background-position="left" data-background-opacity="0.8"-->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/hypocrites.svg" data-background-size="300px" data-background-position="left" data-background-opacity="1"-->
 
 <!-- .slide: data-background-color="#00285A" style="color:white;" -->
 ### El Legalismo
@@ -1008,6 +1008,7 @@ Utiliza rituales y tradiciones no bíblicas o mal aplicados.
 Es contrario a la gracia.
 La gracia pone todo el foco en Cristo.
 El legalismo le quita el foco de Cristo y lo pone en el hombre y en sus esfuerzos.
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/spotlight.svg" data-background-size="300px" data-background-position="left" data-background-opacity="1"-->
 
 # Gálatas 2:15-18, 21 -- El recordatorio de Pablo a Pedro de que la Justificación es Sólo por Fe y No por <u>Obras</u>
 
