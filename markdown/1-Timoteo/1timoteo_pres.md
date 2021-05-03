@@ -611,13 +611,13 @@ Note: Se llama la iglesia de Dios 12x (hech 28:28, 1 Cor 1:2, 10:32, 11:16, 11:2
 
 ###        1.  De Hechos 2:41-47, discernimos diez razones por las cuales las iglesias locales se **<u>reúnen</u>**. Estas se dan a modo de recuento histórico y no son necesariamente directivas. No obstante, reflejan las razones básicas por las cuales todas las iglesias locales se reúnen.
 
-####            a.  Hechos 2:41 -- *Así que, los que recibieron Su palabra fueron bautizados; y se añadieron aquel día como tres mil personas*. Una iglesia local se reúne para **<u>discipular</u>** a los nuevos creyentes. Mateo 28:19-20
+####            a.  Hechos 2:41 -- *Así que, los que recibieron Su palabra fueron bautizados; y se añadieron aquel día como tres mil personas.* Una iglesia local se reúne para **<u>discipular</u>** a los nuevos creyentes. Mateo 28:19-20
 
 #####                1.  Aunque es Dios quien **<u>añade</u>** gente a la iglesia, es la iglesia local la que los recibe y se preocupa por ellos.
 
 #####                2.  Dios diseñó la iglesia para ser el **<u>refugio</u>** y guardián de los creyentes recién nacidos.
 
-####            b.  Hechos 2:42a -- *Y perseveraban en **la <u>doctrina</u> de los apóstoles**\...* Una iglesia local se reúne para aprender. Colosenses 1:28
+####            b.  Hechos 2:42a -- *Y perseveraban en __la <u>doctrina</u> de los apóstoles__...* Una iglesia local se reúne para aprender. Colosenses 1:28
 
 #####                1.  Los apóstoles fueron usados por Cristo para establecer el **<u>fundamento</u>** de Su iglesia. Efesios 2:20
 
@@ -647,11 +647,11 @@ Note: Se llama la iglesia de Dios 12x (hech 28:28, 1 Cor 1:2, 10:32, 11:16, 11:2
 
 ####            g.  Hechos 2:46 -- *Y perseverando unánimes cada día en el templo, y partiendo el pan en las casas, comían juntos con alegría y sencillez de corazón*\... Una iglesia local se reúne continuamente para preservar y mantener la **<u>unidad</u>** que tenemos en Cristo. Ef. 4:1-3
 
-####            h.  Hechos 2:47a -- \...*alabando a Dios*\... Una iglesia local se reúne para **<u>adorar</u>** a Dios corporativamente. Esto se hace a través de reuniones corporativas y al cantar al Señor juntos. Efesios 5:19, Colosenses 3: 12-17
+####            h.  Hechos 2:47a -- ...*alabando a Dios*... Una iglesia local se reúne para **<u>adorar</u>** a Dios corporativamente. Esto se hace a través de reuniones corporativas y al cantar al Señor juntos. Efesios 5:19, Colosenses 3: 12-17
 
 ####            i.  Hechos 2:47b -- *...y teniendo favor con todo el pueblo.*  Aunque no siempre se aprecia, una iglesia local se reúne para __<u>impactar</u>__  favorablemente a la comunidad en la que viven. Hechos 5:12-16
 
-####            j.  Hechos 2:47c -- *Y el Señor añadía cada día a la iglesia los que habían de ser salvos*. Una iglesia local prosigue a **<u>evangelizar</u>** a su comunidad local y añade almas a su congregación a través del alcance. Mateo 28:19-20, Marcos 16:15, Hechos 1:8
+####            j.  Hechos 2:47c -- *Y el Señor añadía cada día a la iglesia los que habían de ser salvos.* Una iglesia local prosigue a **<u>evangelizar</u>** a su comunidad local y añade almas a su congregación a través del alcance. Mateo 28:19-20, Marcos 16:15, Hechos 1:8
 
 <!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/church-cover.jpeg" data-background-size="cover"  data-menu-title="III. 1 Timoteo 1:1-2 - Saludos e Información Biográfica"--> 
 # III. 1 Timoteo 1:1-2 -- Saludos e Información Biográfica
