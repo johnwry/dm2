@@ -490,15 +490,10 @@ Vemos claramente cuando La Iglesia (Te EKKLESIA) fué iniciado por Dios el Espir
 ####            b.  1 Timoteo 3:15b -- \...*la iglesia del Dios viviente, columna y baluarte* \['**<u>sostén</u>**' -- LBLA\] *de la verdad.*
 
 ###        4.  La iglesia, que consiste en todos los **<u>creyentes</u>**, es la morada de Dios (*templo de Dios*, Efesios 2:21-22) y el canal a través del cual Él vive y se extiende al mundo.
-Note: Efe 1:21  muy por encima de todo principado, autoridad, poder, dominio y de todo nombre que se nombra, no solo en este siglo sino también en el venidero.
-Efe 1:22  Y todo sometió bajo sus pies, y a Él lo dio por cabeza sobre todas las cosas a la iglesia,
 
 ####            a.  No solo el Espíritu Santo mora individualmente dentro de cada miembro de la iglesia, sino que todos los miembros juntos forman un cuerpo **<u>unificado</u>** a través del cual el Espíritu Santo quiere afectar nuestro mundo. Filipenses 1:27b, 2:2; Efesios 4:4-6
-Note: Fil 1:27 ...luchando unánimes por la fe del evangelio; Efe 4:4  Hay un solo cuerpo y un solo Espíritu, así como también vosotros fuisteis llamados en una misma esperanza de vuestra vocación;
-Efe 4:5  un solo Señor, una sola fe, un solo bautismo,
-Efe 4:6  un solo Dios y Padre de todos, que está sobre todos, por todos y en todos.
 
-####            b.  En este mismo punto, al hablar a la iglesia en Corinto, Pablo preguntó: *\"¿No sabéis que sois* \[plural, todos ustedes\] *templo de Dios, y que el Espíritu de Dios mora en **<u>vosotros</u>*** \[todos ustedes\]*? Si alguno destruyere el templo de Dios, Dios le destruirá a él; porque el templo de Dios, el cual sois vosotros* \[todos ustedes\]*, santo es*\". 1 Corintios 3:16-17
+####            b.  En este mismo punto, al hablar a la iglesia en Corinto, Pablo preguntó: "*¿No sabéis que sois* [plural, todos ustedes] *templo de Dios, y que el Espíritu de Dios mora en __<u>vosotros</u>__* [todos ustedes]? Si alguno destruyere el templo de Dios, Dios le destruirá a él; porque el templo de Dios, el cual sois vosotros  [todos ustedes] *, santo es.*" 1 Corintios 3:16-17
 
 ##    B.  ¿Cómo debería ser una iglesia bíblica local?
 
@@ -655,7 +650,7 @@ Note: Se llama la iglesia de Dios 12x (hech 28:28, 1 Cor 1:2, 10:32, 11:16, 11:2
 ####            j.  Hechos 2:47c -- *Y el Señor añadía cada día a la iglesia los que habían de ser salvos.* Una iglesia local prosigue a **<u>evangelizar</u>** a su comunidad local y añade almas a su congregación a través del alcance. Mateo 28:19-20, Marcos 16:15, Hechos 1:8
 
 <!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/church-cover.jpeg" data-background-size="cover"  data-menu-title="III. 1 Timoteo 1:1-2 - Saludos e Información Biográfica" data-background-color="beige" --> 
-# III. 1 Timoteo 1:1-2 -- Saludos e Información Biográfica
+# III. 1 Timoteo 1:1-2 -- Saludos e Información Biográfica <!-- .element: style="color:white;" -->
 
 <!-- .slide:  data-background-color="white" --> 
 <svg id="svg12583" width="1000" height="700" inkscape:version="1.0.2 (e86c8708, 2021-01-15)" sodipodi:docname="bosquejo-opt.svg" version="1.1" viewBox="0 0 296 207" xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd">
