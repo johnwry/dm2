@@ -838,15 +838,15 @@ al <http://www.dm2usa.org>. \[DM2™\]
 
 ###### Por lo tanto, aparte de la fe en Cristo, no hay forma de obtener el regalo __<u>gratuito</u>__ de la vida eterna. Hechos 4:12, Efesios 2:5, Romanos 6:23
 
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/spot/spot.001.png" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/spot/spot.001.jpeg" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
 
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/spot/spot.002.png" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/spot/spot.002.jpeg" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
 
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/spot/spot.003.png" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/spot/spot.003.jpeg" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
 
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/spot/spot.004.png" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/spot/spot.004.jpeg" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
 
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/spot/spot.005.png" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/spot/spot.005.jpeg" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
 
 ### Gálatas 2:4-5 -- Pablo explicó por qué dialogó con los apóstoles sobre el evangelio. Se produjo debido a una confrontación que había __<u>encarado</u>__ con falsos creyentes de Jerusalén.
 
@@ -855,6 +855,23 @@ al <http://www.dm2usa.org>. \[DM2™\]
 ##### Gálatas 2:4a -- Estos individuos eran engañosos. Pablo y Bernabé ni siquiera consideraron a estos hombres como __<u>verdaderos</u>__ creyentes en Cristo. "\...*a pesar de los falsos hermanos...".*
 
 ##### Gálatas 2:4b -- Eran __<u>topos</u>__. Los legalistas entran como agentes secretos. "*\...introducidos a escondidas, que entraban para espiar*...".
+
+<!-- .slide: data-background-color="black" data-auto-animate="" style="color:white;"-->
+### 7 PASOS PARA CONVERTIRSE EN LEGALISTA <!-- .element: style="color:white;" -->
+- Haz reglas fuera de la Biblia 
+<!-- .element: class="fragment" -->
+- Esfuérzate para cumplir tus reglas
+<!-- .element: class="fragment" -->
+- Penalízate cuando no las cumples
+<!-- .element: class="fragment" -->
+- Se orgulloso cuando cumples tus reglas
+<!-- .element: class="fragment" -->
+- Desígnate como juez sobre otros
+<!-- .element: class="fragment" -->
+- Enójate con los que rompen tus reglas
+<!-- .element: class="fragment" -->
+- Castiga los perdedores
+<!-- .element: class="fragment" -->
 
 ##### Gálatas 2:4c -- Eran maliciosos. Estos legalistas querían subyugar a los creyentes para hacerlos __<u>esclavos</u>__. "\...*para reducirnos a esclavitud*".
 
@@ -955,6 +972,39 @@ al <http://www.dm2usa.org>. \[DM2™\]
 ##### Gálatas 2:14c -- "*...delante de todos\...".* Pablo denunció a Pedro en __<u>público</u>__. Gálatas 2:11
 
 #### Gálatas 2:14d -- "*...¿por qué obligas a los gentiles a judaizar?".* Obviamente, a la luz de esta reprimenda, Pablo no vio a Pedro como el primer __<u>papa</u>__ de la iglesia que debería ser venerado y nunca reprendido. Gálatas 2:6
+
+<!-- .slide: data-background-color="#00285A" style="color:white;" -->
+### Características de **El Legalismo** 
+
+<!-- .slide: data-background-color="#00285A" style="color:white;" -->
+### El Legalismo
+Enfoque en lo externo-Las buenas obras externas de una persona
+Su enfoque es en la habilidad para ser bueno y hacerse acepto ante Dios.
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/fat-man.svg" data-background-size="300px" data-background-position="left" data-background-opacity="0.5"-->
+
+<!-- .slide: data-background-color="#00285A" style="color:white;" -->
+### El Legalismo
+Alienta el orgullo porque el enfoque está en el esfuerzo humano personal.
+Por lo general termina en la desesperación porque prácticamente nadie puede ser bueno basado en el esfuerzo humano personal.
+
+<!-- .slide: data-background-color="#00285A" style="color:white;" -->
+### El Legalismo
+Resulta en competencia con otros.
+Resulta en ser demasiado crítico con uno mismo y de los demás.
+
+<!-- .slide: data-background-color="#00285A" style="color:white;" -->
+### El Legalismo
+Conduce a la hipocresía y la farsabilidad
+
+<!-- .slide: data-background-color="#00285A" style="color:white;" -->
+### El Legalismo
+Utiliza rituales y tradiciones no bíblicas o mal aplicados.
+
+<!-- .slide: data-background-color="#00285A" style="color:white;" -->
+### El Legalismo
+Es contrario a la gracia.
+La gracia pone todo el foco en Cristo.
+El legalismo le quita el foco de Cristo y lo pone en el hombre y en sus esfuerzos.
 
 # Gálatas 2:15-18, 21 -- El recordatorio de Pablo a Pedro de que la Justificación es Sólo por Fe y No por <u>Obras</u>
 
