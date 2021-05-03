@@ -1,8 +1,8 @@
 ![](img/image1.jpeg){width="8.459027777777777in" height="10.956944444444444in"}
 
-![](img/image2.png){width="2.2847222222222223in" height="0.7986111111111112in"}![](img/image2.png){width="2.2847222222222223in" height="0.7986111111111112in"}
+![](img/image2.png){width="2.2847222222222223in" height="0.7986111111111112in"}
 
-![](img/image3.png){width="3.161111111111111in" height="1.125in"}
+
 
 Copyright © **2020 by DM2 International Inc** All rights reserved
 
@@ -57,7 +57,7 @@ al <http://www.dm2usa.org>. \[DM2™\]
 |  XVI\.    Gálatas 6:1-10 -- Pablo enseña que el Andar Por Medio del Espíritu Debe Resultar en un Servicio Práctico.       |80|
 |  XVII\.   Gálatas 6:11-18 -- Las Declaraciones Finales del Apóstol Pablo                                                |  85|
 
-**\
+
 **
 **El Libro de Gálatas**
 ***El Evangelio Bajo Ataque***
@@ -120,7 +120,7 @@ al <http://www.dm2usa.org>. \[DM2™\]
 
 ## Gálatas 1:2b -- La audiencia de la epístola fueron *las <u>iglesias</u> de Galacia.*
 
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/map2.png" data-background-size="contain" -->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/map2.png" data-background-size="contain" data-background-color="black" -->
 
 ### Gálatas 1:2b -- ¿Quiénes eran las iglesias de Galacia?
 
@@ -137,6 +137,8 @@ al <http://www.dm2usa.org>. \[DM2™\]
 #### Aunque acaloradamente debatido, nuestra opinión es que esta carta fue escrita a varias congregaciones errantes en el sur de __<u>Galacia</u>__ alrededor del año 49 d.C.
 
 #### Fue muy probablemente escrita durante el tiempo __<u>entre</u>__ el primer y el segundo viaje misionero de Pablo y antes del Concilio de Jerusalén en Hechos 15.
+
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/primeros-30.png" data-background-size="contain" data-background-color="black" -->
 
 ### Pablo y Bernabé plantaron estas iglesias gálatas en su __<u>primer</u>__ viaje misionero, alrededor del año 44-46 d.C. Hechos 13, 14
 
@@ -157,6 +159,8 @@ al <http://www.dm2usa.org>. \[DM2™\]
 ##### Hechos 13:51 -- La ciudad de __<u>Iconio</u>__ fue evangelizada.
 
 ##### Hechos 14:6 -- Y finalmente se establecieron iglesias en las ciudades de Listra y Derbe, la ciudad de la cual __<u>Timoteo</u>__ era originario. Hechos 16:1, 1 Corintios 4:17
+
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/primer-viaje-pablo.png" data-background-size="contain" data-background-color="black" -->
 
 <!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/evangelio/evangelio.001.png" data-background-size="contain" data-background-color="black" data-auto-animate=""  -->
 
@@ -518,6 +522,48 @@ al <http://www.dm2usa.org>. \[DM2™\]
 
 ### Gálatas 1:4b -- El evangelio de la gracia no sólo nos justifica eternamente, sino que también __<u>libera</u>__ al creyente para vivir realmente, "...*para librarnos del presente siglo malo..."*. Esta declaración se refiere a la segunda fase de nuestra salvación, la santificación.
 
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/3-tiempos/3-tiempos.001.png" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
+
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/3-tiempos/3-tiempos.002.png" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
+
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/3-tiempos/3-tiempos.003.png" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
+
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/3-tiempos/3-tiempos.004.png" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
+
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/3-tiempos/3-tiempos.005.png" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
+
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/3-tiempos/3-tiempos.006.png" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
+
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/3-tiempos/3-tiempos.007.png" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
+
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/3-tiempos/3-tiempos.008.png" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
+
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/3-tiempos/3-tiempos.009.png" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
+
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/3-tiempos/3-tiempos.010.png" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
+
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/3-tiempos/3-tiempos.011.png" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
+
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/3-tiempos/3-tiempos.012.png" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
+
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/3-tiempos/3-tiempos.013.png" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
+
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/3-tiempos/3-tiempos.014.png" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
+
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/3-tiempos/3-tiempos.015.png" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
+
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/3-tiempos/3-tiempos.016.png" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
+
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/3-tiempos/3-tiempos.017.png" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
+
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/3-tiempos/3-tiempos.018.png" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
+
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/3-tiempos/3-tiempos.019.png" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
+
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/3-tiempos/3-tiempos.020.png" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
+
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/3-tiempos/3-tiempos.021.png" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
+
 ### Gálatas 1:4c -- El evangelio de la gracia no fue de hombre, sino según el propósito y el __<u>plan</u>__ de Dios. "\...*conforme a la voluntad de nuestro Dios y Padre...".*
 
 ### Gálatas 1:5 -- Sólo el evangelio de la gracia da __<u>todo</u>__ honor y gloria a Dios. "*a quien sea la gloria por los siglos de los siglos. Amén".*
@@ -601,6 +647,10 @@ al <http://www.dm2usa.org>. \[DM2™\]
 ##### Pablo dijo que una __<u>maldición</u>__ ANATEMA debería caer sobre cualquier persona, incluidos él o sus compañeros de trabajo, si predicaban un mensaje alterado. "*Mas si aun nosotros*...".
 
 ##### Pablo advirtió que incluso si un __<u>ángel</u>__ descendiera del cielo y predicara un evangelio diferente, debería ser maldito ANATEMA.
+
+<!-- .slide: data-background-color="red" style="color:white" data-transition="zoom" -->
+### ANATEMA  <!-- .element class="r-fit-text" -->
+>Porque deseara yo mismo ser anatema, separado de Cristo, por amor a mis hermanos, los que son mis parientes según la carne; Romanos 9:3
 
 #### Gálatas 1:8b -- El ultimátum de Pablo pronunció la condenación de Dios sobre __<u>cualquiera</u>__ que predique otro evangelio diciendo: \"...*sea anatema*\".
 
@@ -1520,7 +1570,7 @@ xvi. ####### Hechos 4:10-12 -- Si tu fe __<u>descansa</u>__ en el objeto apropia
 
 # Gálatas 3:26-4:7 -- Nuestra Identidad en Cristo Trae Bendición Asombrosa 
 
-## Gálatas 3:26 -- Identifiquemos las bendiciones que son [nuestras]{.ul} en Cristo, teniendo en cuenta que el legalismo nunca proporciona bendición, solo maldiciones por nuestros fracasos.
+## Gálatas 3:26 -- Identifiquemos las bendiciones que son <u>nuestras</u> en Cristo, teniendo en cuenta que el legalismo nunca proporciona bendición, solo maldiciones por nuestros fracasos.
 
 ### Gálatas 3:26 -- ¡Gracias a lo que Jesucristo logró a nuestro favor, tenemos la increíble bendición de ser hijos de Dios! *"...todos __<u>sois</u>__ hijos de Dios por la fe en Cristo Jesús"*. Ver 1 Juan 3:1.
 
@@ -1576,7 +1626,7 @@ xvi. ####### Hechos 4:10-12 -- Si tu fe __<u>descansa</u>__ en el objeto apropia
 
 #### Gálatas 3:29c -- Los legalistas deben entender que el convertirse en heredero de la promesa no puede lograrse a través de las __<u>obras</u>__. Convertirse en un heredero proviene de la promesa de Dios, libre de mérito u obligación.
 
-## Gálatas 4:1-7 -- Así es como llegamos a ser aceptados en [Cristo]{.ul}.
+## Gálatas 4:1-7 -- Así es como llegamos a ser aceptados en <u>Cristo</u>.
 
 ### Gálatas 4:1-3 -- Comenzaremos examinando a los niños __<u>nacidos</u>__ bajo la Ley.
 
@@ -1650,7 +1700,7 @@ xvi. ####### Hechos 4:10-12 -- Si tu fe __<u>descansa</u>__ en el objeto apropia
 
 # Gálatas 4:8-10 -- ¡Advertencia Contra el Regreso a la Esclavitud! 
 
-## Gálatas 4:8-10 -- Pablo advirtió a los Gálatas que no [volvieran]{.ul} a la esclavitud.
+## Gálatas 4:8-10 -- Pablo advirtió a los Gálatas que no <u>volvieran</u> a la esclavitud.
 
 ### Gálatas 4:8 -- Antes de que los gálatas fueran salvos, sirvieron a falsos __<u>dioses</u>__ que los condujeron a la esclavitud.
 
