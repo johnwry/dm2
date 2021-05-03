@@ -64,7 +64,7 @@ al <http://www.dm2usa.org>. \[DM2™\]
 
 # I. Gálatas 1:1-5 -- Familiarizándose con el Libro de Gálatas
 
-## A. Gálatas 1:1-2 -- [Pablo]{.ul}, el autor de la epístola, se presenta.
+## A. Gálatas 1:1-2 -- <u>Pablo</u>, el autor de la epístola, se presenta.
 
 ### 1. Gálatas 1:1a -- "*Pablo, apóstol (no de hombres ni por hombre*"*...*Consideremos la __<u>distinción</u>__ del apostolado de Pablo.
 
@@ -86,7 +86,7 @@ al <http://www.dm2usa.org>. \[DM2™\]
 
 ###### e) Bajo el liderazgo de Pedro, los discípulos escogieron en oración a Matías como apóstol por medio de orar y echar suertes para reemplazar a Judas Iscariote como apóstol de __<u>Israel</u>__. Hechos 1:15-26
 
-##### 4) Para ser uno de los doce *apóstoles del __[Cordero]{.ul}__* (Apocalipsis 21:14) uno tenía que haber sido personalmente designado por Jesucristo como Su emisario. 1 Corintios 9:1-2; Hechos 9:15; 22:21, 26:15-18; 1 Timoteo 1:1
+##### 4) Para ser uno de los doce *apóstoles del __<u>Cordero</u>__* (Apocalipsis 21:14) uno tenía que haber sido personalmente designado por Jesucristo como Su emisario. 1 Corintios 9:1-2; Hechos 9:15; 22:21, 26:15-18; 1 Timoteo 1:1
 
 ###### a) Según Apocalipsis 21:14 sólo hubo __<u>12</u>__ apóstoles del Cordero Jesucristo.
 
@@ -118,7 +118,7 @@ al <http://www.dm2usa.org>. \[DM2™\]
 
 #### La inclusión de estos creyentes no identificados resaltó el hecho de que Pablo no estaba __<u>solo</u>__ en su preocupación por los gálatas y las fuertes opiniones que estaba a punto de expresar.
 
-## Gálatas 1:2b -- La audiencia de la epístola fueron *las <u>iglesias</u> de Galacia.*
+## B. Gálatas 1:2b -- La audiencia de la epístola fueron *las <u>iglesias</u> de Galacia.*
 
 <!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/map2.png" data-background-size="contain" data-background-color="black" -->
 
@@ -452,7 +452,7 @@ al <http://www.dm2usa.org>. \[DM2™\]
 
 <!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/evangelio/evangelio.145.png" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
 
-## Gálatas 1:2c -- Al mencionar la resurrección, una parte integral del Evangelio, Pablo aludió su propósito principal en escribir: abordar la [distorsión]{.ul} del evangelio.
+## C. Gálatas 1:2c -- Al mencionar la resurrección, una parte integral del Evangelio, Pablo aludió su propósito principal en escribir: abordar la <u>distorsión</u> del evangelio.
 
 ### Sorprendentemente, en muy corto tiempo (dos años más o menos) estas iglesias se habían alejado de la verdadera __<u>gracia</u>__ de Cristo. Gálatas 1:6
 
@@ -514,7 +514,7 @@ al <http://www.dm2usa.org>. \[DM2™\]
 
 ###### Los legalistas __<u>enseñan</u>__ que vivir por gracia es antinomianismo, cuando es la gracia y la fe las que establecen la Ley. Romanos 3:31
 
-## Gálatas 1:3-5 -- Uno de los objetivos principales de la epístola fue [defender]{.ul} el evangelio de la gracia de Cristo del legalismo.
+## D. Gálatas 1:3-5 -- Uno de los objetivos principales de la epístola fue <u>defender</u> el evangelio de la gracia de Cristo del legalismo.
 
 ### Gálatas 1:3 -- El evangelio se basa en la __<u>gracia</u>__ de Dios. Apropiadamente, la primera declaración de Pablo a los Gálatas fue: \"*Gracia y paz sean a vosotros*\".
 
@@ -568,7 +568,7 @@ al <http://www.dm2usa.org>. \[DM2™\]
 
 ### Gálatas 1:5 -- Sólo el evangelio de la gracia da __<u>todo</u>__ honor y gloria a Dios. "*a quien sea la gloria por los siglos de los siglos. Amén".*
 
-## Gálatas 1:1-4 -- Veamos los absolutos del evangelio como se encuentran en los primeros cuatro versículos.
+## E. Gálatas 1:1-4 -- Veamos los absolutos del evangelio como se encuentran en los primeros cuatro versículos.
 
 ### Gálatas 1:3 -- El evangelio trata acerca de una __<u>persona</u>__ en particular, el *Señor Jesucristo.*
 
@@ -586,9 +586,9 @@ al <http://www.dm2usa.org>. \[DM2™\]
 
 # II. Gálatas 1:6-10 -- Una Mirada Cercana a la Apostasía en Galacia
 
-## Gálatas 1:6-7 -- Pablo explicó la alteración del evangelio en Galacia.
+## A. Gálatas 1:6-7 -- Pablo explicó la alteración del evangelio en Galacia.
 
-### Gálatas 1:6 -- Los gálatas se habían apartado del __<u>evangelio]{.ul}.**
+### Gálatas 1:6 -- Los gálatas se habían apartado del __<u>evangelio</u>.**
 
 #### Lamentablemente, la desviación de los gálatas de la verdad del evangelio sucedió muy rápidamente, en sólo 1 a 4 __<u>años</u>__ desde el momento de su salvación.
 
@@ -628,7 +628,7 @@ al <http://www.dm2usa.org>. \[DM2™\]
 
 ##### La palabra *perturban* es TARASSO, un término gráfico que significa molestar, agitar, __<u>provocar</u>__ o asustar.
 
-##### *"Y los discípulos, viéndole* \[a Jesús\] *andar sobre el mar, se __turbaron__, diciendo: !Un fantasma! Y dieron voces de __[miedo]{.ul}__ .*" (Mateo 14:26) La palabra *turbaron* es una forma de TARASSO.
+##### *"Y los discípulos, viéndole* \[a Jesús\] *andar sobre el mar, se __turbaron__, diciendo: !Un fantasma! Y dieron voces de __<u>miedo</u>__ .*" (Mateo 14:26) La palabra *turbaron* es una forma de TARASSO.
 
 #### Gálatas 1:7c -- La intención de los falsos maestros era __<u>tergiversar</u>__ el evangelio de Cristo. "\...*y quieren **pervertir** el evangelio de Cristo...".*
 
@@ -638,7 +638,7 @@ al <http://www.dm2usa.org>. \[DM2™\]
 
 ##### Siempre ha habido un __<u>ataque</u>__ intencional contra el evangelio. ¿Quién crees que está detrás de esta infamia?
 
-## Gálatas 1:8-9 -- Pablo pronunció un anatema (maldición) por alterar el evangelio.
+## B. Gálatas 1:8-9 -- Pablo pronunció un anatema (maldición) por alterar el evangelio.
 
 ### Gálatas 1:8 -- Pablo dio una __<u>reprimenda</u>__ general a cualquiera que pudiera verse tentado a torcer el mensaje del evangelio.
 
@@ -662,7 +662,7 @@ al <http://www.dm2usa.org>. \[DM2™\]
 
 #### Gálatas 1:9c -- "...*diferente evangelio del que habéis recibido\...".* El evangelio que Pablo predicaba en todas partes era el __<u>mismo</u>__ evangelio que los gálatas habían recibido originalmente.
 
-## Gálatas 1:10 -- Buscar la aprobación del [hombre]{.ul} es el camino a la apostasía.
+## C. Gálatas 1:10 -- Buscar la aprobación del <u>hombre</u> es el camino a la apostasía.
 
 ### Gálatas 1:10 -- ¿Buscaba Pablo la aprobación de los hombres? Podemos dar un rotundo __<u>NO</u>__ como respuesta.
 
@@ -692,7 +692,7 @@ al <http://www.dm2usa.org>. \[DM2™\]
 
 # III. Gálatas 1:11-24 -- El Evangelio de la Salvación fue Escrito por Dios
 
-## A. Gálatas 1:11-12 -- Investiguemos los [orígenes]{.ul} del evangelio que Pablo predicaba.
+## A. Gálatas 1:11-12 -- Investiguemos los <u>orígenes</u> del evangelio que Pablo predicaba.
 
 ### Gálatas 1:11 -- El evangelio no fue concebido por el pensamiento __<u>humano</u>__. "*Mas os hago saber, hermanos, que el evangelio anunciado por mí, no es según hombre"*.
 
@@ -714,7 +714,7 @@ al <http://www.dm2usa.org>. \[DM2™\]
 
 ##### Segundo, también podemos ver que Jesús es el __<u>sujeto</u>__ del evangelio. "\...*por revelación **de Jesucristo**".*
 
-## Gálatas 1:13-24 -- Examinaremos cómo Jesús [reveló]{.ul} el evangelio a Pablo.
+## B. Gálatas 1:13-24 -- Examinaremos cómo Jesús <u>reveló</u> el evangelio a Pablo.
 
 ### Gálatas 1:13-14 -- La aversión inicial de Pablo hacia el evangelio mostró cuán improbable hubiera sido para él haber cambiado de __<u>mente</u>__ sin la intervención divina.
 
@@ -778,7 +778,7 @@ al <http://www.dm2usa.org>. \[DM2™\]
 
 # Gálatas 2:1-14 -- Pablo y Su Defensa del Evangelio
 
-## Gálatas 2:1-10 -- Pablo defendió en privado el evangelio en [Jerusalén]{.ul}.
+## A. Gálatas 2:1-10 -- Pablo defendió en privado el evangelio en <u>Jerusalén</u>.
 
 ### Gálatas 2:1-3 -- En algún punto en el tiempo, Pablo subió a Jerusalén y habló con los apóstoles, revelando el mensaje del evangelio que él predicaba con __<u>detalles</u>__ precisos.
 
@@ -810,9 +810,9 @@ al <http://www.dm2usa.org>. \[DM2™\]
 
 ###### Gálatas 2:2c -- La preocupación de Pablo era que su __<u>viaje</u>__ a Jerusalén hubiera sido una pérdida de tiempo si ellos no estaban de acuerdo. "\...*para no correr o haber corrido en vano..."*.
 
-i.  ####### Desde la perspectiva de Pablo, su __<u>visita</u>__ se desperdiciaría si los apóstoles no estuvieran de acuerdo con el evangelio que él predicaba.
+###### Desde la perspectiva de Pablo, su __<u>visita</u>__ se desperdiciaría si los apóstoles no estuvieran de acuerdo con el evangelio que él predicaba.
 
-ii. ####### Pablo no estaba a punto de __<u>cambiar</u>__ el mensaje del evangelio. Él nunca cambiaría el evangelio para complacer a ningún hombre o grupo de hombres. Gálatas 1:6-10, 15-16
+###### Pablo no estaba a punto de __<u>cambiar</u>__ el mensaje del evangelio. Él nunca cambiaría el evangelio para complacer a ningún hombre o grupo de hombres. Gálatas 1:6-10, 15-16
 
 #### Gálatas 2:3 -- Los apóstoles obviamente estuvieron de __<u>acuerdo</u>__ con Pablo con respecto al evangelio que predicaba porque no requirieron que Tito, un creyente gentil, fuera circuncidado. Hechos 15:1
 
@@ -834,9 +834,19 @@ ii. ####### Pablo no estaba a punto de __<u>cambiar</u>__ el mensaje del evangel
 
 ###### La __<u>fe</u>__ en la persona de Cristo (el Dios-Hombre) y Su obra perfecta de morir por tus pecados y resucitar de entre los muertos es la respuesta precisa que Dios requiere del pecador para salvación. Gálatas 2:16, 1 Corintios 15:3-4, 11
 
-iii. ####### Su obra de morir por nuestros pecados es la única __<u>provisión</u>__ de Dios para nuestra salvación. Romanos 3:24, 28
+###### Su obra de morir por nuestros pecados es la única __<u>provisión</u>__ de Dios para nuestra salvación. Romanos 3:24, 28
 
-iv. ####### Por lo tanto, aparte de la fe en Cristo, no hay forma de obtener el regalo __<u>gratuito</u>__ de la vida eterna. Hechos 4:12, Efesios 2:5, Romanos 6:23
+###### Por lo tanto, aparte de la fe en Cristo, no hay forma de obtener el regalo __<u>gratuito</u>__ de la vida eterna. Hechos 4:12, Efesios 2:5, Romanos 6:23
+
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/spot/spot.001.png" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
+
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/spot/spot.002.png" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
+
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/spot/spot.003.png" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
+
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/spot/spot.004.png" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
+
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/spot/spot.005.png" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
 
 ### Gálatas 2:4-5 -- Pablo explicó por qué dialogó con los apóstoles sobre el evangelio. Se produjo debido a una confrontación que había __<u>encarado</u>__ con falsos creyentes de Jerusalén.
 
@@ -882,7 +892,7 @@ iv. ####### Por lo tanto, aparte de la fe en Cristo, no hay forma de obtener el 
 
 ##### Gálatas 2:10b -- Sólo le pidieron a Pablo y a Bernabé cuidar a los pobres. Esto fue exactamente lo que Pablo estaba haciendo en esta visita a Jerusalén. "\...*lo cual también procuré con diligencia* \[SPOUDAZO, aoristo, activo, indicativo\] *hacer"*. Hechos 11:26-30
 
-## Gálatas 2:11-14 -- Pablo defendió públicamente el evangelio en [Antioquía]{.ul}.
+## B. Gálatas 2:11-14 -- Pablo defendió públicamente el evangelio en <u>Antioquía</u>.
 
 ### Gálatas 2:11-13 -- Pablo les contó a los gálatas acerca de un __<u>error</u>__ cometido por Pedro y cómo afectó negativamente a la iglesia y al evangelio.
 
@@ -898,11 +908,11 @@ iv. ####### Por lo tanto, aparte de la fe en Cristo, no hay forma de obtener el 
 
 ###### Si bien Pedro pudo haber pensado que esto era sólo un problema cultural o social, su hipocresía en realidad confundió el mensaje del __<u>evangelio</u>__.
 
-v.  ####### Pedro hizo que __<u>pareciera</u>__ que los judíos circuncidados eran más aceptables para Dios que los gentiles. Hechos 10:34, Gálatas 2:6b, Romanos 2:11, 1 Pedro 1:17
+###### v. Pedro hizo que __<u>pareciera</u>__ que los judíos circuncidados eran más aceptables para Dios que los gentiles. Hechos 10:34, Gálatas 2:6b, Romanos 2:11, 1 Pedro 1:17
 
-vi. ####### También hizo que pareciera que los judaizantes tenían __<u>razón</u>__ al exigir que las personas fueran circuncidadas y obedecieran la Ley para ser aceptadas por Dios. Filipenses 3:3
+###### vi. También hizo que pareciera que los judaizantes tenían __<u>razón</u>__ al exigir que las personas fueran circuncidadas y obedecieran la Ley para ser aceptadas por Dios. Filipenses 3:3
 
-vii. ####### Estaba reconstruyendo __<u>muros</u>__ de buenas obras legalistas que habían sido destruidos al predicar el evangelio. Efesios 2:11-22
+###### vii. Estaba reconstruyendo __<u>muros</u>__ de buenas obras legalistas que habían sido destruidos al predicar el evangelio. Efesios 2:11-22
 
 ###### Esta hipocresía se hizo más severa debido a la posición de Pedro como líder en la iglesia. El resultado fue que *aun Bernabé fue también __<u>arrastrado</u>__ por la hipocresía de ellos*. Gálatas 2:13
 
@@ -910,15 +920,15 @@ vii. ####### Estaba reconstruyendo __<u>muros</u>__ de buenas obras legalistas q
 
 ###### Gálatas 2:11 -- "*Pero cuando Pedro vino a Antioquía, le resistí __<u>cara</u>__ a cara, porque era de condenar"*.
 
-viii. ####### Esta palabra *condenar* KATAGINOSKO es encontrada sólo __<u>tres</u>__ veces en el Nuevo Testamento. Se deriva de la palabra compuesta de KATA que significa \"de acuerdo con\" y GINOSKO, que significa \"conocimiento experimental\"
+###### viii. Esta palabra *condenar* KATAGINOSKO es encontrada sólo __<u>tres</u>__ veces en el Nuevo Testamento. Se deriva de la palabra compuesta de KATA que significa \"de acuerdo con\" y GINOSKO, que significa \"conocimiento experimental\"
 
-ix. ####### Pablo estaba diciendo que Pedro era decisivamente __<u>culpable</u>__ basado en el hecho de que tenía claro conocimiento que sus acciones eran erróneas.
+###### ix. Pablo estaba diciendo que Pedro era decisivamente __<u>culpable</u>__ basado en el hecho de que tenía claro conocimiento que sus acciones eran erróneas.
 
 ###### ¿Cómo sabía Pedro que lo que estaba haciendo estaba mal?
 
-x.  ####### ¿Recuerdas la visión que Dios le dio a Pedro? Tres veces Dios lo repitió, mostrándole a Pedro que no debía __<u>llamar</u>__ impuro lo que Dios había limpiado. Hechos 10:28
+###### x. ¿Recuerdas la visión que Dios le dio a Pedro? Tres veces Dios lo repitió, mostrándole a Pedro que no debía __<u>llamar</u>__ impuro lo que Dios había limpiado. Hechos 10:28
 
-xi. ####### Pedro había sido el __<u>primero</u>__ en llevar el evangelio a los no judíos. Él claramente sabía que Dios aceptaba a los gentiles simplemente por medio de su fe en Cristo y nada más. Hechos 11:1-3, 18
+###### xi. Pedro había sido el __<u>primero</u>__ en llevar el evangelio a los no judíos. Él claramente sabía que Dios aceptaba a los gentiles simplemente por medio de su fe en Cristo y nada más. Hechos 11:1-3, 18
 
 ##### Gálatas 2:12 -- "*Pues antes que viniesen algunos de parte de Jacobo, comía con los gentiles\...".* La raíz del pecado de Pedro fue el __<u>temor</u>__ al hombre (los hombres que vinieron de Jacobo) en lugar del temor a Dios. Gálatas 1:10
 
@@ -946,9 +956,9 @@ xi. ####### Pedro había sido el __<u>primero</u>__ en llevar el evangelio a los
 
 #### Gálatas 2:14d -- "*...¿por qué obligas a los gentiles a judaizar?".* Obviamente, a la luz de esta reprimenda, Pablo no vio a Pedro como el primer __<u>papa</u>__ de la iglesia que debería ser venerado y nunca reprendido. Gálatas 2:6
 
-# Gálatas 2:15-18, 21 -- El recordatorio de Pablo a Pedro de que la Justificación es Sólo por Fe y No por [Obras]{.ul}
+# Gálatas 2:15-18, 21 -- El recordatorio de Pablo a Pedro de que la Justificación es Sólo por Fe y No por <u>Obras</u>
 
-## Gálatas 2:15-16, 21 -- Examinemos [cuatro]{.ul} principios clave de la justificación que Pablo transmitió a Pedro en esta conversación.
+## A. Gálatas 2:15-16, 21 -- Examinemos <u>cuatro</u> principios clave de la justificación que Pablo transmitió a Pedro en esta conversación.
 
 ### Gálatas 2:15 -- Principio uno: Toda persona en el mundo (judía o gentil) es igualmente __<u>pecaminosa</u>__ y, por lo tanto, necesita ser declarada legalmente justa por Dios para ser aceptada por Él.
 
@@ -960,17 +970,17 @@ xi. ####### Pedro había sido el __<u>primero</u>__ en llevar el evangelio a los
 
 ### Gálatas 2:16 -- Principio dos: Las personas son declaradas justas por Dios __<u>sin</u>__ (1) buenas obras, (2) guardar los Diez Mandamientos, o (3) un comportamiento cambiado. "...*el hombre **no es justificado por las obras de la ley**...".* Ver también Tito 3:5.
 
-#### Gálatas 2:16a -- Sabemos que una persona no está justificada ante Dios por buenas obras (obras de la Ley). "*sabiendo que el hombre **no es justificado por las [obras]{.ul} de la ley**, sino por la fe de Jesucristo*..."
+#### Gálatas 2:16a -- Sabemos que una persona no está justificada ante Dios por buenas obras (obras de la Ley). "*sabiendo que el hombre **no es justificado por las <u>obras</u> de la ley**, sino por la fe de Jesucristo*..."
 
 #### Gálatas 2:16b -- Pablo dijo que sabemos que una persona no es justificada por guardar la __<u>Ley</u>__ sino por la fe en Cristo. "\...*nosotros también hemos creído en Jesucristo, para ser justificados por la fe de Cristo **y no por las obras de la ley***..."
 
-#### Gálatas 2:16c -- ¿Por qué? La verdad es que por las obras de la Ley, ninguna persona en la tierra será jamás justificada ante Dios. "\...*por cuanto **por las [obras]{.ul} de la ley nadie será justificado**".*
+#### Gálatas 2:16c -- ¿Por qué? La verdad es que por las obras de la Ley, ninguna persona en la tierra será jamás justificada ante Dios. "\...*por cuanto **por las <u>obras</u> de la ley nadie será justificado**".*
 
 ### Gálatas 2:16d -- Principio tres: Una persona es declarada justa por __<u>Dios</u>__ en el momento en que cree en Cristo solamente. "*\...nosotros también **hemos creído en Jesucristo**, **para ser justificados por la fe de Cristo** y no por las obras de la ley..."*. Ver también Romanos 3:28, Hechos 15:10-11.
 
 ### Gálatas 2:21 -- Principio cuatro (que se halla en el versículo 21): Una persona es declarada justa ante Dios por __<u>gracia</u>__ debido a la muerte sustitutiva de Cristo. "*No desecho la gracia de Dios; pues si por la ley fuese la justicia, entonces por demás murió Cristo"*. Véase también Romanos 3:24.
 
-## Gálatas 2:17-18 -- La [conducta]{.ul} de Pedro introdujo un dilema.
+## B. Gálatas 2:17-18 -- La <u>conducta</u> de Pedro introdujo un dilema.
 
 ### Gálatas 2:17 -- El error de separación de Pedro hizo que pareciera que __<u>Cristo</u>__ promovía el pecado.
 
@@ -990,7 +1000,7 @@ xi. ####### Pedro había sido el __<u>primero</u>__ en llevar el evangelio a los
 
 ##### La conclusión es que el __<u>pecado</u>__ de no asociarse con los gentiles no fue algo trivial, sino más bien **una afrenta al evangelio de Jesucristo**. Él estaba insinuando que no todos somos uno en Cristo, algo con lo que el evangelio está en total desacuerdo. Gálatas 3:26-28, Efesios 2:11-22
 
-## Ahora tomaremos un momento para un [breve]{.ul} estudio de la doctrina de la justificación.
+## C. Ahora tomaremos un momento para un <u>breve</u> estudio de la doctrina de la justificación.
 
 ### Romanos 3:9-10 -- Existe una __<u>necesidad</u>__ universal de justificación ante Dios. Romanos 5:18-19
 
@@ -1062,17 +1072,17 @@ xi. ####### Pedro había sido el __<u>primero</u>__ en llevar el evangelio a los
 
 ###### Ya sea que le creas a Dios con respecto a la salvación o le __<u>creas</u>__ a una persona con respecto a la solidez de un edificio. 
 
-xii. ####### El *tipo* de creencia no __<u>difiere</u>__.
+###### xii. El *tipo* de creencia no __<u>difiere</u>__.
 
-xiii. ####### Sólo el (1) objeto y (2) el contenido de la __<u>fe</u>__ difieren.
+###### xiii. Sólo el (1) objeto y (2) el contenido de la __<u>fe</u>__ difieren.
 
 ###### ¿Cuán confiable es el __<u>objeto</u>__ de tu fe? ¿Cuán preciso es el contenido de tu fe? Romanos 4:21
 
-xiv. ####### Si creo que Dios me __<u>hará</u>__ multimillonario, el objeto de mi fe, Dios, es confiable, pero el contenido o la sustancia (millones de dólares) de mi fe es deficiente. 1 Timoteo 6:6-10, 17, Hebreos 13:5, Mateo 6:24
+###### xiv. Si creo que Dios me __<u>hará</u>__ multimillonario, el objeto de mi fe, Dios, es confiable, pero el contenido o la sustancia (millones de dólares) de mi fe es deficiente. 1 Timoteo 6:6-10, 17, Hebreos 13:5, Mateo 6:24
 
-xv. ####### Si creo que __<u>Moisés</u>__ me salvará de la pena de mi pecado, el objeto de mi fe es defectuoso. Romanos 10:3
+###### xv. Si creo que __<u>Moisés</u>__ me salvará de la pena de mi pecado, el objeto de mi fe es defectuoso. Romanos 10:3
 
-xvi. ####### Hechos 4:10-12 -- Si tu fe __<u>descansa</u>__ en el objeto apropiado (Jesucristo) y tiene el contenido apropiado (Jesús crucificado por tus pecados y resucitado de entre los muertos), entonces serás justificado. Romanos 3:20, 28; 10:11
+###### xvi. Hechos 4:10-12 -- Si tu fe __<u>descansa</u>__ en el objeto apropiado (Jesucristo) y tiene el contenido apropiado (Jesús crucificado por tus pecados y resucitado de entre los muertos), entonces serás justificado. Romanos 3:20, 28; 10:11
 
 ### ¿Cuál es la calidad de nuestra justificación __<u>ante</u>__ Dios?
 
@@ -1174,7 +1184,7 @@ xvi. ####### Hechos 4:10-12 -- Si tu fe __<u>descansa</u>__ en el objeto apropia
 
 #  Gálatas 2:19 -- Este Hecho Permanece: La justificación es por Fe, no por Obediencia a la Ley
 
-## Gálatas 2:19 -- Pablo pasó a explicar a Pedro que el cristiano no está [bajo]{.ul} la ley.
+## A. Gálatas 2:19 -- Pablo pasó a explicar a Pedro que el cristiano no está <u>bajo</u> la ley.
 
 ### Gálatas 2:19a -- Hemos muerto __<u>a</u>__ la ley.
 
@@ -1190,7 +1200,7 @@ xvi. ####### Hechos 4:10-12 -- Si tu fe __<u>descansa</u>__ en el objeto apropia
 
 #### Estamos muertos a la Ley, por lo que ahora podemos vivir la __<u>vida</u>__ abundante. Juan 1:17, 10:10; Romanos 7:1-6
 
-## Estamos [muertos]{.ul} a ciertas cosas en virtud del hecho de que hemos sido identificados con Jesucristo en Su muerte en la cruz y Su resurrección.
+## B. Estamos <u>muertos</u> a ciertas cosas en virtud del hecho de que hemos sido identificados con Jesucristo en Su muerte en la cruz y Su resurrección.
 
 ### Gálatas 6:14 -- Debido a que hemos sido identificados con Cristo en Su muerte y resurrección, estamos muertos al __<u>mundo</u>__, aunque obviamente el mundo no está muerto. Colosenses 3:1-3
 
@@ -1206,7 +1216,7 @@ xvi. ####### Hechos 4:10-12 -- Si tu fe __<u>descansa</u>__ en el objeto apropia
 
 ### Romanos 6:10-11 -- En nuestra identidad con Cristo, ahora estamos __<u>vivos</u>__ para Dios. Colosenses 1:1-4
 
-## Romanos 6:14 -- Un estudio temático: ¿Están los creyentes [bajo]{.ul} la Ley?
+## C. Romanos 6:14 -- Un estudio temático: ¿Están los creyentes <u>bajo</u> la Ley?
 
 ### Hechos 15:1, 5, 10-11 -- Hay mucha confusión con respecto a la __<u>Ley</u>__. 
 
@@ -1266,9 +1276,9 @@ xvi. ####### Hechos 4:10-12 -- Si tu fe __<u>descansa</u>__ en el objeto apropia
 
 ### Deuteronomio 4:1-8 -- Es obvio que los principios morales contenidos en la Ley (Los Diez Mandamientos) podrían servir fácilmente como guía para cualquier __<u>nación</u>__ en el gobierno y mantenimiento del orden civil. Desafortunadamente, los países lo descartan universalmente como obsoleto.
 
-# Gálatas 2:20-21 -- Pablo le Recordó a Pedro los [Resultados]{.ul} Prácticos de la Justificación
+# Gálatas 2:20-21 -- Pablo le Recordó a Pedro los <u>Resultados</u> Prácticos de la Justificación
 
-## Gálatas 2:20-21 --Como resultado de la justificación, el creyente ha sido identificado con Cristo en Su crucifixión. Así es como Pablo le explicó a Pedro las ramificaciones prácticas de [estar]{.ul} crucificado con Cristo.
+## A. Gálatas 2:20-21 --Como resultado de la justificación, el creyente ha sido identificado con Cristo en Su crucifixión. Así es como Pablo le explicó a Pedro las ramificaciones prácticas de <u>estar</u> crucificado con Cristo.
 
 ### Gálatas 2:20a -- Tú y yo, como Pablo, también __<u>morimos</u>__ con Cristo y "C*on Cristo est*\[amos\] *juntamente crucificado*\[s\]...". Romanos 6:3, 8
 
@@ -1282,7 +1292,7 @@ xvi. ####### Hechos 4:10-12 -- Si tu fe __<u>descansa</u>__ en el objeto apropia
 
 ### Gálatas 2:21b -- Si pudieras vivir una vida santa por el __<u>esfuerzo</u>__ humano (la ley, la obediencia), la cruz de Cristo carecería de importancia. "\...*pues si por la ley fuese la justicia, entonces por demás murió Cristo".*
 
-## Gálatas 2:11-21 -- Ahora resumamos la evaluación de Pablo sobre el legalismo de Pedro.
+## B. Gálatas 2:11-21 -- Ahora resumamos la evaluación de Pablo sobre el legalismo de Pedro.
 
 ### Gálatas 2:11-13 - El legalismo produce __<u>divisiones</u>__ e hipocresía, agradando al hombre.
 
@@ -1304,7 +1314,7 @@ xvi. ####### Hechos 4:10-12 -- Si tu fe __<u>descansa</u>__ en el objeto apropia
 
 # Gálatas 3:1-14 -- ¿Somos Santificados por Alguna Forma de Legalismo?
 
-## Gálatas 3:1-5 -- Pablo ahora se dirigió a los gálatas sobre su incomprensión acerca de vivir la vida cristiana a través del esfuerzo humano (legalismo).
+## A. Gálatas 3:1-5 -- Pablo ahora se dirigió a los gálatas sobre su incomprensión acerca de vivir la vida cristiana a través del esfuerzo humano (legalismo).
 
 ### Gálatas 3:1 -- De acuerdo con Pablo, los legalistas habían encantado o __<u>hechizado</u>__ a los gálatas, al enseñar que Dios los aceptaba basándose en sus obras.
 
@@ -1378,7 +1388,7 @@ xvi. ####### Hechos 4:10-12 -- Si tu fe __<u>descansa</u>__ en el objeto apropia
 
 ##### Sin volvernos místicos, podemos decir que cada __<u>cambio</u>__ real que ocurre en nuestras vidas es nada menos que milagroso. Juan 14:12, 15:5; 2 Corintios 3:4-5
 
-## Gálatas 3:6-9 -- Pablo Dio dos citas del Antiguo Testamento con respecto a Abraham que expusieron el error del legalismo para la justificación.
+## B. Gálatas 3:6-9 -- Pablo Dio dos citas del Antiguo Testamento con respecto a Abraham que expusieron el error del legalismo para la justificación.
 
 ### Gálatas 3:6-7 -- La primera cita que Pablo utilizó de la vida de Abraham contra el legalismo fue Génesis 15:6, que prueba que la justicia de Abraham ante Dios no fue por __<u>obras</u>__ sino por fe.
 
@@ -1402,7 +1412,7 @@ xvi. ####### Hechos 4:10-12 -- Si tu fe __<u>descansa</u>__ en el objeto apropia
 
 #### Gálatas 3:9b -- En el Antiguo Testamento, las personas __<u>eran</u>__ justificadas por gracia mediante la fe, igual que nosotros en estos tiempos del Nuevo Testamento. Habacuc 2:4, Hebreos 11:1-2
 
-## Gálatas 3:10-14 -- En rápida sucesión, Pablo dio [cuatro]{.ul} pruebas del Antiguo Testamento que enseñan contra el legalismo para santificación.
+## C. Gálatas 3:10-14 -- En rápida sucesión, Pablo dio <u>cuatro</u> pruebas del Antiguo Testamento que enseñan contra el legalismo para santificación.
 
 ### Gálatas 3:10 -- La primera cita contra el legalismo para la santificación es tomada de los escritos de Moisés y __<u>habla</u>__ como la Ley trae maldición en lugar de bendiciones. Deuteronomio 27:26
 
@@ -1456,7 +1466,7 @@ xvi. ####### Hechos 4:10-12 -- Si tu fe __<u>descansa</u>__ en el objeto apropia
 
 # Gálatas 3:15-3:25 -- Varias Aclaraciones y Comparaciones Importantes
 
-## Gálatas 3:15-18 -- Pablo combatió la idea de que el Pacto Mosaico anuló el Pacto Abrahámico.
+## A. Gálatas 3:15-18 -- Pablo combatió la idea de que el Pacto Mosaico anuló el Pacto Abrahámico.
 
 ### Gálatas 3:15 -- Pablo comenzó esta sección explicando la naturaleza legalmente vinculante de un pacto __<u>humano</u>__.
 
@@ -1512,7 +1522,7 @@ xvi. ####### Hechos 4:10-12 -- Si tu fe __<u>descansa</u>__ en el objeto apropia
 
 ##### Finalmente, el pacto mosaico fue __<u>cumplido</u>__ por Cristo. Mateo 5:17, Romanos 10:4
 
-## Gálatas 3:18e-25 -- Pablo demostró el valor de la promesa encontrada en el Pacto Abrahámico y la verdadera función de la Ley.
+## B. Gálatas 3:18e-25 -- Pablo demostró el valor de la promesa encontrada en el Pacto Abrahámico y la verdadera función de la Ley.
 
 ### Gálatas 3:18e-20 -- La Ley versus la __<u>gracia</u>__: Pablo comparó la Ley con la promesa de Dios. 
 
@@ -1570,7 +1580,7 @@ xvi. ####### Hechos 4:10-12 -- Si tu fe __<u>descansa</u>__ en el objeto apropia
 
 # Gálatas 3:26-4:7 -- Nuestra Identidad en Cristo Trae Bendición Asombrosa 
 
-## Gálatas 3:26 -- Identifiquemos las bendiciones que son <u>nuestras</u> en Cristo, teniendo en cuenta que el legalismo nunca proporciona bendición, solo maldiciones por nuestros fracasos.
+## A. Gálatas 3:26 -- Identifiquemos las bendiciones que son <u>nuestras</u> en Cristo, teniendo en cuenta que el legalismo nunca proporciona bendición, solo maldiciones por nuestros fracasos.
 
 ### Gálatas 3:26 -- ¡Gracias a lo que Jesucristo logró a nuestro favor, tenemos la increíble bendición de ser hijos de Dios! *"...todos __<u>sois</u>__ hijos de Dios por la fe en Cristo Jesús"*. Ver 1 Juan 3:1.
 
@@ -1626,7 +1636,7 @@ xvi. ####### Hechos 4:10-12 -- Si tu fe __<u>descansa</u>__ en el objeto apropia
 
 #### Gálatas 3:29c -- Los legalistas deben entender que el convertirse en heredero de la promesa no puede lograrse a través de las __<u>obras</u>__. Convertirse en un heredero proviene de la promesa de Dios, libre de mérito u obligación.
 
-## Gálatas 4:1-7 -- Así es como llegamos a ser aceptados en <u>Cristo</u>.
+## B. Gálatas 4:1-7 -- Así es como llegamos a ser aceptados en <u>Cristo</u>.
 
 ### Gálatas 4:1-3 -- Comenzaremos examinando a los niños __<u>nacidos</u>__ bajo la Ley.
 
@@ -1700,7 +1710,7 @@ xvi. ####### Hechos 4:10-12 -- Si tu fe __<u>descansa</u>__ en el objeto apropia
 
 # Gálatas 4:8-10 -- ¡Advertencia Contra el Regreso a la Esclavitud! 
 
-## Gálatas 4:8-10 -- Pablo advirtió a los Gálatas que no <u>volvieran</u> a la esclavitud.
+## A. Gálatas 4:8-10 -- Pablo advirtió a los Gálatas que no <u>volvieran</u> a la esclavitud.
 
 ### Gálatas 4:8 -- Antes de que los gálatas fueran salvos, sirvieron a falsos __<u>dioses</u>__ que los condujeron a la esclavitud.
 
@@ -1752,7 +1762,7 @@ xvi. ####### Hechos 4:10-12 -- Si tu fe __<u>descansa</u>__ en el objeto apropia
 
 ##### Una cosa de la que puedes estar seguro es que el legalismo siempre está obsesionado con las formalidades y los requisitos ceremoniales religiosos, pero no con una relación personal de dependencia en __<u>Cristo</u>__. Colosenses 2:16-17
 
-## Considera la doctrina del día de reposo.
+## B. Considera la doctrina del día de reposo.
 
 ### ¿Qué hay del día de reposo desde la creación del mundo hasta Israel?
 
@@ -1792,7 +1802,7 @@ xvi. ####### Hechos 4:10-12 -- Si tu fe __<u>descansa</u>__ en el objeto apropia
 
 # Gálatas 4:11-20 -- Pablo Expresó Profunda Preocupación por el Estado Espiritual de los Creyentes Gálatas.
 
-## Gálatas 4:11-12 -- ¿Habían sido inútiles todos los esfuerzos de Pablo?
+## A. Gálatas 4:11-12 -- ¿Habían sido inútiles todos los esfuerzos de Pablo?
 
 ### Gálatas 4:11a -- Pablo no tenía miedo de los Gálatas, pero tenía miedo de lo que les estaba sucediendo. "*Me temo de vosotros, que haya trabajado en __<u>vano</u>__ con vosotros"*.
 
@@ -1816,7 +1826,7 @@ xvi. ####### Hechos 4:10-12 -- Si tu fe __<u>descansa</u>__ en el objeto apropia
 
 ### Gálatas 4:12c -- Pablo concluyó este pensamiento diciendo: \"...*Ningún agravio me habéis hecho*\". Pablo no tomó el legalismo de los gálatas como un __<u>insulto</u>__ personal. El mal que estaban haciendo era en contra de Dios y en contra de ellos mismos. 1 Pedro 4:8
 
-## Gálatas 4:13-20 -- Pablo esperó una respuesta positiva a sus afectos pastorales.
+## B. Gálatas 4:13-20 -- Pablo esperó una respuesta positiva a sus afectos pastorales.
 
 ### Gálatas 4:13-15 -- Antes de la llegada de los judaizantes legalistas, los gálatas habían acogido a __<u>Pablo</u>__ y su ministerio para ellos.
 
@@ -1866,7 +1876,7 @@ xvi. ####### Hechos 4:10-12 -- Si tu fe __<u>descansa</u>__ en el objeto apropia
 
 # Gálatas 4:21-31 -- Un Ejemplo Práctico sobre el Legalismo en Contraste con la Gracia
 
-## Gálatas 4:21-23 -- En la Biblia, hay [dos]{.ul} mujeres y sus hijos que sirven como ejemplos de cómo vivir o no vivir la vida cristiana 
+## A. Gálatas 4:21-23 -- En la Biblia, hay <u>dos</u> mujeres y sus hijos que sirven como ejemplos de cómo vivir o no vivir la vida cristiana 
 
 ### Gálatas 4:21 -- Contemplemos el verdadero __<u>estado</u>__ de la iglesia Gálata y el obrar de los legalistas que los estaban perturbando.
 
@@ -1896,7 +1906,7 @@ xvi. ####### Hechos 4:10-12 -- Si tu fe __<u>descansa</u>__ en el objeto apropia
 
 #### Aproximadamente cinco años después del nacimiento de Isaac: Después de que Ismael se burlara de Isaac, Sara le dijo a Abraham que echara a Agar e Ismael fuera de la casa porque Ismael estaba atormentando a Isaac. Dios le confirmó a Abraham que eso era lo que debía __<u>hacer</u>__. Génesis 21:8-12
 
-## Gálatas 4:24-27 -- Habiendo establecido el escenario para una aplicación, Pablo ahora utilizó la historia de las dos mujeres como un argumento alegórico para mostrar que Dios [rechaza]{.ul} el esfuerzo humano, implicando que es equivalente al legalismo.
+## B. Gálatas 4:24-27 -- Habiendo establecido el escenario para una aplicación, Pablo ahora utilizó la historia de las dos mujeres como un argumento alegórico para mostrar que Dios <u>rechaza</u> el esfuerzo humano, implicando que es equivalente al legalismo.
 
 ### Gálatas 4:24 -- Cuando Pablo dijo, \"*Lo cual es una alegoría...*\", no estaba sugiriendo de ninguna manera que deberíamos interpretar la __<u>Biblia</u>__ alegóricamente. 2 Corintios 2:17, 4:2; 2 Pedro 3:16-17
 
@@ -2064,7 +2074,7 @@ xvi. ####### Hechos 4:10-12 -- Si tu fe __<u>descansa</u>__ en el objeto apropia
 
 # Gálatas 5:1-15 -- ¡Permanezcan en la Gracia!
 
-## Gálatas 5:1-6 -- Debemos [permanecer]{.ul} firmes en la gracia y rechazar el legalismo.
+## A. Gálatas 5:1-6 -- Debemos <u>permanecer</u> firmes en la gracia y rechazar el legalismo.
 
 ### Gálatas 5:1 -- Tenemos el mandato de mantener nuestra libertad en Cristo y no __<u>volver</u>__ a la esclavitud. 
 
@@ -2136,7 +2146,7 @@ xvi. ####### Hechos 4:10-12 -- Si tu fe __<u>descansa</u>__ en el objeto apropia
 
 #### Gálatas 5:6b -- Amor: La auténtica vida cristiana también se caracteriza por un continuo caminar de __<u>fe</u>__ que obra a través de actos de amor. "\...*sino la fe que obra por el amor"*. Santiago 2:17
 
-## Gálatas 5:7-12 -- Debemos luchar y tomar una posición firme contra los legalistas. Debemos ser [conscientes]{.ul} de los siguientes signos reveladores de legalismo.
+## B. Gálatas 5:7-12 -- Debemos luchar y tomar una posición firme contra los legalistas. Debemos ser <u>conscientes</u> de los siguientes signos reveladores de legalismo.
 
 ### Gálatas 5:7 -- Un legalista interrumpirá tu __<u>progreso</u>__ espiritual. 
 
@@ -2190,7 +2200,7 @@ xvi. ####### Hechos 4:10-12 -- Si tu fe __<u>descansa</u>__ en el objeto apropia
 
 #### Gálatas 5:12c -- El uso de Pablo de esta __<u>vívida</u>__ figura contra los legalistas muestra cómo nosotros tampoco debemos tolerar el legalismo y su enfoque ritualista, basado en obras, para la espiritualidad en la iglesia hoy. En realidad, Pablo esperaba la remoción abrupta de ellos de las iglesias de Galacia.
 
-## Gálatas 5:13-15 -- Debemos permanecer firmes en contra de satisfacer a la carne. Aunque no es el enfoque principal de esta carta, Pablo también se opuso a la [licencia]{.ul} o la vida de libertinaje. Pablo se tomó un momento para abordar este problema.
+## C. Gálatas 5:13-15 -- Debemos permanecer firmes en contra de satisfacer a la carne. Aunque no es el enfoque principal de esta carta, Pablo también se opuso a la <u>licencia</u> o la vida de libertinaje. Pablo se tomó un momento para abordar este problema.
 
 ### Gálatas 5:13a -- "*Porque vosotros, hermanos, a libertad fuisteis llamados\...".* La libertad en Cristo se aplica a nuestra vida cotidiana ya que ser __<u>libres</u>__ en Cristo es nuestro derecho de nacimiento. Lucas 4:18-19
 
@@ -2228,7 +2238,7 @@ xvi. ####### Hechos 4:10-12 -- Si tu fe __<u>descansa</u>__ en el objeto apropia
 
 # Gálatas 5:16-26 -- Andando en el Espíritu
 
-## Gálatas 5:16 -- Contemplemos el mandato vital de la vida cristiana: *[Andad]{.ul} en el Espíritu*.
+## A. Gálatas 5:16 -- Contemplemos el mandato vital de la vida cristiana: *<u>Andad</u>en el Espíritu*.
 
 ### Gálatas 5:16a -- Después de haber demostrado que ni el legalismo ni el libertinaje son correctos para un cristiano, Pablo ordenó a los creyentes de galacia andar en el Espíritu como un __<u>precepto</u>__ general para vivir.
 
@@ -2256,7 +2266,7 @@ xvi. ####### Hechos 4:10-12 -- Si tu fe __<u>descansa</u>__ en el objeto apropia
 
 #### La palabra *no* OU ME es un doble negativo que significa \"no, __<u>nunca</u>__\", haciendo de este versículo una promesa enfática. "*Digo, pues: Andad en el Espíritu, y **no satisfagáis ***\[*no cumpliréis --* LBLA\] *los deseos de la carne".*
 
-## Gálatas 5:17 -- Comprendamos el conflicto que puede impedir nuestro [andar]{.ul} en el Espíritu.
+## B. Gálatas 5:17 -- Comprendamos el conflicto que puede impedir nuestro <u>andar</u> en el Espíritu.
 
 ### Gálatas 5:17a -- Hay una __<u>guerra</u>__ constante dentro de todos los creyentes. "*Porque el deseo de la carne es contra el Espíritu, y el del Espíritu es contra la carne; y éstos se oponen entre sí*...".
 
@@ -2282,7 +2292,7 @@ xvi. ####### Hechos 4:10-12 -- Si tu fe __<u>descansa</u>__ en el objeto apropia
 
 #### Gálatas 5:16-18 -- La implicación aquí es que el Espíritu Santo nunca __<u>guiará</u>__ (AGO guiar, traer o llevar) al creyente a un sistema de obediencia a la ley, ya sea para justificación o santificación.
 
-## Gálatas 5:19-26 -- Veamos las implicaciones de andar en la carne frente a andar en el Espíritu Santo.
+## C. Gálatas 5:19-26 -- Veamos las implicaciones de andar en la carne frente a andar en el Espíritu Santo.
 
 ### Gálatas 5:19-21 -- Observemos los __<u>resultados</u>__ de andar por la carne. "*Y manifiestas son las obras de la carne, que son*\...". Ver también Romanos 8:12-13
 
@@ -2328,17 +2338,17 @@ xvi. ####### Hechos 4:10-12 -- Si tu fe __<u>descansa</u>__ en el objeto apropia
 
 ###### Pablo no estaba comunicando que un creyente podría ser excluido del venidero Reino Milenial, aunque sabemos que una persona podría __<u>perder</u>__ coronas (autoridad) o recompensas. 1 Corintios 3:8, 10-15; 2 Corintios 5:8-11; 1 Juan 2:28
 
-xviii. ####### Hechos 20:25 -- Pablo __<u>enseñó</u>__ fielmente a los creyentes acerca del venidero Reino de Dios tal como deberíamos hacerlo hoy. Hechos 28:23,31 
+###### xviii. Hechos 20:25 -- Pablo __<u>enseñó</u>__ fielmente a los creyentes acerca del venidero Reino de Dios tal como deberíamos hacerlo hoy. Hechos 28:23,31 
 
-xix. ####### 1 Corintios 6:9-11 -- Pablo tuvo cuidado de distinguir que sólo las personas que no tienen la justicia imputada de Dios serán excluidas del reino. Los cristianos no son parte de este __<u>grupo</u>__. Efesios 5:3-13
+###### xix. 1 Corintios 6:9-11 -- Pablo tuvo cuidado de distinguir que sólo las personas que no tienen la justicia imputada de Dios serán excluidas del reino. Los cristianos no son parte de este __<u>grupo</u>__. Efesios 5:3-13
 
-xx. ####### Colosenses 1:13 -- Como parte integral de nuestra salvación por gracia es que instantáneamente se nos __<u>otorgó</u>__ la ciudadanía en el reino venidero de Su Hijo. Apocalipsis 5:10
+###### xx.Colosenses 1:13 -- Como parte integral de nuestra salvación por gracia es que instantáneamente se nos __<u>otorgó</u>__ la ciudadanía en el reino venidero de Su Hijo. Apocalipsis 5:10
 
-xxi. ####### 1 Tesalonicenses 2:12 -- Debido a nuestra cierta participación en el reino futuro, Pablo alentó a los creyentes a andar de una manera __<u>digna</u>__ del llamado de Dios. Efesios 4:1, Apocalipsis 22:12
+###### xxi. 1 Tesalonicenses 2:12 -- Debido a nuestra cierta participación en el reino futuro, Pablo alentó a los creyentes a andar de una manera __<u>digna</u>__ del llamado de Dios. Efesios 4:1, Apocalipsis 22:12
 
-xxii. ####### 2 Pedro 1:10-11 -- Pedro quería que sus lectores tuvieran una entrada __<u>rica</u>__ (recompensas y posiciones de gran autoridad) en el reino eterno venidero que comenzará con el Milenio y se extenderá hasta la eternidad. 2 Juan 1:8, Hebreos 10:35, Apocalipsis 3:11, 1 Corintios 9:25
+###### xxii. 2 Pedro 1:10-11 -- Pedro quería que sus lectores tuvieran una entrada __<u>rica</u>__ (recompensas y posiciones de gran autoridad) en el reino eterno venidero que comenzará con el Milenio y se extenderá hasta la eternidad. 2 Juan 1:8, Hebreos 10:35, Apocalipsis 3:11, 1 Corintios 9:25
 
-xxiii. ####### Hechos 14:22 -- Los escritores del Nuevo Testamento alentaron a los creyentes con una amonestación a continuar firmes en la __<u>fe</u>__ recordándoles que se espera que pasemos por muchas pruebas y luchas antes que entremos al reino de Dios. 2 Tesalonicenses 1:4-8, Hebreos 12:28-29
+###### xxiii. Hechos 14:22 -- Los escritores del Nuevo Testamento alentaron a los creyentes con una amonestación a continuar firmes en la __<u>fe</u>__ recordándoles que se espera que pasemos por muchas pruebas y luchas antes que entremos al reino de Dios. 2 Tesalonicenses 1:4-8, Hebreos 12:28-29
 
 ##### ¿Qué está comunicando Gálatas 5:21? "\...*acerca de las cuales os amonesto* (PROLEGO, __<u>decir</u>__ de antemano), *como ya os lo he dicho* (PROLEGO, dicho de antemano) *antes que los que practican tales cosas no heredarán el reino de Dios*".
 
@@ -2434,7 +2444,7 @@ xxiii. ####### Hechos 14:22 -- Los escritores del Nuevo Testamento alentaron a l
 
 #### Gálatas 5:23b -- "...*contra tales cosas no hay ley".* Este pasaje enseña que ninguna ley es __<u>quebrantada</u>__ cuando llevamos el fruto del Espíritu Santo. Es completamente íntegro.
 
-## Gálatas 5:24-26 -- Ahora observemos algunas instrucciones importantes con respecto a tener un [caminar]{.ul} piadoso por medio del Espíritu Santo.
+## D. Gálatas 5:24-26 -- Ahora observemos algunas instrucciones importantes con respecto a tener un <u>caminar</u> piadoso por medio del Espíritu Santo.
 
 ### Gálatas 5:24-25a -- Pablo les dio a los gálatas un recordatorio práctico de su __<u>nueva</u>__ vida en Cristo. "*Pero los que son de Cristo han crucificado la carne con sus pasiones y deseos. Si vivimos por el Espíritu, andemos también por el Espíritu"*.
 
@@ -2474,25 +2484,25 @@ xxiii. ####### Hechos 14:22 -- Los escritores del Nuevo Testamento alentaron a l
 
 ###### Según Pablo, **nosotros**, y no __<u>Dios</u>__, le dimos el golpe mortal de la crucifixión a la carne.
 
-xxiv. ####### Así es como sucedió. En el __<u>momento</u>__ de la salvación, crucificamos nuestra carne al creer en Cristo.
+###### xxiv. Así es como sucedió. En el __<u>momento</u>__ de la salvación, crucificamos nuestra carne al creer en Cristo.
 
-xxv. ####### Con toda practicidad, en el instante en que creímos en Cristo, rechazamos la __<u>carne</u>__, en esencia crucificándola junto con sus pasiones y sus deseos.
+###### xxv. Con toda practicidad, en el instante en que creímos en Cristo, rechazamos la __<u>carne</u>__, en esencia crucificándola junto con sus pasiones y sus deseos.
 
-xxvi. ####### Al creer en el __<u>evangelio</u>__, le dijimos adiós a la carne declarando sobre ella la muerte por crucifixión.
+###### xxvi. Al creer en el __<u>evangelio</u>__, le dijimos adiós a la carne declarando sobre ella la muerte por crucifixión.
 
 ###### ¿Cómo podemos ver esto de una manera práctica?
 
-xxvii. ####### En el momento en que un hombre se casa con una mujer, __<u>mata</u>__ todas las relaciones románticas anteriores de una sola vez.
+###### xxvii. En el momento en que un hombre se casa con una mujer, __<u>mata</u>__ todas las relaciones románticas anteriores de una sola vez.
 
-xxviii. ####### En virtud de los __<u>votos</u>__ matrimoniales, retiró cualquier lealtad anterior a cualquier otra mujer.
+###### xxviii. En virtud de los __<u>votos</u>__ matrimoniales, retiró cualquier lealtad anterior a cualquier otra mujer.
 
-xxix. ####### Esto es lo que Pablo está diciendo en esta declaración acerca de haber crucificado la __<u>carne</u>__ con sus deseos y pasiones.
+###### xxix. Esto es lo que Pablo está diciendo en esta declaración acerca de haber crucificado la __<u>carne</u>__ con sus deseos y pasiones.
 
 ###### Pablo está esencialmente recordándole a sus lectores que la lista de pasiones y deseos de la carne tal como está escrita en Gálatas 5:19-21 ya fue condenada y crucificada por cada uno de nosotros en el momento en que depositamos nuestra __<u>fe</u>__ en Cristo Jesús.
 
 ###### Podemos concluir fácilmente que Pablo utilizó la frase \"...*han crucificado la carne...*\" en un sentido no literal, ya que las implicaciones de __<u>realmente</u>__ crucificar la carne son bíblicamente insostenibles.
 
-#### Gálatas 5:24b -- "...*los que\... han crucificado la carne __<u>con]{.ul} sus pasiones y deseos**"*.
+#### Gálatas 5:24b -- "...*los que\... han crucificado la carne __<u>con</u> sus pasiones y deseos**"*.
 
 ##### Pablo recordó a sus lectores que __<u>cuando</u>__ sentenciaron a muerte por crucifixión a la naturaleza carnal, incluyeron con ella *sus pasiones y sus deseos*.
 
@@ -2514,7 +2524,7 @@ xxix. ####### Esto es lo que Pablo está diciendo en esta declaración acerca de
 
 ##### Habiendo sido nacido de nuevo, el creyente tiene __<u>vida</u>__ espiritual (vida eterna) por medio del Espíritu Santo.
 
-##### En el versículo 24 tenemos una __<u>razón]{.ul} práctica** para no vivir según la carne y es porque ya la crucificamos junto con sus pasiones y deseos.
+##### En el versículo 24 tenemos una __<u>razón</u> práctica** para no vivir según la carne y es porque ya la crucificamos junto con sus pasiones y deseos.
 
 ##### Ahora en el versículo 25a tenemos una **razón espiritual** para no vivir según la carne y es que ahora se nos ha dado una nueva vida __<u>real</u>__ por medio del Espíritu Santo. "*Si vivimos por el Espíritu...*" ¡y lo hacemos!
 
@@ -2532,7 +2542,7 @@ xxix. ####### Esto es lo que Pablo está diciendo en esta declaración acerca de
 
 # Gálatas 6:1-10 -- Pablo enseña que el Andar Por Medio del Espíritu Debe Resultar en un Servicio Práctico.
 
-## Gálatas 6:1 -- Aquellos que andan en el Espíritu deben restaurar [apaciblemente]{.ul} a sus hermanos y hermanas que quedan atrapados en una cuestión de pecado. 
+## A. Gálatas 6:1 -- Aquellos que andan en el Espíritu deben restaurar <u>apaciblemente</u> a sus hermanos y hermanas que quedan atrapados en una cuestión de pecado. 
 
 ### Gálatas 6:1a -- "*Hermanos, si alguno fuere sorprendido en alguna falta\...".* Pablo dio instrucciones a los gálatas respecto a un hermano o hermana en Cristo que es __<u>atrapado</u>__, sorprendido o descubierto en un pecado.
 
@@ -2548,7 +2558,7 @@ xxix. ####### Esto es lo que Pablo está diciendo en esta declaración acerca de
 
 ### Gálatas 6:1e -- La restauración debe hacerse con una cuidadosa auto-consideración porque el que restaura también puede ser __<u>probado</u>__ o tentado de la misma manera. "\...*considerándote a ti mismo, no sea que tú también seas tentado"*. 1 Corintios 10:12
 
-## Gálatas 6:2 -- A medida que andamos en el Espíritu, debemos [compartir]{.ul} las cargas de los fatigados. "*Sobrellevad los unos las cargas de los otros, y cumplid así la ley de Cristo"*. 
+## B. Gálatas 6:2 -- A medida que andamos en el Espíritu, debemos <u>compartir</u> las cargas de los fatigados. *"Sobrellevad los unos las cargas de los otros, y cumplid así la ley de Cristo".* 
 
 ### Gálatas 6:2a -- Aquí tenemos órdenes de __<u>llevar</u>__ las cargas de los demás. Romanos 15:1, Filipenses 2:4
 
@@ -2558,7 +2568,7 @@ xxix. ####### Esto es lo que Pablo está diciendo en esta declaración acerca de
 
 ### Gálatas 6:2b -- Bajo la gracia, el creyente no está bajo el sistema legal mosaico sino bajo la ley de Cristo la cual nos obliga y nos empodera para __<u>amar</u>__ a los demás. Juan 13:34-35; 15:12; Gálatas 5:22; 1 Corintios 9:21; 2 Juan 5
 
-## Gálatas 6:3-4 -- Sólo cuando andamos en el Espíritu es que nos [vemos]{.ul} a nosotros mismos y nuestras acciones correctamente.
+## C. Gálatas 6:3-4 -- Sólo cuando andamos en el Espíritu es que nos <u>vemos</u> a nosotros mismos y nuestras acciones correctamente.
 
 ### Gálatas 6:3 -- "*Porque el que se cree ser algo, no siendo nada, a sí mismo se engaña".* La humildad bíblica es una evaluación honesta del verdadero estado de uno. Este versículo implica que nos auto engañamos fácilmente por nuestro __<u>orgullo</u>__. Filipenses 2:21, Gálatas 6:11-12
 
@@ -2566,7 +2576,7 @@ xxix. ####### Esto es lo que Pablo está diciendo en esta declaración acerca de
 
 ### Gálatas 6:4b -- "...*y entonces tendrá motivo de gloriarse sólo respecto de sí mismo, y no en otro".* Sólo cuando __<u>resistimos</u>__ compararnos con los demás podemos evaluar adecuadamente lo que hemos hecho. 2 Corintios 10:12
 
-## Gálatas 6:5 -- Deberíamos asumir la responsabilidad de [nuestras]{.ul} propias cargas. "*Porque cada uno llevará su propia carga".*
+## D. Gálatas 6:5 -- Deberíamos asumir la responsabilidad de <u>nuestras</u> propias cargas. "*Porque cada uno llevará su propia carga.*"
 
 ### Este versículo puede parecer contradecir Gálatas 6:2 que nos dice que llevemos las cargas de los __<u>demás</u>__, pero, por supuesto, este no es el caso.
 
@@ -2576,7 +2586,7 @@ xxix. ####### Esto es lo que Pablo está diciendo en esta declaración acerca de
 
 ### Gálatas 6:5c -- No debemos obligar o involucrar a __<u>otros</u>__ cuando se trata de nuestras responsabilidades personales como creyentes. 2 Tesalonicenses 3:6-15
 
-## Gálatas 6:6 -- A medida que caminamos por medio del Espíritu, se nos alienta a [apoyar]{.ul} monetariamente y de otra manera a aquellos que nos instruyen en la Palabra de Dios. "*El que es enseñado en la palabra, haga partícipe de toda cosa buena al que lo instruye"*.
+## E. Gálatas 6:6 -- A medida que caminamos por medio del Espíritu, se nos alienta a <u>apoyar</u> monetariamente y de otra manera a aquellos que nos instruyen en la Palabra de Dios. "*El que es enseñado en la palabra, haga partícipe de toda cosa buena al que lo instruye.*"
 
 ### Gálatas 6:6a -- Los creyentes deben __<u>apoyo</u>__ financiero a los instructores que fielmente les enseñan la Palabra de Dios. Hebreos 13:7, 17
 
@@ -2584,7 +2594,7 @@ xxix. ####### Esto es lo que Pablo está diciendo en esta declaración acerca de
 
 ### Gálatas 6:6c -- Estos siervos del Señor deben ser generosamente compensados por sus inversiones espirituales en nuestras __<u>vidas</u>__. 1 Timoteo 5:17, 18
 
-## Gálatas 6:7-8 -- El hijo de Dios obtiene ya sea una buena cosecha por medio del Espíritu Santo o una cosecha [corrupta]{.ul} por medio de la carne.
+## F. Gálatas 6:7-8 -- El hijo de Dios obtiene ya sea una buena cosecha por medio del Espíritu Santo o una cosecha <u>corrupta</u> por medio de la carne.
 
 ### Aquí hay algunos conceptos generales a considerar cuando se trata de una __<u>cosecha</u>__.
 
@@ -2644,7 +2654,7 @@ xxix. ####### Esto es lo que Pablo está diciendo en esta declaración acerca de
 
 ### Gálatas 6:8b -- El producto de vivir por el Espíritu es vida __<u>verdadera</u>__. "...*mas el que siembra para el Espíritu, del Espíritu segará vida eterna".* Gálatas 5:22-23, Juan 17:3
 
-## Gálatas 6:9-10 -- En conclusión a este tema, Pablo alienta a sus lectores a [nunca]{.ul} desanimarse en hacer el bien. 1 Corintios 15:58, Filipenses 1:20
+## F. Gálatas 6:9-10 -- En conclusión a este tema, Pablo alienta a sus lectores a <u>nunca</u> desanimarse en hacer el bien. 1 Corintios 15:58, Filipenses 1:20
 
 ### Gálatas 6:9 -- Vale la pena caminar por medio del Espíritu Santo "\...*porque a su tiempo segaremos, si no __<u>desmayamos</u>__".* 1 Corintios 15:58
 
@@ -2662,7 +2672,7 @@ xxix. ####### Esto es lo que Pablo está diciendo en esta declaración acerca de
 
 # Gálatas 6:11-18 -- Las Declaraciones Finales del Apóstol Pablo
 
-## Gálatas 6:11 -- El apóstol Pablo ahora agregó un toque especial a la carta al utilizar su propia [mano]{.ul} para agregar una nota.
+## A. Gálatas 6:11 -- El apóstol Pablo ahora agregó un toque especial a la carta al utilizar su propia <u>mano</u> para agregar una nota.
 
 ### Gálatas 6:11 -- "*Mirad con cuán grandes letras os escribo de mi __<u>propia</u>__ mano".* En un esfuerzo por expresar su especial preocupación y agregar su toque personal habitual, les dice lo que puede que no perciban por sí mismos: que él añadió a la epístola utilizando su propia mano, escribiendo con letras grandes. 2 Tesalonicenses 2:15
 
@@ -2674,7 +2684,7 @@ xxix. ####### Esto es lo que Pablo está diciendo en esta declaración acerca de
 
 #### Por esta razón, hoy en día no debemos ser perturbados cuando un supuesto texto o carta aparece como si hubiera sido escrito por Pablo, __<u>Tomás</u>__ o Judas. 1 Juan 4:1
 
-## Gálatas 6:12-13 -- Contrariamente al toque personal y la preocupación de Pablo por los gálatas, cualquier preocupación que los legalistas pudieran haber pintado era [falsa]{.ul}.
+## B. Gálatas 6:12-13 -- Contrariamente al toque personal y la preocupación de Pablo por los gálatas, cualquier preocupación que los legalistas pudieran haber pintado era <u>falsa</u>.
 
 ### Gálatas 6:12a -- "***Todos los que** quieren agradar **en la carne\...". ***Un legalista busca impresionar a los __<u>hombres</u>__ en lugar de a Dios.
 
@@ -2710,7 +2720,7 @@ xxix. ####### Esto es lo que Pablo está diciendo en esta declaración acerca de
 
 #### Filipenses 3:3 -- El Apóstol Pablo quería ***ser hallado*** en el Señor sin tener su propia justicia sino la justicia que viene por la __<u>fe</u>__ sin la Ley.
 
-## Gálatas 6:14-16 -- A continuación, las declaraciones de Pablo mostraron la superioridad de la [gracia]{.ul} como se ve a través de la cruz de nuestro Señor Jesucristo.
+## C. Gálatas 6:14-16 -- A continuación, las declaraciones de Pablo mostraron la superioridad de la <u>gracia</u> como se ve a través de la cruz de nuestro Señor Jesucristo.
 
 ### Gálatas 6:14a -- "*Pero lejos esté de mí gloriarme, sino en la cruz de nuestro Señor Jesucristo\...".* Mientras el legalista se gloría en la carne, los que viven por gracia se jactan sólo en la __<u>cruz</u>__ de nuestro Señor Jesús Cristo. 1 Corintios 2:2, Gálatas 3:1
 
@@ -2756,7 +2766,7 @@ xxix. ####### Esto es lo que Pablo está diciendo en esta declaración acerca de
 
 ###### Esa declaración no fue en oposición a __<u>Israel</u>__, sino que mostró que los rituales religiosos no hacen ninguna diferencia y que sólo un nuevo nacimiento espiritual importa ante Dios. 
 
-## Gálatas 6:17-18 -- Pablo da una conclusión muy llamativa a su epístola.
+## D. Gálatas 6:17-18 -- Pablo da una conclusión muy llamativa a su epístola.
 
 ### Gálatas 6:17a -- "*De aquí en adelante nadie me __<u>cause</u>__ molestias\...".* La última petición de Pablo fue que nadie le causara más problema*s*.
 
