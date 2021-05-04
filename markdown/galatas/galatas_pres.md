@@ -1,4 +1,4 @@
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/chainlink.jpeg" data-background-size="cover"  data-menu-title="Início" data-background-color="black" -->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/chainlink.jpeg" data-background-size="cover"  data-menu-title="Início" data-background-color="black" data-background-opacity="0.8" -->
 <svg width="1280" height="720" version="1.1" viewBox="0 0 508 285.7" xmlns="http://www.w3.org/2000/svg">
  <rect x="-11.94" y="240.2" width="531.9" height="46.52" rx="1.64" ry="1.64" fill="#fff" fill-rule="evenodd"/>
  <rect x="47.62" y="-.756" width="412.8" height="79.38" rx="1.64" ry="1.64" fill="#fff" fill-rule="evenodd" stroke-width="0"/>
@@ -26,8 +26,8 @@ ___
 ___
 Derechos de Autor © **2020** **DM2** **International** **Inc.** Todos los derechos reservados
 ___
-**Póliza de los Derechos de Autor.** Traducción no autorizada, re-publicación, duplicación del documento, página de la internet o distribución del correo electrónico de cualquier porción de este material de derechos de autor de cualquier forma, sin el expreso consentimiento escrito de DM2™ es estrictamente prohibido. Puedes usar los materiales de DM2 para tu propio estudio personal o para volverlos a enseñar en una clase, siempre y cuando, el logo de DM2 y esta póliza de los derechos de autor estén incluidos siempre en el material al ser enseñados. Puedes bajar una copia a tú PC, imprimirla o hacer copias para la clase o estudio de grupo Bíblico; sin embargo, no puedes cobrar por este material o por conducir una clase usando el mismo, excepto por el costo actual del copiado. NO puedes hacer cambios a este material, tiene derechos de autor. Para una más amplia exposición de la póliza del DM2 con respecto a los usos de sus materiales, por favor referirse a la página de la internet DM2-USA\
-al <http://www.dm2usa.org>. \[DM2™\]
+<small>**Póliza de los Derechos de Autor.** Traducción no autorizada, re-publicación, duplicación del documento, página de la internet o distribución del correo electrónico de cualquier porción de este material de derechos de autor de cualquier forma, sin el expreso consentimiento escrito de DM2™ es estrictamente prohibido. Puedes usar los materiales de DM2 para tu propio estudio personal o para volverlos a enseñar en una clase, siempre y cuando, el logo de DM2 y esta póliza de los derechos de autor estén incluidos siempre en el material al ser enseñados. Puedes bajar una copia a tú PC, imprimirla o hacer copias para la clase o estudio de grupo Bíblico; sin embargo, no puedes cobrar por este material o por conducir una clase usando el mismo, excepto por el costo actual del copiado. NO puedes hacer cambios a este material, tiene derechos de autor. Para una más amplia exposición de la póliza del DM2 con respecto a los usos de sus materiales, por favor referirse a la página de la internet DM2-USA\
+al <http://www.dm2usa.org>. \[DM2™\]</small>
 ___
 **Impreso** **y** **Propiedad** **de:**
 **DM2**
@@ -67,7 +67,9 @@ ___
 **El Libro de Gálatas**
 ***El Evangelio Bajo Ataque***
 
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/chainlink.jpeg" data-background-size="cover"  data-menu-title="I. Gálatas 1:1-5 -- Familiarizándose con el Libro de Gálatas" data-background-color="black" data-background-opacity="0.5" -->
 # I. Gálatas 1:1-5 -- Familiarizándose con el Libro de Gálatas
+<!-- .element: style="color:white;" -->
 
 ## A. Gálatas 1:1-2 -- <u>Pablo</u>, el autor de la epístola, se presenta.
 
@@ -589,7 +591,9 @@ ___
 
 #### Curiosamente, en los primeros cuatro versículos de su carta a los confundidos Gálatas, Pablo incluyó todos los __<u>elementos</u>__ esenciales del evangelio.
 
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/chainlink.jpeg" data-background-size="cover"  data-menu-title="II. Gálatas 1:6-10 -- Una Mirada Cercana a la Apostasía en Galacia" data-background-color="black" data-background-opacity="0.5" -->
 # II. Gálatas 1:6-10 -- Una Mirada Cercana a la Apostasía en Galacia
+<!-- .element: style="color:white;" -->
 
 ## A. Gálatas 1:6-7 -- Pablo explicó la alteración del evangelio en Galacia.
 
@@ -695,7 +699,9 @@ ___
 
 #### La pregunta importante es: ¿complacerás a Dios y te mantendrás firme en el verdadero evangelio de la gracia, o buscarás complacer a los __<u>hombres</u>__ e intercambiar el evangelio por algún mensaje alterado? 2 Corintios 1:18-20, 2:17
 
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/chainlink.jpeg" data-background-size="cover"  data-menu-title="III. Gálatas 1:11-24 -- El Evangelio de la Salvación fue Escrito por Dios" data-background-color="black" data-background-opacity="0.5" data-transition="zoom" -->
 # III. Gálatas 1:11-24 -- El Evangelio de la Salvación fue Escrito por Dios
+<!-- .element: style="color:white" -->
 
 ## A. Gálatas 1:11-12 -- Investiguemos los <u>orígenes</u> del evangelio que Pablo predicaba.
 
@@ -781,7 +787,9 @@ ___
 
 ###### Gálatas 1:24 -- "*Y glorificaban a Dios en mí".* Las iglesias de Judea alabaron a __<u>Dios</u>__ por el testimonio de la conversión radical de Pablo.
 
-# Gálatas 2:1-14 -- Pablo y Su Defensa del Evangelio
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/chainlink.jpeg" data-background-size="cover"  data-menu-title="IV. Gálatas 2:1-14 -- Pablo y Su Defensa del Evangelio" data-background-color="black" data-background-opacity="0.5" data-transition="zoom" -->
+# IV. Gálatas 2:1-14 -- Pablo y Su Defensa del Evangelio
+<!-- .element: style="color:white;" -->
 
 ## A. Gálatas 2:1-10 -- Pablo defendió en privado el evangelio en <u>Jerusalén</u>.
 
@@ -1015,7 +1023,9 @@ La gracia pone todo el foco en Cristo.
 El legalismo le quita el foco de Cristo y lo pone en el hombre y en sus esfuerzos.
 <!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/spotlight.svg" data-background-size="300px" data-background-position="left" data-background-opacity="1"-->
 
-# Gálatas 2:15-18, 21 -- El recordatorio de Pablo a Pedro de que la Justificación es Sólo por Fe y No por <u>Obras</u>
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/chainlink.jpeg" data-background-size="cover"  data-menu-title="V. Gálatas 2:15-18, 21 -- El recordatorio de Pablo a Pedro de que la Justificación es Sólo por Fe y No por Obras" data-background-color="black" data-background-opacity="0.5" data-transition="zoom" -->
+# V. Gálatas 2:15-18, 21 -- El recordatorio de Pablo a Pedro de que la Justificación es Sólo por Fe y No por Obras
+<!-- .element: style="color:white;" -->
 
 ## A. Gálatas 2:15-16, 21 -- Examinemos <u>cuatro</u> principios clave de la justificación que Pablo transmitió a Pedro en esta conversación.
 
@@ -1283,7 +1293,9 @@ El legalismo le quita el foco de Cristo y lo pone en el hombre y en sus esfuerzo
 
 ###### Santiago 2:18 -- Si has sido justificado ante Dios, ¿estás caminando por __<u>fe</u>__? Sin un caminar de fe, no puedes ser justificado ante la gente. "*Pero alguno dirá: Tú tienes fe, y yo tengo obras. Muéstrame tu fe sin tus obras, y yo te mostraré mi fe por mis obras".*
 
-#  Gálatas 2:19 -- Este Hecho Permanece: La justificación es por Fe, no por Obediencia a la Ley
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/chainlink.jpeg" data-background-size="cover"  data-menu-title="VI.  Gálatas 2:19 -- Este Hecho Permanece: La justificación es por Fe, no por Obediencia a la Ley" data-background-color="black" data-background-opacity="0.5" data-transition="zoom" -->
+# VI.  Gálatas 2:19 -- Este Hecho Permanece: La justificación es por Fe, no por Obediencia a la Ley
+<!-- .element: style="color:white;" -->
 
 ## A. Gálatas 2:19 -- Pablo pasó a explicar a Pedro que el cristiano no está <u>bajo</u> la ley.
 
@@ -1414,7 +1426,9 @@ El legalismo le quita el foco de Cristo y lo pone en el hombre y en sus esfuerzo
 
 ### Deuteronomio 4:1-8 -- Es obvio que los principios morales contenidos en la Ley (Los Diez Mandamientos) podrían servir fácilmente como guía para cualquier __<u>nación</u>__ en el gobierno y mantenimiento del orden civil. Desafortunadamente, los países lo descartan universalmente como obsoleto.
 
-# Gálatas 2:20-21 -- Pablo le Recordó a Pedro los <u>Resultados</u> Prácticos de la Justificación
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/chainlink.jpeg" data-background-size="cover"  data-menu-title="VII. Gálatas 2:20-21 -- Pablo le Recordó a Pedro los Resultados Prácticos de la Justificación" data-background-color="black" data-background-opacity="0.5" data-transition="zoom" -->
+# VII. Gálatas 2:20-21 -- Pablo le Recordó a Pedro los <u>Resultados</u> Prácticos de la Justificación
+<!-- .element: style="color:white;" -->
 
 ## A. Gálatas 2:20-21 --Como resultado de la justificación, el creyente ha sido identificado con Cristo en Su crucifixión. Así es como Pablo le explicó a Pedro las ramificaciones prácticas de <u>estar</u> crucificado con Cristo.
 
@@ -1511,7 +1525,9 @@ El legalismo le quita el foco de Cristo y lo pone en el hombre y en sus esfuerzo
 
 ### Gálatas 2:21 -- Si los esfuerzos humanos derivados del legalismo pudieran producir un vivir justo, entonces Cristo __<u>murió</u>__ innecesariamente.
 
-# Gálatas 3:1-14 -- ¿Somos Santificados por Alguna Forma de Legalismo?
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/chainlink.jpeg" data-background-size="cover"  data-menu-title="VIII. Gálatas 3:1-14 -- ¿Somos Santificados por Alguna Forma de Legalismo?" data-background-color="black" data-background-opacity="0.5" data-transition="zoom" -->
+# VIII. Gálatas 3:1-14 -- ¿Somos Santificados por Alguna Forma de Legalismo?
+<!-- .element: style="color:white;" -->
 
 ## A. Gálatas 3:1-5 -- Pablo ahora se dirigió a los gálatas sobre su incomprensión acerca de vivir la vida cristiana a través del esfuerzo humano (legalismo).
 
@@ -1663,7 +1679,9 @@ El legalismo le quita el foco de Cristo y lo pone en el hombre y en sus esfuerzo
 
 ##### Gálatas 3:14b -- Dios nos __<u>dio</u>__ el Espíritu Santo, quien vino a morar en nosotros en el momento en que creímos. "\...*a fin de que por la fe recibiésemos la promesa del Espíritu"*.
 
-# Gálatas 3:15-3:25 -- Varias Aclaraciones y Comparaciones Importantes
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/chainlink.jpeg" data-background-size="cover"  data-menu-title="IX. Gálatas 3:15-3:25 -- Varias Aclaraciones y Comparaciones Importantes" data-background-color="black" data-background-opacity="0.5" data-transition="zoom" -->
+# IX. Gálatas 3:15-3:25 -- Varias Aclaraciones y Comparaciones Importantes
+<!-- .element: style="color:white;" -->
 
 ## A. Gálatas 3:15-18 -- Pablo combatió la idea de que el Pacto Mosaico anuló el Pacto Abrahámico.
 
@@ -1777,7 +1795,9 @@ El legalismo le quita el foco de Cristo y lo pone en el hombre y en sus esfuerzo
 
 #### Gálatas 3:25b -- Obviamente, la religión legalista basada en el esfuerzo humano no tiene __<u>lugar</u>__ en la vida de aquellos que creen en Jesucristo.
 
-# Gálatas 3:26-4:7 -- Nuestra Identidad en Cristo Trae Bendición Asombrosa 
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/chainlink.jpeg" data-background-size="cover"  data-menu-title="X. Gálatas 3:26-4:7 -- Nuestra Identidad en Cristo Trae Bendición Asombrosa" data-background-color="black" data-background-opacity="0.5" data-transition="zoom" -->
+# X. Gálatas 3:26-4:7 -- Nuestra Identidad en Cristo Trae Bendición Asombrosa 
+<!-- .element: style="color:white;" -->
 
 ## A. Gálatas 3:26 -- Identifiquemos las bendiciones que son <u>nuestras</u> en Cristo, teniendo en cuenta que el legalismo nunca proporciona bendición, solo maldiciones por nuestros fracasos.
 
@@ -1907,7 +1927,9 @@ El legalismo le quita el foco de Cristo y lo pone en el hombre y en sus esfuerzo
 
 ###### Cristo nos proporciona plena aceptación __<u>libre</u>__ de dignidad personal y todo eso es por la asombrosa gracia de Dios.
 
-# Gálatas 4:8-10 -- ¡Advertencia Contra el Regreso a la Esclavitud! 
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/chainlink.jpeg" data-background-size="cover"  data-menu-title="XI. Gálatas 4:8-10 -- ¡Advertencia Contra el Regreso a la Esclavitud!" data-background-color="black" data-background-opacity="0.5" data-transition="zoom" -->
+# XI. Gálatas 4:8-10 -- ¡Advertencia Contra el Regreso a la Esclavitud! 
+<!-- .element: style="color:white;" -->
 
 ## A. Gálatas 4:8-10 -- Pablo advirtió a los Gálatas que no <u>volvieran</u> a la esclavitud.
 
@@ -1999,7 +2021,9 @@ El legalismo le quita el foco de Cristo y lo pone en el hombre y en sus esfuerzo
 
 #### Bajo la gracia en la dispensación de la iglesia, cada día es un __<u>día</u>__ santo apartado para el Señor mientras caminamos por fe descansando en Sus promesas. No estamos obligados a celebrar el día de reposo cada semana. Hebreos 4:1-11, 10:38; Romanos 14:5; Colosenses 2:16-17
 
-# Gálatas 4:11-20 -- Pablo Expresó Profunda Preocupación por el Estado Espiritual de los Creyentes Gálatas.
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/chainlink.jpeg" data-background-size="cover"  data-menu-title="XII. Gálatas 4:11-20 -- Pablo Expresó Profunda Preocupación por el Estado Espiritual de los Creyentes Gálatas" data-background-color="black" data-background-opacity="0.5" data-transition="zoom" -->
+# XII. Gálatas 4:11-20 -- Pablo Expresó Profunda Preocupación por el Estado Espiritual de los Creyentes Gálatas
+<!-- .element: style="color:white;" -->
 
 ## A. Gálatas 4:11-12 -- ¿Habían sido inútiles todos los esfuerzos de Pablo?
 
@@ -2073,7 +2097,9 @@ El legalismo le quita el foco de Cristo y lo pone en el hombre y en sus esfuerzo
 
 #### Gálatas 4:20 -- Pablo deseaba poder estar con los Gálatas y cambiar su __<u>tono</u>__ a uno de compasión en lugar de uno de corrección. "*quisiera estar con vosotros ahora mismo y cambiar de tono, pues estoy perplejo en cuanto a vosotros*". 2 Corintios 7:8, 9, 12
 
-# Gálatas 4:21-31 -- Un Ejemplo Práctico sobre el Legalismo en Contraste con la Gracia
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/chainlink.jpeg" data-background-size="cover"  data-menu-title="XIII. Gálatas 4:21-31 -- Un Ejemplo Práctico sobre el Legalismo en Contraste con la Gracia" data-background-color="black" data-background-opacity="0.5" data-transition="zoom" -->
+# XIII. Gálatas 4:21-31 -- Un Ejemplo Práctico sobre el Legalismo en Contraste con la Gracia
+<!-- .element: style="color:white;" -->
 
 ## A. Gálatas 4:21-23 -- En la Biblia, hay <u>dos</u> mujeres y sus hijos que sirven como ejemplos de cómo vivir o no vivir la vida cristiana 
 
@@ -2271,7 +2297,9 @@ El legalismo le quita el foco de Cristo y lo pone en el hombre y en sus esfuerzo
 
 #### Gálatas 5:1 -- En el capítulo 5 se nos anima a mantenernos firmes en la libertad que Cristo nos hizo __<u>libres</u>__. Dejemos de someternos al yugo de los legalistas.
 
-# Gálatas 5:1-15 -- ¡Permanezcan en la Gracia!
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/chainlink.jpeg" data-background-size="cover"  data-menu-title="XIV. Gálatas 5:1-15 -- ¡Permanezcan en la Gracia!" data-background-color="black" data-background-opacity="0.5" data-transition="zoom" -->
+# XIV. Gálatas 5:1-15 -- ¡Permanezcan en la Gracia!
+<!-- .element: style="color:white;" -->
 
 ## A. Gálatas 5:1-6 -- Debemos <u>permanecer</u> firmes en la gracia y rechazar el legalismo.
 
@@ -2435,7 +2463,9 @@ El legalismo le quita el foco de Cristo y lo pone en el hombre y en sus esfuerzo
 
 #### Los resultados del legalismo o la licencia son que los cristianos se __<u>devoran</u>__ mutuamente a través de disputas. Claramente estos excesos son lo opuesto al amor. Filipenses 2:14-16
 
-# Gálatas 5:16-26 -- Andando en el Espíritu
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/chainlink.jpeg" data-background-size="cover"  data-menu-title="XV. Gálatas 5:16-26 -- Andando en el Espíritu" data-background-color="black" data-background-opacity="0.5" data-transition="zoom" -->
+# XV. Gálatas 5:16-26 -- Andando en el Espíritu
+<!-- .element: style="color:white;" -->
 
 ## A. Gálatas 5:16 -- Contemplemos el mandato vital de la vida cristiana: *<u>Andad</u>en el Espíritu*.
 
@@ -2739,7 +2769,9 @@ El legalismo le quita el foco de Cristo y lo pone en el hombre y en sus esfuerzo
 
 ##### Debemos caminar en armonía sin ser __<u>jactanciosos</u>__, irrazonables o envidiosos, tres cosas que se encajan en la categoría de la carne y no al Espíritu. Filipenses 2:1-3
 
-# Gálatas 6:1-10 -- Pablo enseña que el Andar Por Medio del Espíritu Debe Resultar en un Servicio Práctico.
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/chainlink.jpeg" data-background-size="cover"  data-menu-title="XVI. Gálatas 6:1-10 -- Pablo enseña que el Andar Por Medio del Espíritu Debe Resultar en un Servicio Práctico" data-background-color="black" data-background-opacity="0.5" data-transition="zoom" -->
+# XVI. Gálatas 6:1-10 -- Pablo enseña que el Andar Por Medio del Espíritu Debe Resultar en un Servicio Práctico
+<!-- .element: style="color:white;" -->
 
 ## A. Gálatas 6:1 -- Aquellos que andan en el Espíritu deben restaurar <u>apaciblemente</u> a sus hermanos y hermanas que quedan atrapados en una cuestión de pecado. 
 
@@ -2869,7 +2901,9 @@ El legalismo le quita el foco de Cristo y lo pone en el hombre y en sus esfuerzo
 
 #### Hacer discípulos de todas las naciones es nuestra ***primera prioridad*** y también es la mejor manera de aliviar los males sociales de cualquier comunidad. La __<u>mayor</u>__ __<u>parte</u>__ de nuestras finanzas debería ser utilizada para cumplir con la Gran Comisión y no en asuntos secundarios relacionados con la llamada justicia social. Mateo 28:19-20, 2 Timoteo 2:2
 
-# Gálatas 6:11-18 -- Las Declaraciones Finales del Apóstol Pablo
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/chainlink.jpeg" data-background-size="cover"  data-menu-title="XVII. Gálatas 6:11-18 -- Las Declaraciones Finales del Apóstol Pablo" data-background-color="black" data-background-opacity="0.5" data-transition="zoom" -->
+# XVII. Gálatas 6:11-18 -- Las Declaraciones Finales del Apóstol Pablo
+<!-- .element: style="color:white;" -->
 
 ## A. Gálatas 6:11 -- El apóstol Pablo ahora agregó un toque especial a la carta al utilizar su propia <u>mano</u> para agregar una nota.
 
