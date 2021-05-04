@@ -1,4 +1,4 @@
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/chainlink.jpeg" data-background-size="cover"  data-menu-title="Início" data-background-color="black" data-background-opacity="0.8" -->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/chainlink.jpeg" data-background-size="cover"  data-menu-title="Início" data-background-color="black" data-background-opacity="0.8" data-auto-animate-easing  -->
 <svg width="1280" height="720" version="1.1" viewBox="0 0 508 285.7" xmlns="http://www.w3.org/2000/svg">
  <rect x="-11.94" y="240.2" width="531.9" height="46.52" rx="1.64" ry="1.64" fill="#fff" fill-rule="evenodd"/>
  <rect x="47.62" y="-.756" width="412.8" height="79.38" rx="1.64" ry="1.64" fill="#fff" fill-rule="evenodd" stroke-width="0"/>
@@ -63,7 +63,7 @@ ___
 |  XV\.     Gálatas 5:16-26 -- Andando en el Espíritu    |  70|
 |  XVI\.    Gálatas 6:1-10 -- Pablo enseña que el Andar Por Medio del Espíritu Debe Resultar en un Servicio Práctico.       |80|
 |  XVII\.   Gálatas 6:11-18 -- Las Declaraciones Finales del Apóstol Pablo |85|
-___
+
 **El Libro de Gálatas**
 ***El Evangelio Bajo Ataque***
 
@@ -529,47 +529,159 @@ ___
 
 ### Gálatas 1:4b -- El evangelio de la gracia no sólo nos justifica eternamente, sino que también __<u>libera</u>__ al creyente para vivir realmente, "...*para librarnos del presente siglo malo..."*. Esta declaración se refiere a la segunda fase de nuestra salvación, la santificación.
 
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/3-tiempos/3-tiempos.001.png" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/3-tiempos/3-tiempos2.001.png" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
 
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/3-tiempos/3-tiempos.002.png" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/3-tiempos/3-tiempos2.002.png" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
 
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/3-tiempos/3-tiempos.003.png" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/3-tiempos/3-tiempos2.003.png" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
 
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/3-tiempos/3-tiempos.004.png" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/3-tiempos/3-tiempos2.004.png" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
 
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/3-tiempos/3-tiempos.005.png" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/3-tiempos/3-tiempos2.005.png" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
 
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/3-tiempos/3-tiempos.006.png" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/3-tiempos/3-tiempos2.006.png" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
 
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/3-tiempos/3-tiempos.007.png" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/3-tiempos/3-tiempos2.007.png" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
 
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/3-tiempos/3-tiempos.008.png" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/3-tiempos/3-tiempos2.008.png" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
 
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/3-tiempos/3-tiempos.009.png" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/3-tiempos/3-tiempos2.009.png" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
 
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/3-tiempos/3-tiempos.010.png" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/3-tiempos/3-tiempos2.010.png" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
 
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/3-tiempos/3-tiempos.011.png" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/3-tiempos/3-tiempos2.011.png" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
 
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/3-tiempos/3-tiempos.012.png" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/3-tiempos/3-tiempos2.012.png" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
 
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/3-tiempos/3-tiempos.013.png" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/3-tiempos/3-tiempos2.013.png" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
 
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/3-tiempos/3-tiempos.014.png" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/3-tiempos/3-tiempos2.014.png" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
 
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/3-tiempos/3-tiempos.015.png" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/3-tiempos/3-tiempos2.015.png" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
 
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/3-tiempos/3-tiempos.016.png" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/3-tiempos/3-tiempos2.016.png" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
 
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/3-tiempos/3-tiempos.017.png" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/3-tiempos/3-tiempos2.017.png" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
 
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/3-tiempos/3-tiempos.018.png" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/3-tiempos/3-tiempos2.018.png" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
 
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/3-tiempos/3-tiempos.019.png" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/3-tiempos/3-tiempos2.019.png" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
 
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/3-tiempos/3-tiempos.020.png" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/3-tiempos/3-tiempos2.020.png" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
 
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/3-tiempos/3-tiempos.021.png" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/3-tiempos/3-tiempos2.021.png" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
+
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/3-tiempos/3-tiempos2.022.png" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
+
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/3-tiempos/3-tiempos2.023.png" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
+
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/3-tiempos/3-tiempos2.024.png" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
+
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/3-tiempos/3-tiempos2.025.png" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
+
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/3-tiempos/3-tiempos2.026.png" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
+
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/3-tiempos/3-tiempos2.027.png" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
+
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/3-tiempos/3-tiempos2.028.png" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
+
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/3-tiempos/3-tiempos2.030.png" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
+
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/3-tiempos/3-tiempos2.031.png" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
+
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/3-tiempos/3-tiempos2.032.png" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
+
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/3-tiempos/3-tiempos2.033.png" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
+
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/3-tiempos/3-tiempos2.034.png" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
+
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/3-tiempos/3-tiempos2.035.png" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
+
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/3-tiempos/3-tiempos2.036.png" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
+
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/3-tiempos/3-tiempos2.037.png" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
+
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/3-tiempos/3-tiempos2.038.png" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
+
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/3-tiempos/3-tiempos2.039.png" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
+
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/3-tiempos/3-tiempos2.040.png" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
+
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/3-tiempos/3-tiempos2.041.png" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
+
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/3-tiempos/3-tiempos2.042.png" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
+
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/3-tiempos/3-tiempos2.043.png" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
+
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/3-tiempos/3-tiempos2.044.png" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
+
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/3-tiempos/3-tiempos2.045.png" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
+
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/3-tiempos/3-tiempos2.046.png" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
+
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/3-tiempos/3-tiempos2.047.png" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
+
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/3-tiempos/3-tiempos2.048.png" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
+
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/3-tiempos/3-tiempos2.049.png" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
+
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/3-tiempos/3-tiempos2.050.png" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
+
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/3-tiempos/3-tiempos2.051.png" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
+
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/3-tiempos/3-tiempos2.052.png" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
+
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/3-tiempos/3-tiempos2.053.png" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
+
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/3-tiempos/3-tiempos2.054.png" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
+
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/3-tiempos/3-tiempos2.055.png" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
+
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/3-tiempos/3-tiempos2.056.png" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
+
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/3-tiempos/3-tiempos2.057.png" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
+
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/3-tiempos/3-tiempos2.058.png" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
+
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/3-tiempos/3-tiempos2.059.png" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
+
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/3-tiempos/3-tiempos2.060.png" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
+
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/3-tiempos/3-tiempos2.061.png" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
+
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/3-tiempos/3-tiempos2.062.png" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
+
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/3-tiempos/3-tiempos2.063.png" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
+
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/3-tiempos/3-tiempos2.064.png" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
+
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/3-tiempos/3-tiempos2.065.png" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
+
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/3-tiempos/3-tiempos2.066.png" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
+
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/3-tiempos/3-tiempos2.067.png" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
+
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/3-tiempos/3-tiempos2.068.png" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
+
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/3-tiempos/3-tiempos2.069.png" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
+
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/3-tiempos/3-tiempos2.070.png" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
+
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/3-tiempos/3-tiempos2.071.png" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
+
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/3-tiempos/3-tiempos2.072.png" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
+
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/3-tiempos/3-tiempos2.073.png" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
+
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/3-tiempos/3-tiempos2.074.png" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
+
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/3-tiempos/3-tiempos2.075.png" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
+
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/3-tiempos/3-tiempos2.076.png" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
+
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/3-tiempos/3-tiempos2.077.png" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
+
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/3-tiempos/3-tiempos2.078.png" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
 
 ### Gálatas 1:4c -- El evangelio de la gracia no fue de hombre, sino según el propósito y el __<u>plan</u>__ de Dios. "\...*conforme a la voluntad de nuestro Dios y Padre...".*
 
@@ -1293,7 +1405,7 @@ El legalismo le quita el foco de Cristo y lo pone en el hombre y en sus esfuerzo
 
 ###### Santiago 2:18 -- Si has sido justificado ante Dios, ¿estás caminando por __<u>fe</u>__? Sin un caminar de fe, no puedes ser justificado ante la gente. "*Pero alguno dirá: Tú tienes fe, y yo tengo obras. Muéstrame tu fe sin tus obras, y yo te mostraré mi fe por mis obras".*
 
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/chainlink.jpeg" data-background-size="cover"  data-menu-title="VI.  Gálatas 2:19 -- Este Hecho Permanece: La justificación es por Fe, no por Obediencia a la Ley" data-background-color="black" data-background-opacity="0.5" data-transition="zoom" -->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/chainlink.jpeg" data-background-size="cover"  data-menu-title="VI. Gálatas 2:19 -- Este Hecho Permanece: La justificación es por Fe, no por Obediencia a la Ley" data-background-color="black" data-background-opacity="0.5" data-transition="zoom" -->
 # VI.  Gálatas 2:19 -- Este Hecho Permanece: La justificación es por Fe, no por Obediencia a la Ley
 <!-- .element: style="color:white;" -->
 
