@@ -1,32 +1,34 @@
-![](img/image1.jpeg){width="8.459027777777777in" height="10.956944444444444in"}
-
-![](img/image2.png){width="2.2847222222222223in" height="0.7986111111111112in"}
-
-
-
+<!-- .slide: data-background-image="markdown/galatas/img/chainlink.jpeg" data-background-size="cover"  data-menu-title="Início" -->
+<svg width="1280" height="720" version="1.1" viewBox="0 0 508 285.7" xmlns="http://www.w3.org/2000/svg">
+ <rect x="-11.94" y="240.2" width="531.9" height="46.52" rx="1.64" ry="1.64" fill="#fff" fill-rule="evenodd"/>
+ <rect x="47.62" y="-.756" width="412.8" height="79.38" rx="1.64" ry="1.64" fill="#fff" fill-rule="evenodd" stroke-width="0"/>
+ <g fill="#000000">
+  <text transform="scale(1.185 .844)" x="84.947472" y="54.122406" font-family="AppleGothic" font-size="55.28px" stroke-width="1.382" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25" xml:space="preserve"><tspan x="84.947472" y="54.122406" font-family="AppleGothic" font-size="55.28px" stroke-width="1.382" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">GALATAS</tspan></text>
+  <text transform="scale(1.252 .7989)" x="97.410667" y="85.067101" font-family="'Apple SD Gothic Neo'" font-size="24.56px" font-weight="200" stroke-width=".614" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25" xml:space="preserve"><tspan x="97.410667" y="85.067101" font-family="'Apple SD Gothic Neo'" font-size="24.56px" font-weight="200" stroke-width=".614" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">La gracia bajo ataque</tspan></text>
+  <text transform="scale(1.102 .9078)" x="80.365265" y="293.91995" font-family="AppleMyungjo" font-size="12.76px" stroke-width=".319" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25" xml:space="preserve"><tspan x="80.365265" y="293.91995" font-family="AppleMyungjo" font-size="12.76px" stroke-width=".319" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">MULTIPLICANDO HACEDORES DE DISCIPULOS</tspan></text>
+ </g>
+</svg>
+___
 Copyright © **2020 by DM2 International Inc** All rights reserved
-
-# Notas Introductorias {#notas-introductorias .list-paragraph}
-
+___
+# Notas Introductorias 
+___
 En las iglesias de Galacia, no sólo el evangelio de la gracia estaba bajo ataque, sino que también la gracia para vivir la vida cristiana. Claramente, la ley y la gracia no se mezclan. No pueden estar casadas. Si la ley y la gracia intentan vivir bajo el mismo techo, obtienes guerra. En Galacia, la gracia tanto para la salvación como para la santificación estaba bajo ataque.
-
+___
 En el primer siglo, entre las iglesias de Galacia, el mayor peligro era el veneno y no la persecución. Misioneros viajaban por el mundo vendiendo su aceite de serpiente de salvación por la circuncisión.
-
+___
 Estos engañadores les vendieron a creyentes gentiles la idea de que para ser completamente salvos necesitaban "ritualizar". A pesar de que la circuncisión para la salvación se promulgaba hace mucho tiempo, ese tipo de pensamiento está tan fresco hoy en día como una lechuga. Cuando escaneas el horizonte, es difícil encontrar una congregación no afectada. Los falsos maestros aún agregan todo tipo de reglas y regulaciones para ganar la aprobación de Dios. Los engañadores prometen espiritualidad y madurez basadas en el desempeño, además proclaman que la verdadera gracia es el enemigo público número uno y están determinados en eliminarla a toda costa.
-
+___
 Si has estado bajo ataque debido a la asombrosa gracia de Dios, entonces Gálatas es para ti.
-
+___
 20 de Julio, 2020
-
 3ra Edición
-
-
-
+___
 Derechos de Autor © **2020** **DM2** **International** **Inc.** Todos los derechos reservados
-
+___
 **Póliza de los Derechos de Autor.** Traducción no autorizada, re-publicación, duplicación del documento, página de la internet o distribución del correo electrónico de cualquier porción de este material de derechos de autor de cualquier forma, sin el expreso consentimiento escrito de DM2™ es estrictamente prohibido. Puedes usar los materiales de DM2 para tu propio estudio personal o para volverlos a enseñar en una clase, siempre y cuando, el logo de DM2 y esta póliza de los derechos de autor estén incluidos siempre en el material al ser enseñados. Puedes bajar una copia a tú PC, imprimirla o hacer copias para la clase o estudio de grupo Bíblico; sin embargo, no puedes cobrar por este material o por conducir una clase usando el mismo, excepto por el costo actual del copiado. NO puedes hacer cambios a este material, tiene derechos de autor. Para una más amplia exposición de la póliza del DM2 con respecto a los usos de sus materiales, por favor referirse a la página de la internet DM2-USA\
 al <http://www.dm2usa.org>. \[DM2™\]
-
+___
 **Impreso** **y** **Propiedad** **de:**
 **DM2**
 **Disciple** **Makers** **Multiplied**
@@ -35,30 +37,33 @@ al <http://www.dm2usa.org>. \[DM2™\]
 **Para más información:**
 **disciplemakersmultiplied\@gmail.com**
 **DM2USA.org**
-
-**Gálatas**
-
-|I.       Gálatas 1:1-5 -- Familiarizándose con el Libro de Gálatas                                                      | 6|
-|------------------------------------------------------------------| ----|
-|II\.     Gálatas 1:6-10 -- Una Mirada Cercana a la Apostasía en Galacia                                               |   12|
-|  III\.    Gálatas 1:11-24 -- El Evangelio de la Salvación fue Escrito por Dios                                       |     15|
-|  IV\.     Gálatas 2:1-14 -- Pablo y Su Defensa del Evangelio                                                            |  18|
-|  V.       Gálatas 2:15-18, 21 -- El Recordatorio de Pablo a Pedro de que la Justificación es Sólo por Fe y No por Obras  | 24|
-|  VI\.     Gálatas 2:19 -- Este Hecho Permanece: La Justificación es por Fe, no por Obediencia a la Ley             |       32|
-|  VII\.    Gálatas 2:20-21 -- Pablo le Recordó a Pedro los Resultados Prácticos de la Justificación                 |       35|
-|  VIII\.   Gálatas 3:1-14 -- ¿Somos Santificados por Alguna Forma de Legalismo?                                        |    37|
-|  IX\.     Gálatas 3:15-3:25 -- Varias Aclaraciones y Comparaciones Importantes                                         |   43|
-|  X.       Gálatas 3:26-4:7 -- Nuestra Identidad en Cristo Trae Bendición Asombrosa                                   |     47|
+___
+|**Gálatas**|  |
+|-----------------------------------------------------------|----|
+|I.Gálatas 1:1-5 -- Familiarizándose con el Libro de Gálatas | 6|
+|II.Gálatas 1:6-10 -- Una Mirada Cercana a la Apostasía en Galacia  |12|
+|  III\.    Gálatas 1:11-24 -- El Evangelio de la Salvación fue Escrito por Dios |15|
+|  IV\.     Gálatas 2:1-14 -- Pablo y Su Defensa del Evangelio  |  18|
+___
+|  V. Gálatas 2:15-18, 21 -- El Recordatorio de Pablo a Pedro de que la Justificación es Sólo por Fe y No por Obras |24|
+|-----------------------------------------------------------|----|
+|  VI. Gálatas 2:19 -- Este Hecho Permanece: La Justificación es por Fe, no por Obediencia a la Ley |32|
+|  VII. Gálatas 2:20-21 -- Pablo le Recordó a Pedro los Resultados Prácticos de la Justificación                 |       35|
+|  VIII. Gálatas 3:1-14 -- ¿Somos Santificados por Alguna Forma de Legalismo?|37|
+|  IX.     Gálatas 3:15-3:25 -- Varias Aclaraciones y Comparaciones Importantes |43|
+___
+|  X.       Gálatas 3:26-4:7 -- Nuestra Identidad en Cristo Trae Bendición Asombrosa |47|
+|-----------------------------------------------------------|----|
 |  XI\.     Gálatas 4:8-10 -- ¡Advertencia Contra el Regreso a la Esclavitud!                                             |  51|
 |  XII\.    Gálatas 4:11-20 -- Pablo Expresó Profunda Preocupación por el Estado Espiritual de los Creyentes Gálatas.      | 54|
 |  XIII\.   Gálatas 4:21-31 -- Un Ejemplo Práctico sobre el Legalismo en Contraste con la Gracia                         |   56|
-|  XIV\.    Gálatas 5:1-15 -- ¡Permanezcan en la Gracia!                                                                  |  64|
-|  XV\.     Gálatas 5:16-26 -- Andando en el Espíritu                                                                     |  70|
+___
+|  XIV\.    Gálatas 5:1-15 -- ¡Permanezcan en la Gracia! |  64|
+|-----------------------------------------------------------|----|
+|  XV\.     Gálatas 5:16-26 -- Andando en el Espíritu    |  70|
 |  XVI\.    Gálatas 6:1-10 -- Pablo enseña que el Andar Por Medio del Espíritu Debe Resultar en un Servicio Práctico.       |80|
-|  XVII\.   Gálatas 6:11-18 -- Las Declaraciones Finales del Apóstol Pablo                                                |  85|
-
-
-**
+|  XVII\.   Gálatas 6:11-18 -- Las Declaraciones Finales del Apóstol Pablo |85|
+___
 **El Libro de Gálatas**
 ***El Evangelio Bajo Ataque***
 
