@@ -1427,7 +1427,7 @@ El legalismo le quita el foco de Cristo y lo pone en el hombre y en sus esfuerzo
 ### Deuteronomio 4:1-8 -- Es obvio que los principios morales contenidos en la Ley (Los Diez Mandamientos) podrían servir fácilmente como guía para cualquier __<u>nación</u>__ en el gobierno y mantenimiento del orden civil. Desafortunadamente, los países lo descartan universalmente como obsoleto.
 
 <!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/chainlink.jpeg" data-background-size="cover"  data-menu-title="VII. Gálatas 2:20-21 -- Pablo le Recordó a Pedro los Resultados Prácticos de la Justificación" data-background-color="black" data-background-opacity="0.5" data-transition="zoom" -->
-# VII. Gálatas 2:20-21 -- Pablo le Recordó a Pedro los <u>Resultados</u> Prácticos de la Justificación
+# VII. Gálatas 2:20-21 -- Pablo le Recordó a Pedro los <u style="color:white;">Resultados</u> Prácticos de la Justificación
 <!-- .element: style="color:white;" -->
 
 ## A. Gálatas 2:20-21 --Como resultado de la justificación, el creyente ha sido identificado con Cristo en Su crucifixión. Así es como Pablo le explicó a Pedro las ramificaciones prácticas de <u>estar</u> crucificado con Cristo.
