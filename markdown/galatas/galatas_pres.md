@@ -1041,13 +1041,13 @@ El legalismo le quita el foco de Cristo y lo pone en el hombre y en sus esfuerzo
 
 #### Gálatas 2:16a -- Sabemos que una persona no está justificada ante Dios por buenas obras (obras de la Ley). "*sabiendo que el hombre **no es justificado por las <u>obras</u> de la ley**, sino por la fe de Jesucristo*..."
 
-#### Gálatas 2:16b -- Pablo dijo que sabemos que una persona no es justificada por guardar la __<u>Ley</u>__ sino por la fe en Cristo. "\...*nosotros también hemos creído en Jesucristo, para ser justificados por la fe de Cristo **y no por las obras de la ley***..."
+#### Gálatas 2:16b -- Pablo dijo que sabemos que una persona no es justificada por guardar la __<u>Ley</u>__ sino por la fe en Cristo. "*...nosotros también hemos creído en Jesucristo, para ser justificados por la fe de Cristo **y no por las obras de la ley**...*"
 
-#### Gálatas 2:16c -- ¿Por qué? La verdad es que por las obras de la Ley, ninguna persona en la tierra será jamás justificada ante Dios. "\...*por cuanto **por las <u>obras</u> de la ley nadie será justificado**".*
+#### Gálatas 2:16c -- ¿Por qué? La verdad es que por las obras de la Ley, ninguna persona en la tierra será jamás justificada ante Dios. "*...por cuanto **por las <u>obras</u> de la ley nadie será justificado**.*"
 
-### Gálatas 2:16d -- Principio tres: Una persona es declarada justa por __<u>Dios</u>__ en el momento en que cree en Cristo solamente. "*\...nosotros también **hemos creído en Jesucristo**, **para ser justificados por la fe de Cristo** y no por las obras de la ley..."*. Ver también Romanos 3:28, Hechos 15:10-11.
+### Gálatas 2:16d -- Principio tres: Una persona es declarada justa por __<u>Dios</u>__ en el momento en que cree en Cristo solamente. "*...nosotros también **hemos creído en Jesucristo**, **para ser justificados por la fe de Cristo** y no por las obras de la ley....*" Ver también Romanos 3:28, Hechos 15:10-11.
 
-### Gálatas 2:21 -- Principio cuatro (que se halla en el versículo 21): Una persona es declarada justa ante Dios por __<u>gracia</u>__ debido a la muerte sustitutiva de Cristo. "*No desecho la gracia de Dios; pues si por la ley fuese la justicia, entonces por demás murió Cristo"*. Véase también Romanos 3:24.
+### Gálatas 2:21 -- Principio cuatro (que se halla en el versículo 21): Una persona es declarada justa ante Dios por __<u>gracia</u>__ debido a la muerte sustitutiva de Cristo. "*No desecho la gracia de Dios; pues si por la ley fuese la justicia, entonces por demás murió Cristo.*" Véase también Romanos 3:24.
 
 ## B. Gálatas 2:17-18 -- La <u>conducta</u> de Pedro introdujo un dilema.
 
@@ -1057,13 +1057,13 @@ El legalismo le quita el foco de Cristo y lo pone en el hombre y en sus esfuerzo
 
 #### Si se hallaba que era pecado asociarse con gentiles, entonces __<u>Cristo</u>__, quien había derramado Su Espíritu sobre creyentes gentiles, habría estado promoviendo el pecado. Esto, por supuesto, era absurdo. Romanos 3:22, 29; 1 Corintios 7:19, 12:13
 
-#### El pecado de Pedro hizo que Cristo parezca __<u>equivocado</u>__, una idea que es absolutamente insoportable. "*Y si buscando ser justificados en Cristo, también nosotros somos hallados pecadores, ¿es por eso Cristo ministro de pecado? En ninguna manera"*. 
+#### El pecado de Pedro hizo que Cristo parezca __<u>equivocado</u>__, una idea que es absolutamente insoportable. "*Y si buscando ser justificados en Cristo, también nosotros somos hallados pecadores, ¿es por eso Cristo ministro de pecado? En ninguna manera.*" 
 
 ### Gálatas 2:18 -- Todo lo que Pedro demostró con sus acciones fue que él mismo era un __<u>pecador</u>__.
 
-#### Gálatas 2:18a -- "*Porque si las cosas que destruí, las mismas vuelvo a edificar\...".* En lugar de llamar a Cristo un promotor del pecado, __<u>señalamos</u>__ a Pedro. Él estaba reconstruyendo los requisitos de la Ley, algo en lo que no había creído durante algún tiempo. 
+#### Gálatas 2:18a -- "*Porque si las cosas que destruí, las mismas vuelvo a edificar\... .*" En lugar de llamar a Cristo un promotor del pecado, __<u>señalamos</u>__ a Pedro. Él estaba reconstruyendo los requisitos de la Ley, algo en lo que no había creído durante algún tiempo. 
 
-#### Gálatas 2:18b -- *"...transgresor me hago".* Puesto que Pedro estaba afirmando __<u>cosas</u>__ contradictorias por su hipocresía (primero comiendo con gentiles, luego retirándose), concluimos que él era el culpable, no Cristo. Romanos 3:4
+#### Gálatas 2:18b -- "*...transgresor me hago.*" Puesto que Pedro estaba afirmando __<u>cosas</u>__ contradictorias por su hipocresía (primero comiendo con gentiles, luego retirándose), concluimos que él era el culpable, no Cristo. Romanos 3:4
 
 ##### Cristo es así exonerado, y __<u>Pedro</u>__ es señalado como el hipócrita. Hechos 11:17-18
 
