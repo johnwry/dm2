@@ -844,7 +844,7 @@ Note: Se llama la iglesia de Dios 12x (hech 28:28, 1 Cor 1:2, 10:32, 11:16, 11:2
 
 ####             a.  Pablo fue un apóstol **<u>no</u>** por ambición personal o por nombramiento humano, sino por la autoridad de Dios. Hechos 9:3-6, Gálatas 1:1, 1 Corintios 1:1, 2 Timoteo 1:1, Tito 1:1
 
-####             b.  Dios es descrito aquí como *nuestro Salvador.* Salvador significa **<u>libertador</u>**. Antes de que comenzara el tiempo, era el plan de Dios el Padre rescatar a la humanidad de Satanás, el pecado y la muerte a través de la obra de Dios el Hijo. Hechos 2:23; 1 Pedro 1: 20-21
+####             b.  Dios es descrito aquí como *nuestro Salvador.* Salvador significa **<u>libertador</u>**. Antes de que comenzara el tiempo, era el plan de Dios el Padre rescatar a la humanidad de Satanás, el pecado y la muerte a través de la obra de Dios el Hijo. Hechos 2:23; 1 Pedro 1:20-21
 
 ###         4.  1 Timoteo 1:1d -- *Jesucristo nuestra esperanza*\... La esperanza aquí habla del deseo de algo bueno con la expectativa de obtenerlo. Es gracias a que Jesucristo pagó la pena por nuestros pecados en la cruz, que todos aquellos que creen en Él pueden esperar con **<u>confianza</u>** vivir con Dios en el cielo para siempre. Juan 3:16
 
@@ -878,7 +878,7 @@ Note: Se llama la iglesia de Dios 12x (hech 28:28, 1 Cor 1:2, 10:32, 11:16, 11:2
 
 #####                 2.  Pablo sabía que Timoteo, como todos nosotros, era un pecador **<u>salvo</u>** por gracia. Romanos 7:13-25
 
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/shalom.svg" data-background-size="300px" data-background-position="top" data-background-opacity="0.5"-->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/shalom.svg" data-background-size="300px" data-background-position="bottom" data-background-opacity="0.8"-->
 ####             c.  *__<u>Paz</u>__* (para ti): Un típico deseo judío para un medio-judío (Timoteo).
 
 #####                 1.  La paz proviene de un entendimiento de la **<u>gracia</u>** de Dios.
