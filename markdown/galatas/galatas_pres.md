@@ -683,7 +683,7 @@ ___
 
 <!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/3-tiempos/3-tiempos2.078.png" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
 
-### Gálatas 1:4c -- El evangelio de la gracia no fue de hombre, sino según el propósito y el __<u>plan</u>__ de Dios. "\...*conforme a la voluntad de nuestro Dios y Padre...".*
+### Gálatas 1:4c -- El evangelio de la gracia no fue de hombre, sino según el propósito y el __<u>plan</u>__ de Dios. "...*conforme a la voluntad de nuestro Dios y Padre....*"
 
 ### Gálatas 1:5 -- Sólo el evangelio de la gracia da __<u>todo</u>__ honor y gloria a Dios. "*a quien sea la gloria por los siglos de los siglos. Amén".*
 

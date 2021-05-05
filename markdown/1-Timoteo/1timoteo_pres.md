@@ -866,7 +866,7 @@ Note: Se llama la iglesia de Dios 12x (hech 28:28, 1 Cor 1:2, 10:32, 11:16, 11:2
 
 ###         2.  1 Timoteo 1:2b -- El saludo de Pablo a Timoteo: *Gracia, misericordia y paz, de Dios nuestro Padre y de Cristo Jesús nuestro Señor*.
 
-####             a.  ***<u>Gracia</u>*** (para ti) -- Un deseo gentil para un medio-gentil (Timoteo).
+####             a.  *__<u>Gracia</u>__* (para ti) -- Un deseo gentil para un medio-gentil (Timoteo).
 
 #####                 1.  Todos los libros que Pablo escribió comenzaron y terminaron con una declaración sobre la **<u>gracia</u>**. 1 Timoteo 1:2; 6:21
 
@@ -878,6 +878,7 @@ Note: Se llama la iglesia de Dios 12x (hech 28:28, 1 Cor 1:2, 10:32, 11:16, 11:2
 
 #####                 2.  Pablo sabía que Timoteo, como todos nosotros, era un pecador **<u>salvo</u>** por gracia. Romanos 7:13-25
 
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/shalom.svg" data-background-size="300px" data-background-position="top" data-background-opacity="0.5"-->
 ####             c.  *__<u>Paz</u>__* (para ti): Un típico deseo judío para un medio-judío (Timoteo).
 
 #####                 1.  La paz proviene de un entendimiento de la **<u>gracia</u>** de Dios.
