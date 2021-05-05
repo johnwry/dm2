@@ -822,7 +822,7 @@ Note: Se llama la iglesia de Dios 12x (hech 28:28, 1 Cor 1:2, 10:32, 11:16, 11:2
 
 #####                 7.  Él **<u>sufrió</u>** mucho por Cristo. Fue golpeado, apedreado, encarcelado y finalmente ejecutado en Roma alrededor del año 67 d.C. 2 Corintios 11:23-28
 
-###         2.  1 Timoteo 1: 1b -- *Pablo, apóstol de Jesucristo*\... Pablo tenía gran autoridad como **<u>apóstol</u>**.
+###         2.  1 Timoteo 1:1b -- *Pablo, apóstol de Jesucristo*\... Pablo tenía gran autoridad como **<u>apóstol</u>**.
 
 ####             a.  Cristo salvó a Pablo y lo **<u>envió</u>** como Su apóstol específicamente a los gentiles. Hechos 22:21, Romanos 11:13, Gálatas 2:8, 1 Timoteo 2:7, 2 Timoteo 1:11
 
