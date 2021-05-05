@@ -848,10 +848,10 @@ Note: Se llama la iglesia de Dios 12x (hech 28:28, 1 Cor 1:2, 10:32, 11:16, 11:2
 
 ###         4.  1 Timoteo 1:1d -- *Jesucristo nuestra esperanza*\... La esperanza aquí habla del deseo de algo bueno con la expectativa de obtenerlo. Es gracias a que Jesucristo pagó la pena por nuestros pecados en la cruz, que todos aquellos que creen en Él pueden esperar con **<u>confianza</u>** vivir con Dios en el cielo para siempre. Juan 3:16
 
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/scroll.svg" data-background-size="300px" data-background-position="data-background-position="right 25% bottom 25%" data-background-opacity="0.5"-->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/scroll.svg" data-background-size="300px" data-background-position="right 50% bottom 75%" data-background-opacity="0.5"-->
 ##     B.  Timoteo, el receptor de la epístola
 
-###         1.  1 Timoteo 1:2a -- *A Timoteo, verdadero hijo en la fe*\... Timoteo, un **<u>compañero</u>** creyente en Jesucristo, fue uno de los asistentes de Pablo en el ministerio.
+###         1.  1 Timoteo 1:2a -- *A Timoteo, verdadero hijo en la fe*... Timoteo, un **<u>compañero</u>** creyente en Jesucristo, fue uno de los asistentes de Pablo en el ministerio.
 
 ####             a.  Timoteo, el hijo de un padre griego y una madre judía, había confiado en Cristo a través del **<u>ministerio</u>** de Pablo. Hechos 16:1-2; 2 Timoteo 1:5, 3:15
 
