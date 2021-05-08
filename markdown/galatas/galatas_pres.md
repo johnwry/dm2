@@ -17,7 +17,8 @@ En las iglesias de Galacia, no sólo el evangelio de la gracia estaba bajo ataqu
 ___
 En el primer siglo, entre las iglesias de Galacia, el mayor peligro era el veneno y no la persecución. Misioneros viajaban por el mundo vendiendo su aceite de serpiente de salvación por la circuncisión.
 ___
-Estos engañadores les vendieron a creyentes gentiles la idea de que para ser completamente salvos necesitaban "ritualizar". A pesar de que la circuncisión para la salvación se promulgaba hace mucho tiempo, ese tipo de pensamiento está tan fresco hoy en día como una lechuga. Cuando escaneas el horizonte, es difícil encontrar una congregación no afectada. Los falsos maestros aún agregan todo tipo de reglas y regulaciones para ganar la aprobación de Dios. Los engañadores prometen espiritualidad y madurez basadas en el desempeño, además proclaman que la verdadera gracia es el enemigo público número uno y están determinados en eliminarla a toda costa.
+<small>
+Estos engañadores les vendieron a creyentes gentiles la idea de que para ser completamente salvos necesitaban "ritualizar". A pesar de que la circuncisión para la salvación se promulgaba hace mucho tiempo, ese tipo de pensamiento está tan fresco hoy en día como una lechuga. Cuando escaneas el horizonte, es difícil encontrar una congregación no afectada. Los falsos maestros aún agregan todo tipo de reglas y regulaciones para ganar la aprobación de Dios. Los engañadores prometen espiritualidad y madurez basadas en el desempeño, además proclaman que la verdadera gracia es el enemigo público número uno y están determinados en eliminarla a toda costa.</small>
 ___
 Si has estado bajo ataque debido a la asombrosa gracia de Dios, entonces Gálatas es para ti.
 ___
@@ -117,55 +118,55 @@ ___
 
 ##### 1) El apostolado de Pablo fue comisionado tanto por Dios el __<u>Padre</u>__ como por Dios el Hijo.
 
-##### El apostolado de Pablo fue incuestionable e irrefutable, hecho que vino del Todopoderoso que __<u>resucitó</u>__ a Jesucristo de entre los muertos.
+##### 2) El apostolado de Pablo fue incuestionable e irrefutable, hecho que vino del Todopoderoso que __<u>resucitó</u>__ a Jesucristo de entre los muertos.
 
-### Gálatas 1:2a -- "*y todos los hermanos que están conmigo\..."* Aquí Pablo incluyó una mención de algunos colaboradores __<u>anónimos</u>__.
+### 3. Gálatas 1:2a -- "*y todos los hermanos que están conmigo\..."* Aquí Pablo incluyó una mención de algunos colaboradores __<u>anónimos</u>__.
 
-#### Pablo se refirió a una cantidad de creyentes que estaban __<u>con</u>__ él.
+#### a. Pablo se refirió a una cantidad de creyentes que estaban __<u>con</u>__ él.
 
-#### La inclusión de estos creyentes no identificados resaltó el hecho de que Pablo no estaba __<u>solo</u>__ en su preocupación por los gálatas y las fuertes opiniones que estaba a punto de expresar.
+#### b. La inclusión de estos creyentes no identificados resaltó el hecho de que Pablo no estaba __<u>solo</u>__ en su preocupación por los gálatas y las fuertes opiniones que estaba a punto de expresar.
 
 ## B. Gálatas 1:2b -- La audiencia de la epístola fueron *las <u>iglesias</u> de Galacia.*
 
 <!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/map2.png" data-background-size="contain" data-background-color="black" -->
 
-### Gálatas 1:2b -- ¿Quiénes eran las iglesias de Galacia?
+### 1. Gálatas 1:2b -- ¿Quiénes eran las iglesias de Galacia?
 
-#### Características de los gálatas
+#### a. Características de los gálatas
 
-##### Los gálatas eran los nativos de __<u>Asia</u>__ Menor.
+##### 1) Los gálatas eran los nativos de __<u>Asia</u>__ Menor.
 
-##### Los habitantes eran conocidos por sus __<u>gestos</u>__ impulsivos o impetuosos.
+##### 2) Los habitantes eran conocidos por sus __<u>gestos</u>__ impulsivos o impetuosos.
 
-##### Los gálatas vivían en las tierras fronterizas de las rutas comerciales este-oeste. Sus tierras eran los antiguos campos de batalla entre el Medio Oriente y __<u>Europa</u>__.
+##### 3) Los gálatas vivían en las tierras fronterizas de las rutas comerciales este-oeste. Sus tierras eran los antiguos campos de batalla entre el Medio Oriente y __<u>Europa</u>__.
 
-#### Esta carta no fue escrita a __<u>una</u>__ sola iglesia sino a las *iglesias* de Galacia.
+#### b. Esta carta no fue escrita a __<u>una</u>__ sola iglesia sino a las *iglesias* de Galacia.
 
-#### Aunque acaloradamente debatido, nuestra opinión es que esta carta fue escrita a varias congregaciones errantes en el sur de __<u>Galacia</u>__ alrededor del año 49 d.C.
+#### c. Aunque acaloradamente debatido, nuestra opinión es que esta carta fue escrita a varias congregaciones errantes en el sur de __<u>Galacia</u>__ alrededor del año 49 d.C.
 
-#### Fue muy probablemente escrita durante el tiempo __<u>entre</u>__ el primer y el segundo viaje misionero de Pablo y antes del Concilio de Jerusalén en Hechos 15.
+#### d. Fue muy probablemente escrita durante el tiempo __<u>entre</u>__ el primer y el segundo viaje misionero de Pablo y antes del Concilio de Jerusalén en Hechos 15.
 
 <!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/primeros-30.png" data-background-size="contain" data-background-color="black" -->
 
-### Pablo y Bernabé plantaron estas iglesias gálatas en su __<u>primer</u>__ viaje misionero, alrededor del año 44-46 d.C. Hechos 13, 14
+### 2. Pablo y Bernabé plantaron estas iglesias gálatas en su __<u>primer</u>__ viaje misionero, alrededor del año 44-46 d.C. Hechos 13, 14
 
-#### Hechos 14:1-2 -- Dos cosas sucedieron en Galacia cuando se dedicaron a predicar el __<u>evangelio</u>__.
+#### a. Hechos 14:1-2 -- Dos cosas sucedieron en Galacia cuando se dedicaron a predicar el __<u>evangelio</u>__.
 
-##### Hechos 14:1 -- Por un lado, hubo muchos __<u>conversos</u>__. Hechos 17:34
+##### 1) Hechos 14:1 -- Por un lado, hubo muchos __<u>conversos</u>__. Hechos 17:34
 
-##### Hechos 14:2 -- Por otro lado, hubo mucha __<u>enemistad</u>__ provocada hacia el mensaje del evangelio. Hechos 17:32
+##### 2) Hechos 14:2 -- Por otro lado, hubo mucha __<u>enemistad</u>__ provocada hacia el mensaje del evangelio. Hechos 17:32
 
-##### Este tipo de reacciones siguen siendo la norma en el mundo de __<u>hoy</u>__. Dondequiera que se predique el evangelio, algunos creen y otros se oponen al mensaje (a menudo violentamente).
+##### 3) Este tipo de reacciones siguen siendo la norma en el mundo de __<u>hoy</u>__. Dondequiera que se predique el evangelio, algunos creen y otros se oponen al mensaje (a menudo violentamente).
 
-#### A través de los __<u>esfuerzos</u>__ de Pablo y Bernabé durante su primer viaje misionero, varias ciudades fueron evangelizadas resultando en la formación de iglesias. Hechos 13-15
+#### b. A través de los __<u>esfuerzos</u>__ de Pablo y Bernabé durante su primer viaje misionero, varias ciudades fueron evangelizadas resultando en la formación de iglesias. Hechos 13-15
 
-##### Hechos 13:4 -- La __<u>isla</u>__ de Chipre fue evangelizada.
+##### 1) Hechos 13:4 -- La __<u>isla</u>__ de Chipre fue evangelizada.
 
-##### Hechos 13:14 -- La ciudad de __<u>Antioquía</u>__ de Pisidia en Galacia fue alcanzada.
+##### 2) Hechos 13:14 -- La ciudad de __<u>Antioquía</u>__ de Pisidia en Galacia fue alcanzada.
 
-##### Hechos 13:51 -- La ciudad de __<u>Iconio</u>__ fue evangelizada.
+##### 3) Hechos 13:51 -- La ciudad de __<u>Iconio</u>__ fue evangelizada.
 
-##### Hechos 14:6 -- Y finalmente se establecieron iglesias en las ciudades de Listra y Derbe, la ciudad de la cual __<u>Timoteo</u>__ era originario. Hechos 16:1, 1 Corintios 4:17
+##### 4) Hechos 14:6 -- Y finalmente se establecieron iglesias en las ciudades de Listra y Derbe, la ciudad de la cual __<u>Timoteo</u>__ era originario. Hechos 16:1, 1 Corintios 4:17
 
 <!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/primer-viaje-pablo.png" data-background-size="contain" data-background-color="black" -->
 
@@ -461,73 +462,73 @@ ___
 
 ## C. Gálatas 1:2c -- Al mencionar la resurrección, una parte integral del Evangelio, Pablo aludió su propósito principal en escribir: abordar la <u>distorsión</u> del evangelio.
 
-### Sorprendentemente, en muy corto tiempo (dos años más o menos) estas iglesias se habían alejado de la verdadera __<u>gracia</u>__ de Cristo. Gálatas 1:6
+### 1. Sorprendentemente, en muy corto tiempo (dos años más o menos) estas iglesias se habían alejado de la verdadera __<u>gracia</u>__ de Cristo. Gálatas 1:6
 
-### Estas iglesias habían abrazado el __<u>legalismo</u>__ que enseñaban los judaizantes.
+### 2. Estas iglesias habían abrazado el __<u>legalismo</u>__ que enseñaban los judaizantes.
 
-#### ¿Quiénes eran los judaizantes?
+#### a. ¿Quiénes eran los judaizantes?
 
-##### Los judaizantes eran proselitistas (creyentes confundidos o incrédulos engañosos) que seguían a Pablo dondequiera que plantara una iglesia y enseñaban que la salvación era por Cristo más el __<u>ritual</u>__ de la circuncisión.
+##### 1) Los judaizantes eran proselitistas (creyentes confundidos o incrédulos engañosos) que seguían a Pablo dondequiera que plantara una iglesia y enseñaban que la salvación era por Cristo más el __<u>ritual</u>__ de la circuncisión.
 
-###### Por un lado, enseñaban la __<u>falsa</u>__ idea de que un hombre debe ser circuncidado para ser justificado ante Dios (primera fase de la salvación). Gálatas 2:16, 5:4, Hechos 15:1
+###### a) Por un lado, enseñaban la __<u>falsa</u>__ idea de que un hombre debe ser circuncidado para ser justificado ante Dios (primera fase de la salvación). Gálatas 2:16, 5:4, Hechos 15:1
 
-###### Por otro lado, destruían el __<u>medio</u>__ para la santificación (segunda fase de la salvación) al exigir obediencia a la ley para la espiritualidad. Gálatas 3:3, Hechos 15:5
+###### b) Por otro lado, destruían el __<u>medio</u>__ para la santificación (segunda fase de la salvación) al exigir obediencia a la ley para la espiritualidad. Gálatas 3:3, Hechos 15:5
 
-##### Gálatas 2:14 -- El término *judaizante* aparece sólo __<u>una</u>__ __<u>vez</u>__ en la Biblia.
+##### 2) Gálatas 2:14 -- El término *judaizante* aparece sólo __<u>una</u>__ __<u>vez</u>__ en la Biblia.
 
-##### Aquellos que enseñaban este error fueron llamados judaizantes, ya que intentaban hacer que los creyentes gentiles se ajustaran a los rituales __<u>judíos</u>__.
+##### 3) Aquellos que enseñaban este error fueron llamados judaizantes, ya que intentaban hacer que los creyentes gentiles se ajustaran a los rituales __<u>judíos</u>__.
 
-#### ¿Qué es el legalismo? Observarás en este estudio de Gálatas que __<u>utilizamos</u>__ el término legalismo como un concepto negativo.
+#### b. ¿Qué es el legalismo? Observarás en este estudio de Gálatas que __<u>utilizamos</u>__ el término legalismo como un concepto negativo.
 
-##### Los términos legalismo y legalista no se encuentran en la __<u>Biblia</u>__. Estos son términos inventados por la iglesia para describir un problema real encontrado en la iglesia desde sus comienzos. Pablo tuvo que tratar con legalistas en sus escritos, especialmente en el libro de Gálatas. 
+##### 1) Los términos legalismo y legalista no se encuentran en la __<u>Biblia</u>__. Estos son términos inventados por la iglesia para describir un problema real encontrado en la iglesia desde sus comienzos. Pablo tuvo que tratar con legalistas en sus escritos, especialmente en el libro de Gálatas. 
 
-##### El legalismo para la justificación es la creencia de que una persona debe guardar las __<u>leyes</u>__ para ser salvada de la pena del pecado y ser hecha aceptable a Dios.
+##### 2) El legalismo para la justificación es la creencia de que una persona debe guardar las __<u>leyes</u>__ para ser salvada de la pena del pecado y ser hecha aceptable a Dios.
 
-###### El legalismo es equivalente a exigir __<u>obras</u>__ para la salvación o ganarse la salvación con buenas obras. Mateo 23:13
+###### a) El legalismo es equivalente a exigir __<u>obras</u>__ para la salvación o ganarse la salvación con buenas obras. Mateo 23:13
 
-###### En relación con la justificación, un legalista (judaizante) diría: \"*__<u>Si</u>__ no os circuncidáis conforme al rito de Moisés, no podéis ser salvos.*\" (Hechos 15:1). Ver también Filipenses 3:2-3
+###### b) En relación con la justificación, un legalista (judaizante) diría: \"*__<u>Si</u>__ no os circuncidáis conforme al rito de Moisés, no podéis ser salvos.*\" (Hechos 15:1). Ver también Filipenses 3:2-3
 
-###### Pero Pablo contrarrestaría esta falsa idea con Gálatas 2:16: "*sabiendo que el hombre no es justificado por las obras de la ley, sino por la fe de Jesucristo, nosotros también hemos creído en Jesucristo, para ser justificados por la fe de Cristo y no por las obras de la ley, por cuanto por las obras de la ley __<u>nadie</u>__ será justificado".*
+###### c) Pero Pablo contrarrestaría esta falsa idea con Gálatas 2:16: "*sabiendo que el hombre no es justificado por las obras de la ley, sino por la fe de Jesucristo, nosotros también hemos creído en Jesucristo, para ser justificados por la fe de Cristo y no por las obras de la ley, por cuanto por las obras de la ley __<u>nadie</u>__ será justificado".*
 
-###### Este falso concepto va en contra de las claras enseñanzas de la Palabra de Dios que establecen que la salvación es sólo por __<u>gracia</u>__. Efesios 2:8-9, Tito 3:5-6, Gálatas 2:16
+###### d) Este falso concepto va en contra de las claras enseñanzas de la Palabra de Dios que establecen que la salvación es sólo por __<u>gracia</u>__. Efesios 2:8-9, Tito 3:5-6, Gálatas 2:16
 
-###### La ley no puede __<u>justificar</u>__ a una persona ante Dios "*ya que por las obras de la ley ningún ser humano será justificado delante de él; porque por medio de la ley es el conocimiento del pecado"* (Romanos 3:20). 
+###### e) La ley no puede __<u>justificar</u>__ a una persona ante Dios "*ya que por las obras de la ley ningún ser humano será justificado delante de él; porque por medio de la ley es el conocimiento del pecado"* (Romanos 3:20). 
 
-###### Gálatas 2:21 dice: \"*No desecho la gracia de Dios; pues si por la ley fuese la justicia, entonces por demás __<u>murió</u>__ Cristo*\".
+###### f) Gálatas 2:21 dice: \"*No desecho la gracia de Dios; pues si por la ley fuese la justicia, entonces por demás __<u>murió</u>__ Cristo*\".
 
-##### El legalismo para la santificación (la libertad del __<u>poder</u>__ del pecado para el cristiano) es igualmente escandaloso.
+##### 3) El legalismo para la santificación (la libertad del __<u>poder</u>__ del pecado para el cristiano) es igualmente escandaloso.
 
-###### En relación con la vida espiritual del creyente, el legalista (judaizante) diría que "...*es necesario circuncidarlos, y __<u>mandarles</u>__ que guarden la ley de Moisés"* (Hechos 15:5).
+###### a) En relación con la vida espiritual del creyente, el legalista (judaizante) diría que "...*es necesario circuncidarlos, y __<u>mandarles</u>__ que guarden la ley de Moisés"* (Hechos 15:5).
 
-###### En su ministerio, Pablo enfatizó la gracia de Dios como el único __<u>medio</u>__ por el cual vivir victoriosamente la vida cristiana. Gálatas 3:2-5
+###### b) En su ministerio, Pablo enfatizó la gracia de Dios como el único __<u>medio</u>__ por el cual vivir victoriosamente la vida cristiana. Gálatas 3:2-5
 
-###### Impulsado por la carne, el legalismo toma ventaja de la ley y exige esfuerzos __<u>humanos</u>__ a fin de llegar a ser aceptable para Dios. El legalismo es una presión externa a ser obediente y digno. Gálatas 2:4-6
+###### c) Impulsado por la carne, el legalismo toma ventaja de la ley y exige esfuerzos __<u>humanos</u>__ a fin de llegar a ser aceptable para Dios. El legalismo es una presión externa a ser obediente y digno. Gálatas 2:4-6
 
-###### El legalismo toma muchas formas, comenzando desde la __<u>estricta</u>__ conformidad con las Leyes Bíblicas de Moisés hasta la conformidad a reglas y regulaciones arbitrarias hechas por el hombre. Marcos 7:8
+###### d) El legalismo toma muchas formas, comenzando desde la __<u>estricta</u>__ conformidad con las Leyes Bíblicas de Moisés hasta la conformidad a reglas y regulaciones arbitrarias hechas por el hombre. Marcos 7:8
 
-###### El legalismo malinterpreta las Escrituras e impone requisitos religiosos __<u>estrictos</u>__ y obligaciones morales agobiantes para los creyentes. Hechos 15:10
+###### e) El legalismo malinterpreta las Escrituras e impone requisitos religiosos __<u>estrictos</u>__ y obligaciones morales agobiantes para los creyentes. Hechos 15:10
 
-###### El legalismo se centra principalmente en los esfuerzos humanos para ganar el favor de Dios, pero en realidad hace lo contrario y se __<u>aleja</u>__ de la gracia de Dios. Gálatas 5:4-8
+###### f) El legalismo se centra principalmente en los esfuerzos humanos para ganar el favor de Dios, pero en realidad hace lo contrario y se __<u>aleja</u>__ de la gracia de Dios. Gálatas 5:4-8
 
-###### El legalismo es superficial y es directamente opuesto a la __<u>gracia</u>__. Lucas 11:39
+###### g) El legalismo es superficial y es directamente opuesto a la __<u>gracia</u>__. Lucas 11:39
 
-###### El legalismo rechaza la __<u>misericordia</u>__ y se aprovecha del temor. Romanos 9:15
+###### h) El legalismo rechaza la __<u>misericordia</u>__ y se aprovecha del temor. Romanos 9:15
 
-###### El legalismo enfatiza la __<u>letra</u>__ de la ley en lugar del espíritu de la ley. 2 Corintios 3:6-10
+###### i) El legalismo enfatiza la __<u>letra</u>__ de la ley en lugar del espíritu de la ley. 2 Corintios 3:6-10
 
-###### El legalismo es un énfasis equivocado sobre el __<u>cambio</u>__ de conducta o las disciplinas espirituales. Mateo 23:1-6, Romanos 8:4
+###### j) El legalismo es un énfasis equivocado sobre el __<u>cambio</u>__ de conducta o las disciplinas espirituales. Mateo 23:1-6, Romanos 8:4
 
-###### Los legalistas aseveran que la gracia promueve el __<u>pecado</u>__ cuando la verdad es todo lo contrario. Romanos 6:14-15, Tito 2:11-12
+###### k) Los legalistas aseveran que la gracia promueve el __<u>pecado</u>__ cuando la verdad es todo lo contrario. Romanos 6:14-15, Tito 2:11-12
 
-###### Los legalistas __<u>enseñan</u>__ que vivir por gracia es antinomianismo, cuando es la gracia y la fe las que establecen la Ley. Romanos 3:31
+###### l) Los legalistas __<u>enseñan</u>__ que vivir por gracia es antinomianismo, cuando es la gracia y la fe las que establecen la Ley. Romanos 3:31
 
 ## D. Gálatas 1:3-5 -- Uno de los objetivos principales de la epístola fue <u>defender</u> el evangelio de la gracia de Cristo del legalismo.
 
-### Gálatas 1:3 -- El evangelio se basa en la __<u>gracia</u>__ de Dios. Apropiadamente, la primera declaración de Pablo a los Gálatas fue: \"*Gracia y paz sean a vosotros*\".
+### 1. Gálatas 1:3 -- El evangelio se basa en la __<u>gracia</u>__ de Dios. Apropiadamente, la primera declaración de Pablo a los Gálatas fue: \"*Gracia y paz sean a vosotros*\".
 
-### Gálatas 1:4a -- El evangelio de la gracia se basa en la obra sustitutiva de Cristo y no en nuestras buenas obras. Pablo les recordó a los gálatas que Jesús "...*se dio a sí mismo __<u>por</u>__* \[HUPER-en nombre de\] *nuestros pecados..."*. Esto fue para nuestra justificación (la primera fase de la salvación).
+### 2. Gálatas 1:4a -- El evangelio de la gracia se basa en la obra sustitutiva de Cristo y no en nuestras buenas obras. Pablo les recordó a los gálatas que Jesús "...*se dio a sí mismo __<u>por</u>__* \[HUPER-en nombre de\] *nuestros pecados..."*. Esto fue para nuestra justificación (la primera fase de la salvación).
 
-### Gálatas 1:4b -- El evangelio de la gracia no sólo nos justifica eternamente, sino que también __<u>libera</u>__ al creyente para vivir realmente, "...*para librarnos del presente siglo malo..."*. Esta declaración se refiere a la segunda fase de nuestra salvación, la santificación.
+### 3. Gálatas 1:4b -- El evangelio de la gracia no sólo nos justifica eternamente, sino que también __<u>libera</u>__ al creyente para vivir realmente, "...*para librarnos del presente siglo malo..."*. Esta declaración se refiere a la segunda fase de nuestra salvación, la santificación.
 
 <!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/3-tiempos/3-tiempos2.001.png" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
 
@@ -683,25 +684,25 @@ ___
 
 <!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/3-tiempos/3-tiempos2.078.png" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
 
-### Gálatas 1:4c -- El evangelio de la gracia no fue de hombre, sino según el propósito y el __<u>plan</u>__ de Dios. "...*conforme a la voluntad de nuestro Dios y Padre....*"
+### 4. Gálatas 1:4c -- El evangelio de la gracia no fue de hombre, sino según el propósito y el __<u>plan</u>__ de Dios. "...*conforme a la voluntad de nuestro Dios y Padre....*"
 
-### Gálatas 1:5 -- Sólo el evangelio de la gracia da __<u>todo</u>__ honor y gloria a Dios. "*a quien sea la gloria por los siglos de los siglos. Amén".*
+### 5. Gálatas 1:5 -- Sólo el evangelio de la gracia da __<u>todo</u>__ honor y gloria a Dios. "*a quien sea la gloria por los siglos de los siglos. Amén".*
 
 ## E. Gálatas 1:1-4 -- Veamos los absolutos del evangelio como se encuentran en los primeros cuatro versículos.
 
-### Gálatas 1:3 -- El evangelio trata acerca de una __<u>persona</u>__ en particular, el *Señor Jesucristo.*
+### 1. Gálatas 1:3 -- El evangelio trata acerca de una __<u>persona</u>__ en particular, el *Señor Jesucristo.*
 
-### Gálatas 1:1 y 1:4 -- El evangelio trata sobre una __<u>obra</u>__ en particular, el *Señor Jesucristo el cual se entregó a Sí mismo.*
+### 2. Gálatas 1:1 y 1:4 -- El evangelio trata sobre una __<u>obra</u>__ en particular, el *Señor Jesucristo el cual se entregó a Sí mismo.*
 
-#### Gálatas 1:4 -- El evangelio fue la obra __<u>sustituta</u>__ de Cristo, *el cual se dio a sí mismo por nuestros pecados.*
+#### a. Gálatas 1:4 -- El evangelio fue la obra __<u>sustituta</u>__ de Cristo, *el cual se dio a sí mismo por nuestros pecados.*
 
-#### Gálatas 1:1 -- El evangelio se refería a la obra suficiente de Cristo desde la perspectiva de *Dios el Padre que lo __<u>resucitó</u>__ de los muertos*. Esta declaración muestra la satisfacción de Dios con el cumplimiento exitoso de la tarea por parte de Cristo.
+#### b. Gálatas 1:1 -- El evangelio se refería a la obra suficiente de Cristo desde la perspectiva de *Dios el Padre que lo __<u>resucitó</u>__ de los muertos*. Esta declaración muestra la satisfacción de Dios con el cumplimiento exitoso de la tarea por parte de Cristo.
 
-### Estas mismas verdades básicas del evangelio también son mencionadas por Pablo en 1 Corintios 15:3-4 y constituyen el único mensaje salvador __<u>verdadero</u>__.
+### 3. Estas mismas verdades básicas del evangelio también son mencionadas por Pablo en 1 Corintios 15:3-4 y constituyen el único mensaje salvador __<u>verdadero</u>__.
 
-#### El mensaje que uno debe creer para ser salvo es que el Señor Jesucristo (Gálatas 1:3) __<u>murió</u>__ por nuestros pecados (Gálatas 1:4) y resucitó al tercer día (Gálatas 1:1). 1 Corintios 15:1, 3-4, 11
+#### a. El mensaje que uno debe creer para ser salvo es que el Señor Jesucristo (Gálatas 1:3) __<u>murió</u>__ por nuestros pecados (Gálatas 1:4) y resucitó al tercer día (Gálatas 1:1). 1 Corintios 15:1, 3-4, 11
 
-#### Curiosamente, en los primeros cuatro versículos de su carta a los confundidos Gálatas, Pablo incluyó todos los __<u>elementos</u>__ esenciales del evangelio.
+#### b. Curiosamente, en los primeros cuatro versículos de su carta a los confundidos Gálatas, Pablo incluyó todos los __<u>elementos</u>__ esenciales del evangelio.
 
 <!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/chainlink.jpeg" data-background-size="cover"  data-menu-title="II. Gálatas 1:6-10 -- Una Mirada Cercana a la Apostasía en Galacia" data-background-color="black" data-background-opacity="0.5" -->
 # II. Gálatas 1:6-10 -- Una Mirada Cercana a la Apostasía en Galacia
@@ -709,107 +710,107 @@ ___
 
 ## A. Gálatas 1:6-7 -- Pablo explicó la alteración del evangelio en Galacia.
 
-### Gálatas 1:6 -- Los gálatas se habían apartado del __<u>evangelio</u>.**
+### 1. Gálatas 1:6 -- Los gálatas se habían apartado del __<u>evangelio</u>.**
 
-#### Lamentablemente, la desviación de los gálatas de la verdad del evangelio sucedió muy rápidamente, en sólo 1 a 4 __<u>años</u>__ desde el momento de su salvación.
+#### a. Lamentablemente, la desviación de los gálatas de la verdad del evangelio sucedió muy rápidamente, en sólo 1 a 4 __<u>años</u>__ desde el momento de su salvación.
 
-##### Cambiaron precipitadamente el verdadero evangelio por un __<u>falso</u>__ evangelio.
+##### 1) Cambiaron precipitadamente el verdadero evangelio por un __<u>falso</u>__ evangelio.
 
-##### ¿Podría sucederte esto a __<u>ti</u>__?
+##### 2) ¿Podría sucederte esto a __<u>ti</u>__?
 
-#### Gálatas 1:6a -- ¿Qué cosas buenas habían __<u>dejado</u>__ atrás los gálatas por su deslealtad al evangelio?
+#### b. Gálatas 1:6a -- ¿Qué cosas buenas habían __<u>dejado</u>__ atrás los gálatas por su deslealtad al evangelio?
 
-##### Habían abandonado a __<u>Dios</u>__ mismo; "...*tan pronto os hayáis alejado **del que** os llamó..."*. 
+##### 1) Habían abandonado a __<u>Dios</u>__ mismo; "...*tan pronto os hayáis alejado **del que** os llamó..."*. 
 
-##### Por lo tanto, se estaban distanciando de la __<u>gracia</u>__ de Cristo expresada en el evangelio. "\...*tan pronto os hayáis alejado del que os llamó* ***por la gracia de Cristo..."***. 
+##### 2) Por lo tanto, se estaban distanciando de la __<u>gracia</u>__ de Cristo expresada en el evangelio. "\...*tan pronto os hayáis alejado del que os llamó* ***por la gracia de Cristo..."***. 
 
-#### Gálatas 1:6b-7a -- En su error, ¿qué habían cambiado por el evangelio de la gracia?
+#### c. Gálatas 1:6b-7a -- En su error, ¿qué habían cambiado por el evangelio de la gracia?
 
-##### Gálatas 1:6b -- Adoptaron un evangelio __<u>alterado</u>__. "\...*para seguir un evangelio diferente*".
+##### 1) Gálatas 1:6b -- Adoptaron un evangelio __<u>alterado</u>__. "\...*para seguir un evangelio diferente*".
 
-##### Gálatas 1:7a -- En realidad, abrazaron un mensaje __<u>falso</u>__, "*No que haya otro..."*.
+##### 2) Gálatas 1:7a -- En realidad, abrazaron un mensaje __<u>falso</u>__, "*No que haya otro..."*.
 
-#### Tomemos un momento para hacer algunas preguntas.
+#### d. Tomemos un momento para hacer algunas preguntas.
 
-##### ¿Crees que podría haber más de un evangelio? Pablo declaró enfáticamente que sólo hay __<u>un</u>__ evangelio.
+##### 1) ¿Crees que podría haber más de un evangelio? Pablo declaró enfáticamente que sólo hay __<u>un</u>__ evangelio.
 
-##### ¿Eres de la creencia de que no debemos ser exigentes con el contenido del evangelio? ¡Ojalá que no! Debemos ser absolutamente __<u>precisos</u>__ con el evangelio ya que es el mensaje más importante del mundo y es una cuestión de vida eterna o muerte eterna.
+##### 2) ¿Eres de la creencia de que no debemos ser exigentes con el contenido del evangelio? ¡Ojalá que no! Debemos ser absolutamente __<u>precisos</u>__ con el evangelio ya que es el mensaje más importante del mundo y es una cuestión de vida eterna o muerte eterna.
 
-##### ¿Es el evangelio de la fe sola en Cristo solamente que abrazamos y predicamos realmente tan importante? Sí, porque a través del evangelio se __<u>revela</u>__ la justicia de Dios. Romanos 1:16-17; 1 Corintios 15:2, 11
+##### 3) ¿Es el evangelio de la fe sola en Cristo solamente que abrazamos y predicamos realmente tan importante? Sí, porque a través del evangelio se __<u>revela</u>__ la justicia de Dios. Romanos 1:16-17; 1 Corintios 15:2, 11
 
-##### ¿Cuáles son las verdades más básicas y no negociables del evangelio? Cristo __<u>murió</u>__ por nuestros pecados y resucitó. Gálatas 1:1-4, 1 Corintios 15:3-4
+##### 4) ¿Cuáles son las verdades más básicas y no negociables del evangelio? Cristo __<u>murió</u>__ por nuestros pecados y resucitó. Gálatas 1:1-4, 1 Corintios 15:3-4
 
-##### ¿Cuál es la respuesta apropiada que una persona debería tener hacia el evangelio? La Palabra de Dios nos ordena __<u>creerlo</u>__. Juan 3:36, Hechos 16:31
+##### 5) ¿Cuál es la respuesta apropiada que una persona debería tener hacia el evangelio? La Palabra de Dios nos ordena __<u>creerlo</u>__. Juan 3:36, Hechos 16:31
 
-##### ¿Qué __<u>recibe</u>__ una persona cuando él o ella cree el evangelio? Como regalo gratuito, el creyente recibe la justicia perfecta de Dios (2 Corintios 5:21), la vida eterna (1 Juan 5:13, Juan 6:47), el perdón de pecados (Hechos 10:34), la libertad de la condenación (Juan 3:17-18), y muchos otros beneficios eternos (Romanos 5:1-2).
+##### 6) ¿Qué __<u>recibe</u>__ una persona cuando él o ella cree el evangelio? Como regalo gratuito, el creyente recibe la justicia perfecta de Dios (2 Corintios 5:21), la vida eterna (1 Juan 5:13, Juan 6:47), el perdón de pecados (Hechos 10:34), la libertad de la condenación (Juan 3:17-18), y muchos otros beneficios eternos (Romanos 5:1-2).
 
-### Gálatas 1:7 -- Examinemos las actividades de los falsos __<u>maestros</u>__ en Galacia.
+### 2. Gálatas 1:7 -- Examinemos las actividades de los falsos __<u>maestros</u>__ en Galacia.
 
-#### Gálatas 1:7b -- Los falsos maestros en Galacia estaban angustiando a los creyentes. "\...*sino que hay __<u>algunos</u>__ que os perturban*...".
+#### a. Gálatas 1:7b -- Los falsos maestros en Galacia estaban angustiando a los creyentes. "\...*sino que hay __<u>algunos</u>__ que os perturban*...".
 
-##### La palabra *perturban* es TARASSO, un término gráfico que significa molestar, agitar, __<u>provocar</u>__ o asustar.
+##### 1) La palabra *perturban* es TARASSO, un término gráfico que significa molestar, agitar, __<u>provocar</u>__ o asustar.
 
-##### *"Y los discípulos, viéndole* \[a Jesús\] *andar sobre el mar, se __turbaron__, diciendo: !Un fantasma! Y dieron voces de __<u>miedo</u>__ .*" (Mateo 14:26) La palabra *turbaron* es una forma de TARASSO.
+##### 2) *"Y los discípulos, viéndole* \[a Jesús\] *andar sobre el mar, se __turbaron__, diciendo: !Un fantasma! Y dieron voces de __<u>miedo</u>__ .*" (Mateo 14:26) La palabra *turbaron* es una forma de TARASSO.
 
-#### Gálatas 1:7c -- La intención de los falsos maestros era __<u>tergiversar</u>__ el evangelio de Cristo. "\...*y quieren **pervertir** el evangelio de Cristo...".*
+#### b. Gálatas 1:7c -- La intención de los falsos maestros era __<u>tergiversar</u>__ el evangelio de Cristo. "\...*y quieren **pervertir** el evangelio de Cristo...".*
 
-##### *__<u>Pervertir</u>__* en este versículo es METASTREPHO, una palabra compuesta formada por META (cambio) y STREPHO (transición). Aquí la idea de METASTREPHO es que los falsos maestros habían alterado totalmente el mensaje.
+##### 1) *__<u>Pervertir</u>__* en este versículo es METASTREPHO, una palabra compuesta formada por META (cambio) y STREPHO (transición). Aquí la idea de METASTREPHO es que los falsos maestros habían alterado totalmente el mensaje.
 
-##### Esta distorsión tenía la intención de __<u>torcer</u>__ el evangelio en un mensaje completamente diferente.
+##### 2) Esta distorsión tenía la intención de __<u>torcer</u>__ el evangelio en un mensaje completamente diferente.
 
-##### Siempre ha habido un __<u>ataque</u>__ intencional contra el evangelio. ¿Quién crees que está detrás de esta infamia?
+##### 3) Siempre ha habido un __<u>ataque</u>__ intencional contra el evangelio. ¿Quién crees que está detrás de esta infamia?
 
 ## B. Gálatas 1:8-9 -- Pablo pronunció un anatema (maldición) por alterar el evangelio.
 
-### Gálatas 1:8 -- Pablo dio una __<u>reprimenda</u>__ general a cualquiera que pudiera verse tentado a torcer el mensaje del evangelio.
+### 1. Gálatas 1:8 -- Pablo dio una __<u>reprimenda</u>__ general a cualquiera que pudiera verse tentado a torcer el mensaje del evangelio.
 
-#### Gálatas 1:8a -- Pablo estaba advirtiendo solemnemente a los gálatas que nunca __<u>escucharan</u>__ "...*otro evangelio diferente del que os hemos anunciado..."*.
+#### a. Gálatas 1:8a -- Pablo estaba advirtiendo solemnemente a los gálatas que nunca __<u>escucharan</u>__ "...*otro evangelio diferente del que os hemos anunciado..."*.
 
-##### Pablo dijo que una __<u>maldición</u>__ ANATEMA debería caer sobre cualquier persona, incluidos él o sus compañeros de trabajo, si predicaban un mensaje alterado. "*Mas si aun nosotros*...".
+##### 1) Pablo dijo que una __<u>maldición</u>__ ANATEMA debería caer sobre cualquier persona, incluidos él o sus compañeros de trabajo, si predicaban un mensaje alterado. "*Mas si aun nosotros*...".
 
-##### Pablo advirtió que incluso si un __<u>ángel</u>__ descendiera del cielo y predicara un evangelio diferente, debería ser maldito ANATEMA.
+##### 2) Pablo advirtió que incluso si un __<u>ángel</u>__ descendiera del cielo y predicara un evangelio diferente, debería ser maldito ANATEMA.
 
 <!-- .slide: data-background-color="red" style="color:white" data-transition="zoom" -->
 ### ANATEMA  <!-- .element class="r-fit-text" -->
 >Porque deseara yo mismo ser anatema, separado de Cristo, por amor a mis hermanos, los que son mis parientes según la carne; Romanos 9:3
 
-#### Gálatas 1:8b -- El ultimátum de Pablo pronunció la condenación de Dios sobre __<u>cualquiera</u>__ que predique otro evangelio diciendo: \"...*sea anatema*\".
+#### b. Gálatas 1:8b -- El ultimátum de Pablo pronunció la condenación de Dios sobre __<u>cualquiera</u>__ que predique otro evangelio diciendo: \"...*sea anatema*\".
 
-### Gálatas 1:9 -- Pablo ahora dio una condena más específica dirigida al __<u>culpable</u>__ de este nuevo y falso mensaje del evangelio, **quienquiera que el tal fuera**.
+### 2. Gálatas 1:9 -- Pablo ahora dio una condena más específica dirigida al __<u>culpable</u>__ de este nuevo y falso mensaje del evangelio, **quienquiera que el tal fuera**.
 
-#### Gálatas 1:9a -- "*Como antes hemos dicho, también ahora lo repito: **Si** alguno os predica\...".* La condición \"si\" en este versículo es una condición de primera clase. Esto significa que no se refiere a una posibilidad hipotética, sino a una posibilidad real, o en este caso, una realidad. Pablo __<u>sabía</u>__ que alguien estaba predicando un falso evangelio.
+#### a. Gálatas 1:9a -- "*Como antes hemos dicho, también ahora lo repito: **Si** alguno os predica\...".* La condición \"si\" en este versículo es una condición de primera clase. Esto significa que no se refiere a una posibilidad hipotética, sino a una posibilidad real, o en este caso, una realidad. Pablo __<u>sabía</u>__ que alguien estaba predicando un falso evangelio.
 
-#### Gálatas 1:9b -- Cualquiera que predique un evangelio falso debería sentirse muy incómodo porque esta advertencia (*sea anatema*) se repite y se personaliza aquí. Pablo dijo: \"...*Si __<u>alguno</u>__ os predica diferente evangelio del que habéis recibido, **sea** anatema*\".
+#### b. Gálatas 1:9b -- Cualquiera que predique un evangelio falso debería sentirse muy incómodo porque esta advertencia (*sea anatema*) se repite y se personaliza aquí. Pablo dijo: \"...*Si __<u>alguno</u>__ os predica diferente evangelio del que habéis recibido, **sea** anatema*\".
 
-#### Gálatas 1:9c -- "...*diferente evangelio del que habéis recibido\...".* El evangelio que Pablo predicaba en todas partes era el __<u>mismo</u>__ evangelio que los gálatas habían recibido originalmente.
+#### c. Gálatas 1:9c -- "...*diferente evangelio del que habéis recibido\...".* El evangelio que Pablo predicaba en todas partes era el __<u>mismo</u>__ evangelio que los gálatas habían recibido originalmente.
 
 ## C. Gálatas 1:10 -- Buscar la aprobación del <u>hombre</u> es el camino a la apostasía.
 
-### Gálatas 1:10 -- ¿Buscaba Pablo la aprobación de los hombres? Podemos dar un rotundo __<u>NO</u>__ como respuesta.
+### 1. Gálatas 1:10 -- ¿Buscaba Pablo la aprobación de los hombres? Podemos dar un rotundo __<u>NO</u>__ como respuesta.
 
-#### Gálatas 1:10a -- "*Pues, ¿busco ahora el favor de los hombres?\...".* Pablo fue frecuentemente perseguido por los judíos de su época debido al mensaje que predicaba. Al apegarse a este __<u>evangelio</u>__ impopular, demostró que no estaba motivado por el deseo de agradar a los hombres.
+#### a. Gálatas 1:10a -- "*Pues, ¿busco ahora el favor de los hombres?\...".* Pablo fue frecuentemente perseguido por los judíos de su época debido al mensaje que predicaba. Al apegarse a este __<u>evangelio</u>__ impopular, demostró que no estaba motivado por el deseo de agradar a los hombres.
 
-#### Gálatas 1:10b -- "...*¿O el de Dios?\...". -* En lugar de tratar de ganar popularidad __<u>entre</u>__ los hombres, a Pablo le preocupaba agradar a Dios.
+#### b. Gálatas 1:10b -- "...*¿O el de Dios?\...". -* En lugar de tratar de ganar popularidad __<u>entre</u>__ los hombres, a Pablo le preocupaba agradar a Dios.
 
-#### Un par de preguntas muy importantes:
+#### c. Un par de preguntas muy importantes:
 
-##### ¿Por qué es ofensivo el evangelio? La predicación específica del mensaje salvador de la __<u>cruz</u>__ como el único medio para la salvación es una ofensa para los perdidos. Al mundo le gusta escuchar que hay muchos caminos hacia Dios. Hechos 4:12; Filipenses 3:18; 1 Corintios 1:18, 21-24
+##### 1) ¿Por qué es ofensivo el evangelio? La predicación específica del mensaje salvador de la __<u>cruz</u>__ como el único medio para la salvación es una ofensa para los perdidos. Al mundo le gusta escuchar que hay muchos caminos hacia Dios. Hechos 4:12; Filipenses 3:18; 1 Corintios 1:18, 21-24
 
-##### ¿Qué tipo de mensaje quiere escuchar la humanidad? La persona promedio quiere __<u>escuchar</u>__ un mensaje inclusivo atractivo que sea fácil de aceptar. 2 Timoteo 4:3, 2 Corintios 11:4
+##### 2) ¿Qué tipo de mensaje quiere escuchar la humanidad? La persona promedio quiere __<u>escuchar</u>__ un mensaje inclusivo atractivo que sea fácil de aceptar. 2 Timoteo 4:3, 2 Corintios 11:4
 
-##### El orgullo. La mayoría de las personas son como Caín. Es ofensivo para las personas que Cristo sea el único que pueda salvarlos y quieren que les digas algo que ellos puedan __<u>hacer</u>__. Hechos 4:12, Juan 14:6
+##### 3) El orgullo. La mayoría de las personas son como Caín. Es ofensivo para las personas que Cristo sea el único que pueda salvarlos y quieren que les digas algo que ellos puedan __<u>hacer</u>__. Hechos 4:12, Juan 14:6
 
-##### Los no salvos del mundo no creen que *todas sus justicias* son *como trapo de __<u>inmundicia</u>__* (Isaías 64:6). La mayoría de la gente no quiere que se le diga: \"...*No hay quien haga lo bueno...*\". Romanos 3:12
+##### 4) Los no salvos del mundo no creen que *todas sus justicias* son *como trapo de __<u>inmundicia</u>__* (Isaías 64:6). La mayoría de la gente no quiere que se le diga: \"...*No hay quien haga lo bueno...*\". Romanos 3:12
 
-### Gálatas 1:10c -- Por supuesto Pablo buscó aprobación, pero sólo de __<u>Dios</u>__. "...*Pues si todavía agradara a los hombres, no sería siervo de Cristo*".
+### 2. Gálatas 1:10c -- Por supuesto Pablo buscó aprobación, pero sólo de __<u>Dios</u>__. "...*Pues si todavía agradara a los hombres, no sería siervo de Cristo*".
 
-#### Si quieres agradar a Dios aferrándote al verdadero evangelio de la gracia, ¡prepara tu __<u>corazón</u>__ para la oposición! 1 Pedro 5:12b, Filipenses 3:18, Hechos 20:28-31
+#### a. Si quieres agradar a Dios aferrándote al verdadero evangelio de la gracia, ¡prepara tu __<u>corazón</u>__ para la oposición! 1 Pedro 5:12b, Filipenses 3:18, Hechos 20:28-31
 
-#### Cuando la iglesia de Jesucristo comenzó era estimada por el público en general (Hechos 2:47), pero con el tiempo fue __<u>rechazada</u>__ en todas partes. Hechos 28:22
+#### b. Cuando la iglesia de Jesucristo comenzó era estimada por el público en general (Hechos 2:47), pero con el tiempo fue __<u>rechazada</u>__ en todas partes. Hechos 28:22
 
-#### Lo mismo sucede inevitablemente con la venida del evangelio a una __<u>nueva</u>__ área del mundo. Al principio podría ser tolerado, pero luego la oposición puede levantarse fácilmente. Hechos 17:10-13
+#### c. Lo mismo sucede inevitablemente con la venida del evangelio a una __<u>nueva</u>__ área del mundo. Al principio podría ser tolerado, pero luego la oposición puede levantarse fácilmente. Hechos 17:10-13
 
-#### La pregunta importante es: ¿complacerás a Dios y te mantendrás firme en el verdadero evangelio de la gracia, o buscarás complacer a los __<u>hombres</u>__ e intercambiar el evangelio por algún mensaje alterado? 2 Corintios 1:18-20, 2:17
+#### d. La pregunta importante es: ¿complacerás a Dios y te mantendrás firme en el verdadero evangelio de la gracia, o buscarás complacer a los __<u>hombres</u>__ e intercambiar el evangelio por algún mensaje alterado? 2 Corintios 1:18-20, 2:17
 
 <!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/chainlink.jpeg" data-background-size="cover"  data-menu-title="III. Gálatas 1:11-24 -- El Evangelio de la Salvación fue Escrito por Dios" data-background-color="black" data-background-opacity="0.5" data-transition="zoom" -->
 # III. Gálatas 1:11-24 -- El Evangelio de la Salvación fue Escrito por Dios
@@ -817,87 +818,87 @@ ___
 
 ## A. Gálatas 1:11-12 -- Investiguemos los <u>orígenes</u> del evangelio que Pablo predicaba.
 
-### Gálatas 1:11 -- El evangelio no fue concebido por el pensamiento __<u>humano</u>__. "*Mas os hago saber, hermanos, que el evangelio anunciado por mí, no es según hombre"*.
+### 1. Gálatas 1:11 -- El evangelio no fue concebido por el pensamiento __<u>humano</u>__. "*Mas os hago saber, hermanos, que el evangelio anunciado por mí, no es según hombre"*.
 
-#### Gálatas 1:11b -- "...*no es según hombre".* Primero que nada, el evangelio que Pablo predicaba no se originó de ninguna __<u>fuente</u>__ humana, por ejemplo: filosofía, clero, académicos o incluso de un apóstol.
+#### a. Gálatas 1:11b -- "...*no es según hombre".* Primero que nada, el evangelio que Pablo predicaba no se originó de ninguna __<u>fuente</u>__ humana, por ejemplo: filosofía, clero, académicos o incluso de un apóstol.
 
-#### Gálatas 1:12a -- "*Pues yo ni lo recibí \...de hombre alguno\...".* En segundo lugar, el evangelio que Pablo predicaba no fue escrito por alguna __<u>entidad</u>__ humana, por ejemplo: una organización, una religión o una iglesia o denominación en particular.
+#### b. Gálatas 1:12a -- "*Pues yo ni lo recibí \...de hombre alguno\...".* En segundo lugar, el evangelio que Pablo predicaba no fue escrito por alguna __<u>entidad</u>__ humana, por ejemplo: una organización, una religión o una iglesia o denominación en particular.
 
-##### Gálatas 1:12b -- Ningún ser humano le __<u>enseñó</u>__ a Pablo el mensaje del evangelio que predicaba.
+##### 1) Gálatas 1:12b -- Ningún ser humano le __<u>enseñó</u>__ a Pablo el mensaje del evangelio que predicaba.
 
-##### Gálatas 1:12c -- Por otro lado, el mensaje de los judaizantes legalistas vino de __<u>hombres</u>__ y agencias humanas. 2 Corintios 2:17-3:3
+##### 2) Gálatas 1:12c -- Por otro lado, el mensaje de los judaizantes legalistas vino de __<u>hombres</u>__ y agencias humanas. 2 Corintios 2:17-3:3
 
-### El evangelio se originó con __<u>Dios</u>__.
+### 2. El evangelio se originó con __<u>Dios</u>__.
 
-#### Gálatas 1:12d -- Jesucristo reveló personalmente el evangelio a Pablo. "*...lo recibí...__<u>por</u>__ revelación de Jesucristo*".
+#### a. Gálatas 1:12d -- Jesucristo reveló personalmente el evangelio a Pablo. "*...lo recibí...__<u>por</u>__ revelación de Jesucristo*".
 
-#### Gálatas 1:12e -- La frase "...*sino por revelación de Jesucristo"* revela __<u>dos</u>__ piezas de información importantes.
+#### b. Gálatas 1:12e -- La frase "...*sino por revelación de Jesucristo"* revela __<u>dos</u>__ piezas de información importantes.
 
-##### Primero, entendemos que Jesús es el revelador del __<u>evangelio</u>__. "\...***por revelación** de Jesucristo*".
+##### 1) Primero, entendemos que Jesús es el revelador del __<u>evangelio</u>__. "\...***por revelación** de Jesucristo*".
 
-##### Segundo, también podemos ver que Jesús es el __<u>sujeto</u>__ del evangelio. "\...*por revelación **de Jesucristo**".*
+##### 2) Segundo, también podemos ver que Jesús es el __<u>sujeto</u>__ del evangelio. "\...*por revelación **de Jesucristo**".*
 
 ## B. Gálatas 1:13-24 -- Examinaremos cómo Jesús <u>reveló</u> el evangelio a Pablo.
 
-### Gálatas 1:13-14 -- La aversión inicial de Pablo hacia el evangelio mostró cuán improbable hubiera sido para él haber cambiado de __<u>mente</u>__ sin la intervención divina.
+### 1. Gálatas 1:13-14 -- La aversión inicial de Pablo hacia el evangelio mostró cuán improbable hubiera sido para él haber cambiado de __<u>mente</u>__ sin la intervención divina.
 
-#### Gálatas 1:13a -- "*Porque ya habéis oído acerca de mi conducta **en otro tiempo** en el judaísmo\...".* Puedes estar seguro de que su mensaje no vino de su __<u>antigua</u>__ vida en el judaísmo antes de la salvación.
+#### a. Gálatas 1:13a -- "*Porque ya habéis oído acerca de mi conducta **en otro tiempo** en el judaísmo\...".* Puedes estar seguro de que su mensaje no vino de su __<u>antigua</u>__ vida en el judaísmo antes de la salvación.
 
-#### Gálatas 1:13b -- "...*que perseguía sobremanera a la iglesia de Dios, y la asolaba".* Originalmente, Pablo perseguía a los cristianos y fue posiblemente el __<u>líder</u>__ de aquellos que intentaban detener el cristianismo. 1 Corintios 15:9, Hechos 8:3, 1 Timoteo 1:12‑13
+#### b. Gálatas 1:13b -- "...*que perseguía sobremanera a la iglesia de Dios, y la asolaba".* Originalmente, Pablo perseguía a los cristianos y fue posiblemente el __<u>líder</u>__ de aquellos que intentaban detener el cristianismo. 1 Corintios 15:9, Hechos 8:3, 1 Timoteo 1:12‑13
 
-#### Gálatas 1:14 -- Antes de su conversión, Pablo seguía las tradiciones de los __<u>hombres</u>__.
+#### c. Gálatas 1:14 -- Antes de su conversión, Pablo seguía las tradiciones de los __<u>hombres</u>__.
 
-##### Era un fariseo enseñado por el famoso __<u>rabino</u>__ Gamaliel, quien le dio prestigio como líder en el judaísmo. Hechos 22:3, 26:4-5, Filipenses 3:4-6
+##### 1) Era un fariseo enseñado por el famoso __<u>rabino</u>__ Gamaliel, quien le dio prestigio como líder en el judaísmo. Hechos 22:3, 26:4-5, Filipenses 3:4-6
 
-##### De su testimonio podemos ver que lo que Pablo aprendió en el judaísmo no contribuyó en __<u>nada</u>__ a su comprensión del evangelio. Filipenses 3:1-7
+##### 2) De su testimonio podemos ver que lo que Pablo aprendió en el judaísmo no contribuyó en __<u>nada</u>__ a su comprensión del evangelio. Filipenses 3:1-7
 
-##### Esta información es significativa ya que los judaizantes legalistas en las iglesias de Galacia estaban enseñando que la salvación __<u>venía</u>__ por seguir las tradiciones judías ancestrales. Gálatas 6:12-13, Hechos 15:1,5
+##### 3) Esta información es significativa ya que los judaizantes legalistas en las iglesias de Galacia estaban enseñando que la salvación __<u>venía</u>__ por seguir las tradiciones judías ancestrales. Gálatas 6:12-13, Hechos 15:1,5
 
-### Gálatas 1:15-17 -- __<u>Dios</u>__ reveló el mensaje del evangelio directamente a Pablo a través de una revelación especial poco después de su conversión. 1 Corintios 15:3
+### 2. Gálatas 1:15-17 -- __<u>Dios</u>__ reveló el mensaje del evangelio directamente a Pablo a través de una revelación especial poco después de su conversión. 1 Corintios 15:3
 
-#### Gálatas 1:15 -- Incluso cuando Pablo estaba aún en el __<u>vientre</u>__ de su madre, Dios lo había apartado para Su servicio. Este llamado al servicio no ganado se debió a la gracia de Dios. 1 Timoteo 1:12-17, 2 Timoteo 1:10-11
+#### a. Gálatas 1:15 -- Incluso cuando Pablo estaba aún en el __<u>vientre</u>__ de su madre, Dios lo había apartado para Su servicio. Este llamado al servicio no ganado se debió a la gracia de Dios. 1 Timoteo 1:12-17, 2 Timoteo 1:10-11
 
-##### Pablo no fue apartado desde antes de la fundación del __<u>mundo</u>__ como lo fue Cristo. Compárese Gálatas 1:15 con 1 Pedro 1:20.
+##### 1) Pablo no fue apartado desde antes de la fundación del __<u>mundo</u>__ como lo fue Cristo. Compárese Gálatas 1:15 con 1 Pedro 1:20.
 
-##### *"...me apartó desde el vientre de mi madre\...".* Dios apartó a Pablo en algún momento después de que fue concebido. Él fue la mejor opción de Dios para ser Su emisario en aquel __<u>momento</u>__ de la historia. Romanos 1:1
+##### 2) "*...me apartó desde el vientre de mi madre....*" Dios apartó a Pablo en algún momento después de que fue concebido. Él fue la mejor opción de Dios para ser Su emisario en aquel __<u>momento</u>__ de la historia. Romanos 1:1
 
-#### Gálatas 1:16 -- Dios __<u>apartó</u>__ a Pablo por un par de razones muy importantes.
+#### b. Gálatas 1:16 -- Dios __<u>apartó</u>__ a Pablo por un par de razones muy importantes.
 
-##### Gálatas 1:16a -- Una razón por la que Dios eligió a Pablo fue para que Jesucristo fuese revelado a través de su __<u>vida</u>__. Hechos 13:2, Colosenses 1:27-29, 1 Timoteo 1:16
+##### 1) Gálatas 1:16a -- Una razón por la que Dios eligió a Pablo fue para que Jesucristo fuese revelado a través de su __<u>vida</u>__. Hechos 13:2, Colosenses 1:27-29, 1 Timoteo 1:16
 
-##### Gálatas 1:16b -- Otra razón por la que Pablo fue elegido fue para __<u>predicar</u>__ el evangelio a los gentiles del mundo. Hechos 9:20, 1 Corintios 9:16-18, 19-24, Romanos 11:13
+##### 2) Gálatas 1:16b -- Otra razón por la que Pablo fue elegido fue para __<u>predicar</u>__ el evangelio a los gentiles del mundo. Hechos 9:20, 1 Corintios 9:16-18, 19-24, Romanos 11:13
 
-#### Gálatas 1:16c-17 -- "...*no consulté en seguida con carne y sangre".* Pablo no __<u>consultó</u>__ a otros humanos sobre el evangelio.
+#### c. Gálatas 1:16c-17 -- "...*no consulté en seguida con carne y sangre.*" Pablo no __<u>consultó</u>__ a otros humanos sobre el evangelio.
 
-##### Gálatas 1:17a -- "*ni subí a Jerusalén a los que eran apóstoles antes que yo\...".* Pablo no fue y apareció ante los __<u>otros</u>__ apóstoles ni les hizo preguntas.
+##### 1) Gálatas 1:17a -- "*ni subí a Jerusalén a los que eran apóstoles antes que yo....*" Pablo no fue y apareció ante los __<u>otros</u>__ apóstoles ni les hizo preguntas.
 
-##### Gálatas 1:17b -- "...*sino que fui a __<u>Arabia</u>__, y volví de nuevo a Damasco".*
+##### 2) Gálatas 1:17b -- "...*sino que fui a __<u>Arabia</u>__, y volví de nuevo a Damasco".*
 
-###### En algún momento durante los primeros __<u>tres</u>__ años después de su salvación, Pablo se retiró a Arabia por un tiempo incierto. Pudo haber estado allí por un período de tiempo muy corto o hasta los tres años completos. El texto no nos permite ser dogmáticos.
+###### a) En algún momento durante los primeros __<u>tres</u>__ años después de su salvación, Pablo se retiró a Arabia por un tiempo incierto. Pudo haber estado allí por un período de tiempo muy corto o hasta los tres años completos. El texto no nos permite ser dogmáticos.
 
-###### Aunque es imposible ser dogmático, lo más probable es que durante los tres años posteriores a su conversión recibió la revelación especial de Cristo mencionada en Gálatas 1:11-12 con respecto al contenido exacto del mensaje salvador (el evangelio) junto con la comisión de Cristo para __<u>predicar</u>__ el evangelio que recibió.
+###### b) Aunque es imposible ser dogmático, lo más probable es que durante los tres años posteriores a su conversión recibió la revelación especial de Cristo mencionada en Gálatas 1:11-12 con respecto al contenido exacto del mensaje salvador (el evangelio) junto con la comisión de Cristo para __<u>predicar</u>__ el evangelio que recibió.
 
-###### De acuerdo con el versículo 18, fue hasta tres años después de su conversión que finalmente regresó a Jerusalén. Mientras estaba allí, Jesús se le apareció en un __<u>trance</u>__ y le ordenó huir de Jerusalén. Hechos 22:17-18, 21
+###### c) De acuerdo con el versículo 18, fue hasta tres años después de su conversión que finalmente regresó a Jerusalén. Mientras estaba allí, Jesús se le apareció en un __<u>trance</u>__ y le ordenó huir de Jerusalén. Hechos 22:17-18, 21
 
-### Gálatas 1:18-24 -- En estos versículos, Pablo dio una visión general de catorce años para mostrar enfáticamente cómo el evangelio que él predicaba era de __<u>Cristo</u>__ y no de ningún hombre.
+### 3. Gálatas 1:18-24 -- En estos versículos, Pablo dio una visión general de catorce años para mostrar enfáticamente cómo el evangelio que él predicaba era de __<u>Cristo</u>__ y no de ningún hombre.
 
-#### Gálatas 1:18-19 -- Pablo no recibió el __<u>evangelio</u>__ de los otros apóstoles.
+#### a. Gálatas 1:18-19 -- Pablo no recibió el __<u>evangelio</u>__ de los otros apóstoles.
 
-##### Gálatas 1:18 -- Primero, Pablo sólo tuvo contacto con Pedro por un par de __<u>semanas</u>__, y eso fue tres años después de su conversión. Pedro no le enseñó a Pablo el evangelio que él predicaba durante esas dos semanas.
+##### 1) Gálatas 1:18 -- Primero, Pablo sólo tuvo contacto con Pedro por un par de __<u>semanas</u>__, y eso fue tres años después de su conversión. Pedro no le enseñó a Pablo el evangelio que él predicaba durante esas dos semanas.
 
-##### Gálatas 1:19 -- Segundo, Pablo sólo conoció __<u>brevemente</u>__ a Jacobo, el hermano de Jesucristo. En su breve visita, Jacobo no le enseñó las doctrinas de la justificación.
+##### 2) Gálatas 1:19 -- Segundo, Pablo sólo conoció __<u>brevemente</u>__ a Jacobo, el hermano de Jesucristo. En su breve visita, Jacobo no le enseñó las doctrinas de la justificación.
 
-#### Gálatas 1:20-24 -- Pablo tampoco recibió el evangelio de las __<u>iglesias</u>__ de Judea que existían en ese momento.
+#### b. Gálatas 1:20-24 -- Pablo tampoco recibió el evangelio de las __<u>iglesias</u>__ de Judea que existían en ese momento.
 
-##### Gálatas 1:20 -- "*En esto que os escribo, he aquí delante de Dios que no miento".* Pablo reiteró que su testimonio era certificablemente __<u>verdadero</u>__.
+##### 1) Gálatas 1:20 -- "*En esto que os escribo, he aquí delante de Dios que no miento".* Pablo reiteró que su testimonio era certificablemente __<u>verdadero</u>__.
 
-##### Gálatas 1:21 -- Pablo no pasó __<u>tiempo</u>__ con la iglesia de Jerusalén ni con las iglesias de Judea, sino que subió vía los gentiles a las regiones de Siria y Cilicia y habitó allí. Los judaizantes se originaron en Jerusalén y Judea, y Pablo nunca pasó tiempo con ellos. Hechos 15:1-2
+##### 2) Gálatas 1:21 -- Pablo no pasó __<u>tiempo</u>__ con la iglesia de Jerusalén ni con las iglesias de Judea, sino que subió vía los gentiles a las regiones de Siria y Cilicia y habitó allí. Los judaizantes se originaron en Jerusalén y Judea, y Pablo nunca pasó tiempo con ellos. Hechos 15:1-2
 
-##### Gálatas 1:22-24 -- Mientras estuvo en Siria y Cilicia, "...*__<u>no</u>__ era conocido de vista a las iglesias de Judea, que eran en Cristo".*
+##### 3) Gálatas 1:22-24 -- Mientras estuvo en Siria y Cilicia, "...*__<u>no</u>__ era conocido de vista a las iglesias de Judea, que eran en Cristo".*
 
-###### Gálatas 1:23 -- El único conocimiento que las iglesias tenían de él era la notoriedad de su conversión y predicación. "*solamente oían decir: Aquel que en otro tiempo nos perseguía, ahora predica la fe que en otro tiempo __<u>asolaba</u>__".*
+###### a) Gálatas 1:23 -- El único conocimiento que las iglesias tenían de él era la notoriedad de su conversión y predicación. "*solamente oían decir: Aquel que en otro tiempo nos perseguía, ahora predica la fe que en otro tiempo __<u>asolaba</u>__".*
 
-###### Gálatas 1:24 -- "*Y glorificaban a Dios en mí".* Las iglesias de Judea alabaron a __<u>Dios</u>__ por el testimonio de la conversión radical de Pablo.
+###### b) Gálatas 1:24 -- "*Y glorificaban a Dios en mí".* Las iglesias de Judea alabaron a __<u>Dios</u>__ por el testimonio de la conversión radical de Pablo.
 
 <!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/chainlink.jpeg" data-background-size="cover"  data-menu-title="IV. Gálatas 2:1-14 -- Pablo y Su Defensa del Evangelio" data-background-color="black" data-background-opacity="0.5" data-transition="zoom" -->
 # IV. Gálatas 2:1-14 -- Pablo y Su Defensa del Evangelio

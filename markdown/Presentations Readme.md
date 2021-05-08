@@ -63,3 +63,43 @@ pandoc -f docx "Haciendo Hacedores de Discípulos Maestro.docx" -t markdown --wr
 		"**[" to "__<u>"
 		```
 
+# Animations
+
+view-source:https://martinomagnifico.github.io/reveal.js-appearance/demo.html#/
+
+<canvas data-chart="line">
+Year, 1976, 1978, 1980, 1982, 1984, 1986, 1988, 1990, 1992, 1994, 1996, 1998, 2000, 2002, 2004, 2006, 2008, 2010, 2012, 2014
+Stay at home Fathers, 20.6, 22.5, 24.8, 30.9, 28.7, 31.3, 34.6, 40.4, 44.6, 41.3, 43.5, 44.2, 47.7, 52.2, 50.1, 52.9, 53.4, 53, 55.4, 53.8 
+</canvas>
+
+- one 
+<!-- .element: class="animated fadeInDown slower" data-delay="120" -->
+- two 
+<!-- .element: class="fragment animated bounceInLeft"  -->
+
+```plantuml
+@startwbs
+* Adam
+** Launch the project
+*** Complete Stakeholder Research
+*** Initial Implementation Plan
+** Design phase
+*** Model of AsIs Processes Completed
+@endwbs
+```
+
+```plantuml
+@startwbs
+* Adam
+** Launch the project
+*** Complete Stakeholder Research
+*** Initial Implementation Plan
+** Design phase
+*** Model of AsIs Processes Completed
+**** Model of AsIs Processes Completed1
+**** Model of AsIs Processes Completed2
+*** Measure AsIs performance metrics
+*** Identify Quick Wins
+** Complete innovate phase
+@endwbs
+```
