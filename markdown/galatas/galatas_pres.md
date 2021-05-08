@@ -750,7 +750,7 @@ ___
 
 ##### 1) La palabra *perturban* es TARASSO, un término gráfico que significa molestar, agitar, __<u>provocar</u>__ o asustar.
 
-##### 2) "*Y los discípulos, viéndole* [a Jesús] *andar sobre el mar, se __turbaron__, diciendo: !Un fantasma! Y dieron voces de __<u>miedo</u>__ .*" (Mateo 14:26) La palabra *turbaron* es una forma de TARASSO.
+##### 2) "*Y los discípulos, viéndole* [a Jesús] *andar sobre el mar, se __turbaron__, diciendo: !Un fantasma! Y dieron voces de __<u>miedo</u>__.*" (Mateo 14:26) La palabra *turbaron* es una forma de TARASSO.
 
 #### b. Gálatas 1:7c -- La intención de los falsos maestros era __<u>tergiversar</u>__ el evangelio de Cristo. "\...*y quieren **pervertir** el evangelio de Cristo...".*
 
