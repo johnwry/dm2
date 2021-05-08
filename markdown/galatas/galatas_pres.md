@@ -780,7 +780,7 @@ ___
 
 #### a. Gálatas 1:9a -- "*Como antes hemos dicho, también ahora lo repito: **Si** alguno os predica\...".* La condición \"si\" en este versículo es una condición de primera clase. Esto significa que no se refiere a una posibilidad hipotética, sino a una posibilidad real, o en este caso, una realidad. Pablo __<u>sabía</u>__ que alguien estaba predicando un falso evangelio.
 
-#### b. Gálatas 1:9b -- Cualquiera que predique un evangelio falso debería sentirse muy incómodo porque esta advertencia (*sea anatema*) se repite y se personaliza aquí. Pablo dijo: "*...Si __<u>alguno</u>__ os predica diferente evangelio del que habéis recibido, **sea** anatema.*"
+#### b. Gálatas 1:9b -- Cualquiera que predique un evangelio falso debería sentirse muy incómodo porque esta advertencia (*sea anatema*) se repite y se personaliza aquí. Pablo dijo: "*...Si __<u>alguno</u>__ os predica diferente evangelio del que habéis recibido, __sea__ anatema.*"
 
 #### c. Gálatas 1:9c -- "*...diferente evangelio del que habéis recibido....*" El evangelio que Pablo predicaba en todas partes era el __<u>mismo</u>__ evangelio que los gálatas habían recibido originalmente.
 
