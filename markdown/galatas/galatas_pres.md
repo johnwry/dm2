@@ -834,7 +834,7 @@ ___
 
 #### b. Gálatas 1:12e -- La frase "...*sino por revelación de Jesucristo"* revela __<u>dos</u>__ piezas de información importantes.
 
-##### 1) Primero, entendemos que Jesús es el revelador del __<u>evangelio</u>__. "\...***por revelación** de Jesucristo*".
+##### 1) Primero, entendemos que Jesús es el revelador del __<u>evangelio</u>__. "*...**por revelación** de Jesucristo.*"
 
 ##### 2) Segundo, también podemos ver que Jesús es el __<u>sujeto</u>__ del evangelio. "\...*por revelación **de Jesucristo**".*
 
