@@ -750,7 +750,7 @@ ___
 
 ##### 1) La palabra *perturban* es TARASSO, un término gráfico que significa molestar, agitar, __<u>provocar</u>__ o asustar.
 
-##### 2) "*Y los discípulos, viéndole* [a Jesús] *andar sobre el mar, se __turbaron__, diciendo: !Un fantasma! Y dieron voces de __<u>miedo</u>__.*"\ (Mateo 14:26) La palabra *turbaron* es una forma de TARASSO.
+##### 2) "*Y los discípulos, viéndole* [a Jesús] *andar sobre el mar, se __turbaron__, diciendo: !Un fantasma! Y dieron voces de __<u>miedo</u>__.*\" (Mateo 14:26) La palabra *turbaron* es una forma de TARASSO.
 
 #### b. Gálatas 1:7c -- La intención de los falsos maestros era __<u>tergiversar</u>__ el evangelio de Cristo. "\...*y quieren **pervertir** el evangelio de Cristo...".*
 
@@ -764,7 +764,7 @@ ___
 
 ### 1. Gálatas 1:8 -- Pablo dio una __<u>reprimenda</u>__ general a cualquiera que pudiera verse tentado a torcer el mensaje del evangelio.
 
-#### a. Gálatas 1:8a -- Pablo estaba advirtiendo solemnemente a los gálatas que nunca __<u>escucharan</u>__ "...*otro evangelio diferente del que os hemos anunciado..."*.
+#### a. Gálatas 1:8a -- Pablo estaba advirtiendo solemnemente a los gálatas que nunca __<u>escucharan</u>__ "...*otro evangelio diferente del que os hemos anunciado....*"
 
 ##### 1) Pablo dijo que una __<u>maldición</u>__ ANATEMA debería caer sobre cualquier persona, incluidos él o sus compañeros de trabajo, si predicaban un mensaje alterado. "*Mas si aun nosotros*...".
 
