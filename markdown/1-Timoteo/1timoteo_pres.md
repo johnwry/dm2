@@ -892,6 +892,7 @@ Note: Se llama la iglesia de Dios 12x (hech 28:28, 1 Cor 1:2, 10:32, 11:16, 11:2
 
 <!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/church-cover.jpeg" data-background-size="cover"  data-menu-title="IV. 1 Timoteo 1:3-20 - Batallando por la Gracia"--> 
 # IV. 1 Timoteo 1:3-20 -- Batallando por la Gracia
+<!-- .element: style="color:white;" -->
 
 ##    A.  1 Timoteo 1:3-11 -- Un encargo de corregir
 
@@ -1213,6 +1214,7 @@ Note: Se llama la iglesia de Dios 12x (hech 28:28, 1 Cor 1:2, 10:32, 11:16, 11:2
 
 <!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/church-cover.jpeg" data-background-size="cover"  data-menu-title="V. Breve Doctrina sobre la Disciplina en la Iglesia"--> 
 # V.  Breve Doctrina sobre la Disciplina en la Iglesia
+<!-- .element: style="color:white;" -->
 
 ##    A.  Definición de la disciplina en la iglesia
 
@@ -1370,6 +1372,7 @@ Note: Se llama la iglesia de Dios 12x (hech 28:28, 1 Cor 1:2, 10:32, 11:16, 11:2
 
 <!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/church-cover.jpeg" data-background-size="cover"  data-menu-title="VI. 1 Timoteo 2:1-15 - Instrucción Sobre la Adoración"--> 
 # VI. 1 Timoteo 2:1-15 -- Instrucción Sobre la Adoración
+<!-- .element: style="color:white;" -->
 
 <svg id="svg12583" width="1000" height="700" inkscape:version="1.0.2 (e86c8708, 2021-01-15)" sodipodi:docname="bosquejo-opt.svg" version="1.1" viewBox="0 0 296 207" xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd">
  <sodipodi:namedview id="base" bordercolor="#666666" borderopacity="1.0" fit-margin-bottom="0" fit-margin-left="0" fit-margin-right="0" fit-margin-top="0" inkscape:bbox-paths="true" inkscape:current-layer="layer3" inkscape:cx="394.77242" inkscape:cy="339.58244" inkscape:document-rotation="0" inkscape:document-units="mm" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:snap-bbox="true" inkscape:window-height="935" inkscape:window-maximized="0" inkscape:window-width="1654" inkscape:window-x="24" inkscape:window-y="25" inkscape:zoom="0.74937383" pagecolor="#ffffff" showgrid="false"/>
@@ -1609,6 +1612,7 @@ Note: Se llama la iglesia de Dios 12x (hech 28:28, 1 Cor 1:2, 10:32, 11:16, 11:2
 
 <!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/church-cover.jpeg" data-background-size="cover"  data-menu-title="VII. 1 Timoteo 3:1-16 - Instrucción en la Selección de Líderes en la Iglesia"--> 
 # VII. 1 Timoteo 3:1-16 -- Instrucción en la selección de líderes en la iglesia
+<!-- .element: style="color:white;" -->
 
 <svg id="svg12583" width="1000" height="700" inkscape:version="1.0.2 (e86c8708, 2021-01-15)" sodipodi:docname="bosquejo-opt.svg" version="1.1" viewBox="0 0 296 207" xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd">
  <sodipodi:namedview id="base" bordercolor="#666666" borderopacity="1.0" fit-margin-bottom="0" fit-margin-left="0" fit-margin-right="0" fit-margin-top="0" inkscape:bbox-paths="true" inkscape:current-layer="layer3" inkscape:cx="394.77242" inkscape:cy="339.58244" inkscape:document-rotation="0" inkscape:document-units="mm" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:snap-bbox="true" inkscape:window-height="935" inkscape:window-maximized="0" inkscape:window-width="1654" inkscape:window-x="24" inkscape:window-y="25" inkscape:zoom="0.74937383" pagecolor="#ffffff" showgrid="false"/>
@@ -2028,6 +2032,7 @@ Note: Se llama la iglesia de Dios 12x (hech 28:28, 1 Cor 1:2, 10:32, 11:16, 11:2
 
 <!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/church-cover.jpeg" data-background-size="cover"  data-menu-title="VIII. 1 Timoteo 4:1-16 - Protección Contra la Apostasía"--> 
 # VIII. 1 Timoteo 4:1-16 -- Protección Contra la Apostasía
+<!-- .element: style="color:white;" -->
 
 <svg id="svg12583" width="1000" height="700" inkscape:version="1.0.2 (e86c8708, 2021-01-15)" sodipodi:docname="bosquejo-opt.svg" version="1.1" viewBox="0 0 296 207" xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd">
  <sodipodi:namedview id="base" bordercolor="#666666" borderopacity="1.0" fit-margin-bottom="0" fit-margin-left="0" fit-margin-right="0" fit-margin-top="0" inkscape:bbox-paths="true" inkscape:current-layer="layer3" inkscape:cx="394.77242" inkscape:cy="339.58244" inkscape:document-rotation="0" inkscape:document-units="mm" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:snap-bbox="true" inkscape:window-height="935" inkscape:window-maximized="0" inkscape:window-width="1654" inkscape:window-x="24" inkscape:window-y="25" inkscape:zoom="0.74937383" pagecolor="#ffffff" showgrid="false"/>
@@ -2293,6 +2298,7 @@ Note: Se llama la iglesia de Dios 12x (hech 28:28, 1 Cor 1:2, 10:32, 11:16, 11:2
 
 <!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/church-cover.jpeg" data-background-size="cover"  data-menu-title="IX. 1 Timoteo 5:1-6:21 - Relaciones Dentro de la Iglesia"--> 
 # IX. 1 Timoteo 5:1-6:21 -- Relaciones dentro de la Iglesia
+<!-- .element: style="color:white;" -->
 
 <svg id="svg12583" width="1000" height="700" inkscape:version="1.0.2 (e86c8708, 2021-01-15)" sodipodi:docname="bosquejo-opt.svg" version="1.1" viewBox="0 0 296 207" xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd">
  <sodipodi:namedview id="base" bordercolor="#666666" borderopacity="1.0" fit-margin-bottom="0" fit-margin-left="0" fit-margin-right="0" fit-margin-top="0" inkscape:bbox-paths="true" inkscape:current-layer="layer3" inkscape:cx="394.77242" inkscape:cy="339.58244" inkscape:document-rotation="0" inkscape:document-units="mm" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:snap-bbox="true" inkscape:window-height="935" inkscape:window-maximized="0" inkscape:window-width="1654" inkscape:window-x="24" inkscape:window-y="25" inkscape:zoom="0.74937383" pagecolor="#ffffff" showgrid="false"/>
@@ -2751,6 +2757,7 @@ Note: Se llama la iglesia de Dios 12x (hech 28:28, 1 Cor 1:2, 10:32, 11:16, 11:2
 
 <!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/church-cover.jpeg" data-background-size="cover"  data-menu-title="X. 1 Timoteo 6:3-21 - Asuntos Relacionados con la Iglesia"--> 
 # X.  1 Timoteo 6:3-21 -- Asuntos Relacionados con la Iglesia
+<!-- .element: style="color:white;" -->
 
 <svg id="svg12583" width="1000" height="700" inkscape:version="1.0.2 (e86c8708, 2021-01-15)" sodipodi:docname="bosquejo-opt.svg" version="1.1" viewBox="0 0 296 207" xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd">
  <sodipodi:namedview id="base" bordercolor="#666666" borderopacity="1.0" fit-margin-bottom="0" fit-margin-left="0" fit-margin-right="0" fit-margin-top="0" inkscape:bbox-paths="true" inkscape:current-layer="layer3" inkscape:cx="394.77242" inkscape:cy="339.58244" inkscape:document-rotation="0" inkscape:document-units="mm" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:snap-bbox="true" inkscape:window-height="935" inkscape:window-maximized="0" inkscape:window-width="1654" inkscape:window-x="24" inkscape:window-y="25" inkscape:zoom="0.74937383" pagecolor="#ffffff" showgrid="false"/>
