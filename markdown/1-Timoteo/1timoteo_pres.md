@@ -917,7 +917,7 @@ Note: Se llama la iglesia de Dios 12x (hech 28:28, 1 Cor 1:2, 10:32, 11:16, 11:2
 
 #####                2.  Un estudio cuidadoso de 1 Timoteo, 2 Timoteo y Tito muestra que Timoteo y Tito no eran en realidad pastores locales sino ministros **<u>itinerantes</u>** con dones que les permitían resolver problemas, establecer líderes y edificar a las iglesias en general.
 
-#####                3.  En 2 Timoteo 4:5 Pablo dijo a Timoteo: *"Pero tú sé sobrio en todo, soporta las aflicciones, haz **<u>obra</u>** de evangelista, cumple tu ministerio"*. El ministerio de Timoteo era el de un evangelista. 1 Corintios 16:10
+#####                3.  En 2 Timoteo 4:5 Pablo dijo a Timoteo: "*Pero tú sé sobrio en todo, soporta las aflicciones, haz **<u>obra</u>** de evangelista, cumple tu ministerio.*"  El ministerio de Timoteo era el de un evangelista. 1 Corintios 16:10
 
 ######                     a.  Más a menudo hoy en día, el **<u>oficio</u>** de evangelista se define como una persona que evangeliza a los perdidos, por ejemplo Billy Graham o Luis Palau.
 
@@ -1003,7 +1003,7 @@ Note: Se llama la iglesia de Dios 12x (hech 28:28, 1 Cor 1:2, 10:32, 11:16, 11:2
 
 ######                     c.  Tito 2:11-12 -- *Porque la gracia de Dios se ha manifestado para **<u>salvación</u>** a todos los hombres, enseñándonos que, renunciando a la impiedad y a los deseos mundanos, vivamos en este siglo sobria, justa y piadosamente*.
 
-####            e.  1 Timoteo 1:7b -- \...*sin entender ni lo que hablan ni lo que afirman*. Los conceptos sin fundamento enseñados por estos maestros hicieron que las instrucciones de Pablo fueran **<u>urgentes</u>**.
+####            e.  1 Timoteo 1:7b -- ...*sin entender ni lo que hablan ni lo que afirman.* Los conceptos sin fundamento enseñados por estos maestros hicieron que las instrucciones de Pablo fueran **<u>urgentes</u>**.
 
 #####                1.  Estos maestros debían ser **<u>parados</u>** porque se presentaban a sí mismos como expertos en el tema de la Ley, algo que ellos no entendían correctamente.
 
@@ -1073,7 +1073,7 @@ Note: Se llama la iglesia de Dios 12x (hech 28:28, 1 Cor 1:2, 10:32, 11:16, 11:2
 
 #####                4.  Sin embargo, las buenas nuevas del evangelio es que Dios envió a Jesucristo a pagar el **<u>castigo</u>** que toda la humanidad merece.
 
-####            g.  1 Timoteo 1:11b -- \...*el evangelio del Dios bendito, que a mí me ha sido encomendado*. Este evangelio fue encomendado a **<u>Pablo</u>** por Dios. En la siguiente sección veremos por qué era tan increíble. Pablo fue firme ciñéndose al claro y verdadero evangelio de la gracia. Gálatas 1:8-9, 23
+####            g.  1 Timoteo 1:11b -- *...el evangelio del Dios bendito, que a mí me ha sido encomendado.* Este evangelio fue encomendado a **<u>Pablo</u>** por Dios. En la siguiente sección veremos por qué era tan increíble. Pablo fue firme ciñéndose al claro y verdadero evangelio de la gracia. Gálatas 1:8-9, 23
 
 ##    B.  1 Timoteo 1:12-17 -- Un tributo a la gracia de Dios
 
