@@ -1,5 +1,5 @@
 <!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/church-cover.jpeg" data-background-size="cover"  data-menu-title="Início"--> 
-<svg width="1280" height="720" version="1.1" viewBox="0 0 460 250" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<svg width="1920" height="1080" version="1.1" viewBox="0 0 460 250" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
  <defs>
   <filter id="filter1805" color-interpolation-filters="sRGB">
    <feGaussianBlur result="result3" stdDeviation="5"/>
@@ -150,6 +150,7 @@ Timoteo es como un hijo para Pablo. Sin embargo le escribe una carta muy formal.
 
 <!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/church-cover.jpeg" data-background-size="cover"  data-menu-title="I.  La Iglesia: Información General"--> 
 # I.  La Iglesia: Información General 
+<!-- .element: style="color:white;" -->
 
 ##    A.  El uso de la palabra iglesia en el Nuevo Testamento
 
