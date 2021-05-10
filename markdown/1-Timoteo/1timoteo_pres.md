@@ -1085,7 +1085,7 @@ Note: Se llama la iglesia de Dios 12x (hech 28:28, 1 Cor 1:2, 10:32, 11:16, 11:2
 
 #####                2.  Mientras que el mundo se preocupa por la fuerza física externa; el creyente necesita fortalecimiento **<u>interno</u>**, y esta fue la forma inspirada del Espíritu Santo de describir cómo un creyente realmente se fortalece. Efesios 3:16
 
-####            b.  La palabra ENDUNAMOO es también usada por Pablo en 2 Timoteo 2:1, cuando le mandó a Timoteo a *__<u>esforzarse</u>__ en la gracia que es en Cristo Jesús*.
+####            b.  La palabra ENDUNAMOO es también usada por Pablo en 2 Timoteo 2:1, cuando le mandó a Timoteo a *__<u>esforzarse</u>__ en la gracia que es en Cristo Jesús.*
 
 #####                1.  El uso único de este mandato en 2 Timoteo 2:1 es que está en la voz pasiva, lo que indica que Timoteo debía por la fe **<u>permitir</u>** que el Señor lo "en-fortaleciera".
 
@@ -1095,11 +1095,11 @@ Note: Se llama la iglesia de Dios 12x (hech 28:28, 1 Cor 1:2, 10:32, 11:16, 11:2
 
 ####            a.  La **<u>fidelidad</u>** es una de las características principales que Dios busca en un servidor. Dios no está buscando habilidad, conocimiento, personalidad, perfección, buena apariencia, riqueza o talento. Dios está buscando confiabilidad. 1 Corintios 4:1-2
 
-####            b.  2 Timoteo 2:2 - *Esto encarga* \[lit. 'confía'\] *a hombres fieles que sean idóneos para enseñar también a otros*. Pablo instruyó a Timoteo a invertir en personas **<u>confiables</u>**.
+####            b.  2 Timoteo 2:2 - *Esto encarga* \[lit. 'confía'\] *a hombres fieles que sean idóneos para enseñar también a otros.* Pablo instruyó a Timoteo a invertir en personas **<u>confiables</u>**.
 
 ####            c.  Aunque Pablo fue un fariseo fervoroso con mala teología y un odio hacia los cristianos, era un hombre fiel en todo lo que **<u>dispuso</u>** su corazón a hacer, incluso antes de ser salvo.
 
-###        3.  1 Timoteo 1:13a -- *habiendo yo sido antes blasfemo, perseguidor e injuriador.*.. Pablo usó tres términos **<u>despectivos</u>** para describirse a sí mismo.
+###        3.  1 Timoteo 1:13a -- *habiendo yo sido antes blasfemo, perseguidor e injuriador.* ...Pablo usó tres términos __<u>despectivos</u>__ para describirse a sí mismo.
 
 ####            a.  *Habiendo yo sido antes blasfemo\...* Un blasfemo es alguien que **<u>pronuncia</u>** palabras en contra de Dios y cosas divinas.
 
@@ -1143,7 +1143,7 @@ Note: Se llama la iglesia de Dios 12x (hech 28:28, 1 Cor 1:2, 10:32, 11:16, 11:2
 
 ###        8.  1 Timoteo 1:15b -- \...*que Cristo Jesús vino al mundo para **<u>salvar</u>** a los pecadores*\... Hay muchos que son demasiado buenos para ser salvos, pero ninguno que sea demasiado malo para ser salvo. Son los enfermos, no los sanos, los que necesitan un médico. Afortunadamente, Jesús vino a buscar y salvar a los que están perdidos. Salmos 53:1-3, Marcos 2:17, Lucas 19:10, Romanos 3:10
 
-###        9.  1 Timoteo 1:15c -- \...*para salvar a los pecadores, de los cuales yo soy el **<u>primero</u>***. Note que Pablo dijo: *\"yo soy\",* no \"yo fui\". Para enfatizar esta afirmación, Pablo agregó el enfático pronombre personal *yo* (EGO). Traducida literalmente, la afirmación de Pablo, *\"yo soy el primero\",* podría leerse: \"En este momento, sin lugar a dudas, soy el mayor pecador de todos los tiempos\"
+###        9.  1 Timoteo 1:15c -- *...para salvar a los pecadores, de los cuales yo soy el __<u>primero</u>__.* Note que Pablo dijo: "*yo soy*", no \"yo fui\". Para enfatizar esta afirmación, Pablo agregó el enfático pronombre personal *yo* (EGO). Traducida literalmente, la afirmación de Pablo, "*yo soy el primero*", podría leerse: \"En este momento, sin lugar a dudas, soy el mayor pecador de todos los tiempos\"
 
 ###        10. 1 Timoteo 1:16a -- *Pero por esto fui recibido a misericordia, para que Jesucristo mostrase en mí el primero\...* ¿Por qué se le mostró misericordia a Pablo? Dios planeó usar a Pablo como un excelente ejemplo del hecho de que Él salva al **<u>peor</u>** de los pecadores.
 
@@ -2167,7 +2167,7 @@ Note: Se llama la iglesia de Dios 12x (hech 28:28, 1 Cor 1:2, 10:32, 11:16, 11:2
 
 ####              a.  Si bien el mundo incrédulo disfruta del alimento y el -palabra; que instes* *a tiempo y fuera de tiempo; redarguye, **<u>reprende</u>**, exhorta con toda paciencia y doctrina".*
 
-####              b.  En 2 Timoteo 4:5 Pablo agregó, *\"Pero tú sé **<u>sobrio</u>** en todo, soporta las aflicciones, haz obra de evangelista, cumple tu ministerio\".*
+####              b.  En 2 Timoteo 4:5 Pablo agregó, "*Pero tú sé **<u>sobrio</u>** en todo, soporta las aflicciones, haz obra de evangelista, cumple tu ministerio.*"
 
 ###          2.  1 Timoteo 4:6b -- \...*nutrido con las palabras de la fe y de la buena doctrina que has seguido*. Timoteo no solo necesitaba nutrirse a sí mismo para su propio ánimo, sino que debía permanecer fiel a la sana doctrina para poder señalar el **<u>error</u>** de los falsos maestros.
 
