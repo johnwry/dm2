@@ -1,32 +1,173 @@
 <!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/church-cover.jpeg" data-background-size="cover"  data-menu-title="Início"--> 
-<svg width="1920" height="1080" version="1.1" viewBox="0 0 460 250" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
- <defs>
-  <filter id="filter1805" color-interpolation-filters="sRGB">
-   <feGaussianBlur result="result3" stdDeviation="5"/>
-   <feColorMatrix result="result7" values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 50 0 "/>
-   <feComposite in2="SourceGraphic" operator="in" result="result9"/>
-   <feComposite in="result9" in2="result7" k1="0.5" k3="0.5" operator="arithmetic" result="result1"/>
-   <feBlend in="SourceGraphic" in2="result1" mode="screen" result="result5"/>
-   <feBlend in="result5" in2="result5" mode="darken" result="result6"/>
-   <feComposite in2="SourceGraphic" operator="in" result="result8"/>
-  </filter>
- </defs>
- <metadata>
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:title/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <g style="mix-blend-mode:normal">
-  <text transform="scale(.77136 1.2964)" x="17.6604" y="20.665264" fill="#ffffff" font-family="sans-serif" font-size="23.148px" stroke="#3a3a3a" stroke-width=".3175" style="line-height:1.25" xml:space="preserve"><tspan x="17.6604" y="20.665264" fill="#ffffff" font-family="sans-serif" font-size="23.148px" font-weight="bold" stroke="#3a3a3a" stroke-width=".3175" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">EN LA CASA DE DIOS</tspan></text>
-  <text transform="scale(.91646 1.0912)" x="83.368599" y="33.763767" fill="#000000" font-family="Georgia" font-size="7.5745px" stroke-width=".25912" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25" xml:space="preserve"><tspan x="83.368599" y="33.763767" font-family="Georgia" font-size="7.5745px" stroke-width=".25912" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">UN ESTUDIO DE 1 TIMOTEO</tspan></text>
-  <rect x=".16842" y="128.76" width="237.79" height="22.447" fill="#fff" fill-rule="evenodd" stroke="#000" stroke-linejoin="round" stroke-width=".094103"/>
-  <text x="13.375127" y="142.58911" fill="#000000" font-family="Calibri" font-size="11.289px" stroke-width=".26458" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25" xml:space="preserve"><tspan x="13.375127" y="142.58911" font-family="Calibri" font-size="11.289px" stroke-width=".26458" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">DM2 - HACIENDO HACEDORES DE DISCIPULOS</tspan></text>
- </g>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1280"
+   height="720"
+   version="1.1"
+   viewBox="0 0 338.67378 190.5"
+   id="svg136667"
+   sodipodi:docname="cover-titles.svg"
+   inkscape:version="1.0.2 (e86c8708, 2021-01-15)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1584"
+     inkscape:window-height="911"
+     id="namedview136669"
+     showgrid="false"
+     inkscape:zoom="0.4848162"
+     inkscape:cx="636.60518"
+     inkscape:cy="635.86771"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg136667" />
+  <defs
+     id="defs136647">
+    <filter
+       id="filter1805"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         result="result3"
+         stdDeviation="5"
+         id="feGaussianBlur136632" />
+      <feColorMatrix
+         result="result7"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 50 0 "
+         id="feColorMatrix136634" />
+      <feComposite
+         in2="SourceGraphic"
+         operator="in"
+         result="result9"
+         id="feComposite136636" />
+      <feComposite
+         in="result9"
+         in2="result7"
+         k1="0.5"
+         k3="0.5"
+         operator="arithmetic"
+         result="result1"
+         id="feComposite136638"
+         k2="0"
+         k4="0" />
+      <feBlend
+         in="SourceGraphic"
+         in2="result1"
+         mode="screen"
+         result="result5"
+         id="feBlend136640" />
+      <feBlend
+         in="result5"
+         in2="result5"
+         mode="darken"
+         result="result6"
+         id="feBlend136642" />
+      <feComposite
+         in2="SourceGraphic"
+         operator="in"
+         result="result8"
+         id="feComposite136644" />
+    </filter>
+  </defs>
+  <metadata
+     id="metadata136649">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     style="mix-blend-mode:normal"
+     id="g136665"
+     transform="translate(50.273473)">
+    <text
+       transform="scale(0.77136,1.2964)"
+       x="17.6604"
+       y="20.665264"
+       fill="#ffffff"
+       font-family="sans-serif"
+       font-size="23.148px"
+       stroke="#3a3a3a"
+       stroke-width="0.3175"
+       style="line-height:1.25"
+       xml:space="preserve"
+       id="text136653"><tspan
+         x="17.6604"
+         y="20.665264"
+         fill="#ffffff"
+         font-family="sans-serif"
+         font-size="23.148px"
+         font-weight="bold"
+         stroke="#3a3a3a"
+         stroke-width="0.3175"
+         style="font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         id="tspan136651">EN LA CASA DE DIOS</tspan></text>
+    <text
+       transform="scale(0.91646,1.0912)"
+       x="83.368599"
+       y="33.763767"
+       fill="#000000"
+       font-family="Georgia"
+       font-size="7.5745px"
+       stroke-width="0.25912"
+       style="line-height:1.25;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       xml:space="preserve"
+       id="text136657"><tspan
+         x="83.368599"
+         y="33.763767"
+         font-family="Georgia"
+         font-size="7.5745px"
+         stroke-width="0.25912"
+         style="font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         id="tspan136655">UN ESTUDIO DE 1 TIMOTEO</tspan></text>
+    <rect
+       x="0.16842"
+       y="128.75999"
+       width="237.78999"
+       height="22.447001"
+       fill="#ffffff"
+       fill-rule="evenodd"
+       stroke="#000000"
+       stroke-linejoin="round"
+       stroke-width="0.094103"
+       id="rect136659" />
+    <text
+       x="13.375127"
+       y="142.58911"
+       fill="#000000"
+       font-family="Calibri"
+       font-size="11.289px"
+       stroke-width="0.26458"
+       style="line-height:1.25;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       xml:space="preserve"
+       id="text136663"><tspan
+         x="13.375127"
+         y="142.58911"
+         font-family="Calibri"
+         font-size="11.289px"
+         stroke-width="0.26458"
+         style="font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         id="tspan136661">DM2 - HACIENDO HACEDORES DE DISCIPULOS</tspan></text>
+  </g>
 </svg>
+___
 Note: Pablo habia conocido a Timoteo unos 10 años antes. Timoteo es un joven que fué recomendado por su iglesia: Hechos 16:2. Circuncidado por Pablo por tener acceso a ministrar a los judios: Hechos 16:3
 Timoteo era joven todavia, madre judia padre griego. 
 Problema fisico? 1 Tim 5:23 - en vez de solo agua mezclar con vino. 
