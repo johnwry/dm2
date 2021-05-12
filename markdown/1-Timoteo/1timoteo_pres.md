@@ -1306,7 +1306,7 @@ Note: Se llama la iglesia de Dios 12x (hech 28:28, 1 Cor 1:2, 10:32, 11:16, 11:2
 
 ###        3.  1 Timoteo 1:18c -- *...milites por ellas la buena milicia*... Timoteo debía pelear como si estuviera liderando a un ejército o librando una **<u>guerra</u>**. El servicio cristiano no es una vida de relajación y tranquilidad. Tenemos un enemigo real y hay almas en juego. Juan 8:44; 2 Corintios 2:11; 11:3, 14-15; Efesios 6:10-17; 1 Pedro 5:8-9
 
-###        4.  1 Timoteo 1:19a -- *...manteniendo la fe y buena conciencia*... El andar por fe y mantener una buena conciencia fue **<u>vital</u>** para el éxito de Timoteo como buen soldado, peleando por mantener la sana doctrina en la iglesia de Jesucristo. Juan 15:5; Gálatas 5:16; Romanos 1:17
+###        4.  1 Timoteo 1:19a -- *...manteniendo la fe y buena conciencia...*  El andar por fe y mantener una buena conciencia fue **<u>vital</u>** para el éxito de Timoteo como buen soldado, peleando por mantener la sana doctrina en la iglesia de Jesucristo. Juan 15:5; Gálatas 5:16; Romanos 1:17
 
 ####            a.  Los creyentes, especialmente los pastores y maestros, necesitan **<u>mantener</u>** una conciencia clara ante el Señor, como Pablo lo hizo evidente en sus escritos a Timoteo y Tito. 1 Timoteo 1:5; 1:19, 3:9, 4:2; 2 Timoteo 1:3; Tito 1:15
 
@@ -1324,7 +1324,7 @@ Note: Se llama la iglesia de Dios 12x (hech 28:28, 1 Cor 1:2, 10:32, 11:16, 11:2
 
 #####                2.  Puesto que también habían rechazado una buena conciencia, su **<u>error</u>** fue muy probablemente una afrenta a la fase dos de la salvación. Ellos estaban posiblemente tomando el pecado ligeramente y no animando a los creyentes a ser fieles para confesar sus pecados. 1 Juan 1:5-9
 
-####            b.  1 Timoteo 1:19b -- *...naufragaron en cuanto a la fe algunos*... Si rechazamos la fe y una buena conciencia, resultará en una **<u>caída</u>** espiritual, tal como sucedió con estos dos maestros que naufragaron en cuanto a la fe.
+####            b.  1 Timoteo 1:19b -- *...naufragaron en cuanto a la fe algunos...*  Si rechazamos la fe y una buena conciencia, resultará en una **<u>caída</u>** espiritual, tal como sucedió con estos dos maestros que naufragaron en cuanto a la fe.
 
 #####                1.  Note que no fue su salvación la que sufrió naufragio, sino su **<u>fe</u>**.
 
@@ -1340,7 +1340,7 @@ Note: Se llama la iglesia de Dios 12x (hech 28:28, 1 Cor 1:2, 10:32, 11:16, 11:2
 
 ####            d.  2 Timoteo 2:18 -- Himeneo estaba **<u>enseñando</u>** que la resurrección ya había tenido lugar, y al hacerlo, trastornó la fe de algunos.
 
-###        3.  1 Timoteo 1:20b -- *...a quienes entregué a __<u>Satanás</u>__*... Pablo entregó a Himeneo y Alejandro a Satanás *para que aprendan a no blasfemar.*
+###        3.  1 Timoteo 1:20b -- *...a quienes entregué a __<u>Satanás</u>__...*  Pablo entregó a Himeneo y Alejandro a Satanás *para que aprendan a no blasfemar.*
 
 ####            a.  Cuando alguien es disciplinado por la iglesia, es **<u>removido</u>** de la protección provista por pertenecer a una iglesia local.
 
