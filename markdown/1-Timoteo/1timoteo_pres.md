@@ -1288,7 +1288,7 @@ Note: Se llama la iglesia de Dios 12x (hech 28:28, 1 Cor 1:2, 10:32, 11:16, 11:2
 
 ###        10. 1 Timoteo 1:16a -- *Pero por esto fui recibido a misericordia, para que Jesucristo mostrase en mí el primero...* ¿Por qué se le mostró misericordia a Pablo? Dios planeó usar a Pablo como un excelente ejemplo del hecho de que Él salva al **<u>peor</u>** de los pecadores.
 
-###        11. 1 Timoteo 1:16b -- *...para que...Jesucristo mostrase en mí el primero toda Su clemencia*... Al mostrar misericordia al peor pecador, Jesús demostró *Su clemencia*. Dios planeó esto para darle **<u>esperanza</u>** a cualquier pecador, sin importar qué tan malvado sea. Romanos 5:8
+###        11. 1 Timoteo 1:16b -- *...para que...Jesucristo mostrase en mí el primero toda Su clemencia...* Al mostrar misericordia al peor pecador, Jesús demostró *Su clemencia.* Dios planeó esto para darle **<u>esperanza</u>** a cualquier pecador, sin importar qué tan malvado sea. Romanos 5:8
 
 ####            a.  Jesucristo es perfectamente clemente y **<u>paciente</u>** con los pecadores. Mientras que a veces somos rápidos en condenar a los pecadores, Jesús es muy paciente. 2 Pedro 3:9
 
