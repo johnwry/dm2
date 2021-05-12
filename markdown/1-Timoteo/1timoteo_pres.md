@@ -1284,7 +1284,7 @@ Note: Se llama la iglesia de Dios 12x (hech 28:28, 1 Cor 1:2, 10:32, 11:16, 11:2
 
 ###        8.  1 Timoteo 1:15b -- *...que Cristo Jesús vino al mundo para **<u>salvar</u>** a los pecadores*... Hay muchos que son demasiado buenos para ser salvos, pero ninguno que sea demasiado malo para ser salvo. Son los enfermos, no los sanos, los que necesitan un médico. Afortunadamente, Jesús vino a buscar y salvar a los que están perdidos. Salmos 53:1-3, Marcos 2:17, Lucas 19:10, Romanos 3:10
 
-###        9.  1 Timoteo 1:15c -- *"...para salvar a los pecadores, de los cuales yo soy el __<u>primero</u>__" .* Note que Pablo dijo: *"yo soy"*, no "yo fui". Para enfatizar esta afirmación, Pablo agregó el enfático pronombre personal *yo* (EGO). Traducida literalmente, la afirmación de Pablo, *"yo soy el primero"*, podría leerse: "En este momento, sin lugar a dudas, soy el mayor pecador de todos los tiempos"
+###        9.  1 Timoteo 1:15c -- "*...para salvar a los pecadores, de los cuales yo soy el __<u>primero</u>__ .* Note que Pablo dijo: \"*yo soy*\", no "yo fui". Para enfatizar esta afirmación, Pablo agregó el enfático pronombre personal *yo* (EGO). Traducida literalmente, la afirmación de Pablo, "*yo soy el primero*", podría leerse: "En este momento, sin lugar a dudas, soy el mayor pecador de todos los tiempos"
 
 ###        10. 1 Timoteo 1:16a -- *Pero por esto fui recibido a misericordia, para que Jesucristo mostrase en mí el primero...* ¿Por qué se le mostró misericordia a Pablo? Dios planeó usar a Pablo como un excelente ejemplo del hecho de que Él salva al **<u>peor</u>** de los pecadores.
 
