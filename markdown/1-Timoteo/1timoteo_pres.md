@@ -1284,29 +1284,29 @@ Note: Se llama la iglesia de Dios 12x (hech 28:28, 1 Cor 1:2, 10:32, 11:16, 11:2
 
 ###        8.  1 Timoteo 1:15b -- *...que Cristo Jesús vino al mundo para **<u>salvar</u>** a los pecadores*... Hay muchos que son demasiado buenos para ser salvos, pero ninguno que sea demasiado malo para ser salvo. Son los enfermos, no los sanos, los que necesitan un médico. Afortunadamente, Jesús vino a buscar y salvar a los que están perdidos. Salmos 53:1-3, Marcos 2:17, Lucas 19:10, Romanos 3:10
 
-###        9.  1 Timoteo 1:15c -- "*...para salvar a los pecadores, de los cuales yo soy el __<u>primero</u>__.*" Note que Pablo dijo: "*yo soy*", no "yo fui". Para enfatizar esta afirmación, Pablo agregó el enfático pronombre personal *yo* (EGO). Traducida literalmente, la afirmación de Pablo, "*yo soy el primero*", podría leerse: "En este momento, sin lugar a dudas, soy el mayor pecador de todos los tiempos"
+###        9.  1 Timoteo 1:15c -- "*...para salvar a los pecadores, de los cuales yo soy el __<u>primero</u>__" .* Note que Pablo dijo: "*yo soy*", no "yo fui". Para enfatizar esta afirmación, Pablo agregó el enfático pronombre personal *yo* (EGO). Traducida literalmente, la afirmación de Pablo, "*yo soy el primero*", podría leerse: "En este momento, sin lugar a dudas, soy el mayor pecador de todos los tiempos"
 
-###        10. 1 Timoteo 1:16a -- *Pero por esto fui recibido a misericordia, para que Jesucristo mostrase en mí el primero\...* ¿Por qué se le mostró misericordia a Pablo? Dios planeó usar a Pablo como un excelente ejemplo del hecho de que Él salva al **<u>peor</u>** de los pecadores.
+###        10. 1 Timoteo 1:16a -- *Pero por esto fui recibido a misericordia, para que Jesucristo mostrase en mí el primero...* ¿Por qué se le mostró misericordia a Pablo? Dios planeó usar a Pablo como un excelente ejemplo del hecho de que Él salva al **<u>peor</u>** de los pecadores.
 
-###        11. 1 Timoteo 1:16b -- \...*para que* *Jesucristo mostrase en mí el primero toda Su clemencia*\... Al mostrar misericordia al peor pecador, Jesús demostró *Su clemencia*. Dios planeó esto para darle **<u>esperanza</u>** a cualquier pecador, sin importar qué tan malvado sea. Romanos 5:8
+###        11. 1 Timoteo 1:16b -- *...para que...Jesucristo mostrase en mí el primero toda Su clemencia*... Al mostrar misericordia al peor pecador, Jesús demostró *Su clemencia*. Dios planeó esto para darle **<u>esperanza</u>** a cualquier pecador, sin importar qué tan malvado sea. Romanos 5:8
 
 ####            a.  Jesucristo es perfectamente clemente y **<u>paciente</u>** con los pecadores. Mientras que a veces somos rápidos en condenar a los pecadores, Jesús es muy paciente. 2 Pedro 3:9
 
-####            b.  Esto exalta a nuestro Señor Jesucristo y nos da una idea de Su **<u>corazón</u>** para este mundo perdido y moribundo. *Porque de tal manera amó Dios al mundo\...* Juan 3:16; Efesios 1:6
+####            b.  Esto exalta a nuestro Señor Jesucristo y nos da una idea de Su **<u>corazón</u>** para este mundo perdido y moribundo. *Porque de tal manera amó Dios al mundo...* Juan 3:16; Efesios 1:6
 
-###        12. 1 Timoteo 1:16c -- \...*para ejemplo de los que habrían de creer en Él para vida eterna*. La palabra traducida ejemplo se usó para un modelo o patrón colocado delante de alguien para ser **<u>copiado</u>**. Jesús usó a Pablo como un modelo de dar vida eterna a **<u>todos</u>** aquellos que creen, sin importar cuán malvados sean.
+###        12. 1 Timoteo 1:16c -- *...para ejemplo de los que habrían de creer en Él para vida eterna.* La palabra traducida ejemplo se usó para un modelo o patrón colocado delante de alguien para ser **<u>copiado</u>**. Jesús usó a Pablo como un modelo de dar vida eterna a **<u>todos</u>** aquellos que creen, sin importar cuán malvados sean.
 
-###        13. 1 Timoteo 1:17 -- La Doxología de Pablo: *Por tanto, al Rey de los siglos, inmortal, invisible, al único y sabio Dios, sea honor y gloria por los siglos de los siglos. Amén*. Estas palabras expresan la sincera **<u>alabanza</u>** de Pablo a Dios por Su increíble gracia. Filipenses 2:9-11, Apocalipsis 5:12
+###        13. 1 Timoteo 1:17 -- La Doxología de Pablo: *Por tanto, al Rey de los siglos, inmortal, invisible, al único y sabio Dios, sea honor y gloria por los siglos de los siglos. Amén.* Estas palabras expresan la sincera **<u>alabanza</u>** de Pablo a Dios por Su increíble gracia. Filipenses 2:9-11, Apocalipsis 5:12
 
 ##    C.  1 Timoteo 1:18-19a -- Un mandato a pelear
 
-###        1.  1 Timoteo 1:18a -- *Este mandamiento*\... Esto se refiere nuevamente a las instrucciones de Pablo para Timoteo de que se quedase en *Éfeso*, para que **<u>mandase</u>** *a algunos que no enseñen diferente doctrina, ni presten atención a fábulas y genealogías interminables*. 1 Timoteo 1:3-4
+###        1.  1 Timoteo 1:18a -- *Este mandamiento*... Esto se refiere nuevamente a las instrucciones de Pablo para Timoteo de que se quedase en *Éfeso*, para que **<u>mandase</u>** *a algunos que no enseñen diferente doctrina, ni presten atención a fábulas y genealogías interminables.* 1 Timoteo 1:3-4
 
-###        2.  1 Timoteo 1:18b -- *\...hijo Timoteo, te encargo, para que conforme a las profecías que se hicieron antes en cuanto a ti\...* Pablo le había **<u>confiado</u>** estas responsabilidades a Timoteo porque reconoció el llamado y el don de Dios de Timoteo. 1 Timoteo 4:14
+###        2.  1 Timoteo 1:18b -- *...hijo Timoteo, te encargo, para que conforme a las profecías que se hicieron antes en cuanto a ti...* Pablo le había **<u>confiado</u>** estas responsabilidades a Timoteo porque reconoció el llamado y el don de Dios de Timoteo. 1 Timoteo 4:14
 
-###        3.  1 Timoteo 1:18c -- \...*milites por ellas la buena milicia*\... Timoteo debía pelear como si estuviera liderando a un ejército o librando una **<u>guerra</u>**. El servicio cristiano no es una vida de relajación y tranquilidad. Tenemos un enemigo real y hay almas en juego. Juan 8:44; 2 Corintios 2:11; 11:3, 14-15; Efesios 6:10-17; 1 Pedro 5:8-9
+###        3.  1 Timoteo 1:18c -- *...milites por ellas la buena milicia*... Timoteo debía pelear como si estuviera liderando a un ejército o librando una **<u>guerra</u>**. El servicio cristiano no es una vida de relajación y tranquilidad. Tenemos un enemigo real y hay almas en juego. Juan 8:44; 2 Corintios 2:11; 11:3, 14-15; Efesios 6:10-17; 1 Pedro 5:8-9
 
-###        4.  1 Timoteo 1:19a -- \...*manteniendo la fe y buena conciencia*\... El andar por fe y mantener una buena conciencia fue **<u>vital</u>** para el éxito de Timoteo como buen soldado, peleando por mantener la sana doctrina en la iglesia de Jesucristo. Juan 15:5; Gálatas 5:16; Romanos 1:17
+###        4.  1 Timoteo 1:19a -- *...manteniendo la fe y buena conciencia*... El andar por fe y mantener una buena conciencia fue **<u>vital</u>** para el éxito de Timoteo como buen soldado, peleando por mantener la sana doctrina en la iglesia de Jesucristo. Juan 15:5; Gálatas 5:16; Romanos 1:17
 
 ####            a.  Los creyentes, especialmente los pastores y maestros, necesitan **<u>mantener</u>** una conciencia clara ante el Señor, como Pablo lo hizo evidente en sus escritos a Timoteo y Tito. 1 Timoteo 1:5; 1:19, 3:9, 4:2; 2 Timoteo 1:3; Tito 1:15
 
@@ -1316,15 +1316,15 @@ Note: Se llama la iglesia de Dios 12x (hech 28:28, 1 Cor 1:2, 10:32, 11:16, 11:2
 
 ##    D.  1 Timoteo 1:19-20 -- La desgracia de la infidelidad
 
-###        1.  1 Timoteo 1:19 -- \...*manteniendo la fe y buena conciencia, desechando la cual naufragaron en cuanto a la fe algunos*. Con el fin de recordar a Timoteo por qué su papel en Éfeso como evangelista era tan importante, Pablo le relató la historia de dos **<u>falsos</u>** maestros.
+###        1.  1 Timoteo 1:19 -- *...manteniendo la fe y buena conciencia, desechando la cual naufragaron en cuanto a la fe algunos.* Con el fin de recordar a Timoteo por qué su papel en Éfeso como evangelista era tan importante, Pablo le relató la historia de dos **<u>falsos</u>** maestros.
 
-####            a.  1 Timoteo 1:19a -- *\...desechando la cual\... algunos\...* Hubo al menos dos falsos maestros que **<u>rechazaron</u>** la fe y una buena conciencia.
+####            a.  1 Timoteo 1:19a -- *...desechando la cual... algunos...* Hubo al menos dos falsos maestros que **<u>rechazaron</u>** la fe y una buena conciencia.
 
 #####                1.  Similar a la herejía de Galacia, parece que estos falsos maestros estaban rechazando una vida de fe. Dado que la fe es importante tanto para la salvación como para la vida cristiana, esto podría haber sido una **<u>afrenta</u>** tanto para la salvación de la fase uno para justificación como para la salvación de la fase dos para santificación. Romanos 1:17; Colosenses 2:6
 
 #####                2.  Puesto que también habían rechazado una buena conciencia, su **<u>error</u>** fue muy probablemente una afrenta a la fase dos de la salvación. Ellos estaban posiblemente tomando el pecado ligeramente y no animando a los creyentes a ser fieles para confesar sus pecados. 1 Juan 1:5-9
 
-####            b.  1 Timoteo 1:19b -- \...*naufragaron en cuanto a la fe algunos*\... Si rechazamos la fe y una buena conciencia, resultará en una **<u>caída</u>** espiritual, tal como sucedió con estos dos maestros que naufragaron en cuanto a la fe.
+####            b.  1 Timoteo 1:19b -- *...naufragaron en cuanto a la fe algunos*... Si rechazamos la fe y una buena conciencia, resultará en una **<u>caída</u>** espiritual, tal como sucedió con estos dos maestros que naufragaron en cuanto a la fe.
 
 #####                1.  Note que no fue su salvación la que sufrió naufragio, sino su **<u>fe</u>**.
 
@@ -1340,7 +1340,7 @@ Note: Se llama la iglesia de Dios 12x (hech 28:28, 1 Cor 1:2, 10:32, 11:16, 11:2
 
 ####            d.  2 Timoteo 2:18 -- Himeneo estaba **<u>enseñando</u>** que la resurrección ya había tenido lugar, y al hacerlo, trastornó la fe de algunos.
 
-###        3.  1 Timoteo 1:20b -- \...*a quienes entregué a **<u>Satanás</u>***\... Pablo entregó a Himeneo y Alejandro a Satanás *para que aprendan a no blasfemar*.
+###        3.  1 Timoteo 1:20b -- *...a quienes entregué a __<u>Satanás</u>__*... Pablo entregó a Himeneo y Alejandro a Satanás *para que aprendan a no blasfemar.*
 
 ####            a.  Cuando alguien es disciplinado por la iglesia, es **<u>removido</u>** de la protección provista por pertenecer a una iglesia local.
 
