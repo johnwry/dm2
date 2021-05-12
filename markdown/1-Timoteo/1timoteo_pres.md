@@ -1300,7 +1300,7 @@ Note: Se llama la iglesia de Dios 12x (hech 28:28, 1 Cor 1:2, 10:32, 11:16, 11:2
 
 ##    C.  1 Timoteo 1:18-19a -- Un mandato a pelear
 
-###        1.  1 Timoteo 1:18a -- *Este mandamiento*... Esto se refiere nuevamente a las instrucciones de Pablo para Timoteo de que se quedase en *Éfeso*, para que **<u>mandase</u>** *a algunos que no enseñen diferente doctrina, ni presten atención a fábulas y genealogías interminables.* 1 Timoteo 1:3-4
+###        1.  1 Timoteo 1:18a -- *Este mandamiento...* Esto se refiere nuevamente a las instrucciones de Pablo para Timoteo de que se quedase en *Éfeso*, para que **<u>mandase</u>** *a algunos que no enseñen diferente doctrina, ni presten atención a fábulas y genealogías interminables.* 1 Timoteo 1:3-4
 
 ###        2.  1 Timoteo 1:18b -- *...hijo Timoteo, te encargo, para que conforme a las profecías que se hicieron antes en cuanto a ti...* Pablo le había **<u>confiado</u>** estas responsabilidades a Timoteo porque reconoció el llamado y el don de Dios de Timoteo. 1 Timoteo 4:14
 
