@@ -964,7 +964,7 @@ ___
 
 ###### i) Por lo tanto, aparte de la fe en Cristo, no hay forma de obtener el regalo __<u>gratuito</u>__ de la vida eterna. Hechos 4:12, Efesios 2:5, Romanos 6:23
 
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/spot/spot1.png" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/spot/spotlight1.png" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
 <svg width="1280" height="720" version="1.1" viewBox="0 0 338.7 190.5" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
  <g>
   <g id="verse" transform="translate(10.4 -1.2)">
