@@ -930,7 +930,7 @@ ___
 
 ###### d) Debido a la profecía de Agabo, la iglesia en Antioquía envió una ofrenda a los santos pobres de Jerusalén, que probablemente hubiera sido justo __<u>antes</u>__ del comienzo de la hambruna en el año 45 o 46 d. C.
 
-##### 3) Gálatas 2:2b -- Pablo aprovechó este viaje a Jerusalén para exponer claramente el evangelio que él predicaba ante ellos. "...expuse \...*el evangelio que __<u>predico</u>__ entre los gentiles*".
+##### 3) Gálatas 2:2b -- Pablo aprovechó este viaje a Jerusalén para exponer claramente el evangelio que él predicaba ante ellos. "*...expuse...el evangelio que __<u>predico</u>__ entre los gentiles*".
 
 ###### a) Gálatas 2:2c -- "...*y para no correr o haber corrido en vano, expuse en privado a los que tenían cierta reputación el evangelio\...".* ¡Pablo no creía que su evangelio estuviera __<u>equivocado</u>__! Él había recibido su evangelio directamente de Jesucristo. 1 Corintios 9:16-17, Efesios 3:1-6, Gálatas 1:11-12
 
@@ -964,7 +964,21 @@ ___
 
 ###### i) Por lo tanto, aparte de la fe en Cristo, no hay forma de obtener el regalo __<u>gratuito</u>__ de la vida eterna. Hechos 4:12, Efesios 2:5, Romanos 6:23
 
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/spot/spot.001.jpeg" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/spot/spot1.png" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
+<svg width="1280" height="720" version="1.1" viewBox="0 0 338.7 190.5" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <g>
+  <g id="verse" transform="translate(10.4 -1.2)">
+   <rect x="151.9" y="7.879" width="163" height="106.9" rx="15.47" ry="6.198" fill="#fffe00" fill-rule="evenodd" stroke-width="0"/>
+   <text transform="scale(1.012 .9878)" x="160.88031" y="19.765429" fill="#000000" font-family="Baskerville" font-size="10.34px" stroke-width=".2585" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25" xml:space="preserve"><tspan x="160.88031" y="19.765429" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">Y cuando él venga, convencerá al </tspan><tspan x="160.88031" y="32.692303" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">mundo de pecado, de justicia y de </tspan><tspan x="160.88031" y="45.619179" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">juicio. De pecado, por cuanto no </tspan><tspan x="160.88031" y="58.546055" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">creen en mí; de justicia, por </tspan><tspan x="160.88031" y="71.472931" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">cuanto voy al Padre, y no me </tspan><tspan x="160.88031" y="84.399803" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">veréis más; y de juicio, por cuanto </tspan><tspan x="160.88031" y="97.326683" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">el príncipe de este mundo ha sido </tspan><tspan x="160.88031" y="110.25356" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">ya juzgado. Juan 16:8-11</tspan></text>
+  </g>
+  <g fill="#000000" font-family="sans-serif" font-weight="bold" stroke-width=".2646">
+   <text id="justicia" transform="rotate(50.88)" x="121.29979" y="15.367152" font-size="10.58px" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25" xml:space="preserve"><tspan x="121.29979" y="15.367152" font-family="sans-serif" font-size="10.58px" font-weight="bold" stroke-width=".2646" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">Justicia</tspan></text>
+   <text id="juicio" transform="rotate(45.83)" x="99.342163" y="13.072625" font-size="10.58px" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25" xml:space="preserve"><tspan x="99.342163" y="13.072625" font-family="sans-serif" font-size="10.58px" font-weight="bold" stroke-width=".2646" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">Juicio</tspan></text>
+   <text id="pecado" transform="rotate(44.97)" x="64.075783" y="3.3889098" font-size="10.58px" opacity="0" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25" xml:space="preserve"><tspan x="64.075783" y="3.3889098" font-family="sans-serif" font-size="10.58px" font-weight="bold" stroke-width=".2646" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">Pecado</tspan></text>
+  </g>
+  <text id="reference" x="71.196907" y="24.398939" fill="#fff500" font-family="sans-serif" font-size="10.58px" stroke-width=".2646" style="line-height:1.25" xml:space="preserve"><tspan x="71.196907" y="24.398939" fill="#fff500" stroke-width=".2646">Juan 16:8-11</tspan></text>
+ </g>
+</svg>
 
 <!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/spot/spot.002.jpeg" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
 
