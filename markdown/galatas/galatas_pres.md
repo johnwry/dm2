@@ -987,11 +987,9 @@ ___
  </g>
 </svg>
 
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/spot/spot.003.jpeg" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/spot/spotlight2.png" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
 
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/spot/spot.004.jpeg" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
 
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/spot/spot.005.jpeg" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
 
 ### 2. Gálatas 2:4-5 -- Pablo explicó por qué dialogó con los apóstoles sobre el evangelio. Se produjo debido a una confrontación que había __<u>encarado</u>__ con falsos creyentes de Jerusalén.
 
