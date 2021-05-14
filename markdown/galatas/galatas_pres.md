@@ -906,63 +906,63 @@ ___
 
 ## A. Gálatas 2:1-10 -- Pablo defendió en privado el evangelio en <u>Jerusalén</u>.
 
-### Gálatas 2:1-3 -- En algún punto en el tiempo, Pablo subió a Jerusalén y habló con los apóstoles, revelando el mensaje del evangelio que él predicaba con __<u>detalles</u>__ precisos.
+### 1. Gálatas 2:1-3 -- En algún punto en el tiempo, Pablo subió a Jerusalén y habló con los apóstoles, revelando el mensaje del evangelio que él predicaba con __<u>detalles</u>__ precisos.
 
-#### Gálatas 2:1 -- "*Después, pasados catorce __<u>años</u>__, subí otra vez a Jerusalén con Bernabé, llevando también conmigo a Tito"*.
+#### a. Gálatas 2:1 -- "*Después, pasados catorce __<u>años</u>__, subí otra vez a Jerusalén con Bernabé, llevando también conmigo a Tito"*.
 
-##### Este versículo podría significar que 14 años después de su __<u>salvación</u>__ subió a Jerusalén.
+##### 1) Este versículo podría significar que 14 años después de su __<u>salvación</u>__ subió a Jerusalén.
 
-##### Este versículo también podría significar que 14 años después de su primera __<u>visita</u>__ (de 2 semanas) regresó a Jerusalén.
+##### 2) Este versículo también podría significar que 14 años después de su primera __<u>visita</u>__ (de 2 semanas) regresó a Jerusalén.
 
-##### La mejor interpretación es que 14 años después de que la __<u>iglesia</u>__ hubo comenzado (30-34 d.C.), Pablo regresó a Jerusalén. Eso haría su visita alrededor de los años 44-47 d. C., que parece ser la mejor opción.
+##### 3) La mejor interpretación es que 14 años después de que la __<u>iglesia</u>__ hubo comenzado (30-34 d.C.), Pablo regresó a Jerusalén. Eso haría su visita alrededor de los años 44-47 d. C., que parece ser la mejor opción.
 
-#### Exceptuando la corta visita de dos semanas con Pedro, fue hasta unos catorce años después de que la iglesia existiera que Pablo finalmente se __<u>reunió</u>__ con los otros apóstoles y líderes en la iglesia de Jerusalén.
+#### b. Exceptuando la corta visita de dos semanas con Pedro, fue hasta unos catorce años después de que la iglesia existiera que Pablo finalmente se __<u>reunió</u>__ con los otros apóstoles y líderes en la iglesia de Jerusalén.
 
-##### Gálatas 2:1 -- Pablo fue a Jerusalén con Bernabé y __<u>Tito</u>__, un creyente gentil.
+##### 1) Gálatas 2:1 -- Pablo fue a Jerusalén con Bernabé y __<u>Tito</u>__, un creyente gentil.
 
-##### Gálatas 2:2a -- Este __<u>viaje</u>__ se basó en algo que Dios había revelado. "*Pero subí según una revelación...".*
+##### 2) Gálatas 2:2a -- Este __<u>viaje</u>__ se basó en algo que Dios había revelado. "*Pero subí según una revelación...".*
 
-###### Esto probablemente se refería a la __<u>hambruna</u>__ del 46 - 47 d.C. que Agabo predijo que sucedería en Hechos 11:27-30 durante el reinado de César Claudio.
+###### a) Esto probablemente se refería a la __<u>hambruna</u>__ del 46 - 47 d.C. que Agabo predijo que sucedería en Hechos 11:27-30 durante el reinado de César Claudio.
 
-###### El historiador Orosio habló de la hambruna en __<u>Siria</u>__ que, según él, ocurrió en el año 46 y 47 d. C.
+###### b) El historiador Orosio habló de la hambruna en __<u>Siria</u>__ que, según él, ocurrió en el año 46 y 47 d. C.
 
-###### Claudio reinó como emperador de __<u>Roma</u>__ desde el año 41-54 d. C.
+###### c) Claudio reinó como emperador de __<u>Roma</u>__ desde el año 41-54 d. C.
 
-###### Debido a la profecía de Agabo, la iglesia en Antioquía envió una ofrenda a los santos pobres de Jerusalén, que probablemente hubiera sido justo __<u>antes</u>__ del comienzo de la hambruna en el año 45 o 46 d. C.
+###### d) Debido a la profecía de Agabo, la iglesia en Antioquía envió una ofrenda a los santos pobres de Jerusalén, que probablemente hubiera sido justo __<u>antes</u>__ del comienzo de la hambruna en el año 45 o 46 d. C.
 
-##### Gálatas 2:2b -- Pablo aprovechó este viaje a Jerusalén para exponer claramente el evangelio que él predicaba ante ellos. "...expuse \...*el evangelio que __<u>predico</u>__ entre los gentiles*".
+##### 3) Gálatas 2:2b -- Pablo aprovechó este viaje a Jerusalén para exponer claramente el evangelio que él predicaba ante ellos. "...expuse \...*el evangelio que __<u>predico</u>__ entre los gentiles*".
 
-###### Gálatas 2:2c -- "...*y para no correr o haber corrido en vano, expuse en privado a los que tenían cierta reputación el evangelio\...".* ¡Pablo no creía que su evangelio estuviera __<u>equivocado</u>__! Él había recibido su evangelio directamente de Jesucristo. 1 Corintios 9:16-17, Efesios 3:1-6, Gálatas 1:11-12
+###### a) Gálatas 2:2c -- "...*y para no correr o haber corrido en vano, expuse en privado a los que tenían cierta reputación el evangelio\...".* ¡Pablo no creía que su evangelio estuviera __<u>equivocado</u>__! Él había recibido su evangelio directamente de Jesucristo. 1 Corintios 9:16-17, Efesios 3:1-6, Gálatas 1:11-12
 
-###### Gálatas 2:2c -- La preocupación de Pablo era que su __<u>viaje</u>__ a Jerusalén hubiera sido una pérdida de tiempo si ellos no estaban de acuerdo. "\...*para no correr o haber corrido en vano..."*.
+###### b) Gálatas 2:2c -- La preocupación de Pablo era que su __<u>viaje</u>__ a Jerusalén hubiera sido una pérdida de tiempo si ellos no estaban de acuerdo. "\...*para no correr o haber corrido en vano..."*.
 
-###### Desde la perspectiva de Pablo, su __<u>visita</u>__ se desperdiciaría si los apóstoles no estuvieran de acuerdo con el evangelio que él predicaba.
+###### c) Desde la perspectiva de Pablo, su __<u>visita</u>__ se desperdiciaría si los apóstoles no estuvieran de acuerdo con el evangelio que él predicaba.
 
-###### Pablo no estaba a punto de __<u>cambiar</u>__ el mensaje del evangelio. Él nunca cambiaría el evangelio para complacer a ningún hombre o grupo de hombres. Gálatas 1:6-10, 15-16
+###### d) Pablo no estaba a punto de __<u>cambiar</u>__ el mensaje del evangelio. Él nunca cambiaría el evangelio para complacer a ningún hombre o grupo de hombres. Gálatas 1:6-10, 15-16
 
-#### Gálatas 2:3 -- Los apóstoles obviamente estuvieron de __<u>acuerdo</u>__ con Pablo con respecto al evangelio que predicaba porque no requirieron que Tito, un creyente gentil, fuera circuncidado. Hechos 15:1
+#### c. Gálatas 2:3 -- Los apóstoles obviamente estuvieron de __<u>acuerdo</u>__ con Pablo con respecto al evangelio que predicaba porque no requirieron que Tito, un creyente gentil, fuera circuncidado. Hechos 15:1
 
-##### Pablo presentó este __<u>hecho</u>__ para demostrar a sus destinatarios gálatas que la circuncisión no era considerada necesaria para la salvación ni por los apóstoles ni por los líderes de la iglesia en Jerusalén. Filipenses 3:2
+##### 1) Pablo presentó este __<u>hecho</u>__ para demostrar a sus destinatarios gálatas que la circuncisión no era considerada necesaria para la salvación ni por los apóstoles ni por los líderes de la iglesia en Jerusalén. Filipenses 3:2
 
-##### Lo mismo es cierto hoy. Tal como la circuncisión en aquellos días no salvaba, las buenas obras de cualquier índole no __<u>salvan</u>__ hoy.
+##### 2) Lo mismo es cierto hoy. Tal como la circuncisión en aquellos días no salvaba, las buenas obras de cualquier índole no __<u>salvan</u>__ hoy.
 
-###### Pasar adelante en un servicio religioso, levantar tu __<u>mano</u>__ en respuesta a una invitación, hacer una oración, confesar al Señor en público o firmar una tarjeta no puede salvar. Efesios 2:8-9
+###### a) Pasar adelante en un servicio religioso, levantar tu __<u>mano</u>__ en respuesta a una invitación, hacer una oración, confesar al Señor en público o firmar una tarjeta no puede salvar. Efesios 2:8-9
 
-###### Obras como confesar tus pecados, pedirle a Jesús que entre en tu __<u>corazón</u>__ o hacerlo el Señor de tu vida, no salva. Romanos 3:28, 4:5; 2 Corintios 5:21
+###### b) Obras como confesar tus pecados, pedirle a Jesús que entre en tu __<u>corazón</u>__ o hacerlo el Señor de tu vida, no salva. Romanos 3:28, 4:5; 2 Corintios 5:21
 
-###### Ser bautizado, realizar __<u>rituales</u>__, tomar la comunión, ir a confesarse, ser confirmado o aprenderse el catecismo no puede salvar. Mateo 15:9, Tito 3:5
+###### c) Ser bautizado, realizar __<u>rituales</u>__, tomar la comunión, ir a confesarse, ser confirmado o aprenderse el catecismo no puede salvar. Mateo 15:9, Tito 3:5
 
-###### Cambiar el curso de tu __<u>vida</u>__, mostrar remordimiento por los pecados, llorar o realizar actos de contrición no salva. Mateo 27:3, Juan 6:20-21, Hechos 1:25
+###### d) Cambiar el curso de tu __<u>vida</u>__, mostrar remordimiento por los pecados, llorar o realizar actos de contrición no salva. Mateo 27:3, Juan 6:20-21, Hechos 1:25
 
-###### Obedecer la __<u>ley</u>__, tener buena conducta o realizar obras de servicio no salva. Gálatas 2:16, Hechos 15:10-11, Hechos 13:39, Romanos 3:20
+###### e) Obedecer la __<u>ley</u>__, tener buena conducta o realizar obras de servicio no salva. Gálatas 2:16, Hechos 15:10-11, Hechos 13:39, Romanos 3:20
 
-###### Experiencias tales como ser tocado por el espíritu, hablar en lenguas, tener a alguien orando __<u>sobre</u>__ ti o tener alguna experiencia misteriosa no puede salvar. 2 Corintios 11:4
+###### f) Experiencias tales como ser tocado por el espíritu, hablar en lenguas, tener a alguien orando __<u>sobre</u>__ ti o tener alguna experiencia misteriosa no puede salvar. 2 Corintios 11:4
 
-###### La __<u>fe</u>__ en la persona de Cristo (el Dios-Hombre) y Su obra perfecta de morir por tus pecados y resucitar de entre los muertos es la respuesta precisa que Dios requiere del pecador para salvación. Gálatas 2:16, 1 Corintios 15:3-4, 11
+###### g) La __<u>fe</u>__ en la persona de Cristo (el Dios-Hombre) y Su obra perfecta de morir por tus pecados y resucitar de entre los muertos es la respuesta precisa que Dios requiere del pecador para salvación. Gálatas 2:16, 1 Corintios 15:3-4, 11
 
-###### Su obra de morir por nuestros pecados es la única __<u>provisión</u>__ de Dios para nuestra salvación. Romanos 3:24, 28
+###### h) Su obra de morir por nuestros pecados es la única __<u>provisión</u>__ de Dios para nuestra salvación. Romanos 3:24, 28
 
-###### Por lo tanto, aparte de la fe en Cristo, no hay forma de obtener el regalo __<u>gratuito</u>__ de la vida eterna. Hechos 4:12, Efesios 2:5, Romanos 6:23
+###### i) Por lo tanto, aparte de la fe en Cristo, no hay forma de obtener el regalo __<u>gratuito</u>__ de la vida eterna. Hechos 4:12, Efesios 2:5, Romanos 6:23
 
 <!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/spot/spot.001.jpeg" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
 
@@ -974,13 +974,13 @@ ___
 
 <!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/spot/spot.005.jpeg" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
 
-### Gálatas 2:4-5 -- Pablo explicó por qué dialogó con los apóstoles sobre el evangelio. Se produjo debido a una confrontación que había __<u>encarado</u>__ con falsos creyentes de Jerusalén.
+### 2. Gálatas 2:4-5 -- Pablo explicó por qué dialogó con los apóstoles sobre el evangelio. Se produjo debido a una confrontación que había __<u>encarado</u>__ con falsos creyentes de Jerusalén.
 
-#### Gálatas 2:4 -- Algunos __<u>espías</u>__ judíos se habían infiltrado en la iglesia de Antioquía con el fin de investigar la libertad que los creyentes tenían en Cristo. A los legalistas siempre les encanta espiar la libertad de aquellos que han abrazado la gracia.
+#### a. Gálatas 2:4 -- Algunos __<u>espías</u>__ judíos se habían infiltrado en la iglesia de Antioquía con el fin de investigar la libertad que los creyentes tenían en Cristo. A los legalistas siempre les encanta espiar la libertad de aquellos que han abrazado la gracia.
 
-##### Gálatas 2:4a -- Estos individuos eran engañosos. Pablo y Bernabé ni siquiera consideraron a estos hombres como __<u>verdaderos</u>__ creyentes en Cristo. "\...*a pesar de los falsos hermanos...".*
+##### 1) Gálatas 2:4a -- Estos individuos eran engañosos. Pablo y Bernabé ni siquiera consideraron a estos hombres como __<u>verdaderos</u>__ creyentes en Cristo. "\...*a pesar de los falsos hermanos...".*
 
-##### Gálatas 2:4b -- Eran __<u>topos</u>__. Los legalistas entran como agentes secretos. "*\...introducidos a escondidas, que entraban para espiar*...".
+##### 2) Gálatas 2:4b -- Eran __<u>topos</u>__. Los legalistas entran como agentes secretos. "*\...introducidos a escondidas, que entraban para espiar*...".
 
 <!-- .slide: data-background-color="black" data-auto-animate="" style="color:white;"-->
 ### 7 PASOS PARA CONVERTIRSE EN LEGALISTA <!-- .element: style="color:white;" -->
@@ -999,57 +999,57 @@ ___
 - Castiga los perdedores
 <!-- .element: class="fragment" -->
 
-##### Gálatas 2:4c -- Eran maliciosos. Estos legalistas querían subyugar a los creyentes para hacerlos __<u>esclavos</u>__. "\...*para reducirnos a esclavitud*".
+##### 3) Gálatas 2:4c -- Eran maliciosos. Estos legalistas querían subyugar a los creyentes para hacerlos __<u>esclavos</u>__. "\...*para reducirnos a esclavitud*".
 
-#### Gálatas 2:5 -- Pablo y Bernabé defendieron __<u>fuertemente</u>__ el evangelio.
+####  b. Gálatas 2:5 -- Pablo y Bernabé defendieron __<u>fuertemente</u>__ el evangelio.
 
-##### Gálatas 2:5a -- Cuando se trataba del legalismo, Pablo y Bernabé eran inflexibles. No vacilaron ni __<u>dieron</u>__ ninguna oportunidad a este evangelio falso y legalista "...*ni por un momento..."*.
+##### 1) Gálatas 2:5a -- Cuando se trataba del legalismo, Pablo y Bernabé eran inflexibles. No vacilaron ni __<u>dieron</u>__ ninguna oportunidad a este evangelio falso y legalista "...*ni por un momento..."*.
 
-##### Gálatas 2:5b -- Cuando se trataba del legalismo, eran inamovibles. Pablo y Bernabé eran inflexibles con la __<u>verdad</u>__. "*a los cuales ni por un momento accedimos a someternos..."*.
+##### 2) Gálatas 2:5b -- Cuando se trataba del legalismo, eran inamovibles. Pablo y Bernabé eran inflexibles con la __<u>verdad</u>__. "*a los cuales ni por un momento accedimos a someternos..."*.
 
-##### Gálatas 2:5c -- Pablo y Bernabé fueron muy intencionales en su conflicto contra el legalismo. Hicieron todo los esfuerzos para mantener la verdad del evangelio __<u>intacta</u>__ por el bien de los gálatas y otros. "\...*para que la verdad del evangelio permaneciese con vosotros\"*. Pablo también incluyó a los gálatas.
+##### 3) Gálatas 2:5c -- Pablo y Bernabé fueron muy intencionales en su conflicto contra el legalismo. Hicieron todo los esfuerzos para mantener la verdad del evangelio __<u>intacta</u>__ por el bien de los gálatas y otros. "\...*para que la verdad del evangelio permaneciese con vosotros\"*. Pablo también incluyó a los gálatas.
 
-### Gálatas 2:6-10 -- Pablo describió cómo los __<u>líderes</u>__ (los apóstoles y los ancianos) en la iglesia de Jerusalén confirmaron y respaldaron su apostolado.
+### 3. Gálatas 2:6-10 -- Pablo describió cómo los __<u>líderes</u>__ (los apóstoles y los ancianos) en la iglesia de Jerusalén confirmaron y respaldaron su apostolado.
 
-#### Gálatas 2:6-8 -- El ministerio y el mensaje de Pablo fueron afirmados por los líderes de la __<u>iglesia</u>__ en Jerusalén.
+#### a. Gálatas 2:6-8 -- El ministerio y el mensaje de Pablo fueron afirmados por los líderes de la __<u>iglesia</u>__ en Jerusalén.
 
-##### Gálatas 2:6 -- Pablo sostuvo que los líderes de reputación en Jerusalén no __<u>agregaron</u>__ nada a su mensaje o ministerio.
+##### 1) Gálatas 2:6 -- Pablo sostuvo que los líderes de reputación en Jerusalén no __<u>agregaron</u>__ nada a su mensaje o ministerio.
 
-###### Gálatas 2:6a -- Cuando se trataba de la verdad del evangelio, a Pablo no le importaba lo que otros líderes pensaran. Él se aferró firmemente a lo que Cristo le había __<u>mostrado</u>__. 1 Corintios 15:3-4, Gálatas 1:11-12, 16, Efesios 3:3
+###### a) Gálatas 2:6a -- Cuando se trataba de la verdad del evangelio, a Pablo no le importaba lo que otros líderes pensaran. Él se aferró firmemente a lo que Cristo le había __<u>mostrado</u>__. 1 Corintios 15:3-4, Gálatas 1:11-12, 16, Efesios 3:3
 
-###### Gálatas 2:6b -- Sabiendo que Dios no era __<u>parcial</u>__ a los líderes en Jerusalén, Pablo no vio su evangelio (que había recibido de Cristo) como sujeto a sus opiniones. Con respecto a estos líderes, Pablo declaró: "...*lo que hayan sido en otro tiempo nada me importa; Dios no hace acepción de personas*...\".
+###### b) Gálatas 2:6b -- Sabiendo que Dios no era __<u>parcial</u>__ a los líderes en Jerusalén, Pablo no vio su evangelio (que había recibido de Cristo) como sujeto a sus opiniones. Con respecto a estos líderes, Pablo declaró: "...*lo que hayan sido en otro tiempo nada me importa; Dios no hace acepción de personas*...\".
 
-##### Gálatas 2:7 -- Los principales líderes en Jerusalén reconocieron la asignación de Pablo para __<u>predicar</u>__ el evangelio entre los gentiles, tal como reconocían a Pedro como un heraldo del evangelio a Israel.
+##### 2) Gálatas 2:7 -- Los principales líderes en Jerusalén reconocieron la asignación de Pablo para __<u>predicar</u>__ el evangelio entre los gentiles, tal como reconocían a Pedro como un heraldo del evangelio a Israel.
 
-##### Gálatas 2:8 -- Era obvio para todos que el Espíritu Santo, quien empoderó a Pedro en su ministerio del evangelio entre los judíos, __<u>también</u>__ estaba empoderando a Pablo en su ministerio del evangelio entre los gentiles. Romanos 11:13
+##### 3) Gálatas 2:8 -- Era obvio para todos que el Espíritu Santo, quien empoderó a Pedro en su ministerio del evangelio entre los judíos, __<u>también</u>__ estaba empoderando a Pablo en su ministerio del evangelio entre los gentiles. Romanos 11:13
 
-#### Gálatas 2:9a -- "*y reconociendo la gracia que me había sido dada\...".* Los apóstoles __<u>vieron</u>__ que Dios en su gracia había comisionado a Pablo predicar el evangelio a los gentiles.
+#### b. Gálatas 2:9a -- "*y reconociendo la gracia que me había sido dada\...".* Los apóstoles __<u>vieron</u>__ que Dios en su gracia había comisionado a Pablo predicar el evangelio a los gentiles.
 
-#### Gálatas 2:9b-10 -- Después de reconocer el apostolado de Pablo, los tres líderes prominentes de la iglesia les dieron a Pablo ..."*y a Bernabé la __<u>diestra</u>__ en señal de compañerismo...".*
+#### c. Gálatas 2:9b-10 -- Después de reconocer el apostolado de Pablo, los tres líderes prominentes de la iglesia les dieron a Pablo ..."*y a Bernabé la __<u>diestra</u>__ en señal de compañerismo...".*
 
-##### Gálatas 2:9b -- Dar "...*la diestra en señal de compañerismo..."* significaba que estos líderes estuvieron de acuerdo públicamente con Pablo y Bernabé. Esto claramente significó su aprobación y __<u>unidad</u>__ con Pablo y Bernabé con respecto al verdadero evangelio de la gracia. Colosenses 1:5-6
+##### 1) Gálatas 2:9b -- Dar "...*la diestra en señal de compañerismo..."* significaba que estos líderes estuvieron de acuerdo públicamente con Pablo y Bernabé. Esto claramente significó su aprobación y __<u>unidad</u>__ con Pablo y Bernabé con respecto al verdadero evangelio de la gracia. Colosenses 1:5-6
 
-##### Gálatas 2:9c -- Los líderes de la iglesia alentaron a Pablo y a Bernabé a continuar su ministerio del evangelio __<u>entre</u>__ los gentiles. "\...*para que nosotros fuésemos a los gentiles, y ellos a la circuncisión"*.
+##### 2) Gálatas 2:9c -- Los líderes de la iglesia alentaron a Pablo y a Bernabé a continuar su ministerio del evangelio __<u>entre</u>__ los gentiles. "\...*para que nosotros fuésemos a los gentiles, y ellos a la circuncisión"*.
 
-##### Gálatas 2:10a -- Los líderes de la iglesia hicieron una pequeña petición a Pablo y Bernabé que no tenía nada que ver con su mensaje. No les pidieron __<u>agregar</u>__ obras, circuncisión o cualquier otro elemento de la Ley de Moisés al mensaje de salvación.
+##### 3) Gálatas 2:10a -- Los líderes de la iglesia hicieron una pequeña petición a Pablo y Bernabé que no tenía nada que ver con su mensaje. No les pidieron __<u>agregar</u>__ obras, circuncisión o cualquier otro elemento de la Ley de Moisés al mensaje de salvación.
 
-##### Gálatas 2:10b -- Sólo le pidieron a Pablo y a Bernabé cuidar a los pobres. Esto fue exactamente lo que Pablo estaba haciendo en esta visita a Jerusalén. "\...*lo cual también procuré con diligencia* \[SPOUDAZO, aoristo, activo, indicativo\] *hacer"*. Hechos 11:26-30
+##### 4) Gálatas 2:10b -- Sólo le pidieron a Pablo y a Bernabé cuidar a los pobres. Esto fue exactamente lo que Pablo estaba haciendo en esta visita a Jerusalén. "\...*lo cual también procuré con diligencia* \[SPOUDAZO, aoristo, activo, indicativo\] *hacer"*. Hechos 11:26-30
 
 ## B. Gálatas 2:11-14 -- Pablo defendió públicamente el evangelio en <u>Antioquía</u>.
 
-### Gálatas 2:11-13 -- Pablo les contó a los gálatas acerca de un __<u>error</u>__ cometido por Pedro y cómo afectó negativamente a la iglesia y al evangelio.
+### 1. Gálatas 2:11-13 -- Pablo les contó a los gálatas acerca de un __<u>error</u>__ cometido por Pedro y cómo afectó negativamente a la iglesia y al evangelio.
 
-#### Gálatas 2:11-13 -- Cuando Pedro estuvo quedándose con la iglesia en Antioquía, __<u>comía</u>__ libremente en la misma mesa con los gentiles, pero tristemente, tras la llegada de algunos judíos de Jerusalén, Pedro se apartó de los cristianos gentiles.
+#### a. Gálatas 2:11-13 -- Cuando Pedro estuvo quedándose con la iglesia en Antioquía, __<u>comía</u>__ libremente en la misma mesa con los gentiles, pero tristemente, tras la llegada de algunos judíos de Jerusalén, Pedro se apartó de los cristianos gentiles.
 
-##### Primero hagamos algunas observaciones.
+##### 1) Primero hagamos algunas observaciones.
 
-###### Esta división, basada en el origen étnico (judío vs. gentil), no fue sólo una ofensa de una sola vez __<u>contra</u>__ algunos desafortunados cristianos gentiles. Pablo vio esto como una afrenta a la verdad del evangelio.
+###### a) Esta división, basada en el origen étnico (judío vs. gentil), no fue sólo una ofensa de una sola vez __<u>contra</u>__ algunos desafortunados cristianos gentiles. Pablo vio esto como una afrenta a la verdad del evangelio.
 
-###### El evangelio hace que cada individuo en Cristo sea __<u>igual</u>__ , únicamente basado en el favor inmerecido de Dios debido a la muerte y resurrección de Cristo y nada más. Efesios 2:14
+###### b) El evangelio hace que cada individuo en Cristo sea __<u>igual</u>__ , únicamente basado en el favor inmerecido de Dios debido a la muerte y resurrección de Cristo y nada más. Efesios 2:14
 
-###### Cuando Pedro se apartó de los gentiles incircuncisos, dio a entender que había mérito en la circuncisión y la ley judía. Estaba diciendo que debería haber una barrera entre los creyentes basada en el __<u>mérito</u>__ a través de los rituales.
+###### c) Cuando Pedro se apartó de los gentiles incircuncisos, dio a entender que había mérito en la circuncisión y la ley judía. Estaba diciendo que debería haber una barrera entre los creyentes basada en el __<u>mérito</u>__ a través de los rituales.
 
-###### Si bien Pedro pudo haber pensado que esto era sólo un problema cultural o social, su hipocresía en realidad confundió el mensaje del __<u>evangelio</u>__.
+###### d) Si bien Pedro pudo haber pensado que esto era sólo un problema cultural o social, su hipocresía en realidad confundió el mensaje del __<u>evangelio</u>__.
 
 ###### v. Pedro hizo que __<u>pareciera</u>__ que los judíos circuncidados eran más aceptables para Dios que los gentiles. Hechos 10:34, Gálatas 2:6b, Romanos 2:11, 1 Pedro 1:17
 
@@ -1057,47 +1057,47 @@ ___
 
 ###### vii. Estaba reconstruyendo __<u>muros</u>__ de buenas obras legalistas que habían sido destruidos al predicar el evangelio. Efesios 2:11-22
 
-###### Esta hipocresía se hizo más severa debido a la posición de Pedro como líder en la iglesia. El resultado fue que *aun Bernabé fue también __<u>arrastrado</u>__ por la hipocresía de ellos*. Gálatas 2:13
+###### e) Esta hipocresía se hizo más severa debido a la posición de Pedro como líder en la iglesia. El resultado fue que *aun Bernabé fue también __<u>arrastrado</u>__ por la hipocresía de ellos*. Gálatas 2:13
 
-##### Gálatas 2:11 -- Pedro conocía la __<u>verdad</u>__ pero era culpable de ser un hipócrita complaciente de hombres.
+##### 2) Gálatas 2:11 -- Pedro conocía la __<u>verdad</u>__ pero era culpable de ser un hipócrita complaciente de hombres.
 
-###### Gálatas 2:11 -- "*Pero cuando Pedro vino a Antioquía, le resistí __<u>cara</u>__ a cara, porque era de condenar"*.
+###### a) Gálatas 2:11 -- "*Pero cuando Pedro vino a Antioquía, le resistí __<u>cara</u>__ a cara, porque era de condenar"*.
 
 ###### viii. Esta palabra *condenar* KATAGINOSKO es encontrada sólo __<u>tres</u>__ veces en el Nuevo Testamento. Se deriva de la palabra compuesta de KATA que significa \"de acuerdo con\" y GINOSKO, que significa \"conocimiento experimental\"
 
 ###### ix. Pablo estaba diciendo que Pedro era decisivamente __<u>culpable</u>__ basado en el hecho de que tenía claro conocimiento que sus acciones eran erróneas.
 
-###### ¿Cómo sabía Pedro que lo que estaba haciendo estaba mal?
+###### b)  ¿Cómo sabía Pedro que lo que estaba haciendo estaba mal?
 
 ###### x. ¿Recuerdas la visión que Dios le dio a Pedro? Tres veces Dios lo repitió, mostrándole a Pedro que no debía __<u>llamar</u>__ impuro lo que Dios había limpiado. Hechos 10:28
 
 ###### xi. Pedro había sido el __<u>primero</u>__ en llevar el evangelio a los no judíos. Él claramente sabía que Dios aceptaba a los gentiles simplemente por medio de su fe en Cristo y nada más. Hechos 11:1-3, 18
 
-##### Gálatas 2:12 -- "*Pues antes que viniesen algunos de parte de Jacobo, comía con los gentiles\...".* La raíz del pecado de Pedro fue el __<u>temor</u>__ al hombre (los hombres que vinieron de Jacobo) en lugar del temor a Dios. Gálatas 1:10
+##### 3) Gálatas 2:12 -- "*Pues antes que viniesen algunos de parte de Jacobo, comía con los gentiles\...".* La raíz del pecado de Pedro fue el __<u>temor</u>__ al hombre (los hombres que vinieron de Jacobo) en lugar del temor a Dios. Gálatas 1:10
 
-###### Gálatas 2:12b -- Pedro estaba siendo un __<u>hombre</u>__ complaciente. Luchaba con el temor al hombre. *"...se retraía y se apartaba, porque tenía miedo de los de la circuncisión"*. Ver también Mateo 26:69-75
+###### a) Gálatas 2:12b -- Pedro estaba siendo un __<u>hombre</u>__ complaciente. Luchaba con el temor al hombre. *"...se retraía y se apartaba, porque tenía miedo de los de la circuncisión"*. Ver también Mateo 26:69-75
 
-###### Los líderes cristianos en particular nunca deberían tratar de complacer a los hombres al someterse a cualquier forma de legalismo. Esto siempre conducirá a un compromiso del mensaje del __<u>evangelio</u>__. 2 Timoteo 1:6-8
+###### b) Los líderes cristianos en particular nunca deberían tratar de complacer a los hombres al someterse a cualquier forma de legalismo. Esto siempre conducirá a un compromiso del mensaje del __<u>evangelio</u>__. 2 Timoteo 1:6-8
 
-##### Gálatas 2:13 -- El __<u>resultado</u>__ del legalismo es siempre la hipocresía. El resto de los judíos se unieron a él en hipocresía, con el resultado de que incluso Bernabé se dejó llevar por su hipocresía. 
+##### 4) Gálatas 2:13 -- El __<u>resultado</u>__ del legalismo es siempre la hipocresía. El resto de los judíos se unieron a él en hipocresía, con el resultado de que incluso Bernabé se dejó llevar por su hipocresía. 
 
-###### Siguiendo el __<u>ejemplo</u>__ de Pedro, los creyentes judíos se apartaron de los creyentes gentiles.
+###### a) Siguiendo el __<u>ejemplo</u>__ de Pedro, los creyentes judíos se apartaron de los creyentes gentiles.
 
-###### Tristemente, incluso Bernabé __<u>cayó</u>__ en este error mostrando lo engañoso que es el legalismo.
+###### b) Tristemente, incluso Bernabé __<u>cayó</u>__ en este error mostrando lo engañoso que es el legalismo.
 
-### Gálatas 2:14 -- Pablo confrontó a __<u>Pedro</u>__.
+### 2. Gálatas 2:14 -- Pablo confrontó a __<u>Pedro</u>__.
 
-#### Gálatas 2:14b -- Era de suma importancia mantener la __<u>verdad</u>__ del evangelio. "\...*no andaban rectamente conforme a la verdad del evangelio...".*
+#### a. Gálatas 2:14b -- Era de suma importancia mantener la __<u>verdad</u>__ del evangelio. "\...*no andaban rectamente conforme a la verdad del evangelio...".*
 
-#### Gálatas 2:14a-c -- En contraste con la discusión privada en Jerusalén (Gálatas 2:2), Pablo __<u>ahora</u>__ tuvo que confrontar a Pedro públicamente.
+#### b. Gálatas 2:14a-c -- En contraste con la discusión privada en Jerusalén (Gálatas 2:2), Pablo __<u>ahora</u>__ tuvo que confrontar a Pedro públicamente.
 
-##### Gálatas 2:14a -- "*Pero cuando vi\...".* Cada vez que Pablo notaba que un creyente caminaba en __<u>error</u>__, confrontaba el problema de frente. Gálatas 1:8
+##### 1) Gálatas 2:14a -- "*Pero cuando vi\...".* Cada vez que Pablo notaba que un creyente caminaba en __<u>error</u>__, confrontaba el problema de frente. Gálatas 1:8
 
-##### Gálatas 2:14b -- "...*que no andaban rectamente conforme a la verdad del evangelio\...".* Pablo honró su compromiso con Aquel que lo llamó a defender la __<u>verdad</u>__ del evangelio. Filipenses 1:16
+##### 2) Gálatas 2:14b -- "...*que no andaban rectamente conforme a la verdad del evangelio\...".* Pablo honró su compromiso con Aquel que lo llamó a defender la __<u>verdad</u>__ del evangelio. Filipenses 1:16
 
-##### Gálatas 2:14c -- "*...delante de todos\...".* Pablo denunció a Pedro en __<u>público</u>__. Gálatas 2:11
+##### 3) Gálatas 2:14c -- "*...delante de todos\...".* Pablo denunció a Pedro en __<u>público</u>__. Gálatas 2:11
 
-#### Gálatas 2:14d -- "*...¿por qué obligas a los gentiles a judaizar?".* Obviamente, a la luz de esta reprimenda, Pablo no vio a Pedro como el primer __<u>papa</u>__ de la iglesia que debería ser venerado y nunca reprendido. Gálatas 2:6
+#### c. Gálatas 2:14d -- "*...¿por qué obligas a los gentiles a judaizar?".* Obviamente, a la luz de esta reprimenda, Pablo no vio a Pedro como el primer __<u>papa</u>__ de la iglesia que debería ser venerado y nunca reprendido. Gálatas 2:6
 
 <!-- .slide: data-background-color="#00285A" style="color:white;" -->
 ### Características de **El Legalismo** 
@@ -1142,69 +1142,69 @@ El legalismo le quita el foco de Cristo y lo pone en el hombre y en sus esfuerzo
 
 ## A. Gálatas 2:15-16, 21 -- Examinemos <u>cuatro</u> principios clave de la justificación que Pablo transmitió a Pedro en esta conversación.
 
-### Gálatas 2:15 -- Principio uno: Toda persona en el mundo (judía o gentil) es igualmente __<u>pecaminosa</u>__ y, por lo tanto, necesita ser declarada legalmente justa por Dios para ser aceptada por Él.
+### 1. Gálatas 2:15 -- Principio uno: Toda persona en el mundo (judía o gentil) es igualmente __<u>pecaminosa</u>__ y, por lo tanto, necesita ser declarada legalmente justa por Dios para ser aceptada por Él.
 
-#### "*Nosotros, judíos de nacimiento, y no __<u>pecadores</u>__ de entre los gentiles.*". Pablo le dijo a Pedro una declaración común entre los judíos. Efesios 2:11
+#### a. "*Nosotros, judíos de nacimiento, y no __<u>pecadores</u>__ de entre los gentiles.*". Pablo le dijo a Pedro una declaración común entre los judíos. Efesios 2:11
 
-#### La forma en que él utilizó esta declaración peyorativa fue diseñada para __<u>condenar</u>__ profundamente a Pedro.
+#### b. La forma en que él utilizó esta declaración peyorativa fue diseñada para __<u>condenar</u>__ profundamente a Pedro.
 
-#### Pedro __<u>sabía</u>__ que todos, tanto judíos como gentiles, eran pecadores, pero por sus acciones estaba declarando lo contrario. Romanos 3:23
+#### c. Pedro __<u>sabía</u>__ que todos, tanto judíos como gentiles, eran pecadores, pero por sus acciones estaba declarando lo contrario. Romanos 3:23
 
-### Gálatas 2:16 -- Principio dos: Las personas son declaradas justas por Dios __<u>sin</u>__ (1) buenas obras, (2) guardar los Diez Mandamientos, o (3) un comportamiento cambiado. "...*el hombre **no es justificado por las obras de la ley**...".* Ver también Tito 3:5.
+### 2. Gálatas 2:16 -- Principio dos: Las personas son declaradas justas por Dios __<u>sin</u>__ (1) buenas obras, (2) guardar los Diez Mandamientos, o (3) un comportamiento cambiado. "...*el hombre **no es justificado por las obras de la ley**...".* Ver también Tito 3:5.
 
-#### Gálatas 2:16a -- Sabemos que una persona no está justificada ante Dios por buenas obras (obras de la Ley). "*sabiendo que el hombre **no es justificado por las <u>obras</u> de la ley**, sino por la fe de Jesucristo*..."
+#### a. Gálatas 2:16a -- Sabemos que una persona no está justificada ante Dios por buenas obras (obras de la Ley). "*sabiendo que el hombre **no es justificado por las <u>obras</u> de la ley**, sino por la fe de Jesucristo*..."
 
-#### Gálatas 2:16b -- Pablo dijo que sabemos que una persona no es justificada por guardar la __<u>Ley</u>__ sino por la fe en Cristo. "*...nosotros también hemos creído en Jesucristo, para ser justificados por la fe de Cristo **y no por las obras de la ley**...*"
+#### b. Gálatas 2:16b -- Pablo dijo que sabemos que una persona no es justificada por guardar la __<u>Ley</u>__ sino por la fe en Cristo. "*...nosotros también hemos creído en Jesucristo, para ser justificados por la fe de Cristo **y no por las obras de la ley**...*"
 
-#### Gálatas 2:16c -- ¿Por qué? La verdad es que por las obras de la Ley, ninguna persona en la tierra será jamás justificada ante Dios. "*...por cuanto **por las <u>obras</u> de la ley nadie será justificado**.*"
+#### c. Gálatas 2:16c -- ¿Por qué? La verdad es que por las obras de la Ley, ninguna persona en la tierra será jamás justificada ante Dios. "*...por cuanto **por las <u>obras</u> de la ley nadie será justificado**.*"
 
-### Gálatas 2:16d -- Principio tres: Una persona es declarada justa por __<u>Dios</u>__ en el momento en que cree en Cristo solamente. "*...nosotros también **hemos creído en Jesucristo**, **para ser justificados por la fe de Cristo** y no por las obras de la ley....*" Ver también Romanos 3:28, Hechos 15:10-11.
+### 3. Gálatas 2:16d -- Principio tres: Una persona es declarada justa por __<u>Dios</u>__ en el momento en que cree en Cristo solamente. "*...nosotros también **hemos creído en Jesucristo**, **para ser justificados por la fe de Cristo** y no por las obras de la ley....*" Ver también Romanos 3:28, Hechos 15:10-11.
 
-### Gálatas 2:21 -- Principio cuatro (que se halla en el versículo 21): Una persona es declarada justa ante Dios por __<u>gracia</u>__ debido a la muerte sustitutiva de Cristo. "*No desecho la gracia de Dios; pues si por la ley fuese la justicia, entonces por demás murió Cristo.*" Véase también Romanos 3:24.
+### 4. Gálatas 2:21 -- Principio cuatro (que se halla en el versículo 21): Una persona es declarada justa ante Dios por __<u>gracia</u>__ debido a la muerte sustitutiva de Cristo. "*No desecho la gracia de Dios; pues si por la ley fuese la justicia, entonces por demás murió Cristo.*" Véase también Romanos 3:24.
 
 ## B. Gálatas 2:17-18 -- La <u>conducta</u> de Pedro introdujo un dilema.
 
-### Gálatas 2:17 -- El error de separación de Pedro hizo que pareciera que __<u>Cristo</u>__ promovía el pecado.
+### 1. Gálatas 2:17 -- El error de separación de Pedro hizo que pareciera que __<u>Cristo</u>__ promovía el pecado.
 
-#### Al apartarse de los gentiles, Pedro dio a entender que su comportamiento de __<u>comer</u>__ con los gentiles había sido incorrecto. Hechos 11:1-3
+#### a. Al apartarse de los gentiles, Pedro dio a entender que su comportamiento de __<u>comer</u>__ con los gentiles había sido incorrecto. Hechos 11:1-3
 
-#### Si se hallaba que era pecado asociarse con gentiles, entonces __<u>Cristo</u>__, quien había derramado Su Espíritu sobre creyentes gentiles, habría estado promoviendo el pecado. Esto, por supuesto, era absurdo. Romanos 3:22, 29; 1 Corintios 7:19, 12:13
+#### b. Si se hallaba que era pecado asociarse con gentiles, entonces __<u>Cristo</u>__, quien había derramado Su Espíritu sobre creyentes gentiles, habría estado promoviendo el pecado. Esto, por supuesto, era absurdo. Romanos 3:22, 29; 1 Corintios 7:19, 12:13
 
-#### El pecado de Pedro hizo que Cristo parezca __<u>equivocado</u>__, una idea que es absolutamente insoportable. "*Y si buscando ser justificados en Cristo, también nosotros somos hallados pecadores, ¿es por eso Cristo ministro de pecado? En ninguna manera.*" 
+#### c. El pecado de Pedro hizo que Cristo parezca __<u>equivocado</u>__, una idea que es absolutamente insoportable. "*Y si buscando ser justificados en Cristo, también nosotros somos hallados pecadores, ¿es por eso Cristo ministro de pecado? En ninguna manera.*" 
 
-### Gálatas 2:18 -- Todo lo que Pedro demostró con sus acciones fue que él mismo era un __<u>pecador</u>__.
+### 2. Gálatas 2:18 -- Todo lo que Pedro demostró con sus acciones fue que él mismo era un __<u>pecador</u>__.
 
-#### Gálatas 2:18a -- "*Porque si las cosas que destruí, las mismas vuelvo a edificar\... .*" En lugar de llamar a Cristo un promotor del pecado, __<u>señalamos</u>__ a Pedro. Él estaba reconstruyendo los requisitos de la Ley, algo en lo que no había creído durante algún tiempo. 
+#### a. Gálatas 2:18a -- "*Porque si las cosas que destruí, las mismas vuelvo a edificar\... .*" En lugar de llamar a Cristo un promotor del pecado, __<u>señalamos</u>__ a Pedro. Él estaba reconstruyendo los requisitos de la Ley, algo en lo que no había creído durante algún tiempo. 
 
-#### Gálatas 2:18b -- "*...transgresor me hago.*" Puesto que Pedro estaba afirmando __<u>cosas</u>__ contradictorias por su hipocresía (primero comiendo con gentiles, luego retirándose), concluimos que él era el culpable, no Cristo. Romanos 3:4
+#### b. Gálatas 2:18b -- "*...transgresor me hago.*" Puesto que Pedro estaba afirmando __<u>cosas</u>__ contradictorias por su hipocresía (primero comiendo con gentiles, luego retirándose), concluimos que él era el culpable, no Cristo. Romanos 3:4
 
-##### Cristo es así exonerado, y __<u>Pedro</u>__ es señalado como el hipócrita. Hechos 11:17-18
+##### 1) Cristo es así exonerado, y __<u>Pedro</u>__ es señalado como el hipócrita. Hechos 11:17-18
 
-##### La conclusión es que el __<u>pecado</u>__ de no asociarse con los gentiles no fue algo trivial, sino más bien **una afrenta al evangelio de Jesucristo**. Él estaba insinuando que no todos somos uno en Cristo, algo con lo que el evangelio está en total desacuerdo. Gálatas 3:26-28, Efesios 2:11-22
+##### 2) La conclusión es que el __<u>pecado</u>__ de no asociarse con los gentiles no fue algo trivial, sino más bien **una afrenta al evangelio de Jesucristo**. Él estaba insinuando que no todos somos uno en Cristo, algo con lo que el evangelio está en total desacuerdo. Gálatas 3:26-28, Efesios 2:11-22
 
 ## C. Ahora tomaremos un momento para un <u>breve</u> estudio de la doctrina de la justificación.
 
-### Romanos 3:9-10 -- Existe una __<u>necesidad</u>__ universal de justificación ante Dios. Romanos 5:18-19
+### 1. Romanos 3:9-10 -- Existe una __<u>necesidad</u>__ universal de justificación ante Dios. Romanos 5:18-19
 
-#### Romanos 3:23 -- Dios dice que __<u>todo</u>__ humano está igualmente condenado por su pecado (Juan 3:17-19), bajo pecado (Romanos 3:9), injusto (Romanos 3:10) y culpable. Romanos 3:19
+#### a. Romanos 3:23 -- Dios dice que __<u>todo</u>__ humano está igualmente condenado por su pecado (Juan 3:17-19), bajo pecado (Romanos 3:9), injusto (Romanos 3:10) y culpable. Romanos 3:19
 
-#### Romanos 3:11-12 -- No existe una persona justa. Toda persona se ha __<u>desviado</u>__ y se ha vuelto inútil. No hay nadie que haga buenas obras, ni siquiera uno.
+#### b. Romanos 3:11-12 -- No existe una persona justa. Toda persona se ha __<u>desviado</u>__ y se ha vuelto inútil. No hay nadie que haga buenas obras, ni siquiera uno.
 
-#### Cualquier intento por parte del __<u>hombre</u>__ de justificarse ante Dios no es más que trapos de inmundicia (Isaías 64:6), o basura. Filipenses 3:8
+#### c. Cualquier intento por parte del __<u>hombre</u>__ de justificarse ante Dios no es más que trapos de inmundicia (Isaías 64:6), o basura. Filipenses 3:8
 
-### Romanos 3:21-27 -- La justificación es un término forense y __<u>legal</u>__ que significa ser declarado legalmente justo. 
+### 2. Romanos 3:21-27 -- La justificación es un término forense y __<u>legal</u>__ que significa ser declarado legalmente justo. 
 
-#### Esencialmente, una vez que la ley te declara __<u>justo</u>__, no existe nada mayor para anular esa declaración.
+#### a. Esencialmente, una vez que la ley te declara __<u>justo</u>__, no existe nada mayor para anular esa declaración.
 
-#### Una persona es justa o injusta en su posición __<u>ante</u>__ Dios. Juan 5:24, 1 Corintios 6:11
+#### b. Una persona es justa o injusta en su posición __<u>ante</u>__ Dios. Juan 5:24, 1 Corintios 6:11
 
-### Romanos 8:33-34 -- La __<u>base</u>__ para nuestra justificación ante Dios es la muerte de Jesús en la cruz.
+### 3. Romanos 8:33-34 -- La __<u>base</u>__ para nuestra justificación ante Dios es la muerte de Jesús en la cruz.
 
-#### Somos justificados por la __<u>obra</u>__ de Cristo. Romanos 3:24-26
+#### a. Somos justificados por la __<u>obra</u>__ de Cristo. Romanos 3:24-26
 
-#### 2 Corintios 5:21 -- "*Al que no conoció pecado, por nosotros lo hizo pecado, para que nosotros fuésemos hechos justicia de Dios en él".* Jesús __<u>murió</u>__ por nuestro pecado en nuestro nombre. Romanos 4:25
+#### b. 2 Corintios 5:21 -- "*Al que no conoció pecado, por nosotros lo hizo pecado, para que nosotros fuésemos hechos justicia de Dios en él".* Jesús __<u>murió</u>__ por nuestro pecado en nuestro nombre. Romanos 4:25
 
-#### Romanos 3:25 -- La muerte de Jesús fue satisfactoria para Dios el Padre; __<u>pagó</u>__ completamente la pena del pecado.
+#### c. Romanos 3:25 -- La muerte de Jesús fue satisfactoria para Dios el Padre; __<u>pagó</u>__ completamente la pena del pecado.
 
 <!-- .slide: data-background-color="white" -->
 ### JUSTIFICADO
@@ -1232,59 +1232,59 @@ El legalismo le quita el foco de Cristo y lo pone en el hombre y en sus esfuerzo
  </g>
 </svg>
 
-### ¿Cuál es el método por el cual somos justificados?
+### 4. ¿Cuál es el método por el cual somos justificados?
 
-#### Cuando somos justificados, la justicia de Dios nos es acreditada. Esta bendición proviene de nuestra __<u>unión</u>__ posicional con Cristo. Génesis 15:6, Romanos 5:1, 9:30; Filipenses 3:9
+#### a. Cuando somos justificados, la justicia de Dios nos es acreditada. Esta bendición proviene de nuestra __<u>unión</u>__ posicional con Cristo. Génesis 15:6, Romanos 5:1, 9:30; Filipenses 3:9
 
-#### Nuestra unión posicional con Cristo y Su justicia imputada son obtenidas exclusivamente por la __<u>gracia</u>__ de Dios en el momento de la salvación. Romanos 4:3-5, 1 Corintios 1:30
+####  b. Nuestra unión posicional con Cristo y Su justicia imputada son obtenidas exclusivamente por la __<u>gracia</u>__ de Dios en el momento de la salvación. Romanos 4:3-5, 1 Corintios 1:30
 
-#### La justificación implica que ahora se __<u>te</u>__ ha otorgado la justicia de Cristo, y como resultado, la ira de Dios contra ti terminó. Romanos 3:24-25, 5:1, Hechos 10:43, 1 Pedro 3:18
+#### c. La justificación implica que ahora se __<u>te</u>__ ha otorgado la justicia de Cristo, y como resultado, la ira de Dios contra ti terminó. Romanos 3:24-25, 5:1, Hechos 10:43, 1 Pedro 3:18
 
-### Los métodos por los cuales NO somos justificados.
+### 5. Los métodos por los cuales NO somos justificados.
 
-#### Somos justificados por la __<u>gracia</u>__ de Dios y no por ningún mérito humano. Romanos 3:24, Tito 3:5-7 
+#### a. Somos justificados por la __<u>gracia</u>__ de Dios y no por ningún mérito humano. Romanos 3:24, Tito 3:5-7 
 
-#### Ser declarado justo no tiene nada que ver con tu __<u>conducta</u>__, ya sea buena o mala, antes o después de tu salvación. 1 Corintios 1:30, Romanos 3:28, Gálatas 2:16, Hechos 15:11
+#### b. Ser declarado justo no tiene nada que ver con tu __<u>conducta</u>__, ya sea buena o mala, antes o después de tu salvación. 1 Corintios 1:30, Romanos 3:28, Gálatas 2:16, Hechos 15:11
 
-#### Ser declarado justo no tiene nada que ver con tu __<u>obediencia</u>__ a los Diez Mandamientos. 1 Corintios 1:30; Romanos 3:20, 28; 10:4
+#### c. Ser declarado justo no tiene nada que ver con tu __<u>obediencia</u>__ a los Diez Mandamientos. 1 Corintios 1:30; Romanos 3:20, 28; 10:4
 
-#### Ser declarado justo no se logra a través de nuestros __<u>sentimientos</u>__ o emociones.
+#### d. Ser declarado justo no se logra a través de nuestros __<u>sentimientos</u>__ o emociones.
 
-#### Ser declarado justo no __<u>significa</u>__ que una persona o una organización te haya declarado justo ante Dios. Romanos 3:24-26
+#### e. Ser declarado justo no __<u>significa</u>__ que una persona o una organización te haya declarado justo ante Dios. Romanos 3:24-26
 
-### Los medios de justificación ante Dios son solamente por __<u>fe</u>__ en Cristo únicamente. Romanos 1:17
+### 6. Los medios de justificación ante Dios son solamente por __<u>fe</u>__ en Cristo únicamente. Romanos 1:17
 
-#### La __<u>única</u>__ forma de que se te acredite la justicia de Dios es por fe en Cristo Jesús (sin obras). Romanos 1:16-17, 3:27-28, 4:4-5; Gálatas 2:16
+#### a. La __<u>única</u>__ forma de que se te acredite la justicia de Dios es por fe en Cristo Jesús (sin obras). Romanos 1:16-17, 3:27-28, 4:4-5; Gálatas 2:16
 
-#### La fe no es una obra meritoria por la cual Dios te __<u>recompensa</u>__ justificándote. Romanos 4:6-8
+#### b. La fe no es una obra meritoria por la cual Dios te __<u>recompensa</u>__ justificándote. Romanos 4:6-8
 
-#### Romanos 4:5 -- La fe es más bien la cesación de tu __<u>trabajo</u>__ y la colocación de tu total dependencia en la obra de Dios a tu favor.
+#### c. Romanos 4:5 -- La fe es más bien la cesación de tu __<u>trabajo</u>__ y la colocación de tu total dependencia en la obra de Dios a tu favor.
 
-#### La fe es el único __<u>medio</u>__ apropiado de justificación porque es consistente con la gracia de Dios. Romanos 4:16, 11:6, Efesios 2:8-9
+#### d. La fe es el único __<u>medio</u>__ apropiado de justificación porque es consistente con la gracia de Dios. Romanos 4:16, 11:6, Efesios 2:8-9
 
-#### ¿__<u>Cuánta</u>__ fe necesitas para ser salvo? Jesús utilizó una vez la __<u>frase</u>__ fe *como un grano de mostaza* para mostrar que el valor de la fe no es su *cantidad* o tamaño. Mateo 17:20
+#### e. ¿__<u>Cuánta</u>__ fe necesitas para ser salvo? Jesús utilizó una vez la __<u>frase</u>__ fe *como un grano de mostaza* para mostrar que el valor de la fe no es su *cantidad* o tamaño. Mateo 17:20
 
-#### ¿Qué __<u>tipo</u>__ de fe necesitas para ser salvo?
+#### f. ¿Qué __<u>tipo</u>__ de fe necesitas para ser salvo?
 
-##### Aunque somos salvos por fe, no existe tal cosa como \"la fe __<u>salvadora</u>__\". La Biblia no enseña tal concepto o siquiera utiliza el término.
+##### 1) Aunque somos salvos por fe, no existe tal cosa como \"la fe __<u>salvadora</u>__\". La Biblia no enseña tal concepto o siquiera utiliza el término.
 
-##### La fe es la simple creencia de que lo que Dios dice es verdad. Según Hebreos 11:1, la __<u>fe</u>__ es *la convicción de lo que no se ve*. Juan 3:32-34; Romanos 4:21, 10:17
+##### 2) La fe es la simple creencia de que lo que Dios dice es verdad. Según Hebreos 11:1, la __<u>fe</u>__ es *la convicción de lo que no se ve*. Juan 3:32-34; Romanos 4:21, 10:17
 
-##### La fe que salva no es un __<u>tipo</u>__ especial de fe, sino más bien fe en el objeto y contenido correcto. 
+##### 3) La fe que salva no es un __<u>tipo</u>__ especial de fe, sino más bien fe en el objeto y contenido correcto. 
 
-###### El __<u>objeto</u>__ propio de la fe es Jesucristo. *Cree en el Señor Jesucristo, y serás salvo*. Hechos 16:31 Véase también Romanos 3:22 y 1 Pedro 1:20-21.
+###### a) El __<u>objeto</u>__ propio de la fe es Jesucristo. *Cree en el Señor Jesucristo, y serás salvo*. Hechos 16:31 Véase también Romanos 3:22 y 1 Pedro 1:20-21.
 
-###### El __<u>contenido</u>__ apropiado de la fe es la muerte de Jesús por nuestros pecados y la posterior resurrección. 1 Corintios 15:3-4
+###### b) El __<u>contenido</u>__ apropiado de la fe es la muerte de Jesús por nuestros pecados y la posterior resurrección. 1 Corintios 15:3-4
 
-###### Que Dios te diga que hay salvación en Su __<u>Hijo</u>__ o una persona diciéndote que este edificio no colapsará sobre tu cabeza, requieren esencialmente el mismo tipo de respuesta de fe. 
+###### c) Que Dios te diga que hay salvación en Su __<u>Hijo</u>__ o una persona diciéndote que este edificio no colapsará sobre tu cabeza, requieren esencialmente el mismo tipo de respuesta de fe. 
 
-###### Ya sea que le creas a Dios con respecto a la salvación o le __<u>creas</u>__ a una persona con respecto a la solidez de un edificio. 
+###### d) Ya sea que le creas a Dios con respecto a la salvación o le __<u>creas</u>__ a una persona con respecto a la solidez de un edificio. 
 
 ###### xii. El *tipo* de creencia no __<u>difiere</u>__.
 
 ###### xiii. Sólo el (1) objeto y (2) el contenido de la __<u>fe</u>__ difieren.
 
-###### ¿Cuán confiable es el __<u>objeto</u>__ de tu fe? ¿Cuán preciso es el contenido de tu fe? Romanos 4:21
+###### e) ¿Cuán confiable es el __<u>objeto</u>__ de tu fe? ¿Cuán preciso es el contenido de tu fe? Romanos 4:21
 
 ###### xiv. Si creo que Dios me __<u>hará</u>__ multimillonario, el objeto de mi fe, Dios, es confiable, pero el contenido o la sustancia (millones de dólares) de mi fe es deficiente. 1 Timoteo 6:6-10, 17, Hebreos 13:5, Mateo 6:24
 
@@ -1292,49 +1292,49 @@ El legalismo le quita el foco de Cristo y lo pone en el hombre y en sus esfuerzo
 
 ###### xvi. Hechos 4:10-12 -- Si tu fe __<u>descansa</u>__ en el objeto apropiado (Jesucristo) y tiene el contenido apropiado (Jesús crucificado por tus pecados y resucitado de entre los muertos), entonces serás justificado. Romanos 3:20, 28; 10:11
 
-### ¿Cuál es la calidad de nuestra justificación __<u>ante</u>__ Dios?
+### 7. ¿Cuál es la calidad de nuestra justificación __<u>ante</u>__ Dios?
 
-#### No hay grados de justificación __<u>entre</u>__ los creyentes. Estás justificado o estás todavía perdido en tus pecados. 1 Corintios 6:11
+#### a. No hay grados de justificación __<u>entre</u>__ los creyentes. Estás justificado o estás todavía perdido en tus pecados. 1 Corintios 6:11
 
-#### La justificación es permanente para todos los que creen en __<u>Jesucristo</u>__. Romanos 5:9, 8:30-39
+#### b. La justificación es permanente para todos los que creen en __<u>Jesucristo</u>__. Romanos 5:9, 8:30-39
 
-#### ¿En qué tipo de justificación (justicia) estás confiando para cuando te __<u>presentes</u>__ delante de Dios? ¿Estás confiando en tu propia justicia o en la justicia de Cristo? Romanos 9:30-32, Filipenses 3:9
+#### c. ¿En qué tipo de justificación (justicia) estás confiando para cuando te __<u>presentes</u>__ delante de Dios? ¿Estás confiando en tu propia justicia o en la justicia de Cristo? Romanos 9:30-32, Filipenses 3:9
 
-### Aquí hay algunas objeciones comunes a la justificación por __<u>fe</u>__ solamente.
+### 8. Aquí hay algunas objeciones comunes a la justificación por __<u>fe</u>__ solamente.
 
-#### Objeción \# 1: Algunas personas __<u>argumentan</u>__ que en Romanos y Gálatas, Pablo simplemente está afirmando que no somos justificados por cierto tipo de obra, es decir, guardar la Ley judía, pero que si somos justificados por hacer otros actos justos como vivir una buena vida cristiana.
+#### a. Objeción \# 1: Algunas personas __<u>argumentan</u>__ que en Romanos y Gálatas, Pablo simplemente está afirmando que no somos justificados por cierto tipo de obra, es decir, guardar la Ley judía, pero que si somos justificados por hacer otros actos justos como vivir una buena vida cristiana.
 
-##### Refutación: No somos salvos por __<u>ningún</u>__ tipo de obra, incluyendo el guardar la Ley judía o cualquier otro tipo de buena obra.
+##### 1) Refutación: No somos salvos por __<u>ningún</u>__ tipo de obra, incluyendo el guardar la Ley judía o cualquier otro tipo de buena obra.
 
-###### Tito 3:5 dice que "*nos salvó, no por __<u>obras</u>__ de justicia que nosotros hubiéramos hecho, sino por su misericordia..."*. Esto establece claramente que no somos salvos por ninguna forma de nuestras propias obras de justicia.
+###### a) Tito 3:5 dice que "*nos salvó, no por __<u>obras</u>__ de justicia que nosotros hubiéramos hecho, sino por su misericordia..."*. Esto establece claramente que no somos salvos por ninguna forma de nuestras propias obras de justicia.
 
-###### Tito 3:5 no sólo habla en contra de cumplir las leyes judías sino de la inutilidad de confiar en cualquier tipo de __<u>buena</u>__ obra. Isaías 64:6, Romanos 3:10-12
+###### b) Tito 3:5 no sólo habla en contra de cumplir las leyes judías sino de la inutilidad de confiar en cualquier tipo de __<u>buena</u>__ obra. Isaías 64:6, Romanos 3:10-12
 
-##### Refutación: Efesios 2:9 aclara que la salvación "*no* \[es\] *por __<u>obras</u>__*, *para que nadie se gloríe"*. Nota que no dice \"no por **obras de la Ley**, para que nadie se gloríe\". Este versículo no sólo habla en contra de la ley judía sino en contra de la confianza en cualquier tipo de buena obra en general.
+##### 2) Refutación: Efesios 2:9 aclara que la salvación "*no* \[es\] *por __<u>obras</u>__*, *para que nadie se gloríe"*. Nota que no dice \"no por **obras de la Ley**, para que nadie se gloríe\". Este versículo no sólo habla en contra de la ley judía sino en contra de la confianza en cualquier tipo de buena obra en general.
 
-##### Refutación: El apóstol __<u>Pablo</u>__, incluso después de haber vivido una buena vida, dijo que quería ser encontrado teniendo la justicia que obtuvo a través de la fe en Jesucristo y no una justicia hecha por sí mismo. Filipenses 3:8-9
+##### 3) Refutación: El apóstol __<u>Pablo</u>__, incluso después de haber vivido una buena vida, dijo que quería ser encontrado teniendo la justicia que obtuvo a través de la fe en Jesucristo y no una justicia hecha por sí mismo. Filipenses 3:8-9
 
-#### Objeción \# 2: Algunos dicen que una persona no es justificada únicamente por la fe sino por la fe __<u>más</u>__ un cambio de comportamiento necesario.
+#### b. Objeción \# 2: Algunos dicen que una persona no es justificada únicamente por la fe sino por la fe __<u>más</u>__ un cambio de comportamiento necesario.
 
-##### Refutación: ¡Esto no es correcto! Una vida cambiada ocurre sólo __<u>después</u>__ de la salvación (como resultado de la salvación) y nunca antes de la salvación o como un prerrequisito para la salvación. No somos salvos por buenas obras, pero somos salvos *para buenas obras*. Efesios 2:10
+##### 1) Refutación: ¡Esto no es correcto! Una vida cambiada ocurre sólo __<u>después</u>__ de la salvación (como resultado de la salvación) y nunca antes de la salvación o como un prerrequisito para la salvación. No somos salvos por buenas obras, pero somos salvos *para buenas obras*. Efesios 2:10
 
-##### Refutación: En la Biblia se espera un comportamiento cambiado de __<u>aquellos</u>__ que ya han sido justificados por la fe. "\...*para que los que creen en Dios procuren ocuparse en buenas obras..."* (Tito 3:8). 
+##### 2) Refutación: En la Biblia se espera un comportamiento cambiado de __<u>aquellos</u>__ que ya han sido justificados por la fe. "\...*para que los que creen en Dios procuren ocuparse en buenas obras..."* (Tito 3:8). 
 
-##### Refutación: Romanos 3:24 enfatiza que __<u>somos</u>__ "...*justificados gratuitamente por su gracia* \[favor inmerecido\] *mediante la redención que es en Cristo Jesús"*, y no como pago o resultado de un buen comportamiento. Romanos 11:6
+##### 3) Refutación: Romanos 3:24 enfatiza que __<u>somos</u>__ "...*justificados gratuitamente por su gracia* \[favor inmerecido\] *mediante la redención que es en Cristo Jesús"*, y no como pago o resultado de un buen comportamiento. Romanos 11:6
 
-#### Objeción \# 3: Algunos también dicen que el __<u>único</u>__ lugar donde la frase *solamente por la fe* (sola fide) es utilizada en la Biblia en Santiago 2:24, donde la Biblia parece enseñar la justificación por obras.
+#### c. Objeción \# 3: Algunos también dicen que el __<u>único</u>__ lugar donde la frase *solamente por la fe* (sola fide) es utilizada en la Biblia en Santiago 2:24, donde la Biblia parece enseñar la justificación por obras.
 
-##### Refutación: Romanos 4:1-5 declara que Abraham fue justificado __<u>cuando</u>__ creyó en Dios. Fue justificado ante Dios por la fe, sin obras. Romanos 4:16, 21-25
+##### 1) Refutación: Romanos 4:1-5 declara que Abraham fue justificado __<u>cuando</u>__ creyó en Dios. Fue justificado ante Dios por la fe, sin obras. Romanos 4:16, 21-25
 
-##### Refutación: Santiago presentó a Abraham como justificado por las obras ante el *hombre*, no ante *Dios*. El momento en que la __<u>fe</u>__ de Abraham fue visible para todos fue en Génesis 22 cuando ofreció a Isaac en sacrificio. Él no fue justificado ante Dios en aquel punto del tiempo.
+##### 2) Refutación: Santiago presentó a Abraham como justificado por las obras ante el *hombre*, no ante *Dios*. El momento en que la __<u>fe</u>__ de Abraham fue visible para todos fue en Génesis 22 cuando ofreció a Isaac en sacrificio. Él no fue justificado ante Dios en aquel punto del tiempo.
 
-##### Refutación: Sin __<u>duda</u>__, Abraham fue declarado justo ante Dios al menos 20 años *antes* de que ofreciera a Isaac. Compare Génesis 15:6 con Génesis 22.
+##### 3) Refutación: Sin __<u>duda</u>__, Abraham fue declarado justo ante Dios al menos 20 años *antes* de que ofreciera a Isaac. Compare Génesis 15:6 con Génesis 22.
 
-### Santiago 2:14-26 -- Consideremos el tema de la justificación ante los __<u>hombres</u>__.
+### 9. Santiago 2:14-26 -- Consideremos el tema de la justificación ante los __<u>hombres</u>__.
 
-#### Santiago 2:14-20 -- Santiago abordó el concepto de la __<u>fe</u>__ improductiva.
+#### a. Santiago 2:14-20 -- Santiago abordó el concepto de la __<u>fe</u>__ improductiva.
 
-##### Santiago 2:14 -- La palabra *salvarle* SOZO en el versículo 14 es utilizada __<u>cinco</u>__ veces en la epístola de Santiago, y en cada caso se refiere a la santificación (salvación del poder del pecado, el segundo __<u>tiempo</u>__ de la salvación o segunda fase de la salvación) y no la salvación del castigo del pecado (justificación o salvación de la primera fase). Santiago 1:21; 2:14; 4:12; 5:15, 20
+##### 1) Santiago 2:14 -- La palabra *salvarle* SOZO en el versículo 14 es utilizada __<u>cinco</u>__ veces en la epístola de Santiago, y en cada caso se refiere a la santificación (salvación del poder del pecado, el segundo __<u>tiempo</u>__ de la salvación o segunda fase de la salvación) y no la salvación del castigo del pecado (justificación o salvación de la primera fase). Santiago 1:21; 2:14; 4:12; 5:15, 20
 
 <!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/gift/gift.001.png" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
 
@@ -1352,59 +1352,59 @@ El legalismo le quita el foco de Cristo y lo pone en el hombre y en sus esfuerzo
 
 <!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/gift/gift.008.png" data-background-size="contain" data-background-color="black" data-auto-animate="" -->
 
-##### Santiago 2:15-18 -- La fe de un cristiano puede ser inadecuada o infructuosa en su diario vivir y no será recompensada en el tribunal __<u>BEMA</u>__ de Cristo. 2 Pedro 1:8-9
+##### 2) Santiago 2:15-18 -- La fe de un cristiano puede ser inadecuada o infructuosa en su diario vivir y no será recompensada en el tribunal __<u>BEMA</u>__ de Cristo. 2 Pedro 1:8-9
 
-###### Santiago 2:15-16 -- La fe de una persona es faltante cuando no da como resultado buenas obras. "\...*pero no les __<u>dais</u>__ las cosas que son necesarias para el cuerpo...".*
+###### a) Santiago 2:15-16 -- La fe de una persona es faltante cuando no da como resultado buenas obras. "\...*pero no les __<u>dais</u>__ las cosas que son necesarias para el cuerpo...".*
 
-###### Santiago 2:17a -- La fe de una persona es inadecuada (para recompensa) cuando está muerta, __<u>inerte</u>__ o sin vida. "*Así también la fe, si no tiene obras, **es muerta** en sí misma"*. Para que la fe estuviera muerta, tuvo que haber estado viva en algún momento.
+###### b) Santiago 2:17a -- La fe de una persona es inadecuada (para recompensa) cuando está muerta, __<u>inerte</u>__ o sin vida. "*Así también la fe, si no tiene obras, **es muerta** en sí misma"*. Para que la fe estuviera muerta, tuvo que haber estado viva en algún momento.
 
-###### Santiago 2:17b -- La fe de una persona es inadecuada (para recompensa) cuando está __<u>sola</u>__. "*Así también la fe, si no tiene obras, es muerta **en sí misma"***.
+###### c) Santiago 2:17b -- La fe de una persona es inadecuada (para recompensa) cuando está __<u>sola</u>__. "*Así también la fe, si no tiene obras, es muerta **en sí misma"***.
 
-###### Santiago 2:18 -- La fe de una persona es inadecuada cuando no puede ser __<u>vista</u>__ por otros. "\...***Muéstrame** tu fe sin tus obras, y yo te **mostraré** mi fe por mis obras".*
+###### d) Santiago 2:18 -- La fe de una persona es inadecuada cuando no puede ser __<u>vista</u>__ por otros. "\...***Muéstrame** tu fe sin tus obras, y yo te **mostraré** mi fe por mis obras".*
 
-##### Santiago 2:19 -- La fe que no produce ningún resultado visible es __<u>más</u>__ inútil que la fe demoníaca en Dios, que al menos produce estremecimiento. Marcos 3:11, Lucas 8:28
+##### 3) Santiago 2:19 -- La fe que no produce ningún resultado visible es __<u>más</u>__ inútil que la fe demoníaca en Dios, que al menos produce estremecimiento. Marcos 3:11, Lucas 8:28
 
-#### Santiago 2:21-26 -- Santiago da __<u>dos</u>__ ejemplos históricos de fe productiva.
+#### b. Santiago 2:21-26 -- Santiago da __<u>dos</u>__ ejemplos históricos de fe productiva.
 
-##### Santiago 2:21-24 -- Primero se nos da el ejemplo de __<u>Abraham</u>__.
+##### 1) Santiago 2:21-24 -- Primero se nos da el ejemplo de __<u>Abraham</u>__.
 
-###### Santiago 2:21a -- Abraham fue justificado por la fe más las obras ante los __<u>hombres</u>__ pero no ante Dios. Santiago 2:21-22, Génesis 22, Romanos 4:1
+###### a) Santiago 2:21a -- Abraham fue justificado por la fe más las obras ante los __<u>hombres</u>__ pero no ante Dios. Santiago 2:21-22, Génesis 22, Romanos 4:1
 
-###### Santiago 2:21b -- Ante Dios Abraham fue justificado __<u>únicamente</u>__ por la fe sin obras. Santiago 2:23, Génesis 15:6, Romanos 4:2-3
+###### b) Santiago 2:21b -- Ante Dios Abraham fue justificado __<u>únicamente</u>__ por la fe sin obras. Santiago 2:23, Génesis 15:6, Romanos 4:2-3
 
-###### Santiago 2:22 -- Abraham no fue justificado ante Dios cuando abiertamente ofreció a su hijo en el altar, sino que su fe *se perfeccionó* TELEIOO, o mostró ser completa o madura, cuando hizo ese acto justo por __<u>fe</u>__. Más adelante, en 2 Crónicas 20:7 e Isaías 41:8, Abraham fue llamado **amigo de Dios**.
+###### c) Santiago 2:22 -- Abraham no fue justificado ante Dios cuando abiertamente ofreció a su hijo en el altar, sino que su fe *se perfeccionó* TELEIOO, o mostró ser completa o madura, cuando hizo ese acto justo por __<u>fe</u>__. Más adelante, en 2 Crónicas 20:7 e Isaías 41:8, Abraham fue llamado **amigo de Dios**.
 
-###### Santiago 2:23 -- Cuando Abraham ofreció públicamente a __<u>Isaac</u>__, su fe fue visible. "*Y se cumplió la Escritura* (PLEROO, completada) *que dice: Abraham creyó a Dios, y le fue contado por justicia..."*. Génesis 15:6 
+###### d) Santiago 2:23 -- Cuando Abraham ofreció públicamente a __<u>Isaac</u>__, su fe fue visible. "*Y se cumplió la Escritura* (PLEROO, completada) *que dice: Abraham creyó a Dios, y le fue contado por justicia..."*. Génesis 15:6 
 
-###### Santiago 2:24 -- Aunque una persona es justificada ante Dios únicamente por la __<u>fe</u>__ (Romanos 4:2-3), esa persona es **vista** como justificada ante la humanidad por una fe visible que es expresada en buenas obras.
+###### e) Santiago 2:24 -- Aunque una persona es justificada ante Dios únicamente por la __<u>fe</u>__ (Romanos 4:2-3), esa persona es **vista** como justificada ante la humanidad por una fe visible que es expresada en buenas obras.
 
-###### Génesis 6:9 -- La descripción de Moisés de __<u>Noé</u>__ es comparable con las enseñanzas de Santiago. "*Noé, varón justo* \[justicia posicional ante Dios\]*, era perfecto en sus generaciones* \[justicia práctica ante el hombre\]*; con Dios caminó Noé"*.
+###### f) Génesis 6:9 -- La descripción de Moisés de __<u>Noé</u>__ es comparable con las enseñanzas de Santiago. "*Noé, varón justo* \[justicia posicional ante Dios\]*, era perfecto en sus generaciones* \[justicia práctica ante el hombre\]*; con Dios caminó Noé"*.
 
-##### Santiago 2:25 -- Sorprendentemente, Santiago usó el ejemplo de la prostituta __<u>Rahab</u>__ que fue justificada ante los hombres por sus obras observables al preservar la vida de los espías.
+##### 2) Santiago 2:25 -- Sorprendentemente, Santiago usó el ejemplo de la prostituta __<u>Rahab</u>__ que fue justificada ante los hombres por sus obras observables al preservar la vida de los espías.
 
-###### Josué 2:9-13 -- Estos versículos muestran que Rahab creía en __<u>Dios</u>__.
+###### a) Josué 2:9-13 -- Estos versículos muestran que Rahab creía en __<u>Dios</u>__.
 
-###### Josué 2:14-15 -- Los siguientes versículos muestran su fe en __<u>acción</u>__ en bondad hacia los espías.
+###### b) Josué 2:14-15 -- Los siguientes versículos muestran su fe en __<u>acción</u>__ en bondad hacia los espías.
 
-#### Santiago 2:26 -- Santiago dio algunas observaciones finales.
+#### c. Santiago 2:26 -- Santiago dio algunas observaciones finales.
 
-##### Santiago 2:26 -- La fe inactiva es inútil. *Porque como el __<u>cuerpo</u>__ sin espíritu está muerto, así también la fe sin obras está muerta*.
+##### 1) Santiago 2:26 -- La fe inactiva es inútil. *Porque como el __<u>cuerpo</u>__ sin espíritu está muerto, así también la fe sin obras está muerta*.
 
-###### Sabemos que un cuerpo sin espíritu está muerto. El cuerpo está allí, pero el espíritu humano se ha ido; por lo tanto, el cuerpo no está de ninguna manera __<u>activo</u>__.
+###### a) Sabemos que un cuerpo sin espíritu está muerto. El cuerpo está allí, pero el espíritu humano se ha ido; por lo tanto, el cuerpo no está de ninguna manera __<u>activo</u>__.
 
-###### También sabemos que la fe sin __<u>obras</u>__ está muerta. Esto no significa que no hay fe, o que nunca hubo fe; significa que la fe no se está expresando actualmente y, por lo tanto, no está beneficiando a nadie. La fe se hace visible a los demás a través de buenas obras.
+###### b) También sabemos que la fe sin __<u>obras</u>__ está muerta. Esto no significa que no hay fe, o que nunca hubo fe; significa que la fe no se está expresando actualmente y, por lo tanto, no está beneficiando a nadie. La fe se hace visible a los demás a través de buenas obras.
 
-##### Este pasaje en Santiago describe un __<u>tipo</u>__ distinto de justificación.
+##### 2) Este pasaje en Santiago describe un __<u>tipo</u>__ distinto de justificación.
 
-###### Primero, sabemos por las Escrituras que la justificación ante __<u>Dios</u>__ es únicamente a través de la fe en la persona y la obra de Cristo. Gálatas 2:16
+###### a) Primero, sabemos por las Escrituras que la justificación ante __<u>Dios</u>__ es únicamente a través de la fe en la persona y la obra de Cristo. Gálatas 2:16
 
-###### Segundo, también encontramos una justificación ante el __<u>hombre</u>__ que ocurre cuando vivimos nuestra fe en Dios de manera práctica. Ese tipo de fe práctica resulta en obras justas visibles. Santiago 2:21, Romanos 3:4, Romanos 4:1-2
+###### b) Segundo, también encontramos una justificación ante el __<u>hombre</u>__ que ocurre cuando vivimos nuestra fe en Dios de manera práctica. Ese tipo de fe práctica resulta en obras justas visibles. Santiago 2:21, Romanos 3:4, Romanos 4:1-2
 
-##### Pensamientos finales sobre ser justificado ante el __<u>hombre</u>__
+##### 3) Pensamientos finales sobre ser justificado ante el __<u>hombre</u>__
 
-###### Romanos 3:21 -- Antes de que puedas ser justificado ante la gente, primero debes ser justificado (declarado justo) ante Dios. ¿Has sido declarado justo (justificado) ante Dios por la __<u>fe</u>__ sola en Cristo únicamente? 
+###### a) Romanos 3:21 -- Antes de que puedas ser justificado ante la gente, primero debes ser justificado (declarado justo) ante Dios. ¿Has sido declarado justo (justificado) ante Dios por la __<u>fe</u>__ sola en Cristo únicamente? 
 
-###### Santiago 2:18 -- Si has sido justificado ante Dios, ¿estás caminando por __<u>fe</u>__? Sin un caminar de fe, no puedes ser justificado ante la gente. "*Pero alguno dirá: Tú tienes fe, y yo tengo obras. Muéstrame tu fe sin tus obras, y yo te mostraré mi fe por mis obras".*
+###### b) Santiago 2:18 -- Si has sido justificado ante Dios, ¿estás caminando por __<u>fe</u>__? Sin un caminar de fe, no puedes ser justificado ante la gente. "*Pero alguno dirá: Tú tienes fe, y yo tengo obras. Muéstrame tu fe sin tus obras, y yo te mostraré mi fe por mis obras".*
 
 <!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/chainlink.jpeg" data-background-size="cover"  data-menu-title="VI. Gálatas 2:19 -- Este Hecho Permanece: La justificación es por Fe, no por Obediencia a la Ley" data-background-color="black" data-background-opacity="0.5" data-transition="zoom" -->
 # VI.  Gálatas 2:19 -- Este Hecho Permanece: La justificación es por Fe, no por Obediencia a la Ley
