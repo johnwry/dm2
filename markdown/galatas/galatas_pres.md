@@ -964,7 +964,7 @@ ___
 
 ###### i) Por lo tanto, aparte de la fe en Cristo, no hay forma de obtener el regalo __<u>gratuito</u>__ de la vida eterna. Hechos 4:12, Efesios 2:5, Romanos 6:23
 
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/spot/spotlight1.png" data-background-size="contain" data-background-color="grey" data-auto-animate="" -->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/spot/spotlight1.png" data-background-size="contain" data-background-color="grey" -->
 <svg width="1280" height="720" version="1.1" viewBox="0 0 338.7 190.5" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
  <g>
   <g id="verse" transform="translate(10.4 -1.2)">
@@ -975,7 +975,7 @@ ___
  </g>
 </svg>
 
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/spot/spotlight1.png" data-background-size="contain" data-background-color="grey" data-transition="zoom"  -->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/spot/spotlight1.png" data-background-size="contain" data-background-color="grey" data-transition="fade"  -->
 <svg width="1280" height="720" version="1.1" viewBox="0 0 338.7 190.5" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
  <g>
   <g font-family="sans-serif">
@@ -987,7 +987,7 @@ ___
  </g>
 </svg>
 
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/spot/spotlight2.png" data-background-size="contain" data-background-color="grey" class="animated fadeInDown slower" data-transition="zoom" -->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/spot/spotlight2.png" data-background-size="contain" data-background-color="grey" data-transition="fade" -->
 <svg width="1280" height="720" version="1.1" viewBox="0 0 338.7 190.5" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
  <g display="none" font-family="sans-serif" font-size="10.58px" opacity=".5062" stroke-width=".2646">
   <text id="justicia" transform="rotate(50.88)" x="121.29979" y="15.367152" fill="#000000" font-weight="bold" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25" xml:space="preserve"><tspan x="121.29979" y="15.367152" font-family="sans-serif" font-size="10.58px" font-weight="bold" stroke-width=".2646" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">Justicia</tspan></text>
@@ -997,26 +997,26 @@ ___
  </g>
  <g fill="#000000" font-family="sans-serif" font-size="10.58px" font-weight="bold" stroke-width=".2646">
   <text transform="rotate(-26.23)" x="110.26839" y="131.71204" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25" xml:space="preserve"><tspan x="110.26839" y="131.71204" font-family="sans-serif" font-size="10.58px" font-weight="bold" stroke-width=".2646" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">Invitar a Cristo</tspan></text>
-  <!-- .element: class="fragment" -->
-  <text transform="rotate(-29.87)" x="23.000311" y="152.89316" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25" xml:space="preserve"><tspan x="23.000311" y="152.89316" font-family="sans-serif" font-size="10.58px" font-weight="bold" stroke-width=".2646" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">Hacer a Jesus el Senor</tspan></text>
-  <!-- .element: class="fragment" -->
-  <text transform="rotate(-30.33)" x="-22.457813" y="164.68181" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25" xml:space="preserve"><tspan x="-22.457813" y="164.68181" font-family="sans-serif" font-size="10.58px" font-weight="bold" stroke-width=".2646" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">Orar una oracion</tspan></text>
-  <!-- .element: class="fragment" -->
+  <!-- .element: class="animated fadeInDown slower" data-delay="1420"-->
+  <text transform="rotate(-29.87)" x="23.000311" y="152.89316" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25" xml:space="preserve"><tspan x="23.000311" y="152.89316" font-family="sans-serif" font-size="10.58px" font-weight="bold" stroke-width=".2646" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">Hacer a Jesus el Señor</tspan></text>
+  <!-- .element: class="animated fadeInDown slower" data-delay="1620"-->
+  <text transform="rotate(-30.33)" x="-22.457813" y="164.68181" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25" xml:space="preserve"><tspan x="-22.457813" y="164.68181" font-family="sans-serif" font-size="10.58px" font-weight="bold" stroke-width=".2646" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">Orar una oración</tspan></text>
+  <!-- .element: class="animated fadeInDown slower" data-delay="1820" -->
   <text transform="rotate(-33.31)" x="85.949699" y="175.076" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25" xml:space="preserve"><tspan x="85.949699" y="175.076" font-family="sans-serif" font-size="10.58px" font-weight="bold" stroke-width=".2646" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">Cree y se bautizado</tspan></text>
-  <!-- .element: class="fragment" -->
+  <!-- .element: class="animated fadeInDown slower" data-delay="1420" -->
  </g>
 </svg>
 
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/spot/spotlight4.png" data-background-size="contain" data-background-color="grey" data-auto-animate="" data-transition="zoom" -->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/spot/spotlight4.png" data-background-size="contain" data-background-color="grey" data-transition="fade" -->
 <svg width="1280" height="720" version="1.1" viewBox="0 0 338.7 190.5" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
  <g>
   <g fill="#000000" font-family="sans-serif" font-size="10.58px" font-weight="bold" stroke-width=".2646">
    <text transform="rotate(-26.23)" x="110.26839" y="131.71204" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25" xml:space="preserve"><tspan x="110.26839" y="131.71204" font-family="sans-serif" font-size="10.58px" font-weight="bold" stroke-width=".2646" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">Invitar a Cristo</tspan></text>
-   <text transform="rotate(-29.87)" x="23.000311" y="152.89316" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25" xml:space="preserve"><tspan x="23.000311" y="152.89316" font-family="sans-serif" font-size="10.58px" font-weight="bold" stroke-width=".2646" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">Hacer a Jesus el Senor</tspan></text>
-   <text transform="rotate(-30.33)" x="-22.457813" y="164.68181" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25" xml:space="preserve"><tspan x="-22.457813" y="164.68181" font-family="sans-serif" font-size="10.58px" font-weight="bold" stroke-width=".2646" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">Orar una oracion</tspan></text>
+   <text transform="rotate(-29.87)" x="23.000311" y="152.89316" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25" xml:space="preserve"><tspan x="23.000311" y="152.89316" font-family="sans-serif" font-size="10.58px" font-weight="bold" stroke-width=".2646" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">Hacer a Jesus el Señor</tspan></text>
+   <text transform="rotate(-30.33)" x="-22.457813" y="164.68181" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25" xml:space="preserve"><tspan x="-22.457813" y="164.68181" font-family="sans-serif" font-size="10.58px" font-weight="bold" stroke-width=".2646" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">Orar una oración</tspan></text>
    <text transform="rotate(-33.31)" x="85.949699" y="175.076" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25" xml:space="preserve"><tspan x="85.949699" y="175.076" font-family="sans-serif" font-size="10.58px" font-weight="bold" stroke-width=".2646" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">Cree y se bautizado</tspan></text>
   </g>
-  <text transform="scale(.8351 1.197)" x="177.25717" y="135.66107" fill="#d60017" font-family="'Finished Sympathy'" font-size="17.2px" stroke-width=".4301" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25" xml:space="preserve"><tspan x="177.25717" y="135.66107" fill="#d60017" font-family="'Finished Sympathy'" font-size="24.2px" stroke-width=".4301" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">¿Donde esta Cristo?</tspan></text>
+  <text transform="scale(.8351 1.197)" x="177.25717" y="135.66107" fill="#d60017" font-family="'Finished Sympathy'" font-size="17.2px" stroke-width=".4301" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25" xml:space="preserve"><tspan x="177.25717" y="135.66107" fill="#ffffff" stroke="#d60017" font-family="'Finished Sympathy'" font-size="24.2px" stroke-width=".4301" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">¿Donde esta Cristo?</tspan></text>
 <!-- .element: class="fragment" -->
  </g>
 </svg>
@@ -1024,7 +1024,7 @@ ___
 <!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/spot/spotlight5.png" data-background-size="contain" data-background-color="grey" data-transition="zoom"  -->
 <svg width="1280" height="720" version="1.1" viewBox="0 0 338.7 190.5" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
  <g>
-  <text transform="scale(.8291 1.206)" x="290.50043" y="67.049385" fill="#d60017" font-family="'Finished Sympathy'" font-size="21.55px" stroke="#ffffff" stroke-width=".3758" text-align="center" text-anchor="middle" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25" xml:space="preserve"><tspan x="290.50043" y="67.049385" text-align="center" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">Manten el foco </tspan><tspan x="290.50043" y="93.991882" text-align="center" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">en el evangelio</tspan></text>
+  <text transform="scale(.8291 1.206)" x="290.50043" y="67.049385" fill="#ffffff" font-family="'Finished Sympathy'" font-size="21.55px" stroke="#d60017" stroke-width=".3758" text-align="center" text-anchor="middle" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25" xml:space="preserve"><tspan x="290.50043" y="67.049385" text-align="center" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">Manten el foco </tspan><tspan x="290.50043" y="93.991882" text-align="center" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">en el evangelio</tspan></text>
   <g font-family="sans-serif" font-size="10.58px" stroke-width=".2646">
    <text id="justicia" transform="rotate(50.88)" x="121.29979" y="15.367152" fill="#000000" font-weight="bold" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25" xml:space="preserve"><tspan x="121.29979" y="15.367152" font-family="sans-serif" font-size="10.58px" font-weight="bold" stroke-width=".2646" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">Justicia</tspan></text>
    <text id="juicio" transform="rotate(45.83)" x="99.342163" y="13.072625" fill="#000000" font-weight="bold" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25" xml:space="preserve"><tspan x="99.342163" y="13.072625" font-family="sans-serif" font-size="10.58px" font-weight="bold" stroke-width=".2646" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">Juicio</tspan></text>
