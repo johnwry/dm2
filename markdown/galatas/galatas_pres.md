@@ -950,6 +950,7 @@ ___
 
 ###### b) Obras como confesar tus pecados, pedirle a Jesús que entre en tu __<u>corazón</u>__ o hacerlo el Señor de tu vida, no salva. Romanos 3:28, 4:5; 2 Corintios 5:21
 
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/catechism.jpeg" data-background-size="300px" data-background-position="left" data-background-opacity="0.5"-->
 ###### c) Ser bautizado, realizar __<u>rituales</u>__, tomar la comunión, ir a confesarse, ser confirmado o aprenderse el catecismo no puede salvar. Mateo 15:9, Tito 3:5
 
 ###### d) Cambiar el curso de tu __<u>vida</u>__, mostrar remordimiento por los pecados, llorar o realizar actos de contrición no salva. Mateo 27:3, Juan 6:20-21, Hechos 1:25
@@ -1982,7 +1983,7 @@ El legalismo le quita el foco de Cristo y lo pone en el hombre y en sus esfuerzo
 
 ### Gálatas 3:27 -- Tenemos la bendición de ser 100% aceptados __<u>en</u>__ Cristo. 
 
-#### Gálatas 3:27a -- En el momento de la salvación fuimos unidos con Cristo al ser bautizados __<u>en</u>__ Él por medio del Espíritu Santo.
+#### Gálatas 3:2a -- En el momento de la salvación fuimos unidos con Cristo al ser bautizados __<u>en</u>__ Él por medio del Espíritu Santo.
 
 #### Gálatas 3:27b -- La Biblia describe __<u>ocho</u>__ tipos de bautismos.
 
