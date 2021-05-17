@@ -1,4 +1,5 @@
 <!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/chainlink.jpeg" data-background-size="cover"  data-menu-title="Início" data-background-color="black" data-background-opacity="0.8" data-auto-animate-easing  -->
+
 <svg width="1280" height="720" version="1.1" viewBox="0 0 508 285.7" xmlns="http://www.w3.org/2000/svg">
  <rect x="-11.94" y="240.2" width="531.9" height="46.52" rx="1.64" ry="1.64" fill="#fff" fill-rule="evenodd"/>
  <rect x="47.62" y="-.756" width="412.8" height="79.38" rx="1.64" ry="1.64" fill="#fff" fill-rule="evenodd" stroke-width="0"/>
@@ -972,7 +973,7 @@ ___
    <rect x="151.9" y="7.879" width="163" height="106.9" rx="15.47" ry="6.198" fill="#fffe00" fill-rule="evenodd" stroke-width="0"/>
    <text transform="scale(1.012 .9878)" x="160.88031" y="19.765429" fill="#000000" font-family="Baskerville" font-size="10.34px" stroke-width=".2585" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25" xml:space="preserve"><tspan x="160.88031" y="19.765429" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">Y cuando él venga, convencerá al </tspan><tspan x="160.88031" y="32.692303" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">mundo de pecado, de justicia y de </tspan><tspan x="160.88031" y="45.619179" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">juicio. De pecado, por cuanto no </tspan><tspan x="160.88031" y="58.546055" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">creen en mí; de justicia, por </tspan><tspan x="160.88031" y="71.472931" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">cuanto voy al Padre, y no me </tspan><tspan x="160.88031" y="84.399803" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">veréis más; y de juicio, por cuanto </tspan><tspan x="160.88031" y="97.326683" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">el príncipe de este mundo ha sido </tspan><tspan x="160.88031" y="110.25356" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">ya juzgado. Juan 16:8-11</tspan></text>
   </g>
-<!-- .element: class="fragment animated  bounceInLeft" data-delay="520" -->
+<!-- .element: class="fragment animated bounceInLeft" data-delay="520" -->
  </g>
 </svg>
 
@@ -981,9 +982,12 @@ ___
  <g>
   <g font-family="sans-serif">
    <text id="justicia" transform="rotate(50.88)" x="121.29979" y="15.367152" fill="#000000" font-size="10.58px" font-weight="bold" stroke-width=".2646" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25" xml:space="preserve"><tspan x="121.29979" y="15.367152" font-family="sans-serif" font-size="10.58px" font-weight="bold" stroke-width=".2646" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">Justicia</tspan></text>
+   <!-- .element: class="animated fadeInDown slower" data-delay="220" -->
    <text id="juicio" transform="rotate(45.83)" x="99.342163" y="13.072625" fill="#000000" font-size="10.58px" font-weight="bold" stroke-width=".2646" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25" xml:space="preserve"><tspan x="99.342163" y="13.072625" font-family="sans-serif" font-size="10.58px" font-weight="bold" stroke-width=".2646" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">Juicio</tspan></text>
+     <!-- .element: class="animated fadeInDown slower" data-delay="220" -->
    <text id="reference" x="71.13089" y="26.684011" fill="#fff500" font-size="13.66px" stroke-width=".3414" style="line-height:1.25" xml:space="preserve"><tspan x="71.13089" y="26.684011" fill="#fff500" stroke-width=".3414">Juan 16:8-11</tspan></text>
    <text id="Pecado" transform="rotate(45.83)" x="73.925697" y="-0.23786961" fill="#000000" font-size="10.58px" font-weight="bold" stroke-width=".2646" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25" xml:space="preserve"><tspan x="73.925697" y="-0.23786961" font-family="sans-serif" font-size="10.58px" font-weight="bold" stroke-width=".2646" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">Pecado</tspan></text>
+     <!-- .element: class="animated fadeInDown slower" data-delay="220" -->
   </g>
  </g>
 </svg>
@@ -998,13 +1002,13 @@ ___
  </g>
  <g fill="#000000" font-family="sans-serif" font-size="10.58px" font-weight="bold" stroke-width=".2646">
   <text transform="rotate(-26.23)" x="110.26839" y="131.71204" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25" xml:space="preserve"><tspan x="110.26839" y="131.71204" font-family="sans-serif" font-size="10.58px" font-weight="bold" stroke-width=".2646" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">Invitar a Cristo</tspan></text>
-  <!-- .element: class="animated fadeInDown slower" data-delay="1420"-->
+  <!-- .element: class="animated fadeInDown slower" -->
   <text transform="rotate(-29.87)" x="23.000311" y="152.89316" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25" xml:space="preserve"><tspan x="23.000311" y="152.89316" font-family="sans-serif" font-size="10.58px" font-weight="bold" stroke-width=".2646" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">Hacer a Jesus el Señor</tspan></text>
-  <!-- .element: class="animated fadeInDown slower" data-delay="1620"-->
+  <!-- .element: class="animated fadeInDown slower"-->
   <text transform="rotate(-30.33)" x="-22.457813" y="164.68181" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25" xml:space="preserve"><tspan x="-22.457813" y="164.68181" font-family="sans-serif" font-size="10.58px" font-weight="bold" stroke-width=".2646" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">Orar una oración</tspan></text>
-  <!-- .element: class="animated fadeInDown slower" data-delay="1820" -->
+  <!-- .element: class="animated fadeInDown slower" -->
   <text transform="rotate(-33.31)" x="85.949699" y="175.076" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25" xml:space="preserve"><tspan x="85.949699" y="175.076" font-family="sans-serif" font-size="10.58px" font-weight="bold" stroke-width=".2646" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">Cree y se bautizado</tspan></text>
-  <!-- .element: class="animated fadeInDown slower" data-delay="1420" -->
+  <!-- .element: class="animated fadeInDown slower" -->
  </g>
 </svg>
 
@@ -1164,6 +1168,7 @@ ___
 ### Características de **El Legalismo** 
 
 <!-- .slide: data-background-color="#00285A" style="color:white;" -->
+
 ### El Legalismo
 Enfoque en lo externo-Las buenas obras externas de una persona
 Su enfoque es en la habilidad para ser bueno y hacerse acepto ante Dios.
@@ -1473,31 +1478,31 @@ El legalismo le quita el foco de Cristo y lo pone en el hombre y en sus esfuerzo
 
 ## A. Gálatas 2:19 -- Pablo pasó a explicar a Pedro que el cristiano no está <u>bajo</u> la ley.
 
-### Gálatas 2:19a -- Hemos muerto __<u>a</u>__ la ley.
+### 1. Gálatas 2:19a -- Hemos muerto __<u>a</u>__ la ley.
 
-####  *"Porque yo por la ley soy __<u>muerto</u>__ para la ley..."*. La ley exige y asegura nuestra muerte. La Ley prueba que somos pecadores, y la pena por el pecado es la muerte. Romanos 7:9-12
+#### a. *"Porque yo por la ley soy __<u>muerto</u>__ para la ley..."*. La ley exige y asegura nuestra muerte. La Ley prueba que somos pecadores, y la pena por el pecado es la muerte. Romanos 7:9-12
 
-#### En nuestra salvación, morimos __<u>con</u>__ Cristo, después de haber sido crucificados con Él. Romanos 6:3-6, 11; Colosenses 2:20, 3:3
+#### b. En nuestra salvación, morimos __<u>con</u>__ Cristo, después de haber sido crucificados con Él. Romanos 6:3-6, 11; Colosenses 2:20, 3:3
 
-#### En nuestra muerte con Cristo, morimos a la Ley. Esto significa que ya no estamos __<u>bajo</u>__ la jurisdicción de la Ley. Romanos 6:14, 7:4-6
+#### c. En nuestra muerte con Cristo, morimos a la Ley. Esto significa que ya no estamos __<u>bajo</u>__ la jurisdicción de la Ley. Romanos 6:14, 7:4-6
 
-### Gálatas 2:19b -- ¿Por qué morimos a la ley? Estamos muertos a la Ley para que __<u>podamos</u>__ cumplir un propósito superior.
+### 2. Gálatas 2:19b -- ¿Por qué morimos a la ley? Estamos muertos a la Ley para que __<u>podamos</u>__ cumplir un propósito superior.
 
-#### Estamos muertos a la __<u>Ley</u>__ "...*a fin de vivir para Dios"*. Romanos 6:6-11
+#### a. Estamos muertos a la __<u>Ley</u>__ "...*a fin de vivir para Dios"*. Romanos 6:6-11
 
-#### Estamos muertos a la Ley, por lo que ahora podemos vivir la __<u>vida</u>__ abundante. Juan 1:17, 10:10; Romanos 7:1-6
+#### b. Estamos muertos a la Ley, por lo que ahora podemos vivir la __<u>vida</u>__ abundante. Juan 1:17, 10:10; Romanos 7:1-6
 
 ## B. Estamos <u>muertos</u> a ciertas cosas en virtud del hecho de que hemos sido identificados con Jesucristo en Su muerte en la cruz y Su resurrección.
 
-### Gálatas 6:14 -- Debido a que hemos sido identificados con Cristo en Su muerte y resurrección, estamos muertos al __<u>mundo</u>__, aunque obviamente el mundo no está muerto. Colosenses 3:1-3
+### 1. Gálatas 6:14 -- Debido a que hemos sido identificados con Cristo en Su muerte y resurrección, estamos muertos al __<u>mundo</u>__, aunque obviamente el mundo no está muerto. Colosenses 3:1-3
 
-### Hebreos 2:14-15 -- Debido a que hemos sido identificados con la cruz de Cristo, estamos muertos al control directo del diablo (principados y potestades), aunque obviamente el __<u>diablo</u>__ y los demonios no están muertos. Colosenses 2:12-15
+### 2. Hebreos 2:14-15 -- Debido a que hemos sido identificados con la cruz de Cristo, estamos muertos al control directo del diablo (principados y potestades), aunque obviamente el __<u>diablo</u>__ y los demonios no están muertos. Colosenses 2:12-15
 
-### Romanos 6:2, 11 -- Debido a que hemos sido identificados con Cristo, estamos muertos a la naturaleza de pecado, aunque la naturaleza de pecado obviamente no está muerta. Después de haber sido co-crucificados con Cristo, ahora estamos muertos al __<u>pecado</u>__ (\"pecado\" singular, la naturaleza de pecado o la carne). Romanos 7:18-20, 1 Pedro 2:24
+### 3. Romanos 6:2, 11 -- Debido a que hemos sido identificados con Cristo, estamos muertos a la naturaleza de pecado, aunque la naturaleza de pecado obviamente no está muerta. Después de haber sido co-crucificados con Cristo, ahora estamos muertos al __<u>pecado</u>__ (\"pecado\" singular, la naturaleza de pecado o la carne). Romanos 7:18-20, 1 Pedro 2:24
 
-### Colosenses 2:20-23 -- Debido a que hemos sido identificados con Cristo, estamos muertos a los principios elementales del mundo, es decir, la forma en que el mundo controla a las personas a través de __<u>reglas</u>__ y regulaciones (no toques, no pruebes, y no manejes). Colosenses 2:8; Gálatas 4:3, 9
+### 4. Colosenses 2:20-23 -- Debido a que hemos sido identificados con Cristo, estamos muertos a los principios elementales del mundo, es decir, la forma en que el mundo controla a las personas a través de __<u>reglas</u>__ y regulaciones (no toques, no pruebes, y no manejes). Colosenses 2:8; Gálatas 4:3, 9
 
-### Gálatas 2:19 -- Debido a que hemos sido identificados con Cristo, estamos muertos a la **Ley**. Habiendo sido crucificado con Cristo, estamos muertos a vivir según la __<u>Ley</u>__. Estamos muertos a tener que esforzarnos por nuestra propia cuenta y sobrellevar de alguna manera para poder complacer a Dios mediante la obediencia. Romanos 6:14, Hechos 15:10-11
+### 5. Gálatas 2:19 -- Debido a que hemos sido identificados con Cristo, estamos muertos a la **Ley**. Habiendo sido crucificado con Cristo, estamos muertos a vivir según la __<u>Ley</u>__. Estamos muertos a tener que esforzarnos por nuestra propia cuenta y sobrellevar de alguna manera para poder complacer a Dios mediante la obediencia. Romanos 6:14, Hechos 15:10-11
 
 ### 3 Tiempos de la Salvación
 <svg width="1000" height="600" version="1.1" viewBox="0 0 508 285.75" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
@@ -1536,9 +1541,9 @@ El legalismo le quita el foco de Cristo y lo pone en el hombre y en sus esfuerzo
  <!-- .element: class="fragment" data-fragment-index="6"-->
 </svg>
 
-### Gálatas 2:20 -- Debido a que morimos con Cristo, estamos muertos a nosotros __<u>mismos</u>__. Romanos 6:6
+### 6. Gálatas 2:20 -- Debido a que morimos con Cristo, estamos muertos a nosotros __<u>mismos</u>__. Romanos 6:6
 
-### Romanos 6:10-11 -- En nuestra identidad con Cristo, ahora estamos __<u>vivos</u>__ para Dios. Colosenses 1:1-4
+### 7. Romanos 6:10-11 -- En nuestra identidad con Cristo, ahora estamos __<u>vivos</u>__ para Dios. Colosenses 1:1-4
 
 ## C. Romanos 6:14 -- Un estudio temático: ¿Están los creyentes <u>bajo</u> la Ley?
 

@@ -1394,7 +1394,7 @@ Note: Se llama la iglesia de Dios 12x (hech 28:28, 1 Cor 1:2, 10:32, 11:16, 11:2
 
 ###        5.  Cualquier estilo de vida **<u>desordenado</u>** podría ser causa de disciplina en la iglesia. 2 Tesalonicenses 3:6 dice: *\"Pero os ordenamos, hermanos, en el nombre de nuestro Señor Jesucristo, que os apartéis de todo hermano que ande desordenadamente, y no según la enseñanza* \['doctrina' -- LBLA\] *que recibisteis de nosotros\"* 2 Tesalonicenses 3:6-15
 
-####            a.  2 Tesalonicenses 3:6a -- *que os apartéis de todo hermano*\... Pablo ordenó a estos creyentes que no tuvieran comunión con *__<u>todo</u>__ hermano* \[no solo con algunos\] *que ande desordenadamente*. Además, la palabra griega traducida *\"apartéis\"* está en la voz media, lo que implica que deben desasociarse de tal creyente por su propio bien.
+####            a.  2 Tesalonicenses 3:6a -- *que os apartéis de todo hermano...* Pablo ordenó a estos creyentes que no tuvieran comunión con *__<u>todo</u>__ hermano*  [no solo con algunos] *que ande desordenadamente.* Además, la palabra griega traducida "*apartéis*" está en la voz media, lo que implica que deben desasociarse de tal creyente por su propio bien.
 
 ####            b.  2 Tesalonicenses 3:6b -- \...*que ande desordenadamente*\... La palabra *desordenadamente* significa fuera de **<u>orden</u>**. En griego esto se usó para describir a un soldado perezoso. Desordenadamente implicaba a una persona que era insubordinada, holgazana y negligente en sus deberes.
 
