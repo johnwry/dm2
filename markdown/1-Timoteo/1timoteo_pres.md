@@ -1396,7 +1396,8 @@ Note: Se llama la iglesia de Dios 12x (hech 28:28, 1 Cor 1:2, 10:32, 11:16, 11:2
 
 ####            a.  2 Tesalonicenses 3:6a -- *que os apartéis de todo hermano...* Pablo ordenó a estos creyentes que no tuvieran comunión con *__<u>todo</u>__ hermano*  [no solo con algunos] *que ande desordenadamente.* Además, la palabra griega traducida "*apartéis*" está en la voz media, lo que implica que deben desasociarse de tal creyente por su propio bien.
 
-####            b.  2 Tesalonicenses 3:6b -- \...*que ande desordenadamente*\... La palabra *desordenadamente* significa fuera de **<u>orden</u>**. En griego esto se usó para describir a un soldado perezoso. Desordenadamente implicaba a una persona que era insubordinada, holgazana y negligente en sus deberes.
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/chaos.png" data-background-size="300px" data-background-position="left" data-background-opacity="0.5"-->
+####            b.  2 Tesalonicenses 3:6b -- *...que ande desordenadamente...* La palabra *desordenadamente* significa fuera de **<u>orden</u>**. En griego esto se usó para describir a un soldado perezoso. Desordenadamente implicaba a una persona que era insubordinada, holgazana y negligente en sus deberes.
 
 ####            c.  2 Tesalonicenses 3:6c -- \...*y no según la enseñanza que recibisteis de nosotros*. La palabra *enseñanza* se refiere a una doctrina o mandato comunicado de uno a otro. Este error describía a un creyente que se **<u>desvió</u>** de la sana enseñanza bíblica dada por los apóstoles y registrada en el Nuevo Testamento.
 
