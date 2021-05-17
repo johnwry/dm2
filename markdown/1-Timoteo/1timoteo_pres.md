@@ -1399,9 +1399,9 @@ Note: Se llama la iglesia de Dios 12x (hech 28:28, 1 Cor 1:2, 10:32, 11:16, 11:2
 <!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/chaos.png" data-background-size="300px" data-background-position="left" data-background-opacity="0.5"-->
 ####            b.  2 Tesalonicenses 3:6b -- *...que ande desordenadamente...* La palabra *desordenadamente* significa fuera de **<u>orden</u>**. En griego esto se usó para describir a un soldado perezoso. Desordenadamente implicaba a una persona que era insubordinada, holgazana y negligente en sus deberes.
 
-####            c.  2 Tesalonicenses 3:6c -- \...*y no según la enseñanza que recibisteis de nosotros*. La palabra *enseñanza* se refiere a una doctrina o mandato comunicado de uno a otro. Este error describía a un creyente que se **<u>desvió</u>** de la sana enseñanza bíblica dada por los apóstoles y registrada en el Nuevo Testamento.
+####            c.  2 Tesalonicenses 3:6c -- *...y no según la enseñanza que recibisteis de nosotros.* La palabra *enseñanza* se refiere a una doctrina o mandato comunicado de uno a otro. Este error describía a un creyente que se **<u>desvió</u>** de la sana enseñanza bíblica dada por los apóstoles y registrada en el Nuevo Testamento.
 
-####            d.  2 Tesalonicenses 3:14 -- *Si alguno no obedece a lo que decimos por medio de esta carta, a ése **<u>señaladlo</u>**, y no os juntéis con él, para que se avergüence*. Observe que Pablo ordenó a los creyentes tesalonicenses a *señalar* a estos hermanos (en lugar de ignorarlos) y no juntarse con ellos.
+####            d.  2 Tesalonicenses 3:14 -- *Si alguno no obedece a lo que decimos por medio de esta carta, a ése **<u>señaladlo</u>**, y no os juntéis con él, para que se avergüence.* Observe que Pablo ordenó a los creyentes tesalonicenses a *señalar* a estos hermanos (en lugar de ignorarlos) y no juntarse con ellos.
 
 ##    C.  Propósitos bíblicos de la disciplina en la iglesia
 
@@ -1455,11 +1455,11 @@ Note: Se llama la iglesia de Dios 12x (hech 28:28, 1 Cor 1:2, 10:32, 11:16, 11:2
 
 #####                2.  La palabra *oyere* no significa simplemente escuchar palabras de manera audible; significa escuchar con atención y un **<u>deseo</u>** de entender.
 
-####            f.  Mateo 18:15b -- \...*si te oyere, has ganado a tu hermano*. La **<u>meta</u>** de este primer paso, como con toda disciplina en la iglesia, es la restauración.
+####            f.  Mateo 18:15b -- *...si te oyere, has ganado a tu hermano.* La **<u>meta</u>** de este primer paso, como con toda disciplina en la iglesia, es la restauración.
 
 ###        2.  **El segundo paso de la disciplina en la iglesia**
 
-####            a.  Mateo 18:16a -- *Mas si no te oyere*\... Aunque deseas una respuesta positiva, la respuesta está fuera de tu control. Si la respuesta es negativa, debes confiar en el Señor y proceder al próximo **<u>paso</u>**.
+####            a.  Mateo 18:16a -- *Mas si no te oyere...* Aunque deseas una respuesta positiva, la respuesta está fuera de tu control. Si la respuesta es negativa, debes confiar en el Señor y proceder al próximo **<u>paso</u>**.
 
 ####            b.  Mateo 18:16b -- *\...toma aún contigo a uno o dos, para que en boca de dos o tres testigos conste toda palabra*. Solo después de haber intentado en vano el corregir al creyente pecador en privado, deberías involucrar a otras **<u>personas</u>**.
 
