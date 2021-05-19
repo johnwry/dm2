@@ -1560,6 +1560,7 @@ Note: Se llama la iglesia de Dios 12x (hech 28:28, 1 Cor 1:2, 10:32, 11:16, 11:2
 
 ##    A.  1 Timoteo 2:1-7 -- La oración
 
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/world-map.png" data-background-size="300px" data-background-position="left" data-background-opacity="0.5"-->
 ###        1.  1 Timoteo 2:1 -- La iglesia tiene la responsabilidad de **<u>orar</u>** por todas las personas en todas partes.
 
 ####            a.  1 Timoteo 2:1a -- *Exhorto* \['pues' -- RV1909\] *ante todo...* La palabra '*pues'* podría ser traducida consecuentemente, atando esta sección a la sección anterior donde Pablo abordó la necesidad de la fidelidad a la sana **<u>doctrina</u>**. 1 Timoteo 1:3-4; 18-19a
@@ -1602,13 +1603,13 @@ Note: Se llama la iglesia de Dios 12x (hech 28:28, 1 Cor 1:2, 10:32, 11:16, 11:2
 
 ###        7.  1 Timoteo 2:5 -- Este versículo explica además por qué debemos orar colectivamente por **<u>todos</u>** los hombres.
 
-####            a.  1 Timoteo 2:5a -- *Porque hay un solo Dios*\... Cuando Pablo escribió esto, la mayoría de la gente creía que habían muchos dioses. Necesitaban saber que verdaderamente hay **<u>un</u>** solo Dios y una sola forma de acercarse a Él. Hechos 17:16-34
+####            a.  1 Timoteo 2:5a -- *Porque hay un solo Dios...* Cuando Pablo escribió esto, la mayoría de la gente creía que habían muchos dioses. Necesitaban saber que verdaderamente hay **<u>un</u>** solo Dios y una sola forma de acercarse a Él. Hechos 17:16-34
 
-####            b.  1 Timoteo 2:5b -- *Hay\...un solo Mediador entre Dios y los hombres*\... Como es cierto hoy en día, la mayoría de la gente creía que había muchas maneras de acercarse a Dios. Todas las personas necesitan saber que solo hay un **<u>mediador</u>** que puede arbitrar entre Dios y la humanidad. Hechos 4:12
+####            b.  1 Timoteo 2:5b -- *Hay...un solo Mediador entre Dios y los hombres...* Como es cierto hoy en día, la mayoría de la gente creía que había muchas maneras de acercarse a Dios. Todas las personas necesitan saber que solo hay un **<u>mediador</u>** que puede arbitrar entre Dios y la humanidad. Hechos 4:12
 
 #####                1.  Los judíos miraban a Moisés (Gálatas 3:19) o los ángeles (Hebreos 2:6) como mediadores para ayudarlos a alcanzar a Dios. Los pensadores gnósticos del día confiaban en múltiples pasos de espíritus intermediarios para ayudarlos a **<u>alcanzar</u>** a sus deidades.
 
-#####                2.  Hoy, algunos grupos religiosos confían en los **<u>santos</u>** o incluso en María como intermediarios para ayudarlos a alcanzar a Dios. Los budistas y muchas otras religiones similares miran a sus antepasados ​​como mediadores.
+#####                2.  Hoy, algunos grupos religiosos confían en los **<u>santos</u>** o incluso en María como intermediarios para ayudarlos a alcanzar a Dios. Los budistas y muchas otras religiones similares miran a sus antepasados  como mediadores.
 
 #####                3.  En lugar de estos, la Biblia presenta a una persona muy específica como el solo y único **<u>verdadero</u>** mediador.
 
