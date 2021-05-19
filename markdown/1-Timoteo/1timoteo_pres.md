@@ -1517,7 +1517,7 @@ Note: Se llama la iglesia de Dios 12x (hech 28:28, 1 Cor 1:2, 10:32, 11:16, 11:2
 # VI. 1 Timoteo 2:1-15 -- Instrucción Sobre la Adoración
 <!-- .element: style="color:white;" -->
 
-<!-- .slide: data-background-color="white" -->
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/church-cover.jpeg" data-background-size="cover"  data-menu-title="VI. 1 Timoteo 2:1-15 - Instrucción Sobre la Adoración"  --> 
 <svg id="svg12583" width="1000" height="700" inkscape:version="1.0.2 (e86c8708, 2021-01-15)" sodipodi:docname="bosquejo-opt.svg" version="1.1" viewBox="0 0 296 207" xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd">
  <sodipodi:namedview id="base" bordercolor="#666666" borderopacity="1.0" fit-margin-bottom="0" fit-margin-left="0" fit-margin-right="0" fit-margin-top="0" inkscape:bbox-paths="true" inkscape:current-layer="layer3" inkscape:cx="394.77242" inkscape:cy="339.58244" inkscape:document-rotation="0" inkscape:document-units="mm" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:snap-bbox="true" inkscape:window-height="935" inkscape:window-maximized="0" inkscape:window-width="1654" inkscape:window-x="24" inkscape:window-y="25" inkscape:zoom="0.74937383" pagecolor="#ffffff" showgrid="false"/>
  <g id="layer3" transform="translate(-1.8 -.18)" inkscape:groupmode="layer" inkscape:label="letters">
@@ -1560,7 +1560,7 @@ Note: Se llama la iglesia de Dios 12x (hech 28:28, 1 Cor 1:2, 10:32, 11:16, 11:2
 
 ##    A.  1 Timoteo 2:1-7 -- La oración
 
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/world-map.png" data-background-size="300px" data-background-position="left" data-background-opacity="0.5"-->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/world-map.png" data-background-size="800px" data-background-position="right 50% bottom 55%" data-background-opacity="0.5"-->
 ###        1.  1 Timoteo 2:1 -- La iglesia tiene la responsabilidad de **<u>orar</u>** por todas las personas en todas partes.
 
 ####            a.  1 Timoteo 2:1a -- *Exhorto* \['pues' -- RV1909\] *ante todo...* La palabra '*pues'* podría ser traducida consecuentemente, atando esta sección a la sección anterior donde Pablo abordó la necesidad de la fidelidad a la sana **<u>doctrina</u>**. 1 Timoteo 1:3-4; 18-19a
