@@ -1576,13 +1576,13 @@ Note: Se llama la iglesia de Dios 12x (hech 28:28, 1 Cor 1:2, 10:32, 11:16, 11:2
 
 ####            c.  1 Timoteo 2:1c -- \...*por todos los hombres*\... Nuestras oraciones deberían incluir a *__<u>todos</u>__ los hombres*. El ministerio de la oración es uno de los principales servicios que la iglesia de Jesucristo puede prestar al mundo en el que vivimos. Tristemente, la oración es uno de los ministerios más descuidados en las iglesias hoy.
 
-###        2.  1 Timoteo 2:2a -- \...*por los reyes y por todos los que están en eminencia*\... Pablo mencionó específicamente a los *reyes* y a todos los que están en autoridad. Los **<u>líderes</u>** de nuestro país deberían ser una de las principales prioridades de nuestras oraciones colectivas como iglesia. Esdras 6:10
+###        2.  1 Timoteo 2:2a -- *...por los reyes y por todos los que están en eminencia...*  Pablo mencionó específicamente a los *reyes* y a todos los que están en autoridad. Los **<u>líderes</u>** de nuestro país deberían ser una de las principales prioridades de nuestras oraciones colectivas como iglesia. Esdras 6:10
 
 ####            a.  La declaración de Pablo aquí es increíble cuando consideras que **<u>Nerón</u>** fue rey cuando Pablo escribió esta epístola.
 
 ####            b.  Cuando Pablo dijo *todos*, se refirió a cada figura de autoridad en nuestras vidas. Debemos orar no solo por líderes importantes como nuestro gobierno y empleadores, sino también por nuestros **<u>padres</u>** y líderes de la iglesia.
 
-###        3.  1 Timoteo 2:2b -- \...*para que vivamos quieta y reposadamente*\... ¿Por qué es esto importante? ¿Estaba Pablo diciendo que los creyentes deberían orar por una vida fácil sin pruebas? Jeremías 29:7
+###        3.  1 Timoteo 2:2b -- *...para que vivamos quieta y reposadamente...* ¿Por qué es esto importante? ¿Estaba Pablo diciendo que los creyentes deberían orar por una vida fácil sin pruebas? Jeremías 29:7
 
 ####            a.  La palabra *quieta* denota **<u>paz</u>** de la ausencia de disturbios externos.
 
@@ -1590,15 +1590,15 @@ Note: Se llama la iglesia de Dios 12x (hech 28:28, 1 Cor 1:2, 10:32, 11:16, 11:2
 
 ####            c.  A medida que continuamos en este pasaje, el motivo de esta oración se enfoca. Una sociedad pacífica y ordenada es el ambiente ideal para la difusión efectiva del evangelio. El respeto de la iglesia por los líderes civiles y las oraciones por el mundo son esenciales para la **<u>misión</u>** evangelística y discipuladora de la iglesia.
 
-###        4.  1 Timoteo 2:2c -- \...*en toda piedad y honestidad*. Poder evangelizar y enseñar libremente y con valentía la Palabra de Dios sin tener a las autoridades en tu espalda, es una tremenda **<u>bendición</u>**. Filipenses 2:27-30
+###        4.  1 Timoteo 2:2c -- *...en toda piedad y honestidad.* Poder evangelizar y enseñar libremente y con valentía la Palabra de Dios sin tener a las autoridades en tu espalda, es una tremenda **<u>bendición</u>**. Filipenses 2:27-30
 
-###        5.  1 Timoteo 2:3-4a -- *Porque esto es bueno y agradable delante de Dios nuestro Salvador, el cual quiere que todos los hombres sean salvos*\... Otra razón por la que oramos por nuestras autoridades es porque Dios desea que todas las personas, incluso los líderes, sean **<u>salvos</u>**.
+###        5.  1 Timoteo 2:3-4a -- *Porque esto es bueno y agradable delante de Dios nuestro Salvador, el cual quiere que todos los hombres sean salvos...*  Otra razón por la que oramos por nuestras autoridades es porque Dios desea que todas las personas, incluso los líderes, sean **<u>salvos</u>**.
 
 ####            a.  La palabra traducida para *querer* THELO es desear o aspirar. La palabra implica volición activa y propósito. Dios realmente desea que todos los hombres PAS ANTHROPOS, o toda la **<u>humanidad</u>**, sean salvos.
 
 ####            b.  Gramaticalmente, la frase *sean salvos* está en la voz pasiva, mostrando que **<u>Dios</u>** es quien salva a las personas. Las personas no son salvadas por sus propios esfuerzos.
 
-###        6.  1 Timoteo 2:4b -- \...*y vengan al conocimiento de la verdad*. La frase *y vengan* está en la voz activa, indicando que esta es la respuesta de la humanidad a la propuesta de Dios. Aunque Dios es quien salva, es responsabilidad de la humanidad venir *al conocimiento de la verdad* por la **<u>fe</u>** en Cristo.
+###        6.  1 Timoteo 2:4b -- *...y vengan al conocimiento de la verdad.*  La frase *y vengan* está en la voz activa, indicando que esta es la respuesta de la humanidad a la propuesta de Dios. Aunque Dios es quien salva, es responsabilidad de la humanidad venir *al conocimiento de la verdad* por la **<u>fe</u>** en Cristo.
 
 ###        7.  1 Timoteo 2:5 -- Este versículo explica además por qué debemos orar colectivamente por **<u>todos</u>** los hombres.
 
