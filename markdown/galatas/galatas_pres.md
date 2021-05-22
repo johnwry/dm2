@@ -1,5 +1,4 @@
 <!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/chainlink.jpeg" data-background-size="cover"  data-menu-title="Início" data-background-color="black" data-background-opacity="0.8" data-auto-animate-easing  -->
-
 <svg width="1280" height="720" version="1.1" viewBox="0 0 508 285.7" xmlns="http://www.w3.org/2000/svg">
  <rect x="-11.94" y="240.2" width="531.9" height="46.52" rx="1.64" ry="1.64" fill="#fff" fill-rule="evenodd"/>
  <rect x="47.62" y="-.756" width="412.8" height="79.38" rx="1.64" ry="1.64" fill="#fff" fill-rule="evenodd" stroke-width="0"/>
@@ -1376,7 +1375,7 @@ El legalismo le quita el foco de Cristo y lo pone en el hombre y en sus esfuerzo
 
 ###### b) Tito 3:5 no sólo habla en contra de cumplir las leyes judías sino de la inutilidad de confiar en cualquier tipo de __<u>buena</u>__ obra. Isaías 64:6, Romanos 3:10-12
 
-##### 2) Refutación: Efesios 2:9 aclara que la salvación "*no*  [es] *por __<u>obras</u>_ ,* *para que nadie se gloríe.*" Nota que no dice "no por **obras de la Ley**, para que nadie se gloríe". Este versículo no sólo habla en contra de la ley judía sino en contra de la confianza en cualquier tipo de buena obra en general.
+##### 2) Refutación: Efesios 2:9 aclara que la salvación "*no*  [es] *por __<u>obras</u>_ , para que nadie se gloríe.*" Nota que no dice "no por **obras de la Ley**, para que nadie se gloríe". Este versículo no sólo habla en contra de la ley judía sino en contra de la confianza en cualquier tipo de buena obra en general.
 
 ##### 3) Refutación: El apóstol __<u>Pablo</u>__, incluso después de haber vivido una buena vida, dijo que quería ser encontrado teniendo la justicia que obtuvo a través de la fe en Jesucristo y no una justicia hecha por sí mismo. Filipenses 3:8-9
 
