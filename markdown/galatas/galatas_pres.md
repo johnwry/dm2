@@ -1504,6 +1504,7 @@ El legalismo le quita el foco de Cristo y lo pone en el hombre y en sus esfuerzo
 
 ### 5. Gálatas 2:19 -- Debido a que hemos sido identificados con Cristo, estamos muertos a la **Ley**. Habiendo sido crucificado con Cristo, estamos muertos a vivir según la __<u>Ley</u>__. Estamos muertos a tener que esforzarnos por nuestra propia cuenta y sobrellevar de alguna manera para poder complacer a Dios mediante la obediencia. Romanos 6:14, Hechos 15:10-11
 
+<!-- .slide: data-background-color="beige" -->
 ### 3 Tiempos de la Salvación
 <svg width="1000" height="600" version="1.1" viewBox="0 0 508 285.75" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
  <g id="yellow_road" transform="translate(-41.814 -45.646)">
