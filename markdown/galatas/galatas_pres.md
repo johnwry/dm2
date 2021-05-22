@@ -1376,7 +1376,7 @@ El legalismo le quita el foco de Cristo y lo pone en el hombre y en sus esfuerzo
 
 ###### b) Tito 3:5 no sólo habla en contra de cumplir las leyes judías sino de la inutilidad de confiar en cualquier tipo de __<u>buena</u>__ obra. Isaías 64:6, Romanos 3:10-12
 
-##### 2) Refutación: Efesios 2:9 aclara que la salvación "*no* \[es\] *por __<u>obras</u>__*, *para que nadie se gloríe.*" Nota que no dice \"no por **obras de la Ley**, para que nadie se gloríe\". Este versículo no sólo habla en contra de la ley judía sino en contra de la confianza en cualquier tipo de buena obra en general.
+##### 2) Refutación: Efesios 2:9 aclara que la salvación "*no*  [es] *por __<u>obras</u>_ ,* *para que nadie se gloríe.*" Nota que no dice "no por **obras de la Ley**, para que nadie se gloríe". Este versículo no sólo habla en contra de la ley judía sino en contra de la confianza en cualquier tipo de buena obra en general.
 
 ##### 3) Refutación: El apóstol __<u>Pablo</u>__, incluso después de haber vivido una buena vida, dijo que quería ser encontrado teniendo la justicia que obtuvo a través de la fe en Jesucristo y no una justicia hecha por sí mismo. Filipenses 3:8-9
 
