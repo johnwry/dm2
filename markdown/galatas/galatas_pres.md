@@ -1268,7 +1268,7 @@ El legalismo le quita el foco de Cristo y lo pone en el hombre y en sus esfuerzo
 
 #### a. Somos justificados por la __<u>obra</u>__ de Cristo. Romanos 3:24-26
 
-#### b. 2 Corintios 5:21 -- "*Al que no conoció pecado, por nosotros lo hizo pecado, para que nosotros fuésemos hechos justicia de Dios en él".* Jesús __<u>murió</u>__ por nuestro pecado en nuestro nombre. Romanos 4:25
+#### b. 2 Corintios 5:21 -- "*Al que no conoció pecado, por nosotros lo hizo pecado, para que nosotros fuésemos hechos justicia de Dios en él.*" Jesús __<u>murió</u>__ por nuestro pecado en nuestro nombre. Romanos 4:25
 
 #### c. Romanos 3:25 -- La muerte de Jesús fue satisfactoria para Dios el Padre; __<u>pagó</u>__ completamente la pena del pecado.
 
@@ -1376,7 +1376,7 @@ El legalismo le quita el foco de Cristo y lo pone en el hombre y en sus esfuerzo
 
 ###### b) Tito 3:5 no sólo habla en contra de cumplir las leyes judías sino de la inutilidad de confiar en cualquier tipo de __<u>buena</u>__ obra. Isaías 64:6, Romanos 3:10-12
 
-##### 2) Refutación: Efesios 2:9 aclara que la salvación "*no* \[es\] *por __<u>obras</u>__*, *para que nadie se gloríe"*. Nota que no dice \"no por **obras de la Ley**, para que nadie se gloríe\". Este versículo no sólo habla en contra de la ley judía sino en contra de la confianza en cualquier tipo de buena obra en general.
+##### 2) Refutación: Efesios 2:9 aclara que la salvación "*no* \[es\] *por __<u>obras</u>__*, *para que nadie se gloríe.*" Nota que no dice \"no por **obras de la Ley**, para que nadie se gloríe\". Este versículo no sólo habla en contra de la ley judía sino en contra de la confianza en cualquier tipo de buena obra en general.
 
 ##### 3) Refutación: El apóstol __<u>Pablo</u>__, incluso después de haber vivido una buena vida, dijo que quería ser encontrado teniendo la justicia que obtuvo a través de la fe en Jesucristo y no una justicia hecha por sí mismo. Filipenses 3:8-9
 
@@ -1426,7 +1426,7 @@ El legalismo le quita el foco de Cristo y lo pone en el hombre y en sus esfuerzo
 
 ###### c) Santiago 2:17b -- La fe de una persona es inadecuada (para recompensa) cuando está __<u>sola</u>__. "*Así también la fe, si no tiene obras, es muerta **en sí misma"***.
 
-###### d) Santiago 2:18 -- La fe de una persona es inadecuada cuando no puede ser __<u>vista</u>__ por otros. "\...***Muéstrame** tu fe sin tus obras, y yo te **mostraré** mi fe por mis obras".*
+###### d) Santiago 2:18 -- La fe de una persona es inadecuada cuando no puede ser __<u>vista</u>__ por otros. "*...**Muéstrame** tu fe sin tus obras, y yo te **mostraré** mi fe por mis obras.*"
 
 ##### 3) Santiago 2:19 -- La fe que no produce ningún resultado visible es __<u>más</u>__ inútil que la fe demoníaca en Dios, que al menos produce estremecimiento. Marcos 3:11, Lucas 8:28
 
@@ -1480,7 +1480,7 @@ El legalismo le quita el foco de Cristo y lo pone en el hombre y en sus esfuerzo
 
 ### 1. Gálatas 2:19a -- Hemos muerto __<u>a</u>__ la ley.
 
-#### a. *"Porque yo por la ley soy __<u>muerto</u>__ para la ley..."*. La ley exige y asegura nuestra muerte. La Ley prueba que somos pecadores, y la pena por el pecado es la muerte. Romanos 7:9-12
+#### a. "*Porque yo por la ley soy __<u>muerto</u>__ para la ley....*" La ley exige y asegura nuestra muerte. La Ley prueba que somos pecadores, y la pena por el pecado es la muerte. Romanos 7:9-12
 
 #### b. En nuestra salvación, morimos __<u>con</u>__ Cristo, después de haber sido crucificados con Él. Romanos 6:3-6, 11; Colosenses 2:20, 3:3
 
@@ -1488,7 +1488,7 @@ El legalismo le quita el foco de Cristo y lo pone en el hombre y en sus esfuerzo
 
 ### 2. Gálatas 2:19b -- ¿Por qué morimos a la ley? Estamos muertos a la Ley para que __<u>podamos</u>__ cumplir un propósito superior.
 
-#### a. Estamos muertos a la __<u>Ley</u>__ "...*a fin de vivir para Dios"*. Romanos 6:6-11
+#### a. Estamos muertos a la __<u>Ley</u>__ "*...a fin de vivir para Dios.*" Romanos 6:6-11
 
 #### b. Estamos muertos a la Ley, por lo que ahora podemos vivir la __<u>vida</u>__ abundante. Juan 1:17, 10:10; Romanos 7:1-6
 
