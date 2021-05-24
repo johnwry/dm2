@@ -1657,11 +1657,12 @@ Note: Se llama la iglesia de Dios 12x (hech 28:28, 1 Cor 1:2, 10:32, 11:16, 11:2
 ####            d.  Es interesante que muchas imágenes en las paredes de las catacumbas y en el arte cristiano primitivo representaban a creyentes orando con las manos en alto. Aunque esta costumbre exacta no se sigue en todas las iglesias, todos los hombres que dirigen la oración deben, sin embargo, estar **<u>libres</u>** de pecado.
 
 <!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/catacumba1.jpeg" data-background-color="black" -->
+> ## Salmo 63:4  Así te bendeciré mientras viva, en tu nombre alzaré mis manos.
 
 <!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/catacumba2.jpeg" data-background-color="black" -->
 
 <!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/catacumba3.png" data-background-color="black" -->
-> Salmo 134:2  Alzad vuestras manos al santuario y bendecid al SEÑOR.
+> ## Salmo 134:2  Alzad vuestras manos al santuario y bendecid al SEÑOR.
 
 
 ##    C.  1 Timoteo 2:9-15 -- Varios requisitos para las mujeres en el culto publico
