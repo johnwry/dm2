@@ -1674,6 +1674,8 @@ Note: Se llama la iglesia de Dios 12x (hech 28:28, 1 Cor 1:2, 10:32, 11:16, 11:2
 
 ###        3.  1 Timoteo 2:9c -- *...no con peinado ostentoso* [lit. -- 'trenzas'], *ni oro, ni perlas, ni vestidos costosos...* En la cultura del primer siglo, las mujeres que se vestían como se describe aquí eran típicamente prostitutas o excesivamente **<u>egocéntricas</u>**.
 
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/romanhair.jpeg" data-background-color="black" -->
+
 ####            a.  La conclusión es que la forma en que una mujer creyente se viste no debe **<u>distraer</u>** de ninguna manera, ya sea a través de la sensualidad o la extravagancia.
 
 ####            b.  Santiago 2:1-2 -- *Hermanos míos, que vuestra fe en nuestro glorioso Señor Jesucristo sea sin acepción de personas. Porque si en vuestra congregación entra un hombre con anillo de oro y con ropa espléndida, y también entra un pobre con vestido **<u>andrajoso</u>**,*
