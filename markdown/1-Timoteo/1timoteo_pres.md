@@ -1647,25 +1647,25 @@ Note: Se llama la iglesia de Dios 12x (hech 28:28, 1 Cor 1:2, 10:32, 11:16, 11:2
 
 ###        2.  1 Timoteo 2:8b -- \...*levantando manos santas, sin ira ni contienda* \[lit. 'disensión'\]. Es vital que los hombres que dirigen la oración en los tiempos de adoración tengan una relación adecuada con Dios y con los **<u>demás</u>**. Salmos 66:18
 
-####            a.  Pablo animó a los hombres que dirigen la oración a levantar *manos santas*. La palabra traducida *santas* en este versículo habla de estar libre de pecado, especialmente de los pecados de ***<u>ira</u>** y contienda*. 2 Samuel 22:21; Salmos 24:4
+####            a.  Pablo animó a los hombres que dirigen la oración a levantar *manos santas.* La palabra traducida *santas* en este versículo habla de estar libre de pecado, especialmente de los pecados de ***<u>ira</u>** y contienda.* 2 Samuel 22:21; Salmos 24:4
 
-####            b.  Los hombres que dirigen la oración en una iglesia deben orar *sin ira*. Cuando se enfrentan a injusticias o persecución, es fácil para los creyentes responder con enojo. Los líderes de la iglesia deben dar el ejemplo de confiar en el Señor en todas las situaciones y orar en lugar de **<u>enojarse</u>**. Salmos 37:1; 7-10
+####            b.  Los hombres que dirigen la oración en una iglesia deben orar *sin ira.* Cuando se enfrentan a injusticias o persecución, es fácil para los creyentes responder con enojo. Los líderes de la iglesia deben dar el ejemplo de confiar en el Señor en todas las situaciones y orar en lugar de **<u>enojarse</u>**. Salmos 37:1; 7-10
 
-####            c.  Pablo también agregó que los hombres que dirigen la oración en la iglesia deben orar *sin contienda*. No debe haber ninguna **<u>desunión</u>** expresada por aquellos que dirigen la oración en la iglesia.
+####            c.  Pablo también agregó que los hombres que dirigen la oración en la iglesia deben orar *sin contienda.* No debe haber ninguna **<u>desunión</u>** expresada por aquellos que dirigen la oración en la iglesia.
 
 ####            d.  Es interesante que muchas imágenes en las paredes de las catacumbas y en el arte cristiano primitivo representaban a creyentes orando con las manos en alto. Aunque esta costumbre exacta no se sigue en todas las iglesias, todos los hombres que dirigen la oración deben, sin embargo, estar **<u>libres</u>** de pecado.
 
 ##    C.  1 Timoteo 2:9-15 -- Varios requisitos para las mujeres en el culto publico
 
-###        1.  1 Timoteo 2:9a -- *Asimismo que las mujeres*\... Pablo dio ahora instrucciones con respecto a las **<u>mujeres</u>** creyentes.
+###        1.  1 Timoteo 2:9a -- *Asimismo que las mujeres...* Pablo dio ahora instrucciones con respecto a las **<u>mujeres</u>** creyentes.
 
-###        2.  1 Timoteo 2:9b -- *Asimismo que las mujeres se atavíen de ropa decorosa* \[lit. 'apropiada'\], *con pudor y modestia*\... Las mujeres creyentes no deberían tratar de llamar la atención hacia ellas mismas por su vestimenta.
+###        2.  1 Timoteo 2:9b -- *Asimismo que las mujeres se atavíen de ropa decorosa*  [lit. 'apropiada'], *con pudor y modestia...* Las mujeres creyentes no deberían tratar de llamar la atención hacia ellas mismas por su vestimenta.
 
 ####            a.  Vestirse modestamente es vestirse con reverencia y **<u>respeto</u>** a sí mismo frente a vestirse con ropa insinuante y evocadora. Proverbios 7:10
 
 ####            b.  Vestirse con pudor significa vestirse de manera razonable o sensata. Significa vestirse de acuerdo con lo que sea apropiado para la situación y la cultura. Las mujeres creyentes no deben atraer la **<u>atención</u>** a sí mismas vistiéndose ya sea sensual o lujosamente.
 
-###        3.  1 Timoteo 2:9c -- \...*no con peinado ostentoso \[lit.* -- *'trenzas'\], ni oro, ni perlas, ni vestidos costosos*\... En la cultura del primer siglo, las mujeres que se vestían como se describe aquí eran típicamente prostitutas o excesivamente **<u>egocéntricas</u>**.
+###        3.  1 Timoteo 2:9c -- *...no con peinado ostentoso* [lit. -- 'trenzas'], *ni oro, ni perlas, ni vestidos costosos...* En la cultura del primer siglo, las mujeres que se vestían como se describe aquí eran típicamente prostitutas o excesivamente **<u>egocéntricas</u>**.
 
 ####            a.  La conclusión es que la forma en que una mujer creyente se viste no debe **<u>distraer</u>** de ninguna manera, ya sea a través de la sensualidad o la extravagancia.
 
@@ -1675,15 +1675,15 @@ Note: Se llama la iglesia de Dios 12x (hech 28:28, 1 Cor 1:2, 10:32, 11:16, 11:2
 
 ####            d.  Pablo no estaba diciendo que las mujeres debían vestirse de forma sencilla o descuidada. Eso también llamaría la atención innecesaria y causaría una pérdida de respeto. Las mujeres deben **<u>vestirse</u>** de acuerdo a la situación.
 
-###        4.  1 Timoteo 2:10a -- \...*sino con buenas obras...* Pablo exhortó a las mujeres creyentes a distinguirse por sus buenas **<u>obras</u>** y servicio a Dios, más que por adornos externos. 1 Pedro 3:3-6
+###        4.  1 Timoteo 2:10a -- *...sino con buenas obras...* Pablo exhortó a las mujeres creyentes a distinguirse por sus buenas **<u>obras</u>** y servicio a Dios, más que por adornos externos. 1 Pedro 3:3-6
 
 ####            a.  Cuando Pablo habló de buenas obras, él estaba hablando de las buenas obras que surgen de un **<u>andar</u>** de fe. Proverbios 31:30-31, Gálatas 2:20
 
-####            b.  Cristo en una mujer es lo que la hace verdaderamente hermosa. No hay nada tan atractivo y edificante como el **<u>fruto</u>** del Espíritu en la vida de una mujer creyente: *amor, gozo, paz, paciencia, benignidad, bondad, fe* \['fidelidad' -- LBLA\], *mansedumbre, templanza*. Gálatas 5:22-23
+####            b.  Cristo en una mujer es lo que la hace verdaderamente hermosa. No hay nada tan atractivo y edificante como el **<u>fruto</u>** del Espíritu en la vida de una mujer creyente: *amor, gozo, paz, paciencia, benignidad, bondad, fe*  ['fidelidad' -- LBLA\], *mansedumbre, templanza.* Gálatas 5:22-23
 
-###        5.  1 Timoteo 2:10b -- \...*como corresponde a mujeres que profesan piedad*. La frase *que profesan* conllevaba la idea de hacer una declaración pública. El estilo de vida de una mujer creyente que anuncia al mundo que Cristo es su Salvador necesita coincidir con lo que **<u>profesa</u>**. 1 Corintios 15:34
+###        5.  1 Timoteo 2:10b -- *...como corresponde a mujeres que profesan piedad.* La frase *que profesan* conllevaba la idea de hacer una declaración pública. El estilo de vida de una mujer creyente que anuncia al mundo que Cristo es su Salvador necesita coincidir con lo que **<u>profesa</u>**. 1 Corintios 15:34
 
-###        6.  1 Timoteo 2:11 -- *La mujer aprenda en silencio, con toda sujeción*\... En el primer siglo, a las mujeres no se les permitía usualmente ser **<u>estudiantes</u>** o incluso hablar en una asamblea pública.
+###        6.  1 Timoteo 2:11 -- *La mujer aprenda en silencio, con toda sujeción...* En el primer siglo, a las mujeres no se les permitía usualmente ser **<u>estudiantes</u>** o incluso hablar en una asamblea pública.
 
 ####            a.  El tiempo del verbo *aprender* (presente, activo, imperativo) comunica continuo y activo aprendizaje. Pablo fue en contra de la cultura cuando habló de las mujeres no solo recibiendo instrucción, sino haciéndolo de manera **<u>activa</u>** y continua.
 
@@ -1701,17 +1701,17 @@ Note: Se llama la iglesia de Dios 12x (hech 28:28, 1 Cor 1:2, 10:32, 11:16, 11:2
 
 #####                2.  Este versículo no está enseñando que una mujer nunca debería estar en desacuerdo con su esposo o la enseñanza que ella recibe. No está enseñando que una mujer no debería tener una **<u>opinión</u>**.
 
-#####                3.  Este versículo no está enseñando que todas las mujeres en general deben someterse a todos los hombres en general. Efesios 5:22 dice a las mujeres creyentes: *...estén sujetas a sus **<u>propios</u>** maridos, como al Señor*. Una mujer creyente debe estar sujeta a su propio marido, no a ningún otro hombre.
+#####                3.  Este versículo no está enseñando que todas las mujeres en general deben someterse a todos los hombres en general. Efesios 5:22 dice a las mujeres creyentes: *...estén sujetas a sus **<u>propios</u>** maridos, como al Señor.* Una mujer creyente debe estar sujeta a su propio marido, no a ningún otro hombre.
 
-###        7.  1 Timoteo 2:12 -- *Porque no permito a la mujer enseñar, ni ejercer dominio sobre el hombre, sino estar en silencio* \['callada' -- LBLA\]. El enseñar la Palabra de Dios en la asamblea pública fue designado por Dios como un rol para **<u>hombres</u>**.
+###        7.  1 Timoteo 2:12 -- *Porque no permito a la mujer enseñar, ni ejercer dominio sobre el hombre, sino estar en silencio*  ['callada' -- LBLA]. El enseñar la Palabra de Dios en la asamblea pública fue designado por Dios como un rol para **<u>hombres</u>**.
 
-####            a.  1 Timoteo 2:12a -- *Porque no permito a la mujer enseñar\...sobre el hombre*\... Esta es una orden de tiempo presente en griego, implicando que enseñar a los **<u>hombres</u>** no era una posición que las mujeres pudieran ocupar en la iglesia.
+####            a.  1 Timoteo 2:12a -- *Porque no permito a la mujer enseñar...sobre el hombre...* Esta es una orden de tiempo presente en griego, implicando que enseñar a los **<u>hombres</u>** no era una posición que las mujeres pudieran ocupar en la iglesia.
 
 #####                1.  Este mandato está restringido al marco de la iglesia local. Aunque a menudo las mujeres son mejores maestras que los hombres, en la **<u>iglesia</u>** local, Dios no quiere que las mujeres enseñen a los hombres. En cualquier otro campo, Dios no pone restricciones acerca de mujeres enseñando a hombres.
 
 #####                2.  Debe notarse que en las Escrituras hay **<u>ejemplos</u>** de mujeres enseñando a mujeres (Tito 2:3-4), niños (2 Timoteo 1:5 con 2 Timoteo 3:14-15), e incluso a hombres creyentes fuera del marco de una iglesia local (Hechos 18:26).
 
-####            b.  1 Timoteo 2:12b -- *Porque no permito a la mujer\...ejercer dominio sobre el hombre*\... Las mujeres no deben tener el liderazgo **<u>sobre</u>** los hombres en la iglesia local.
+####            b.  1 Timoteo 2:12b -- *Porque no permito a la mujer...ejercer dominio sobre el hombre...* Las mujeres no deben tener el liderazgo **<u>sobre</u>** los hombres en la iglesia local.
 
 #####                1.  La frase *ejercer dominio* habla de usurpar o malversar **<u>influencia</u>**. También puede significar ser dominante.
 
@@ -1719,21 +1719,21 @@ Note: Se llama la iglesia de Dios 12x (hech 28:28, 1 Cor 1:2, 10:32, 11:16, 11:2
 
 #####                3.  Este mandamiento tiene que ver con una estructura de autoridad diseñada por Dios, no con el valor de las mujeres. Es similar a la **<u>estructura</u>** de autoridad diseñada por Dios en un hogar creyente. Efesios 5:22-24
 
-####            c.  1 Timoteo 2:12c -- \...*sino estar en silencio*. Aquí nuevamente, Pablo repitió la exhortación a permanecer en silencio, o quieta. Se necesita mayor compostura y gracia, y es digno de mayor honor, asumir voluntariamente una postura de aprendizaje que apoderarse forzosamente del liderazgo. Dios llama a las mujeres de la iglesia local a abrazar esta **<u>increíble</u>** postura.
+####            c.  1 Timoteo 2:12c -- *...sino estar en silencio.* Aquí nuevamente, Pablo repitió la exhortación a permanecer en silencio, o quieta. Se necesita mayor compostura y gracia, y es digno de mayor honor, asumir voluntariamente una postura de aprendizaje que apoderarse forzosamente del liderazgo. Dios llama a las mujeres de la iglesia local a abrazar esta **<u>increíble</u>** postura.
 
 ###        8.  1 Timoteo 2:13-14 -- Pablo dio dos razones para la **<u>estructura</u>** de autoridad que Dios diseñó para la iglesia local.
 
-####            a.  1 Timoteo 2:13 - *Porque Adán fue formado primero, después Eva*. Pablo dio un argumento del orden de la **<u>creación</u>** antes de la caída, del por qué las mujeres no deben asumir el liderazgo en la iglesia local.
+####            a.  1 Timoteo 2:13 - *Porque Adán fue formado primero, después Eva.* Pablo dio un argumento del orden de la **<u>creación</u>** antes de la caída, del por qué las mujeres no deben asumir el liderazgo en la iglesia local.
 
 #####                1.  Dios creó a Adán como la cabeza de la raza humana. Adán fue creado primero. Después, Dios creó a Eva con el propósito de ayudar y completar a Adán. Dios creó a cada uno para un **<u>propósito</u>** único.
 
 #####                2.  Aunque los hombres y las mujeres son iguales, son **<u>diferentes</u>**. Dios le dio a cada género roles específicos y diferentes. Dios creó al hombre y a la mujer para que se complementen el uno al otro, no para competir entre ellos. Un género no es superior al otro.
 
-####            b.  1 Timoteo 2:14 -- *Y Adán no fue engañado, sino que la mujer, siendo engañada, incurrió en transgresión*. Luego, Pablo dio un argumento posterior a la __<u>caída</u>__ del por qué las mujeres no deberían ejercer autoridad sobre los hombres en la iglesia local.
+####            b.  1 Timoteo 2:14 -- *Y Adán no fue engañado, sino que la mujer, siendo engañada, incurrió en transgresión.* Luego, Pablo dio un argumento posterior a la __<u>caída</u>__ del por qué las mujeres no deberían ejercer autoridad sobre los hombres en la iglesia local.
 
 #####                1.  Dios dio específicamente la orden de no comer el fruto a Adán. Era responsabilidad de Adán **<u>proteger</u>** a su esposa y asegurarse de que siguieran las instrucciones de Dios.
 
-#####                2.  Génesis 2:16-17 -- *__Y mandó Jehová Dios al <u>hombre</u>__, diciendo: "De todo árbol del huerto podrás comer; mas del árbol de la ciencia del bien y del mal no comerás; porque el día que de él comieres, ciertamente morirás".*
+#####                2.  Génesis 2:16-17 -- *__Y mandó Jehová Dios al <u>hombre</u>__, diciendo: "De todo árbol del huerto podrás comer; mas del árbol de la ciencia del bien y del mal no comerás; porque el día que de él comieres, ciertamente morirás."*
 
 #####                3.  Por alguna razón, Adán aceptó la oferta de Eva de comer el fruto más allá del mandato de Dios; en lugar de someterse a lo que Dios dijo, se sometió a Eva. Si Adán y Eva hubiesen estado cumpliendo los roles que Dios les dio, Satanás no habría tenido éxito en engañar a **<u>Eva</u>**. 2 Corintios 11:3
 
@@ -1741,19 +1741,19 @@ Note: Se llama la iglesia de Dios 12x (hech 28:28, 1 Cor 1:2, 10:32, 11:16, 11:2
 
 ####            c.  Conclusión: En la creación de Adán y Eva, Dios tenía en mente roles específicos para cada uno de ellos. El no seguir la estructura de Dios llevó al fracaso. Del mismo modo, en la iglesia, hay una estructura similar diseñada por Dios que haríamos bien en **<u>seguir</u>**.
 
-###        9.  1 Timoteo 2:15a -- *Pero se salvará engendrando hijos*\... ¿Enseña este versículo que el dar a luz hijos salvará a las mujeres del infierno?
+###        9.  1 Timoteo 2:15a -- *Pero se salvará engendrando hijos...*  ¿Enseña este versículo que el dar a luz hijos salvará a las mujeres del infierno?
 
 ####            a.  La palabra traducida *salvará* aquí es la palabra SOZO en griego. SOZO se traduce típicamente **<u>salvar</u>**.
 
 ####            b.  En este contexto, concluimos que Pablo se estaba refiriendo a las mujeres siendo salvas de ser **<u>víctimas</u>** de los engaños de Satanás, como lo hizo Eva. 2 Corintios 11:3
 
-###        10. 1 Timoteo 2:15b -- *Pero se salvará\... engendrando hijos, si permaneciere en fe, amor y santificación, con modestia* \[lit. dominio propio\]. Si las mujeres por la fe continúan a lo largo de los años de la crianza de sus hijos viviendo vidas santas, esto las salvará del tipo de **<u>fracaso</u>** y angustia que experimentó Eva.
+###        10. 1 Timoteo 2:15b -- *Pero se salvará... engendrando hijos, si permaneciere en fe, amor y santificación, con modestia* [lit. dominio propio]. Si las mujeres por la fe continúan a lo largo de los años de la crianza de sus hijos viviendo vidas santas, esto las salvará del tipo de **<u>fracaso</u>** y angustia que experimentó Eva.
 
 ####            a.  Las jóvenes creyentes a menudo piensan que el ministerio fuera del hogar es más importante que criar a sus hijos, pero si le creen a Dios, perseverando en fe y amor en la tarea que Dios les ha encomendado, su recompensa será grande, no solo en esta vida sino también en la **<u>eternidad</u>**. Salmos 127:3; Proverbios 31:28-31
 
 ####            b.  Satanás, a través del sistema mundial, busca engañar a las mujeres para que piensen que la realización y el **<u>gozo</u>** se encuentran en el ministerio público en lugar del ministerio en el hogar. Básicamente, este engaño conducirá a la angustia, como lo hizo con Eva.
 
-####            c.  Las mujeres necesitan creer en la Palabra de Dios y confiar en Él, que Su voluntad para ellas, tal como se describe en Su Palabra, es *buena, aceptable y **<u>perfecta</u>***, conduciendo al gozo y la realización. Romanos 12:1-2; 2 Corintios 11:3; Gálatas 6:7-9, 1 Timoteo 5:6; 1 Juan 2:15-17
+####            c.  Las mujeres necesitan creer en la Palabra de Dios y confiar en Él, que Su voluntad para ellas, tal como se describe en Su Palabra, es *buena, aceptable y __<u>perfecta</u>__*, conduciendo al gozo y la realización. Romanos 12:1-2; 2 Corintios 11:3; Gálatas 6:7-9, 1 Timoteo 5:6; 1 Juan 2:15-17
 
 <!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/church-cover.jpeg" data-background-size="cover"  data-menu-title="VII. 1 Timoteo 3:1-16 - Instrucción en la Selección de Líderes en la Iglesia"--> 
 # VII. 1 Timoteo 3:1-16 -- Instrucción en la selección de líderes en la iglesia
