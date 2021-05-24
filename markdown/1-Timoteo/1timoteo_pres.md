@@ -1647,7 +1647,7 @@ Note: Se llama la iglesia de Dios 12x (hech 28:28, 1 Cor 1:2, 10:32, 11:16, 11:2
 
 ###        2.  1 Timoteo 2:8b -- *...levantando manos santas, sin ira ni contienda*  [lit. 'disensión']. Es vital que los hombres que dirigen la oración en los tiempos de adoración tengan una relación adecuada con Dios y con los **<u>demás</u>**. Salmos 66:18
 
-####            a.  Pablo animó a los hombres que dirigen la oración a levantar *manos santas.* La palabra traducida *santas* en este versículo habla de estar libre de pecado, especialmente de los pecados de ***<u>ira</u>** y contienda.* 2 Samuel 22:21; Salmos 24:4
+####            a.  Pablo animó a los hombres que dirigen la oración a levantar *manos santas.* La palabra traducida *santas* en este versículo habla de estar libre de pecado, especialmente de los pecados de *__<u>ira</u>__ y contienda.* 2 Samuel 22:21; Salmos 24:4
 
 ####            b.  Los hombres que dirigen la oración en una iglesia deben orar *sin ira.* Cuando se enfrentan a injusticias o persecución, es fácil para los creyentes responder con enojo. Los líderes de la iglesia deben dar el ejemplo de confiar en el Señor en todas las situaciones y orar en lugar de **<u>enojarse</u>**. Salmos 37:1; 7-10
 
