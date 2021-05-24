@@ -1664,7 +1664,6 @@ Note: Se llama la iglesia de Dios 12x (hech 28:28, 1 Cor 1:2, 10:32, 11:16, 11:2
 <!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/catacumba3.png" data-background-color="black" -->
 > ## Salmo 134:2  Alzad vuestras manos al santuario y bendecid al SEÑOR.
 
-
 ##    C.  1 Timoteo 2:9-15 -- Varios requisitos para las mujeres en el culto publico
 
 ###        1.  1 Timoteo 2:9a -- *Asimismo que las mujeres...* Pablo dio ahora instrucciones con respecto a las **<u>mujeres</u>** creyentes.
