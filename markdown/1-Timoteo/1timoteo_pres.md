@@ -1738,6 +1738,7 @@ Note: Se llama la iglesia de Dios 12x (hech 28:28, 1 Cor 1:2, 10:32, 11:16, 11:2
 
 #####                2.  Aunque los hombres y las mujeres son iguales, son **<u>diferentes</u>**. Dios le dio a cada género roles específicos y diferentes. Dios creó al hombre y a la mujer para que se complementen el uno al otro, no para competir entre ellos. Un género no es superior al otro.
 
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/adanyeva.png" data-background-size="300px" data-background-position="right 50% bottom 65%" data-background-opacity="0.5"-->
 ####            b.  1 Timoteo 2:14 -- *Y Adán no fue engañado, sino que la mujer, siendo engañada, incurrió en transgresión.* Luego, Pablo dio un argumento posterior a la __<u>caída</u>__ del por qué las mujeres no deberían ejercer autoridad sobre los hombres en la iglesia local.
 
 #####                1.  Dios dio específicamente la orden de no comer el fruto a Adán. Era responsabilidad de Adán **<u>proteger</u>** a su esposa y asegurarse de que siguieran las instrucciones de Dios.
