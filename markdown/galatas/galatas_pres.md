@@ -1932,7 +1932,6 @@ El legalismo le quita el foco de Cristo y lo pone en el hombre y en sus esfuerzo
    <path d="m182.1 121.1 13.21 0.2174" fill="none" stroke-dasharray="1.13706, 1.13706" stroke-width="1.137"/>
   </g>
   <rect id="pacto-abrahamico" x="47.05" y="69.34" width="48.08" height="59.4" rx="0" ry="25.46" fill="#f0f" fill-rule="evenodd" stroke-linejoin="round" stroke-width=".7188"/>
-  <!-- .element: class="fragment" data-fragment-index="3"-->
   <g fill="none">
    <path d="m64.7 129.4v47.36" stroke-dasharray="3.495, 1.165" stroke-width="1.165"/>
    <g>
@@ -1960,12 +1959,10 @@ El legalismo le quita el foco de Cristo y lo pone en el hombre y en sus esfuerzo
    <ellipse cx="66.92" cy="24.86" rx="15.8" ry="15.91" fill="#fff" fill-rule="evenodd" stroke="#000" stroke-linejoin="round" stroke-width=".311"/>
    <text x="67.513519" y="23.504786" fill="#000000" font-family="sans-serif" font-size="5.094px" stroke-width=".1273" text-align="center" text-anchor="middle" style="line-height:1.25" xml:space="preserve"><tspan x="67.513519" y="23.504786" text-align="center">Promesas</tspan><tspan x="67.513519" y="29.872099" text-align="center">Hechas</tspan></text>
   </g>
-  <!-- .element: class="fragment" data-fragment-index="1"-->
   <g id="promesas-cumplidas">
    <ellipse cx="266.7" cy="25.77" rx="15.8" ry="15.91" fill="#ff0" fill-rule="evenodd" stroke="#000" stroke-linejoin="round" stroke-width=".3111"/>
    <text x="266.65143" y="24.235079" fill="#000000" font-family="sans-serif" font-size="5.094px" stroke-width=".1273" text-align="center" text-anchor="middle" style="line-height:1.25" xml:space="preserve"><tspan x="266.65143" y="24.235079" text-align="center">Promesas</tspan><tspan x="266.65143" y="30.602392" text-align="center">Cumplidas</tspan></text>
   </g>
-  <!-- .element: class="fragment" data-fragment-index="2"-->
   <g fill="#000000" font-family="sans-serif" text-anchor="middle">
    <g font-size="5.094px" stroke-width=".1273">
     <text x="110.09841" y="148.61465" text-align="center" style="line-height:1.25" xml:space="preserve"><tspan x="110.09841" y="148.61465" stroke-width=".1273" text-align="center" text-anchor="middle">Teocracia</tspan></text>
@@ -1987,7 +1984,6 @@ El legalismo le quita el foco de Cristo y lo pone en el hombre y en sus esfuerzo
     <text x="78.574226" y="143.74933" text-align="center" style="line-height:1.25" xml:space="preserve"><tspan x="78.574226" y="143.74933" text-align="center">Israel</tspan><tspan x="78.574226" y="150.11664" text-align="center">Formado</tspan></text>
    </g>
    <text transform="scale(.9563 1.046)" x="73.683434" y="75.162247" font-size="6.905px" stroke-width=".1726" text-align="center" style="line-height:1.25" xml:space="preserve"><tspan x="73.683434" y="75.162247" font-weight="bold" text-align="center">Pacto</tspan><tspan x="73.683434" y="83.793861" font-weight="bold" text-align="center">Abrahamico</tspan><tspan x="73.683434" y="92.425468" text-align="center">Genesis 12</tspan></text>
-   <!-- .element: class="fragment" data-fragment-index="3"-->
   </g>
   <g id="pacto-davidico">
     <rect x="122.8" y="55.85" width="40.09" height="30.88" fill="#fdfdfd" fill-rule="evenodd" stroke-linejoin="round" stroke-width=".2391"/>
@@ -1995,22 +1991,19 @@ El legalismo le quita el foco de Cristo y lo pone en el hombre y en sus esfuerzo
     <path d="m162.8 74.16 33.76 0.07456" fill="none" stroke-dasharray="1.06500005, 1.06500005000000009" stroke-width="1.065"/>
    <text transform="scale(.9563 1.046)" x="148.72804" y="61.562733" fill="#000000" font-family="sans-serif" font-size="6.905px" stroke-width=".1726" text-align="center" text-anchor="middle" style="line-height:1.25" xml:space="preserve"><tspan x="148.72804" y="61.562733" font-weight="bold" text-align="center">Pacto</tspan><tspan x="148.72804" y="70.194344" font-weight="bold" text-align="center">Davidico</tspan><tspan x="148.72804" y="78.825958" text-align="center">2 Samuel 7</tspan></text>
   </g>
-  <!-- .element: class="fragment" data-fragment-index="5"-->
   <g id="pacto-mosaico">
    <rect x="99.01" y="89.98" width="35.54" height="30.9" fill="#f5f8cc" fill-rule="evenodd" stroke="#000" stroke-linejoin="round" stroke-width=".2252"/>
    <path d="m134.6 100.9 61.99 0.0738" fill="none" stroke="#000" stroke-dasharray="1.43499, 1.43498999999999999" stroke-width="1.435"/>
    <text transform="scale(.9563 1.046)" x="121.09908" y="94.08017" fill="#000000" font-family="sans-serif" font-size="6.905px" stroke-width=".1726" text-align="center" text-anchor="middle" style="line-height:1.25" xml:space="preserve"><tspan x="121.09908" y="94.08017" font-weight="bold" text-align="center">Pacto</tspan><tspan x="121.09908" y="102.71178" font-weight="bold" text-align="center">Mosaico</tspan><tspan x="121.09908" y="111.34339" text-align="center">Exodo 20</tspan></text>
   </g>
-  <!-- .element: class="fragment" data-fragment-index="7"-->
+  <!-- .element: class="fragment" data-fragment-index="1"-->
   <text transform="scale(.9563 1.046)" x="165.92276" y="111.34984" fill="#000000" font-family="sans-serif" font-size="6.905px" stroke-width=".1726" text-align="center" text-anchor="middle" style="line-height:1.25" xml:space="preserve"><tspan x="165.92276" y="111.34984" font-weight="bold" text-align="center">Nuevo</tspan><tspan x="165.92276" y="119.98145" font-weight="bold" text-align="center">Pacto</tspan><tspan x="165.92276" y="128.61307" text-align="center">Jeremias 31</tspan></text>
-  <!-- .element: class="fragment" data-fragment-index="6"-->
   <g id="pacto-inmobiliario">
     <rect x="77.67" y="30.47" width="69.32" height="21.93" fill="#fdfdfd" fill-rule="evenodd" stroke-linejoin="round" stroke-width=".265"/>
     <path d="m64.97 69.08 0.6367-24.81 12.06 0.469" fill="none" stroke-dasharray="1.065,1.065" stroke-width="1.065"/>
     <path d="m147 44.73 49.21-3e-6" fill="none" stroke-dasharray="1.065,1.065" stroke-width="1.065"/>
    <text transform="scale(.9563 1.046)" x="116.85726" y="37.391438" fill="#000000" font-family="sans-serif" font-size="6.462px" stroke-width=".1616" text-align="center" text-anchor="middle" style="line-height:1.25" xml:space="preserve"><tspan x="116.85726" y="37.391438" font-weight="bold" text-align="center">Pacto Inmobiliario</tspan><tspan x="116.85726" y="45.469238" text-align="center">Deuteronomio 30</tspan></text>
   </g>
-  <!-- .element: class="fragment" data-fragment-index="4"-->
  </g>
 </svg>
 
