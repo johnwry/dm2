@@ -2141,6 +2141,20 @@ El legalismo le quita el foco de Cristo y lo pone en el hombre y en sus esfuerzo
 
 ## B. Gálatas 4:1-7 -- Así es como llegamos a ser aceptados en <u>Cristo</u>.
 
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/adopcion-romana/Slide2.png" data-background-color="black" -->
+
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/adopcion-romana/Slide3.png" data-background-color="black" -->
+
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/adopcion-romana/Slide4.png" data-background-color="black" -->
+
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/adopcion-romana/Slide5.png" data-background-color="black" -->
+
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/adopcion-romana/Slide6.png" data-background-color="black" -->
+
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/adopcion-romana/Slide7.png" data-background-color="black" -->
+
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/adopcion-romana/Slide8.png" data-background-color="black" -->
+
 ### Gálatas 4:1-3 -- Comenzaremos examinando a los niños __<u>nacidos</u>__ bajo la Ley.
 
 #### Gálatas 4:1 -- En la cultura griega y romana, un hijo (NEPIOS - niño pequeño) que era heredero potencial de la familia era tratado primero como __<u>esclavo</u>__ y no como hijo.
