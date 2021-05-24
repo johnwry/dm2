@@ -1918,6 +1918,102 @@ El legalismo le quita el foco de Cristo y lo pone en el hombre y en sus esfuerzo
 
 ##### Finalmente, el pacto mosaico fue __<u>cumplido</u>__ por Cristo. Mateo 5:17, Romanos 10:4
 
+<svg width="1280" height="720" version="1.1" viewBox="0 0 338.7 190.5" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <marker id="Arrow1Send" overflow="visible" orient="auto">
+   <path transform="scale(.2) rotate(180) translate(6)" d="m0 0 5-5-17.5 5 17.5 5-5-5z" fill-rule="evenodd" stroke="#000" stroke-width="1pt"/>
+  </marker>
+ </defs>
+ <g stroke="#000">
+  <path transform="scale(.2646)" d="m247.9 167.3v305.7h654.6l22.96 34.72-11.04 10.35 49.74-4.219 13.46-46.69-14.97 10.95-15.97-19.75v-291z" fill="#ff666a" stroke-width="1.002"/>
+  <g id="nuevo_pacto">
+   <rect x="137.2" y="107.5" width="43.1" height="30.95" rx="0" fill="#fad3b3" fill-rule="evenodd" stroke-linejoin="round" stroke-width=".4912"/>
+   <path d="m97.32 122.4 39.2 0.0741" fill="none" stroke-dasharray="1.14308, 1.14308" stroke-width="1.143"/>
+   <path d="m182.1 121.1 13.21 0.2174" fill="none" stroke-dasharray="1.13706, 1.13706" stroke-width="1.137"/>
+  </g>
+  <rect id="pacto-abrahamico" x="47.05" y="69.34" width="48.08" height="59.4" rx="0" ry="25.46" fill="#f0f" fill-rule="evenodd" stroke-linejoin="round" stroke-width=".7188"/>
+  <!-- .element: class="fragment" data-fragment-index="3"-->
+  <g fill="none">
+   <path d="m64.7 129.4v47.36" stroke-dasharray="3.495, 1.165" stroke-width="1.165"/>
+   <g>
+    <path d="m59.15 155.9 218.1 0.7937" stroke-width=".465"/>
+    <g stroke-width="1.265">
+     <path d="m92.48 139.7v35.72"/>
+     <path d="m124.2 138.9v35.72"/>
+     <path d="m161.9 138.9v35.72"/>
+     <path d="m175.7 139.1v35.72"/>
+     <path d="m237.5 138.7v35.72"/>
+    </g>
+   </g>
+  </g>
+  <path transform="scale(.2646)" d="m742.9 155.5v61.62h-42.41v52.17h42.41v205h38.87v-205h43.07v-52.17h-43.07v-61.62z" fill="#ffe6d5" fill-rule="evenodd" stroke-linejoin="round" stroke-width="4.157"/>
+  <path d="m81.9 24.1h168.8" fill="none" stroke-width=".965"/>
+  <g id="cumplimiento-lines" fill="none">
+   <path d="m207.1 44.43 36.9-0.07803s-0.8232-1.195-0.4991 3.722c0.584 8.861 0.4991 73.29 0.4991 73.29" stroke-dasharray="0.979006, 0.979006" stroke-width=".979"/>
+   <path d="m206.8 73.79 45.52 60.95" marker-end="url(#Arrow1Send)" stroke-dasharray="1.065, 1.065" stroke-width="1.065"/>
+  </g>
+  <path d="m208.2 121.3 35.83 0.0985" fill="none" stroke-dasharray="1.26029, 1.26029" stroke-width="1.26"/>
+ </g>
+ <g>
+  <text x="94.316872" y="19.356735" fill="#000000" font-family="sans-serif" font-size="9.114px" stroke-width=".2279" style="line-height:1.25" xml:space="preserve"><tspan x="94.316872" y="19.356735" stroke-width=".2279">El Programa de Pacto con Israel</tspan></text>
+  <g id="promesas-hechas">
+   <ellipse cx="66.92" cy="24.86" rx="15.8" ry="15.91" fill="#fff" fill-rule="evenodd" stroke="#000" stroke-linejoin="round" stroke-width=".311"/>
+   <text x="67.513519" y="23.504786" fill="#000000" font-family="sans-serif" font-size="5.094px" stroke-width=".1273" text-align="center" text-anchor="middle" style="line-height:1.25" xml:space="preserve"><tspan x="67.513519" y="23.504786" text-align="center">Promesas</tspan><tspan x="67.513519" y="29.872099" text-align="center">Hechas</tspan></text>
+  </g>
+  <!-- .element: class="fragment" data-fragment-index="1"-->
+  <g id="promesas-cumplidas">
+   <ellipse cx="266.7" cy="25.77" rx="15.8" ry="15.91" fill="#ff0" fill-rule="evenodd" stroke="#000" stroke-linejoin="round" stroke-width=".3111"/>
+   <text x="266.65143" y="24.235079" fill="#000000" font-family="sans-serif" font-size="5.094px" stroke-width=".1273" text-align="center" text-anchor="middle" style="line-height:1.25" xml:space="preserve"><tspan x="266.65143" y="24.235079" text-align="center">Promesas</tspan><tspan x="266.65143" y="30.602392" text-align="center">Cumplidas</tspan></text>
+  </g>
+  <!-- .element: class="fragment" data-fragment-index="2"-->
+  <g fill="#000000" font-family="sans-serif" text-anchor="middle">
+   <g font-size="5.094px" stroke-width=".1273">
+    <text x="110.09841" y="148.61465" text-align="center" style="line-height:1.25" xml:space="preserve"><tspan x="110.09841" y="148.61465" stroke-width=".1273" text-align="center" text-anchor="middle">Teocracia</tspan></text>
+    <text x="141.69121" y="148.49876" text-align="center" style="line-height:1.25" xml:space="preserve"><tspan x="141.69121" y="148.49876" stroke-width=".1273" text-align="center" text-anchor="middle">Monarquia</tspan></text>
+    <text x="194.02287" y="150.38451" text-align="center" style="line-height:1.25" xml:space="preserve"><tspan x="194.02287" y="150.38451" stroke-width=".1273" text-align="center" text-anchor="middle">Retornos</tspan></text>
+    <text x="224.71504" y="150.83891" text-align="center" style="line-height:1.25" xml:space="preserve"><tspan x="224.71504" y="150.83891" stroke-width=".1273" text-align="center" text-anchor="middle">Iglesia</tspan></text>
+    <text x="259.85791" y="150.50644" text-align="center" style="line-height:1.25" xml:space="preserve"><tspan x="259.85791" y="150.50644" stroke-width=".1273" text-align="center" text-anchor="middle">Reino Mesianico</tspan></text>
+   </g>
+   <text x="245.84523" y="168.1665" font-size="5.906px" stroke-width=".1476" text-align="center" style="line-height:1.25" xml:space="preserve"><tspan x="245.84523" y="168.1665" stroke-width=".1476" text-align="center" text-anchor="middle">Nuevo  Testamento</tspan></text>
+   <text x="193.74318" y="173.38486" font-size="5.094px" stroke-width=".1273" text-align="center" style="line-height:1.25" xml:space="preserve"><tspan x="193.74318" y="173.38486" stroke-width=".1273" text-align="center" text-anchor="middle">Nehemias</tspan></text>
+   <text x="193.74182" y="165.34143" font-size="5.094px" stroke-width=".1273" text-align="center" style="line-height:1.25" xml:space="preserve"><tspan x="193.74182" y="165.34143" stroke-width=".1273" text-align="center" text-anchor="middle">Esdras</tspan></text>
+   <text transform="rotate(268.7)" x="-161.12625" y="167.33762" font-size="5.581px" stroke-width=".1395" text-align="center" style="line-height:1.25" xml:space="preserve"><tspan x="-161.12625" y="167.33762" stroke-width=".1395" text-align="center" text-anchor="middle">Exilio</tspan></text>
+   <g font-size="5.094px" stroke-width=".1273">
+    <text x="142.09148" y="165.96004" text-align="center" style="line-height:1.25" xml:space="preserve"><tspan x="142.09148" y="165.96004" text-align="center">Reyes de</tspan><tspan x="142.09148" y="172.32735" text-align="center">Israel</tspan></text>
+    <text x="109.37977" y="172.0565" text-align="center" style="line-height:1.25" xml:space="preserve"><tspan x="109.37977" y="172.0565" stroke-width=".1273" text-align="center" text-anchor="middle">Josue</tspan></text>
+    <text x="109.40192" y="164.30112" text-align="center" style="line-height:1.25" xml:space="preserve"><tspan x="109.40192" y="164.30112" stroke-width=".1273" text-align="center" text-anchor="middle">Moises</tspan></text>
+    <text x="78.592987" y="163.70702" text-align="center" style="line-height:1.25" xml:space="preserve"><tspan x="78.592987" y="163.70702" stroke-width=".1273" text-align="center" text-anchor="middle">Patriarcas</tspan></text>
+    <text x="79.543655" y="171.86263" text-align="center" style="line-height:1.25" xml:space="preserve"><tspan x="79.543655" y="171.86263" stroke-width=".1273" text-align="center" text-anchor="middle">Moises</tspan></text>
+    <text x="78.574226" y="143.74933" text-align="center" style="line-height:1.25" xml:space="preserve"><tspan x="78.574226" y="143.74933" text-align="center">Israel</tspan><tspan x="78.574226" y="150.11664" text-align="center">Formado</tspan></text>
+   </g>
+   <text transform="scale(.9563 1.046)" x="73.683434" y="75.162247" font-size="6.905px" stroke-width=".1726" text-align="center" style="line-height:1.25" xml:space="preserve"><tspan x="73.683434" y="75.162247" font-weight="bold" text-align="center">Pacto</tspan><tspan x="73.683434" y="83.793861" font-weight="bold" text-align="center">Abrahamico</tspan><tspan x="73.683434" y="92.425468" text-align="center">Genesis 12</tspan></text>
+   <!-- .element: class="fragment" data-fragment-index="3"-->
+  </g>
+  <g id="pacto-davidico">
+    <rect x="122.8" y="55.85" width="40.09" height="30.88" fill="#fdfdfd" fill-rule="evenodd" stroke-linejoin="round" stroke-width=".2391"/>
+    <path d="m95.45 74.69 27.4-0.1745" fill="none" stroke-dasharray="1.065, 1.06499999999999995" stroke-width="1.065"/>
+    <path d="m162.8 74.16 33.76 0.07456" fill="none" stroke-dasharray="1.06500005, 1.06500005000000009" stroke-width="1.065"/>
+   <text transform="scale(.9563 1.046)" x="148.72804" y="61.562733" fill="#000000" font-family="sans-serif" font-size="6.905px" stroke-width=".1726" text-align="center" text-anchor="middle" style="line-height:1.25" xml:space="preserve"><tspan x="148.72804" y="61.562733" font-weight="bold" text-align="center">Pacto</tspan><tspan x="148.72804" y="70.194344" font-weight="bold" text-align="center">Davidico</tspan><tspan x="148.72804" y="78.825958" text-align="center">2 Samuel 7</tspan></text>
+  </g>
+  <!-- .element: class="fragment" data-fragment-index="5"-->
+  <g id="pacto-mosaico">
+   <rect x="99.01" y="89.98" width="35.54" height="30.9" fill="#f5f8cc" fill-rule="evenodd" stroke="#000" stroke-linejoin="round" stroke-width=".2252"/>
+   <path d="m134.6 100.9 61.99 0.0738" fill="none" stroke="#000" stroke-dasharray="1.43499, 1.43498999999999999" stroke-width="1.435"/>
+   <text transform="scale(.9563 1.046)" x="121.09908" y="94.08017" fill="#000000" font-family="sans-serif" font-size="6.905px" stroke-width=".1726" text-align="center" text-anchor="middle" style="line-height:1.25" xml:space="preserve"><tspan x="121.09908" y="94.08017" font-weight="bold" text-align="center">Pacto</tspan><tspan x="121.09908" y="102.71178" font-weight="bold" text-align="center">Mosaico</tspan><tspan x="121.09908" y="111.34339" text-align="center">Exodo 20</tspan></text>
+  </g>
+  <!-- .element: class="fragment" data-fragment-index="7"-->
+  <text transform="scale(.9563 1.046)" x="165.92276" y="111.34984" fill="#000000" font-family="sans-serif" font-size="6.905px" stroke-width=".1726" text-align="center" text-anchor="middle" style="line-height:1.25" xml:space="preserve"><tspan x="165.92276" y="111.34984" font-weight="bold" text-align="center">Nuevo</tspan><tspan x="165.92276" y="119.98145" font-weight="bold" text-align="center">Pacto</tspan><tspan x="165.92276" y="128.61307" text-align="center">Jeremias 31</tspan></text>
+  <!-- .element: class="fragment" data-fragment-index="6"-->
+  <g id="pacto-inmobiliario">
+    <rect x="77.67" y="30.47" width="69.32" height="21.93" fill="#fdfdfd" fill-rule="evenodd" stroke-linejoin="round" stroke-width=".265"/>
+    <path d="m64.97 69.08 0.6367-24.81 12.06 0.469" fill="none" stroke-dasharray="1.065,1.065" stroke-width="1.065"/>
+    <path d="m147 44.73 49.21-3e-6" fill="none" stroke-dasharray="1.065,1.065" stroke-width="1.065"/>
+   <text transform="scale(.9563 1.046)" x="116.85726" y="37.391438" fill="#000000" font-family="sans-serif" font-size="6.462px" stroke-width=".1616" text-align="center" text-anchor="middle" style="line-height:1.25" xml:space="preserve"><tspan x="116.85726" y="37.391438" font-weight="bold" text-align="center">Pacto Inmobiliario</tspan><tspan x="116.85726" y="45.469238" text-align="center">Deuteronomio 30</tspan></text>
+  </g>
+  <!-- .element: class="fragment" data-fragment-index="4"-->
+ </g>
+</svg>
+
 ## B. Gálatas 3:18e-25 -- Pablo demostró el valor de la promesa encontrada en el Pacto Abrahámico y la verdadera función de la Ley.
 
 ### Gálatas 3:18e-20 -- La Ley versus la __<u>gracia</u>__: Pablo comparó la Ley con la promesa de Dios. 
