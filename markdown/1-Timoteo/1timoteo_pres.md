@@ -1843,21 +1843,21 @@ Note: Se llama la iglesia de Dios 12x (hech 28:28, 1 Cor 1:2, 10:32, 11:16, 11:2
 
 ####             d.  Aunque el concepto de anciano era familiar para la mayoría de los primeros cristianos hebreos, no era necesariamente familiar para todas las culturas **<u>gentiles</u>**.
 
-###         2.  1 Timoteo 3:1b -- *Palabra fiel: Si alguno anhela obispado, buena obra desea*. Hay varios términos griegos usados ​​en el Nuevo Testamento para describir el oficio de un anciano. Cada término resalta un **<u>aspecto</u>** un poco diferente de este oficio.
+###         2.  1 Timoteo 3:1b -- *Palabra fiel: Si alguno anhela obispado, buena obra desea.* Hay varios términos griegos usados en el Nuevo Testamento para describir el oficio de un anciano. Cada término resalta un **<u>aspecto</u>** un poco diferente de este oficio.
 
-####             a.  1 Timoteo 3:1 -- *Palabra fiel: Si alguno anhela obispado, buena obra desea.* La palabra ***<u>obispado</u>*** EPISKOPOS podría traducirse como una de dos, obispo o sobreveedor.
+####             a.  1 Timoteo 3:1 -- *Palabra fiel: Si alguno anhela obispado, buena obra desea.* La palabra *__<u>obispado</u>__* EPISKOPOS podría traducirse como una de dos, obispo o sobreveedor.
 
 #####                 1.  Un EPISKOPOS era un vigilante, un superintendente o sobreveedor. EPISKOPOS era un término universal para un **<u>superior</u>** o un inspector.
 
 #####                 2.  En el Nuevo Testamento, el obispo de la iglesia **<u>cuidaba</u>** de la vida espiritual de los creyentes. Este concepto estaba estrechamente relacionado con el pastoreo.
 
-####             b.  Tito 1:5 -- *Por esta causa te dejé en Creta, para que corrigieses lo deficiente, y establecieses ancianos en cada ciudad, así como yo te mandé*. Aunque el término anciano PRESBUTEROS literalmente significa hombre anciano, en el contexto de la iglesia se usó para describir a un hombre **<u>maduro</u>** teniendo criterio experimentado. 1 Timoteo 4:14
+####             b.  Tito 1:5 -- *Por esta causa te dejé en Creta, para que corrigieses lo deficiente, y establecieses ancianos en cada ciudad, así como yo te mandé.* Aunque el término anciano PRESBUTEROS literalmente significa hombre anciano, en el contexto de la iglesia se usó para describir a un hombre **<u>maduro</u>** teniendo criterio experimentado. 1 Timoteo 4:14
 
 #####                 1.  Una comparación de 1 Timoteo 3:1-7 y Tito 1:5-9 muestra que PRESPUTEOS (ancianos) y EPISKOPOS (obispos) describían el **<u>mismo</u>** oficio.
 
 #####                 2.  Sin embargo, a diferencia del término obispo, el término anciano se refiere a la madurez sin considerar la edad real. El significado de esto es que el anciano generalmente posee tanto sabiduría como experiencia. Ya sea que un líder de iglesia sea viejo o no, él debe tener amplia experiencia y poseer sabiduría piadosa para calificar para el **<u>servicio</u>**.
 
-####             c.  Efesios 4:11-12 -- *Y Él mismo constituyó a unos, apóstoles; a otros, profetas; a otros, evangelistas; a otros, **pastores y maestros**, a fin de perfeccionar* \['capacitar' -- LBLA\] *a los santos para la obra del ministerio, para la edificación del cuerpo de Cristo*. El significado literal de esta palabra pastor POIMEN es ovejero, la persona que cuida a un rebaño de **<u>ovejas</u>**.
+####             c.  Efesios 4:11-12 -- *Y Él mismo constituyó a unos, apóstoles; a otros, profetas; a otros, evangelistas; a otros, **pastores y maestros**, a fin de perfeccionar*  ['capacitar' -- LBLA] *a los santos para la obra del ministerio, para la edificación del cuerpo de Cristo.* El significado literal de esta palabra pastor POIMEN es ovejero, la persona que cuida a un rebaño de **<u>ovejas</u>**.
 
 #####                 1.  En Juan 10:11-14 Jesús se llamó a Sí mismo el Buen Pastor. Un pastor da su vida por las ovejas, pero el **<u>asalariado</u>** las deja morir. Hebreos 13:20; 1 Pedro 5:4
 
