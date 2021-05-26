@@ -1889,7 +1889,7 @@ Note: Se llama la iglesia de Dios 12x (hech 28:28, 1 Cor 1:2, 10:32, 11:16, 11:2
 
 #####                 5.  Todos los adjetivos usados ​​en 1 Timoteo 3 y Tito describiendo a los ancianos están en el **<u>género</u>** masculino, indicando que se esperaba que los ancianos fueran hombres.
 
-###         3.  1 Timoteo 3:1c -- *Palabra fiel: Si alguno anhela obispado, buena obra desea*. Pablo instruyó a Timoteo concerniente al **<u>tipo</u>** de líderes que debería elegir como ancianos en las iglesias.
+###         3.  1 Timoteo 3:1c -- *Palabra fiel: Si alguno anhela obispado, buena obra desea.* Pablo instruyó a Timoteo concerniente al **<u>tipo</u>** de líderes que debería elegir como ancianos en las iglesias.
 
 ####             a.  Hechos 20:17-35 muestra que la iglesia en Éfeso tenía ancianos funcionando mucho antes de que Pablo escribiera esta **<u>carta</u>**. ¿Por qué entonces Timoteo necesitó esta información sobre el nombramiento de ancianos en la iglesia de Éfeso que ya funcionaba?
 
@@ -1901,7 +1901,7 @@ Note: Se llama la iglesia de Dios 12x (hech 28:28, 1 Cor 1:2, 10:32, 11:16, 11:2
 
 ####             e.  Afortunadamente, debido a las cartas divinamente inspiradas de Pablo a Timoteo y Tito, ahora sabemos quién **<u>cualifica</u>** para el ancianato de la iglesia y quién no.
 
-###         4.  1 Timoteo 3:1d -- \...*Si alguno **anhela** obispado, buena obra **<u>desea</u>***. El oficio de anciano u obispo es algo que un hombre debe desear hacer y no algo a lo que se le obliga a aceptar mediante compromisos o manipulación.
+###         4.  1 Timoteo 3:1d -- \...*Si alguno **anhela** obispado, buena obra __<u>desea</u>__.* El oficio de anciano u obispo es algo que un hombre debe desear hacer y no algo a lo que se le obliga a aceptar mediante compromisos o manipulación.
 
 ####             a.  La palabra traducida *anhela* OREGO significa agarrar, alcanzar o extenderse con las manos. Metafóricamente, la palabra significaba anhelar, intentar alcanzar o ser ambicioso. Se usa negativamente en 1 Timoteo 6:10 para describir la codicia por **<u>ganancia</u>** financiera.
 
