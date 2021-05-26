@@ -1853,7 +1853,7 @@ Note: Se llama la iglesia de Dios 12x (hech 28:28, 1 Cor 1:2, 10:32, 11:16, 11:2
 
 ####             b.  Tito 1:5 -- *Por esta causa te dejé en Creta, para que corrigieses lo deficiente, y establecieses ancianos en cada ciudad, así como yo te mandé.* Aunque el término anciano PRESBUTEROS literalmente significa hombre anciano, en el contexto de la iglesia se usó para describir a un hombre **<u>maduro</u>** teniendo criterio experimentado. 1 Timoteo 4:14
 
-#####                 1.  Una comparación de 1 Timoteo 3:1-7 y Tito 1:5-9 muestra que PRESPUTEOS (ancianos) y EPISKOPOS (obispos) describían el **<u>mismo</u>** oficio.
+#####                 1.  Una comparación de 1 Timoteo 3:1-7 y Tito 1:5-9 muestra que PRESBUTEROS (ancianos) y EPISKOPOS (obispos) describían el **<u>mismo</u>** oficio.
 
 #####                 2.  Sin embargo, a diferencia del término obispo, el término anciano se refiere a la madurez sin considerar la edad real. El significado de esto es que el anciano generalmente posee tanto sabiduría como experiencia. Ya sea que un líder de iglesia sea viejo o no, él debe tener amplia experiencia y poseer sabiduría piadosa para calificar para el **<u>servicio</u>**.
 
