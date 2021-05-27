@@ -47,7 +47,9 @@ data-background-position="right 25% bottom 25%"
 ```
 
 # PANDOC
-pandoc -f docx "Haciendo Hacedores de Discípulos Maestro.docx" -t markdown --wrap=none --markdown-headings=atx --extract-media=extracted-media -o discipulado2.md
+pandoc -f docx "Haciendo Hacedores de Discípulos Maestro.docx" -t markdown --wrap=none --markdown-headings=atx --extract-media=media -o discipulado2.md
+
+--reference-doc=custom-reference.docx //not sure about location setting but this is the command to run pandoc with a reference docx to produce equal dm2 files.
 
 # Steps to convert Word to Markdown
 1. Convert using pandoc (command above)
