@@ -1,7 +1,8 @@
-<!-- .slide: data-background-image="media/image.jpg" -->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/DiscipuladoBiblico/media/image1.jpg" -->
 ## Haciendo Hacedores de Discípulos
+<!-- .element: style="color:white;" -->
 ### Redescubriendo el arte perdido de hacer discípulos
-![](media/image2.png){width="1.9048611111111111in" height="0.6965277777777777in"}
+<!-- .element: style="color:white;" -->
 ___
 El mayor desafío que la iglesia enfrenta en cualquier generación dada, es lograr que las personas participen en el proceso de la replicación. Esto es especialmente difícil en ciertos círculos donde los maestros niegan que la Gran Comisión sea aplicable para hoy. Sin la Gran Comisión no existe ímpetu bíblico para que las iglesias se reproduzcan. Si la iglesia de Jesucristo fracasa en reduplicarse así misma a través de un discipulado efectivo, las iglesias locales lentamente quedaran vacantes debido a la falta de agregar nuevos miembros al cuerpo de Cristo.
 ___
@@ -25,22 +26,22 @@ ___
 **Escríbenos a: bret.nazworth\@gmail.com**
 **www.DM2USA.org**
 ___
-|**Haciendo Hacedores de Discípulos**|
+|**Haciendo Hacedores de Discípulos**| |
 |---------|-----------|
-|La Visión y la Misión de Jesucristo|**7**|
+|**La Visión y la Misión de Jesucristo**|**7**|
 |**El Evangelio** |**11**|
-|**El Modelo Bíblico de Hacer Discípulos |**27**|
+|**El Modelo Bíblico de Hacer Discípulos** |**27**|
 |**El Rol de DM2 en el Cumplimiento de la Gran Comisión**|**39**|
 |**Una Estrategia Práctica** |**49**|
 |**El Plan de Estudios**| **59**|
 |**Conclusión**| **63**|
-
+___
 ## Haciendo Hacedores de Discípulos
 ### Redescubriendo el arte perdido de hacer discípulos
 
 # I.  La Visión y la Misión de Jesucristo
 
-##    A.  La visión de Jesucristo: "*edificaré mi <u>iglesia</u>.*"
+##    A.  La visión de Jesucristo: "*edificaré mi <u>iglesia</u>*"
 
 ###        1.  La visión de Jesucristo es ver a Su iglesia - __<u>cuerpo</u>__ y esposa de Cristo - completa. Mateo 16:18, 28:19-20; Romanos 11:25
 

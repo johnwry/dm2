@@ -1911,7 +1911,7 @@ Note: Se llama la iglesia de Dios 12x (hech 28:28, 1 Cor 1:2, 10:32, 11:16, 11:2
 
 ##     B.  1 Timoteo 3:2-7 -- Cualificaciones para el oficio de anciano/obispo
 
-###         1.  1 Timoteo 3:2a -- *Pero es necesario que el obispo sea irreprensible*\... Tito 1:6-7
+###         1.  1 Timoteo 3:2a -- *Pero es necesario que el obispo sea irreprensible...*  Tito 1:6-7
 
 ####             a.  *Sea irreprensible* NEPILEMPTOS significa que para que un hombre cualifique no debe tener fallas observables en su conducta o carácter. No debe haber una **<u>causa</u>** justificable para la crítica en su vida.
 
@@ -1919,9 +1919,9 @@ Note: Se llama la iglesia de Dios 12x (hech 28:28, 1 Cor 1:2, 10:32, 11:16, 11:2
 
 ####             c.  En resumen, un anciano no debe tener ningún defecto en su carácter o conducta que pueda traer crítica justificable sobre sí mismo o sobre la **<u>iglesia</u>** de Dios.
 
-###         2.  1 Timoteo 3:2b -- *Pero es necesario que el obispo sea\...marido de una sola mujer*. La frase *marido de una sola mujer* muestra nuevamente que el liderazgo se limitaba a los **<u>hombres</u>**. Tito 1:6
+###         2.  1 Timoteo 3:2b -- *Pero es necesario que el obispo sea...marido de una sola mujer.* La frase *marido de una sola mujer* muestra nuevamente que el liderazgo se limitaba a los **<u>hombres</u>**. Tito 1:6
 
-####             a.  Esta frase, *marido de una sola mujer*, podría traducirse como \"Él **<u>ahora</u>** mismo debe continuar siendo un tipo de hombre de una sola mujer\".
+####             a.  Esta frase, *marido de una sola mujer*, podría traducirse como "Él **<u>ahora</u>** mismo debe continuar siendo un tipo de hombre de una sola mujer".
 
 #####                 1.  Los requerimientos presentados en esta lista de cualificaciones para ancianos se muestran basados en el estado actual del candidato y no en su historia pasada **<u>previa</u>** a su salvación.
 
@@ -1945,7 +1945,7 @@ Note: Se llama la iglesia de Dios 12x (hech 28:28, 1 Cor 1:2, 10:32, 11:16, 11:2
 
 ####             e.  Un estudio detallado de 1 Corintios 7 podría ser necesario para aquellos que no estén familiarizados con las instrucciones de Pablo concernientes al **<u>matrimonio</u>** y el divorcio.
 
-###         3.  1 Timoteo 3:2c -- *Pero es necesario que el obispo sea\... sobrio*\... El significado estricto de la palabra *sobrio* NEFALIOS es \"libre de **<u>vino</u>**\".
+###         3.  1 Timoteo 3:2c -- *Pero es necesario que el obispo sea... sobrio...* El significado estricto de la palabra *sobrio* NEFALIOS es "libre de **<u>vino</u>**".
 
 ####             a.  Lingüísticamente, este término podría significar abstenerse del vino por completo. Así es como fue usado por algunos **<u>escritores</u>** antiguos.
 
@@ -1953,39 +1953,39 @@ Note: Se llama la iglesia de Dios 12x (hech 28:28, 1 Cor 1:2, 10:32, 11:16, 11:2
 
 ####             c.  Un anciano debía ser sobrio y con autocontrol en su pensamiento. No debía **<u>embriagarse</u>** con nada incluyendo pasiones, lujuria, emociones, drogas, alcohol o similares.
 
-###         4.  1 Timoteo 3:2d -- *Pero es necesario que el obispo sea\... prudente*\... (Tito 1:8) Ser prudente es tener una mente sana, con autocontrol, **<u>modesto</u>** e inofensivo en las relaciones.
+###         4.  1 Timoteo 3:2d -- *Pero es necesario que el obispo sea... prudente...* (Tito 1:8) Ser prudente es tener una mente sana, con autocontrol, **<u>modesto</u>** e inofensivo en las relaciones.
 
 ####             a.  Una persona *prudente* SOPHRON es aquella que usa el sano juicio. El candidato a anciano debe dejar que la **<u>sabiduría</u>**, no el impulso, sea el factor guía en su vida.
 
 ####             b.  Debido a que un anciano en la iglesia local trata con **<u>personas</u>** que sufren sus problemas personales, debe ser sensato.
 
-###         5.  1 Timoteo 3:2e -- *Pero es necesario que el obispo sea\... decoroso*\... En griego, la palabra *decoroso* KOSMIOS significa de buen comportamiento y ordenado. Una persona *decorosa* vive una **<u>vida</u>** ordenada. Él cumple con sus responsabilidades fielmente.
+###         5.  1 Timoteo 3:2e -- *Pero es necesario que el obispo sea... decoroso...* En griego, la palabra *decoroso* KOSMIOS significa de buen comportamiento y ordenado. Una persona *decorosa* vive una **<u>vida</u>** ordenada. Él cumple con sus responsabilidades fielmente.
 
-###         6.  1 Timoteo 3:2f -- *Pero es necesario que el obispo sea\... hospedador*\... (Tito 1:8) La palabra griega *hospedador* PHILOXENOS significa amador de los desconocidos o un **<u>amigo</u>** para los extranjeros. 3 Juan 5-8
+###         6.  1 Timoteo 3:2f -- *Pero es necesario que el obispo sea... hospedador...* (Tito 1:8) La palabra griega *hospedador* PHILOXENOS significa amador de los desconocidos o un **<u>amigo</u>** para los extranjeros. 3 Juan 5-8
 
-###         7.  1 Timoteo 3:2g -- *Pero es necesario que el obispo sea\... apto para enseñar*\... *Apto para enseñar* DIDAKTIKOS es un requisito a menudo pasado por alto para un anciano. El anciano tiene que ser capaz de transmitir la verdad de una forma clara. Él debe ser un estudiante de la Palabra. Tito 1:9 usa dos frases adicionales para describir a los ancianos con respecto a la **<u>enseñanza</u>**.
+###         7.  1 Timoteo 3:2g -- *Pero es necesario que el obispo sea... apto para enseñar...Apto para enseñar* DIDAKTIKOS es un requisito a menudo pasado por alto para un anciano. El anciano tiene que ser capaz de transmitir la verdad de una forma clara. Él debe ser un estudiante de la Palabra. Tito 1:9 usa dos frases adicionales para describir a los ancianos con respecto a la **<u>enseñanza</u>**.
 
-####             a.  Tito 1:9a -- *Retenedor de la palabra fiel tal como ha sido enseñada\... Retenedor* ANTECHO significa aferrarse o defender tenazmente la posición de uno. Con respecto a la verdad, los ancianos están llamados a aferrarse a la enseñanza que han recibido y retenerla como la única **<u>fuente</u>** confiable de verdad en el mundo.
+####             a.  Tito 1:9a -- *Retenedor de la palabra fiel tal como ha sido enseñada... Retenedor* ANTECHO significa aferrarse o defender tenazmente la posición de uno. Con respecto a la verdad, los ancianos están llamados a aferrarse a la enseñanza que han recibido y retenerla como la única **<u>fuente</u>** confiable de verdad en el mundo.
 
-####             b.  Tito 1:9b -- \...*para que también pueda exhortar con sana enseñanza y convencer a los que contradicen*. A través de la sana doctrina, el anciano debe tanto animar a los creyentes como desmentir a los falsos maestros. La meta de refutar a quienes contradicen es corregir, no **<u>avergonzar</u>**.
+####             b.  Tito 1:9b -- *...para que también pueda exhortar con sana enseñanza y convencer a los que contradicen.* A través de la sana doctrina, el anciano debe tanto animar a los creyentes como desmentir a los falsos maestros. La meta de refutar a quienes contradicen es corregir, no **<u>avergonzar</u>**.
 
-###         8.  1 Timoteo 3:3a -- *Pero es necesario que el obispo sea\... no dado al vino*\... (Tito 1:7) *Dado al vino* PARAINOS literalmente referido a tener un odre en la mano. La cercanía al vino se convirtió en la metáfora griega para la embriaguez y el desorden asociado con ella. Un anciano no debe **<u>abusar</u>** del vino.
+###         8.  1 Timoteo 3:3a -- *Pero es necesario que el obispo sea...no dado al vino...* (Tito 1:7) *Dado al vino* PARAINOS literalmente referido a tener un odre en la mano. La cercanía al vino se convirtió en la metáfora griega para la embriaguez y el desorden asociado con ella. Un anciano no debe **<u>abusar</u>** del vino.
 
-###         9.  1 Timoteo 3:3b -- *Pero es necesario que el obispo sea\...no pendenciero*\... (Tito 1:7) *Pendenciero* PLEKTES significa peleador. Incluye el concepto de usar lenguaje reprochable o severo con el propósito de herir. En otras palabras, un agresor. Una persona combativa está descalificada para el ancianato. Tito 1:7 dice que un anciano no debe ser ***<u>iracundo</u>***.
+###         9.  1 Timoteo 3:3b -- *Pero es necesario que el obispo sea...no pendenciero...* (Tito 1:7) *Pendenciero* PLEKTES significa peleador. Incluye el concepto de usar lenguaje reprochable o severo con el propósito de herir. En otras palabras, un agresor. Una persona combativa está descalificada para el ancianato. Tito 1:7 dice que un anciano no debe ser ***<u>iracundo</u>**.*
 
-###         10. 1 Timoteo 3:3c -- *Pero es necesario que el obispo sea\...amable\...* Aunque la palabra *amable* EPIEIKES significa complaciente y tímido, esto no está hablando de alguien que es un enclenque. Tampoco se refiere a alguien dominante. Amable habla de alguien que, aunque tiene la fuerza de carácter para dirigir, cede **<u>cuando</u>** la situación así lo amerita.
+###         10. 1 Timoteo 3:3c -- *Pero es necesario que el obispo sea...amable...* Aunque la palabra *amable* EPIEIKES significa complaciente y tímido, esto no está hablando de alguien que es un enclenque. Tampoco se refiere a alguien dominante. Amable habla de alguien que, aunque tiene la fuerza de carácter para dirigir, cede **<u>cuando</u>** la situación así lo amerita.
 
 ###         11. 1 Timoteo 3:3d -- *Pero es necesario que el obispo sea\... **<u>apacible</u>**\...* Ser *apacible* AMACHOS significa no ser contencioso o combativo.
 
-###         12. 1 Timoteo 3:3e -- *Pero es necesario que el obispo sea\... no avaro*. *No avaro* APHILARGUROS es no ser codicioso. Una persona con una fijación por el dinero no debe ser elegida como anciano. Esta podría ser una persona rica ocupada en ganar más riqueza o una persona pobre ocupada en hacerse **<u>rica</u>**.
+###         12. 1 Timoteo 3:3e -- *Pero es necesario que el obispo sea\... no avaro. No avaro* APHILARGUROS es no ser codicioso. Una persona con una fijación por el dinero no debe ser elegida como anciano. Esta podría ser una persona rica ocupada en ganar más riqueza o una persona pobre ocupada en hacerse **<u>rica</u>**.
 
-###         13. 1 Timoteo 3:4a -- *Que gobierne bien su casa*\... (Tito 1:6) *Que gobierne bien*, PROISTEMI habla de buena administración. La misma habilidad requerida para dirigir un hogar sin problemas es necesaria para dirigir una iglesia. Una persona que no tiene un hogar bien administrado no **<u>califica</u>** para el ancianato.
+###         13. 1 Timoteo 3:4a -- *Que gobierne bien su casa...* (Tito 1:6) *Que gobierne bien*, PROISTEMI habla de buena administración. La misma habilidad requerida para dirigir un hogar sin problemas es necesaria para dirigir una iglesia. Una persona que no tiene un hogar bien administrado no **<u>califica</u>** para el ancianato.
 
 ###         14. 1 Timoteo 3:4b -- *Que tenga a sus hijos en sujeción con toda honestidad* \['dignidad' -- LBLA\]\... *Honestidad* SEMNOTAS significa tanto decencia como seriedad. El candidato a anciano debe siempre hacer lo mejor para su familia sin preocuparse de lo que **<u>otros</u>** piensen.
 
-####             a.  Tito 1:6 -- \...*y tenga hijos creyentes*\... significa que sus hijos deben ser **<u>fieles</u>**.
+####             a.  Tito 1:6 -- *...y tenga hijos creyentes...* significa que sus hijos deben ser **<u>fieles</u>**.
 
-####             b.  Tito 1:6 -- \...*y tenga hijos creyentes que no estén acusados de disolución*\... *Disolución* ASOTIA describe a un hijo que está extremadamente influenciado por las tentaciones y descuidadamente satisface sus deseos y apetitos. Habla de un estilo de vida **<u>irresponsable</u>** e inmoral.
+####             b.  Tito 1:6 -- *...y tenga hijos creyentes que no estén acusados de disolución...Disolución* ASOTIA describe a un hijo que está extremadamente influenciado por las tentaciones y descuidadamente satisface sus deseos y apetitos. Habla de un estilo de vida **<u>irresponsable</u>** e inmoral.
 
 ####             c.  Tito 1:6 -- \...*y tenga hijos creyentes que no estén acusados de\... rebeldía. Rebeldía* ANUPOTAKTOS significa desordenado o fuera de **<u>control</u>**.
 
@@ -2015,7 +2015,7 @@ Note: Se llama la iglesia de Dios 12x (hech 28:28, 1 Cor 1:2, 10:32, 11:16, 11:2
 
 ####             b.  1 Timoteo 3:6b -- \...*caiga en la condenación del diablo*. No solo es peligroso para la iglesia nombrar como anciano a un recién convertido; es igualmente peligroso en sí mismo para el recién convertido. Debido a su orgullo, un convertido que se hace un anciano demasiado rápido puede experimentar el mismo juicio que **<u>Satanás</u>**. Isaías 14:12-14
 
-###         18. 1 Timoteo 3:7 -- *También es necesario que tenga buen testimonio de los de afuera, para que no caiga en descrédito y en **<u>lazo</u>** del diablo*. Un candidato a anciano debe tener una reputación honorable en medio de la comunidad inconversa.
+###         18. 1 Timoteo 3:7 -- *También es necesario que tenga buen testimonio de los de afuera, para que no caiga en descrédito y en **<u>lazo</u>** del diablo.* Un candidato a anciano debe tener una reputación honorable en medio de la comunidad inconversa.
 
 ####             a.  Incluso si un hombre es muy admirado en la iglesia, hay algo claramente mal con su carácter si los inconversos tienen una opinión negativa de **<u>él</u>**.
 
