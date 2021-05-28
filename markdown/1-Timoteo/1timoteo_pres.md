@@ -1883,11 +1883,11 @@ Note: Se llama la iglesia de Dios 12x (hech 28:28, 1 Cor 1:2, 10:32, 11:16, 11:2
 
 #####                 2.  Bíblicamente, los ancianos *que gobiernan bien*, lo que significa que trabajan duro en la predicación y la enseñanza de la Palabra, deben ser pagados. No hay mención bíblica de personal remunerado en las iglesias que no sea para los ancianos que pastorean/enseñan al **<u>rebaño</u>**. 1 Corintios 9:4, 11-12, 14; Gálatas 6:6; 1 Timoteo 5:17-18
 
-#####                 3.  Todos los verbos usados ​​en 1 Timoteo 3 y Tito 1 que describen las cualificaciones de un anciano están en tiempo presente, indicando que estas necesitaban estar presentes, cualidades actuales, no cualidades que eran verdaderas de ellos en el **<u>pasado</u>**.
+#####                 3.  Todos los verbos usados en 1 Timoteo 3 y Tito 1 que describen las cualificaciones de un anciano están en tiempo presente, indicando que estas necesitaban estar presentes, cualidades actuales, no cualidades que eran verdaderas de ellos en el **<u>pasado</u>**.
 
 #####                 4.  Aunque no hay una edad de retiro dada para los ancianos, cuando se vuelve obvio que ya no son capaces de funcionar bien en el pastoreo del rebaño de Dios, deben retirarse o se les debe pedir que se **<u>retiren</u>**.
 
-#####                 5.  Todos los adjetivos usados ​​en 1 Timoteo 3 y Tito describiendo a los ancianos están en el **<u>género</u>** masculino, indicando que se esperaba que los ancianos fueran hombres.
+#####                 5.  Todos los adjetivos usados en 1 Timoteo 3 y Tito describiendo a los ancianos están en el **<u>género</u>** masculino, indicando que se esperaba que los ancianos fueran hombres.
 
 ###         3.  1 Timoteo 3:1c -- *Palabra fiel: Si alguno anhela obispado, buena obra desea.* Pablo instruyó a Timoteo concerniente al **<u>tipo</u>** de líderes que debería elegir como ancianos en las iglesias.
 
@@ -1971,7 +1971,7 @@ Note: Se llama la iglesia de Dios 12x (hech 28:28, 1 Cor 1:2, 10:32, 11:16, 11:2
 
 ###         8.  1 Timoteo 3:3a -- *Pero es necesario que el obispo sea...no dado al vino...* (Tito 1:7) *Dado al vino* PARAINOS literalmente referido a tener un odre en la mano. La cercanía al vino se convirtió en la metáfora griega para la embriaguez y el desorden asociado con ella. Un anciano no debe **<u>abusar</u>** del vino.
 
-###         9.  1 Timoteo 3:3b -- *Pero es necesario que el obispo sea...no pendenciero...* (Tito 1:7) *Pendenciero* PLEKTES significa peleador. Incluye el concepto de usar lenguaje reprochable o severo con el propósito de herir. En otras palabras, un agresor. Una persona combativa está descalificada para el ancianato. Tito 1:7 dice que un anciano no debe ser ***<u>iracundo</u>**.*
+###         9.  1 Timoteo 3:3b -- *Pero es necesario que el obispo sea...no pendenciero...* (Tito 1:7) *Pendenciero* PLEKTES significa peleador. Incluye el concepto de usar lenguaje reprochable o severo con el propósito de herir. En otras palabras, un agresor. Una persona combativa está descalificada para el ancianato. Tito 1:7 dice que un anciano no debe ser *__<u>iracundo</u>__.*
 
 ###         10. 1 Timoteo 3:3c -- *Pero es necesario que el obispo sea...amable...* Aunque la palabra *amable* EPIEIKES significa complaciente y tímido, esto no está hablando de alguien que es un enclenque. Tampoco se refiere a alguien dominante. Amable habla de alguien que, aunque tiene la fuerza de carácter para dirigir, cede **<u>cuando</u>** la situación así lo amerita.
 
@@ -2013,7 +2013,7 @@ Note: Se llama la iglesia de Dios 12x (hech 28:28, 1 Cor 1:2, 10:32, 11:16, 11:2
 
 #####                 2.  Un recién creyente puede **<u>verse</u>** tentado a ver el rol de un anciano desde una perspectiva gerencial o ejecutiva en lugar desde la perspectiva bíblica de ser un pastor.
 
-####             b.  1 Timoteo 3:6b -- \...*caiga en la condenación del diablo*. No solo es peligroso para la iglesia nombrar como anciano a un recién convertido; es igualmente peligroso en sí mismo para el recién convertido. Debido a su orgullo, un convertido que se hace un anciano demasiado rápido puede experimentar el mismo juicio que **<u>Satanás</u>**. Isaías 14:12-14
+####             b.  1 Timoteo 3:6b -- \...*caiga en la condenación del diablo.* No solo es peligroso para la iglesia nombrar como anciano a un recién convertido; es igualmente peligroso en sí mismo para el recién convertido. Debido a su orgullo, un convertido que se hace un anciano demasiado rápido puede experimentar el mismo juicio que **<u>Satanás</u>**. Isaías 14:12-14
 
 ###         18. 1 Timoteo 3:7 -- *También es necesario que tenga buen testimonio de los de afuera, para que no caiga en descrédito y en **<u>lazo</u>** del diablo.* Un candidato a anciano debe tener una reputación honorable en medio de la comunidad inconversa.
 
