@@ -1,5 +1,4 @@
 <!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/church-cover.jpeg" data-background-size="cover"  data-menu-title="Início"--> 
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -288,7 +287,7 @@ ___
 # 1 Timoteo
 En la Casa de Dios
 Note: ¿Cómo te comportas en tu casa? ¿Cómo te comportas en la casa de otra persona? Una cosa es hacer las cosas como quieres en tu propia casa; otra cosa es hacer lo que quieres en la casa de otra persona. 
-Timoteo es como un hijo para Pablo. Sin embargo le escribe una carta muy formal. Un padre generalmente no escribe una carta tan formal a su hijo. POrque? Es porque trata de un tema muy importante, no era un tema liviano ni sujetivo según el concepto de iglesia de Pablo sino de Jesucristo. 
+Timoteo es como un hijo para Pablo. Sin embargo le escribe una carta muy formal. Un padre generalmente no escribe una carta tan formal a su hijo. Porque? Es porque trata de un tema muy importante, no era un tema liviano ni sujetivo según el concepto de iglesia de Pablo sino de Jesucristo. 
 
 <!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/church-cover.jpeg" data-background-size="cover"  data-menu-title="I.  La Iglesia: Información General"--> 
 # I.  La Iglesia: Información General 
