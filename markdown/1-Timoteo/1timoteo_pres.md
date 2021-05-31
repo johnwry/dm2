@@ -1910,9 +1910,8 @@ Note: Se llama la iglesia de Dios 12x (hech 28:28, 1 Cor 1:2, 10:32, 11:16, 11:2
 
 ##     B.  1 Timoteo 3:2-7 -- Cualificaciones para el oficio de anciano/obispo
 
-1 Timoteo 3:2
+1 Timoteo 3:2 (LBLA)</br>
 "*Un obispo debe ser, pues, irreprochable,* </br>
-<!-- .element: class="fragment" -->
 *marido de una sola mujer,* </br>
 <!-- .element: class="fragment" -->
 *sobrio,* </br>
@@ -1983,6 +1982,18 @@ Note: Se llama la iglesia de Dios 12x (hech 28:28, 1 Cor 1:2, 10:32, 11:16, 11:2
 ####             a.  Tito 1:9a -- *Retenedor de la palabra fiel tal como ha sido enseñada... Retenedor* ANTECHO significa aferrarse o defender tenazmente la posición de uno. Con respecto a la verdad, los ancianos están llamados a aferrarse a la enseñanza que han recibido y retenerla como la única **<u>fuente</u>** confiable de verdad en el mundo.
 
 ####             b.  Tito 1:9b -- *...para que también pueda exhortar con sana enseñanza y convencer a los que contradicen.* A través de la sana doctrina, el anciano debe tanto animar a los creyentes como desmentir a los falsos maestros. La meta de refutar a quienes contradicen es corregir, no **<u>avergonzar</u>**.
+
+1 Timoteo 3:3 (LBLA) </br>
+no dado a la bebida, </br>
+<!-- .element: class="fragment" -->
+no pendenciero, </br>
+<!-- .element: class="fragment" -->
+sino amable, </br>
+<!-- .element: class="fragment" -->
+no contencioso, </br>
+<!-- .element: class="fragment" -->
+no avaricioso.</br>
+<!-- .element: class="fragment" -->
 
 ###         8.  1 Timoteo 3:3a -- *Pero es necesario que el obispo sea...no dado al vino...* (Tito 1:7) *Dado al vino* PARAINOS literalmente referido a tener un odre en la mano. La cercanía al vino se convirtió en la metáfora griega para la embriaguez y el desorden asociado con ella. Un anciano no debe **<u>abusar</u>** del vino.
 
