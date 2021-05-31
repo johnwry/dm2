@@ -1984,7 +1984,8 @@ Note: Se llama la iglesia de Dios 12x (hech 28:28, 1 Cor 1:2, 10:32, 11:16, 11:2
 
 ####             b.  Tito 1:9b -- *...para que también pueda exhortar con sana enseñanza y convencer a los que contradicen.* A través de la sana doctrina, el anciano debe tanto animar a los creyentes como desmentir a los falsos maestros. La meta de refutar a quienes contradicen es corregir, no **<u>avergonzar</u>**.
 
-<p>1 Timoteo 3:3 (LBLA) </p>
+1 Timoteo 3:3 (LBLA) 
+<!-- .element: class="fragment" -->
 *no dado a la bebida,* </br>
 <!-- .element: class="fragment" -->
 *no pendenciero,* </br>
