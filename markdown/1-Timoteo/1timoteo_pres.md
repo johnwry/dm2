@@ -1912,11 +1912,17 @@ Note: Se llama la iglesia de Dios 12x (hech 28:28, 1 Cor 1:2, 10:32, 11:16, 11:2
 
 *"Un obispo debe ser, pues, irreprochable,* 
 >> *marido de una sola mujer,* </br>
+<!-- .element: class="fragment" -->
 >>		*sobrio,* </br>
+<!-- .element: class="fragment" -->
 >>		*prudente,* </br>
+<!-- .element: class="fragment" -->
 >>		*de conducta decorosa,* </br>
+<!-- .element: class="fragment" -->
 >>		*hospitalario,* </br>
+<!-- .element: class="fragment" -->
 >>		*apto para enseñar,"*
+<!-- .element: class="fragment" -->
 1 Timoteo 3:2
 
 ###         1.  1 Timoteo 3:2a -- *Pero es necesario que el obispo sea irreprensible...*  Tito 1:6-7
