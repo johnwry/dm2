@@ -1912,6 +1912,7 @@ Note: Se llama la iglesia de Dios 12x (hech 28:28, 1 Cor 1:2, 10:32, 11:16, 11:2
 
 1 Timoteo 3:2 (LBLA)</br>
 "*Un obispo debe ser, pues, irreprochable,* </br>
+<!-- .element: class="fragment" -->
 *marido de una sola mujer,* </br>
 <!-- .element: class="fragment" -->
 *sobrio,* </br>
