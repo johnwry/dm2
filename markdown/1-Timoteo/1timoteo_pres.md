@@ -1986,15 +1986,15 @@ Note: Se llama la iglesia de Dios 12x (hech 28:28, 1 Cor 1:2, 10:32, 11:16, 11:2
 
 <p>1 Timoteo 3:3 (LBLA) </p>
 *no dado a la bebida,* </br>
-<!-- .element: class="fragment animated bounceInLeft" -->
+<!-- .element: class="fragment" -->
 *no pendenciero,* </br>
-<!-- .element: class="fragment animated bounceInLeft" -->
+<!-- .element: class="fragment" -->
 *sino amable,* </br>
-<!-- .element: class="fragment animated bounceInLeft" -->
+<!-- .element: class="fragment" -->
 *no contencioso,* </br>
-<!-- .element: class="fragment animated bounceInLeft" -->
+<!-- .element: class="fragment" -->
 *no avaricioso.*</br>
-<!-- .element: class="fragment animated bounceInLeft" -->
+<!-- .element: class="fragment" -->
 
 ###         8.  1 Timoteo 3:3a -- *Pero es necesario que el obispo sea...no dado al vino...* (Tito 1:7) *Dado al vino* PARAINOS literalmente referido a tener un odre en la mano. La cercanía al vino se convirtió en la metáfora griega para la embriaguez y el desorden asociado con ella. Un anciano no debe **<u>abusar</u>** del vino.
 
