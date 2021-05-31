@@ -1910,13 +1910,13 @@ Note: Se llama la iglesia de Dios 12x (hech 28:28, 1 Cor 1:2, 10:32, 11:16, 11:2
 
 ##     B.  1 Timoteo 3:2-7 -- Cualificaciones para el oficio de anciano/obispo
 
-Un obispo debe ser, pues, irreprochable, 
-		marido de una sola mujer, 
-		sobrio, 
-		prudente, 
-		de conducta decorosa, 
-		hospitalario, 
-		apto para enseñar, 1Timoteo 3:2
+>Un obispo debe ser, pues, irreprochable, 
+>>marido de una sola mujer, 
+>>		sobrio, 
+>>		prudente, 
+>>		de conducta decorosa, 
+>>		hospitalario, 
+>>		apto para enseñar, 1Timoteo 3:2
 
 ###         1.  1 Timoteo 3:2a -- *Pero es necesario que el obispo sea irreprensible...*  Tito 1:6-7
 
