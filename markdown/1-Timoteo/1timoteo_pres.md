@@ -1910,6 +1910,14 @@ Note: Se llama la iglesia de Dios 12x (hech 28:28, 1 Cor 1:2, 10:32, 11:16, 11:2
 
 ##     B.  1 Timoteo 3:2-7 -- Cualificaciones para el oficio de anciano/obispo
 
+Un obispo debe ser, pues, irreprochable, 
+		marido de una sola mujer, 
+		sobrio, 
+		prudente, 
+		de conducta decorosa, 
+		hospitalario, 
+		apto para enseñar, 1Timoteo 3:2
+
 ###         1.  1 Timoteo 3:2a -- *Pero es necesario que el obispo sea irreprensible...*  Tito 1:6-7
 
 ####             a.  *Sea irreprensible* NEPILEMPTOS significa que para que un hombre cualifique no debe tener fallas observables en su conducta o carácter. No debe haber una **<u>causa</u>** justificable para la crítica en su vida.
@@ -1978,7 +1986,7 @@ Note: Se llama la iglesia de Dios 12x (hech 28:28, 1 Cor 1:2, 10:32, 11:16, 11:2
 
 ###         12. 1 Timoteo 3:3e -- *Pero es necesario que el obispo sea\... no avaro. No avaro* APHILARGUROS es no ser codicioso. Una persona con una fijación por el dinero no debe ser elegida como anciano. Esta podría ser una persona rica ocupada en ganar más riqueza o una persona pobre ocupada en hacerse **<u>rica</u>**.
 
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/house.png" data-background-size="300px" data-background-position="right 25% bottom 75%" data-background-opacity="0.5" -->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/house.png" data-background-size="300px" data-background-position="right 25% bottom 15%" data-background-opacity="0.5" -->
 ###         13. 1 Timoteo 3:4a -- *Que gobierne bien su casa...* (Tito 1:6) *Que gobierne bien*, PROISTEMI habla de buena administración. La misma habilidad requerida para dirigir un hogar sin problemas es necesaria para dirigir una iglesia. Una persona que no tiene un hogar bien administrado no **<u>califica</u>** para el ancianato.
 
 ###         14. 1 Timoteo 3:4b -- *Que tenga a sus hijos en sujeción con toda honestidad* \['dignidad' -- LBLA\]\... *Honestidad* SEMNOTAS significa tanto decencia como seriedad. El candidato a anciano debe siempre hacer lo mejor para su familia sin preocuparse de lo que **<u>otros</u>** piensen.
