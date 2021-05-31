@@ -1983,17 +1983,17 @@ Note: Se llama la iglesia de Dios 12x (hech 28:28, 1 Cor 1:2, 10:32, 11:16, 11:2
 
 ####             b.  Tito 1:9b -- *...para que también pueda exhortar con sana enseñanza y convencer a los que contradicen.* A través de la sana doctrina, el anciano debe tanto animar a los creyentes como desmentir a los falsos maestros. La meta de refutar a quienes contradicen es corregir, no **<u>avergonzar</u>**.
 
-1 Timoteo 3:3 (LBLA) </br>
-no dado a la bebida, </br>
-<!-- .element: class="fragment" -->
-no pendenciero, </br>
-<!-- .element: class="fragment" -->
-sino amable, </br>
-<!-- .element: class="fragment" -->
-no contencioso, </br>
-<!-- .element: class="fragment" -->
-no avaricioso.</br>
-<!-- .element: class="fragment" -->
+<p>1 Timoteo 3:3 (LBLA) </p>
+*no dado a la bebida,* </br>
+<!-- .element: class="fragment animated bounceInLeft" -->
+*no pendenciero,* </br>
+<!-- .element: class="fragment animated bounceInLeft" -->
+*sino amable,* </br>
+<!-- .element: class="fragment animated bounceInLeft" -->
+*no contencioso,* </br>
+<!-- .element: class="fragment animated bounceInLeft" -->
+*no avaricioso.*</br>
+<!-- .element: class="fragment animated bounceInLeft" -->
 
 ###         8.  1 Timoteo 3:3a -- *Pero es necesario que el obispo sea...no dado al vino...* (Tito 1:7) *Dado al vino* PARAINOS literalmente referido a tener un odre en la mano. La cercanía al vino se convirtió en la metáfora griega para la embriaguez y el desorden asociado con ella. Un anciano no debe **<u>abusar</u>** del vino.
 
@@ -2014,33 +2014,33 @@ no avaricioso.</br>
 
 ####             b.  Tito 1:6 -- *...y tenga hijos creyentes que no estén acusados de disolución...Disolución* ASOTIA describe a un hijo que está extremadamente influenciado por las tentaciones y descuidadamente satisface sus deseos y apetitos. Habla de un estilo de vida **<u>irresponsable</u>** e inmoral.
 
-####             c.  Tito 1:6 -- \...*y tenga hijos creyentes que no estén acusados de\... rebeldía. Rebeldía* ANUPOTAKTOS significa desordenado o fuera de **<u>control</u>**.
+####             c.  Tito 1:6 -- *...y tenga hijos creyentes que no estén acusados de... rebeldía. Rebeldía* ANUPOTAKTOS significa desordenado o fuera de **<u>control</u>**.
 
 #####                 1.  Un hijo rebelde es posiblemente señal de un padre que ya sea no presta atención adecuada a su hijo o no está proveyendo un liderazgo **<u>sólido</u>** y afectuoso.
 
 #####                 2.  La forma en que un padre trata a sus hijos es probablemente cómo él trataría con los de su **<u>rebaño</u>** si se convirtiera en obispo. Efesios 6:4
 
-###         15. 1 Timoteo 3:5a -- *Pues el que no sabe gobernar su propia casa*\... El rol de liderazgo en la institución divina de la familia es el campo de entrenamiento para el liderazgo en la institución divina de la iglesia. Si un hombre es incapaz de gobernar su hogar, no califica para el **<u>trabajo</u>** de anciano.
+###         15. 1 Timoteo 3:5a -- *Pues el que no sabe gobernar su propia casa...*  El rol de liderazgo en la institución divina de la familia es el campo de entrenamiento para el liderazgo en la institución divina de la iglesia. Si un hombre es incapaz de gobernar su hogar, no califica para el **<u>trabajo</u>** de anciano.
 
 ####             a.  La palabra traducida *gobernar* en este versículo es la misma palabra traducida *gobernar* en el versículo cuatro y significa no solo liderar sino también **<u>cuidar</u>**.
 
 ####             b.  Con todas las demandas y presiones sobre los esposos/padres, se necesita un hombre que esté andando por medio del **<u>Espíritu</u>** de Dios para guiar bien al rebaño de Dios.
 
-###         16. 1 Timoteo 3:5b -- *\...¿cómo cuidará de la iglesia de Dios?* Un anciano debe ser capaz de cuidar la casa de Dios. *Cuidará* *de* EPIMELEOMAI significa **<u>preocuparse</u>** por algo.
+###         16. 1 Timoteo 3:5b -- *...¿cómo cuidará de la iglesia de Dios?* Un anciano debe ser capaz de cuidar la casa de Dios. *Cuidará de* EPIMELEOMAI significa **<u>preocuparse</u>** por algo.
 
 ####             a.  Si un hombre no puede administrar bien su propia casa, no está calificado para administrar la **<u>iglesia</u>**.
 
 ####             b.  Si un hombre está estresado por problemas en el hogar, le faltará el tiempo y la **<u>energía</u>** para liderar apropiadamente la iglesia.
 
-###         17. 1 Timoteo 3:6 -- \...*no un neófito* \['recién convertido' -- LBLA\]\... La palabra para *neófito* NEOPHUTOS significa \"recién surgido\" o \"recién plantado". Aunque la palabra griega generalmente se refería a **<u>plantas</u>**, se usa aquí para alguien que se ha convertido recientemente o se ha plantado recientemente en la iglesia.
+###         17. 1 Timoteo 3:6 -- *...no un neófito*  ['recién convertido' -- LBLA] ... La palabra para *neófito* NEOPHUTOS significa \"recién surgido\" o \"recién plantado". Aunque la palabra griega generalmente se refería a **<u>plantas</u>**, se usa aquí para alguien que se ha convertido recientemente o se ha plantado recientemente en la iglesia.
 
-####             a.  1 Timoteo 3:6a -- \...*no sea que envaneciéndose*\... Dar inmediatamente un rol tan importante en la iglesia a un recién convertido podría fácilmente resultar en orgullo. Un recién convertido lleva una gran cantidad de antecedentes de su vida pasada al cristianismo y vería fácilmente su nueva posición desde una perspectiva mundana, como si fuera una **<u>promoción</u>**.
+####             a.  1 Timoteo 3:6a -- *...no sea que envaneciéndose...*  Dar inmediatamente un rol tan importante en la iglesia a un recién convertido podría fácilmente resultar en orgullo. Un recién convertido lleva una gran cantidad de antecedentes de su vida pasada al cristianismo y vería fácilmente su nueva posición desde una perspectiva mundana, como si fuera una **<u>promoción</u>**.
 
 #####                 1.  Es probable que un recién creyente haga que la posición se trate más acerca de él y su autoridad que sobre el pastoreo y el verdadero **<u>cuidado</u>** de los demás. Lucas 10:42-45
 
 #####                 2.  Un recién creyente puede **<u>verse</u>** tentado a ver el rol de un anciano desde una perspectiva gerencial o ejecutiva en lugar desde la perspectiva bíblica de ser un pastor.
 
-####             b.  1 Timoteo 3:6b -- \...*caiga en la condenación del diablo.* No solo es peligroso para la iglesia nombrar como anciano a un recién convertido; es igualmente peligroso en sí mismo para el recién convertido. Debido a su orgullo, un convertido que se hace un anciano demasiado rápido puede experimentar el mismo juicio que **<u>Satanás</u>**. Isaías 14:12-14
+####             b.  1 Timoteo 3:6b -- *...caiga en la condenación del diablo.* No solo es peligroso para la iglesia nombrar como anciano a un recién convertido; es igualmente peligroso en sí mismo para el recién convertido. Debido a su orgullo, un convertido que se hace un anciano demasiado rápido puede experimentar el mismo juicio que **<u>Satanás</u>**. Isaías 14:12-14
 
 ###         18. 1 Timoteo 3:7 -- *También es necesario que tenga buen testimonio de los de afuera, para que no caiga en descrédito y en **<u>lazo</u>** del diablo.* Un candidato a anciano debe tener una reputación honorable en medio de la comunidad inconversa.
 
