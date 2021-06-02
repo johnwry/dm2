@@ -2151,6 +2151,7 @@ Note: Se llama la iglesia de Dios 12x (hech 28:28, 1 Cor 1:2, 10:32, 11:16, 11:2
 
 ####             b.  Hombres como Felipe y Esteban que liberaron a los apóstoles sirviendo en el rol de diáconos ganaron una **<u>gran</u>** reputación en la iglesia. Hechos 6:5; 8:6
 
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/servant.png" data-background-size="300px" data-background-position="left 50% bottom 75%" data-background-opacity="0.5"-->
 ####             c.  Al mismo tiempo, ya que el rol del diácono es un trabajo detrás de la escena, a veces puede pasar desapercibido para las personas, pero **<u>Dios</u>** no pasa por alto el servicio bien hecho.
 
 ###         17. 1 Timoteo 3:13b -- *Porque los que ejerzan bien el diaconado, ganan para sí... mucha confianza en la fe que es en Cristo Jesús.* La frase *mucha confianza* significa libertad o franqueza en el **<u>habla</u>** de uno.
