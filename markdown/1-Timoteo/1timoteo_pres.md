@@ -2128,6 +2128,7 @@ Note: Se llama la iglesia de Dios 12x (hech 28:28, 1 Cor 1:2, 10:32, 11:16, 11:2
 
 ###         10. 1 Timoteo 3:11b -- *Las mujeres* [esposas] *asimismo sean honestas* ['dignas' -- LBLA].... Como se mencionó anteriormente, la palabra *honesta* SEMNOS significa venerable, honorable o seria. Habla de alguien que es segura de si misma e inspira **<u>respeto</u>** a causa de su carácter y sabiduría.
 
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/secret.png" data-background-size="300px" data-background-position="left" data-background-opacity="0.5"-->
 ###         11. 1 Timoteo 3:11c -- *Las mujeres* [esposas] *asimismo sean... no calumniadoras...* La palabra *calumniadora* DIABOLOS es una palabra fuerte a menudo usada para referirse a Satanás en las Escrituras. Describe a un falso acusador. El chisme malicioso o la calumnia es la obra del diablo. Divide y lastima a los individuos. Puede **<u>destruir</u>** iglesias.
 
 ###         12. 1 Timoteo 3:11d -- *Las mujeres* [esposas] *asimismo sean...sobrias...* El significado estricto de esta palabra *sobria* NEFALIOS es "libre de vino". Aunque literalmente este término significó abstenerse del vino, metafóricamente llegó a significar de pensamiento sobrio, vigilante o sensato. Significaba con autocontrol en lugar de controlado por la pasión o el **<u>vino</u>**.
