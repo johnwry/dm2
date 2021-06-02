@@ -3503,5 +3503,5 @@ Note: Se llama la iglesia de Dios 12x (hech 28:28, 1 Cor 1:2, 10:32, 11:16, 11:2
  </g>
 </svg>
 
-<!-- .slide: data-background-iframe="https://quizizz.com/join" id="examen_quiz_" data-menu-title="QUIZ"-->
+<!-- .slide: data-background-iframe="https://quizizz.com/join" id="examen_quiz_" data-menu-title="QUIZ" data-preload -->
 
