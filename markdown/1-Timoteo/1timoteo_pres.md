@@ -2136,10 +2136,11 @@ Note: Se llama la iglesia de Dios 12x (hech 28:28, 1 Cor 1:2, 10:32, 11:16, 11:2
 
 ###         13. 1 Timoteo 3:11e -- *Las mujeres* [esposas] *asimismo sean... fieles en todo.* *Fieles* (PISTOS) describe a una persona que es digna de confianza o confidencia. Habla de una mujer fiable en quien puedes con seguridad **<u>confiar</u>** algo.
 
-###         14. 1 Timoteo 3:12a -- *Los diáconos sean maridos de una sola mujer...* Esta es la misma frase exacta que se usa para los ancianos en 1 Timoteo 3:2. Aquí nuevamente, la palabra "*sean*" está en tiempo presente, enfatizando el comportamiento actual del diácono como un hombre de una sola mujer. ¿Está él actualmente cualificado? Si no, entonces él no califica para servir con este **<u>rol</u>**.
+###         14. 1 Timoteo 3:12a -- *Los diáconos sean maridos de una sola mujer...* Esta es la misma frase exacta que se usa para los ancianos en 1 Timoteo 3:2. Aquí nuevamente, la palabra "sean" está en tiempo presente, enfatizando el comportamiento actual del diácono como un hombre de una sola mujer. ¿Está él actualmente cualificado? Si no, entonces él no califica para servir con este **<u>rol</u>**.
 
 ###         15. 1 Timoteo 3:12b -- *Los diáconos sean maridos...que gobiernen bien sus hijos y sus casas...* Esta es la misma palabra traducida *__<u>gobernar</u>__* PROISTEMI en el versículo cuatro, donde se habla de ancianos gobernando bien su hogar.
 
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/money.png" data-background-size="300px" data-background-position="left 75% bottom 75%" data-background-opacity="0.5"-->
 ####             a.  Los diáconos se encargarán de las finanzas y serán responsables de una serie de cuestiones diversas y delicadas dentro de la iglesia local; por lo tanto, las mismas habilidades administrativas requeridas para administrar un hogar son requeridas para el servicio como **<u>diácono</u>**.
 
 ####             b.  Una seria consideración de la vida hogareña del diácono potencial debería revelar si finalmente será capaz de **<u>servir</u>** en la iglesia local.
