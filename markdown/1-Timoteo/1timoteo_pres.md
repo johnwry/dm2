@@ -2122,7 +2122,7 @@ Note: Se llama la iglesia de Dios 12x (hech 28:28, 1 Cor 1:2, 10:32, 11:16, 11:2
 
 ######                      b.  Parecería extraño para Pablo cambiar de aquí para allá las cualificaciones de diácono en los versículos 8-10 a las cualificaciones de diaconisa en el versículo 11 y luego regresar a más requisitos de diácono en los versículos 12-13.
 
-######                      c.  Gramaticalmente, las declaraciones acerca de las ***<u>mujeres</u>*** no son mandamientos (verbos) sino adjetivos o características descriptivas.
+######                      c.  Gramaticalmente, las declaraciones acerca de las *__<u>mujeres</u>__* no son mandamientos (verbos) sino adjetivos o características descriptivas.
 
 ######                      d.  Dado que el trabajo del diácono requiere que conozca los problemas personales del cuerpo de la iglesia, tendría sentido que se le requiera a su esposa poseer las cuatro cualidades mencionadas: *honestas*, *no calumniadoras, sino sobrias, fieles en todo.*
 
