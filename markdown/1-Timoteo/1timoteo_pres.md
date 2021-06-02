@@ -2076,7 +2076,7 @@ Note: Se llama la iglesia de Dios 12x (hech 28:28, 1 Cor 1:2, 10:32, 11:16, 11:2
 
 ###         1.  Timoteo 3:8a -- *Los diáconos asimismo deben ser honestos* ['dignos' -- LBLA]. La palabra *honesto* SEMNOS significa venerable, honorable o serio. Habla de alguien que es seguro de si mismo y que inspira respeto a causa de su carácter y **<u>sabiduría</u>**.
 
-###         2.  1 Timoteo 3 8b -- *Los diáconos asimismo deben ser...sin doblez* [lit. 'no de **<u>doble</u>** hablar']... Un diácono debe ser *sin doblez* DILOGOS o de doble cara, hablando una cosa y queriendo decir otra o diciéndole una cosa a una persona y algo más a otra.
+###         2.  1 Timoteo 3:8b -- *Los diáconos asimismo deben ser...sin doblez* [lit. 'no de **<u>doble</u>** hablar']... Un diácono debe ser *sin doblez* DILOGOS o de doble cara, hablando una cosa y queriendo decir otra o diciéndole una cosa a una persona y algo más a otra.
 
 ###         3.  1 Timoteo 3:8c -- *Los diáconos asimismo deben ser...no dados a mucho vino...* Curiosamente, *dados a mucho vino* era una metáfora derivada de un término náutico PROSECHO que significaba mantener un barco en una dirección o navegar hacia. La idea comunicada era que el candidato a diácono no debía ser enfocado en el **<u>alcohol</u>**.
 
@@ -2108,7 +2108,7 @@ Note: Se llama la iglesia de Dios 12x (hech 28:28, 1 Cor 1:2, 10:32, 11:16, 11:2
 
 ######                      a.  El versículo uno usa una forma femenina de la palabra diácono: DIAKONON o diaconisa. No solo es la diaconisa DIAKONON descrita en este versículo como una ayudante tanto para Pablo como para la iglesia, el apóstol Pablo dio instrucciones específicas para que la iglesia la honre y **<u>cuide</u>** de ella.
 
-######                      b.  Romanos 16:1-2 - *Os recomiendo además nuestra hermana Febe, la cual es **diaconisa*** DIAKONON *de la iglesia en Cencrea; que la recibáis en el Señor, como es digno de los santos, y que la ayudéis en cualquier cosa en que necesite de vosotros; porque ella ha **<u>ayudado</u>** a muchos, y a mí mismo.*
+######                      b.  Romanos 16:1-2 - *Os recomiendo además nuestra hermana Febe, la cual es __diaconisa__* DIAKONON *de la iglesia en Cencrea; que la recibáis en el Señor, como es digno de los santos, y que la ayudéis en cualquier cosa en que necesite de vosotros; porque ella ha **<u>ayudado</u>** a muchos, y a mí mismo.*
 
 ####             b.  Argumentos EN CONTRA de las diaconisas:
 
