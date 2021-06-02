@@ -2186,6 +2186,8 @@ Note: Se llama la iglesia de Dios 12x (hech 28:28, 1 Cor 1:2, 10:32, 11:16, 11:2
 
 ####             d.  Como hijo de Dios, debes hacer tu prioridad ser parte de la iglesia. Si no, te expones al peligro de creer en las **<u>mentiras</u>** que este mundo propone. Hechos 2:42; Efesios 4:11-16; Hebreos 3:13; 10:24-25
 
+<!-- .slide: data-background-iframe="https://quizizz.com/join" -->
+
 ##     F.  1 Timoteo 3:16 -- La iglesia y la verdad
 
 ###         1.  1 Timoteo 3:16a -- *E indiscutiblemente, grande es el misterio...*
