@@ -2060,41 +2060,41 @@ Note: Se llama la iglesia de Dios 12x (hech 28:28, 1 Cor 1:2, 10:32, 11:16, 11:2
 
 ####             c.  El Nuevo Testamento usa la palabra diácono en una variedad de formas. Se usa para el oficio de diácono (Filipenses 1:1, 1 Timoteo 3:8-13), de un camarero de mesas (Juan 2:5), del sirviente de un rey (Mateo 22:13), de un gobernante secular (Romanos 13:4), de una mujer llamada Febe (Romanos 16:1), de Pablo y Apolos (1 Corintios 3:5), de Timoteo (1 Timoteo 4:6) y de **<u>Jesús</u>** (Romanos 15:8).
 
-###         2.  1 Timoteo 3:8b -- *Los diáconos asimismo*\... La palabra ***<u>asimismo</u>*** indica que Pablo estaba describiendo un oficio diferente al de un anciano. Tal como las cualificaciones de un anciano son indispensables para el rol de anciano, las cualificaciones listadas aquí son indispensables para los diáconos.
+###         2.  1 Timoteo 3:8b -- *Los diáconos asimismo...* La palabra *__<u>asimismo</u>__* indica que Pablo estaba describiendo un oficio diferente al de un anciano. Tal como las cualificaciones de un anciano son indispensables para el rol de anciano, las cualificaciones listadas aquí son indispensables para los diáconos.
 
 ####             a.  Además de lo que podemos deducir del ejemplo encontrado en Hechos 6:1-7, el Nuevo Testamento no aclara los **<u>deberes</u>** específicos de un diácono. Esta falta de información indica que el rol del diácono era más general que específico.
 
 ####             b.  Del ejemplo en Hechos 6:1-7, concluimos que los diáconos deben ayudar a los ancianos sirviendo y cuidando por las necesidades físicas y materiales de la iglesia, liberando así a los ancianos para que se **<u>dediquen</u>** a las necesidades espirituales del cuerpo.
 
-####             c.  Los verbos usados ​​en 1 Timoteo 3 para describir las cualificaciones de un diácono están todos en tiempo presente, indicando que para poder calificar como diácono, un creyente debe poseer en el presente estas cualidades de carácter. No cuenta haber tenido estas cualidades en el pasado o esperar tenerlas en el **<u>futuro</u>**.
+####             c.  Los verbos usados en 1 Timoteo 3 para describir las cualificaciones de un diácono están todos en tiempo presente, indicando que para poder calificar como diácono, un creyente debe poseer en el presente estas cualidades de carácter. No cuenta haber tenido estas cualidades en el pasado o esperar tenerlas en el **<u>futuro</u>**.
 
-####             d.  Además, todos los adjetivos usados ​​en 1 Timoteo 3 describiendo al diácono son masculinos, con la excepción del versículo 11, el cual discutiremos. Esto indica que los diáconos debían ser hombres. La Escritura también da a conocer una pluralidad de **<u>diáconos</u>**. Filipenses 1:1, 1 Timoteo 3:8-13
+####             d.  Además, todos los adjetivos usados en 1 Timoteo 3 describiendo al diácono son masculinos, con la excepción del versículo 11, el cual discutiremos. Esto indica que los diáconos debían ser hombres. La Escritura también da a conocer una pluralidad de **<u>diáconos</u>**. Filipenses 1:1, 1 Timoteo 3:8-13
 
-####             e.  Aunque Pablo no mencionó \"Si alguno anhela\" como un pre requisito para convertirse en diácono (como lo hizo con los ancianos), sería una imprudencia nombrar a alguien para el oficio de diácono si él no desea totalmente **<u>servir</u>** de esta manera.
+####             e.  Aunque Pablo no mencionó "Si alguno anhela" como un pre requisito para convertirse en diácono (como lo hizo con los ancianos), sería una imprudencia nombrar a alguien para el oficio de diácono si él no desea totalmente **<u>servir</u>** de esta manera.
 
 ##     D.  1 Timoteo 3:8c-13 -- Cualificaciones para el oficio de diácono
 
-###         1.  Timoteo 3:8a -- *Los diáconos asimismo deben ser honestos* \['dignos' -- LBLA\]. La palabra *honesto* SEMNOS significa venerable, honorable o serio. Habla de alguien que es seguro de si mismo y que inspira respeto a causa de su carácter y **<u>sabiduría</u>**.
+###         1.  Timoteo 3:8a -- *Los diáconos asimismo deben ser honestos* ['dignos' -- LBLA]. La palabra *honesto* SEMNOS significa venerable, honorable o serio. Habla de alguien que es seguro de si mismo y que inspira respeto a causa de su carácter y **<u>sabiduría</u>**.
 
-###         2.  1 Timoteo 3 8b -- *Los diáconos asimismo deben ser\...sin doblez* \[lit. 'no de **<u>doble</u>** hablar'\]\... Un diácono debe ser *sin doblez* DILOGOS o de doble cara, hablando una cosa y queriendo decir otra o diciéndole una cosa a una persona y algo más a otra.
+###         2.  1 Timoteo 3 8b -- *Los diáconos asimismo deben ser...sin doblez* [lit. 'no de **<u>doble</u>** hablar']... Un diácono debe ser *sin doblez* DILOGOS o de doble cara, hablando una cosa y queriendo decir otra o diciéndole una cosa a una persona y algo más a otra.
 
-###         3.  1 Timoteo 3:8c -- *Los diáconos asimismo deben ser\...no dados a mucho vino*\... Curiosamente, *dados a mucho vino* era una metáfora derivada de un término náutico PROSECHO que significaba mantener un barco en una dirección o navegar hacia. La idea comunicada era que el candidato a diácono no debía ser enfocado en el **<u>alcohol</u>**.
+###         3.  1 Timoteo 3:8c -- *Los diáconos asimismo deben ser...no dados a mucho vino...* Curiosamente, *dados a mucho vino* era una metáfora derivada de un término náutico PROSECHO que significaba mantener un barco en una dirección o navegar hacia. La idea comunicada era que el candidato a diácono no debía ser enfocado en el **<u>alcohol</u>**.
 
-###         4.  1 Timoteo 3:8d -- *Los diáconos asimismo deben ser\...no codiciosos* \['amantes' -- LBLA\] *de ganancias deshonestas*. La frase *ganancia deshonesta* AISCHROKERDES significa ganancia deshonrosa. Una persona que está consumida con el ganar dinero a cualquier **<u>costo</u>** no es elegible para ser un diácono.
+###         4.  1 Timoteo 3:8d -- *Los diáconos asimismo deben ser...no codiciosos* ['amantes' -- LBLA] *de ganancias deshonestas.* La frase *ganancia deshonesta* AISCHROKERDES significa ganancia deshonrosa. Una persona que está consumida con el ganar dinero a cualquier **<u>costo</u>** no es elegible para ser un diácono.
 
-###         5.  1 Timoteo 3:9a -- *Los diáconos asimismo deben ser* \[hombres\] *que guarden el misterio de la fe*\... Aunque un diácono no está obligado a tener la habilidad de enseñar (como el anciano), debe ser sano en su comprensión de la doctrina. *El misterio de la fe* se refiere a **<u>todo</u>** el cuerpo de la doctrina cristiana.
+###         5.  1 Timoteo 3:9a -- *Los diáconos asimismo deben ser* [hombres] *que guarden el misterio de la fe...* Aunque un diácono no está obligado a tener la habilidad de enseñar (como el anciano), debe ser sano en su comprensión de la doctrina. *El misterio de la fe* se refiere a **<u>todo</u>** el cuerpo de la doctrina cristiana.
 
-###         6.  1 Timoteo 3:9b -- *Los diáconos asimismo deben ser \[hombres\] que guarden el misterio de la fe **con limpia conciencia***. Un diácono debe mantener su conciencia limpia manteniendo cuentas claras con el Señor. Pablo fue enfático en creyentes, especialmente en líderes, manteniendo una conciencia **<u>pura</u>**. 1 Juan 1:9
+###         6.  1 Timoteo 3:9b -- *Los diáconos asimismo deben ser [hombres] que guarden el misterio de la fe __con limpia conciencia__.* Un diácono debe mantener su conciencia limpia manteniendo cuentas claras con el Señor. Pablo fue enfático en creyentes, especialmente en líderes, manteniendo una conciencia **<u>pura</u>**. 1 Juan 1:9
 
-###         7.  1 Timoteo 3:10a -- *Y éstos también sean sometidos a prueba primero, y entonces ejerzan el diaconado*\... El verbo traducido *sometidos a prueba* DOKIMAZO significa evaluar si algo es **<u>digno</u>** o no.
+###         7.  1 Timoteo 3:10a -- *Y éstos también sean sometidos a prueba primero, y entonces ejerzan el diaconado...* El verbo traducido *sometidos a prueba* DOKIMAZO significa evaluar si algo es **<u>digno</u>** o no.
 
 ####             a.  Este verbo es un imperativo de tiempo presente. No se refiere a una **<u>prueba</u>** formal de una sola vez sino más bien a un tiempo de observación antes de ser puesto en servicio.
 
 ####             b.  Dado que este verbo es un imperativo, esta prueba no es opcional. La selección de diáconos implica una cuidadosa observación y **<u>escrutinio</u>**.
 
-###         8.  1 Timoteo 3:10b -- *Y éstos también sean sometidos a prueba primero, y entonces ejerzan el diaconado, si son irreprensibles*. Ser *irreprensible*, literalmente, significa estar libre de cualquier problema legal. Un candidato a diácono debe ser primero observado, y si se le encuentra sin acusación, puede entonces ser considerado cualificado para el **<u>oficio</u>**.
+###         8.  1 Timoteo 3:10b -- *Y éstos también sean sometidos a prueba primero, y entonces ejerzan el diaconado, si son irreprensibles.* Ser *irreprensible*, literalmente, significa estar libre de cualquier problema legal. Un candidato a diácono debe ser primero observado, y si se le encuentra sin acusación, puede entonces ser considerado cualificado para el **<u>oficio</u>**.
 
-###         9.  1 Timoteo 3:11a -- *Las mujeres asimismo*\... La palabra griega para *mujeres* puede significar mujeres o esposas, dependiendo del contexto. Esta ambigüedad plantea una pregunta sobre si, según la Biblia, las mujeres pueden o no servir legítimamente como diaconisas en la iglesia. ¿**<u>Enseña</u>** la Biblia el oficio de diaconisa?
+###         9.  1 Timoteo 3:11a -- *Las mujeres asimismo...* La palabra griega para *mujeres* puede significar mujeres o esposas, dependiendo del contexto. Esta ambigüedad plantea una pregunta sobre si, según la Biblia, las mujeres pueden o no servir legítimamente como diaconisas en la iglesia. ¿**<u>Enseña</u>** la Biblia el oficio de diaconisa?
 
 ####             a.  Argumentos A FAVOR de las diaconisas:
 
@@ -2108,7 +2108,7 @@ Note: Se llama la iglesia de Dios 12x (hech 28:28, 1 Cor 1:2, 10:32, 11:16, 11:2
 
 ######                      a.  El versículo uno usa una forma femenina de la palabra diácono: DIAKONON o diaconisa. No solo es la diaconisa DIAKONON descrita en este versículo como una ayudante tanto para Pablo como para la iglesia, el apóstol Pablo dio instrucciones específicas para que la iglesia la honre y **<u>cuide</u>** de ella.
 
-######                      b.  Romanos 16:1-2 - *Os recomiendo además nuestra hermana Febe, la cual es **diaconisa*** DIAKONON *de la iglesia en Cencrea; que la recibáis en el Señor, como es digno de los santos, y que la ayudéis en cualquier cosa en que necesite de vosotros; porque ella ha **<u>ayudado</u>** a muchos, y a mí mismo*.
+######                      b.  Romanos 16:1-2 - *Os recomiendo además nuestra hermana Febe, la cual es **diaconisa*** DIAKONON *de la iglesia en Cencrea; que la recibáis en el Señor, como es digno de los santos, y que la ayudéis en cualquier cosa en que necesite de vosotros; porque ella ha **<u>ayudado</u>** a muchos, y a mí mismo.*
 
 ####             b.  Argumentos EN CONTRA de las diaconisas:
 
@@ -2124,25 +2124,25 @@ Note: Se llama la iglesia de Dios 12x (hech 28:28, 1 Cor 1:2, 10:32, 11:16, 11:2
 
 ######                      c.  Gramaticalmente, las declaraciones acerca de las ***<u>mujeres</u>*** no son mandamientos (verbos) sino adjetivos o características descriptivas.
 
-######                      d.  Dado que el trabajo del diácono requiere que conozca los problemas personales del cuerpo de la iglesia, tendría sentido que se le requiera a su esposa poseer las cuatro cualidades mencionadas: *honestas*, *no calumniadoras, sino sobrias, fieles en todo*.
+######                      d.  Dado que el trabajo del diácono requiere que conozca los problemas personales del cuerpo de la iglesia, tendría sentido que se le requiera a su esposa poseer las cuatro cualidades mencionadas: *honestas*, *no calumniadoras, sino sobrias, fieles en todo.*
 
-###         10. 1 Timoteo 3:11b -- *Las mujeres* \[esposas\] *asimismo sean honestas* \['dignas' -- LBLA\]\.... Como se mencionó anteriormente, la palabra *honesta* SEMNOS significa venerable, honorable o seria. Habla de alguien que es segura de si misma e inspira **<u>respeto</u>** a causa de su carácter y sabiduría.
+###         10. 1 Timoteo 3:11b -- *Las mujeres* [esposas] *asimismo sean honestas* ['dignas' -- LBLA].... Como se mencionó anteriormente, la palabra *honesta* SEMNOS significa venerable, honorable o seria. Habla de alguien que es segura de si misma e inspira **<u>respeto</u>** a causa de su carácter y sabiduría.
 
-###         11. 1 Timoteo 3:11c -- *Las mujeres* \[esposas\] *asimismo sean\... no calumniadoras*\... La palabra *calumniadora* DIABOLOS es una palabra fuerte a menudo usada para referirse a Satanás en las Escrituras. Describe a un falso acusador. El chisme malicioso o la calumnia es la obra del diablo. Divide y lastima a los individuos. Puede **<u>destruir</u>** iglesias.
+###         11. 1 Timoteo 3:11c -- *Las mujeres* [esposas] *asimismo sean... no calumniadoras...* La palabra *calumniadora* DIABOLOS es una palabra fuerte a menudo usada para referirse a Satanás en las Escrituras. Describe a un falso acusador. El chisme malicioso o la calumnia es la obra del diablo. Divide y lastima a los individuos. Puede **<u>destruir</u>** iglesias.
 
-###         12. 1 Timoteo 3:11d -- *Las mujeres* \[esposas\] *asimismo sean\...sobrias*\... El significado estricto de esta palabra *sobria* NEFALIOS es \"libre de vino\". Aunque literalmente este término significó abstenerse del vino, metafóricamente llegó a significar de pensamiento sobrio, vigilante o sensato. Significaba con autocontrol en lugar de controlado por la pasión o el **<u>vino</u>**.
+###         12. 1 Timoteo 3:11d -- *Las mujeres* [esposas] *asimismo sean...sobrias...* El significado estricto de esta palabra *sobria* NEFALIOS es "libre de vino". Aunque literalmente este término significó abstenerse del vino, metafóricamente llegó a significar de pensamiento sobrio, vigilante o sensato. Significaba con autocontrol en lugar de controlado por la pasión o el **<u>vino</u>**.
 
-###         13. 1 Timoteo 3:11e -- *Las mujeres* \[esposas\] *asimismo sean\... fieles en todo*. *Fieles* (PISTOS) describe a una persona que es digna de confianza o confidencia. Habla de una mujer fiable en quien puedes con seguridad **<u>confiar</u>** algo.
+###         13. 1 Timoteo 3:11e -- *Las mujeres* [esposas] *asimismo sean... fieles en todo.* *Fieles* (PISTOS) describe a una persona que es digna de confianza o confidencia. Habla de una mujer fiable en quien puedes con seguridad **<u>confiar</u>** algo.
 
-###         14. 1 Timoteo 3:12a -- *Los diáconos sean maridos de una sola mujer*\... Esta es la misma frase exacta que se usa para los ancianos en 1 Timoteo 3:2. Aquí nuevamente, la palabra *\"sean\"* está en tiempo presente, enfatizando el comportamiento actual del diácono como un hombre de una sola mujer. ¿Está él actualmente cualificado? Si no, entonces él no califica para servir con este **<u>rol</u>**.
+###         14. 1 Timoteo 3:12a -- *Los diáconos sean maridos de una sola mujer...* Esta es la misma frase exacta que se usa para los ancianos en 1 Timoteo 3:2. Aquí nuevamente, la palabra *"sean"* está en tiempo presente, enfatizando el comportamiento actual del diácono como un hombre de una sola mujer. ¿Está él actualmente cualificado? Si no, entonces él no califica para servir con este **<u>rol</u>**.
 
-###         15. 1 Timoteo 3:12b -- *Los diáconos sean maridos\... que gobiernen bien sus hijos y sus casas*\... Esta es la misma palabra traducida ***<u>gobernar</u>*** PROISTEMI en el versículo cuatro, donde se habla de ancianos gobernando bien su hogar.
+###         15. 1 Timoteo 3:12b -- *Los diáconos sean maridos...que gobiernen bien sus hijos y sus casas...* Esta es la misma palabra traducida *__<u>gobernar</u>__* PROISTEMI en el versículo cuatro, donde se habla de ancianos gobernando bien su hogar.
 
 ####             a.  Los diáconos se encargarán de las finanzas y serán responsables de una serie de cuestiones diversas y delicadas dentro de la iglesia local; por lo tanto, las mismas habilidades administrativas requeridas para administrar un hogar son requeridas para el servicio como **<u>diácono</u>**.
 
 ####             b.  Una seria consideración de la vida hogareña del diácono potencial debería revelar si finalmente será capaz de **<u>servir</u>** en la iglesia local.
 
-###         16. 1 Timoteo 3:13a -- *Porque los que ejerzan bien el diaconado, ganan para sí un grado honroso*\... La frase *grado honroso* literalmente significa un nivel o alto rango.
+###         16. 1 Timoteo 3:13a -- *Porque los que ejerzan bien el diaconado, ganan para sí un grado honroso...* La frase *grado honroso* literalmente significa un nivel o alto rango.
 
 ####             a.  Un diácono asiste y **<u>libera</u>** a los ancianos para enfocarse en los aspectos espirituales de dirigir la iglesia. A través de fielmente llevar a cabo las responsabilidades que los ancianos ponen delante de ellos, los diáconos ganan una buena reputación por el servicio.
 
@@ -2150,7 +2150,7 @@ Note: Se llama la iglesia de Dios 12x (hech 28:28, 1 Cor 1:2, 10:32, 11:16, 11:2
 
 ####             c.  Al mismo tiempo, ya que el rol del diácono es un trabajo detrás de la escena, a veces puede pasar desapercibido para las personas, pero **<u>Dios</u>** no pasa por alto el servicio bien hecho.
 
-###         17. 1 Timoteo 3:13b -- *Porque los que ejerzan bien el diaconado, ganan para sí\... mucha confianza en la fe que es en Cristo Jesús*. La frase *mucha confianza* significa libertad o franqueza en el **<u>habla</u>** de uno.
+###         17. 1 Timoteo 3:13b -- *Porque los que ejerzan bien el diaconado, ganan para sí... mucha confianza en la fe que es en Cristo Jesús.* La frase *mucha confianza* significa libertad o franqueza en el **<u>habla</u>** de uno.
 
 ####             a.  El servicio fiel en el **<u>poder</u>** del Señor resulta del confiar en el Señor, lo cual a su vez conduce a la libertad y al conocimiento en el habla.
 
@@ -2158,15 +2158,15 @@ Note: Se llama la iglesia de Dios 12x (hech 28:28, 1 Cor 1:2, 10:32, 11:16, 11:2
 
 ##     E.  1 Timoteo 3:14-15 -- ¿Por qué es lo que Pablo escribió importante?
 
-###         1.  1 Timoteo 3:14-15a -- *Esto te escribo, aunque tengo la esperanza de ir pronto a verte, para que si tardo*\... El deseo expresado de Pablo era ir a Éfeso en breve, pero en caso de que se retrasara, escribió estas instrucciones específicas a Timoteo concernientes al tipo de hombres a nombrar como ancianos y diáconos en la **<u>iglesia</u>** local.
+###         1.  1 Timoteo 3:14-15a -- *Esto te escribo, aunque tengo la esperanza de ir pronto a verte, para que si tardo...* El deseo expresado de Pablo era ir a Éfeso en breve, pero en caso de que se retrasara, escribió estas instrucciones específicas a Timoteo concernientes al tipo de hombres a nombrar como ancianos y diáconos en la **<u>iglesia</u>** local.
 
-###         2.  1 Timoteo 3:15b -- \...*Esto te escribo\... para que... sepas cómo debes **conducirte***\... La palabra conducta conlleva la idea de regresar consistentemente para establecer algo. La iglesia de Jesucristo **<u>requiere</u>** constante y continua renovación.
+###         2.  1 Timoteo 3:15b -- ...*Esto te escribo... para que... sepas cómo debes **conducirte**...* La palabra conducta conlleva la idea de regresar consistentemente para establecer algo. La iglesia de Jesucristo **<u>requiere</u>** constante y continua renovación.
 
 ####             a.  Demasiadas iglesias activan el modo de piloto automático y se desvían lejos del plan de Dios para la iglesia. Por lo tanto, la amonestación de Pablo a Timoteo es una amonestación para nosotros **<u>hoy</u>**.
 
 ####             b.  El libro entero de 1 Timoteo es un manual sobre cómo la iglesia del Nuevo Testamento debería **<u>funcionar</u>**.
 
-###         3.  1 Timoteo 3:15c -- \...*te escribo\... para que\... sepas cómo debes conducirte **en la casa de Dios***\... Pablo describió a la iglesia como una casa. El término casa habla **<u>tanto</u>** de una vivienda como de sus habitantes. 1 Corintios 3:11-17; Efesios 2:19-22
+###         3.  1 Timoteo 3:15c -- ...*te escribo... para que... sepas cómo debes conducirte **en la casa de Dios**...* Pablo describió a la iglesia como una casa. El término casa habla **<u>tanto</u>** de una vivienda como de sus habitantes. 1 Corintios 3:11-17; Efesios 2:19-22
 
 ####             a.  Los escritores del Nuevo Testamento usaron términos familiares como hermano, hermana, padre y madre porque la iglesia debe ser considerada como una **<u>familia</u>**. 1 Timoteo 5:1-2
 
@@ -2174,9 +2174,9 @@ Note: Se llama la iglesia de Dios 12x (hech 28:28, 1 Cor 1:2, 10:32, 11:16, 11:2
 
 ####             c.  La iglesia no es un negocio o una producción teatral; es una casa. Esto es clave porque gran parte del cristianismo se ha convertido en un espectáculo o en un negocio que genera dinero. Oh, que volviéramos a la iglesia siendo nuestro **<u>hogar</u>** y nuestra familia.
 
-###         4.  1 Timoteo 3:15d -- \...*te escribo\... para que\... sepas cómo debes conducirte en la casa de Dios, **que es la iglesia del Dios viviente***\... En marcado contraste con los templos religiosos que albergaban ídolos muertos en las religiones del día, Pablo enseñó que la iglesia es la asamblea de los llamados que pertenecen al único Dios verdadero y **<u>viviente</u>**.
+###         4.  1 Timoteo 3:15d -- ...*te escribo... para que... sepas cómo debes conducirte en la casa de Dios, **que es la iglesia del Dios viviente**...* En marcado contraste con los templos religiosos que albergaban ídolos muertos en las religiones del día, Pablo enseñó que la iglesia es la asamblea de los llamados que pertenecen al único Dios verdadero y **<u>viviente</u>**.
 
-###         5.  1 Timoteo 3:15e -- \...*te escribo\... para que\...sepas cómo debes conducirte en la casa de Dios, que es la iglesia del Dios viviente, **columna y baluarte*** ***de la verdad***. La palabra BALUARTE significa base o fundamento.
+###         5.  1 Timoteo 3:15e -- ...*te escribo... para que...sepas cómo debes conducirte en la casa de Dios, que es la iglesia del Dios viviente, **columna y baluarte de la verdad**.* La palabra BALUARTE significa base o fundamento.
 
 ####             a.  La iglesia (es decir, la suma de todas las iglesias locales) es el instrumento de Dios para sostener (columna) y mantener firme y segura (baluarte) la **<u>verdad</u>** de la Palabra de Dios en el mundo. Filipenses 2:16
 
