@@ -2072,6 +2072,7 @@ Note: Se llama la iglesia de Dios 12x (hech 28:28, 1 Cor 1:2, 10:32, 11:16, 11:2
 
 ####             e.  Aunque Pablo no mencionó "Si alguno anhela" como un pre requisito para convertirse en diácono (como lo hizo con los ancianos), sería una imprudencia nombrar a alguien para el oficio de diácono si él no desea totalmente **<u>servir</u>** de esta manera.
 
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/wrench.png" data-background-size="300px" data-background-position="left 50% bottom 75%" data-background-opacity="0.5"-->
 ##     D.  1 Timoteo 3:8c-13 -- Cualificaciones para el oficio de diácono
 
 ###         1.  Timoteo 3:8a -- *Los diáconos asimismo deben ser honestos* ['dignos' -- LBLA]. La palabra *honesto* SEMNOS significa venerable, honorable o serio. Habla de alguien que es seguro de si mismo y que inspira respeto a causa de su carácter y **<u>sabiduría</u>**.
@@ -2135,7 +2136,7 @@ Note: Se llama la iglesia de Dios 12x (hech 28:28, 1 Cor 1:2, 10:32, 11:16, 11:2
 
 ###         13. 1 Timoteo 3:11e -- *Las mujeres* [esposas] *asimismo sean... fieles en todo.* *Fieles* (PISTOS) describe a una persona que es digna de confianza o confidencia. Habla de una mujer fiable en quien puedes con seguridad **<u>confiar</u>** algo.
 
-###         14. 1 Timoteo 3:12a -- *Los diáconos sean maridos de una sola mujer...* Esta es la misma frase exacta que se usa para los ancianos en 1 Timoteo 3:2. Aquí nuevamente, la palabra *"sean"* está en tiempo presente, enfatizando el comportamiento actual del diácono como un hombre de una sola mujer. ¿Está él actualmente cualificado? Si no, entonces él no califica para servir con este **<u>rol</u>**.
+###         14. 1 Timoteo 3:12a -- *Los diáconos sean maridos de una sola mujer...* Esta es la misma frase exacta que se usa para los ancianos en 1 Timoteo 3:2. Aquí nuevamente, la palabra "*sean*" está en tiempo presente, enfatizando el comportamiento actual del diácono como un hombre de una sola mujer. ¿Está él actualmente cualificado? Si no, entonces él no califica para servir con este **<u>rol</u>**.
 
 ###         15. 1 Timoteo 3:12b -- *Los diáconos sean maridos...que gobiernen bien sus hijos y sus casas...* Esta es la misma palabra traducida *__<u>gobernar</u>__* PROISTEMI en el versículo cuatro, donde se habla de ancianos gobernando bien su hogar.
 
