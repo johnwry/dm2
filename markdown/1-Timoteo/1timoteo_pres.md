@@ -2143,6 +2143,7 @@ Note: Se llama la iglesia de Dios 12x (hech 28:28, 1 Cor 1:2, 10:32, 11:16, 11:2
 <!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/money.png" data-background-size="300px" data-background-position="left 75% bottom 75%" data-background-opacity="0.5"-->
 ####             a.  Los diáconos se encargarán de las finanzas y serán responsables de una serie de cuestiones diversas y delicadas dentro de la iglesia local; por lo tanto, las mismas habilidades administrativas requeridas para administrar un hogar son requeridas para el servicio como **<u>diácono</u>**.
 
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/house.png" data-background-size="300px" data-background-position="left 75% bottom 75%" data-background-opacity="0.5"-->
 ####             b.  Una seria consideración de la vida hogareña del diácono potencial debería revelar si finalmente será capaz de **<u>servir</u>** en la iglesia local.
 
 ###         16. 1 Timoteo 3:13a -- *Porque los que ejerzan bien el diaconado, ganan para sí un grado honroso...* La frase *grado honroso* literalmente significa un nivel o alto rango.
