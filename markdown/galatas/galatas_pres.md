@@ -1890,7 +1890,7 @@ El legalismo le quita el foco de Cristo y lo pone en el hombre y en sus esfuerzo
  <rect x="-21.92" y="-6.048" width="377.2" height="222.2" fill-rule="evenodd" stroke="#000" stroke-dasharray="1.065, 1.065" stroke-linejoin="round" stroke-width="1.065"/>
  <rect x="128.8" y="118.6" width="81.15" height="63.76" fill="none" stroke="#fff500" stroke-dasharray="1.56141, 1.56140999999999996" stroke-linejoin="round" stroke-width="1.561"/>
  <g>
-  <text x="114.65726" y="17.386904" fill="#feff00" font-family="sans-serif" font-size="10.58px" stroke-width=".2646" style="line-height:1.25" xml:space="preserve"><tspan x="114.65726" y="17.386904" fill="#feff00" font-weight="bold" stroke-width=".2646">El Pacto Abrahamico</tspan></text>
+  <text x="114.65726" y="17.386904" fill="#feff00" font-family="sans-serif" font-size="10.58px" stroke-width=".2646" style="line-height:1.25" xml:space="preserve"><tspan x="114.65726" y="17.386904" fill="#feff00" font-weight="bold" stroke-width=".2646">El Pacto Abrahámico</tspan></text>
   <ellipse cx="169.3" cy="73.33" rx="111.5" ry="37.8" fill="#f5ff00" fill-rule="evenodd" stroke="#000" stroke-dasharray="1.065, 1.06499999999999995" stroke-linejoin="round" stroke-width="1.065"/>
   <text x="128.55301" y="55.940475" fill="#000000" font-family="sans-serif" font-size="10.58px" stroke-width=".2646" style="line-height:1.25" xml:space="preserve"><tspan x="128.55301" y="55.940475" font-weight="bold" stroke-width=".2646">Genesis 12:1-3</tspan></text>
   <text x="99.008209" y="84.666672" fill="#000000" font-family="sans-serif" font-size="10.58px" stroke-width=".2646" style="line-height:1.25" xml:space="preserve"><tspan x="99.008209" y="84.666672" font-weight="bold" stroke-width=".2646">tierra, simiente, bendicion</tspan></text>
@@ -1914,7 +1914,7 @@ El legalismo le quita el foco de Cristo y lo pone en el hombre y en sus esfuerzo
 
 #### Gálatas 3:18b -- "*...pero Dios la concedió a Abraham mediante la promesa".* El pacto Abrahámico es un pacto de __<u>gracia</u>__. Considera lo siguiente:
 
-##### Después de que el pacto Abrahámico fuese declarado por primera vez en Génesis 12:1-3 y ratificado más tarde en Génesis 15:17-18, ninguna condición fue demandada a Abraham o a su posteridad para merecer el pacto. Pablo dijo que __<u>nada</u>__ puede anular un pacto una vez que ha sido ratificado legalmente. Gálatas 15:3
+##### Después de que el pacto Abrahámico fuese declarado por primera vez en Génesis 12:1-3 y ratificado más tarde en Génesis 15:17-18, ninguna condición fue demandada a Abraham o a su posteridad para merecer el pacto. Pablo dijo que __<u>nada</u>__ puede anular un pacto una vez que ha sido ratificado legalmente. Gálatas 3:15
 
 ##### Si el Pacto Abrahámico dependiera de alguna manera de la obediencia de Israel, entonces las bendiciones universales de la justificación por la __<u>fe</u>__ habrían estado en peligro. Génesis 12:3
 
@@ -2039,6 +2039,7 @@ El legalismo le quita el foco de Cristo y lo pone en el hombre y en sus esfuerzo
 
 ##### La ley siempre implica desempeño y requiere esfuerzo humano, mérito y buenas __<u>obras</u>__; mientras que la promesa se basa únicamente en la gracia. 
 
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/commandments.png" data-background-size="300px" data-background-position="left" data-background-opacity="0.5"-->
 #### Gálatas 3:19-20 -- Si la promesa de Dios a Abraham proveyó a los gentiles la oportunidad de ser salvos, "*Entonces, ¿para qué sirve la ley?".*
 
 ##### Gálatas 3:19a -- El sistema de la Ley bajo el pacto Mosaico fue agregado para exponer el __<u>pecado</u>__ de Israel. "...*Fue añadida a causa de las transgresiones*...".
@@ -3330,3 +3331,5 @@ El legalismo le quita el foco de Cristo y lo pone en el hombre y en sus esfuerzo
 ##### Él deseaba que esta gracia descansara en su __<u>espíritu</u>__ y **no** en sus cuerpos, propiedades, ganado o tierras o incluso en sus cuentas bancarias.
 
 ##### 1 Pedro 5:12b -- Pedro lo dijo bien cuando dijo: *\"...esta es la __<u>verdadera</u>__ gracia de Dios, en la cual estáis\".*
+
+<!-- .slide: data-background-iframe="https://quizizz.com/join" id="examen_quiz_" data-menu-title="QUIZ" data-preload -->

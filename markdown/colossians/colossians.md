@@ -2634,7 +2634,7 @@ Colossians exalts Jesus Christ and shows that anything that takes you away from 
 
 #### b. Love is the superglue, the *perfect **<u>bond</u>** of unity*, that holds us all together as believers. Unity is love in action.
 
-## C.**Colossians 3:15-17 --*Let* some important things happen to the new you**
+## C.**Colossians 3:15-17 -- *Let* some important things happen to the new you**
 
 ### 1. Colossians 3:15 -- The first "let" command: ***Let** the peace of Christ **<u>rule</u>** in your hearts, to which indeed you were called in one body; and be thankful.*
 
@@ -3505,7 +3505,7 @@ Colossians exalts Jesus Christ and shows that anything that takes you away from 
 
 #### b. Church buildings were not utilized **<u>until</u>** around the third century AD.
 
-## C.**Colossians 4:15b-18 -- Paul made some [farewell</u> statements.**
+## C. **Colossians 4:15b-18 -- Paul made some [farewell</u> statements.**
 
 ### 1. Colossians 4:15b -- A **G**reeting to the churches of Laodicea: ***<u>Greet</u>** the brethren who are in Laodicea.*
 
