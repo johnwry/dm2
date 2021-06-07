@@ -2195,19 +2195,19 @@ Hech 8:4  Así que los que habían sido esparcidos iban predicando la palabra.
 
 ##     F.  1 Timoteo 3:16 -- La iglesia y la verdad
 
->E indiscutiblemente, grande es el misterio de la piedad: 
+*E indiscutiblemente, grande es el misterio de la piedad:* 
 <!-- .element: class="fragment" -->
-Él fue manifestado en la carne, 
+*Él fue manifestado en la carne, *
 <!-- .element: class="fragment" -->
-vindicado en el Espíritu, 
+*vindicado en el Espíritu, *
 <!-- .element: class="fragment" -->
-contemplado por ángeles, 
+*contemplado por ángeles, *
 <!-- .element: class="fragment" -->
-proclamado entre las naciones, 
+*proclamado entre las naciones, *
 <!-- .element: class="fragment" -->
-creído en el mundo, 
+*creído en el mundo, *
 <!-- .element: class="fragment" -->
-recibido arriba en gloria.
+*recibido arriba en gloria.*
 <!-- .element: class="fragment" -->
 
 ###         1.  1 Timoteo 3:16a -- *E indiscutiblemente, grande es el misterio...*
