@@ -2177,12 +2177,12 @@ Hech 8:4  Así que los que habían sido esparcidos iban predicando la palabra.
 
 ####             b.  Cuando un incrédulo deposita su fe en la persona y obra de Jesucristo, nace de nuevo y es colocado en la familia de Dios. Entonces son hechos hijos de Dios. Por primera vez en sus vidas pueden descansar con un verdadero __<u>sentido</u>__ de pertenencia. Juan 1:11-13, 1 Juan 3:1
 
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/house.png" data-background-size="300px" data-background-position="left" data-background-opacity="0.5"-->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/house.png" data-background-size="300px" data-background-position="left 5% bottom 5%" data-background-opacity="0.5"-->
 ####             c.  La iglesia no es un negocio o una producción teatral; es una casa. Esto es clave porque gran parte del cristianismo se ha convertido en un espectáculo o en un negocio que genera dinero. Oh, que volviéramos a la iglesia siendo nuestro __<u>hogar</u>__ y nuestra familia.
 
 ###         4.  1 Timoteo 3:15d -- ...*te escribo... para que... sepas cómo debes conducirte en la casa de Dios, **que es la iglesia del Dios viviente**...* En marcado contraste con los templos religiosos que albergaban ídolos muertos en las religiones del día, Pablo enseñó que la iglesia es la asamblea de los llamados que pertenecen al único Dios verdadero y __<u>viviente</u>__.
 
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/house.png" data-background-size="300px" data-background-position="left 5% bottom 50%" data-background-opacity="0.5"-->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/column.png" data-background-size="300px" data-background-position="left 1% bottom 50%" data-background-opacity="0.5"-->
 ###         5.  1 Timoteo 3:15e -- ...*te escribo... para que...sepas cómo debes conducirte en la casa de Dios, que es la iglesia del Dios viviente, **columna y baluarte de la verdad**.* La palabra BALUARTE significa base o fundamento.
 
 ####             a.  La iglesia (es decir, la suma de todas las iglesias locales) es el instrumento de Dios para sostener (columna) y mantener firme y segura (baluarte) la __<u>verdad</u>__ de la Palabra de Dios en el mundo. Filipenses 2:16
