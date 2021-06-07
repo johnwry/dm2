@@ -2209,6 +2209,7 @@ Hech 8:4  Así que los que habían sido esparcidos iban predicando la palabra.
 <!-- .element: class="fragment" -->
 *recibido arriba en gloria.*
 <!-- .element: class="fragment" -->
+1 Timoteo 3:16 (LBLA)
 
 ###         1.  1 Timoteo 3:16a -- *E indiscutiblemente, grande es el misterio...*
 
