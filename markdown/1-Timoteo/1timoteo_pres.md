@@ -2182,7 +2182,6 @@ Hech 8:4  Así que los que habían sido esparcidos iban predicando la palabra.
 
 ###         4.  1 Timoteo 3:15d -- ...*te escribo... para que... sepas cómo debes conducirte en la casa de Dios, **que es la iglesia del Dios viviente**...* En marcado contraste con los templos religiosos que albergaban ídolos muertos en las religiones del día, Pablo enseñó que la iglesia es la asamblea de los llamados que pertenecen al único Dios verdadero y __<u>viviente</u>__.
 
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/column.png" data-background-size="300px" data-background-position="left 1% bottom 50%" data-background-opacity="0.5"-->
 ###         5.  1 Timoteo 3:15e -- ...*te escribo... para que...sepas cómo debes conducirte en la casa de Dios, que es la iglesia del Dios viviente, **columna y baluarte de la verdad**.* La palabra BALUARTE significa base o fundamento.
 
 ####             a.  La iglesia (es decir, la suma de todas las iglesias locales) es el instrumento de Dios para sostener (columna) y mantener firme y segura (baluarte) la __<u>verdad</u>__ de la Palabra de Dios en el mundo. Filipenses 2:16
@@ -2193,19 +2192,20 @@ Hech 8:4  Así que los que habían sido esparcidos iban predicando la palabra.
 
 ####             d.  Como hijo de Dios, debes hacer tu prioridad ser parte de la iglesia. Si no, te expones al peligro de creer en las __<u>mentiras</u>__ que este mundo propone. Hechos 2:42; Efesios 4:11-16; Hebreos 3:13; 10:24-25
 
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/column.png" data-background-size="300px" data-background-position="left 1% bottom 50%" data-background-opacity="0.5"-->
 ##     F.  1 Timoteo 3:16 -- La iglesia y la verdad
 
 *E indiscutiblemente, grande es el misterio de la piedad:* 
 <!-- .element: class="fragment" -->
-*Él fue manifestado en la carne, *
+*Él fue manifestado en la carne,*
 <!-- .element: class="fragment" -->
-*vindicado en el Espíritu, *
+*vindicado en el Espíritu,*
 <!-- .element: class="fragment" -->
-*contemplado por ángeles, *
+*contemplado por ángeles,*
 <!-- .element: class="fragment" -->
-*proclamado entre las naciones, *
+*proclamado entre las naciones,*
 <!-- .element: class="fragment" -->
-*creído en el mundo, *
+*creído en el mundo,*
 <!-- .element: class="fragment" -->
 *recibido arriba en gloria.*
 <!-- .element: class="fragment" -->
