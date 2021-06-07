@@ -2186,6 +2186,7 @@ Hech 8:4  Así que los que habían sido esparcidos iban predicando la palabra.
 
 ####             a.  La iglesia (es decir, la suma de todas las iglesias locales) es el instrumento de Dios para sostener (columna) y mantener firme y segura (baluarte) la __<u>verdad</u>__ de la Palabra de Dios en el mundo. Filipenses 2:16
 
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/temple-artemis.png" data-background-size="300px" data-background-position="left 50% bottom 50%" data-background-opacity="0.5"-->
 ####             b.  El gran templo de Diana en Éfeso tenía 127 columnas. Ninguna de esas poderosas columnas sostenían la verdad. Por el contrario, la iglesia de Jesucristo es el __<u>vehículo</u>__ principal de Dios para promover y sostener la verdad en este mundo hoy.
 
 ####             c.  En el panorama cambiante e inestable en el cual vivimos, es responsabilidad de la iglesia, no de los gobiernos, denominaciones, sociedades bíblicas o individuos, defender y __<u>proteger</u>__ la verdad, la cual es la Palabra de Dios.
