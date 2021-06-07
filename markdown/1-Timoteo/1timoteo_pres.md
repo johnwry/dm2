@@ -1,4 +1,5 @@
 <!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/church-cover.jpeg" data-background-size="cover"  data-menu-title="Início"--> 
+
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -2206,19 +2207,19 @@ Hech 8:4  Así que los que habían sido esparcidos iban predicando la palabra.
 
 ####             c.  Solo cuando Cristo es revelado en nosotros, vivimos vidas __<u>santas</u>__. Gálatas 2:20, Filipenses 1:21
 
-####             d.  En Colosenses 1:25b-27, Pablo fue nombrado como un ministro de la iglesia "*para que anuncie cumplidamente la palabra de Dios, el misterio que había estado oculto desde los siglos y edades, pero que ahora ha sido manifestado a Sus santos, \...las riquezas de la gloria de este misterio\...que es Cristo en vosotros, la esperanza de __<u>gloria</u>__"*.
+####             d.  En Colosenses 1:25b-27, Pablo fue nombrado como un ministro de la iglesia "*para que anuncie cumplidamente la palabra de Dios, el misterio que había estado oculto desde los siglos y edades, pero que ahora ha sido manifestado a Sus santos, \...las riquezas de la gloria de este misterio\...que es Cristo en vosotros, la esperanza de __<u>gloria</u>__".*
 
 ###         3.  1 Timoteo 3:16b -- \...*Dios fue manifestado en la carne*. El misterio de la piedad es Cristo. En Su encarnación, Jesucristo fue hecho visible para que todos lo miraran. En un día de la historia, el eterno Hijo de Dios tomó sobre Sí mismo un cuerpo humano y vino a habitar entre nosotros. Él es aquel que hace a las personas __<u>piadosas</u>__. Juan 7:38-39; Gálatas 4:4-5; 1 Juan 3:5
 
-###         4.  1 Timoteo 3:16c -- El misterio de la piedad es Cristo, quien *fue justificado* \['vindicado' -- LBLA\] *en el Espíritu*. A lo Suyo vino, y los Suyos no Le recibieron (Juan 1:11). No obstante, Cristo fue vindicado por Dios comenzando el día en que el Espíritu Santo descendió sobre Él (Lucas 3:21-22), a lo largo de Su ministerio sin pecado (Lucas 4:18-21) y en __<u>Su</u>__ resurrección (Romanos 1:4).
+###         4.  1 Timoteo 3:16c -- El misterio de la piedad es Cristo, quien *fue justificado* \['vindicado' -- LBLA\] *en el Espíritu.* A lo Suyo vino, y los Suyos no Le recibieron (Juan 1:11). No obstante, Cristo fue vindicado por Dios comenzando el día en que el Espíritu Santo descendió sobre Él (Lucas 3:21-22), a lo largo de Su ministerio sin pecado (Lucas 4:18-21) y en __<u>Su</u>__ resurrección (Romanos 1:4).
 
-###         5.  1 Timoteo 3:16d -- El misterio de la piedad es Cristo, quien fue *visto de los ángeles*. Los ángeles fueron testigos oculares de todo lo relacionado con la encarnación de Cristo, incluido Su nacimiento (Lucas 1:26-38), Su tentación en el desierto (Mateo 4:1-11), Su agonía en el __<u>jardín</u>__ (Lucas 22:43) y Su resurrección victoriosa (Mat. 28:1-8). Marcos 1:23-25
+###         5.  1 Timoteo 3:16d -- El misterio de la piedad es Cristo, quien fue *visto de los ángeles.* Los ángeles fueron testigos oculares de todo lo relacionado con la encarnación de Cristo, incluido Su nacimiento (Lucas 1:26-38), Su tentación en el desierto (Mateo 4:1-11), Su agonía en el __<u>jardín</u>__ (Lucas 22:43) y Su resurrección victoriosa (Mat. 28:1-8). Marcos 1:23-25
 
-###         6.  1 Timoteo 3:16e -- El misterio de la piedad es Cristo quien es *predicado a los gentiles*. El mensaje de Cristo, el evangelio, ha sido, y continúa siendo, predicado entre las naciones. Esta es la __<u>misión</u>__ actual de la iglesia. Mateo 28:19-20, Marcos 16:15, Romanos 15:18-21
+###         6.  1 Timoteo 3:16e -- El misterio de la piedad es Cristo quien es *predicado a los gentiles.* El mensaje de Cristo, el evangelio, ha sido, y continúa siendo, predicado entre las naciones. Esta es la __<u>misión</u>__ actual de la iglesia. Mateo 28:19-20, Marcos 16:15, Romanos 15:18-21
 
-###         7.  1 Timoteo 3:16f -- El misterio de la piedad es Cristo quien es *creído en el mundo*. Las personas continúan respondiendo al mensaje del Evangelio al poner su fe en el Señor Jesucristo y Su obra consumada de la cruz. Aquellos que creen son los que se hacen piadosos a la __<u>vista</u>__ de Dios. Hechos 9:42
+###         7.  1 Timoteo 3:16f -- El misterio de la piedad es Cristo quien es *creído en el mundo.* Las personas continúan respondiendo al mensaje del Evangelio al poner su fe en el Señor Jesucristo y Su obra consumada de la cruz. Aquellos que creen son los que se hacen piadosos a la __<u>vista</u>__ de Dios. Hechos 9:42
 
-###         8.  1 Timoteo 3:16g -- El misterio de la piedad es Cristo quien fue *recibido arriba en gloria*. Cristo ascendió al cielo y ahora está sentado a la diestra de Dios el Padre. Junto con la resurrección, la ascensión prueba que Dios estuvo completamente satisfecho con la __<u>vida</u>__ y obra de Jesucristo. Hechos 1:9-11; Romanos 3:24-25; 8:34; Efesios 1:20; 1 Juan 2:1-2
+###         8.  1 Timoteo 3:16g -- El misterio de la piedad es Cristo quien fue *recibido arriba en gloria.* Cristo ascendió al cielo y ahora está sentado a la diestra de Dios el Padre. Junto con la resurrección, la ascensión prueba que Dios estuvo completamente satisfecho con la __<u>vida</u>__ y obra de Jesucristo. Hechos 1:9-11; Romanos 3:24-25; 8:34; Efesios 1:20; 1 Juan 2:1-2
 
 <!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/church-cover.jpeg" data-background-size="cover"  data-menu-title="VIII. 1 Timoteo 4:1-16 - Protección Contra la Apostasía"--> 
 # VIII. 1 Timoteo 4:1-16 -- Protección Contra la Apostasía
@@ -2231,67 +2232,55 @@ Hech 8:4  Así que los que habían sido esparcidos iban predicando la palabra.
    <rect id="rect13214-65" transform="translate(-.91)" x="3.3" y="23" width="49" height="26" style="fill:#a710ff;stroke-linejoin:round;stroke-miterlimit:.4;stroke-width:.97;stroke:#ffffff"/>
    <text id="text13817" x="27.705727" y="34.551746" style="fill:#d5fff6;font-family:sans-serif;font-size:4.9px;line-height:1.25;stroke-width:.26;text-align:center;text-anchor:middle" xml:space="preserve"><tspan id="tspan13815" x="27.705727" y="34.551746" style="fill:#d5fff6;font-size:4.9px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Mantenimiento </tspan><tspan id="tspan13819" x="27.705727" y="40.725357" style="fill:#d5fff6;font-size:4.9px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Residencial</tspan></text>
   </g>
-<!-- .element: class="fragment fade-up" data-fragment-index="1" -->
   <g id="g6">
    <rect id="rect13214-33-9-1" transform="translate(-.91)" x="52" y="49" width="49" height="44" style="fill:#000000;stroke-linejoin:round;stroke-miterlimit:.4;stroke-width:1.3;stroke:#ffffff"/>
    <text id="text13823-4" x="75.935036" y="65.780312" style="fill:#d5fff6;font-family:sans-serif;font-size:5.6px;line-height:1.25;stroke-width:.26;text-align:center;text-anchor:middle" xml:space="preserve"><tspan id="tspan13825-8" x="75.935036" y="65.780312" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Oración</tspan><tspan id="tspan14421" x="75.935036" y="72.835861" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Corporal</tspan><tspan id="tspan13928" x="75.935036" y="79.891411" style="fill:#d5fff6;font-size:5.6px;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">1 Tim 2:1-7</tspan></text>
   </g>
-  <!-- .element: class="fragment fade-up" data-fragment-index="6" -->
   <g id="g5">
    <rect id="rect13214-65-1" transform="translate(-.91)" x="52" y="23" width="49" height="26" style="fill:#a710ff;stroke-linejoin:round;stroke-miterlimit:.4;stroke-width:.97;stroke:#ffffff"/>
    <text id="text13823-4-9" x="76.953575" y="34.373463" style="fill:#d5fff6;font-family:sans-serif;font-size:6.4px;line-height:1.25;stroke-width:.26;text-align:center;text-anchor:middle" xml:space="preserve"><tspan id="tspan13821-9-1" x="76.953575" y="34.373463" style="fill:#d5fff6;font-size:6.4px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Deberes de </tspan><tspan id="tspan13825-8-6" x="76.953575" y="42.310963" style="fill:#d5fff6;font-size:6.4px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">la casa</tspan></text>
   </g>
-  <!-- .element: class="fragment fade-up" data-fragment-index="5" -->
   <g id="g10">
    <rect id="rect13214-33-9-9" transform="translate(-.91)" x="102" y="49" width="49" height="44" style="fill:#000000;stroke-linejoin:round;stroke-miterlimit:.4;stroke-width:1.3;stroke:#ffffff"/>
    <text id="text13823-4-6" x="125.53687" y="65.732254" style="fill:#d5fff6;font-family:sans-serif;font-size:5.6px;line-height:1.25;stroke-width:.26;text-align:center;text-anchor:middle" xml:space="preserve"><tspan id="tspan13825-8-0" x="125.53687" y="65.732254" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Ancianos en</tspan><tspan id="tspan14435" x="125.53687" y="72.787804" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">la Iglesia</tspan><tspan id="tspan13928-4" x="125.53687" y="79.843353" style="fill:#d5fff6;font-size:5.6px;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">1 Tim 3:1-7</tspan></text>
   </g>
-  <!-- .element: class="fragment fade-up" data-fragment-index="10" -->
   <g id="g2">
    <rect id="rect13214-33-9-8" transform="translate(-.91)" x="3.3" y="49" width="49" height="44" style="fill:#000000;stroke-linejoin:round;stroke-miterlimit:.4;stroke-width:1.3;stroke:#ffffff"/>
    <text id="text13823-4-04" x="27.703661" y="65.676445" style="fill:#d5fff6;font-family:sans-serif;font-size:5.6px;line-height:1.25;stroke-width:.26;text-align:center;text-anchor:middle" xml:space="preserve"><tspan id="tspan13821-9-4" x="27.703661" y="65.676445" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Razón por </tspan><tspan id="tspan13825-8-18" x="27.703661" y="72.731995" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">la Escritura  </tspan><tspan id="tspan13928-9" x="27.703661" y="79.787544" style="fill:#d5fff6;font-size:5.6px;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">1 Tim 1:1-11</tspan></text>
   </g>
-  <!-- .element: class="fragment fade-up" data-fragment-index="2" -->
   <g id="g3">
    <rect id="rect13214-2-5" transform="translate(-.91)" x="3.3" y="93" width="49" height="44" style="fill:#000000;stroke-linejoin:round;stroke-miterlimit:.4;stroke-width:1.3;stroke:#ffffff"/>
    <text id="text13823-4-2" x="26.764179" y="110.01151" style="fill:#d5fff6;font-family:sans-serif;font-size:5.6px;line-height:1.25;stroke-width:.26;text-align:center;text-anchor:middle" xml:space="preserve"><tspan id="tspan13825-8-5" x="26.764179" y="110.01151" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Gracia para </tspan><tspan id="tspan14395" x="26.764179" y="117.06706" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">la Batalla</tspan><tspan id="tspan13928-46" x="26.764179" y="124.12261" style="fill:#d5fff6;font-size:5.6px;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">1 Tim 1:12-18</tspan></text>
   </g>
-  <!-- .element: class="fragment fade-up" data-fragment-index="3" -->
   <g id="g7">
    <rect id="rect13214-2-0" transform="translate(-.91)" x="52" y="93" width="49" height="44" style="fill:#000000;stroke-linejoin:round;stroke-miterlimit:.4;stroke-width:1.3;stroke:#ffffff"/>
    <text id="text13823-4-90" x="76.953575" y="106.0474" style="fill:#d5fff6;font-family:sans-serif;font-size:5.6px;line-height:1.25;stroke-width:.26;text-align:center;text-anchor:middle" xml:space="preserve"><tspan id="tspan13825-8-7" x="76.953575" y="106.0474" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Hombres y </tspan><tspan id="tspan14425" x="76.953575" y="113.10295" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">la Oración</tspan><tspan id="tspan14427" x="76.953575" y="120.1585" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Pública</tspan><tspan id="tspan13928-7" x="76.953575" y="127.21405" style="fill:#d5fff6;font-size:5.6px;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">1 Tim 2:8</tspan></text>
   </g>
-  <!-- .element: class="fragment fade-up" data-fragment-index="7" -->
   <g id="g11">
    <rect id="rect13214-2-9" transform="translate(-.91)" x="102" y="93" width="49" height="44" style="fill:#000000;stroke-linejoin:round;stroke-miterlimit:.4;stroke-width:1.3;stroke:#ffffff"/>
    <text id="text13823-4-4" x="126.07636" y="110.01151" style="fill:#d5fff6;font-family:sans-serif;font-size:5.6px;line-height:1.25;stroke-width:.26;text-align:center;text-anchor:middle" xml:space="preserve"><tspan id="tspan13825-8-4" x="126.07636" y="110.01151" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Diaconos en </tspan><tspan id="tspan14439" x="126.07636" y="117.06706" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">la Iglesia</tspan><tspan id="tspan13928-92" x="126.07636" y="124.12261" style="fill:#d5fff6;font-size:5.6px;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">1 Tim 3:8-13</tspan></text>
   </g>
-  <!-- .element: class="fragment fade-up" data-fragment-index="11" -->
   <g id="g12">
    <rect id="rect13214-69-79" transform="translate(-.91)" x="102" y="138" width="49" height="44" style="fill:#000000;stroke-linejoin:round;stroke-miterlimit:.4;stroke-width:1.3;stroke:#ffffff"/>
    <text id="text13823-4-42" x="125.06712" y="154.24113" style="fill:#d5fff6;font-family:sans-serif;font-size:5.6px;line-height:1.25;stroke-width:.26;text-align:center;text-anchor:middle" xml:space="preserve"><tspan id="tspan13825-8-70" x="125.06712" y="154.24113" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">La Casa</tspan><tspan id="tspan14443" x="125.06712" y="161.29669" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">de Dios</tspan><tspan id="tspan13928-03" x="125.06712" y="168.35223" style="fill:#d5fff6;font-size:5.6px;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">1 Tim 3:14-16</tspan></text>
   </g>
-  <!-- .element: class="fragment fade-up" data-fragment-index="12" -->
   <g id="g8">
    <rect id="rect13214-69-71" transform="translate(-.91)" x="52" y="138" width="49" height="44" style="fill:#000000;stroke-linejoin:round;stroke-miterlimit:.4;stroke-width:1.3;stroke:#ffffff"/>
    <text id="text13823-4-47" x="76.953575" y="154.30006" style="fill:#d5fff6;font-family:sans-serif;font-size:5.6px;line-height:1.25;stroke-width:.26;text-align:center;text-anchor:middle" xml:space="preserve"><tspan id="tspan13825-8-8" x="76.953575" y="154.30006" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Mujeres en </tspan><tspan id="tspan14431" x="76.953575" y="161.35562" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">el Culto</tspan><tspan id="tspan13928-73" x="76.953575" y="168.41116" style="fill:#d5fff6;font-size:5.6px;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">1 Tim 2:9-15</tspan></text>
   </g>
-  <!-- .element: class="fragment fade-up" data-fragment-index="8" -->
   <g id="g4">
    <rect id="rect13214-69-3" transform="translate(-.91)" x="3.3" y="138" width="49" height="44" style="fill:#000000;stroke-linejoin:round;stroke-miterlimit:.4;stroke-width:1.3;stroke:#ffffff"/>
    <text id="text13823-4-01" x="26.847895" y="154.30006" style="fill:#d5fff6;font-family:sans-serif;font-size:5.6px;line-height:1.25;stroke-width:.26;text-align:center;text-anchor:middle" xml:space="preserve"><tspan id="tspan13825-8-40" x="26.847895" y="154.30006" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Disciplinando</tspan><tspan id="tspan14417" x="26.847895" y="161.35562" style="fill:#d5fff6;font-size:5.6px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">los Errores</tspan><tspan id="tspan13928-1" x="26.847895" y="168.41116" style="fill:#d5fff6;font-size:5.6px;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">1 Tim 1:19-20</tspan></text>
   </g>
-  <!-- .element: class="fragment fade-up" data-fragment-index="4" -->
   <g id="g9">
    <rect id="rect13214-65-8" transform="translate(-.91)" x="102" y="23" width="49" height="26" style="fill:#a710ff;stroke-linejoin:round;stroke-miterlimit:.4;stroke-width:.97;stroke:#ffffff"/>
    <text id="text13823-4-9-1" x="125.433" y="34.373463" style="fill:#d5fff6;font-family:sans-serif;font-size:6.4px;line-height:1.25;stroke-width:.26;text-align:center;text-anchor:middle" xml:space="preserve"><tspan id="tspan13825-8-6-4" x="125.433" y="34.373463" style="fill:#d5fff6;font-size:6.4px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Manejo</tspan><tspan id="tspan14516" x="125.433" y="42.310963" style="fill:#d5fff6;font-size:6.4px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">de la Casa</tspan></text>
   </g>
-  <!-- .element: class="fragment fade-up" data-fragment-index="9" -->
   <g id="g13">
    <rect id="rect13214-65-19" transform="translate(-.91)" x="151" y="23" width="49" height="26" style="fill:#a710ff;stroke-linejoin:round;stroke-miterlimit:.4;stroke-width:.97;stroke:#ffffff"/>
    <text id="text13823-4-9-3" x="174.43797" y="34.367283" style="fill:#d5fff6;font-family:sans-serif;font-size:6.4px;line-height:1.25;stroke-width:.26;text-align:center;text-anchor:middle" xml:space="preserve"><tspan id="tspan13825-8-6-7" x="174.43797" y="34.367283" style="fill:#d5fff6;font-size:6.4px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Seguridad</tspan><tspan id="tspan14512" x="174.43797" y="42.304783" style="fill:#d5fff6;font-size:6.4px;font-weight:bold;stroke-width:.26;text-align:center;text-anchor:middle" sodipodi:role="line">Doméstica</tspan></text>
   </g>
-  <!-- .element: class="fragment fade-up" data-fragment-index="13" -->
+  <!-- .element: class="fragment fade-up" data-fragment-index="1" -->
   <g id="g14698">
    <rect id="rect13152-1-4" transform="translate(-.91)" x="3.3" y="182" width="295" height="24" style="fill:#00aad4;stroke-linejoin:round;stroke-miterlimit:.4;stroke-width:1.3;stroke:#ffffff" inkscape:transform-center-x="49.555314" inkscape:transform-center-y="-34.864316"/>
    <text id="text14325" x="23.512632" y="196.00737" style="fill:#d5fff6;font-family:sans-serif;font-size:7.1px;line-height:1.25;stroke-width:.26" xml:space="preserve"><tspan id="tspan14323" x="23.512632" y="196.00737" style="fill:#d5fff6;font-size:7.1px;font-style:italic;stroke-width:.26" sodipodi:role="line">...para que sepas cómo conducirte en la casa de Dios...1 Timoteo 3:15</tspan></text>
