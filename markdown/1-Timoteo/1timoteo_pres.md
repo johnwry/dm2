@@ -2189,11 +2189,27 @@ Hech 8:4  Así que los que habían sido esparcidos iban predicando la palabra.
 
 ####             b.  El gran templo de Diana en Éfeso tenía 127 columnas. Ninguna de esas poderosas columnas sostenían la verdad. Por el contrario, la iglesia de Jesucristo es el __<u>vehículo</u>__ principal de Dios para promover y sostener la verdad en este mundo hoy.
 
+
 ####             c.  En el panorama cambiante e inestable en el cual vivimos, es responsabilidad de la iglesia, no de los gobiernos, denominaciones, sociedades bíblicas o individuos, defender y __<u>proteger</u>__ la verdad, la cual es la Palabra de Dios.
 
 ####             d.  Como hijo de Dios, debes hacer tu prioridad ser parte de la iglesia. Si no, te expones al peligro de creer en las __<u>mentiras</u>__ que este mundo propone. Hechos 2:42; Efesios 4:11-16; Hebreos 3:13; 10:24-25
 
 ##     F.  1 Timoteo 3:16 -- La iglesia y la verdad
+
+>E indiscutiblemente, grande es el misterio de la piedad: 
+<!-- .element: class="fragment" -->
+Él fue manifestado en la carne, 
+<!-- .element: class="fragment" -->
+vindicado en el Espíritu, 
+<!-- .element: class="fragment" -->
+contemplado por ángeles, 
+<!-- .element: class="fragment" -->
+proclamado entre las naciones, 
+<!-- .element: class="fragment" -->
+creído en el mundo, 
+<!-- .element: class="fragment" -->
+recibido arriba en gloria.
+<!-- .element: class="fragment" -->
 
 ###         1.  1 Timoteo 3:16a -- *E indiscutiblemente, grande es el misterio...*
 
