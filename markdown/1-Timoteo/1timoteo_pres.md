@@ -2368,9 +2368,9 @@ Hech 8:4  Así que los que habían sido esparcidos iban predicando la palabra.
 
 ####              b.  En 2 Timoteo 4:5 Pablo agregó, "*Pero tú sé __<u>sobrio</u>__ en todo, soporta las aflicciones, haz obra de evangelista, cumple tu ministerio.*"
 
-###          2.  1 Timoteo 4:6b -- \...*nutrido con las palabras de la fe y de la buena doctrina que has seguido*. Timoteo no solo necesitaba nutrirse a sí mismo para su propio ánimo, sino que debía permanecer fiel a la sana doctrina para poder señalar el __<u>error</u>__ de los falsos maestros.
+###          2.  1 Timoteo 4:6b -- *...nutrido con las palabras de la fe y de la buena doctrina que has seguido.* Timoteo no solo necesitaba nutrirse a sí mismo para su propio ánimo, sino que debía permanecer fiel a la sana doctrina para poder señalar el __<u>error</u>__ de los falsos maestros.
 
-###          3.  1 Timoteo 4:7a -- *Desecha las fábulas profanas y de viejas*. *Desecha* significa literalmente rechazar la solicitud de involucrarse. Esto no era simplemente una sugerencia, era un imperativo __<u>fuerte</u>__.
+###          3.  1 Timoteo 4:7a -- *Desecha las fábulas profanas y de viejas.* *Desecha* significa literalmente rechazar la solicitud de involucrarse. Esto no era simplemente una sugerencia, era un imperativo __<u>fuerte</u>__.
 
 ####              a.  Mientras que en 1 Timoteo 1:3-7 Timoteo debía confrontar la falsa enseñanza de frente, cuando se trataba de estas fábulas, Pablo enfáticamente dijo a Timoteo que no __<u>perdiera</u>__ su tiempo impugnándolas.
 
@@ -2382,27 +2382,27 @@ Hech 8:4  Así que los que habían sido esparcidos iban predicando la palabra.
 
 ####              b.  Pablo quería que Timoteo buscara la piedad por medio de ser lleno de la Palabra de Dios, contando con su posición en Cristo y dependiendo del __<u>Espíritu</u>__ Santo. Romanos 6:11, 19; Colosenses 1:29, 3:16; Juan 15:5b
 
-###          5.  1 Timoteo 4:8 -- \...*Porque el ejercicio corporal para poco es provechoso, pero la piedad para todo aprovecha, pues tiene promesa de esta vida presente, y de la venidera.* El ejercicio corporal es solo para ti y los resultados son temporales, pero la piedad resulta tanto en bendiciones temporales como __<u>eternas</u>__.
+###          5.  1 Timoteo 4:8 -- *...Porque el ejercicio corporal para poco es provechoso, pero la piedad para todo aprovecha, pues tiene promesa de esta vida presente, y de la venidera.* El ejercicio corporal es solo para ti y los resultados son temporales, pero la piedad resulta tanto en bendiciones temporales como __<u>eternas</u>__.
 
-####              a.  *De esta vida presente\...* La piedad afecta toda relación que tienes. Cambia la forma en que ves la vida, atiendes a tu esposa y a tus hijos, sirves en tu iglesia local y __<u>vives</u>__ en tu comunidad. Romanos 8:13; 1 Corintios 9:24-27; Gálatas 5:22-23
+####              a.  *De esta vida presente...* La piedad afecta toda relación que tienes. Cambia la forma en que ves la vida, atiendes a tu esposa y a tus hijos, sirves en tu iglesia local y __<u>vives</u>__ en tu comunidad. Romanos 8:13; 1 Corintios 9:24-27; Gálatas 5:22-23
 
 ####              b.  *Y de la venidera\...* La piedad también trae __<u>recompensas</u>__ eternas. 1 Corintios 3:11-15; 2 Corintios 5:10; Lucas 19:16-17; Apocalipsis 2:26-28; 1 Pedro 5:4; Hebreos 12:1-2
 
-###          6.  1 Timoteo 4:9 -- *Palabra fiel es esta, y digna de ser recibida por todos*. Pablo se desvió de su camino para asegurarle a Timoteo que el seguir la piedad en lugar de las cosas de este __<u>mundo</u>__ valía la pena. Timoteo podía enseñar esto a otros sin ninguna reserva. 2 Corintios 4:16-18; Filipenses 3:17-21; 1 Juan 2:16-17
+###          6.  1 Timoteo 4:9 -- *Palabra fiel es esta, y digna de ser recibida por todos.* Pablo se desvió de su camino para asegurarle a Timoteo que el seguir la piedad en lugar de las cosas de este __<u>mundo</u>__ valía la pena. Timoteo podía enseñar esto a otros sin ninguna reserva. 2 Corintios 4:16-18; Filipenses 3:17-21; 1 Juan 2:16-17
 
 ###          7.  1 Timoteo 4:10a -- *Que por esto mismo trabajamos y sufrimos oprobios*\... Pablo se estaba refiriendo nuevamente a la necesidad de seguir la piedad. Pablo dijo que debemos *trabajar* KOPIAÓ, fatigarnos y *sufrir* AGÓNIZOMAI, lo cual significa participar en una __<u>lucha</u>__ como con un oponente. 1 Timoteo 4:8
 
 ####              a.  En Colosenses 1:29, Pablo dijo: *\"para lo cual también trabajo, luchando según la potencia de Él, la cual actúa poderosamente en mí".* Pablo trabajó duro, pero no en su __<u>propia</u>__ fuerza.
 
-####              b.  1 Corintios 15:10 -- *Pero por la gracia de Dios soy lo que soy; y Su gracia no ha sido en vano para conmigo, antes he trabajado más que todos ellos; pero no yo, sino la gracia de Dios conmigo*. 2 Corintios 11:23-28
+####              b.  1 Corintios 15:10 -- *Pero por la gracia de Dios soy lo que soy; y Su gracia no ha sido en vano para conmigo, antes he trabajado más que todos ellos; pero no yo, sino la gracia de Dios conmigo.* 2 Corintios 11:23-28
 
 ####              c.  Como Pablo señaló en 1 Timoteo 3:16, el __<u>misterio</u>__ de la piedad es Cristo. Colosenses 1:27
 
 ####              d.  La piedad no viene por golpearnos a nosotros mismos para estar en forma. La piedad viene a medida que aprendemos a andar por la fe. Gálatas 2:20 lo dice bien: *\"Con Cristo estoy juntamente crucificado, y ya no vivo yo, mas vive Cristo en mí; **y lo que ahora vivo en la carne, lo vivo en la fe del Hijo de Dios, el cual Me amó y Se entregó a Sí mismo por <u>mí</u>__.\"*
 
-###          8.  1 Timoteo 4:10b -- \...*porque esperamos en el Dios viviente*\... ¿Por qué seguimos a Dios? Fijamos nuestra esperanza en Él, porque Él es el Dios viviente. Nadie lo reemplazará jamás. Solo Él es el Dios verdadero y nunca perderá esa __<u>posición</u>__.
+###          8.  1 Timoteo 4:10b -- *...porque esperamos en el Dios viviente*\... ¿Por qué seguimos a Dios? Fijamos nuestra esperanza en Él, porque Él es el Dios viviente. Nadie lo reemplazará jamás. Solo Él es el Dios verdadero y nunca perderá esa __<u>posición</u>__.
 
-###          9.  1 Timoteo 4:10c -- Confiamos en Él porque Él\...*es el Salvador de todos los hombres, mayormente de los que creen*. Ahora, esto no significa que todos sean salvos, sino más bien que todos pueden ser salvos. El único requisito para la salvación es la fe en el Salvador que murió por nuestros pecados y resucitó al tercer __<u>día</u>__. Salmos 42:2, Jeremías 10:10, 1 Corintios 15:3-4
+###          9.  1 Timoteo 4:10c -- Confiamos en Él porque Él *...es el Salvador de todos los hombres, mayormente de los que creen.* Ahora, esto no significa que todos sean salvos, sino más bien que todos pueden ser salvos. El único requisito para la salvación es la fe en el Salvador que murió por nuestros pecados y resucitó al tercer __<u>día</u>__. Salmos 42:2, Jeremías 10:10, 1 Corintios 15:3-4
 
 ##      E.  1 Timoteo 4:11-16 -- Diez mandatos para la protección de Timoteo
 
