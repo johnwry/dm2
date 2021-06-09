@@ -2424,21 +2424,21 @@ Hech 8:4  Así que los que habían sido esparcidos iban predicando la palabra.
 
 <!-- .slide: data-background-color="purple" data-style="color:white;" -->
 ### La Gracia de Dios me enseña... (Tito 2:12)
-<!-- .element: color="white" -->
+<!-- .element: style="color:white;" -->
 Mi identidad en Cristo (1 Cor 1:10)
-<!-- .element: class="fragment" -->
+<!-- .element: class="fragment" style="color:white;" -->
 Mi suficiencia viene de Él (2 Corintios 2:9)
-<!-- .element: class="fragment" -->
+<!-- .element: class="fragment" style="color:white;" -->
 Mi aceptación (Romanos 5:2)
-<!-- .element: class="fragment" -->
+<!-- .element: class="fragment" style="color:white;" -->
 A dejar la impureza y abrazar lo puro (Tito 2:12)
-<!-- .element: class="fragment" -->
+<!-- .element: class="fragment" style="color:white;" -->
 A mirar adelante con esperanza (Tito 2:13)
-<!-- .element: class="fragment" -->
+<!-- .element: class="fragment" style="color:white;" -->
 A llevar fruto para Dios (Romanos 7:4)
-<!-- .element: class="fragment" -->
+<!-- .element: class="fragment" style="color:white;" -->
 A mantenerme sano en mi doctrina (2 Pedro 3:17-18)
-<!-- .element: class="fragment" -->
+<!-- .element: class="fragment" style="color:white;" -->
 
 ###          8.  1 Timoteo 4:10b -- *...porque esperamos en el Dios viviente...* ¿Por qué seguimos a Dios? Fijamos nuestra esperanza en Él, porque Él es el Dios viviente. Nadie lo reemplazará jamás. Solo Él es el Dios verdadero y nunca perderá esa __<u>posición</u>__.
 
