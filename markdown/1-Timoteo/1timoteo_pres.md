@@ -2366,9 +2366,29 @@ Hech 8:4  Así que los que habían sido esparcidos iban predicando la palabra.
 <!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/vegetables.png" data-background-size="200px" data-background-position="left 50% bottom 75%" data-background-opacity="0.8"-->
 ###          2.  1 Timoteo 4:3b -- \...*que Dios creó para que con acción de gracias participasen de ellos los creyentes y los que han conocido la verdad*. Dios creó los alimentos y el matrimonio para el disfrute de Sus __<u>hijos</u>__.
 
-####              a.  Si bien el mundo incrédulo disfruta del alimento y el -palabra; que instes* *a tiempo y fuera de tiempo; redarguye, __<u>reprende</u>__, exhorta con toda paciencia y doctrina".*
+####              a.	Si bien el mundo incrédulo disfruta del alimento y el matrimonio, no son capaces de __<u>disfrutarlos</u>__ en la medida en que los creyentes, que conocen y creen la verdad, lo hacen. 
 
-####              b.  En 2 Timoteo 4:5 Pablo agregó, "*Pero tú sé __<u>sobrio</u>__ en todo, soporta las aflicciones, haz obra de evangelista, cumple tu ministerio.*"
+####              b.  	El abstenerse de los alimentos y del matrimonio no hace al creyente más __<u>santo</u>__, como los falsos maestros lo promueven.
+
+### 3.	1 Timoteo 4:4 – *Porque todo lo que Dios creó es bueno, y nada es de desecharse, si se toma con acción de gracias...* El conocimiento que tenemos y creemos incluye, el entendimiento de que Dios es el Creador y que todo lo que Él creó es __<u>bueno</u>__. 
+
+#### a.	Dios creó todo para nuestro disfrute. Debemos recibir Sus buenos dones con gozo y acción de gracias. La falta de agradecimiento será una característica del mundo en los últimos días, como sucede siempre cuando la humanidad  __<u>rechaza</u>__ el conocimiento de Dios. Romanos 1:21, 2 Timoteo 3:2, Hebreos 13:4
+
+#### b.	Los buenos dones de Dios no deben confundirse con los abusos de los alimentos por parte de la humanidad (como la glotonería y la embriaguez) y las perversiones del matrimonio (como la fornicación, el adulterio, la pornografía o la poligamia). Estos  __<u>abusos</u>__ y perversiones son dañinos, no buenos. 
+
+### 4.	1 Timoteo 4:5 – *[Porque todo lo que Dios creó] por la palabra de Dios y por la oración es santificado.* La palabra santificado está en la voz pasiva en griego mostrando que Dios es el actor. Él es aquel que ha establecido  __<u>aparte</u>__ todo lo que creó como bueno.  
+
+#### a.	En el relato de la Creación en el capítulo uno de Génesis, Dios declaró que todo lo que  __<u>hizo</u>__ era bueno.
+
+#### b.	Por fe a través de la oración, estamos de acuerdo en que el juicio de Dios de lo que es bueno, es  __<u>correcto</u>__. 
+
+## D.	1 Timoteo 4:6-10 – Protección contra la falsa enseñanza
+
+### 1.	1 Timoteo 4:6a – *Si esto enseñas a los hermanos, serás buen ministro de Jesucristo..* Pablo había dejado a Timoteo en Éfeso para corregir,  __<u>instruir</u>__ y exhortar. Timoteo debía cumplir su llamado señalando la falsa enseñanza a los líderes de la iglesia. 2 Timoteo 2:1-2
+
+#### a.	En 2 Timoteo 4:2, Pablo le dijo a Timoteo “*que prediques la palabra; que instes a tiempo y fuera de tiempo; redarguye,  __<u>reprende</u>__, exhorta con toda paciencia y doctrina*”.
+
+#### b.	En 2 Timoteo 4:5 Pablo agregó, "*Pero tú sé  __<u>sobrio</u>__ en todo, soporta las aflicciones, haz obra de evangelista, cumple tu ministerio*".
 
 ###          2.  1 Timoteo 4:6b -- *...nutrido con las palabras de la fe y de la buena doctrina que has seguido.* Timoteo no solo necesitaba nutrirse a sí mismo para su propio ánimo, sino que debía permanecer fiel a la sana doctrina para poder señalar el __<u>error</u>__ de los falsos maestros.
 
