@@ -2355,9 +2355,10 @@ Hech 8:4  Así que los que habían sido esparcidos iban predicando la palabra.
 
 ##      C.  1 Timoteo 4:3-5 -- La falsa enseñanza
 
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/no-food.png" data-background-size="200px" data-background-position="left 50% bottom 5%" data-background-opacity="0.8"-->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/no-food.png" data-background-size="200px" data-background-position="left 30% bottom 5%" data-background-opacity="0.8"-->
 ###          1.  1 Timoteo 4:3a -- \...*prohibirán casarse, y mandarán abstenerse de alimentos*\... La hipocresía de estos maestros será una forma de ascetismo, una abstinencia de las cosas legítimas. Una marca clave de los falsos maestros es su énfasis en lo externo por encima de una __<u>respuesta</u>__ interna y verdadera al Señor.
 
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/nun.png" data-background-size="200px" data-background-position="left 80% bottom 85%" data-background-opacity="0.8"-->
 ####              a.  El *prohibir casarse* es prohibir una de las instituciones más antiguas de Dios para la humanidad. Estos maestros comunicarán que el matrimonio es incorrecto. Génesis 2:18a dice: *\"No es bueno que el hombre esté solo\".* Dios ordenó el matrimonio, pero estos falsos maestros contradecirán la __<u>Palabra</u>__ de Dios.
 
 ####              b.  El *abstenerse de alimentos* muestra que estos falsos maestros se entrometerán en la vida personal de las personas, no permitiéndoles comer libremente ciertos alimentos. En Colosenses, Pablo dijo que aunque este tipo de abnegación religiosa puede lucir bien por fuera, no tiene ningún __<u>valor</u>__ espiritual. Romanos 14:3, 17; Colosenses 2:16, 20-23; Hebreos 9:10
