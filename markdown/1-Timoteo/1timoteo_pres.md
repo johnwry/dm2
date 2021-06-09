@@ -2422,6 +2422,23 @@ Hech 8:4  Así que los que habían sido esparcidos iban predicando la palabra.
 
 ####              d.  La piedad no viene por golpearnos a nosotros mismos para estar en forma. La piedad viene a medida que aprendemos a andar por la fe. Gálatas 2:20 lo dice bien: "*Con Cristo estoy juntamente crucificado, y ya no vivo yo, mas vive Cristo en mí; **y lo que ahora vivo en la carne, lo vivo en la fe del Hijo de Dios, el cual Me amó y Se entregó a Sí mismo por <u>mí</u>**.*"
 
+<!-- .slide: data-background-color="purple" data-color="white" -->
+### La Gracia de Dios me enseña (Tito 2:12)
+Mi identidad en Cristo (1 Cor 1:10)
+<!-- .element: class="fragment" -->
+Mi suficiencia viene de Él (2 Corintios 2:9)
+<!-- .element: class="fragment" -->
+Mi aceptación (Romanos 5:2)
+<!-- .element: class="fragment" -->
+A dejar la impureza y abrazar lo puro (Tito 2:12)
+<!-- .element: class="fragment" -->
+A mirar adelante con esperanza (Tito 2:13)
+<!-- .element: class="fragment" -->
+A llevar fruto para Dios (Romanos 7:4)
+<!-- .element: class="fragment" -->
+A mantenerme sano en mi doctrina (2 Pedro 3:17-18)
+<!-- .element: class="fragment" -->
+
 ###          8.  1 Timoteo 4:10b -- *...porque esperamos en el Dios viviente...* ¿Por qué seguimos a Dios? Fijamos nuestra esperanza en Él, porque Él es el Dios viviente. Nadie lo reemplazará jamás. Solo Él es el Dios verdadero y nunca perderá esa __<u>posición</u>__.
 
 ###          9.  1 Timoteo 4:10c -- Confiamos en Él porque Él *...es el Salvador de todos los hombres, mayormente de los que creen.* Ahora, esto no significa que todos sean salvos, sino más bien que todos pueden ser salvos. El único requisito para la salvación es la fe en el Salvador que murió por nuestros pecados y resucitó al tercer __<u>día</u>__. Salmos 42:2, Jeremías 10:10, 1 Corintios 15:3-4
