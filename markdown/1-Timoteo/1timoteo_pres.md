@@ -2420,7 +2420,7 @@ Hech 8:4  Así que los que habían sido esparcidos iban predicando la palabra.
 
 ####              c.  Como Pablo señaló en 1 Timoteo 3:16, el __<u>misterio</u>__ de la piedad es Cristo. Colosenses 1:27
 
-####              d.  La piedad no viene por golpearnos a nosotros mismos para estar en forma. La piedad viene a medida que aprendemos a andar por la fe. Gálatas 2:20 lo dice bien: "*Con Cristo estoy juntamente crucificado, y ya no vivo yo, mas vive Cristo en mí; **y lo que ahora vivo en la carne, lo vivo en la fe del Hijo de Dios, el cual Me amó y Se entregó a Sí mismo por __<u>mí</u>__.*"
+####              d.  La piedad no viene por golpearnos a nosotros mismos para estar en forma. La piedad viene a medida que aprendemos a andar por la fe. Gálatas 2:20 lo dice bien: "*Con Cristo estoy juntamente crucificado, y ya no vivo yo, mas vive Cristo en mí; **y lo que ahora vivo en la carne, lo vivo en la fe del Hijo de Dios, el cual Me amó y Se entregó a Sí mismo por <u>mí</u>**.*"
 
 ###          8.  1 Timoteo 4:10b -- *...porque esperamos en el Dios viviente...* ¿Por qué seguimos a Dios? Fijamos nuestra esperanza en Él, porque Él es el Dios viviente. Nadie lo reemplazará jamás. Solo Él es el Dios verdadero y nunca perderá esa __<u>posición</u>__.
 
