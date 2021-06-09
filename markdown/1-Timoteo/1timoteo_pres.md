@@ -2422,8 +2422,9 @@ Hech 8:4  Así que los que habían sido esparcidos iban predicando la palabra.
 
 ####              d.  La piedad no viene por golpearnos a nosotros mismos para estar en forma. La piedad viene a medida que aprendemos a andar por la fe. Gálatas 2:20 lo dice bien: "*Con Cristo estoy juntamente crucificado, y ya no vivo yo, mas vive Cristo en mí; **y lo que ahora vivo en la carne, lo vivo en la fe del Hijo de Dios, el cual Me amó y Se entregó a Sí mismo por <u>mí</u>**.*"
 
-<!-- .slide: data-background-color="purple" data-color="white" -->
+<!-- .slide: data-background-color="purple" -->
 ### La Gracia de Dios me enseña (Tito 2:12)
+<!-- .element: color="white" -->
 Mi identidad en Cristo (1 Cor 1:10)
 <!-- .element: class="fragment" -->
 Mi suficiencia viene de Él (2 Corintios 2:9)
