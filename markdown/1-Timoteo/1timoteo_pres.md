@@ -2330,6 +2330,7 @@ Hech 8:4  Así que los que habían sido esparcidos iban predicando la palabra.
 
 ###          3.  1 Timoteo 4:1c -- *...escuchando* \['prestando atención' -- LBLA\] *a espíritus engañadores y a doctrinas de demonios...* Esto describe __<u>cómo</u>__ algunos creyentes cristianos apostatarán de la fe. Habrá un componente demoniaco para este predicho apartamiento de la fe.
 
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/plane.png" data-background-size="300px" data-background-position="left 50% bottom 75%" data-background-opacity="0.8"-->
 ####              a.  La palabra traducida *escuchando a* PROSECHÓ se usa 4 veces en el libro de 1 Timoteo. Como término náutico significa navegar hacia. En otras palabras, apartarse de la fe es un proceso que comienza con dirigir el __<u>rumbo</u>__ de uno hacia la falsedad.
 
 ####              b.  1 Juan 4:1 -- *Amados, no creáis a todo espíritu, sino probad los espíritus si son de Dios; porque muchos falsos profetas han salido por el __<u>mundo</u>__*. 2 Corintios 11:3-4; 2 Pedro 2:1
