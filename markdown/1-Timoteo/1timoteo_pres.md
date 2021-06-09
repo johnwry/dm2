@@ -2363,6 +2363,7 @@ Hech 8:4  Así que los que habían sido esparcidos iban predicando la palabra.
 
 ####              b.  El *abstenerse de alimentos* muestra que estos falsos maestros se entrometerán en la vida personal de las personas, no permitiéndoles comer libremente ciertos alimentos. En Colosenses, Pablo dijo que aunque este tipo de abnegación religiosa puede lucir bien por fuera, no tiene ningún __<u>valor</u>__ espiritual. Romanos 14:3, 17; Colosenses 2:16, 20-23; Hebreos 9:10
 
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/vegetables.png" data-background-size="200px" data-background-position="left 50% bottom 75%" data-background-opacity="0.8"-->
 ###          2.  1 Timoteo 4:3b -- \...*que Dios creó para que con acción de gracias participasen de ellos los creyentes y los que han conocido la verdad*. Dios creó los alimentos y el matrimonio para el disfrute de Sus __<u>hijos</u>__.
 
 ####              a.  Si bien el mundo incrédulo disfruta del alimento y el -palabra; que instes* *a tiempo y fuera de tiempo; redarguye, __<u>reprende</u>__, exhorta con toda paciencia y doctrina".*
