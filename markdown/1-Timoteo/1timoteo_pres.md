@@ -2382,6 +2382,7 @@ Hech 8:4  Así que los que habían sido esparcidos iban predicando la palabra.
 
 #### b.	Por fe a través de la oración, estamos de acuerdo en que el juicio de Dios de lo que es bueno, es  __<u>correcto</u>__. 
 
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/guard.png" data-background-size="400px" data-background-position="left 2% bottom 15%" data-background-opacity="0.8" -->
 ## D.	1 Timoteo 4:6-10 – Protección contra la falsa enseñanza
 
 ### 1.	1 Timoteo 4:6a – *Si esto enseñas a los hermanos, serás buen ministro de Jesucristo..* Pablo había dejado a Timoteo en Éfeso para corregir,  __<u>instruir</u>__ y exhortar. Timoteo debía cumplir su llamado señalando la falsa enseñanza a los líderes de la iglesia. 2 Timoteo 2:1-2
