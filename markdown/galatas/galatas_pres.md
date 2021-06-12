@@ -1,4 +1,5 @@
 <!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/chainlink.jpeg" data-background-size="cover"  data-menu-title="Início" data-background-color="black" data-background-opacity="0.8" data-auto-animate-easing  -->
+
 <svg width="1280" height="720" version="1.1" viewBox="0 0 508 285.7" xmlns="http://www.w3.org/2000/svg">
  <rect x="-11.94" y="240.2" width="531.9" height="46.52" rx="1.64" ry="1.64" fill="#fff" fill-rule="evenodd"/>
  <rect x="47.62" y="-.756" width="412.8" height="79.38" rx="1.64" ry="1.64" fill="#fff" fill-rule="evenodd" stroke-width="0"/>
@@ -2284,41 +2285,41 @@ El legalismo le quita el foco de Cristo y lo pone en el hombre y en sus esfuerzo
 
 ## B. Considera la doctrina del día de reposo.
 
-### ¿Qué hay del día de reposo desde la creación del mundo hasta Israel?
+### 1. ¿Qué hay del día de reposo desde la creación del mundo hasta Israel?
 
-#### En el séptimo día de la creación, Dios descansó SHABBAT de toda Su __<u>obra</u>__. Génesis 2:1-3
+#### a. En el séptimo día de la creación, Dios descansó SHABBAT de toda Su __<u>obra</u>__. Génesis 2:1-3
 
-#### Hasta la formación de Israel como nación, no se __<u>hace</u>__ más referencia al día de reposo. Éxodo 6
+#### b. Hasta la formación de Israel como nación, no se __<u>hace</u>__ más referencia al día de reposo. Éxodo 6
 
-#### Desde Adán hasta Moisés la Biblia nunca menciona que la gente debía __<u>mantener</u>__, o guardar, el Sábado. Abraham nunca es mencionado guardando el día de reposo.
+#### c. Desde Adán hasta Moisés la Biblia nunca menciona que la gente debía __<u>mantener</u>__, o guardar, el Sábado. Abraham nunca es mencionado guardando el día de reposo.
 
-### ¿Qué hay del día de reposo desde la época de Israel hasta la era de la Iglesia?
+### 2. ¿Qué hay del día de reposo desde la época de Israel hasta la era de la Iglesia?
 
-#### El mandato de guardar el día de reposo fue dado originalmente a la __<u>nación</u>__ de Israel, pero sólo después del éxodo de Egipto. Éxodo 16:22-30, Nehemías 9:9-14, Ezequiel 20:10-12
+#### a. El mandato de guardar el día de reposo fue dado originalmente a la __<u>nación</u>__ de Israel, pero sólo después del éxodo de Egipto. Éxodo 16:22-30, Nehemías 9:9-14, Ezequiel 20:10-12
 
-#### Guardar el día de reposo era uno de los __<u>Diez</u>__ Mandamientos. Éxodo 20:9-11
+#### b. Guardar el día de reposo era uno de los __<u>Diez</u>__ Mandamientos. Éxodo 20:9-11
 
-#### El día de reposo sirvió como símbolo del contrato Mosaico que Dios hizo con Israel. Fue una indicación de que fueron __<u>apartados</u>__ como nación. Éxodo 31:13, Ezequiel 20:12
+#### c. El día de reposo sirvió como símbolo del contrato Mosaico que Dios hizo con Israel. Fue una indicación de que fueron __<u>apartados</u>__ como nación. Éxodo 31:13, Ezequiel 20:12
 
-#### En Israel, se suponía que la pena por no guardar el día de reposo era la __<u>muerte</u>__. Éxodo 31:14-15, Números 15:32-36
+#### d. En Israel, se suponía que la pena por no guardar el día de reposo era la __<u>muerte</u>__. Éxodo 31:14-15, Números 15:32-36
 
-#### Se le __<u>exigió</u>__ a la nación de Israel guardar el día de reposo perpetuamente. Éxodo 31:16-17
+#### e. Se le __<u>exigió</u>__ a la nación de Israel guardar el día de reposo perpetuamente. Éxodo 31:16-17
 
-#### En Oseas 2:11 Dios predijo que suspendería la exigencia de guardar el día de reposo por un tiempo. Esto obviamente se refirió al tiempo de la __<u>iglesia</u>__.
+#### f. En Oseas 2:11 Dios predijo que suspendería la exigencia de guardar el día de reposo por un tiempo. Esto obviamente se refirió al tiempo de la __<u>iglesia</u>__.
 
-#### Guardar el día de reposo será reinstituido en el __<u>futuro</u>__ en el Reino Milenial. Isaías 66:23, Ezequiel 46:1
+#### g. Guardar el día de reposo será reinstituido en el __<u>futuro</u>__ en el Reino Milenial. Isaías 66:23, Ezequiel 46:1
 
-### El día de reposo durante la edad de la Iglesia
+### 3. El día de reposo durante la edad de la Iglesia
 
-#### Jesús dijo que el día de reposo fue hecho para el __<u>hombre</u>__, y no el hombre para el sábado. Marcos 2:27
+#### a. Jesús dijo que el día de reposo fue hecho para el __<u>hombre</u>__, y no el hombre para el sábado. Marcos 2:27
 
-#### Jesús dijo que Él era el __<u>Señor</u>__ del día de reposo, afirmando que Él estaba por encima de sus requerimientos. Marcos 2:28
+#### b. Jesús dijo que Él era el __<u>Señor</u>__ del día de reposo, afirmando que Él estaba por encima de sus requerimientos. Marcos 2:28
 
-#### Al contrario de lo que nos han enseñado, el día de reposo no es __<u>domingo</u>__.
+#### c. Al contrario de lo que nos han enseñado, el día de reposo no es __<u>domingo</u>__.
 
-#### Eres libre de __<u>separar</u>__ un día como algo especial para recordar al Señor, pero debes hacerlo por fe y no como una regla que otros deben guardar. Romanos 14:1-6, 22-23; 1 Corintios 6:12 
+#### d. Eres libre de __<u>separar</u>__ un día como algo especial para recordar al Señor, pero debes hacerlo por fe y no como una regla que otros deben guardar. Romanos 14:1-6, 22-23; 1 Corintios 6:12 
 
-#### Bajo la gracia en la dispensación de la iglesia, cada día es un __<u>día</u>__ santo apartado para el Señor mientras caminamos por fe descansando en Sus promesas. No estamos obligados a celebrar el día de reposo cada semana. Hebreos 4:1-11, 10:38; Romanos 14:5; Colosenses 2:16-17
+#### e. Bajo la gracia en la dispensación de la iglesia, cada día es un __<u>día</u>__ santo apartado para el Señor mientras caminamos por fe descansando en Sus promesas. No estamos obligados a celebrar el día de reposo cada semana. Hebreos 4:1-11, 10:38; Romanos 14:5; Colosenses 2:16-17
 
 <!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/chainlink.jpeg" data-background-size="cover"  data-menu-title="XII. Gálatas 4:11-20 -- Pablo Expresó Profunda Preocupación por el Estado Espiritual de los Creyentes Gálatas" data-background-color="black" data-background-opacity="0.5" data-transition="zoom" -->
 # XII. Gálatas 4:11-20 -- Pablo Expresó Profunda Preocupación por el Estado Espiritual de los Creyentes Gálatas
@@ -2326,75 +2327,75 @@ El legalismo le quita el foco de Cristo y lo pone en el hombre y en sus esfuerzo
 
 ## A. Gálatas 4:11-12 -- ¿Habían sido inútiles todos los esfuerzos de Pablo?
 
-### Gálatas 4:11a -- Pablo no tenía miedo de los Gálatas, pero tenía miedo de lo que les estaba sucediendo. "*Me temo de vosotros, que haya trabajado en __<u>vano</u>__ con vosotros"*.
+### 1. Gálatas 4:11a -- Pablo no tenía miedo de los Gálatas, pero tenía miedo de lo que les estaba sucediendo. "*Me temo de vosotros, que haya trabajado en __<u>vano</u>__ con vosotros"*.
 
-### Gálatas 4:11b -- Pablo temía que su trabajo hubiera sido inútil porque no estaba resultando en el __<u>crecimiento</u>__ espiritual de los gálatas. "\...*por quienes vuelvo a sufrir dolores de parto, hasta que Cristo sea formado en vosotros"* (Gálatas 4:19).
+### 2. Gálatas 4:11b -- Pablo temía que su trabajo hubiera sido inútil porque no estaba resultando en el __<u>crecimiento</u>__ espiritual de los gálatas. "\...*por quienes vuelvo a sufrir dolores de parto, hasta que Cristo sea formado en vosotros*" (Gálatas 4:19).
 
-#### Los gálatas se habían apartado del único y __<u>verdadero</u>__ evangelio, el evangelio de la gracia de Cristo. Gálatas 1:6-7
+#### a. Los gálatas se habían apartado del único y __<u>verdadero</u>__ evangelio, el evangelio de la gracia de Cristo. Gálatas 1:6-7
 
-#### Parece que los gálatas habían rechazado la autoridad apostólica de Pablo dada por parte de __<u>Dios</u>__ porque en Gálatas 1:11 a 2:14 Pablo hizo todo lo posible para aclarar este asunto.
+#### b. Parece que los gálatas habían rechazado la autoridad apostólica de Pablo dada por parte de __<u>Dios</u>__ porque en Gálatas 1:11 a 2:14 Pablo hizo todo lo posible para aclarar este asunto.
 
-#### Debido a su __<u>evangelio</u>__ distorsionado, su comprensión de la vida cristiana también fue distorsionada. Gálatas 3:3, 5:16-23
+#### c. Debido a su __<u>evangelio</u>__ distorsionado, su comprensión de la vida cristiana también fue distorsionada. Gálatas 3:3, 5:16-23
 
-### Gálatas 4:12a -- Hablando con la ternura de un pastor, Pablo hizo una súplica a los corazones de los gálatas: "*Os __<u>ruego</u>__, hermanos..."*.
+### 3. Gálatas 4:12a -- Hablando con la ternura de un pastor, Pablo hizo una súplica a los corazones de los gálatas: "*Os __<u>ruego</u>__, hermanos..."*.
 
-### Gálatas 4:12b -- *La frase, "...que os hagáis como yo, porque yo también me hice como vosotros..."*, podría reformularse para decir: \"Lleguen a ser como yo porque soy como ustedes __<u>eran</u>__\"
+### 4. Gálatas 4:12b -- *La frase, "...que os hagáis como yo, porque yo también me hice como vosotros..."*, podría reformularse para decir: \"Lleguen a ser como yo porque soy como ustedes __<u>eran</u>__\"
 
-#### Cuando Pablo fue a Galacia, los gálatas no seguían las leyes o tradiciones judías; ellos __<u>eran</u>__ gentiles.
+#### a. Cuando Pablo fue a Galacia, los gálatas no seguían las leyes o tradiciones judías; ellos __<u>eran</u>__ gentiles.
 
-#### Aunque Pablo era un judío del más alto rango, había __<u>dejado</u>__ atrás el legalismo judío para \"*...ser hallado en* \[Cristo\]*, no teniendo* \[su\] *propia justicia, que es por la ley, sino la que es por la fe de Cristo, la justicia que es de Dios por la fe*\" (Filipenses 3:9). Ver también Gálatas 1:13-14, Filipenses 3:4-11
+#### b. Aunque Pablo era un judío del más alto rango, había __<u>dejado</u>__ atrás el legalismo judío para \"*...ser hallado en* \[Cristo\]*, no teniendo* \[su\] *propia justicia, que es por la ley, sino la que es por la fe de Cristo, la justicia que es de Dios por la fe*\" (Filipenses 3:9). Ver también Gálatas 1:13-14, Filipenses 3:4-11
 
-#### Tal como Pablo había dejado atrás la forma judía del legalismo (se había convertido en lo que los gálatas __<u>eran</u>__), ahora quería que los gálatas se volvieran como él y se liberaran del legalismo de los judaizantes.
+#### c. Tal como Pablo había dejado atrás la forma judía del legalismo (se había convertido en lo que los gálatas __<u>eran</u>__), ahora quería que los gálatas se volvieran como él y se liberaran del legalismo de los judaizantes.
 
-### Gálatas 4:12c -- Pablo concluyó este pensamiento diciendo: \"...*Ningún agravio me habéis hecho*\". Pablo no tomó el legalismo de los gálatas como un __<u>insulto</u>__ personal. El mal que estaban haciendo era en contra de Dios y en contra de ellos mismos. 1 Pedro 4:8
+### 5. Gálatas 4:12c -- Pablo concluyó este pensamiento diciendo: \"...*Ningún agravio me habéis hecho*\". Pablo no tomó el legalismo de los gálatas como un __<u>insulto</u>__ personal. El mal que estaban haciendo era en contra de Dios y en contra de ellos mismos. 1 Pedro 4:8
 
 ## B. Gálatas 4:13-20 -- Pablo esperó una respuesta positiva a sus afectos pastorales.
 
-### Gálatas 4:13-15 -- Antes de la llegada de los judaizantes legalistas, los gálatas habían acogido a __<u>Pablo</u>__ y su ministerio para ellos.
+### 1. Gálatas 4:13-15 -- Antes de la llegada de los judaizantes legalistas, los gálatas habían acogido a __<u>Pablo</u>__ y su ministerio para ellos.
 
-#### Gálatas 4:13 -- Cuando Pablo enseñó originalmente a los gálatas, le demostraron __<u>amor</u>__ genuino a pesar de su enfermedad corporal.
+#### a. Gálatas 4:13 -- Cuando Pablo enseñó originalmente a los gálatas, le demostraron __<u>amor</u>__ genuino a pesar de su enfermedad corporal.
 
-#### Gálatas 4:14a -- Curiosamente, su enfermedad había sido de alguna manera una __<u>prueba</u>__ para los gálatas. 
+#### b. Gálatas 4:14a -- Curiosamente, su enfermedad había sido de alguna manera una __<u>prueba</u>__ para los gálatas. 
 
-#### Gálatas 4:14b -- Interesantemente su enfermedad era repulsiva. Sin embargo, los gálatas no lo habían menospreciado ni __<u>rechazado</u>__ por ello.
+#### c. Gálatas 4:14b -- Interesantemente su enfermedad era repulsiva. Sin embargo, los gálatas no lo habían menospreciado ni __<u>rechazado</u>__ por ello.
 
-#### Gálatas 4:14c -- De hecho, no sólo fueron amables con él, sino que lo veían como si fuera un __<u>ángel</u>__ del cielo o incluso Jesucristo mismo. Juan 13:20
+#### d. Gálatas 4:14c -- De hecho, no sólo fueron amables con él, sino que lo veían como si fuera un __<u>ángel</u>__ del cielo o incluso Jesucristo mismo. Juan 13:20
 
-#### Gálatas 4:15 -- Aceptaron sacrificadamente a Pablo y su autoridad apostólica a pesar de su __<u>necesidad</u>__ física.
+#### e. Gálatas 4:15 -- Aceptaron sacrificadamente a Pablo y su autoridad apostólica a pesar de su __<u>necesidad</u>__ física.
 
-##### Habían estado dispuestos a donarle sus __<u>ojos</u>__ si fuera posible, lo que implica que su enfermedad puede haber estado relacionada con su vista.
+##### 1) Habían estado dispuestos a donarle sus __<u>ojos</u>__ si fuera posible, lo que implica que su enfermedad puede haber estado relacionada con su vista.
 
-##### Pablo preguntó a dónde se había ido esa gratitud inicial. Habían __<u>perdido</u>__ esa actitud de amor hacia él.
+##### 2) Pablo preguntó a dónde se había ido esa gratitud inicial. Habían __<u>perdido</u>__ esa actitud de amor hacia él.
 
-### Gálatas 4:16 -- Como resultado del engaño de los __<u>falsos</u>__ maestros, los gálatas se enorgullecieron y, por lo tanto, excluyeron a Pablo de sus vidas. "*¿Me he hecho, pues, vuestro enemigo, por deciros la verdad?".*
+### 2. Gálatas 4:16 -- Como resultado del engaño de los __<u>falsos</u>__ maestros, los gálatas se enorgullecieron y, por lo tanto, excluyeron a Pablo de sus vidas. "*¿Me he hecho, pues, vuestro enemigo, por deciros la verdad?".*
 
-#### Inicialmente, cuando los gálatas estuvieron de acuerdo con el mensaje de Pablo, lo vieron como un ángel, pero cuando estuvieron en desacuerdo debido al legalismo, lo vieron como un __<u>enemigo</u>__.
+#### a. Inicialmente, cuando los gálatas estuvieron de acuerdo con el mensaje de Pablo, lo vieron como un ángel, pero cuando estuvieron en desacuerdo debido al legalismo, lo vieron como un __<u>enemigo</u>__.
 
-#### Un predicador fiel siempre dice la verdad, incluso cuando es impopular con su __<u>rebaño</u>__.
+#### b. Un predicador fiel siempre dice la verdad, incluso cuando es impopular con su __<u>rebaño</u>__.
 
-### Gálatas 4:17 -- Los falsos maestros deben ser considerados lobos o __<u>perros</u>__ peligrosos. En Galacia, estos maestros estaban engañando a los creyentes hacia el legalismo. Hechos 20:25-31, Filipenses 3:2, Isaías 53:6
+### 3. Gálatas 4:17 -- Los falsos maestros deben ser considerados lobos o __<u>perros</u>__ peligrosos. En Galacia, estos maestros estaban engañando a los creyentes hacia el legalismo. Hechos 20:25-31, Filipenses 3:2, Isaías 53:6
 
-#### Gálatas 4:17a -- "*Tienen **celo por vosotros**\...".* Los falsos maestros legalistas buscaban con *celo* __<u>conquistar</u>__ a los gálatas con sus errores doctrinales. Gálatas 1:7, 5:7, 10, 12
+#### a. Gálatas 4:17a -- "*Tienen **celo por vosotros**\...".* Los falsos maestros legalistas buscaban con *celo* __<u>conquistar</u>__ a los gálatas con sus errores doctrinales. Gálatas 1:7, 5:7, 10, 12
 
-#### Gálatas 4:17b -- "...*pero **no para bien**\...".* Estos legalistas buscaban apartar los corazones de los gálatas lejos del apóstol Pablo y la gracia de Dios hacia la __<u>forma</u>__ de pensar de ellos. Gálatas 6:12-13
+#### b. Gálatas 4:17b -- "...*pero **no para bien**\...".* Estos legalistas buscaban apartar los corazones de los gálatas lejos del apóstol Pablo y la gracia de Dios hacia la __<u>forma</u>__ de pensar de ellos. Gálatas 6:12-13
 
-#### Gálatas 4:17c -- "...*sino que quieren **apartaros** de nosotros\...".* Los legalistas __<u>nunca</u>__ están inactivos, pero tratan constantemente de abrirse camino en las iglesias cuya base está en la gracia. Mateo 23:15
+#### c. Gálatas 4:17c -- "...*sino que quieren **apartaros** de nosotros\...".* Los legalistas __<u>nunca</u>__ están inactivos, pero tratan constantemente de abrirse camino en las iglesias cuya base está en la gracia. Mateo 23:15
 
-#### Gálatas 4:17d -- "...*para que vosotros tengáis celo por ellos".* Los legalistas modernos todavía tratan de seducir a los creyentes y alejarlos de la __<u>gracia</u>__ y de aquellos que enseñan un verdadero evangelio.
+#### d. Gálatas 4:17d -- "...*para que vosotros tengáis celo por ellos".* Los legalistas modernos todavía tratan de seducir a los creyentes y alejarlos de la __<u>gracia</u>__ y de aquellos que enseñan un verdadero evangelio.
 
-### Gálatas 4:18 -- Pablo apeló a los gálatas para que se dieran cuenta de la __<u>razón</u>__ por la que eran buscados.
+### 4. Gálatas 4:18 -- Pablo apeló a los gálatas para que se dieran cuenta de la __<u>razón</u>__ por la que eran buscados.
 
-#### Gálatas 4:18a -- "*Bueno es mostrar celo en lo bueno siempre\...".* Pablo les recordó que es __<u>bueno</u>__ ser perseguidos celosamente si aquellos que persiguen tienen la motivación correcta. En este caso, era obvio que los legalistas no tenían sus mejores intereses en mente.
+#### a. Gálatas 4:18a -- "*Bueno es mostrar celo en lo bueno siempre\...".* Pablo les recordó que es __<u>bueno</u>__ ser perseguidos celosamente si aquellos que persiguen tienen la motivación correcta. En este caso, era obvio que los legalistas no tenían sus mejores intereses en mente.
 
-#### Gálatas 4:18b -- "...*y no solamente cuando estoy presente con vosotros".* Pablo aseguró a los gálatas que él siempre tuvo su __<u>mejor</u>__ interés en mente, ya sea que estuviera con ellos o lejos de ellos. Hechos 20:25-31
+#### b. Gálatas 4:18b -- "...*y no solamente cuando estoy presente con vosotros".* Pablo aseguró a los gálatas que él siempre tuvo su __<u>mejor</u>__ interés en mente, ya sea que estuviera con ellos o lejos de ellos. Hechos 20:25-31
 
-### Gálatas 4:19-20 -- Considera el __<u>corazón</u>__ pastoral, el espíritu, y la pasión de Pablo. 1 Corintios 4:15
+### 5. Gálatas 4:19-20 -- Considera el __<u>corazón</u>__ pastoral, el espíritu, y la pasión de Pablo. 1 Corintios 4:15
 
-#### Gálatas 4:19a -- "*Hijitos míos, por quienes vuelvo a sufrir dolores de parto\...".* Pablo no estaba diciendo que los gálatas necesitaban nacer de nuevo. Estaba expresando su pasión por estos creyentes comparándola con una madre que voluntariamente sufre los dolores de __<u>parto</u>__ por su hijo. 3 Juan 4 
+#### a. Gálatas 4:19a -- "*Hijitos míos, por quienes vuelvo a sufrir dolores de parto\...".* Pablo no estaba diciendo que los gálatas necesitaban nacer de nuevo. Estaba expresando su pasión por estos creyentes comparándola con una madre que voluntariamente sufre los dolores de __<u>parto</u>__ por su hijo. 3 Juan 4 
 
-#### Gálatas 4:19b -- "...*hasta que Cristo sea formado en vosotros".* El objetivo principal del fiel pastor es trabajar con las ovejas *hasta que Cristo sea __<u>formado</u>__* o desarrollado en ellas. 1 Tesalonicenses 2:7, Efesios 3:16-17
+#### b. Gálatas 4:19b -- "...*hasta que Cristo sea formado en vosotros".* El objetivo principal del fiel pastor es trabajar con las ovejas *hasta que Cristo sea __<u>formado</u>__* o desarrollado en ellas. 1 Tesalonicenses 2:7, Efesios 3:16-17
 
-#### Gálatas 4:20 -- Pablo deseaba poder estar con los Gálatas y cambiar su __<u>tono</u>__ a uno de compasión en lugar de uno de corrección. "*quisiera estar con vosotros ahora mismo y cambiar de tono, pues estoy perplejo en cuanto a vosotros*". 2 Corintios 7:8, 9, 12
+#### c. Gálatas 4:20 -- Pablo deseaba poder estar con los Gálatas y cambiar su __<u>tono</u>__ a uno de compasión en lugar de uno de corrección. "*quisiera estar con vosotros ahora mismo y cambiar de tono, pues estoy perplejo en cuanto a vosotros*". 2 Corintios 7:8, 9, 12
 
 <!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/chainlink.jpeg" data-background-size="cover"  data-menu-title="XIII. Gálatas 4:21-31 -- Un Ejemplo Práctico sobre el Legalismo en Contraste con la Gracia" data-background-color="black" data-background-opacity="0.5" data-transition="zoom" -->
 # XIII. Gálatas 4:21-31 -- Un Ejemplo Práctico sobre el Legalismo en Contraste con la Gracia
@@ -2402,199 +2403,199 @@ El legalismo le quita el foco de Cristo y lo pone en el hombre y en sus esfuerzo
 
 ## A. Gálatas 4:21-23 -- En la Biblia, hay <u>dos</u> mujeres y sus hijos que sirven como ejemplos de cómo vivir o no vivir la vida cristiana 
 
-### Gálatas 4:21 -- Contemplemos el verdadero __<u>estado</u>__ de la iglesia Gálata y el obrar de los legalistas que los estaban perturbando.
+### 1. Gálatas 4:21 -- Contemplemos el verdadero __<u>estado</u>__ de la iglesia Gálata y el obrar de los legalistas que los estaban perturbando.
 
-#### Gálatas 4:21a -- "*Decidme, los que queréis estar bajo la ley\...".* Los gálatas habían sido engañados al creer que para calificar a ser descendientes espirituales de Abraham (hijos de la promesa), tenían que vivir __<u>bajo</u>__ la ley. 
+#### a. Gálatas 4:21a -- "*Decidme, los que queréis estar bajo la ley\...".* Los gálatas habían sido engañados al creer que para calificar a ser descendientes espirituales de Abraham (hijos de la promesa), tenían que vivir __<u>bajo</u>__ la ley. 
 
-#### Gálatas 4:21b -- *"...¿no **habéis** oído la ley?*" Pablo usó sabiamente los escritos de Moisés en el Antiguo Testamento para iluminar cómo realmente **participar** **en la promesa**, lo cual era lo opuesto a vivir según las __<u>leyes</u>__.
+#### b. Gálatas 4:21b -- *"...¿no **habéis** oído la ley?*" Pablo usó sabiamente los escritos de Moisés en el Antiguo Testamento para iluminar cómo realmente **participar** **en la promesa**, lo cual era lo opuesto a vivir según las __<u>leyes</u>__.
 
-#### Gálatas 4:21c -- "...*¿no habéis **oído** la ley?"* La verdad es que los legalistas se aferran ignorantemente a la __<u>Ley</u>__ sin comprender realmente lo que dice la Ley. Gálatas 3:10, 1 Timoteo 1:7
+#### c. Gálatas 4:21c -- "...*¿no habéis **oído** la ley?"* La verdad es que los legalistas se aferran ignorantemente a la __<u>Ley</u>__ sin comprender realmente lo que dice la Ley. Gálatas 3:10, 1 Timoteo 1:7
 
-### Gálatas 4:22-23 -- Pablo revisó algunas facetas importantes de la historia de __<u>Sara</u>__ e Isaac versus Agar e Ismael.
+### 2. Gálatas 4:22-23 -- Pablo revisó algunas facetas importantes de la historia de __<u>Sara</u>__ e Isaac versus Agar e Ismael.
 
-#### El primer hijo de Abraham, Ismael, nació de una esclava y nació *según la __<u>carne</u>__*, o por medio del esfuerzo humano. Génesis 16:1-4
+#### a. El primer hijo de Abraham, Ismael, nació de una esclava y nació *según la __<u>carne</u>__*, o por medio del esfuerzo humano. Génesis 16:1-4
 
-#### El segundo hijo de Abraham nació de una mujer libre y nació a través *de la __<u>promesa</u>__* o directamente como la obra de Dios cuando todo esfuerzo humano era imposible. Génesis 17:15-19, Romanos 4:18-21
+#### b. El segundo hijo de Abraham nació de una mujer libre y nació a través *de la __<u>promesa</u>__* o directamente como la obra de Dios cuando todo esfuerzo humano era imposible. Génesis 17:15-19, Romanos 4:18-21
 
-### Al examinar el registro de Génesis de Abraham y sus __<u>esposas</u>__, observamos que Abraham no logró los planes y propósitos de Dios a través del esfuerzo humano (que representa el legalismo).
+### 3. Al examinar el registro de Génesis de Abraham y sus __<u>esposas</u>__, observamos que Abraham no logró los planes y propósitos de Dios a través del esfuerzo humano (que representa el legalismo).
 
-#### Cuando Abram tenía 75 años: Dios le dijo que fuera a la tierra de __<u>Canaán</u>__ y le prometió muchos descendientes. Génesis 12:1-5, 13:14-16
+#### a. Cuando Abram tenía 75 años: Dios le dijo que fuera a la tierra de __<u>Canaán</u>__ y le prometió muchos descendientes. Génesis 12:1-5, 13:14-16
 
-#### Cuando Abram tenía 85 años: Sarai y Abram usaron métodos humanos mundanos para intentar cumplir la voluntad de Dios. Sarai le dio a Abram su esclava Agar para que __<u>tuviera</u>__ un hijo para ella. Génesis 16:1-4
+#### b. Cuando Abram tenía 85 años: Sarai y Abram usaron métodos humanos mundanos para intentar cumplir la voluntad de Dios. Sarai le dio a Abram su esclava Agar para que __<u>tuviera</u>__ un hijo para ella. Génesis 16:1-4
 
-#### Cuando Abram tenía 86 años: __<u>Agar</u>__ dio a luz a un hijo llamado Ismael. Génesis 16:15-16
+#### c. Cuando Abram tenía 86 años: __<u>Agar</u>__ dio a luz a un hijo llamado Ismael. Génesis 16:15-16
 
-#### Cuando Abraham tenía 99 años: Dios renovó Su promesa a Abraham, diciendo que un __<u>hijo</u>__ nacería de Sara. A través de este hijo las promesas del Pacto Abrahámico serían cumplidas. Génesis 17:15-19
+#### d. Cuando Abraham tenía 99 años: Dios renovó Su promesa a Abraham, diciendo que un __<u>hijo</u>__ nacería de Sara. A través de este hijo las promesas del Pacto Abrahámico serían cumplidas. Génesis 17:15-19
 
-#### Cuando Abraham tenía 100 años: __<u>Isaac</u>__, el hijo de la promesa, le fue nacido a Sara y Abraham. Sara tenía 90 años. Génesis 21:1-5
+#### e. Cuando Abraham tenía 100 años: __<u>Isaac</u>__, el hijo de la promesa, le fue nacido a Sara y Abraham. Sara tenía 90 años. Génesis 21:1-5
 
-#### Aproximadamente cinco años después del nacimiento de Isaac: Después de que Ismael se burlara de Isaac, Sara le dijo a Abraham que echara a Agar e Ismael fuera de la casa porque Ismael estaba atormentando a Isaac. Dios le confirmó a Abraham que eso era lo que debía __<u>hacer</u>__. Génesis 21:8-12
+#### f. Aproximadamente cinco años después del nacimiento de Isaac: Después de que Ismael se burlara de Isaac, Sara le dijo a Abraham que echara a Agar e Ismael fuera de la casa porque Ismael estaba atormentando a Isaac. Dios le confirmó a Abraham que eso era lo que debía __<u>hacer</u>__. Génesis 21:8-12
 
 ## B. Gálatas 4:24-27 -- Habiendo establecido el escenario para una aplicación, Pablo ahora utilizó la historia de las dos mujeres como un argumento alegórico para mostrar que Dios <u>rechaza</u> el esfuerzo humano, implicando que es equivalente al legalismo.
 
-### Gálatas 4:24 -- Cuando Pablo dijo, \"*Lo cual es una alegoría...*\", no estaba sugiriendo de ninguna manera que deberíamos interpretar la __<u>Biblia</u>__ alegóricamente. 2 Corintios 2:17, 4:2; 2 Pedro 3:16-17
+### 1. Gálatas 4:24 -- Cuando Pablo dijo, \"*Lo cual es una alegoría...*\", no estaba sugiriendo de ninguna manera que deberíamos interpretar la __<u>Biblia</u>__ alegóricamente. 2 Corintios 2:17, 4:2; 2 Pedro 3:16-17
 
-### Primero __<u>escuchemos</u>__ una advertencia con respecto a las interpretaciones alegóricas de las Escrituras.
+### 2. Primero __<u>escuchemos</u>__ una advertencia con respecto a las interpretaciones alegóricas de las Escrituras.
 
-#### Generalmente hablando, Jesús y los autores del Nuevo Testamento interpretaron el Antiguo Testamento literalmente, lo que deberíamos hacer también __<u>nosotros</u>__. Mateo 5:17-19; Marcos 10:1-3; Lucas 4:4, 10:25-29; Juan 7:42; Romanos 4:3, 9:16-21
+#### a. Generalmente hablando, Jesús y los autores del Nuevo Testamento interpretaron el Antiguo Testamento literalmente, lo que deberíamos hacer también __<u>nosotros</u>__. Mateo 5:17-19; Marcos 10:1-3; Lucas 4:4, 10:25-29; Juan 7:42; Romanos 4:3, 9:16-21
 
-#### Interpretar la Biblia alegóricamente es peligroso, ya que deja la Biblia __<u>abierta</u>__ a la interpretación privada de cualquier individuo, lo cual va en contra de lo que la Biblia advierte. 2 Pedro 1:20, 3:15-18
+#### b. Interpretar la Biblia alegóricamente es peligroso, ya que deja la Biblia __<u>abierta</u>__ a la interpretación privada de cualquier individuo, lo cual va en contra de lo que la Biblia advierte. 2 Pedro 1:20, 3:15-18
 
-##### La interpretación alegórica de las Escrituras se __<u>apoya</u>__ fuertemente en la imaginación del alumno, lo que puede conducir a una grave malinterpretación de la Biblia. 1 Timoteo 1:3-7; 2 Timoteo 2:2, 14-16
+##### 1) La interpretación alegórica de las Escrituras se __<u>apoya</u>__ fuertemente en la imaginación del alumno, lo que puede conducir a una grave malinterpretación de la Biblia. 1 Timoteo 1:3-7; 2 Timoteo 2:2, 14-16
 
-##### La interpretación alegórica de las Escrituras conduce a una interpretación subjetiva o parcializada de un pasaje en lugar de una interpretación concreta o absoluta (*así dice el Señor*) de la Biblia. El resultado es que las escrituras se dejan abiertas a las __<u>ideas</u>__ de cualquiera. 1 Corintios 4:6, 14:8
+##### 2) La interpretación alegórica de las Escrituras conduce a una interpretación subjetiva o parcializada de un pasaje en lugar de una interpretación concreta o absoluta (*así dice el Señor*) de la Biblia. El resultado es que las escrituras se dejan abiertas a las __<u>ideas</u>__ de cualquiera. 1 Corintios 4:6, 14:8
 
-##### La interpretación alegórica a menudo pone la interpretación __<u>literal</u>__ de la Escritura como secundaria; esto nos expone a interpretaciones no bíblicas de nuestra propia creación. 1 Corintios 14:33
+##### 3) La interpretación alegórica a menudo pone la interpretación __<u>literal</u>__ de la Escritura como secundaria; esto nos expone a interpretaciones no bíblicas de nuestra propia creación. 1 Corintios 14:33
 
-##### La interpretación alegórica deja a la Biblia subjetivamente expuesta a las opiniones y juicios arbitrarios de quienes __<u>aspiran</u>__ a ser maestros. Las ideas de un hombre se vuelven tan válidas como las del siguiente. 2 Timoteo 4:1-4
+##### 4) La interpretación alegórica deja a la Biblia subjetivamente expuesta a las opiniones y juicios arbitrarios de quienes __<u>aspiran</u>__ a ser maestros. Las ideas de un hombre se vuelven tan válidas como las del siguiente. 2 Timoteo 4:1-4
 
-##### La interpretación alegórica deja a aquellos que son nuevos o débiles en la __<u>fe</u>__ confundidos acerca de cómo entender realmente las Escrituras, algo que Pablo describió como muy perjudicial. 2 Timoteo 3:13-17; Tito 1:10-14; 2 Pedro 2:1-3, 18
+##### 5) La interpretación alegórica deja a aquellos que son nuevos o débiles en la __<u>fe</u>__ confundidos acerca de cómo entender realmente las Escrituras, algo que Pablo describió como muy perjudicial. 2 Timoteo 3:13-17; Tito 1:10-14; 2 Pedro 2:1-3, 18
 
-##### La interpretación alegórica __<u>nunca</u>__ es consistente entre los expositores que la practican. 2 Timoteo 1:13
+##### 6) La interpretación alegórica __<u>nunca</u>__ es consistente entre los expositores que la practican. 2 Timoteo 1:13
 
-##### Esto no es para quitar la libertad que Cristo y los apóstoles tuvieron para ampliar la interpretación de un pasaje del Antiguo Testamento, ya que estaban bajo la inspiración de __<u>Dios</u>__ cuando citaron o aplicaron pasajes del Antiguo Testamento. 2 Pedro 1:20-21
+##### 7) Esto no es para quitar la libertad que Cristo y los apóstoles tuvieron para ampliar la interpretación de un pasaje del Antiguo Testamento, ya que estaban bajo la inspiración de __<u>Dios</u>__ cuando citaron o aplicaron pasajes del Antiguo Testamento. 2 Pedro 1:20-21
 
-#### En contraste con las interpretaciones alegóricas, el método literal de interpretación de la Palabra de Dios busca ser lógico, consistente e histórico. Tiene en cuenta la gramática, el contexto histórico y el género literario del pasaje en estudio. Aquí hay algunos principios __<u>utilizados</u>__ por aquellos que interpretan la Biblia literalmente.
+#### c. En contraste con las interpretaciones alegóricas, el método literal de interpretación de la Palabra de Dios busca ser lógico, consistente e histórico. Tiene en cuenta la gramática, el contexto histórico y el género literario del pasaje en estudio. Aquí hay algunos principios __<u>utilizados</u>__ por aquellos que interpretan la Biblia literalmente.
 
-##### La interpretación literal de la Escritura busca comprender el sentido __<u>simple</u>__ y natural del pasaje bíblico, resistiendo el impulso de saltar a una conclusión rápida.
+##### 1) La interpretación literal de la Escritura busca comprender el sentido __<u>simple</u>__ y natural del pasaje bíblico, resistiendo el impulso de saltar a una conclusión rápida.
 
-##### La interpretación literal primero y consistentemente trata de entender la Palabra de Dios simplemente como está __<u>escrita</u>__.
+##### 2) La interpretación literal primero y consistentemente trata de entender la Palabra de Dios simplemente como está __<u>escrita</u>__.
 
-##### La interpretación literal no __<u>busca</u>__ significados ocultos, sino que mira las palabras en su sentido claro.
+##### 3) La interpretación literal no __<u>busca</u>__ significados ocultos, sino que mira las palabras en su sentido claro.
 
-##### La interpretación literal no busca __<u>leer</u>__ entre líneas sino que busca entender exactamente lo que está escrito.
+##### 4) La interpretación literal no busca __<u>leer</u>__ entre líneas sino que busca entender exactamente lo que está escrito.
 
-##### La interpretación literal ve el significado natural y obvio del pasaje sin __<u>añadir</u>__ significados imaginados.
+##### 5) La interpretación literal ve el significado natural y obvio del pasaje sin __<u>añadir</u>__ significados imaginados.
 
-##### La interpretación literal acepta como verdadero que Dios jamás trata de __<u>ocultar</u>__ la verdad, sino que se esfuerza por comunicarla en términos que los lectores puedan entender fácilmente.
+##### 6) La interpretación literal acepta como verdadero que Dios jamás trata de __<u>ocultar</u>__ la verdad, sino que se esfuerza por comunicarla en términos que los lectores puedan entender fácilmente.
 
-##### La interpretación literal siempre busca comprender un pasaje entendiendo el relato a través del marco de su contexto histórico, cultural y literario. El Espíritu Santo inspiró cada __<u>palabra</u>__ que los profetas escribieron.
+##### 7) La interpretación literal siempre busca comprender un pasaje entendiendo el relato a través del marco de su contexto histórico, cultural y literario. El Espíritu Santo inspiró cada __<u>palabra</u>__ que los profetas escribieron.
 
-###### Cada __<u>palabra</u>__ está en una frase.
+###### a) Cada __<u>palabra</u>__ está en una frase.
 
-###### Las __<u>frases</u>__ crean una oración.
+###### b) Las __<u>frases</u>__ crean una oración.
 
-###### Cada oración está en un __<u>versículo</u>__ o pasaje.
+###### c) Cada oración está en un __<u>versículo</u>__ o pasaje.
 
-###### Los versículos se agrupan en __<u>capítulos</u>__.
+###### d) Los versículos se agrupan en __<u>capítulos</u>__.
 
-###### Los capítulos forman __<u>libros</u>__.
+###### e) Los capítulos forman __<u>libros</u>__.
 
-###### Cada libro se encuentra en el __<u>Antiguo</u>__ o el Nuevo Testamento.
+###### f) Cada libro se encuentra en el __<u>Antiguo</u>__ o el Nuevo Testamento.
 
-###### Los dos testamentos forman la __<u>Biblia</u>__.
+###### g) Los dos testamentos forman la __<u>Biblia</u>__.
 
-###### La Biblia es la __<u>Palabra</u>__ de Dios.
+###### h) La Biblia es la __<u>Palabra</u>__ de Dios.
 
-##### La interpretación literal de las Escrituras enfatiza que Dios comunica la verdad en palabras comprensibles a los __<u>lectores</u>__ para que podamos entenderla a través de un estudio cuidadoso.
+##### 8) La interpretación literal de las Escrituras enfatiza que Dios comunica la verdad en palabras comprensibles a los __<u>lectores</u>__ para que podamos entenderla a través de un estudio cuidadoso.
 
-##### La interpretación literal da __<u>prioridad</u>__ a las características gramaticales del idioma original (griego, hebreo o arameo) por encima del idioma al que esté traducida.
+##### 9) La interpretación literal da __<u>prioridad</u>__ a las características gramaticales del idioma original (griego, hebreo o arameo) por encima del idioma al que esté traducida.
 
-##### La interpretación literal de las Escrituras siempre considera que la Biblia es históricamente confiable y no alegoría. Por ejemplo, la interpretación literal cree que Dios creó el mundo en __<u>seis</u>__ días literales de veinticuatro horas, tal como lo registra Génesis.
+##### 10) La interpretación literal de las Escrituras siempre considera que la Biblia es históricamente confiable y no alegoría. Por ejemplo, la interpretación literal cree que Dios creó el mundo en __<u>seis</u>__ días literales de veinticuatro horas, tal como lo registra Génesis.
 
-##### A diferencia de la interpretación alegórica, la interpretación literal confirma enfáticamente que la Biblia no está compuesta de __<u>fábulas</u>__, mitos, tradiciones religiosas, ideas humanas o delirios.
+##### 11) A diferencia de la interpretación alegórica, la interpretación literal confirma enfáticamente que la Biblia no está compuesta de __<u>fábulas</u>__, mitos, tradiciones religiosas, ideas humanas o delirios.
 
-##### La interpretación literal reconoce que la Biblia utiliza muchas metáforas y __<u>figuras</u>__ retóricas que no son necesariamente utilizadas hoy en día en nuestros idiomas y busca comprenderlas a partir de los significados históricos tanto como sea posible.
+##### 12) La interpretación literal reconoce que la Biblia utiliza muchas metáforas y __<u>figuras</u>__ retóricas que no son necesariamente utilizadas hoy en día en nuestros idiomas y busca comprenderlas a partir de los significados históricos tanto como sea posible.
 
-##### La interpretación literal de la Biblia __<u>sólo</u>__ busca un significado alternativo en un pasaje cuando el significado literal es lógicamente imposible u obviamente metafórico. Cuando esto ocurre en el texto, se tiene cuidado de comprender la metáfora o la ilusión a la luz de pasajes claros sobre el mismo tema.
+##### 13) La interpretación literal de la Biblia __<u>sólo</u>__ busca un significado alternativo en un pasaje cuando el significado literal es lógicamente imposible u obviamente metafórico. Cuando esto ocurre en el texto, se tiene cuidado de comprender la metáfora o la ilusión a la luz de pasajes claros sobre el mismo tema.
 
-##### La interpretación literal dice que Dios quiso decir lo que dijo y dijo lo que quiso decir. Dios el Espíritu Santo __<u>guió</u>__ cuidadosamente a Sus instrumentos humanos (los Profetas) usando sus pensamientos y vocabulario para escribir Su mensaje exactamente como Él quiso que se registrara.
+##### 14) La interpretación literal dice que Dios quiso decir lo que dijo y dijo lo que quiso decir. Dios el Espíritu Santo __<u>guió</u>__ cuidadosamente a Sus instrumentos humanos (los Profetas) usando sus pensamientos y vocabulario para escribir Su mensaje exactamente como Él quiso que se registrara.
 
-### Gálatas 4:23-24a, 30 -- ¿Por qué utilizó Pablo la historia de Agar y Sara alegóricamente aquí?
+### 3. Gálatas 4:23-24a, 30 -- ¿Por qué utilizó Pablo la historia de Agar y Sara alegóricamente aquí?
 
-#### Gálatas 4:23-24a, 30 -- Pablo utilizó con precisión un evento del Antiguo Testamento para __<u>mostrar</u>__ vívidamente cómo los esfuerzos humanos, el equivalente al legalismo, no son la forma de vivir la vida cristiana y deben ser rechazados. Fue inútil que Abraham y Sara usaran los esfuerzos humanos (como en el legalismo) para adquirir algo prometido (como por gracia).
+#### a. Gálatas 4:23-24a, 30 -- Pablo utilizó con precisión un evento del Antiguo Testamento para __<u>mostrar</u>__ vívidamente cómo los esfuerzos humanos, el equivalente al legalismo, no son la forma de vivir la vida cristiana y deben ser rechazados. Fue inútil que Abraham y Sara usaran los esfuerzos humanos (como en el legalismo) para adquirir algo prometido (como por gracia).
 
-##### Gálatas 4:23a -- "*Pero el de la esclava nació **según la carne**\...".* Esto establece que Abraham y Sara se __<u>equivocaron</u>__ al usar el esfuerzo humano.
+##### 1) Gálatas 4:23a -- "*Pero el de la esclava nació **según la carne**\...".* Esto establece que Abraham y Sara se __<u>equivocaron</u>__ al usar el esfuerzo humano.
 
-##### Gálatas 4:23b -- "...*mas el de la libre, **por la promesa"**.* Esta es prueba de que el hijo nacido de la mujer libre fue resultado de la __<u>promesa</u>__ de Dios y no tuvo nada que ver con los esfuerzos humanos.
+##### 2) Gálatas 4:23b -- "...*mas el de la libre, **por la promesa"**.* Esta es prueba de que el hijo nacido de la mujer libre fue resultado de la __<u>promesa</u>__ de Dios y no tuvo nada que ver con los esfuerzos humanos.
 
-##### Gálatas 4:24a -- Pablo estableció el hecho de que Abraham cometió un error al engendrar un hijo con la esclava. Su hijo con Agar era tratado como __<u>esclavo</u>__, no como hijo. Este hijo no se convirtió en heredero según la promesa. Génesis 21:10-12
+##### 3) Gálatas 4:24a -- Pablo estableció el hecho de que Abraham cometió un error al engendrar un hijo con la esclava. Su hijo con Agar era tratado como __<u>esclavo</u>__, no como hijo. Este hijo no se convirtió en heredero según la promesa. Génesis 21:10-12
 
-##### Gálatas 4:30 -- Saltando hacia adelante, vemos que Abraham claramente erró porque el hijo de la mujer __<u>libre</u>__ era el heredero, no el hijo de la esclava, que nació como resultado de los esfuerzos humanos.
+##### 4) Gálatas 4:30 -- Saltando hacia adelante, vemos que Abraham claramente erró porque el hijo de la mujer __<u>libre</u>__ era el heredero, no el hijo de la esclava, que nació como resultado de los esfuerzos humanos.
 
-#### El error de los gálatas se basó en la creencia de que se convertirían en descendientes de Abraham (por tanto aceptados por Dios) a través de los esfuerzos humanos; este ejemplo alegórico niega esa __<u>falsa</u>__ suposición.
+#### b. El error de los gálatas se basó en la creencia de que se convertirían en descendientes de Abraham (por tanto aceptados por Dios) a través de los esfuerzos humanos; este ejemplo alegórico niega esa __<u>falsa</u>__ suposición.
 
-### Gálatas 4:24-27 -- Ahora examinaremos el contenido del ejemplo alegórico de Pablo. Pablo usa a las dos mujeres, Sara y Agar, para contrastar el legalismo y la __<u>gracia</u>__.
+### 4. Gálatas 4:24-27 -- Ahora examinaremos el contenido del ejemplo alegórico de Pablo. Pablo usa a las dos mujeres, Sara y Agar, para contrastar el legalismo y la __<u>gracia</u>__.
 
-#### Gálatas 4:24-25 -- Se dice que estas mujeres representan __<u>dos</u>__ pactos, el Abrahámico y el Mosaico, y las realidades que corresponden a cada uno. "*Lo cual es una alegoría, pues estas mujeres son los dos pactos; el uno proviene del monte Sinaí, el cual da hijos para esclavitud; éste es Agar"*.
+#### a. Gálatas 4:24-25 -- Se dice que estas mujeres representan __<u>dos</u>__ pactos, el Abrahámico y el Mosaico, y las realidades que corresponden a cada uno. "*Lo cual es una alegoría, pues estas mujeres son los dos pactos; el uno proviene del monte Sinaí, el cual da hijos para esclavitud; éste es Agar"*.
 
-##### Gálatas 4:24a -- "...*el uno proviene del monte Sinaí\...".* Por un lado, se dice que el Pacto Mosaico dado en el Monte Sinaí, con sus requisitos y obligaciones, está representado por __<u>Agar</u>__.
+##### 1) Gálatas 4:24a -- "...*el uno proviene del monte Sinaí\...".* Por un lado, se dice que el Pacto Mosaico dado en el Monte Sinaí, con sus requisitos y obligaciones, está representado por __<u>Agar</u>__.
 
-##### Gálatas 4:24b -- Agar representa el Monte Sinaí encontrado al sur de la región en la que una vez estuvo __<u>perdida</u>__ y embarazada (Génesis 16:7) y el área a la que parece haber sido enviada más tarde con su hijo. Génesis 21:14, 20-21
+##### 2) Gálatas 4:24b -- Agar representa el Monte Sinaí encontrado al sur de la región en la que una vez estuvo __<u>perdida</u>__ y embarazada (Génesis 16:7) y el área a la que parece haber sido enviada más tarde con su hijo. Génesis 21:14, 20-21
 
-##### Gálatas 4:24c -- "...*el cual da hijos para esclavitud\...".* Se dice que ella produce descendientes que no son más que __<u>esclavos</u>__, definitivamente no herederos. Génesis 21:10-12, Lucas 19:41-42
+##### 3) Gálatas 4:24c -- "...*el cual da hijos para esclavitud\...".* Se dice que ella produce descendientes que no son más que __<u>esclavos</u>__, definitivamente no herederos. Génesis 21:10-12, Lucas 19:41-42
 
-##### Gálatas 4:25a -- "*Porque Agar es el monte Sinaí en Arabia, y corresponde a la Jerusalén actual\...".* En la analogía de Pablo, Agar representa al Monte __<u>Sinaí</u>__ que a su vez representa la ciudad de Jerusalén. Lucas 13:34
+##### 4) Gálatas 4:25a -- "*Porque Agar es el monte Sinaí en Arabia, y corresponde a la Jerusalén actual\...".* En la analogía de Pablo, Agar representa al Monte __<u>Sinaí</u>__ que a su vez representa la ciudad de Jerusalén. Lucas 13:34
 
-##### Gálatas 4:25b -- "...*pues ésta, junto con sus hijos, está en esclavitud".* Pablo dijo que la ciudad de Jerusalén, fuente de los judaizantes legalistas que atormentaban a los gálatas y a los judíos incrédulos, estaban en __<u>esclavitud</u>__. Gálatas 2:4, 12
+##### 5) Gálatas 4:25b -- "...*pues ésta, junto con sus hijos, está en esclavitud".* Pablo dijo que la ciudad de Jerusalén, fuente de los judaizantes legalistas que atormentaban a los gálatas y a los judíos incrédulos, estaban en __<u>esclavitud</u>__. Gálatas 2:4, 12
 
-##### Aquí Pablo claramente asoció el legalismo y su esclavitud resultante con el Pacto __<u>Mosaico</u>__ y el judaísmo.
+##### 6) Aquí Pablo claramente asoció el legalismo y su esclavitud resultante con el Pacto __<u>Mosaico</u>__ y el judaísmo.
 
-#### Gálatas 4:26 -- Obviamente, por otro lado, a través del hijo __<u>milagroso</u>__ de Sara por medio del Pacto Abrahámico y su provisión, la salvación por gracia ha venido al mundo.
+#### b. Gálatas 4:26 -- Obviamente, por otro lado, a través del hijo __<u>milagroso</u>__ de Sara por medio del Pacto Abrahámico y su provisión, la salvación por gracia ha venido al mundo.
 
-##### Gálatas 4:26a -- "*Mas la Jerusalén de arriba, la cual es madre de todos nosotros, es libre".* En contraste con el Pacto Mosaico, el Pacto Abrahámico es __<u>gracia</u>__ pura (libre). 
+##### 1) Gálatas 4:26a -- "*Mas la Jerusalén de arriba, la cual es madre de todos nosotros, es libre".* En contraste con el Pacto Mosaico, el Pacto Abrahámico es __<u>gracia</u>__ pura (libre). 
 
-###### Este pacto fue un pacto unilateral, lo que significa que sólo Dios lo promulgó y, por lo tanto, no __<u>requirió</u>__ la obediencia de Abraham. Génesis 15:17-18
+###### a) Este pacto fue un pacto unilateral, lo que significa que sólo Dios lo promulgó y, por lo tanto, no __<u>requirió</u>__ la obediencia de Abraham. Génesis 15:17-18
 
-###### Este pacto contenía una __<u>promesa</u>__ de bendiciones inmerecidas. Génesis 12:1-3, Génesis 15:12-13
+###### b) Este pacto contenía una __<u>promesa</u>__ de bendiciones inmerecidas. Génesis 12:1-3, Génesis 15:12-13
 
-###### Libertad y esperanza han llegado a través de este pacto. Este pacto es mejor descrito con la palabra __<u>gracia</u>__. Gálatas 3:7-9
+###### c) Libertad y esperanza han llegado a través de este pacto. Este pacto es mejor descrito con la palabra __<u>gracia</u>__. Gálatas 3:7-9
 
-##### Gálatas 4:26b -- "*Mas la Jerusalén de arriba*\...". En esta analogía, Sara representa la __<u>Jerusalén</u>__ celestial. Hebreos 11:10, 13-16; 13:14
+##### 2) Gálatas 4:26b -- "*Mas la Jerusalén de arriba*\...". En esta analogía, Sara representa la __<u>Jerusalén</u>__ celestial. Hebreos 11:10, 13-16; 13:14
 
-##### Gálatas 4:26c -- "*...la cual es madre de todos nosotros...".* __<u>Sara</u>__ representa a aquellos que somos creyentes. Génesis 17:16
+##### 3) Gálatas 4:26c -- "*...la cual es madre de todos nosotros...".* __<u>Sara</u>__ representa a aquellos que somos creyentes. Génesis 17:16
 
-##### Gálatas 4:26d -- "...*es libre".* Sara representa la __<u>libertad</u>__ para todos los que creen en Jesucristo como Salvador. Romanos 9:8-9
+##### 4) Gálatas 4:26d -- "...*es libre".* Sara representa la __<u>libertad</u>__ para todos los que creen en Jesucristo como Salvador. Romanos 9:8-9
 
-#### Gálatas 4:27 -- Para alentar a la __<u>minoría</u>__ que ***no*** estaba ***bajo la esclavitud*** del legalismo, Pablo mencionó un pasaje que se encuentra en Isaías 54:1.
+#### c. Gálatas 4:27 -- Para alentar a la __<u>minoría</u>__ que ***no*** estaba ***bajo la esclavitud*** del legalismo, Pablo mencionó un pasaje que se encuentra en Isaías 54:1.
 
-##### Gálatas 4:27a -- "*Regocíjate, oh estéril* \[Sara\], *tú que no das a luz; Prorrumpe en júbilo y clama, tú que no tienes dolores de parto...".* En este caso, la mujer que nunca __<u>tuvo</u>__ un hijo fue Sara.
+##### 1) Gálatas 4:27a -- "*Regocíjate, oh estéril* \[Sara\], *tú que no das a luz; Prorrumpe en júbilo y clama, tú que no tienes dolores de parto...".* En este caso, la mujer que nunca __<u>tuvo</u>__ un hijo fue Sara.
 
-##### Gálatas 4:27b -- "...*Porque __<u>más</u>__ son los hijos de la desolada* (Agar)*..."*.
+##### 2) Gálatas 4:27b -- "...*Porque __<u>más</u>__ son los hijos de la desolada* (Agar)*..."*.
 
-###### Lamentablemente, el hecho es que la mujer que fue abandonada o desolada (desolada es EREMOU, el término para desierto) termina teniendo __<u>más</u>__ descendencia. 
+###### a) Lamentablemente, el hecho es que la mujer que fue abandonada o desolada (desolada es EREMOU, el término para desierto) termina teniendo __<u>más</u>__ descendencia. 
 
-###### Nunca debería sorprendernos que los legalistas superen en número a los que siguen la __<u>gracia</u>__.
+###### b) Nunca debería sorprendernos que los legalistas superen en número a los que siguen la __<u>gracia</u>__.
 
-###### A pesar de ser superados en número por la descendencia ilegítima, podemos regocijarnos en el triunfo tal como Sara fue alentada a regocijarse. Su hijo Isaac era el hijo legítimo y justo __<u>heredero</u>__.
+###### c) A pesar de ser superados en número por la descendencia ilegítima, podemos regocijarnos en el triunfo tal como Sara fue alentada a regocijarse. Su hijo Isaac era el hijo legítimo y justo __<u>heredero</u>__.
 
-##### Gálatas 4:27c -- "...*que de la que tiene marido".* Sara es la que se dice que tiene esposo; y por tanto, sus hijos son considerados __<u>herederos</u>__ e hijos legítimos.
+##### 3) Gálatas 4:27c -- "...*que de la que tiene marido".* Sara es la que se dice que tiene esposo; y por tanto, sus hijos son considerados __<u>herederos</u>__ e hijos legítimos.
 
-### Gálatas 4:28-5:1 -- Ahora hagamos una aplicación práctica de la ilustración alegórica de Pablo.
+### 5. Gálatas 4:28-5:1 -- Ahora hagamos una aplicación práctica de la ilustración alegórica de Pablo.
 
-#### Gálatas 4:28 -- Debemos considerarnos hijos de la promesa, como lo fue Isaac. Somos hijos libres y no descendientes de la __<u>esclavitud</u>__. "*Así que, hermanos, nosotros, como Isaac, somos hijos de la promesa"*. Génesis 21:9-12
+#### a. Gálatas 4:28 -- Debemos considerarnos hijos de la promesa, como lo fue Isaac. Somos hijos libres y no descendientes de la __<u>esclavitud</u>__. "*Así que, hermanos, nosotros, como Isaac, somos hijos de la promesa"*. Génesis 21:9-12
 
-##### El legalismo es __<u>esclavitud</u>__ y represión.
+##### 1) El legalismo es __<u>esclavitud</u>__ y represión.
 
-##### El legalismo no es para nosotros como hijos legítimos de la __<u>promesa</u>__.
+##### 2) El legalismo no es para nosotros como hijos legítimos de la __<u>promesa</u>__.
 
-##### Siendo herederos de la promesa, estamos bajo la __<u>gracia</u>__ de Dios.
+##### 3) Siendo herederos de la promesa, estamos bajo la __<u>gracia</u>__ de Dios.
 
-#### Gálatas 4:29a -- Al igual que Isaac, el __<u>hijo</u>__ de Abraham, era perseguido por Ismael, debemos esperar persecución de los legalistas. Como entonces el que había nacido según la carne perseguía al que había nacido según el Espíritu, así también ahora.
+#### b. Gálatas 4:29a -- Al igual que Isaac, el __<u>hijo</u>__ de Abraham, era perseguido por Ismael, debemos esperar persecución de los legalistas. Como entonces el que había nacido según la carne perseguía al que había nacido según el Espíritu, así también ahora.
 
-#### Gálatas 4:29b -- Nosotros, los que nacimos de nuevo por el __<u>poder</u>__ y la obra del Espíritu Santo de Dios, debemos esperar persecución de los legalistas. Génesis 21:9
+#### c. Gálatas 4:29b -- Nosotros, los que nacimos de nuevo por el __<u>poder</u>__ y la obra del Espíritu Santo de Dios, debemos esperar persecución de los legalistas. Génesis 21:9
 
-##### Seremos perseguidos por legalistas __<u>inconversos</u>__: aquellos que aman seguir una religión y un sistema de obras. Lucas 6:7, Juan 15:18-25, Hechos 13:45, 2 Timoteo 3:12
+##### 1) Seremos perseguidos por legalistas __<u>inconversos</u>__: aquellos que aman seguir una religión y un sistema de obras. Lucas 6:7, Juan 15:18-25, Hechos 13:45, 2 Timoteo 3:12
 
-##### Seremos perseguidos por los legalistas que son salvos: aquellos creyentes que caminan de acuerdo con el lado religioso de la __<u>carne</u>__. Juan 6:63, Romanos 8:5-8, Gálatas 6:8
+##### 2) Seremos perseguidos por los legalistas que son salvos: aquellos creyentes que caminan de acuerdo con el lado religioso de la __<u>carne</u>__. Juan 6:63, Romanos 8:5-8, Gálatas 6:8
 
-#### Gálatas 4:30 -- Como hijos de la promesa, se nos dice que __<u>expulsemos</u>__ a la esclava y su hijo. "*Mas ¿qué dice la Escritura? Echa fuera a la esclava y a su hijo, porque no heredará el hijo de la esclava con el hijo de la libre".*
+#### d. Gálatas 4:30 -- Como hijos de la promesa, se nos dice que __<u>expulsemos</u>__ a la esclava y su hijo. "*Mas ¿qué dice la Escritura? Echa fuera a la esclava y a su hijo, porque no heredará el hijo de la esclava con el hijo de la libre".*
 
-##### La esclava en esta enseñanza representa el ***legalismo***, un sistema que debemos __<u>evitar</u>__ a toda costa.
+##### 1) La esclava en esta enseñanza representa el ***legalismo***, un sistema que debemos __<u>evitar</u>__ a toda costa.
 
-##### El hijo de la esclava representa a los ***legalistas*** que debemos mantener fuera de nuestras vidas e __<u>iglesias</u>__.
+##### 2) El hijo de la esclava representa a los ***legalistas*** que debemos mantener fuera de nuestras vidas e __<u>iglesias</u>__.
 
-##### Pablo no tenía paciencia con aquellos que __<u>enseñaban</u>__ un sistema de legalismo. Gálatas 2:4-5, 14; Hechos 15:2; Judas 3
+##### 3) Pablo no tenía paciencia con aquellos que __<u>enseñaban</u>__ un sistema de legalismo. Gálatas 2:4-5, 14; Hechos 15:2; Judas 3
 
-##### Mientras que Jesucristo mostró una paciencia asombrosa con los ***pecadores*** (Juan 8:1-11), él tuvo muy __<u>poca</u>__ paciencia con los legalistas religiosos (sacerdotes, escribas y Fariseos) de la época. Mateo 23:13-36
+##### 4) Mientras que Jesucristo mostró una paciencia asombrosa con los ***pecadores*** (Juan 8:1-11), él tuvo muy __<u>poca</u>__ paciencia con los legalistas religiosos (sacerdotes, escribas y Fariseos) de la época. Mateo 23:13-36
 
-#### Gálatas 4:31 -- Pablo llegó a una conclusión de la analogía de las dos __<u>mujeres</u>__ que haríamos bien en prestar atención. "*De manera, hermanos, que no somos hijos de la esclava, sino de la libre".*
+#### e. Gálatas 4:31 -- Pablo llegó a una conclusión de la analogía de las dos __<u>mujeres</u>__ que haríamos bien en prestar atención. "*De manera, hermanos, que no somos hijos de la esclava, sino de la libre".*
 
-##### Como creyentes, no somos hijos del legalismo y su resultante __<u>esclavitud</u>__.
+##### 1) Como creyentes, no somos hijos del legalismo y su resultante __<u>esclavitud</u>__.
 
-##### Somos hijos e hijas de la libertad y su resultante __<u>libertad</u>__.
+##### 2) Somos hijos e hijas de la libertad y su resultante __<u>libertad</u>__.
 
-#### Gálatas 5:1 -- En el capítulo 5 se nos anima a mantenernos firmes en la libertad que Cristo nos hizo __<u>libres</u>__. Dejemos de someternos al yugo de los legalistas.
+#### f. Gálatas 5:1 -- En el capítulo 5 se nos anima a mantenernos firmes en la libertad que Cristo nos hizo __<u>libres</u>__. Dejemos de someternos al yugo de los legalistas.
 
 <!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/chainlink.jpeg" data-background-size="cover"  data-menu-title="XIV. Gálatas 5:1-15 -- ¡Permanezcan en la Gracia!" data-background-color="black" data-background-opacity="0.5" data-transition="zoom" -->
 # XIV. Gálatas 5:1-15 -- ¡Permanezcan en la Gracia!
@@ -2602,165 +2603,165 @@ El legalismo le quita el foco de Cristo y lo pone en el hombre y en sus esfuerzo
 
 ## A. Gálatas 5:1-6 -- Debemos <u>permanecer</u> firmes en la gracia y rechazar el legalismo.
 
-### Gálatas 5:1 -- Tenemos el mandato de mantener nuestra libertad en Cristo y no __<u>volver</u>__ a la esclavitud. 
+### 1. Gálatas 5:1 -- Tenemos el mandato de mantener nuestra libertad en Cristo y no __<u>volver</u>__ a la esclavitud. 
 
-#### Gálatas 5:1a -- "*Estad, pues, firmes\...".* Por nuestra unión con Cristo, hemos sido liberados para servir a __<u>Dios</u>__ con todo nuestro ser y no debemos permitirnos ser movidos de nuestra libertad. 2 Corintios 3:15-17, Efesios 2:10, Romanos 6:7-10
+#### a. Gálatas 5:1a -- "*Estad, pues, firmes\...".* Por nuestra unión con Cristo, hemos sido liberados para servir a __<u>Dios</u>__ con todo nuestro ser y no debemos permitirnos ser movidos de nuestra libertad. 2 Corintios 3:15-17, Efesios 2:10, Romanos 6:7-10
 
-#### Gálatas 5:1b -- "*...en la libertad con que Cristo nos hizo libres\...".* Necesitamos recordar constantemente que en la salvación fuimos __<u>liberados</u>__ de muchas cosas, incluyendo la tiranía del pecado (la naturaleza de pecado). Romanos 8:2
+#### b. Gálatas 5:1b -- "*...en la libertad con que Cristo nos hizo libres\...".* Necesitamos recordar constantemente que en la salvación fuimos __<u>liberados</u>__ de muchas cosas, incluyendo la tiranía del pecado (la naturaleza de pecado). Romanos 8:2
 
-##### Cristo ganó completa libertad para nosotros por Su __<u>muerte</u>__ en nuestro nombre. Hechos 13:38-39, Romanos 6:10
+##### 1) Cristo ganó completa libertad para nosotros por Su __<u>muerte</u>__ en nuestro nombre. Hechos 13:38-39, Romanos 6:10
 
-##### Recordemos una vez más las áreas de __<u>esclavitud</u>__ de las cuales Cristo nos ha liberado.
+##### 2) Recordemos una vez más las áreas de __<u>esclavitud</u>__ de las cuales Cristo nos ha liberado.
 
-###### Por nuestra unión con Cristo en Su muerte fuimos liberados de la __<u>Ley</u>__ como principio gobernante de la vida. Romanos 6:14, 7:4, 6; Gálatas 2:19
+###### a) Por nuestra unión con Cristo en Su muerte fuimos liberados de la __<u>Ley</u>__ como principio gobernante de la vida. Romanos 6:14, 7:4, 6; Gálatas 2:19
 
-###### Por nuestra unión con Cristo en Su muerte, fuimos liberados de la tiranía del derecho de la naturaleza de __<u>pecado</u>__ (la carne) de gobernar como nuestro amo absoluto. Romanos 6:2
+###### b) Por nuestra unión con Cristo en Su muerte, fuimos liberados de la tiranía del derecho de la naturaleza de __<u>pecado</u>__ (la carne) de gobernar como nuestro amo absoluto. Romanos 6:2
 
-###### Por nuestra unión con Cristo en Su muerte, también hemos muerto al gobierno y el reinado del __<u>diablo</u>__ (y los demonios) y, por lo tanto, la esclavitud absoluta hacia él cesó. Hebreos 2:9, 14-15, Colosenses 2:14-15
+###### c) Por nuestra unión con Cristo en Su muerte, también hemos muerto al gobierno y el reinado del __<u>diablo</u>__ (y los demonios) y, por lo tanto, la esclavitud absoluta hacia él cesó. Hebreos 2:9, 14-15, Colosenses 2:14-15
 
-###### Por nuestra unión con Cristo en Su muerte, ahora estamos muertos al __<u>mundo</u>__ con toda su filosofía vacía. Gálatas 4:3-5, Colosenses 2:20-23
+###### d) Por nuestra unión con Cristo en Su muerte, ahora estamos muertos al __<u>mundo</u>__ con toda su filosofía vacía. Gálatas 4:3-5, Colosenses 2:20-23
 
-###### Por nuestra unión con Cristo en su muerte, hemos sido liberados de __<u>todas</u>__ las cosas que previamente nos habían esclavizado. Hechos 13:39
+###### e) Por nuestra unión con Cristo en su muerte, hemos sido liberados de __<u>todas</u>__ las cosas que previamente nos habían esclavizado. Hechos 13:39
 
-#### Gálatas 5:1c -- "...*y no estéis otra vez sujetos al yugo de esclavitud".* Entonces, debido a nuestra libertad en Cristo, se nos ordena no __<u>someternos</u>__ *otra vez* a ninguna forma de legalismo. Sabemos que vivir de acuerdo con la Ley o con nuestros propios esfuerzos humanos nos llevará nuevamente a la esclavitud y no a la libertad. Gálatas 3:1-5
+#### c. Gálatas 5:1c -- "...*y no estéis otra vez sujetos al yugo de esclavitud".* Entonces, debido a nuestra libertad en Cristo, se nos ordena no __<u>someternos</u>__ *otra vez* a ninguna forma de legalismo. Sabemos que vivir de acuerdo con la Ley o con nuestros propios esfuerzos humanos nos llevará nuevamente a la esclavitud y no a la libertad. Gálatas 3:1-5
 
-#### Gálatas 5:1d -- Aquí Pablo describió el legalismo como un estorbo __<u>cruel</u>__. "\...*al **yugo** de **esclavitud***". Hechos 15:6-11, Mateo 11:28-30
+#### d. Gálatas 5:1d -- Aquí Pablo describió el legalismo como un estorbo __<u>cruel</u>__. "\...*al **yugo** de **esclavitud***". Hechos 15:6-11, Mateo 11:28-30
 
-### Gálatas 5:2-4 -- Pablo mostró varias características comunes del __<u>legalismo</u>__.
+### 2. Gálatas 5:2-4 -- Pablo mostró varias características comunes del __<u>legalismo</u>__.
 
-#### Gálatas 5:2 -- El legalismo puede ser definido como una actitud que busca merecer el __<u>favor</u>__ de Dios, o convertirlo a uno en una mejor persona, siguiendo reglas y rituales e intentando hacer buenas obras. "*He aquí, yo Pablo os digo que si os circuncidáis, de nada os aprovechará Cristo".*
+#### a. Gálatas 5:2 -- El legalismo puede ser definido como una actitud que busca merecer el __<u>favor</u>__ de Dios, o convertirlo a uno en una mejor persona, siguiendo reglas y rituales e intentando hacer buenas obras. "*He aquí, yo Pablo os digo que si os circuncidáis, de nada os aprovechará Cristo".*
 
-##### Gálatas 5:2a -- La circuncisión es el enfoque aquí, pero podrías sustituir prácticamente cualquier tipo de __<u>ritual</u>__ religioso destinado a ganar el favor, la aceptación o la aprobación de Dios.
+##### 1) Gálatas 5:2a -- La circuncisión es el enfoque aquí, pero podrías sustituir prácticamente cualquier tipo de __<u>ritual</u>__ religioso destinado a ganar el favor, la aceptación o la aprobación de Dios.
 
-##### Gálatas 5:2b -- El legalismo está comúnmente caracterizado por legislar y hacer cumplir __<u>reglas</u>__ y requisitos. "\...*si os circuncidáis*...".
+##### 2) Gálatas 5:2b -- El legalismo está comúnmente caracterizado por legislar y hacer cumplir __<u>reglas</u>__ y requisitos. "\...*si os circuncidáis*...".
 
-###### Invariablemente, el legalismo se centra en los cambios __<u>externos</u>__ y no en los cambios del corazón.
+###### a) Invariablemente, el legalismo se centra en los cambios __<u>externos</u>__ y no en los cambios del corazón.
 
-###### Es fácil para una persona en el ministerio cristiano que no entiende la gracia de Dios, tratar de __<u>controlar</u>__ la vida de los creyentes enseñando alguna forma de legalismo. 
+###### b) Es fácil para una persona en el ministerio cristiano que no entiende la gracia de Dios, tratar de __<u>controlar</u>__ la vida de los creyentes enseñando alguna forma de legalismo. 
 
-##### Gálatas 5:2c -- Definitivamente, el legalismo es una afrenta a la persona y obra de Cristo. "\...*de nada os __<u>aprovechará</u>__ Cristo".*
+##### 3) Gálatas 5:2c -- Definitivamente, el legalismo es una afrenta a la persona y obra de Cristo. "\...*de nada os __<u>aprovechará</u>__ Cristo".*
 
-#### Gálatas 5:3 -- Si buscas vivir bajo la Ley (el legalismo), te ves obligado a cumplir __<u>toda</u>__ la Ley. Y otra vez testifico a todo hombre que se circuncida, que está obligado a guardar toda la ley.
+#### b. Gálatas 5:3 -- Si buscas vivir bajo la Ley (el legalismo), te ves obligado a cumplir __<u>toda</u>__ la Ley. Y otra vez testifico a todo hombre que se circuncida, que está obligado a guardar toda la ley.
 
-##### No puedes tomar la __<u>parte</u>__ de la Ley que quieras e ignorar el resto. Santiago 2:10
+##### 1) No puedes tomar la __<u>parte</u>__ de la Ley que quieras e ignorar el resto. Santiago 2:10
 
-##### Si planeas vivir según la Ley, estás obligado a __<u>obedecerla</u>__ toda y sufrir las consecuencias del fracaso, porque fallarás. Gálatas 3:10, Deuteronomio 27:26
+##### 2) Si planeas vivir según la Ley, estás obligado a __<u>obedecerla</u>__ toda y sufrir las consecuencias del fracaso, porque fallarás. Gálatas 3:10, Deuteronomio 27:26
 
-#### Gálatas 5:4a -- "*De Cristo os desligasteis\...".* El legalismo elimina la dependencia que uno tiene de __<u>Cristo</u>__.
+#### c. Gálatas 5:4a -- "*De Cristo os desligasteis\...".* El legalismo elimina la dependencia que uno tiene de __<u>Cristo</u>__.
 
-#### Gálatas 5:4b -- El legalismo es una __<u>afrenta</u>__ a la justificación (la manera en que una persona es declarada justa con Dios); aunque uno puede pensar que es meramente una mala comprensión de la santificación (la manera en que una persona justa debe vivir rectamente ante Dios). "\...*los que por la ley os justificáis*...".
+#### d. Gálatas 5:4b -- El legalismo es una __<u>afrenta</u>__ a la justificación (la manera en que una persona es declarada justa con Dios); aunque uno puede pensar que es meramente una mala comprensión de la santificación (la manera en que una persona justa debe vivir rectamente ante Dios). "\...*los que por la ley os justificáis*...".
 
-#### Gálatas 5:4c -- El legalismo aleja abruptamente a las personas de la gracia. "\...*de la gracia habéis __<u>caído</u>__*".
+#### e. Gálatas 5:4c -- El legalismo aleja abruptamente a las personas de la gracia. "\...*de la gracia habéis __<u>caído</u>__*".
 
-##### Esto no significa que un cristiano que practica el legalismo haya __<u>perdido</u>__ su salvación.
+##### 1) Esto no significa que un cristiano que practica el legalismo haya __<u>perdido</u>__ su salvación.
 
-##### Esto simplemente significa que el legalista no está viviendo en la bendición o esfera de la __<u>gracia</u>__. La gracia es el poder habilitador de Dios que hace posible la vida cristiana y es algo totalmente desaprovechado por el legalista. 2 Corintios 12:9, Filipenses 4:9-10, Juan 15:4-5, Tito 2:11-12
+##### 2) Esto simplemente significa que el legalista no está viviendo en la bendición o esfera de la __<u>gracia</u>__. La gracia es el poder habilitador de Dios que hace posible la vida cristiana y es algo totalmente desaprovechado por el legalista. 2 Corintios 12:9, Filipenses 4:9-10, Juan 15:4-5, Tito 2:11-12
 
-### Gálatas 5:5-6 -- Consideremos las características de una vida cristiana vivida por __<u>gracia</u>__. Ninguna de estas cosas caracteriza al legalista.
+### 3. Gálatas 5:5-6 -- Consideremos las características de una vida cristiana vivida por __<u>gracia</u>__. Ninguna de estas cosas caracteriza al legalista.
 
-#### Gálatas 5:5a -- El Espíritu Santo: La vida cristiana auténtica es vivida por el poder habilitador del Espíritu Santo. "*Pues nosotros por el __<u>Espíritu</u>__*...".
+#### a. Gálatas 5:5a -- El Espíritu Santo: La vida cristiana auténtica es vivida por el poder habilitador del Espíritu Santo. "*Pues nosotros por el __<u>Espíritu</u>__*...".
 
-#### Gálatas 5:5b -- Fe: La auténtica vida cristiana es caracterizada por la fe o la dependencia del Espíritu Santo. "*Pues nosotros por el Espíritu aguardamos por __<u>fe</u>__*...".
+#### b. Gálatas 5:5b -- Fe: La auténtica vida cristiana es caracterizada por la fe o la dependencia del Espíritu Santo. "*Pues nosotros por el Espíritu aguardamos por __<u>fe</u>__*...".
 
-#### Gálatas 5:5c -- Esperanza: La auténtica vida cristiana se caracteriza por la __<u>esperanza</u>__ que nos es dada por el Espíritu Santo. "*Pues nosotros por el Espíritu aguardamos por fe la esperanza de la justicia"*.
+#### c. Gálatas 5:5c -- Esperanza: La auténtica vida cristiana se caracteriza por la __<u>esperanza</u>__ que nos es dada por el Espíritu Santo. "*Pues nosotros por el Espíritu aguardamos por fe la esperanza de la justicia"*.
 
-##### La esperanza de la que se habla aquí es el resultado de ser justificados en el presente y, por lo tanto, saber que seremos glorificados en el __<u>futuro</u>__.
+##### 1) La esperanza de la que se habla aquí es el resultado de ser justificados en el presente y, por lo tanto, saber que seremos glorificados en el __<u>futuro</u>__.
 
-##### Esto es similar a lo que Pablo mencionó a los romanos en Romanos 15:13: "*Y el Dios de __<u>esperanza</u>__ os llene de todo gozo y paz en el creer, para que abundéis en esperanza por el poder del Espíritu Santo"*.
+##### 2) Esto es similar a lo que Pablo mencionó a los romanos en Romanos 15:13: "*Y el Dios de __<u>esperanza</u>__ os llene de todo gozo y paz en el creer, para que abundéis en esperanza por el poder del Espíritu Santo"*.
 
-#### Gálatas 5:6a -- Autenticidad: La auténtica vida cristiana se caracteriza por lo que realmente __<u>importa</u>__ y no por la falsa esperanza. "*porque en Cristo Jesús ni la circuncisión vale algo, ni la incircuncisión*...".
+#### d. Gálatas 5:6a -- Autenticidad: La auténtica vida cristiana se caracteriza por lo que realmente __<u>importa</u>__ y no por la falsa esperanza. "*porque en Cristo Jesús ni la circuncisión vale algo, ni la incircuncisión*...".
 
-#### Gálatas 5:6b -- Amor: La auténtica vida cristiana también se caracteriza por un continuo caminar de __<u>fe</u>__ que obra a través de actos de amor. "\...*sino la fe que obra por el amor"*. Santiago 2:17
+#### e. Gálatas 5:6b -- Amor: La auténtica vida cristiana también se caracteriza por un continuo caminar de __<u>fe</u>__ que obra a través de actos de amor. "\...*sino la fe que obra por el amor"*. Santiago 2:17
 
 ## B. Gálatas 5:7-12 -- Debemos luchar y tomar una posición firme contra los legalistas. Debemos ser <u>conscientes</u> de los siguientes signos reveladores de legalismo.
 
-### Gálatas 5:7 -- Un legalista interrumpirá tu __<u>progreso</u>__ espiritual. 
+### 1. Gálatas 5:7 -- Un legalista interrumpirá tu __<u>progreso</u>__ espiritual. 
 
-#### Gálatas 5:7a -- "*Vosotros corríais bien; ¿quién os estorbó?\....* La palabra *estorbó* EGKOPTO significa __<u>obstaculizar</u>__ el avance de alguien, o su camino, como con un obstáculo. 
+#### a. Gálatas 5:7a -- "*Vosotros corríais bien; ¿quién os estorbó?\....* La palabra *estorbó* EGKOPTO significa __<u>obstaculizar</u>__ el avance de alguien, o su camino, como con un obstáculo. 
 
-#### Gálatas 5:7b -- Ten cuidado, los legalistas quieren __<u>interrumpir</u>__ tu crecimiento cristiano y frenarte de "...*obedecer a la verdad"*.
+#### b. Gálatas 5:7b -- Ten cuidado, los legalistas quieren __<u>interrumpir</u>__ tu crecimiento cristiano y frenarte de "...*obedecer a la verdad"*.
 
-### Gálatas 5:8 -- Debe ser claramente advertido que las falsas enseñanzas del legalismo no provienen de __<u>Dios</u>__. "*Esta persuasión no procede de aquel que os llama".*
+### 2. Gálatas 5:8 -- Debe ser claramente advertido que las falsas enseñanzas del legalismo no provienen de __<u>Dios</u>__. "*Esta persuasión no procede de aquel que os llama".*
 
-#### Gálatas 5:8a -- Pablo describió la __<u>enseñanza</u>__ de los legalistas como ***esta persuasión***. En griego, persuasión PEISMONE puede significar una influencia negativa, o una creencia traicionera o engañosa.
+#### a. Gálatas 5:8a -- Pablo describió la __<u>enseñanza</u>__ de los legalistas como ***esta persuasión***. En griego, persuasión PEISMONE puede significar una influencia negativa, o una creencia traicionera o engañosa.
 
-#### Gálatas 5:8b -- La frase "...*aquel que os llama"* está en tiempo presente y tiene la idea de un llamado constante y continuo. Cristo está llamándote constantemente hacia adelante a un mayor __<u>crecimiento</u>__. 2 Pedro 3:18
+#### b. Gálatas 5:8b -- La frase "...*aquel que os llama"* está en tiempo presente y tiene la idea de un llamado constante y continuo. Cristo está llamándote constantemente hacia adelante a un mayor __<u>crecimiento</u>__. 2 Pedro 3:18
 
-### Gálatas 5:9 -- La enseñanza legalista es como una __<u>levadura</u>__ peligrosa. No se necesita sino sólo un poco de legalismo mezclado en una iglesia local para permear y dañar todo el cuerpo. "*Un poco de levadura leuda toda la masa".*
+### 3. Gálatas 5:9 -- La enseñanza legalista es como una __<u>levadura</u>__ peligrosa. No se necesita sino sólo un poco de legalismo mezclado en una iglesia local para permear y dañar todo el cuerpo. "*Un poco de levadura leuda toda la masa".*
 
-#### No necesitas mucha enseñanza legalista para __<u>interrumpir</u>__ el progreso de tu vida espiritual.
+#### a. No necesitas mucha enseñanza legalista para __<u>interrumpir</u>__ el progreso de tu vida espiritual.
 
-#### Nunca se es demasiado __<u>vigilante</u>__ cuando se trata de rechazar el legalismo.
+#### b. Nunca se es demasiado __<u>vigilante</u>__ cuando se trata de rechazar el legalismo.
 
-#### Recuerda que Cristo se refirió a las enseñanzas de los Fariseos como a una __<u>levadura</u>__ (un patógeno peligroso en este caso) de la que se debe desconfiar a todo costo. Mateo 16:6
+#### c. Recuerda que Cristo se refirió a las enseñanzas de los Fariseos como a una __<u>levadura</u>__ (un patógeno peligroso en este caso) de la que se debe desconfiar a todo costo. Mateo 16:6
 
-### Gálatas 5:10 -- Los legalistas tratarán de interrumpir tu __<u>caminar</u>__ con Dios.
+### 4. Gálatas 5:10 -- Los legalistas tratarán de interrumpir tu __<u>caminar</u>__ con Dios.
 
-#### Gálatas 5:10a -- Pablo no entró en __<u>pánico</u>__ en su preocupación por los gálatas. "*Yo confío respecto de vosotros en el Señor, que no pensaréis de otro modo*...".
+#### a. Gálatas 5:10a -- Pablo no entró en __<u>pánico</u>__ en su preocupación por los gálatas. "*Yo confío respecto de vosotros en el Señor, que no pensaréis de otro modo*...".
 
-#### Gálatas 5:10b -- La frase *de "...otro modo..."* implica que realmente no hay otro método para la vida cristiana que el camino de la __<u>gracia</u>__.
+#### b. Gálatas 5:10b -- La frase *de "...otro modo..."* implica que realmente no hay otro método para la vida cristiana que el camino de la __<u>gracia</u>__.
 
-#### Gálatas 5:10c -- "...*mas **el que** os perturba\..."* Los maestros del legalismo __<u>perturban</u>__ la iglesia de Jesucristo y no deben ser tolerados ni por un minuto. 
+#### c. Gálatas 5:10c -- "...*mas **el que** os perturba\..."* Los maestros del legalismo __<u>perturban</u>__ la iglesia de Jesucristo y no deben ser tolerados ni por un minuto. 
 
-##### La palabra traducida perturban es TARASSO y en sentido figurado significa agitar, __<u>batir</u>__, perturbar, aterrorizar o asustar.
+##### 1) La palabra traducida perturban es TARASSO y en sentido figurado significa agitar, __<u>batir</u>__, perturbar, aterrorizar o asustar.
 
-##### En Gálatas 1:7, Pablo utilizó esta misma palabra para describir el problema con aquellos que estaban trayendo un __<u>falso</u>__ evangelio.
+##### 2) En Gálatas 1:7, Pablo utilizó esta misma palabra para describir el problema con aquellos que estaban trayendo un __<u>falso</u>__ evangelio.
 
-##### Entonces, ya sea que alguien traiga un falso evangelio o un método falso para __<u>vivir</u>__ la vida cristiana, es una perturbación inquietante y, por lo tanto, debe ser rechazada.
+##### 3) Entonces, ya sea que alguien traiga un falso evangelio o un método falso para __<u>vivir</u>__ la vida cristiana, es una perturbación inquietante y, por lo tanto, debe ser rechazada.
 
-#### Gálatas 5:10d -- De acuerdo con la Palabra de Dios, el verdadero problema en la iglesia Gálata no eran aquellos que enseñaban la gracia y el andar por la fe, sino aquellos que enseñaban la ley y el vivir mediante el __<u>esfuerzo</u>__ humano.
+#### d. Gálatas 5:10d -- De acuerdo con la Palabra de Dios, el verdadero problema en la iglesia Gálata no eran aquellos que enseñaban la gracia y el andar por la fe, sino aquellos que enseñaban la ley y el vivir mediante el __<u>esfuerzo</u>__ humano.
 
-### Gálatas 5:11 -- Los legalistas te perseguirán si predicas la __<u>cruz</u>__ como respuesta no solo para justificación sino también para santificación. Gálatas 2:20
+### 5. Gálatas 5:11 -- Los legalistas te perseguirán si predicas la __<u>cruz</u>__ como respuesta no solo para justificación sino también para santificación. Gálatas 2:20
 
-#### Gálatas 5:11a -- La cruz, ya sea en relación con el evangelio o con el vivir la vida cristiana, es el verdadero __<u>punto</u>__ de contención con los legalistas. "*Y yo, hermanos, si aún predico la circuncisión, ¿por qué padezco persecución todavía?\...".*
+#### a. Gálatas 5:11a -- La cruz, ya sea en relación con el evangelio o con el vivir la vida cristiana, es el verdadero __<u>punto</u>__ de contención con los legalistas. "*Y yo, hermanos, si aún predico la circuncisión, ¿por qué padezco persecución todavía?\...".*
 
-#### Gálatas 5:11b -- Enseñar la cruz de Cristo como el único medio para obtener la aprobación de Dios es un tropiezo para los no salvos y los legalistas. La cruz enfatiza el hecho de que no hay nada de valor que __<u>nosotros</u>__ podamos hacer para agradar a Dios. "...*En tal caso se ha quitado el tropiezo de la cruz".*
+#### b. Gálatas 5:11b -- Enseñar la cruz de Cristo como el único medio para obtener la aprobación de Dios es un tropiezo para los no salvos y los legalistas. La cruz enfatiza el hecho de que no hay nada de valor que __<u>nosotros</u>__ podamos hacer para agradar a Dios. "...*En tal caso se ha quitado el tropiezo de la cruz".*
 
-#### Gálatas 5:11c -- La cruz insiste en que confíes únicamente en la __<u>obra</u>__ de Cristo tanto para justificación (1 Corintios 1:23, Hechos 16:25-31) como para santificación. 1 Corintios 1:18, Juan 15:5, Gálatas 2:20, Romanos 6:10-11
+#### c. Gálatas 5:11c -- La cruz insiste en que confíes únicamente en la __<u>obra</u>__ de Cristo tanto para justificación (1 Corintios 1:23, Hechos 16:25-31) como para santificación. 1 Corintios 1:18, Juan 15:5, Gálatas 2:20, Romanos 6:10-11
 
-### Gálatas 5:12 -- La solución era __<u>eliminar</u>__ (circuncidar) a todos los legalistas de sus vidas. En un sentido figurado, esto es lo que debemos hacer también cuando se trata de legalistas.
+### 6. Gálatas 5:12 -- La solución era __<u>eliminar</u>__ (circuncidar) a todos los legalistas de sus vidas. En un sentido figurado, esto es lo que debemos hacer también cuando se trata de legalistas.
 
-#### Gálatas 5:12a -- "*Ojalá se mutilasen\..."* es una declaración sarcástica para mostrar el __<u>desdén</u>__ de Pablo por los legalistas que difunden las falsas enseñanzas de la circuncisión. ¡Pablo deseó que fueran aún más lejos y se castraran! Hechos 15:1, 6, 12-16
+#### a. Gálatas 5:12a -- "*Ojalá se mutilasen\..."* es una declaración sarcástica para mostrar el __<u>desdén</u>__ de Pablo por los legalistas que difunden las falsas enseñanzas de la circuncisión. ¡Pablo deseó que fueran aún más lejos y se castraran! Hechos 15:1, 6, 12-16
 
-#### Gálatas 5:12b -- Pablo llamó a los legalistas *\"...los que os perturban\"*. Cualquiera que nos someta a cualquier forma de legalismo está provocando problemas e interrumpiendo nuestra __<u>fe</u>__.
+#### b. Gálatas 5:12b -- Pablo llamó a los legalistas *\"...los que os perturban\"*. Cualquiera que nos someta a cualquier forma de legalismo está provocando problemas e interrumpiendo nuestra __<u>fe</u>__.
 
-#### Gálatas 5:12c -- El uso de Pablo de esta __<u>vívida</u>__ figura contra los legalistas muestra cómo nosotros tampoco debemos tolerar el legalismo y su enfoque ritualista, basado en obras, para la espiritualidad en la iglesia hoy. En realidad, Pablo esperaba la remoción abrupta de ellos de las iglesias de Galacia.
+#### c. Gálatas 5:12c -- El uso de Pablo de esta __<u>vívida</u>__ figura contra los legalistas muestra cómo nosotros tampoco debemos tolerar el legalismo y su enfoque ritualista, basado en obras, para la espiritualidad en la iglesia hoy. En realidad, Pablo esperaba la remoción abrupta de ellos de las iglesias de Galacia.
 
 ## C. Gálatas 5:13-15 -- Debemos permanecer firmes en contra de satisfacer a la carne. Aunque no es el enfoque principal de esta carta, Pablo también se opuso a la <u>licencia</u> o la vida de libertinaje. Pablo se tomó un momento para abordar este problema.
 
-### Gálatas 5:13a -- "*Porque vosotros, hermanos, a libertad fuisteis llamados\...".* La libertad en Cristo se aplica a nuestra vida cotidiana ya que ser __<u>libres</u>__ en Cristo es nuestro derecho de nacimiento. Lucas 4:18-19
+### 1. Gálatas 5:13a -- "*Porque vosotros, hermanos, a libertad fuisteis llamados\...".* La libertad en Cristo se aplica a nuestra vida cotidiana ya que ser __<u>libres</u>__ en Cristo es nuestro derecho de nacimiento. Lucas 4:18-19
 
-#### Vimos en el versículo 1 de este capítulo que fue para libertad que Cristo nos hizo libres. Jesucristo es el autor de nuestra libertad espiritual y nos llama a __<u>disfrutarla</u>__ en Él.
+#### a. Vimos en el versículo 1 de este capítulo que fue para libertad que Cristo nos hizo libres. Jesucristo es el autor de nuestra libertad espiritual y nos llama a __<u>disfrutarla</u>__ en Él.
 
-#### Como resultado de nuestra permanente posición en Cristo, estamos libres de la Ley de Moisés (Romanos 7:1-6), pero no estamos libres de la ley de Cristo, que es __<u>amar</u>__. 1 Corintios 9:21, Gálatas 6:2
+#### b. Como resultado de nuestra permanente posición en Cristo, estamos libres de la Ley de Moisés (Romanos 7:1-6), pero no estamos libres de la ley de Cristo, que es __<u>amar</u>__. 1 Corintios 9:21, Gálatas 6:2
 
-### Gálatas 5:13b -- Para que tu libertad en Cristo no te lleve a sentir que tienes licencia para satisfacer a la carne, Pablo advirtió: \"...*solamente que no uséis la libertad como ocasión para la __<u>carne</u>__*...".
+### 2. Gálatas 5:13b -- Para que tu libertad en Cristo no te lleve a sentir que tienes licencia para satisfacer a la carne, Pablo advirtió: \"...*solamente que no uséis la libertad como ocasión para la __<u>carne</u>__*...".
 
-#### Nuestra libertad en Cristo no debe interpretarse como una licencia para __<u>pecar</u>__.
+#### a. Nuestra libertad en Cristo no debe interpretarse como una licencia para __<u>pecar</u>__.
 
-#### El pecado entre los cristianos es inaceptable. La gracia de Dios y tu libertad en Cristo no son dadas para que puedas cumplir tus propios deseos, sino para que puedas hacer la __<u>voluntad</u>__ de Dios.
+#### b. El pecado entre los cristianos es inaceptable. La gracia de Dios y tu libertad en Cristo no son dadas para que puedas cumplir tus propios deseos, sino para que puedas hacer la __<u>voluntad</u>__ de Dios.
 
-### Gálatas 5:13c -- "*...sino __<u>servíos</u>__ por amor los unos a los otros".* La libertad en Cristo debe conducir al servicio.
+### 3. Gálatas 5:13c -- "*...sino __<u>servíos</u>__ por amor los unos a los otros".* La libertad en Cristo debe conducir al servicio.
 
-#### Como creyente, debes usar tu libertad para servir a Dios y a los __<u>demás</u>__.
+#### a. Como creyente, debes usar tu libertad para servir a Dios y a los __<u>demás</u>__.
 
-#### El ejercicio de tu libertad en Cristo y tu comunión íntima con el Señor debe __<u>derramarse</u>__ a todas tus relaciones con los demás.
+#### b. El ejercicio de tu libertad en Cristo y tu comunión íntima con el Señor debe __<u>derramarse</u>__ a todas tus relaciones con los demás.
 
-### Gálatas 5:14 -- Tu libertad en Cristo debe ser ejercitada a través del __<u>amor</u>__.
+### 4. Gálatas 5:14 -- Tu libertad en Cristo debe ser ejercitada a través del __<u>amor</u>__.
 
-#### *"Porque toda la ley en esta sola palabra se cumple: Amarás a tu prójimo como a ti mismo".* El __<u>propósito</u>__ predominante de la Ley era amar.
+#### a. *"Porque toda la ley en esta sola palabra se cumple: Amarás a tu prójimo como a ti mismo".* El __<u>propósito</u>__ predominante de la Ley era amar.
 
-#### Levítico 19:18 -- El amor __<u>cumple</u>__ con las exigencias de la Ley. Esto significa que las exigencias justas de la Ley se cumplen cuando nos amamos los unos a los otros. Este no es un concepto novedoso puesto que ya fue manifestado en las escrituras del Antiguo Testamento.
+#### b. Levítico 19:18 -- El amor __<u>cumple</u>__ con las exigencias de la Ley. Esto significa que las exigencias justas de la Ley se cumplen cuando nos amamos los unos a los otros. Este no es un concepto novedoso puesto que ya fue manifestado en las escrituras del Antiguo Testamento.
 
-#### Toda la Ley puede ser resumida con la palabra ***amor*** y eso se logra sobrenaturalmente sólo por el poder de Dios cuando los __<u>creyentes</u>__ se aman genuinamente los unos a los otros. Mateo 22:35-40, Gálatas 5:22
+#### c. Toda la Ley puede ser resumida con la palabra ***amor*** y eso se logra sobrenaturalmente sólo por el poder de Dios cuando los __<u>creyentes</u>__ se aman genuinamente los unos a los otros. Mateo 22:35-40, Gálatas 5:22
 
-#### Nuestro enfoque no debe estar en las __<u>reglas</u>__, en los requerimientos o en lo que debemos o no debemos hacer (legalismo), sino en mostrar amor mutuo (libertad) por fe en el poder de Dios. Romanos 13:8-10
+#### d. Nuestro enfoque no debe estar en las __<u>reglas</u>__, en los requerimientos o en lo que debemos o no debemos hacer (legalismo), sino en mostrar amor mutuo (libertad) por fe en el poder de Dios. Romanos 13:8-10
 
-### Gálatas 5:15 -- Este versículo describe el resultado de vivir por la __<u>carne</u>__. Siempre conduce a la corrupción.
+### 5. Gálatas 5:15 -- Este versículo describe el resultado de vivir por la __<u>carne</u>__. Siempre conduce a la corrupción.
 
-#### *"Pero si os mordéis y os __<u>coméis</u>__ unos a otros\...".* La palabra \"*si*\" aquí es una condición de primera clase en griego, lo cual da la impresión de que esto probablemente era una realidad. Probablemente se estaban destruyendo entre sí por sus disputas.
+#### a. *"Pero si os mordéis y os __<u>coméis</u>__ unos a otros\...".* La palabra \"*si*\" aquí es una condición de primera clase en griego, lo cual da la impresión de que esto probablemente era una realidad. Probablemente se estaban destruyendo entre sí por sus disputas.
 
-#### Los resultados del legalismo o la licencia son que los cristianos se __<u>devoran</u>__ mutuamente a través de disputas. Claramente estos excesos son lo opuesto al amor. Filipenses 2:14-16
+#### b. Los resultados del legalismo o la licencia son que los cristianos se __<u>devoran</u>__ mutuamente a través de disputas. Claramente estos excesos son lo opuesto al amor. Filipenses 2:14-16
 
 <!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/chainlink.jpeg" data-background-size="cover"  data-menu-title="XV. Gálatas 5:16-26 -- Andando en el Espíritu" data-background-color="black" data-background-opacity="0.5" data-transition="zoom" -->
 # XV. Gálatas 5:16-26 -- Andando en el Espíritu
@@ -2768,305 +2769,305 @@ El legalismo le quita el foco de Cristo y lo pone en el hombre y en sus esfuerzo
 
 ## A. Gálatas 5:16 -- Contemplemos el mandato vital de la vida cristiana: *<u>Andad</u>en el Espíritu*.
 
-### Gálatas 5:16a -- Después de haber demostrado que ni el legalismo ni el libertinaje son correctos para un cristiano, Pablo ordenó a los creyentes de galacia andar en el Espíritu como un __<u>precepto</u>__ general para vivir.
+### 1. Gálatas 5:16a -- Después de haber demostrado que ni el legalismo ni el libertinaje son correctos para un cristiano, Pablo ordenó a los creyentes de galacia andar en el Espíritu como un __<u>precepto</u>__ general para vivir.
 
-#### La declaración, *andad en el Espíritu* es un imperativo y __<u>no</u>__ una sugerencia.
+#### a. La declaración, *andad en el Espíritu* es un imperativo y __<u>no</u>__ una sugerencia.
 
-#### El verbo de acción *andad* PERIPATEO transmite la idea de avanzar hacia adelante mediante __<u>pasos</u>__ repetitivos. No es un estado en el que te encuentras encerrado. Es momento a momento, de continua dependencia.
+#### b. El verbo de acción *andad* PERIPATEO transmite la idea de avanzar hacia adelante mediante __<u>pasos</u>__ repetitivos. No es un estado en el que te encuentras encerrado. Es momento a momento, de continua dependencia.
 
-#### En el caso de la vida espiritual, debemos progresar de forma repetitiva hacia adelante a través de la dependencia continua del __<u>poder</u>__ y las provisiones del Espíritu Santo.
+#### c. En el caso de la vida espiritual, debemos progresar de forma repetitiva hacia adelante a través de la dependencia continua del __<u>poder</u>__ y las provisiones del Espíritu Santo.
 
-#### La frase *en el Espíritu* PNEUMATI podría traducirse, por el Espíritu o a través del Espíritu.
+#### d. La frase *en el Espíritu* PNEUMATI podría traducirse, por el Espíritu o a través del Espíritu.
 
-##### Es posible para todo cristiano obedecer este mandato porque Dios ha dado el Espíritu Santo a __<u>cada</u>__ creyente, no sólo a los así llamados creyentes súper espirituales.
+##### 1) Es posible para todo cristiano obedecer este mandato porque Dios ha dado el Espíritu Santo a __<u>cada</u>__ creyente, no sólo a los así llamados creyentes súper espirituales.
 
-##### Dios nunca nos exige nada de parte de nosotros que no podamos lograr a través de Su __<u>gracia</u>__ habilitante por medio del Espíritu Santo. 1 Corintios 3:10-15, Colosenses 1:29, Filipenses 4:13
+##### 2) Dios nunca nos exige nada de parte de nosotros que no podamos lograr a través de Su __<u>gracia</u>__ habilitante por medio del Espíritu Santo. 1 Corintios 3:10-15, Colosenses 1:29, Filipenses 4:13
 
-##### Andar en el Espíritu no significa tratar de seguirle el paso como en una carrera a pie. Se compara mejor con caminar juntos como en un __<u>yugo</u>__. Juan 7:38-39, Mateo 11:28‑30
+##### 3) Andar en el Espíritu no significa tratar de seguirle el paso como en una carrera a pie. Se compara mejor con caminar juntos como en un __<u>yugo</u>__. Juan 7:38-39, Mateo 11:28‑30
 
-##### Dios quiere que avancemos en la vida (andemos) dependiendo del Espíritu Santo como la única fuente de __<u>poder</u>__ para vivir la vida. Romanos 15:13, 1 Corintios 2:4, 2 Corintios 3:4-6
+##### 4) Dios quiere que avancemos en la vida (andemos) dependiendo del Espíritu Santo como la única fuente de __<u>poder</u>__ para vivir la vida. Romanos 15:13, 1 Corintios 2:4, 2 Corintios 3:4-6
 
-### Gálatas 5:16b -- Dios promete que si andamos en el Espíritu, no satisfaremos los __<u>apetitos</u>__ de la carne. "...*Andad en el Espíritu, y no satisfagáis* \[*no cumpliréis --* LBLA\] *los deseos de la carne".*
+### 2. Gálatas 5:16b -- Dios promete que si andamos en el Espíritu, no satisfaremos los __<u>apetitos</u>__ de la carne. "...*Andad en el Espíritu, y no satisfagáis* \[*no cumpliréis --* LBLA\] *los deseos de la carne".*
 
-#### El término *carne* SARX aparece más de 90 veces en las epístolas de Pablo y puede referirse a varias cosas, incluyendo el cuerpo físico (1 Corintios 15:39), la humanidad en general (Gálatas 1:16) o la __<u>naturaleza</u>__ pecaminosa depravada heredada de Adán. Romanos 8:12
+#### a. El término *carne* SARX aparece más de 90 veces en las epístolas de Pablo y puede referirse a varias cosas, incluyendo el cuerpo físico (1 Corintios 15:39), la humanidad en general (Gálatas 1:16) o la __<u>naturaleza</u>__ pecaminosa depravada heredada de Adán. Romanos 8:12
 
-#### La palabra *deseos* EPITHUMIA significa un fuerte __<u>deseo</u>__ y puede tener una buena o mala connotación dependiendo del contexto. Filipenses 1:23, 1 Tesalonicenses 2:17
+#### b. La palabra *deseos* EPITHUMIA significa un fuerte __<u>deseo</u>__ y puede tener una buena o mala connotación dependiendo del contexto. Filipenses 1:23, 1 Tesalonicenses 2:17
 
-#### La palabra *no* OU ME es un doble negativo que significa \"no, __<u>nunca</u>__\", haciendo de este versículo una promesa enfática. "*Digo, pues: Andad en el Espíritu, y **no satisfagáis ***\[*no cumpliréis --* LBLA\] *los deseos de la carne".*
+#### c. La palabra *no* OU ME es un doble negativo que significa \"no, __<u>nunca</u>__\", haciendo de este versículo una promesa enfática. "*Digo, pues: Andad en el Espíritu, y **no satisfagáis ***\[*no cumpliréis --* LBLA\] *los deseos de la carne".*
 
 ## B. Gálatas 5:17 -- Comprendamos el conflicto que puede impedir nuestro <u>andar</u> en el Espíritu.
 
-### Gálatas 5:17a -- Hay una __<u>guerra</u>__ constante dentro de todos los creyentes. "*Porque el deseo de la carne es contra el Espíritu, y el del Espíritu es contra la carne; y éstos se oponen entre sí*...".
+### 1. Gálatas 5:17a -- Hay una __<u>guerra</u>__ constante dentro de todos los creyentes. "*Porque el deseo de la carne es contra el Espíritu, y el del Espíritu es contra la carne; y éstos se oponen entre sí*...".
 
-#### En cada creyente, el mayor adversario espiritual es la __<u>carne</u>__, mientras que el aliado espiritual más grande es el Espíritu Santo, y Él es Dios. Romanos 8:9, 1 Corintios 6:19
+#### a. En cada creyente, el mayor adversario espiritual es la __<u>carne</u>__, mientras que el aliado espiritual más grande es el Espíritu Santo, y Él es Dios. Romanos 8:9, 1 Corintios 6:19
 
-#### Gálatas 5:17a -- El Espíritu Santo y la carne se oponen __<u>totalmente</u>__ entre sí. "*Porque el deseo de la carne es contra el Espíritu, y el del Espíritu es contra la carne...".*
+#### b. Gálatas 5:17a -- El Espíritu Santo y la carne se oponen __<u>totalmente</u>__ entre sí. "*Porque el deseo de la carne es contra el Espíritu, y el del Espíritu es contra la carne...".*
 
-#### La palabra deseos EPITHUMEO (tiempo presente, activo, indicativo) significa que la naturaleza pecaminosa se encuentra actualmente en una lucha activa y continua __<u>contra</u>__ el Espíritu Santo.
+#### c. La palabra deseos EPITHUMEO (tiempo presente, activo, indicativo) significa que la naturaleza pecaminosa se encuentra actualmente en una lucha activa y continua __<u>contra</u>__ el Espíritu Santo.
 
-##### No necesitas trabajar más duro o luchar mejor para conquistar la __<u>carne</u>__ y así ser espiritual. Este versículo en realidad enseña lo contrario.
+##### 1) No necesitas trabajar más duro o luchar mejor para conquistar la __<u>carne</u>__ y así ser espiritual. Este versículo en realidad enseña lo contrario.
 
-##### Este versículo enseña que a medida que andas *en el Espíritu* no cumplirás los deseos de la carne. En otras palabras, si, por fe, __<u>caminas</u>__ por medio del Espíritu Santo, Dios promete que no cumplirás los deseos de la carne.
+##### 2) Este versículo enseña que a medida que andas *en el Espíritu* no cumplirás los deseos de la carne. En otras palabras, si, por fe, __<u>caminas</u>__ por medio del Espíritu Santo, Dios promete que no cumplirás los deseos de la carne.
 
-##### Caminarás por medio del Espíritu __<u>sólo</u>__ si crees que **moriste** con Cristo al poder y la influencia de la carne y ahora estás vivo para Dios. Colosenses 2:20, 3:1-3; Romanos 6:6
+##### 3) Caminarás por medio del Espíritu __<u>sólo</u>__ si crees que **moriste** con Cristo al poder y la influencia de la carne y ahora estás vivo para Dios. Colosenses 2:20, 3:1-3; Romanos 6:6
 
-##### La carne no está __<u>muerta</u>__, pero se nos dice que nos consideremos muertos a la carne (el pecado) en Romanos 6:10-11.
+##### 4) La carne no está __<u>muerta</u>__, pero se nos dice que nos consideremos muertos a la carne (el pecado) en Romanos 6:10-11.
 
-#### Gálatas 5:17b -- Pablo agregó: \"...*para que no hagáis lo que __<u>quisiereis</u>__*\", lo que implica que no debemos hacer lo que naturalmente tendemos a hacer porque la tendencia natural es hacer lo que la carne desea y no lo que el Espíritu quisiera. La fe requerida para vivir la vida cristiana es siempre una dependencia activa.
+#### d. Gálatas 5:17b -- Pablo agregó: \"...*para que no hagáis lo que __<u>quisiereis</u>__*\", lo que implica que no debemos hacer lo que naturalmente tendemos a hacer porque la tendencia natural es hacer lo que la carne desea y no lo que el Espíritu quisiera. La fe requerida para vivir la vida cristiana es siempre una dependencia activa.
 
-### Gálatas 5:18 -- Un resultado de andar en el Espíritu es \"\...*si sois __<u>guiados</u>__ por el Espíritu, no estáis bajo la ley*\".
+### 2. Gálatas 5:18 -- Un resultado de andar en el Espíritu es \"\...*si sois __<u>guiados</u>__ por el Espíritu, no estáis bajo la ley*\".
 
-#### La condición de la palabra \"si\" es una condición de primera clase en griego que asume una realidad presente. Podría leerse: \"Si eres guiado por el Espíritu Santo, *y asumo que así es*, entonces no estás bajo la __<u>Ley</u>__\".
+#### a. La condición de la palabra \"si\" es una condición de primera clase en griego que asume una realidad presente. Podría leerse: \"Si eres guiado por el Espíritu Santo, *y asumo que así es*, entonces no estás bajo la __<u>Ley</u>__\".
 
-#### Gálatas 5:16-18 -- La implicación aquí es que el Espíritu Santo nunca __<u>guiará</u>__ (AGO guiar, traer o llevar) al creyente a un sistema de obediencia a la ley, ya sea para justificación o santificación.
+#### b. Gálatas 5:16-18 -- La implicación aquí es que el Espíritu Santo nunca __<u>guiará</u>__ (AGO guiar, traer o llevar) al creyente a un sistema de obediencia a la ley, ya sea para justificación o santificación.
 
 ## C. Gálatas 5:19-26 -- Veamos las implicaciones de andar en la carne frente a andar en el Espíritu Santo.
 
-### Gálatas 5:19-21 -- Observemos los __<u>resultados</u>__ de andar por la carne. "*Y manifiestas son las obras de la carne, que son*\...". Ver también Romanos 8:12-13
+### 1. Gálatas 5:19-21 -- Observemos los __<u>resultados</u>__ de andar por la carne. "*Y manifiestas son las obras de la carne, que son*\...". Ver también Romanos 8:12-13
 
-#### Gálatas 5:19-21a -- Aquí hay una lista general de unos 15 __<u>pecados</u>__ de la carne (naturaleza pecaminosa) que cualquier creyente podría potencialmente producir si él o ella camina según la carne. Romanos 8:5-9 
+#### a. Gálatas 5:19-21a -- Aquí hay una lista general de unos 15 __<u>pecados</u>__ de la carne (naturaleza pecaminosa) que cualquier creyente podría potencialmente producir si él o ella camina según la carne. Romanos 8:5-9 
 
-##### Existe el peligro de cometer pecados __<u>sexuales</u>__: *adulterio, fornicación, inmundicia, lascivia.*
+##### 1) Existe el peligro de cometer pecados __<u>sexuales</u>__: *adulterio, fornicación, inmundicia, lascivia.*
 
-##### Existe el peligro de cometer pecados religiosos: *idolatría, __<u>hechicerías</u>__.*
+##### 2) Existe el peligro de cometer pecados religiosos: *idolatría, __<u>hechicerías</u>__.*
 
-##### Existe el peligro de cometer pecados de relaciones interpersonales: *enemistades, __<u>pleitos</u>__, celos, iras, contiendas, disensiones, herejías, envidias, homicidios.*
+##### 3) Existe el peligro de cometer pecados de relaciones interpersonales: *enemistades, __<u>pleitos</u>__, celos, iras, contiendas, disensiones, herejías, envidias, homicidios.*
 
-##### Existe el peligro de cometer pecados de total abandono: *borracheras, __<u>orgías</u>__.*
+##### 4) Existe el peligro de cometer pecados de total abandono: *borracheras, __<u>orgías</u>__.*
 
-##### Estos son sólo una muestra ya que hay muchos otros pecados potenciales: "\...*y __<u>cosas</u>__ semejantes a estas*\..." Véase también Lucas 6:45 y Santiago 4:1.
+##### 5) Estos son sólo una muestra ya que hay muchos otros pecados potenciales: "\...*y __<u>cosas</u>__ semejantes a estas*\..." Véase también Lucas 6:45 y Santiago 4:1.
 
-#### Estos pecados no están enumerados necesariamente en orden de progresión en la vida de una persona, aunque cuando un creyente camina según la carne, generalmente comienza con los pecados de la __<u>mente</u>__ y luego conduce a pecados externos o evidentes. Santiago 1:13-16
+#### b. Estos pecados no están enumerados necesariamente en orden de progresión en la vida de una persona, aunque cuando un creyente camina según la carne, generalmente comienza con los pecados de la __<u>mente</u>__ y luego conduce a pecados externos o evidentes. Santiago 1:13-16
 
-#### Debemos darnos cuenta de que prácticamente todos los pecados conducen a la __<u>muerte</u>__ y todos comienzan en el corazón (la mente) cuando un creyente camina por la carne en lugar de hacerlo por el Espíritu. Gálatas 6:7-8
+#### c. Debemos darnos cuenta de que prácticamente todos los pecados conducen a la __<u>muerte</u>__ y todos comienzan en el corazón (la mente) cuando un creyente camina por la carne en lugar de hacerlo por el Espíritu. Gálatas 6:7-8
 
-#### Gálatas 5:21b -- Este versículo dice que las **personas** que hacen las cosas que encontramos en esta lista son personas que no heredarán el reino de Dios: "\...*que __<u>los</u>__ __<u>que</u>__ practican tales cosas no heredarán el reino de Dios*".
+#### d. Gálatas 5:21b -- Este versículo dice que las **personas** que hacen las cosas que encontramos en esta lista son personas que no heredarán el reino de Dios: "\...*que __<u>los</u>__ __<u>que</u>__ practican tales cosas no heredarán el reino de Dios*".
 
-##### "...*__<u>los</u>__ __<u>que</u>__ practican\...".* Pablo señaló que las personas no salvas no tendrán parte en el reino de Dios. Colosenses 3:6-7, 1 Corintios 6:9-11
+##### 1) "...*__<u>los</u>__ __<u>que</u>__ practican\...".* Pablo señaló que las personas no salvas no tendrán parte en el reino de Dios. Colosenses 3:6-7, 1 Corintios 6:9-11
 
-##### Aquí hay algunas cosas a considerar:
+##### 2) Aquí hay algunas cosas a considerar:
 
-###### Sabemos que, sin excepción, todo creyente __<u>heredará</u>__ el reino de Dios, no por su buen comportamiento, sino por las bondadosas promesas de Dios. Colosenses 1:12-13, Efesios 1:18, Gálatas 3:29, Romanos 8:17
+###### a) Sabemos que, sin excepción, todo creyente __<u>heredará</u>__ el reino de Dios, no por su buen comportamiento, sino por las bondadosas promesas de Dios. Colosenses 1:12-13, Efesios 1:18, Gálatas 3:29, Romanos 8:17
 
-###### Sabemos que nuestra futura glorificación como creyentes no se basa en nuestra capacidad para evitar de pecar, sino en las __<u>promesas</u>__ de Dios. 2 Timoteo 1:9, Romanos 5:9, 1 Corintios 3:15, Romanos 8:28-30, 2 Timoteo 2:13
+###### b) Sabemos que nuestra futura glorificación como creyentes no se basa en nuestra capacidad para evitar de pecar, sino en las __<u>promesas</u>__ de Dios. 2 Timoteo 1:9, Romanos 5:9, 1 Corintios 3:15, Romanos 8:28-30, 2 Timoteo 2:13
 
-###### Sabemos que nuestra justicia se basa en la obra de Cristo, quien por la gracia de Dios nos justificó como un regalo __<u>gratuito</u>__. Romanos 6:23, Tito 3:5, Gálatas 2:16
+###### c) Sabemos que nuestra justicia se basa en la obra de Cristo, quien por la gracia de Dios nos justificó como un regalo __<u>gratuito</u>__. Romanos 6:23, Tito 3:5, Gálatas 2:16
 
-###### Sabemos que nuestra salvación no es mantenida por nuestro buen comportamiento, ni se __<u>pierde</u>__ por mal comportamiento. Juan 10:14-16, Colosenses 3:3-4, Efesios 2:8-9
+###### d) Sabemos que nuestra salvación no es mantenida por nuestro buen comportamiento, ni se __<u>pierde</u>__ por mal comportamiento. Juan 10:14-16, Colosenses 3:3-4, Efesios 2:8-9
 
-##### Aquí hay algunas cosas que este pasaje no está comunicando:
+##### 3) Aquí hay algunas cosas que este pasaje no está comunicando:
 
-###### Pablo no estaba deduciendo que los gálatas podrían __<u>perder</u>__ su salvación.
+###### a) Pablo no estaba deduciendo que los gálatas podrían __<u>perder</u>__ su salvación.
 
-###### Tampoco estaba diciendo que si los gálatas practicaban el pecado, en realidad __<u>nunca</u>__ fueron salvos. 1 Juan 1:6-8, Proverbios 20:9
+###### b) Tampoco estaba diciendo que si los gálatas practicaban el pecado, en realidad __<u>nunca</u>__ fueron salvos. 1 Juan 1:6-8, Proverbios 20:9
 
-###### Pablo no estaba diciendo que una persona salva nunca puede pecar, porque todos nosotros, si somos honestos, debemos admitir que a veces cometemos algunos de los pecados encontrados en esta lista a pesar de que somos salvos. "\...*enemistades, pleitos, celos, __<u>iras</u>__, contiendas, disensiones, herejías, envidias*...".
+###### c) Pablo no estaba diciendo que una persona salva nunca puede pecar, porque todos nosotros, si somos honestos, debemos admitir que a veces cometemos algunos de los pecados encontrados en esta lista a pesar de que somos salvos. "\...*enemistades, pleitos, celos, __<u>iras</u>__, contiendas, disensiones, herejías, envidias*...".
 
-####### Si fuera imposible para el creyente pecar, ¿por qué las Escrituras nos advertirían repetidamente no pecar? 1 Juan 2:1, Romanos 6:12, Efesios 4:25-32, 5:1-17, 1 Corintios 15:33-34
+####### (i) Si fuera imposible para el creyente pecar, ¿por qué las Escrituras nos advertirían repetidamente no pecar? 1 Juan 2:1, Romanos 6:12, Efesios 4:25-32, 5:1-17, 1 Corintios 15:33-34
 
-###### Pablo no estaba comunicando que un creyente podría ser excluido del venidero Reino Milenial, aunque sabemos que una persona podría __<u>perder</u>__ coronas (autoridad) o recompensas. 1 Corintios 3:8, 10-15; 2 Corintios 5:8-11; 1 Juan 2:28
+###### d) Pablo no estaba comunicando que un creyente podría ser excluido del venidero Reino Milenial, aunque sabemos que una persona podría __<u>perder</u>__ coronas (autoridad) o recompensas. 1 Corintios 3:8, 10-15; 2 Corintios 5:8-11; 1 Juan 2:28
 
-###### xviii. Hechos 20:25 -- Pablo __<u>enseñó</u>__ fielmente a los creyentes acerca del venidero Reino de Dios tal como deberíamos hacerlo hoy. Hechos 28:23,31 
+###### (i) Hechos 20:25 -- Pablo __<u>enseñó</u>__ fielmente a los creyentes acerca del venidero Reino de Dios tal como deberíamos hacerlo hoy. Hechos 28:23,31 
 
-###### xix. 1 Corintios 6:9-11 -- Pablo tuvo cuidado de distinguir que sólo las personas que no tienen la justicia imputada de Dios serán excluidas del reino. Los cristianos no son parte de este __<u>grupo</u>__. Efesios 5:3-13
+###### (ii) 1 Corintios 6:9-11 -- Pablo tuvo cuidado de distinguir que sólo las personas que no tienen la justicia imputada de Dios serán excluidas del reino. Los cristianos no son parte de este __<u>grupo</u>__. Efesios 5:3-13
 
-###### xx.Colosenses 1:13 -- Como parte integral de nuestra salvación por gracia es que instantáneamente se nos __<u>otorgó</u>__ la ciudadanía en el reino venidero de Su Hijo. Apocalipsis 5:10
+###### (iii)Colosenses 1:13 -- Como parte integral de nuestra salvación por gracia es que instantáneamente se nos __<u>otorgó</u>__ la ciudadanía en el reino venidero de Su Hijo. Apocalipsis 5:10
 
-###### xxi. 1 Tesalonicenses 2:12 -- Debido a nuestra cierta participación en el reino futuro, Pablo alentó a los creyentes a andar de una manera __<u>digna</u>__ del llamado de Dios. Efesios 4:1, Apocalipsis 22:12
+###### (iv) 1 Tesalonicenses 2:12 -- Debido a nuestra cierta participación en el reino futuro, Pablo alentó a los creyentes a andar de una manera __<u>digna</u>__ del llamado de Dios. Efesios 4:1, Apocalipsis 22:12
 
-###### xxii. 2 Pedro 1:10-11 -- Pedro quería que sus lectores tuvieran una entrada __<u>rica</u>__ (recompensas y posiciones de gran autoridad) en el reino eterno venidero que comenzará con el Milenio y se extenderá hasta la eternidad. 2 Juan 1:8, Hebreos 10:35, Apocalipsis 3:11, 1 Corintios 9:25
+###### (v) 2 Pedro 1:10-11 -- Pedro quería que sus lectores tuvieran una entrada __<u>rica</u>__ (recompensas y posiciones de gran autoridad) en el reino eterno venidero que comenzará con el Milenio y se extenderá hasta la eternidad. 2 Juan 1:8, Hebreos 10:35, Apocalipsis 3:11, 1 Corintios 9:25
 
-###### xxiii. Hechos 14:22 -- Los escritores del Nuevo Testamento alentaron a los creyentes con una amonestación a continuar firmes en la __<u>fe</u>__ recordándoles que se espera que pasemos por muchas pruebas y luchas antes que entremos al reino de Dios. 2 Tesalonicenses 1:4-8, Hebreos 12:28-29
+###### (vi) Hechos 14:22 -- Los escritores del Nuevo Testamento alentaron a los creyentes con una amonestación a continuar firmes en la __<u>fe</u>__ recordándoles que se espera que pasemos por muchas pruebas y luchas antes que entremos al reino de Dios. 2 Tesalonicenses 1:4-8, Hebreos 12:28-29
 
-##### ¿Qué está comunicando Gálatas 5:21? "\...*acerca de las cuales os amonesto* (PROLEGO, __<u>decir</u>__ de antemano), *como ya os lo he dicho* (PROLEGO, dicho de antemano) *antes que los que practican tales cosas no heredarán el reino de Dios*".
+##### 4) ¿Qué está comunicando Gálatas 5:21? "\...*acerca de las cuales os amonesto* (PROLEGO, __<u>decir</u>__ de antemano), *como ya os lo he dicho* (PROLEGO, dicho de antemano) *antes que los que practican tales cosas no heredarán el reino de Dios*".
 
-###### Son los no salvos, que __<u>no</u>__ tienen parte en el reino de Dios, quienes practican estas obras de la carne que conducen a la muerte.
+###### a) Son los no salvos, que __<u>no</u>__ tienen parte en el reino de Dios, quienes practican estas obras de la carne que conducen a la muerte.
 
-###### En esencia, Pablo estaba diciendo que el pecado está completamente fuera de lugar, es ilógico y tonto para nosotros que algún día __<u>heredaremos</u>__ el reino. Efesios 4:20
+###### b) En esencia, Pablo estaba diciendo que el pecado está completamente fuera de lugar, es ilógico y tonto para nosotros que algún día __<u>heredaremos</u>__ el reino. Efesios 4:20
 
-###### ¿Por qué estaríamos involucrados en las actividades que aquellos que no heredarán el reino de Dios cuando esas actividades conducen a la __<u>muerte</u>__? Romanos 6:23
+###### c) ¿Por qué estaríamos involucrados en las actividades que aquellos que no heredarán el reino de Dios cuando esas actividades conducen a la __<u>muerte</u>__? Romanos 6:23
 
-### Gálatas 5:22-23 -- Consideremos el sorprendente contraste con las obras de la carne observable en la vida de aquellos que andan por medio del __<u>Espíritu</u>__.
+### 2. Gálatas 5:22-23 -- Consideremos el sorprendente contraste con las obras de la carne observable en la vida de aquellos que andan por medio del __<u>Espíritu</u>__.
 
-#### Hay __<u>un</u>__ fruto (no muchos frutos) del Espíritu Santo. "*Mas el fruto del Espíritu es amor, gozo, paz, paciencia, benignidad, bondad, fe, mansedumbre, templanza; contra tales cosas no hay ley".*
+#### a. Hay __<u>un</u>__ fruto (no muchos frutos) del Espíritu Santo. "*Mas el fruto del Espíritu es amor, gozo, paz, paciencia, benignidad, bondad, fe, mansedumbre, templanza; contra tales cosas no hay ley".*
 
-#### Es de gran importancia entender que la vida cristiana adecuada requiere dependencia del Espíritu Santo que produce __<u>Su</u>__ fruto en la vida del creyente. El fruto del Espíritu no se produce como resultado de esforzarse por agradar a Dios por medio de esfuerzos humanos. Gálatas 3:3
+#### b. Es de gran importancia entender que la vida cristiana adecuada requiere dependencia del Espíritu Santo que produce __<u>Su</u>__ fruto en la vida del creyente. El fruto del Espíritu no se produce como resultado de esforzarse por agradar a Dios por medio de esfuerzos humanos. Gálatas 3:3
 
-#### El fruto del Espíritu no es producido por el esfuerzo humano, la teatralidad espiritual o la imitación, sino por la __<u>obra</u>__ del Espíritu Santo a través de la vida del creyente dependiente que camina por fe. Colosenses 2:6, 2 Corintios 3:5, Filipenses 2:11-13, 4:13, Hebreos 13:20-21
+#### c. El fruto del Espíritu no es producido por el esfuerzo humano, la teatralidad espiritual o la imitación, sino por la __<u>obra</u>__ del Espíritu Santo a través de la vida del creyente dependiente que camina por fe. Colosenses 2:6, 2 Corintios 3:5, Filipenses 2:11-13, 4:13, Hebreos 13:20-21
 
-#### Es __<u>únicamente</u>__ el fruto del Espíritu Santo; no es tu fruto y del Espíritu.
+#### d. Es __<u>únicamente</u>__ el fruto del Espíritu Santo; no es tu fruto y del Espíritu.
 
-### Gálatas 5:22-23 -- "*Mas el fruto del Espíritu es amor, gozo, paz, paciencia, benignidad, bondad, fe, mansedumbre, templanza; contra tales cosas no hay ley".* El fruto del Espíritu Santo puede ser dividido en __<u>tres</u>__ triadas de cualidades espirituales.
+### 3. Gálatas 5:22-23 -- "*Mas el fruto del Espíritu es amor, gozo, paz, paciencia, benignidad, bondad, fe, mansedumbre, templanza; contra tales cosas no hay ley".* El fruto del Espíritu Santo puede ser dividido en __<u>tres</u>__ triadas de cualidades espirituales.
 
-#### La primera tríada de cualidades tiene que ver con la disposición o la actitud de uno. Estos estados mentales __<u>sólo</u>__ pueden ser producidos por el Espíritu Santo en la vida de un creyente espiritual. 
+#### a. La primera tríada de cualidades tiene que ver con la disposición o la actitud de uno. Estos estados mentales __<u>sólo</u>__ pueden ser producidos por el Espíritu Santo en la vida de un creyente espiritual. 
 
-##### El Espíritu Santo produce una actitud de __<u>amor</u>__ verdadero en la vida del creyente. 1 Corintios 13:1-8; Proverbios 10:12, 17:9; 1 Pedro 1:22, 4:8
+##### 1) El Espíritu Santo produce una actitud de __<u>amor</u>__ verdadero en la vida del creyente. 1 Corintios 13:1-8; Proverbios 10:12, 17:9; 1 Pedro 1:22, 4:8
 
-###### El amor que produce el Espíritu Santo muestra verdadero cuidado o __<u>preocupación</u>__ por los demás sin esperar nada a cambio.
+###### a) El amor que produce el Espíritu Santo muestra verdadero cuidado o __<u>preocupación</u>__ por los demás sin esperar nada a cambio.
 
-###### Esto no debe confundirse con el sustituto __<u>barato</u>__ del mundo, concretamente, la tolerancia.
+###### b) Esto no debe confundirse con el sustituto __<u>barato</u>__ del mundo, concretamente, la tolerancia.
 
-##### El Espíritu Santo produce __<u>gozo</u>__ real en la vida del creyente. Salmos 16:11, 21:6, 36:7-8, 43:4; Nehemías 8:10-12; Filipenses 1:24-25; Juan 14:1, 15:11
+##### 2) El Espíritu Santo produce __<u>gozo</u>__ real en la vida del creyente. Salmos 16:11, 21:6, 36:7-8, 43:4; Nehemías 8:10-12; Filipenses 1:24-25; Juan 14:1, 15:11
 
-###### El gozo bíblico es un sentido de contentamiento o bendición __<u>instaurado</u>__ que no depende de las circunstancias.
+###### a) El gozo bíblico es un sentido de contentamiento o bendición __<u>instaurado</u>__ que no depende de las circunstancias.
 
-###### El gozo no es lo mismo que la felicidad o la __<u>risa</u>__. El gozo es el sentido constante y profundo de serenidad que proviene del consuelo que sólo Dios puede dar.
+###### b) El gozo no es lo mismo que la felicidad o la __<u>risa</u>__. El gozo es el sentido constante y profundo de serenidad que proviene del consuelo que sólo Dios puede dar.
 
-###### Hechos 16:25 -- Fue el gozo del Señor lo que provocó que Pablo y Silas __<u>cantaran</u>__ y oraran a media noche con las espaldas sangrando y las manos y los pies en cepos. Filipenses 4:4
+###### c) Hechos 16:25 -- Fue el gozo del Señor lo que provocó que Pablo y Silas __<u>cantaran</u>__ y oraran a media noche con las espaldas sangrando y las manos y los pies en cepos. Filipenses 4:4
 
-##### El fruto del Espíritu también es __<u>paz</u>__. Filipenses 4:4-7, Colosenses 3:15
+##### 3) El fruto del Espíritu también es __<u>paz</u>__. Filipenses 4:4-7, Colosenses 3:15
 
-###### La paz bíblica es disfrutar la ausencia de agitación de ansiedad dentro del __<u>alma</u>__.
+###### a) La paz bíblica es disfrutar la ausencia de agitación de ansiedad dentro del __<u>alma</u>__.
 
-###### El creyente que camina por medio del Espíritu Santo __<u>disfrutará</u>__ de una profunda sensación de serenidad emocional, a pesar de que las circunstancias sean adversas.
+###### b) El creyente que camina por medio del Espíritu Santo __<u>disfrutará</u>__ de una profunda sensación de serenidad emocional, a pesar de que las circunstancias sean adversas.
 
-#### Aquí está la segunda tríada de cualidades espirituales producidas por el Espíritu Santo. Estas gobiernan nuestras relaciones con los __<u>demás</u>__. 
+#### b. Aquí está la segunda tríada de cualidades espirituales producidas por el Espíritu Santo. Estas gobiernan nuestras relaciones con los __<u>demás</u>__. 
 
-##### El Espíritu Santo __<u>proporciona</u>__ la asombrosa (atípica) calidad de paciencia en la vida del creyente que permanece en Cristo (o anda conforme al Espíritu). Colosenses 1:11, 3:12; Santiago 1:3-4, 3:17; Romanos 5:3-4, 15:4-5; 1 Timoteo 6:11
+##### 1) El Espíritu Santo __<u>proporciona</u>__ la asombrosa (atípica) calidad de paciencia en la vida del creyente que permanece en Cristo (o anda conforme al Espíritu). Colosenses 1:11, 3:12; Santiago 1:3-4, 3:17; Romanos 5:3-4, 15:4-5; 1 Timoteo 6:11
 
-###### La paciencia bíblica, tal como la suministra el Espíritu Santo, es la capacidad sobrenatural de ser consistente y confiable en todas las circunstancias y particularmente cuando se lidia con situaciones o __<u>personas</u>__ difíciles. 1 Tesalonicenses 1:6
+###### a) La paciencia bíblica, tal como la suministra el Espíritu Santo, es la capacidad sobrenatural de ser consistente y confiable en todas las circunstancias y particularmente cuando se lidia con situaciones o __<u>personas</u>__ difíciles. 1 Tesalonicenses 1:6
 
-###### Esta es la paciencia inspirada por Dios que brilla con verdadera bondad hacia el __<u>mundo</u>__ indigno. Es la gracia en acción. Eclesiastés 7:8
+###### b) Esta es la paciencia inspirada por Dios que brilla con verdadera bondad hacia el __<u>mundo</u>__ indigno. Es la gracia en acción. Eclesiastés 7:8
 
-##### La capacidad de ser sinceramente __<u>bondadoso</u>__ con las personas es un fruto del Espíritu Santo. Romanos 12:9 21, Filipenses 2:1-3
+##### 2) La capacidad de ser sinceramente __<u>bondadoso</u>__ con las personas es un fruto del Espíritu Santo. Romanos 12:9 21, Filipenses 2:1-3
 
-###### Un creyente que camina dependiendo del Espíritu Santo puede __<u>mostrar</u>__ compasión espontánea hacia los demás.
+###### a) Un creyente que camina dependiendo del Espíritu Santo puede __<u>mostrar</u>__ compasión espontánea hacia los demás.
 
-###### La bondad es empatía real y consideración sincera por los demás. Este es el fruto del Espíritu de Dios a través de la vida del creyente espiritual y no puede ser fabricado por el __<u>esfuerzo</u>__ humano, sin importar cuán sincero sea ese esfuerzo.
+###### b) La bondad es empatía real y consideración sincera por los demás. Este es el fruto del Espíritu de Dios a través de la vida del creyente espiritual y no puede ser fabricado por el __<u>esfuerzo</u>__ humano, sin importar cuán sincero sea ese esfuerzo.
 
-##### Ser benevolente, o __<u>bueno</u>__, hacia los demás es un fruto de Dios el Espíritu Santo. 1 Tesalonicenses 4:9; Hebreos 13:1; 1 Pedro 1:22, 2:17, 3:8; Efesios 4:32; Colosenses 3:12-13
+##### 3) Ser benevolente, o __<u>bueno</u>__, hacia los demás es un fruto de Dios el Espíritu Santo. 1 Tesalonicenses 4:9; Hebreos 13:1; 1 Pedro 1:22, 2:17, 3:8; Efesios 4:32; Colosenses 3:12-13
 
-###### Esta benignidad es una amistad __<u>activa</u>__ y solidaria.
+###### a) Esta benignidad es una amistad __<u>activa</u>__ y solidaria.
 
-###### La benignidad que es el fruto del Espíritu es la habilidad sobrenatural de bendecir tanto a los amigos como a enemigos con actos de __<u>bondad</u>__. Esta cualidad viene como resultado del Espíritu Santo en la vida del hijo dependiente de Dios.
+###### b) La benignidad que es el fruto del Espíritu es la habilidad sobrenatural de bendecir tanto a los amigos como a enemigos con actos de __<u>bondad</u>__. Esta cualidad viene como resultado del Espíritu Santo en la vida del hijo dependiente de Dios.
 
-#### La tercera tríada de cualidades espirituales habla de la __<u>integridad</u>__ personal de uno. Estas también son un subproducto del Espíritu Santo en la vida del creyente y no un producto del esfuerzo humano.
+#### c. La tercera tríada de cualidades espirituales habla de la __<u>integridad</u>__ personal de uno. Estas también son un subproducto del Espíritu Santo en la vida del creyente y no un producto del esfuerzo humano.
 
-##### Al contrario de lo que podemos entender, la verdadera fe o fiabilidad proviene de Dios; tiene a Dios como su __<u>fuente</u>__. 2 Pedro 1:5-8; 2 Timoteo 2:2, 13; 1 Corintios 1:8-9; 1 Timoteo 1:14
+##### 1) Al contrario de lo que podemos entender, la verdadera fe o fiabilidad proviene de Dios; tiene a Dios como su __<u>fuente</u>__. 2 Pedro 1:5-8; 2 Timoteo 2:2, 13; 1 Corintios 1:8-9; 1 Timoteo 1:14
 
-###### El creyente que __<u>guarda</u>__ su palabra y cumple con sus obligaciones es digno de confianza; y obviamente, Dios el Espíritu Santo es el estímulo detrás de tan buen comportamiento, y Él obtiene toda la gloria. 2 Corintios 12:5
+###### a) El creyente que __<u>guarda</u>__ su palabra y cumple con sus obligaciones es digno de confianza; y obviamente, Dios el Espíritu Santo es el estímulo detrás de tan buen comportamiento, y Él obtiene toda la gloria. 2 Corintios 12:5
 
-###### La fiabilidad en la vida es algo que todo creyente debe __<u>retratar</u>__ como una cualidad verdadera y, por lo tanto, nos conviene andar en el Espíritu y no por la carne, puesto que sólo Dios puede obrar en nosotros para producir tales cualidades. Filipenses 2:13
+###### b) La fiabilidad en la vida es algo que todo creyente debe __<u>retratar</u>__ como una cualidad verdadera y, por lo tanto, nos conviene andar en el Espíritu y no por la carne, puesto que sólo Dios puede obrar en nosotros para producir tales cualidades. Filipenses 2:13
 
-##### La mansedumbre se describe como el __<u>poder</u>__ bajo control y es el fruto del Espíritu Santo en la vida del creyente. Mateo 21:5, Filipenses 4:5, 2 Timoteo 2:24-25
+##### 3) La mansedumbre se describe como el __<u>poder</u>__ bajo control y es el fruto del Espíritu Santo en la vida del creyente. Mateo 21:5, Filipenses 4:5, 2 Timoteo 2:24-25
 
-###### Esta característica del fruto del Espíritu es a menudo ignorada por el mundo, pero en realidad es un nivel sobrenatural de humildad que todo hombre y mujer de Dios debe __<u>mostrar</u>__ en todas sus relaciones.
+###### a) Esta característica del fruto del Espíritu es a menudo ignorada por el mundo, pero en realidad es un nivel sobrenatural de humildad que todo hombre y mujer de Dios debe __<u>mostrar</u>__ en todas sus relaciones.
 
-###### La mansedumbre bíblica que el Espíritu Santo da implica consideración, humildad, dulzura, poder bajo control y __<u>docilidad</u>__. Colosenses 3:12
+###### b) La mansedumbre bíblica que el Espíritu Santo da implica consideración, humildad, dulzura, poder bajo control y __<u>docilidad</u>__. Colosenses 3:12
 
-##### Finalmente, viene la verdadera templanza. La templanza no es producto de los __<u>esfuerzos</u>__ o la determinación humana, sino más bien un fruto del Espíritu Santo en la vida de uno. Tito 2:1-5; 1 Timoteo 3:2; Hebreos 13:18; 1 Pedro 3:2, 13-17
+##### 3) Finalmente, viene la verdadera templanza. La templanza no es producto de los __<u>esfuerzos</u>__ o la determinación humana, sino más bien un fruto del Espíritu Santo en la vida de uno. Tito 2:1-5; 1 Timoteo 3:2; Hebreos 13:18; 1 Pedro 3:2, 13-17
 
-###### La templanza es la habilidad divinamente habilitada para __<u>gobernar</u>__ tus pasiones. Esto es algo que el mundo no puede duplicar.
+###### a) La templanza es la habilidad divinamente habilitada para __<u>gobernar</u>__ tus pasiones. Esto es algo que el mundo no puede duplicar.
 
-###### La templanza __<u>no</u>__ debe confundirse con la auto-humillación del ascetismo como es enseñado hoy en día bajo el pretexto de *disciplinas espirituales*. Colosenses 2:20-23
+###### b) La templanza __<u>no</u>__ debe confundirse con la auto-humillación del ascetismo como es enseñado hoy en día bajo el pretexto de *disciplinas espirituales*. Colosenses 2:20-23
 
-###### En vano, las religiones de todo el mundo utilizan el ayuno, el trato duro del cuerpo y una miríada de similares limitaciones autoimpuestas para controlar el apetito humano. Esta no es la templanza que se produce en la vida del creyente __<u>bajo</u>__ la dirección del Espíritu Santo.
+###### c) En vano, las religiones de todo el mundo utilizan el ayuno, el trato duro del cuerpo y una miríada de similares limitaciones autoimpuestas para controlar el apetito humano. Esta no es la templanza que se produce en la vida del creyente __<u>bajo</u>__ la dirección del Espíritu Santo.
 
-### Gálatas 5:23b -- En resumen, consideremos los contrastes de Pablo entre la carne y el Espíritu.
+### 4. Gálatas 5:23b -- En resumen, consideremos los contrastes de Pablo entre la carne y el Espíritu.
 
-#### Gálatas 5:19-21 -- Las actividades de la carne son llamadas \"__<u>obras</u>__\" (plural) y son malas.
+#### a. Gálatas 5:19-21 -- Las actividades de la carne son llamadas \"__<u>obras</u>__\" (plural) y son malas.
 
-#### Gálatas 5:22-23a -- La actividad del Espíritu se llama \"__<u>fruto</u>__\" (singular), y es de origen divino.
+#### b. Gálatas 5:22-23a -- La actividad del Espíritu se llama \"__<u>fruto</u>__\" (singular), y es de origen divino.
 
-#### Juan 15:4-5 -- Jesús enseñó que para que el creyente __<u>lleve</u>__ PHERO (en lugar de producir) fruto, debe permanecer en una dependencia activa del Señor. La dependencia activa (fe) en el Señor resultará espontáneamente en fruto. Pero sin una dependencia continua del Señor, no continuará habiendo fruto. Gálatas 5:17
+#### c.  Juan 15:4-5 -- Jesús enseñó que para que el creyente __<u>lleve</u>__ PHERO (en lugar de producir) fruto, debe permanecer en una dependencia activa del Señor. La dependencia activa (fe) en el Señor resultará espontáneamente en fruto. Pero sin una dependencia continua del Señor, no continuará habiendo fruto. Gálatas 5:17
 
-#### Gálatas 5:23b -- "...*contra tales cosas no hay ley".* Este pasaje enseña que ninguna ley es __<u>quebrantada</u>__ cuando llevamos el fruto del Espíritu Santo. Es completamente íntegro.
+#### d. Gálatas 5:23b -- "...*contra tales cosas no hay ley".* Este pasaje enseña que ninguna ley es __<u>quebrantada</u>__ cuando llevamos el fruto del Espíritu Santo. Es completamente íntegro.
 
 ## D. Gálatas 5:24-26 -- Ahora observemos algunas instrucciones importantes con respecto a tener un <u>caminar</u> piadoso por medio del Espíritu Santo.
 
-### Gálatas 5:24-25a -- Pablo les dio a los gálatas un recordatorio práctico de su __<u>nueva</u>__ vida en Cristo. "*Pero los que son de Cristo han crucificado la carne con sus pasiones y deseos. Si vivimos por el Espíritu, andemos también por el Espíritu"*.
+### 1. Gálatas 5:24-25a -- Pablo les dio a los gálatas un recordatorio práctico de su __<u>nueva</u>__ vida en Cristo. "*Pero los que son de Cristo han crucificado la carne con sus pasiones y deseos. Si vivimos por el Espíritu, andemos también por el Espíritu"*.
 
-#### Gálatas 2:20 -- Posicionalmente en Cristo, el creyente es __<u>crucificado</u>__ en relación con la naturaleza carnal.
+#### a. Gálatas 2:20 -- Posicionalmente en Cristo, el creyente es __<u>crucificado</u>__ en relación con la naturaleza carnal.
 
-##### Pablo declaró esta verdad en las palabras: *\"__<u>Con</u>__ Cristo estoy juntamente crucificado...\"*.
+##### 1) Pablo declaró esta verdad en las palabras: *\"__<u>Con</u>__ Cristo estoy juntamente crucificado...\"*.
 
-##### Esta es una verdad inalterable con respecto a nuestra posición en Cristo que es forjada por la obra de Dios en el __<u>momento</u>__ de la salvación.
+##### 2) Esta es una verdad inalterable con respecto a nuestra posición en Cristo que es forjada por la obra de Dios en el __<u>momento</u>__ de la salvación.
 
-#### Gálatas 5:24a -- Pablo hizo una observación respecto a nuestra relación con la vieja naturaleza. "***Pero los que son de Cristo han crucificado la [carne</u>__*...".
+#### b. Gálatas 5:24a -- Pablo hizo una observación respecto a nuestra relación con la vieja naturaleza. "***Pero los que son de Cristo han crucificado la [carne</u>__*...".
 
-##### Primero, debemos tomar nota especial del hecho de que este es el __<u>único</u>__ lugar en la Biblia donde se dice que la carne ha sido crucificada.
+##### 1) Primero, debemos tomar nota especial del hecho de que este es el __<u>único</u>__ lugar en la Biblia donde se dice que la carne ha sido crucificada.
 
-###### Este versículo refuta la enseñanza de aquellos que afirman que la carne siempre significa \"__<u>cuerpo</u>__ humano\" en el Nuevo Testamento.
+###### a) Este versículo refuta la enseñanza de aquellos que afirman que la carne siempre significa \"__<u>cuerpo</u>__ humano\" en el Nuevo Testamento.
 
-###### Claramente, aquí en este versículo, Pablo usó el término *carne* para describir la __<u>naturaleza</u>__ carnal de una persona y no el cuerpo humano.
+###### b) Claramente, aquí en este versículo, Pablo usó el término *carne* para describir la __<u>naturaleza</u>__ carnal de una persona y no el cuerpo humano.
 
-##### Pablo no estaba diciéndonos que __<u>nosotros</u>__ debemos crucificar la naturaleza carnal.
+##### 2) Pablo no estaba diciéndonos que __<u>nosotros</u>__ debemos crucificar la naturaleza carnal.
 
-###### El verbo traducido ***han crucificado*** es un __<u>aoristo</u>__ activo indicativo en griego que se refiere a algo hecho y completado en un punto preciso en el tiempo.
+###### a) El verbo traducido ***han crucificado*** es un __<u>aoristo</u>__ activo indicativo en griego que se refiere a algo hecho y completado en un punto preciso en el tiempo.
 
-###### Obviamente, Pablo no estaba enseñando que debemos crucificar la carne día a día como algunos erróneamente __<u>enseñan</u>__.
+###### b) Obviamente, Pablo no estaba enseñando que debemos crucificar la carne día a día como algunos erróneamente __<u>enseñan</u>__.
 
-##### De hecho, este no es un mandato para ser obedecido. Por el contrario, esta es una declaración de __<u>hecho</u>__ con relación a lo que ya ha sucedido.
+##### 3) De hecho, este no es un mandato para ser obedecido. Por el contrario, esta es una declaración de __<u>hecho</u>__ con relación a lo que ya ha sucedido.
 
-##### Pablo dijo que esto es cierto de *los que __<u>son</u>__ de Cristo* Jesús, lo cual incluye a todos los creyentes. Se presenta aquí como una declaración corporativa o inclusiva.
+##### 4) Pablo dijo que esto es cierto de *los que __<u>son</u>__ de Cristo* Jesús, lo cual incluye a todos los creyentes. Se presenta aquí como una declaración corporativa o inclusiva.
 
-##### Debe notarse enfáticamente que, según la gramática, es el creyente quien estuvo activo en la crucifixión y no __<u>Dios</u>__.
+##### 5) Debe notarse enfáticamente que, según la gramática, es el creyente quien estuvo activo en la crucifixión y no __<u>Dios</u>__.
 
-##### Esta declaración no es una *doctrina de nuestra identificación* o *__<u>verdad</u>__ posicional* realizada por Dios en la salvación; es más bien una declaración pragmática o práctica sobre nuestra condición.
+##### 6) Esta declaración no es una *doctrina de nuestra identificación* o *__<u>verdad</u>__ posicional* realizada por Dios en la salvación; es más bien una declaración pragmática o práctica sobre nuestra condición.
 
-##### Entonces, ya que crucificamos la carne, ¿cuándo la crucificamos?
+##### 7) Entonces, ya que crucificamos la carne, ¿cuándo la crucificamos?
 
-###### Crucificamos (tiempo __<u>pasado</u>__) la carne en el momento exacto en que creímos.
+###### a) Crucificamos (tiempo __<u>pasado</u>__) la carne en el momento exacto en que creímos.
 
-###### Si este no fuera el caso, Pablo no podría hacer esto como una declaración __<u>general</u>__ verdadera de todos los que son de Cristo*.*
+###### b) Si este no fuera el caso, Pablo no podría hacer esto como una declaración __<u>general</u>__ verdadera de todos los que son de Cristo*.*
 
-###### Según Pablo, **nosotros**, y no __<u>Dios</u>__, le dimos el golpe mortal de la crucifixión a la carne.
+###### c) Según Pablo, **nosotros**, y no __<u>Dios</u>__, le dimos el golpe mortal de la crucifixión a la carne.
 
-###### xxiv. Así es como sucedió. En el __<u>momento</u>__ de la salvación, crucificamos nuestra carne al creer en Cristo.
+###### (i) Así es como sucedió. En el __<u>momento</u>__ de la salvación, crucificamos nuestra carne al creer en Cristo.
 
-###### xxv. Con toda practicidad, en el instante en que creímos en Cristo, rechazamos la __<u>carne</u>__, en esencia crucificándola junto con sus pasiones y sus deseos.
+###### (ii) Con toda practicidad, en el instante en que creímos en Cristo, rechazamos la __<u>carne</u>__, en esencia crucificándola junto con sus pasiones y sus deseos.
 
-###### xxvi. Al creer en el __<u>evangelio</u>__, le dijimos adiós a la carne declarando sobre ella la muerte por crucifixión.
+###### (iii) Al creer en el __<u>evangelio</u>__, le dijimos adiós a la carne declarando sobre ella la muerte por crucifixión.
 
-###### ¿Cómo podemos ver esto de una manera práctica?
+###### d) ¿Cómo podemos ver esto de una manera práctica?
 
-###### xxvii. En el momento en que un hombre se casa con una mujer, __<u>mata</u>__ todas las relaciones románticas anteriores de una sola vez.
+###### (i) En el momento en que un hombre se casa con una mujer, __<u>mata</u>__ todas las relaciones románticas anteriores de una sola vez.
 
-###### xxviii. En virtud de los __<u>votos</u>__ matrimoniales, retiró cualquier lealtad anterior a cualquier otra mujer.
+###### (ii) En virtud de los __<u>votos</u>__ matrimoniales, retiró cualquier lealtad anterior a cualquier otra mujer.
 
-###### xxix. Esto es lo que Pablo está diciendo en esta declaración acerca de haber crucificado la __<u>carne</u>__ con sus deseos y pasiones.
+###### (iii) Esto es lo que Pablo está diciendo en esta declaración acerca de haber crucificado la __<u>carne</u>__ con sus deseos y pasiones.
 
-###### Pablo está esencialmente recordándole a sus lectores que la lista de pasiones y deseos de la carne tal como está escrita en Gálatas 5:19-21 ya fue condenada y crucificada por cada uno de nosotros en el momento en que depositamos nuestra __<u>fe</u>__ en Cristo Jesús.
+###### e) Pablo está esencialmente recordándole a sus lectores que la lista de pasiones y deseos de la carne tal como está escrita en Gálatas 5:19-21 ya fue condenada y crucificada por cada uno de nosotros en el momento en que depositamos nuestra __<u>fe</u>__ en Cristo Jesús.
 
-###### Podemos concluir fácilmente que Pablo utilizó la frase \"...*han crucificado la carne...*\" en un sentido no literal, ya que las implicaciones de __<u>realmente</u>__ crucificar la carne son bíblicamente insostenibles.
+###### f) Podemos concluir fácilmente que Pablo utilizó la frase \"...*han crucificado la carne...*\" en un sentido no literal, ya que las implicaciones de __<u>realmente</u>__ crucificar la carne son bíblicamente insostenibles.
 
-#### Gálatas 5:24b -- "...*los que\... han crucificado la carne __<u>con</u> sus pasiones y deseos**"*.
+#### c. Gálatas 5:24b -- "...*los que\... han crucificado la carne __<u>con</u> sus pasiones y deseos**"*.
 
-##### Pablo recordó a sus lectores que __<u>cuando</u>__ sentenciaron a muerte por crucifixión a la naturaleza carnal, incluyeron con ella *sus pasiones y sus deseos*.
+##### 1) Pablo recordó a sus lectores que __<u>cuando</u>__ sentenciaron a muerte por crucifixión a la naturaleza carnal, incluyeron con ella *sus pasiones y sus deseos*.
 
-##### La carne no fue erradicada por esta crucifixión que ejecutamos. Si eso fuera así, entonces el mandato de Gálatas 5:17 sería absurdo e __<u>inútil</u>__.
+##### 2) La carne no fue erradicada por esta crucifixión que ejecutamos. Si eso fuera así, entonces el mandato de Gálatas 5:17 sería absurdo e __<u>inútil</u>__.
 
-##### Si la carne estuviera muerta por la crucifixión, parecería contradictorio que Pablo hubiese dicho más tarde: "*No os engañéis; Dios no puede ser burlado: pues todo lo que el hombre sembrare, eso también segará. Porque el que siembra para __<u>su</u>__ carne, de la carne segará corrupción; mas el que siembra para el Espíritu, del Espíritu segará vida eterna*\". Gálatas 6:7-8
+##### 3) Si la carne estuviera muerta por la crucifixión, parecería contradictorio que Pablo hubiese dicho más tarde: "*No os engañéis; Dios no puede ser burlado: pues todo lo que el hombre sembrare, eso también segará. Porque el que siembra para __<u>su</u>__ carne, de la carne segará corrupción; mas el que siembra para el Espíritu, del Espíritu segará vida eterna*\". Gálatas 6:7-8
 
-#### Gálatas 5:24 -- Entonces, en resumen, ¿qué estaba diciendo Pablo?
+#### d. Gálatas 5:24 -- Entonces, en resumen, ¿qué estaba diciendo Pablo?
 
-##### Pablo les estaba recordando a estos hermanos gálatas que cuando llegaron a __<u>pertenecer</u>__ a Cristo en la salvación, **ellos** esencialmente crucificaron la carne y todo lo malo que le pertenece.
+##### 1) Pablo les estaba recordando a estos hermanos gálatas que cuando llegaron a __<u>pertenecer</u>__ a Cristo en la salvación, **ellos** esencialmente crucificaron la carne y todo lo malo que le pertenece.
 
-##### __<u>Regresar</u>__ ahora a lo que condenaron a muerte sería impensable.
+##### 2) __<u>Regresar</u>__ ahora a lo que condenaron a muerte sería impensable.
 
-##### Esto nos __<u>lleva</u>__ a las declaraciones de aplicación que se encuentran en los siguientes versículos.
+##### 3) Esto nos __<u>lleva</u>__ a las declaraciones de aplicación que se encuentran en los siguientes versículos.
 
-### Gálatas 5:25-26 -- ¿Cuál es la aplicación práctica para la enseñanza de Gálatas 5:16-24?
+### 2. Gálatas 5:25-26 -- ¿Cuál es la aplicación práctica para la enseñanza de Gálatas 5:16-24?
 
-#### Gálatas 5:25a -- "*Si __<u>vivimos</u>__ por el Espíritu*...".
+#### a. Gálatas 5:25a -- "*Si __<u>vivimos</u>__ por el Espíritu*...".
 
-##### Habiendo sido nacido de nuevo, el creyente tiene __<u>vida</u>__ espiritual (vida eterna) por medio del Espíritu Santo.
+##### 1) Habiendo sido nacido de nuevo, el creyente tiene __<u>vida</u>__ espiritual (vida eterna) por medio del Espíritu Santo.
 
-##### En el versículo 24 tenemos una __<u>razón</u> práctica** para no vivir según la carne y es porque ya la crucificamos junto con sus pasiones y deseos.
+##### 2) En el versículo 24 tenemos una __<u>razón</u> práctica** para no vivir según la carne y es porque ya la crucificamos junto con sus pasiones y deseos.
 
-##### Ahora en el versículo 25a tenemos una **razón espiritual** para no vivir según la carne y es que ahora se nos ha dado una nueva vida __<u>real</u>__ por medio del Espíritu Santo. "*Si vivimos por el Espíritu...*" ¡y lo hacemos!
+##### 3) Ahora en el versículo 25a tenemos una **razón espiritual** para no vivir según la carne y es que ahora se nos ha dado una nueva vida __<u>real</u>__ por medio del Espíritu Santo. "*Si vivimos por el Espíritu...*" ¡y lo hacemos!
 
-#### Gálatas 5:25b -- "...*andemos también por el Espíritu"*.
+#### b. Gálatas 5:25b -- "...*andemos también por el Espíritu"*.
 
-##### Dado que se nos ha dado una nueva vida a través del Espíritu Santo que mora en nosotros, es comprensible que ahora también debamos __<u>vivir</u>__ por medio del poder del Espíritu Santo.
+##### 1) Dado que se nos ha dado una nueva vida a través del Espíritu Santo que mora en nosotros, es comprensible que ahora también debamos __<u>vivir</u>__ por medio del poder del Espíritu Santo.
 
-##### Esta declaración nos recuerda nuevamente a las preguntas de Pablo a los gálatas en el Capítulo 3:1-5 donde cuestionó por qué, si habían comenzado la vida espiritual por el Espíritu, ahora volverían una vez más a __<u>depender</u>__ de la carne (esfuerzos humanos ) Salmos 32:9, Romanos 8:4
+##### 2) Esta declaración nos recuerda nuevamente a las preguntas de Pablo a los gálatas en el Capítulo 3:1-5 donde cuestionó por qué, si habían comenzado la vida espiritual por el Espíritu, ahora volverían una vez más a __<u>depender</u>__ de la carne (esfuerzos humanos ) Salmos 32:9, Romanos 8:4
 
-#### Gálatas 5:26 -- Y "N*o nos hagamos*...". 
+#### c. Gálatas 5:26 -- Y "N*o nos hagamos*...". 
 
-##### En conclusión a todo esto, Pablo instó a que ahora, en la vida cotidiana, los creyentes gálatas caminaran en __<u>armonía</u>__ unos con otros. Gálatas 5:15
+##### 1) En conclusión a todo esto, Pablo instó a que ahora, en la vida cotidiana, los creyentes gálatas caminaran en __<u>armonía</u>__ unos con otros. Gálatas 5:15
 
-##### Debemos caminar en armonía sin ser __<u>jactanciosos</u>__, irrazonables o envidiosos, tres cosas que se encajan en la categoría de la carne y no al Espíritu. Filipenses 2:1-3
+##### 2) Debemos caminar en armonía sin ser __<u>jactanciosos</u>__, irrazonables o envidiosos, tres cosas que se encajan en la categoría de la carne y no al Espíritu. Filipenses 2:1-3
 
 <!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/chainlink.jpeg" data-background-size="cover"  data-menu-title="XVI. Gálatas 6:1-10 -- Pablo enseña que el Andar Por Medio del Espíritu Debe Resultar en un Servicio Práctico" data-background-color="black" data-background-opacity="0.5" data-transition="zoom" -->
 # XVI. Gálatas 6:1-10 -- Pablo enseña que el Andar Por Medio del Espíritu Debe Resultar en un Servicio Práctico
@@ -3074,131 +3075,131 @@ El legalismo le quita el foco de Cristo y lo pone en el hombre y en sus esfuerzo
 
 ## A. Gálatas 6:1 -- Aquellos que andan en el Espíritu deben restaurar <u>apaciblemente</u> a sus hermanos y hermanas que quedan atrapados en una cuestión de pecado. 
 
-### Gálatas 6:1a -- "*Hermanos, si alguno fuere sorprendido en alguna falta\...".* Pablo dio instrucciones a los gálatas respecto a un hermano o hermana en Cristo que es __<u>atrapado</u>__, sorprendido o descubierto en un pecado.
+### 1. Gálatas 6:1a -- "*Hermanos, si alguno fuere sorprendido en alguna falta\...".* Pablo dio instrucciones a los gálatas respecto a un hermano o hermana en Cristo que es __<u>atrapado</u>__, sorprendido o descubierto en un pecado.
 
-### Gálatas 6:1b -- "...*vosotros que sois espirituales, restauradle\...".* La restauración debe ser realizada por creyentes que se caracterizan por la espiritualidad. Las personas legalistas, carnales o inmaduras, no deben participar en el __<u>proceso</u>__ de la restauración.
+### 2. Gálatas 6:1b -- "...*vosotros que sois espirituales, restauradle\...".* La restauración debe ser realizada por creyentes que se caracterizan por la espiritualidad. Las personas legalistas, carnales o inmaduras, no deben participar en el __<u>proceso</u>__ de la restauración.
 
-### Gálatas 6:1c -- "...*restauradle\...".* Debemos restaurarlos; no __<u>rechazarlos</u>__.
+### 3. Gálatas 6:1c -- "...*restauradle\...".* Debemos restaurarlos; no __<u>rechazarlos</u>__.
 
-#### Aquí la palabra *restauradle* KATARTIZO significa cuidadosamente, de manera práctica, __<u>enmendar</u>__ o reparar algo que se ha roto o se ha destrozado.
+#### a. Aquí la palabra *restauradle* KATARTIZO significa cuidadosamente, de manera práctica, __<u>enmendar</u>__ o reparar algo que se ha roto o se ha destrozado.
 
-#### Este término se usaba para los pescadores que remendaban cuidadosamente sus __<u>redes</u>__.
+#### b. Este término se usaba para los pescadores que remendaban cuidadosamente sus __<u>redes</u>__.
 
-### Gálatas 6:1d -- "...*con espíritu de mansedumbre\...".* La restauración debe hacerse con un espíritu de mansedumbre. La mansedumbre o docilidad PRAUTETOS aquí es la misma palabra griega que se encuentra en la lista del __<u>fruto</u>__ del Espíritu.
+### 4. Gálatas 6:1d -- "...*con espíritu de mansedumbre\...".* La restauración debe hacerse con un espíritu de mansedumbre. La mansedumbre o docilidad PRAUTETOS aquí es la misma palabra griega que se encuentra en la lista del __<u>fruto</u>__ del Espíritu.
 
-### Gálatas 6:1e -- La restauración debe hacerse con una cuidadosa auto-consideración porque el que restaura también puede ser __<u>probado</u>__ o tentado de la misma manera. "\...*considerándote a ti mismo, no sea que tú también seas tentado"*. 1 Corintios 10:12
+### 5. Gálatas 6:1e -- La restauración debe hacerse con una cuidadosa auto-consideración porque el que restaura también puede ser __<u>probado</u>__ o tentado de la misma manera. "\...*considerándote a ti mismo, no sea que tú también seas tentado"*. 1 Corintios 10:12
 
 ## B. Gálatas 6:2 -- A medida que andamos en el Espíritu, debemos <u>compartir</u> las cargas de los fatigados. *"Sobrellevad los unos las cargas de los otros, y cumplid así la ley de Cristo".* 
 
-### Gálatas 6:2a -- Aquí tenemos órdenes de __<u>llevar</u>__ las cargas de los demás. Romanos 15:1, Filipenses 2:4
+### 1. Gálatas 6:2a -- Aquí tenemos órdenes de __<u>llevar</u>__ las cargas de los demás. Romanos 15:1, Filipenses 2:4
 
-#### Llevar es cargar poniendo la __<u>carga</u>__ sobre ti mismo. Mateo 11:28-30
+#### a. Llevar es cargar poniendo la __<u>carga</u>__ sobre ti mismo. Mateo 11:28-30
 
-#### La palabra para carga BAROS es una carga fuerte o pesada, algo de sustancia real. Debemos llevar los asuntos pesados de los demás y no dejar que sean __<u>aplastados</u>__ bajo sus circunstancias.
+#### b. La palabra para carga BAROS es una carga fuerte o pesada, algo de sustancia real. Debemos llevar los asuntos pesados de los demás y no dejar que sean __<u>aplastados</u>__ bajo sus circunstancias.
 
-### Gálatas 6:2b -- Bajo la gracia, el creyente no está bajo el sistema legal mosaico sino bajo la ley de Cristo la cual nos obliga y nos empodera para __<u>amar</u>__ a los demás. Juan 13:34-35; 15:12; Gálatas 5:22; 1 Corintios 9:21; 2 Juan 5
+### 2. Gálatas 6:2b -- Bajo la gracia, el creyente no está bajo el sistema legal mosaico sino bajo la ley de Cristo la cual nos obliga y nos empodera para __<u>amar</u>__ a los demás. Juan 13:34-35; 15:12; Gálatas 5:22; 1 Corintios 9:21; 2 Juan 5
 
 ## C. Gálatas 6:3-4 -- Sólo cuando andamos en el Espíritu es que nos <u>vemos</u> a nosotros mismos y nuestras acciones correctamente.
 
-### Gálatas 6:3 -- "*Porque el que se cree ser algo, no siendo nada, a sí mismo se engaña".* La humildad bíblica es una evaluación honesta del verdadero estado de uno. Este versículo implica que nos auto engañamos fácilmente por nuestro __<u>orgullo</u>__. Filipenses 2:21, Gálatas 6:11-12
+### 1. Gálatas 6:3 -- "*Porque el que se cree ser algo, no siendo nada, a sí mismo se engaña".* La humildad bíblica es una evaluación honesta del verdadero estado de uno. Este versículo implica que nos auto engañamos fácilmente por nuestro __<u>orgullo</u>__. Filipenses 2:21, Gálatas 6:11-12
 
-### Gálatas 6:4a -- "*Así que, cada uno someta a prueba su propia obra\...".* Debemos evaluar nuestras propias __<u>acciones</u>__ y obras sin compararlas con las obras de otro. 2 Corintios 10:11-13, 18
+### 2. Gálatas 6:4a -- "*Así que, cada uno someta a prueba su propia obra\...".* Debemos evaluar nuestras propias __<u>acciones</u>__ y obras sin compararlas con las obras de otro. 2 Corintios 10:11-13, 18
 
-### Gálatas 6:4b -- "...*y entonces tendrá motivo de gloriarse sólo respecto de sí mismo, y no en otro".* Sólo cuando __<u>resistimos</u>__ compararnos con los demás podemos evaluar adecuadamente lo que hemos hecho. 2 Corintios 10:12
+### 3. Gálatas 6:4b -- "...*y entonces tendrá motivo de gloriarse sólo respecto de sí mismo, y no en otro".* Sólo cuando __<u>resistimos</u>__ compararnos con los demás podemos evaluar adecuadamente lo que hemos hecho. 2 Corintios 10:12
 
 ## D. Gálatas 6:5 -- Deberíamos asumir la responsabilidad de <u>nuestras</u> propias cargas. "*Porque cada uno llevará su propia carga.*"
 
-### Este versículo puede parecer contradecir Gálatas 6:2 que nos dice que llevemos las cargas de los __<u>demás</u>__, pero, por supuesto, este no es el caso.
+### 1. Este versículo puede parecer contradecir Gálatas 6:2 que nos dice que llevemos las cargas de los __<u>demás</u>__, pero, por supuesto, este no es el caso.
 
-### Gálatas 6:5a -- El término *carga* aquí en el versículo cinco es una palabra diferente, PHORTION en griego, que es la palabra *carga* que vimos en el versículo dos (BARE en griego). Aquí la palabra __<u>carga</u>__ también se traduce cargamento (Hechos 27:10) pero no se refiere a una carga o peso excesivo. Mateo 11:30
+### 2. Gálatas 6:5a -- El término *carga* aquí en el versículo cinco es una palabra diferente, PHORTION en griego, que es la palabra *carga* que vimos en el versículo dos (BARE en griego). Aquí la palabra __<u>carga</u>__ también se traduce cargamento (Hechos 27:10) pero no se refiere a una carga o peso excesivo. Mateo 11:30
 
-### Gálatas 6:5b -- Bajo la gracia, cada uno de nosotros es responsable de __<u>asumir</u>__ su carga personal sin convertirse en una carga para los demás. Romanos 14:12, 1 Timoteo 5:8
+### 3. Gálatas 6:5b -- Bajo la gracia, cada uno de nosotros es responsable de __<u>asumir</u>__ su carga personal sin convertirse en una carga para los demás. Romanos 14:12, 1 Timoteo 5:8
 
-### Gálatas 6:5c -- No debemos obligar o involucrar a __<u>otros</u>__ cuando se trata de nuestras responsabilidades personales como creyentes. 2 Tesalonicenses 3:6-15
+### 4. Gálatas 6:5c -- No debemos obligar o involucrar a __<u>otros</u>__ cuando se trata de nuestras responsabilidades personales como creyentes. 2 Tesalonicenses 3:6-15
 
 ## E. Gálatas 6:6 -- A medida que caminamos por medio del Espíritu, se nos alienta a <u>apoyar</u> monetariamente y de otra manera a aquellos que nos instruyen en la Palabra de Dios. "*El que es enseñado en la palabra, haga partícipe de toda cosa buena al que lo instruye.*"
 
-### Gálatas 6:6a -- Los creyentes deben __<u>apoyo</u>__ financiero a los instructores que fielmente les enseñan la Palabra de Dios. Hebreos 13:7, 17
+### 1. Gálatas 6:6a -- Los creyentes deben __<u>apoyo</u>__ financiero a los instructores que fielmente les enseñan la Palabra de Dios. Hebreos 13:7, 17
 
-### Gálatas 6:6b -- La frase en este versículo "\...*haga partícipe de toda cosa buena al que*\..." se refiere al apoyo financiero de los maestros de la __<u>Biblia</u>__. 1 Corintios 9:7-14
+### 2. Gálatas 6:6b -- La frase en este versículo "\...*haga partícipe de toda cosa buena al que*\..." se refiere al apoyo financiero de los maestros de la __<u>Biblia</u>__. 1 Corintios 9:7-14
 
-### Gálatas 6:6c -- Estos siervos del Señor deben ser generosamente compensados por sus inversiones espirituales en nuestras __<u>vidas</u>__. 1 Timoteo 5:17, 18
+### 3. Gálatas 6:6c -- Estos siervos del Señor deben ser generosamente compensados por sus inversiones espirituales en nuestras __<u>vidas</u>__. 1 Timoteo 5:17, 18
 
 ## F. Gálatas 6:7-8 -- El hijo de Dios obtiene ya sea una buena cosecha por medio del Espíritu Santo o una cosecha <u>corrupta</u> por medio de la carne.
 
-### Aquí hay algunos conceptos generales a considerar cuando se trata de una __<u>cosecha</u>__.
+### 1. Aquí hay algunos conceptos generales a considerar cuando se trata de una __<u>cosecha</u>__.
 
-#### Como regla, sólo cosechas lo que siembras. Por lo tanto, si un granjero planta maíz, cosecha maíz y no __<u>frijoles</u>__.
+#### a. Como regla, sólo cosechas lo que siembras. Por lo tanto, si un granjero planta maíz, cosecha maíz y no __<u>frijoles</u>__.
 
-#### Como regla general, en la naturaleza normalmente cosechas __<u>más</u>__ de lo que siembras; a veces una cosecha es más abundante que otras.
+#### b. Como regla general, en la naturaleza normalmente cosechas __<u>más</u>__ de lo que siembras; a veces una cosecha es más abundante que otras.
 
-##### Desde una perspectiva espiritual, tienes el potencial de una __<u>mala</u>__ cosecha. El rey David es un ejemplo de esto porque experimentó muchos problemas a causa de sembrar para su carne. 2 Samuel 11:1-5, 27, 12:7-15; 2 Corintios 5:9-10
+##### 1) Desde una perspectiva espiritual, tienes el potencial de una __<u>mala</u>__ cosecha. El rey David es un ejemplo de esto porque experimentó muchos problemas a causa de sembrar para su carne. 2 Samuel 11:1-5, 27, 12:7-15; 2 Corintios 5:9-10
 
-##### Por el contrario, también tienes el potencial para una __<u>buena</u>__ cosecha a su debido tiempo, ya sea aquí o más tarde en el cielo. 1 Corintios 3:5-9, 15:58; Filipenses 3:12
+##### 2) Por el contrario, también tienes el potencial para una __<u>buena</u>__ cosecha a su debido tiempo, ya sea aquí o más tarde en el cielo. 1 Corintios 3:5-9, 15:58; Filipenses 3:12
 
-#### Hay un factor __<u>tiempo</u>__ involucrado en cada cosecha. No cosechas de un día para otro.
+#### c. Hay un factor __<u>tiempo</u>__ involucrado en cada cosecha. No cosechas de un día para otro.
 
-##### El __<u>retraso</u>__ de tiempo en una cosecha puede ser engañoso porque en el ámbito espiritual un creyente podría pensar erróneamente que de alguna manera puede escapar de las consecuencias a largo plazo por vivir carnalmente hoy. Hebreos 2:1-3a
+##### 1) El __<u>retraso</u>__ de tiempo en una cosecha puede ser engañoso porque en el ámbito espiritual un creyente podría pensar erróneamente que de alguna manera puede escapar de las consecuencias a largo plazo por vivir carnalmente hoy. Hebreos 2:1-3a
 
-##### Debido a que __<u>sembrar</u>__ para el Espíritu no siempre muestra resultados inmediatos, debes recordar que vivir por medio del Espíritu Santo sí te beneficia con una cosecha abundante tanto ahora como en la eternidad. Lucas 18:28-30, 1 Corintios 3:10-15, 1 Timoteo 4:8
+##### 2) Debido a que __<u>sembrar</u>__ para el Espíritu no siempre muestra resultados inmediatos, debes recordar que vivir por medio del Espíritu Santo sí te beneficia con una cosecha abundante tanto ahora como en la eternidad. Lucas 18:28-30, 1 Corintios 3:10-15, 1 Timoteo 4:8
 
-### Gálatas 6:7a -- "*No os engañéis\...".* Tristemente, es posible que el creyente llegue a ser engañado y caiga __<u>víctima</u>__ de los estragos de su propia naturaleza carnal.
+### 2. Gálatas 6:7a -- "*No os engañéis\...".* Tristemente, es posible que el creyente llegue a ser engañado y caiga __<u>víctima</u>__ de los estragos de su propia naturaleza carnal.
 
-#### Debido a que el legalismo con sus reglas y regulaciones religiosas luce tan bien desde el exterior, muchos creyentes caen en la trampa de creer que por alguna forma de legalismo es el camino hacia la __<u>victoria</u>__ y el verdadero vivir cristiano.
+#### a. Debido a que el legalismo con sus reglas y regulaciones religiosas luce tan bien desde el exterior, muchos creyentes caen en la trampa de creer que por alguna forma de legalismo es el camino hacia la __<u>victoria</u>__ y el verdadero vivir cristiano.
 
-#### Sin embargo, dado que el legalismo proviene de la __<u>carne</u>__ y no del Espíritu Santo, los legalistas cosechan inevitablemente corrupción de las semillas de su propio legalismo.
+#### b. Sin embargo, dado que el legalismo proviene de la __<u>carne</u>__ y no del Espíritu Santo, los legalistas cosechan inevitablemente corrupción de las semillas de su propio legalismo.
 
-#### La religiosidad del legalismo no conduce a la santidad, sino más bien todo lo opuesto. Siempre conduce a la decadencia __<u>moral</u>__ y al pecado. Colosenses 2:20-23
+#### c. La religiosidad del legalismo no conduce a la santidad, sino más bien todo lo opuesto. Siempre conduce a la decadencia __<u>moral</u>__ y al pecado. Colosenses 2:20-23
 
-#### La advertencia de Pablo es para aquellos que piensan que pueden sembrar para la carne y __<u>escapar</u>__ de las consecuencias. 
+#### d. La advertencia de Pablo es para aquellos que piensan que pueden sembrar para la carne y __<u>escapar</u>__ de las consecuencias. 
 
-##### Algunos creyentes tienen una idea __<u>casual</u>__ de que pueden pecar ahora y confesarlo más tarde.
+##### 1) Algunos creyentes tienen una idea __<u>casual</u>__ de que pueden pecar ahora y confesarlo más tarde.
 
-##### A las personas que piensan así, Pablo les dice: \"Estás jugando con __<u>fuego</u>__ y te quemarás\"
+##### 2) A las personas que piensan así, Pablo les dice: \"Estás jugando con __<u>fuego</u>__ y te quemarás\"
 
-##### Nunca consideres la idea de que puedes sembrar para la carne y evitar una cosecha __<u>cruel</u>__.
+##### 3) Nunca consideres la idea de que puedes sembrar para la carne y evitar una cosecha __<u>cruel</u>__.
 
-##### Este es un llamado __<u>hoy</u>__ y ahora a un vivir santo por medio del Espíritu.
+##### 4) Este es un llamado __<u>hoy</u>__ y ahora a un vivir santo por medio del Espíritu.
 
-### Gálatas 6:7b -- "...*Dios no puede ser burlado\...".* Vivir por medio de la carne es hacer la burla de la verdad, así que Pablo corrige nuestro pensar al decir que __<u>Dios</u>__ no será burlado. Sólo nosotros seremos burlados.
+### 3. Gálatas 6:7b -- "...*Dios no puede ser burlado\...".* Vivir por medio de la carne es hacer la burla de la verdad, así que Pablo corrige nuestro pensar al decir que __<u>Dios</u>__ no será burlado. Sólo nosotros seremos burlados.
 
-### Gálatas 6:7b -- "...*pues todo lo que el hombre sembrare, __<u>eso</u>__ también segará"*.
+### 4. Gálatas 6:7b -- "...*pues todo lo que el hombre sembrare, __<u>eso</u>__ también segará"*.
 
-#### No puedes evitar la cosecha de las semillas que __<u>siembras</u>__ si permaneces en un estado de rebelión. Hebreos 2:3, 1 Timoteo 5:24-25
+#### a. No puedes evitar la cosecha de las semillas que __<u>siembras</u>__ si permaneces en un estado de rebelión. Hebreos 2:3, 1 Timoteo 5:24-25
 
-##### ¡Esto no significa que Dios no perdona el pecado, porque sí lo __<u>hace</u>__! 1 Juan 1:9
+##### 1) ¡Esto no significa que Dios no perdona el pecado, porque sí lo __<u>hace</u>__! 1 Juan 1:9
 
-##### Esto tampoco quita la __<u>misericordia</u>__ de Dios. Romanos 11:32, Hebreos 2:18, 4:16
+##### 2) Esto tampoco quita la __<u>misericordia</u>__ de Dios. Romanos 11:32, Hebreos 2:18, 4:16
 
-#### Cada creyente __<u>cosechará</u>__ algo y sólo existen dos posibles cosechas presentados en estos versículos. Se indica que una cosecha proviene de la naturaleza carnal y la otra del Espíritu Santo.
+#### b. Cada creyente __<u>cosechará</u>__ algo y sólo existen dos posibles cosechas presentados en estos versículos. Se indica que una cosecha proviene de la naturaleza carnal y la otra del Espíritu Santo.
 
-### Gálatas 6:8a -- El producto de la vida carnal es la corrupción. *Porque el que siembra para su carne, __<u>de</u>__ la carne segará corrupción*\... Gálatas 5:19-21, Juan 6:63
+### 5. Gálatas 6:8a -- El producto de la vida carnal es la corrupción. *Porque el que siembra para su carne, __<u>de</u>__ la carne segará corrupción*\... Gálatas 5:19-21, Juan 6:63
 
-#### Es bueno recordar que la __<u>carne</u>__ es religiosa y rebelde. Los fariseos eran muy religiosos, y sus actividades religiosas provenían de su naturaleza carnal.
+#### a. Es bueno recordar que la __<u>carne</u>__ es religiosa y rebelde. Los fariseos eran muy religiosos, y sus actividades religiosas provenían de su naturaleza carnal.
 
-##### Si siembras para el lado __<u>moral</u>__ y religioso de la carne, cosechas corrupción. Lucas 11:39, Romanos 8:12-13
+##### 1) Si siembras para el lado __<u>moral</u>__ y religioso de la carne, cosechas corrupción. Lucas 11:39, Romanos 8:12-13
 
-##### Si siembras para el lado __<u>inmoral</u>__ y pecaminoso de la carne, cosechas corrupción. 1 Corintios 9:24-27, 1 Timoteo 1:18-20
+##### 2) Si siembras para el lado __<u>inmoral</u>__ y pecaminoso de la carne, cosechas corrupción. 1 Corintios 9:24-27, 1 Timoteo 1:18-20
 
-#### Pero mayor que cualquiera de esas dos opciones carnales es la capacidad de sembrar para el Espíritu. Siembras para el Espíritu a medida que vives por medio del Espíritu. Si siembras para el Espíritu, vivirás la vida eterna que ya __<u>tienes</u>__ en Cristo. Romanos 6:23b
+#### b. Pero mayor que cualquiera de esas dos opciones carnales es la capacidad de sembrar para el Espíritu. Siembras para el Espíritu a medida que vives por medio del Espíritu. Si siembras para el Espíritu, vivirás la vida eterna que ya __<u>tienes</u>__ en Cristo. Romanos 6:23b
 
-### Gálatas 6:8b -- El producto de vivir por el Espíritu es vida __<u>verdadera</u>__. "...*mas el que siembra para el Espíritu, del Espíritu segará vida eterna".* Gálatas 5:22-23, Juan 17:3
+### 6. Gálatas 6:8b -- El producto de vivir por el Espíritu es vida __<u>verdadera</u>__. "...*mas el que siembra para el Espíritu, del Espíritu segará vida eterna".* Gálatas 5:22-23, Juan 17:3
 
-## F. Gálatas 6:9-10 -- En conclusión a este tema, Pablo alienta a sus lectores a <u>nunca</u> desanimarse en hacer el bien. 1 Corintios 15:58, Filipenses 1:20
+## G. Gálatas 6:9-10 -- En conclusión a este tema, Pablo alienta a sus lectores a <u>nunca</u> desanimarse en hacer el bien. 1 Corintios 15:58, Filipenses 1:20
 
-### Gálatas 6:9 -- Vale la pena caminar por medio del Espíritu Santo "\...*porque a su tiempo segaremos, si no __<u>desmayamos</u>__".* 1 Corintios 15:58
+### 1. Gálatas 6:9 -- Vale la pena caminar por medio del Espíritu Santo "\...*porque a su tiempo segaremos, si no __<u>desmayamos</u>__".* 1 Corintios 15:58
 
-### Gálatas 6:10a -- "*Así que, según tengamos oportunidad\...".* Pablo alentó a sus lectores gálatas a actuar __<u>ahora</u>__ y aprovechar las oportunidades mientras se les presentaran. 
+### 2. Gálatas 6:10a -- "*Así que, según tengamos oportunidad\...".* Pablo alentó a sus lectores gálatas a actuar __<u>ahora</u>__ y aprovechar las oportunidades mientras se les presentaran. 
 
-### Gálatas 6:10b -- "...*hagamos bien a todos\..."* Hacer el __<u>bien</u>__ a todos se refiere a hacer buenas obras de todo tipo para todos sin prejuicios ni limitaciones. Si podemos ayudar a aquellos alrededor nuestro, hagámoslo. Efesios 2:10, Tito 3:8
+### 3. Gálatas 6:10b -- "...*hagamos bien a todos\..."* Hacer el __<u>bien</u>__ a todos se refiere a hacer buenas obras de todo tipo para todos sin prejuicios ni limitaciones. Si podemos ayudar a aquellos alrededor nuestro, hagámoslo. Efesios 2:10, Tito 3:8
 
-### Gálatas 6:10c -- "...*hagamos bien\... mayormente a los de la familia de la __<u>fe</u>__".* Como creyentes, nuestra primera prioridad y responsabilidad es satisfacer las necesidades de los creyentes que sufren antes de ministrar a las necesidades de los no salvos. Gálatas 2:10
+### 4. Gálatas 6:10c -- "...*hagamos bien\... mayormente a los de la familia de la __<u>fe</u>__".* Como creyentes, nuestra primera prioridad y responsabilidad es satisfacer las necesidades de los creyentes que sufren antes de ministrar a las necesidades de los no salvos. Gálatas 2:10
 
-#### Las iglesias de hoy a menudo cometen el error de centrarse en ayudar a los pobres de este mundo en lugar de centrar nuestra asistencia en ayudar en primer lugar a los santos (cristianos) __<u>pobres</u>__ de todo el mundo. Romanos 15:26
+#### a. Las iglesias de hoy a menudo cometen el error de centrarse en ayudar a los pobres de este mundo en lugar de centrar nuestra asistencia en ayudar en primer lugar a los santos (cristianos) __<u>pobres</u>__ de todo el mundo. Romanos 15:26
 
-#### Debemos recordar que nunca __<u>acabaremos</u>__ con la pobreza en el mundo. Eliminar la pobreza no es la razón por la cual la iglesia existe ni es nuestra primera prioridad. Deuteronomio 15:11, Juan 12:8
+#### b. Debemos recordar que nunca __<u>acabaremos</u>__ con la pobreza en el mundo. Eliminar la pobreza no es la razón por la cual la iglesia existe ni es nuestra primera prioridad. Deuteronomio 15:11, Juan 12:8
 
-#### Hacer discípulos de todas las naciones es nuestra ***primera prioridad*** y también es la mejor manera de aliviar los males sociales de cualquier comunidad. La __<u>mayor</u>__ __<u>parte</u>__ de nuestras finanzas debería ser utilizada para cumplir con la Gran Comisión y no en asuntos secundarios relacionados con la llamada justicia social. Mateo 28:19-20, 2 Timoteo 2:2
+#### c. Hacer discípulos de todas las naciones es nuestra ***primera prioridad*** y también es la mejor manera de aliviar los males sociales de cualquier comunidad. La __<u>mayor</u>__ __<u>parte</u>__ de nuestras finanzas debería ser utilizada para cumplir con la Gran Comisión y no en asuntos secundarios relacionados con la llamada justicia social. Mateo 28:19-20, 2 Timoteo 2:2
 
 <!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/chainlink.jpeg" data-background-size="cover"  data-menu-title="XVII. Gálatas 6:11-18 -- Las Declaraciones Finales del Apóstol Pablo" data-background-color="black" data-background-opacity="0.5" data-transition="zoom" -->
 # XVII. Gálatas 6:11-18 -- Las Declaraciones Finales del Apóstol Pablo
@@ -3206,97 +3207,97 @@ El legalismo le quita el foco de Cristo y lo pone en el hombre y en sus esfuerzo
 
 ## A. Gálatas 6:11 -- El apóstol Pablo ahora agregó un toque especial a la carta al utilizar su propia <u>mano</u> para agregar una nota.
 
-### Gálatas 6:11 -- "*Mirad con cuán grandes letras os escribo de mi __<u>propia</u>__ mano".* En un esfuerzo por expresar su especial preocupación y agregar su toque personal habitual, les dice lo que puede que no perciban por sí mismos: que él añadió a la epístola utilizando su propia mano, escribiendo con letras grandes. 2 Tesalonicenses 2:15
+### 1. Gálatas 6:11 -- "*Mirad con cuán grandes letras os escribo de mi __<u>propia</u>__ mano".* En un esfuerzo por expresar su especial preocupación y agregar su toque personal habitual, les dice lo que puede que no perciban por sí mismos: que él añadió a la epístola utilizando su propia mano, escribiendo con letras grandes. 2 Tesalonicenses 2:15
 
-#### Se especula mucho que tal vez escribió con letras grandes debido a problemas con su vista, pero esto no es algo que pueda probarse y, por lo tanto, no debería enseñarse como un __<u>hecho</u>__.
+#### a. Se especula mucho que tal vez escribió con letras grandes debido a problemas con su vista, pero esto no es algo que pueda probarse y, por lo tanto, no debería enseñarse como un __<u>hecho</u>__.
 
-#### 2 Tesalonicenses 3:17 -- Agregar una adición con su propia letra fue la forma de Pablo de validar y autenticar que la carta realmente __<u>provenía</u>__ de él. Compare: Colosenses 4:18, 1 Corintios 16:21, Filemón 1:19
+#### b. 2 Tesalonicenses 3:17 -- Agregar una adición con su propia letra fue la forma de Pablo de validar y autenticar que la carta realmente __<u>provenía</u>__ de él. Compare: Colosenses 4:18, 1 Corintios 16:21, Filemón 1:19
 
-#### 2 Tesalonicenses 2:2-3 -- Aparentemente, se habían enviado falsificaciones en nombre de Pablo que habían sido utilizadas para __<u>engañar</u>__ al pueblo de Dios.
+#### c. 2 Tesalonicenses 2:2-3 -- Aparentemente, se habían enviado falsificaciones en nombre de Pablo que habían sido utilizadas para __<u>engañar</u>__ al pueblo de Dios.
 
-#### Por esta razón, hoy en día no debemos ser perturbados cuando un supuesto texto o carta aparece como si hubiera sido escrito por Pablo, __<u>Tomás</u>__ o Judas. 1 Juan 4:1
+#### d. Por esta razón, hoy en día no debemos ser perturbados cuando un supuesto texto o carta aparece como si hubiera sido escrito por Pablo, __<u>Tomás</u>__ o Judas. 1 Juan 4:1
 
 ## B. Gálatas 6:12-13 -- Contrariamente al toque personal y la preocupación de Pablo por los gálatas, cualquier preocupación que los legalistas pudieran haber pintado era <u>falsa</u>.
 
-### Gálatas 6:12a -- "***Todos los que** quieren agradar **en la carne\...". ***Un legalista busca impresionar a los __<u>hombres</u>__ en lugar de a Dios.
+### 1. Gálatas 6:12a -- "***Todos los que** quieren agradar **en la carne\...". ***Un legalista busca impresionar a los __<u>hombres</u>__ en lugar de a Dios.
 
-### Gálatas 6:12b -- "*Todos los que quieren **agradar en la carne**\...".* Poner énfasis en lo externo es una __<u>señal</u>__ contundente del legalista.
+### 2. Gálatas 6:12b -- "*Todos los que quieren **agradar en la carne**\...".* Poner énfasis en lo externo es una __<u>señal</u>__ contundente del legalista.
 
-### Gálatas 6:12c -- "...éstos ***os obligan** a que os circuncidéis\...".* Un legalista pone presión constante sobre las personas para que se ajusten y __<u>sometan</u>__ a rituales.
+### 3. Gálatas 6:12c -- "...éstos ***os obligan** a que os circuncidéis\...".* Un legalista pone presión constante sobre las personas para que se ajusten y __<u>sometan</u>__ a rituales.
 
-#### El legalista intenta tomar el lugar del Espíritu Santo en la vida de una persona. El Espíritu Santo es el único que puede __<u>cambiar</u>__ a las personas.
+#### a. El legalista intenta tomar el lugar del Espíritu Santo en la vida de una persona. El Espíritu Santo es el único que puede __<u>cambiar</u>__ a las personas.
 
-#### El legalismo __<u>obliga</u>__ a las personas a adecuarse. El legalista presiona a las personas para que cumplan con estándares o requisitos externos.
+#### b. El legalismo __<u>obliga</u>__ a las personas a adecuarse. El legalista presiona a las personas para que cumplan con estándares o requisitos externos.
 
-### Gálatas 6:12d -- "...*solamente para **no padecer persecución**\...".* El legalista sabe que el legalismo esquiva la persecución. Nadie persigue a un legalista, pero si crees en la __<u>gracia</u>__ tanto para la salvación como para la santificación, podrías ser perseguido sin piedad por los legalistas no salvos y los cristianos legalistas. Gálatas 4:29, 5:11
+### 4. Gálatas 6:12d -- "...*solamente para **no padecer persecución**\...".* El legalista sabe que el legalismo esquiva la persecución. Nadie persigue a un legalista, pero si crees en la __<u>gracia</u>__ tanto para la salvación como para la santificación, podrías ser perseguido sin piedad por los legalistas no salvos y los cristianos legalistas. Gálatas 4:29, 5:11
 
-### Gálatas 6:12e -- "...*para no padecer persecución a causa de la **cruz de Cristo***". El legalista es el __<u>enemigo</u>__ número uno de la enseñanza que dice que la cruz es la respuesta de Dios para los no salvos y es absolutamente indispensable para nuestra santificación. 1 Corintios 1:18
+### 5. Gálatas 6:12e -- "...*para no padecer persecución a causa de la **cruz de Cristo***". El legalista es el __<u>enemigo</u>__ número uno de la enseñanza que dice que la cruz es la respuesta de Dios para los no salvos y es absolutamente indispensable para nuestra santificación. 1 Corintios 1:18
 
-#### Romanos capítulos 6-8 enseñan que nuestra identificación con Cristo en Su cruz y el contar por __<u>fe</u>__ en nuestra co-crucifixión es esencial para la vida cristiana victoriosa.
+#### a. Romanos capítulos 6-8 enseñan que nuestra identificación con Cristo en Su cruz y el contar por __<u>fe</u>__ en nuestra co-crucifixión es esencial para la vida cristiana victoriosa.
 
-#### La cruz no es sólo la respuesta de Dios para justificación, sino también Su respuesta para vivir una vida __<u>santa</u>__. Romanos 6:2, 6:6-7, 6:10-13
+#### b. La cruz no es sólo la respuesta de Dios para justificación, sino también Su respuesta para vivir una vida __<u>santa</u>__. Romanos 6:2, 6:6-7, 6:10-13
 
-#### Pablo ya ha expresado claramente en Gálatas 2:20 y 5:24 que la cruz es absolutamente __<u>vital</u>__ para nuestra santificación. 
+#### c. Pablo ya ha expresado claramente en Gálatas 2:20 y 5:24 que la cruz es absolutamente __<u>vital</u>__ para nuestra santificación. 
 
-#### El legalismo se opone a esta enseñanza de la cruz, ya que la __<u>cruz</u>__ rechaza la auto dependencia diciendo que el esfuerzo humano no es la respuesta a nuestra santidad personal. Gálatas 3:3, Hechos 15:8‑11
+#### d. El legalismo se opone a esta enseñanza de la cruz, ya que la __<u>cruz</u>__ rechaza la auto dependencia diciendo que el esfuerzo humano no es la respuesta a nuestra santidad personal. Gálatas 3:3, Hechos 15:8‑11
 
-### Gálatas 6:13a -- "*Porque **ni** aun los mismos que se circuncidan **guardan la ley**\...".* Un legalista nunca es consistente. Pablo los acusa de tener una doble moral. Ni siquiera __<u>guardan</u>__ las reglas que hacen. Romanos 2:21-24
+### 6. Gálatas 6:13a -- "*Porque **ni** aun los mismos que se circuncidan **guardan la ley**\...".* Un legalista nunca es consistente. Pablo los acusa de tener una doble moral. Ni siquiera __<u>guardan</u>__ las reglas que hacen. Romanos 2:21-24
 
-### Gálatas 6:13b -- "...*pero **quieren que vosotros** os circuncidéis\...".* Un legalista nunca se __<u>contenta</u>__ con obedecer las leyes hechas por el hombre. Él tiene que hacerte ajustar a ellas también.
+### 7. Gálatas 6:13b -- "...*pero **quieren que vosotros** os circuncidéis\...".* Un legalista nunca se __<u>contenta</u>__ con obedecer las leyes hechas por el hombre. Él tiene que hacerte ajustar a ellas también.
 
-### Gálatas 6:13c -- "...*para **gloriarse**\...".* El legalista se gloría en los __<u>números</u>__ y el desempeño carnal.
+### 8. Gálatas 6:13c -- "...*para **gloriarse**\...".* El legalista se gloría en los __<u>números</u>__ y el desempeño carnal.
 
-### Gálatas 6:13d -- "...*.para gloriarse **en vuestra carne**".* El legalista se gloría en __<u>tu</u>__ carne.
+### 9. Gálatas 6:13d -- "...*.para gloriarse **en vuestra carne**".* El legalista se gloría en __<u>tu</u>__ carne.
 
-#### Si conquistan a un creyente y lo hacen convertir, se __<u>complacen</u>__.
+#### a. Si conquistan a un creyente y lo hacen convertir, se __<u>complacen</u>__.
 
-#### Filipenses 3:3 -- El Apóstol Pablo quería ***ser hallado*** en el Señor sin tener su propia justicia sino la justicia que viene por la __<u>fe</u>__ sin la Ley.
+#### b. Filipenses 3:3 -- El Apóstol Pablo quería ***ser hallado*** en el Señor sin tener su propia justicia sino la justicia que viene por la __<u>fe</u>__ sin la Ley.
 
 ## C. Gálatas 6:14-16 -- A continuación, las declaraciones de Pablo mostraron la superioridad de la <u>gracia</u> como se ve a través de la cruz de nuestro Señor Jesucristo.
 
-### Gálatas 6:14a -- "*Pero lejos esté de mí gloriarme, sino en la cruz de nuestro Señor Jesucristo\...".* Mientras el legalista se gloría en la carne, los que viven por gracia se jactan sólo en la __<u>cruz</u>__ de nuestro Señor Jesús Cristo. 1 Corintios 2:2, Gálatas 3:1
+### 1. Gálatas 6:14a -- "*Pero lejos esté de mí gloriarme, sino en la cruz de nuestro Señor Jesucristo\...".* Mientras el legalista se gloría en la carne, los que viven por gracia se jactan sólo en la __<u>cruz</u>__ de nuestro Señor Jesús Cristo. 1 Corintios 2:2, Gálatas 3:1
 
-#### Pablo está diciendo que para él, la idea de jactarse de cualquier otra cosa que no sea la cruz de Cristo era una __<u>indignación</u>__.
+#### a. Pablo está diciendo que para él, la idea de jactarse de cualquier otra cosa que no sea la cruz de Cristo era una __<u>indignación</u>__.
 
-#### Esta declaración está en marcado contraste con los legalistas que se jactaban en la __<u>carne</u>__ por la circuncisión de gentiles conversos.
+#### b. Esta declaración está en marcado contraste con los legalistas que se jactaban en la __<u>carne</u>__ por la circuncisión de gentiles conversos.
 
-### Gálatas 6:14b -- "...*la cruz \...por quien el mundo me es crucificado a mí, y yo al mundo".* En contraste con la espiritualidad falsa hallada en el vivir basado en el esfuerzo propio del legalismo, Pablo destacó el desinterés producido por la cruz y su __<u>victoria</u>__ consumada sobre el mundo.
+### 2. Gálatas 6:14b -- "...*la cruz \...por quien el mundo me es crucificado a mí, y yo al mundo".* En contraste con la espiritualidad falsa hallada en el vivir basado en el esfuerzo propio del legalismo, Pablo destacó el desinterés producido por la cruz y su __<u>victoria</u>__ consumada sobre el mundo.
 
-#### La __<u>gracia</u>__ ve la cruz como la verdadera solución para la vida cristiana victoriosa.
+#### a. La __<u>gracia</u>__ ve la cruz como la verdadera solución para la vida cristiana victoriosa.
 
-##### Dado que morimos con Cristo en Su única muerte en la cruz, también consideramos un __<u>hecho</u>__ que morimos con Él al pecado. Romanos 6:2
+##### 1) Dado que morimos con Cristo en Su única muerte en la cruz, también consideramos un __<u>hecho</u>__ que morimos con Él al pecado. Romanos 6:2
 
-##### Por lo tanto, la cruz tiene ahora un significado indescriptible para nosotros. Para acceder al poder de la cruz, por fe debemos __<u>considerarnos</u>__ muertos con Cristo y resucitados juntamente con Él. Romanos 6:10-11 Gálatas 2:20, Colosenses 3:1-4
+##### 2) Por lo tanto, la cruz tiene ahora un significado indescriptible para nosotros. Para acceder al poder de la cruz, por fe debemos __<u>considerarnos</u>__ muertos con Cristo y resucitados juntamente con Él. Romanos 6:10-11 Gálatas 2:20, Colosenses 3:1-4
 
-#### Gálatas 6:14 -- Para no disminuir las otras bendiciones que vienen a través de la cruz Pablo aquí se centró en la cruz como la solución de Dios para el mundo y su __<u>encanto</u>__.
+#### b. Gálatas 6:14 -- Para no disminuir las otras bendiciones que vienen a través de la cruz Pablo aquí se centró en la cruz como la solución de Dios para el mundo y su __<u>encanto</u>__.
 
-##### Santiago 4:4 -- Debido a que la amistad con el mundo te convierte en enemigo de Dios, la liberación encontrada en la cruz con relación al mundo es __<u>vital</u>__.
+##### 1) Santiago 4:4 -- Debido a que la amistad con el mundo te convierte en enemigo de Dios, la liberación encontrada en la cruz con relación al mundo es __<u>vital</u>__.
 
-##### 1 Juan 2:16 -- El mundo se describe como el proveedor de lujurias de básicamente todo tipo o descripción. Estos males no provienen del __<u>Padre</u>__ sino del mundo.
+##### 2) 1 Juan 2:16 -- El mundo se describe como el proveedor de lujurias de básicamente todo tipo o descripción. Estos males no provienen del __<u>Padre</u>__ sino del mundo.
 
-### Gálatas 6:15 -- "*Porque en Cristo Jesús ni la circuncisión vale nada, ni la incircuncisión, sino una nueva creación".* La gracia no coloca valor en ningún ritual religioso, sino que considera la regeneración como invaluable. Nacer de nuevo tiene valor, pero ser circuncidado no hace nada por ti. Del mismo modo, otros __<u>rituales</u>__ no salvan a nadie. Romanos 2:29
+### 3. Gálatas 6:15 -- "*Porque en Cristo Jesús ni la circuncisión vale nada, ni la incircuncisión, sino una nueva creación".* La gracia no coloca valor en ningún ritual religioso, sino que considera la regeneración como invaluable. Nacer de nuevo tiene valor, pero ser circuncidado no hace nada por ti. Del mismo modo, otros __<u>rituales</u>__ no salvan a nadie. Romanos 2:29
 
-### Gálatas 6:16 -- En contraste con el legalismo, en nuestra identidad con Cristo en la cruz, la gracia ahora trae verdadera __<u>victoria</u>__ sobre este mundo.
+### 4. Gálatas 6:16 -- En contraste con el legalismo, en nuestra identidad con Cristo en la cruz, la gracia ahora trae verdadera __<u>victoria</u>__ sobre este mundo.
 
-#### Gálatas 6:16a -- "*Y a todos los que __<u>anden</u>__ **conforme a esta regla**\...".* En lugar de reglas y regulaciones, Pablo quería que los cristianos siguieran el principio (singular) de una nueva vida como se ve en el versículo 15.
+#### a. Gálatas 6:16a -- "*Y a todos los que __<u>anden</u>__ **conforme a esta regla**\...".* En lugar de reglas y regulaciones, Pablo quería que los cristianos siguieran el principio (singular) de una nueva vida como se ve en el versículo 15.
 
-##### El principio de la gracia del versículo 15 es que ni la circuncisión ni la incircuncisión realmente importan ante Dios. Lo que importa es que has nacido __<u>de</u>__ __<u>nuevo</u>__.
+##### 1) El principio de la gracia del versículo 15 es que ni la circuncisión ni la incircuncisión realmente importan ante Dios. Lo que importa es que has nacido __<u>de</u>__ __<u>nuevo</u>__.
 
-##### Pablo estaba interesado en que los gálatas andaran por los principios (__<u>regla</u>__) de nuestra nueva vida en Cristo y no en los cambios superficiales o externos hechos por manos humanas.
+##### 2) Pablo estaba interesado en que los gálatas andaran por los principios (__<u>regla</u>__) de nuestra nueva vida en Cristo y no en los cambios superficiales o externos hechos por manos humanas.
 
-##### Para los legalistas, los __<u>rituales</u>__ religiosos significan todo, como la circuncisión, los ritos \"sagrados\", las obligaciones, las ceremonias, las confesiones, los catecismos, los lavamientos y los bautismos, etc. Pero para el Señor nacer de nuevo lo significa todo. Juan 3:3
+##### 3) Para los legalistas, los __<u>rituales</u>__ religiosos significan todo, como la circuncisión, los ritos \"sagrados\", las obligaciones, las ceremonias, las confesiones, los catecismos, los lavamientos y los bautismos, etc. Pero para el Señor nacer de nuevo lo significa todo. Juan 3:3
 
-#### Gálatas 6:16b -- "*Y a todos los que anden conforme a esta regla, **paz y misericordia sea a ellos**\...".* Él deseó las bendiciones de paz y misericordia sobre cualquier creyente que viviera por la regla de la gracia de saber que los rituales (legalismo) no son nada sino que lo que realmente importa es nuestra __<u>nueva</u>__ vida en Cristo.
+#### b. Gálatas 6:16b -- "*Y a todos los que anden conforme a esta regla, **paz y misericordia sea a ellos**\...".* Él deseó las bendiciones de paz y misericordia sobre cualquier creyente que viviera por la regla de la gracia de saber que los rituales (legalismo) no son nada sino que lo que realmente importa es nuestra __<u>nueva</u>__ vida en Cristo.
 
-#### Gálatas 6:16c -- "*Y a todos los que anden conforme a esta regla, paz y misericordia sea a ellos, y al __<u>Israel</u>__ de Dios".* La frase ***al Israel de Dios*** se refiere al remanente del Israel creyente.
+#### c. Gálatas 6:16c -- "*Y a todos los que anden conforme a esta regla, paz y misericordia sea a ellos, y al __<u>Israel</u>__ de Dios".* La frase ***al Israel de Dios*** se refiere al remanente del Israel creyente.
 
-##### Cuando dice ***al Israel de Dios***, se estaba refiriendo específicamente al Israel __<u>salvo</u>__ y no a Israel en un sentido general. Romanos 11:4-6
+##### 1) Cuando dice ***al Israel de Dios***, se estaba refiriendo específicamente al Israel __<u>salvo</u>__ y no a Israel en un sentido general. Romanos 11:4-6
 
-##### ¿Por qué distinguiría a Israel y desearía las __<u>bendiciones</u>__ de Dios sobre ellos?
+##### 2) ¿Por qué distinguiría a Israel y desearía las __<u>bendiciones</u>__ de Dios sobre ellos?
 
-###### Esto puede deberse a que su declaración del versículo 15 de que *ni la circuncisión vale nada, ni la incircuncisión* pudo __<u>sonar</u>__ como si fuera antisemita.
+###### a) Esto puede deberse a que su declaración del versículo 15 de que *ni la circuncisión vale nada, ni la incircuncisión* pudo __<u>sonar</u>__ como si fuera antisemita.
 
-###### Esa declaración no fue en oposición a __<u>Israel</u>__, sino que mostró que los rituales religiosos no hacen ninguna diferencia y que sólo un nuevo nacimiento espiritual importa ante Dios. 
+###### b) Esa declaración no fue en oposición a __<u>Israel</u>__, sino que mostró que los rituales religiosos no hacen ninguna diferencia y que sólo un nuevo nacimiento espiritual importa ante Dios. 
 
 ## D. Gálatas 6:17-18 -- Pablo da una conclusión muy llamativa a su epístola.
 
