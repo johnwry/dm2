@@ -2787,13 +2787,13 @@ El legalismo le quita el foco de Cristo y lo pone en el hombre y en sus esfuerzo
 
 ##### 4) Dios quiere que avancemos en la vida (andemos) dependiendo del Espíritu Santo como la única fuente de __<u>poder</u>__ para vivir la vida. Romanos 15:13, 1 Corintios 2:4, 2 Corintios 3:4-6
 
-### 2. Gálatas 5:16b -- Dios promete que si andamos en el Espíritu, no satisfaremos los __<u>apetitos</u>__ de la carne. "...*Andad en el Espíritu, y no satisfagáis* \[*no cumpliréis --* LBLA\] *los deseos de la carne".*
+### 2. Gálatas 5:16b -- Dios promete que si andamos en el Espíritu, no satisfaremos los __<u>apetitos</u>__ de la carne. "*...Andad en el Espíritu, y no satisfagáis* [*no cumpliréis* -- LBLA] *los deseos de la carne*".
 
 #### a. El término *carne* SARX aparece más de 90 veces en las epístolas de Pablo y puede referirse a varias cosas, incluyendo el cuerpo físico (1 Corintios 15:39), la humanidad en general (Gálatas 1:16) o la __<u>naturaleza</u>__ pecaminosa depravada heredada de Adán. Romanos 8:12
 
 #### b. La palabra *deseos* EPITHUMIA significa un fuerte __<u>deseo</u>__ y puede tener una buena o mala connotación dependiendo del contexto. Filipenses 1:23, 1 Tesalonicenses 2:17
 
-#### c. La palabra *no* OU ME es un doble negativo que significa \"no, __<u>nunca</u>__\", haciendo de este versículo una promesa enfática. "*Digo, pues: Andad en el Espíritu, y **no satisfagáis *** [*no cumpliréis --* LBLA\] *los deseos de la carne*".
+#### c. La palabra *no*  OU ME es un doble negativo que significa "no, __<u>nunca</u>__", haciendo de este versículo una promesa enfática. "*Digo, pues: Andad en el Espíritu, y __no satisfagáis__* [*no cumpliréis* -- LBLA] *los deseos de la carne*".
 
 ## B. Gálatas 5:17 -- Comprendamos el conflicto que puede impedir nuestro <u>andar</u> en el Espíritu.
 
