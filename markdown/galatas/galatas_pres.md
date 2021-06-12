@@ -2407,9 +2407,9 @@ El legalismo le quita el foco de Cristo y lo pone en el hombre y en sus esfuerzo
 
 #### a. Gálatas 4:21a -- "*Decidme, los que queréis estar bajo la ley\...".* Los gálatas habían sido engañados al creer que para calificar a ser descendientes espirituales de Abraham (hijos de la promesa), tenían que vivir __<u>bajo</u>__ la ley. 
 
-#### b. Gálatas 4:21b -- *"...¿no **habéis** oído la ley?*" Pablo usó sabiamente los escritos de Moisés en el Antiguo Testamento para iluminar cómo realmente **participar** **en la promesa**, lo cual era lo opuesto a vivir según las __<u>leyes</u>__.
+#### b. Gálatas 4:21b -- "*...¿no **habéis** oído la ley?*" Pablo usó sabiamente los escritos de Moisés en el Antiguo Testamento para iluminar cómo realmente **participar en la promesa**, lo cual era lo opuesto a vivir según las __<u>leyes</u>__.
 
-#### c. Gálatas 4:21c -- "...*¿no habéis **oído** la ley?"* La verdad es que los legalistas se aferran ignorantemente a la __<u>Ley</u>__ sin comprender realmente lo que dice la Ley. Gálatas 3:10, 1 Timoteo 1:7
+#### c. Gálatas 4:21c -- "*...¿no habéis **oído** la ley?*" La verdad es que los legalistas se aferran ignorantemente a la __<u>Ley</u>__ sin comprender realmente lo que dice la Ley. Gálatas 3:10, 1 Timoteo 1:7
 
 ### 2. Gálatas 4:22-23 -- Pablo revisó algunas facetas importantes de la historia de __<u>Sara</u>__ e Isaac versus Agar e Ismael.
 
@@ -2507,7 +2507,7 @@ El legalismo le quita el foco de Cristo y lo pone en el hombre y en sus esfuerzo
 
 ##### 1) Gálatas 4:23a -- "*Pero el de la esclava nació **según la carne**\...".* Esto establece que Abraham y Sara se __<u>equivocaron</u>__ al usar el esfuerzo humano.
 
-##### 2) Gálatas 4:23b -- "...*mas el de la libre, **por la promesa"**.* Esta es prueba de que el hijo nacido de la mujer libre fue resultado de la __<u>promesa</u>__ de Dios y no tuvo nada que ver con los esfuerzos humanos.
+##### 2) Gálatas 4:23b -- "*...mas el de la libre, **por la promesa***". Esta es prueba de que el hijo nacido de la mujer libre fue resultado de la __<u>promesa</u>__ de Dios y no tuvo nada que ver con los esfuerzos humanos.
 
 ##### 3) Gálatas 4:24a -- Pablo estableció el hecho de que Abraham cometió un error al engendrar un hijo con la esclava. Su hijo con Agar era tratado como __<u>esclavo</u>__, no como hijo. Este hijo no se convirtió en heredero según la promesa. Génesis 21:10-12
 
@@ -2749,7 +2749,7 @@ El legalismo le quita el foco de Cristo y lo pone en el hombre y en sus esfuerzo
 
 ### 4. Gálatas 5:14 -- Tu libertad en Cristo debe ser ejercitada a través del __<u>amor</u>__.
 
-#### a. *"Porque toda la ley en esta sola palabra se cumple: Amarás a tu prójimo como a ti mismo".* El __<u>propósito</u>__ predominante de la Ley era amar.
+#### a. "*Porque toda la ley en esta sola palabra se cumple: Amarás a tu prójimo como a ti mismo*". El __<u>propósito</u>__ predominante de la Ley era amar.
 
 #### b. Levítico 19:18 -- El amor __<u>cumple</u>__ con las exigencias de la Ley. Esto significa que las exigencias justas de la Ley se cumplen cuando nos amamos los unos a los otros. Este no es un concepto novedoso puesto que ya fue manifestado en las escrituras del Antiguo Testamento.
 
@@ -2759,7 +2759,7 @@ El legalismo le quita el foco de Cristo y lo pone en el hombre y en sus esfuerzo
 
 ### 5. Gálatas 5:15 -- Este versículo describe el resultado de vivir por la __<u>carne</u>__. Siempre conduce a la corrupción.
 
-#### a. *"Pero si os mordéis y os __<u>coméis</u>__ unos a otros\...".* La palabra \"*si*\" aquí es una condición de primera clase en griego, lo cual da la impresión de que esto probablemente era una realidad. Probablemente se estaban destruyendo entre sí por sus disputas.
+#### a. "*Pero si os mordéis y os __<u>coméis</u>__ unos a otros...*". La palabra \"*si*\" aquí es una condición de primera clase en griego, lo cual da la impresión de que esto probablemente era una realidad. Probablemente se estaban destruyendo entre sí por sus disputas.
 
 #### b. Los resultados del legalismo o la licencia son que los cristianos se __<u>devoran</u>__ mutuamente a través de disputas. Claramente estos excesos son lo opuesto al amor. Filipenses 2:14-16
 
@@ -2767,7 +2767,7 @@ El legalismo le quita el foco de Cristo y lo pone en el hombre y en sus esfuerzo
 # XV. Gálatas 5:16-26 -- Andando en el Espíritu
 <!-- .element: style="color:white;" -->
 
-## A. Gálatas 5:16 -- Contemplemos el mandato vital de la vida cristiana: *<u>Andad</u>en el Espíritu*.
+## A. Gálatas 5:16 -- Contemplemos el mandato vital de la vida cristiana: *<u>Andad</u> en el Espíritu.*
 
 ### 1. Gálatas 5:16a -- Después de haber demostrado que ni el legalismo ni el libertinaje son correctos para un cristiano, Pablo ordenó a los creyentes de galacia andar en el Espíritu como un __<u>precepto</u>__ general para vivir.
 
@@ -2793,7 +2793,7 @@ El legalismo le quita el foco de Cristo y lo pone en el hombre y en sus esfuerzo
 
 #### b. La palabra *deseos* EPITHUMIA significa un fuerte __<u>deseo</u>__ y puede tener una buena o mala connotación dependiendo del contexto. Filipenses 1:23, 1 Tesalonicenses 2:17
 
-#### c. La palabra *no* OU ME es un doble negativo que significa \"no, __<u>nunca</u>__\", haciendo de este versículo una promesa enfática. "*Digo, pues: Andad en el Espíritu, y **no satisfagáis ***\[*no cumpliréis --* LBLA\] *los deseos de la carne".*
+#### c. La palabra *no* OU ME es un doble negativo que significa \"no, __<u>nunca</u>__\", haciendo de este versículo una promesa enfática. "*Digo, pues: Andad en el Espíritu, y **no satisfagáis *** [*no cumpliréis --* LBLA\] *los deseos de la carne*".
 
 ## B. Gálatas 5:17 -- Comprendamos el conflicto que puede impedir nuestro <u>andar</u> en el Espíritu.
 
@@ -3301,36 +3301,36 @@ El legalismo le quita el foco de Cristo y lo pone en el hombre y en sus esfuerzo
 
 ## D. Gálatas 6:17-18 -- Pablo da una conclusión muy llamativa a su epístola.
 
-### Gálatas 6:17a -- "*De aquí en adelante nadie me __<u>cause</u>__ molestias\...".* La última petición de Pablo fue que nadie le causara más problema*s*.
+### 1. Gálatas 6:17a -- "*De aquí en adelante nadie me __<u>cause</u>__ molestias\...".* La última petición de Pablo fue que nadie le causara más problema*s*.
 
-#### La frase *de aquí en adelante* TOU LOIPOU en griego connota una __<u>fuerte</u>__ finalidad.
+#### a. La frase *de aquí en adelante* TOU LOIPOU en griego connota una __<u>fuerte</u>__ finalidad.
 
-#### La siguiente frase *nadie me cause molestias* es igualmente concisa y podría decirse no dejen que nadie me cause más __<u>problemas</u>__ (molestias). Gálatas 5:11-12
+#### b. La siguiente frase *nadie me cause molestias* es igualmente concisa y podría decirse no dejen que nadie me cause más __<u>problemas</u>__ (molestias). Gálatas 5:11-12
 
-### Gálatas 6:17b -- "... *porque yo traigo en mi cuerpo las marcas del Señor __<u>Jesús</u>__".* 2 Corintios 1:5
+### 2. Gálatas 6:17b -- "... *porque yo traigo en mi cuerpo las marcas del Señor __<u>Jesús</u>__".* 2 Corintios 1:5
 
-#### Mientras los legalistas estaban por ahí enfatizando una __<u>marca</u>__ en el cuerpo a través de la circuncisión, Pablo enfatizó el hecho de que su cuerpo estaba lleno de cicatrices que le marcaban como propiedad de Cristo. 2 Corintios 4:10
+#### a. Mientras los legalistas estaban por ahí enfatizando una __<u>marca</u>__ en el cuerpo a través de la circuncisión, Pablo enfatizó el hecho de que su cuerpo estaba lleno de cicatrices que le marcaban como propiedad de Cristo. 2 Corintios 4:10
 
-#### Si se preocupaban por las marcas, podían visitar a Pablo y pedir ver sus __<u>cicatrices</u>__ de las persecuciones que sufrió por amor al Evangelio de la gracia. 2 Corintios 11:22-29
+#### b. Si se preocupaban por las marcas, podían visitar a Pablo y pedir ver sus __<u>cicatrices</u>__ de las persecuciones que sufrió por amor al Evangelio de la gracia. 2 Corintios 11:22-29
 
-### Gálatas 6:18 -- "*Hermanos, la* __<u>gracia</u>__ *de nuestro Señor Jesucristo sea con vuestro espíritu. Amén"*. 
+### 3. Gálatas 6:18 -- "*Hermanos, la* __<u>gracia</u>__ *de nuestro Señor Jesucristo sea con vuestro espíritu. Amén"*. 
 
-#### Gálatas 6:18a -- "*Hermanos, la **gracia\...". ***Muchas religiones cristianas enseñan que la gracia se __<u>gana</u>__ de alguna manera por los esfuerzos o es merecida por las acciones meritorias por parte del pecador.
+#### a. Gálatas 6:18a -- "*Hermanos, la **gracia\...". ***Muchas religiones cristianas enseñan que la gracia se __<u>gana</u>__ de alguna manera por los esfuerzos o es merecida por las acciones meritorias por parte del pecador.
 
-##### Esta es __<u>totalmente</u>__ una mala comprensión del significado de la palabra. La gracia es favor dado sin jamás merecerlo, ya sea antes o después de la salvación.
+##### 1) Esta es __<u>totalmente</u>__ una mala comprensión del significado de la palabra. La gracia es favor dado sin jamás merecerlo, ya sea antes o después de la salvación.
 
-##### Pablo deseaba que la gracia o el favor abundaran para __<u>cada</u>__ creyente en Galacia, tal como deberíamos desear la gracia para cada creyente hoy en día.
+##### 2) Pablo deseaba que la gracia o el favor abundaran para __<u>cada</u>__ creyente en Galacia, tal como deberíamos desear la gracia para cada creyente hoy en día.
 
-#### Gálatas 6:18b -- "*Hermanos, la gracia de nuestro Señor Jesucristo\...".* La verdadera gracia viene del Señor Jesucristo como su fuente. Es importante recordar esto y el impulso de Pablo aquí es todavía __<u>sentido</u>__ por todos los que leemos Gálatas.
+#### b. Gálatas 6:18b -- "*Hermanos, la gracia de nuestro Señor Jesucristo\...".* La verdadera gracia viene del Señor Jesucristo como su fuente. Es importante recordar esto y el impulso de Pablo aquí es todavía __<u>sentido</u>__ por todos los que leemos Gálatas.
 
-#### Gálatas 6:18c -- "*Hermanos, la gracia \...sea con vuestro __<u>espíritu</u>__. Amén"*.
+#### c. Gálatas 6:18c -- "*Hermanos, la gracia \...sea con vuestro __<u>espíritu</u>__. Amén"*.
 
-##### *"...la gracia \...sea con\..."* Pablo concluyó su carta a sus hermanos y hermanas en Cristo que estaban en el error tal como la __<u>comenzó</u>__ (Gálatas 1:3) con un recordatorio importante de lo que realmente cuenta: la gracia de Dios. 
+##### 1) *"...la gracia \...sea con\..."* Pablo concluyó su carta a sus hermanos y hermanas en Cristo que estaban en el error tal como la __<u>comenzó</u>__ (Gálatas 1:3) con un recordatorio importante de lo que realmente cuenta: la gracia de Dios. 
 
-##### *"Hermanos \...sea con vuestro __<u>espíritu</u>__\...".* La palabra hermanos ADELPHOI incluida aquí, nos recuerda que Pablo no dudaba de la salvación de ellos.
+##### 2) *"Hermanos \...sea con vuestro __<u>espíritu</u>__\...".* La palabra hermanos ADELPHOI incluida aquí, nos recuerda que Pablo no dudaba de la salvación de ellos.
 
-##### Él deseaba que esta gracia descansara en su __<u>espíritu</u>__ y **no** en sus cuerpos, propiedades, ganado o tierras o incluso en sus cuentas bancarias.
+##### 3) Él deseaba que esta gracia descansara en su __<u>espíritu</u>__ y **no** en sus cuerpos, propiedades, ganado o tierras o incluso en sus cuentas bancarias.
 
-##### 1 Pedro 5:12b -- Pedro lo dijo bien cuando dijo: *\"...esta es la __<u>verdadera</u>__ gracia de Dios, en la cual estáis\".*
+##### 4) 1 Pedro 5:12b -- Pedro lo dijo bien cuando dijo: *\"...esta es la __<u>verdadera</u>__ gracia de Dios, en la cual estáis\".*
 
 <!-- .slide: data-background-iframe="https://quizizz.com/join" id="examen_quiz_" data-menu-title="QUIZ" data-preload -->
