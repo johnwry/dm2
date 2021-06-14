@@ -16,8 +16,15 @@ plugin/
 test/
 jekyll/
 markdown-it/
+1timoteo_client.html
 1timoteo.html
 1timoteo_maestro.html
+1timoteo_orig.html
 index.html
 client.html
-css/theme/source/beige copy.scss
+css/
+gulpfile.js
+galatas_maestro.php
+colossians.html
+package-lock.json
+package.json
