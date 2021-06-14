@@ -2435,7 +2435,7 @@ Hech 8:4  Así que los que habían sido esparcidos iban predicando la palabra.
 <!-- .element: class="fragment" style="color:white;" -->
 #### A mirar adelante con **esperanza** (Tito 2:13)
 <!-- .element: class="fragment" style="color:white;" -->
-#### a regocijarme (Romanos 7:4)
+#### a regocijarme (Hechos 11:23)
 <!-- .element: class="fragment" style="color:white;" -->
 #### A mantenerme sano en mi doctrina (2 Pedro 3:17-18)
 <!-- .element: class="fragment" style="color:white;" -->
