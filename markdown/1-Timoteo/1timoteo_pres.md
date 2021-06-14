@@ -2440,12 +2440,13 @@ Hech 8:4  Así que los que habían sido esparcidos iban predicando la palabra.
 #### A mantenerme sano en mi doctrina (2 Pedro 3:17-18)
 <!-- .element: class="fragment" style="color:white;" -->
 ___
-Tito 2:12  enseñándonos, que negando la impiedad y los deseos mundanos, vivamos en este mundo sobria, justa y piadosamente,
-1Co 1:10  Les ruego, hermanos, por el nombre de nuestro Señor Jesucristo, que todos se pongan de acuerdo, y que no haya divisiones entre ustedes, sino que estén enteramente unidos en un mismo sentir y en un mismo parecer.
-2Co 2:9  Pues también con este fin les escribí, para ponerlos a prueba y ver si son obedientes en todo.
-Rom 5:2  por medio de quien también hemos obtenido entrada por la fe a esta gracia en la cual estamos firmes, y nos gloriamos en la esperanza de la gloria de Dios.
-Tit 2:12  enseñándonos, que negando la impiedad y los deseos mundanos, vivamos en este mundo sobria, justa y piadosamente,
+Tito 2:12  enseñándonos, que negando la impiedad y los deseos mundanos, vivamos en este mundo sobria, justa y piadosamente,</br>
+1Co 1:10  Les ruego, hermanos, por el nombre de nuestro Señor Jesucristo, que todos se pongan de acuerdo, y que no haya divisiones entre ustedes, sino que estén enteramente unidos en un mismo sentir y en un mismo parecer.</br>
+2Co 2:9  Pues también con este fin les escribí, para ponerlos a prueba y ver si son obedientes en todo.</br>
+Rom 5:2  por medio de quien también hemos obtenido entrada por la fe a esta gracia en la cual estamos firmes, y nos gloriamos en la esperanza de la gloria de Dios.</br>
+Tit 2:12  enseñándonos, que negando la impiedad y los deseos mundanos, vivamos en este mundo sobria, justa y piadosamente,</br>
 Tit 2:13  aguardando la esperanza bienaventurada y la manifestación de la gloria de nuestro gran Dios y Salvador Cristo Jesús.
+___
 Rom 7:4  Por tanto, hermanos míos, también a ustedes se les hizo morir a la ley por medio del cuerpo de Cristo, para que sean unidos a otro, a Aquel que resucitó de entre los muertos, a fin de que llevemos fruto para Dios.
 2Pe 3:17  Por tanto, amados, sabiendo esto de antemano, estén en guardia, no sea que arrastrados por el error de hombres libertinos, caigan de su firmeza.
 ___
