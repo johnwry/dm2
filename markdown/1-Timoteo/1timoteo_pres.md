@@ -2413,6 +2413,17 @@ Hech 8:4  Así que los que habían sido esparcidos iban predicando la palabra.
 ###          6.  1 Timoteo 4:9 -- *Palabra fiel es esta, y digna de ser recibida por todos.* Pablo se desvió de su camino para asegurarle a Timoteo que el seguir la piedad en lugar de las cosas de este __<u>mundo</u>__ valía la pena. Timoteo podía enseñar esto a otros sin ninguna reserva. 2 Corintios 4:16-18; Filipenses 3:17-21; 1 Juan 2:16-17
 
 ###          7.  1 Timoteo 4:10a -- *Que por esto mismo trabajamos y sufrimos oprobios*\... Pablo se estaba refiriendo nuevamente a la necesidad de seguir la piedad. Pablo dijo que debemos *trabajar* KOPIAÓ, fatigarnos y *sufrir* AGÓNIZOMAI, lo cual significa participar en una __<u>lucha</u>__ como con un oponente. 1 Timoteo 4:8
+___
+κοπιάω - kopiaō - Definición de Thayer:
+1) cansarse, cansarse, agotarse (con trabajo o cargas o dolor)
+2) trabajar con fatigoso esfuerzo, trabajar duro
+2a) del trabajo corporal
+___
+ἀγωνίζομαι - agōnizomai - Definición de Thayer:
+1) para participar en un concurso: compite en los juegos de gimnasia
+2) luchar con adversarios, luchar
+3) metafóricamente para contender, luchar, con dificultades y peligros
+4) esforzarse con ardoroso celo, esforzarse: obtener algo
 
 ####              a.  En Colosenses 1:29, Pablo dijo: *\"para lo cual también trabajo, luchando según la potencia de Él, la cual actúa poderosamente en mí".* Pablo trabajó duro, pero no en su __<u>propia</u>__ fuerza.
 
@@ -2532,7 +2543,7 @@ ___
 
 #####                  3.  La imposición de manos no es la forma en que Timoteo recibió su don espiritual. La imposición de manos no produjo ni causó de alguna manera su don espiritual. Esto es confirmado por la preposición META traducida *__<u>con</u>__* (\... *con* \[seguido de\] *la imposición de las manos del presbiterio*).
 
-###          7.  **Séptimo Mandato:** 1 Timoteo 4:15a -- *Ocúpate en estas cosas*\... La afirmación *ocúpate en estas cosas* es una orden que significa considerar, concentrarse o reflexionar sobre estas cosas con el propósito de desempeñarse bien. Ocúpate en estas cosas significaba que Timoteo necesitaría ser incansable y tenaz en su dedicación a estos __<u>asuntos</u>__.
+###          7.  **Séptimo Mandato:** 1 Timoteo 4:15a -- *Ocúpate en estas cosas...*  La afirmación *ocúpate en estas cosas* es una orden que significa considerar, concentrarse o reflexionar sobre estas cosas con el propósito de desempeñarse bien. Ocúpate en estas cosas significaba que Timoteo necesitaría ser incansable y tenaz en su dedicación a estos __<u>asuntos</u>__.
 
 ###          8.  **Octavo Mandato:** 1 Timoteo 4:15b -- *...permanece en ellas, para que tu aprovechamiento sea manifiesto a todos.* El mandato aquí para *permanece en ellas*, es literalmente estar en ellas. La idea comunicada es que Timoteo debería estar viviendo y respirando estas cosas. Pablo estaba ultra interesado en que Timoteo estuviera completamente concentrado en cumplir su __<u>llamado</u>__.
 
