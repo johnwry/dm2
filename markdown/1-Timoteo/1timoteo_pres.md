@@ -2414,12 +2414,12 @@ Hech 8:4  Así que los que habían sido esparcidos iban predicando la palabra.
 
 ###          7.  1 Timoteo 4:10a -- *Que por esto mismo trabajamos y sufrimos oprobios*\... Pablo se estaba refiriendo nuevamente a la necesidad de seguir la piedad. Pablo dijo que debemos *trabajar* KOPIAÓ, fatigarnos y *sufrir* AGÓNIZOMAI, lo cual significa participar en una __<u>lucha</u>__ como con un oponente. 1 Timoteo 4:8
 ___
-κοπιάω - kopiaō - Definición de Thayer:
+**κοπιάω** - kopiaō - Definición de Thayer:
 1) cansarse, cansarse, agotarse (con trabajo o cargas o dolor)
 2) trabajar con fatigoso esfuerzo, trabajar duro
 2a) del trabajo corporal
 ___
-ἀγωνίζομαι - agōnizomai - Definición de Thayer:
+**ἀγωνίζομαι** - agōnizomai - Definición de Thayer:
 1) para participar en un concurso: compite en los juegos de gimnasia
 2) luchar con adversarios, luchar
 3) metafóricamente para contender, luchar, con dificultades y peligros
@@ -2471,6 +2471,10 @@ ___
 ##      E.  1 Timoteo 4:11-16 -- Diez mandatos para la protección de Timoteo
 
 ###          1.  **Primer Mandato:** 1 Timoteo 4:11a -- *Esto __<u>manda</u>__.* La palabra *manda* significa pasar un anuncio. Pablo ordenó a Timoteo que continuara, como práctica estándar, presentando y repitiendo estas verdades. 1 Timoteo 4:6a
+___
+**παραγγέλλω** - paraggellō - Definición de Thayer:
+1) transmitir un mensaje de uno a otro, declarar, anunciar
+2) mandar, ordenar, cargar
 
 ####              a.  ¿Qué había estado enseñando Pablo a Timoteo? Él había estado advirtiendo contra algunos que se apartarían en los últimos tiempos debido a la falsa enseñanza. Había explicado la falsa enseñanza por venir. Le había ordenado que se mantuviera alejado de las fábulas. Él lo había estado animando a seguir personalmente la __<u>piedad</u>__.
 
