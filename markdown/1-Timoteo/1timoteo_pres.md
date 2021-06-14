@@ -2427,7 +2427,7 @@ Hech 8:4  Así que los que habían sido esparcidos iban predicando la palabra.
 <!-- .element: style="color:white;" -->
 #### Mi identidad en Cristo (1 Cor 1:10)
 <!-- .element: class="fragment" style="color:white;" -->
-#### Mi suficiencia viene de Él (2 Corintios 2:9)
+#### Mi suficiencia viene de Él (2 Corintios 12:9)
 <!-- .element: class="fragment" style="color:white;" -->
 #### Mi aceptación (Romanos 5:2)
 <!-- .element: class="fragment" style="color:white;" -->
@@ -2440,17 +2440,18 @@ Hech 8:4  Así que los que habían sido esparcidos iban predicando la palabra.
 #### A mantenerme sano en mi doctrina (2 Pedro 3:17-18)
 <!-- .element: class="fragment" style="color:white;" -->
 ___
-Tito 2:12  enseñándonos, que negando la impiedad y los deseos mundanos, vivamos en este mundo sobria, justa y piadosamente,</br>
-1Co 1:10  Les ruego, hermanos, por el nombre de nuestro Señor Jesucristo, que todos se pongan de acuerdo, y que no haya divisiones entre ustedes, sino que estén enteramente unidos en un mismo sentir y en un mismo parecer.</br>
-2Co 2:9  Pues también con este fin les escribí, para ponerlos a prueba y ver si son obedientes en todo.</br>
-Rom 5:2  por medio de quien también hemos obtenido entrada por la fe a esta gracia en la cual estamos firmes, y nos gloriamos en la esperanza de la gloria de Dios.</br>
-Tit 2:12  enseñándonos, que negando la impiedad y los deseos mundanos, vivamos en este mundo sobria, justa y piadosamente,</br>
-Tit 2:13  aguardando la esperanza bienaventurada y la manifestación de la gloria de nuestro gran Dios y Salvador Cristo Jesús.
+Tito 2:12  **enseñándonos**, que negando la impiedad y los deseos mundanos, vivamos en este mundo sobria, justa y piadosamente,</br>
+1Co 1:10  Les ruego, hermanos, **por el nombre de nuestro Señor Jesucristo**, que todos se pongan de acuerdo, y que no haya divisiones entre ustedes, sino que estén enteramente unidos en un mismo sentir y en un mismo parecer.</br>
+2Co 12:9  Y Él me ha dicho: «**Te basta Mi gracia**, pues Mi poder se perfecciona en la debilidad». Por tanto, con muchísimo gusto me gloriaré más bien en mis debilidades, para que el poder de Cristo more en mí.</br>
 ___
-Rom 7:4  Por tanto, hermanos míos, también a ustedes se les hizo morir a la ley por medio del cuerpo de Cristo, para que sean unidos a otro, a Aquel que resucitó de entre los muertos, a fin de que llevemos fruto para Dios.
-2Pe 3:17  Por tanto, amados, sabiendo esto de antemano, estén en guardia, no sea que arrastrados por el error de hombres libertinos, caigan de su firmeza.
+Rom 5:2  por medio de quien también **hemos obtenido entrada** por la fe a esta gracia en la cual **estamos firmes**, y nos gloriamos en la esperanza de la gloria de Dios.</br>
+Tit 2:12  **enseñándonos**, que negando la impiedad y los deseos mundanos, vivamos en este mundo sobria, justa y piadosamente,</br>
+Tit 2:13  **aguardando** la esperanza bienaventurada y la manifestación de la gloria de nuestro gran Dios y Salvador Cristo Jesús.
 ___
-2Pe 3:18  Antes bien, crezcan en la gracia y el conocimiento de nuestro Señor y Salvador Jesucristo. A Él sea la gloria ahora y hasta el día de la eternidad. Amén.
+Romanos 7:4  Por tanto, hermanos míos, también a ustedes se les hizo morir a la ley por medio del cuerpo de Cristo, para que sean unidos a otro, a Aquel que resucitó de entre los muertos, a fin de que llevemos fruto para Dios.
+2 Pedro 3:17  Por tanto, amados, sabiendo esto de antemano, estén en guardia, no sea que arrastrados por el error de hombres libertinos, caigan de su firmeza.
+___
+2 Pedro 3:18  Antes bien, **crezcan en la gracia** y el conocimiento de nuestro Señor y Salvador Jesucristo. A Él sea la gloria ahora y hasta el día de la eternidad. Amén.
 
 ###          8.  1 Timoteo 4:10b -- *...porque esperamos en el Dios viviente...* ¿Por qué seguimos a Dios? Fijamos nuestra esperanza en Él, porque Él es el Dios viviente. Nadie lo reemplazará jamás. Solo Él es el Dios verdadero y nunca perderá esa __<u>posición</u>__.
 
@@ -2458,23 +2459,23 @@ ___
 
 ##      E.  1 Timoteo 4:11-16 -- Diez mandatos para la protección de Timoteo
 
-###          1.  **Primer Mandato:** 1 Timoteo 4:11a -- *Esto __<u>manda</u>__*. La palabra *manda* significa pasar un anuncio. Pablo ordenó a Timoteo que continuara, como práctica estándar, presentando y repitiendo estas verdades. 1 Timoteo 4:6a
+###          1.  **Primer Mandato:** 1 Timoteo 4:11a -- *Esto __<u>manda</u>__.* La palabra *manda* significa pasar un anuncio. Pablo ordenó a Timoteo que continuara, como práctica estándar, presentando y repitiendo estas verdades. 1 Timoteo 4:6a
 
 ####              a.  ¿Qué había estado enseñando Pablo a Timoteo? Él había estado advirtiendo contra algunos que se apartarían en los últimos tiempos debido a la falsa enseñanza. Había explicado la falsa enseñanza por venir. Le había ordenado que se mantuviera alejado de las fábulas. Él lo había estado animando a seguir personalmente la __<u>piedad</u>__.
 
 ####              b.  Este mandato destacó el trabajo más grande de Timoteo, el de la enseñanza. Lo que Pablo le había enseñado a Timoteo eso debía prescribir, o pasar, a __<u>otros</u>__. 2 Timoteo 2:2
 
-###          2.  **Segundo Mandato:** 1 Timoteo 4:11b -- \...*y **enseña***. *Enseñar* significa instruir por palabra de boca en boca. Timoteo debía activa, sistemática e intencionalmente instruir a otros en la verdad. El hecho de que Pablo diera este mandato puede indicar que Timoteo necesitaba un poco de insistencia para llevar a cabo esta __<u>tarea</u>__.
+###          2.  **Segundo Mandato:** 1 Timoteo 4:11b -- *...y **enseña**. Enseñar* significa instruir por palabra de boca en boca. Timoteo debía activa, sistemática e intencionalmente instruir a otros en la verdad. El hecho de que Pablo diera este mandato puede indicar que Timoteo necesitaba un poco de insistencia para llevar a cabo esta __<u>tarea</u>__.
 
-###          3.  **Tercer Mandato:** 1 Timoteo 4:12a -- *Ninguno tenga en poco tu juventud*\... La frase *\...tenga en poco\...* significa pensar a la ligera o despreciar. Es algo común que los hombres mayores desprecien a los hombres más jóvenes. Por lo tanto, Pablo buscó animar a Timoteo en su papel y autoridad en Éfeso, animándolo a mantenerse __<u>fuerte</u>__.
+###          3.  **Tercer Mandato:** 1 Timoteo 4:12a -- *Ninguno tenga en poco tu juventud...* La frase *...tenga en poco\...* significa pensar a la ligera o despreciar. Es algo común que los hombres mayores desprecien a los hombres más jóvenes. Por lo tanto, Pablo buscó animar a Timoteo en su papel y autoridad en Éfeso, animándolo a mantenerse __<u>fuerte</u>__.
 
 ###          4.  **Cuarto Mandato:** 1 Timoteo 4:12b -- \...*pero más bien en palabras, conducta, amor, fe y pureza, muéstrate un ejemplo de los que creen*. En su rol como evangelista, un pastor de pastores, Pablo sabía cuan extremadamente importante era para Timoteo llevar una vida piadosa. La vida personal de Timoteo tenía que __<u>coincidir</u>__ con su enseñanza.
 
 ####              a.  Con el fin de que las personas no despreciaran su juventud, Pablo recordó a Timoteo varias áreas prácticas en las que debería ser un __<u>modelo</u>__. Filipenses 3:17
 
-####              b.  *En palabras\...* El lenguaje y la enseñanza de Timoteo debían ser un modelo a seguir para otros. Su hablar y enseñanza debían reflejar la gracia y la __<u>sana</u>__ doctrina. Efesios 4:29, Colosenses 4:6, 2 Timoteo 2:24-25, 1 Pedro 3:15
+####              b.  *En palabras...* El lenguaje y la enseñanza de Timoteo debían ser un modelo a seguir para otros. Su hablar y enseñanza debían reflejar la gracia y la __<u>sana</u>__ doctrina. Efesios 4:29, Colosenses 4:6, 2 Timoteo 2:24-25, 1 Pedro 3:15
 
-####              c.  *En conducta\...* la vida diaria de Timoteo debía ser consecuente con su enseñanza y un __<u>ejemplo</u>__ a seguir para otros.
+####              c.  *En conducta...* la vida diaria de Timoteo debía ser consecuente con su enseñanza y un __<u>ejemplo</u>__ a seguir para otros.
 
 ####              d.  *En amor* -- Timoteo debía ser un ejemplo en amor ágape. Este tipo de __<u>amor</u>__, como se describe en 1 Corintios 13:4-7, es imposible sin el Espíritu Santo produciéndolo en nosotros.
 
@@ -2486,7 +2487,18 @@ ___
 
 ####              f.  *En __<u>pureza</u>__* -- Timoteo debía mostrarse como un ejemplo a través de la forma en que vivía su vida en castidad como un hombre soltero. 1 Tesalonicenses 2:10-11, 2 Timoteo 2:22, Tito 2:7
 
-###          5.  **Quinto Mandato:** 1 Timoteo 4:13 -- *Entre tanto que voy, ocúpate en*\... La frase *ocúpate en* es un verbo que ya hemos observado cuatro veces en 1 Timoteo. Es un término náutico que significa fijar un rumbo a o navegar hacia. Timoteo debía dirigir resueltamente su mente hacia la verdad. No debía haber desviación con respecto a la prioridad de la __<u>Palabra</u>__ de Dios.
+###          5.  **Quinto Mandato:** 1 Timoteo 4:13 -- *Entre tanto que voy, ocúpate en...*  La frase *ocúpate en* es un verbo que ya hemos observado cuatro veces en 1 Timoteo. Es un término náutico que significa fijar un rumbo a o navegar hacia. Timoteo debía dirigir resueltamente su mente hacia la verdad. No debía haber desviación con respecto a la prioridad de la __<u>Palabra</u>__ de Dios.
+___
+προσέχω - prosechō- Definición de Thayer:
+1) traer a, acercar
+1a) traer un barco a tierra, y simplemente tocarlo, ponerlo en
+2) volver la mente a, estar atento a estar atento
+2a) a una persona o cosa: de cuidar, proveer para
+3) cuidar de uno mismo, es decir, prestar atención a uno mismo
+3a) presta atención, presta atención
+4) aplicar uno mismo, apegarse a, abrazar o aferrarse a una persona o cosa
+4a) para ser dado o adicto a
+4b) dedicar pensamiento y esfuerzo a
 
 ####              a.  1 Timoteo 4:13a -- *Entre tanto que voy, ocúpate en la lectura*\... Hasta la llegada de Pablo, Timoteo debía permanecer totalmente concentrado en la __<u>lectura</u>__ pública de la Escritura, así como en la exhortación y la enseñanza.
 
@@ -2494,19 +2506,19 @@ ___
 
 #####                  2.  A la luz del creciente número de falsos maestros que Timoteo estaba enfrentando, la lectura pública de la Escritura del Antiguo Testamento era vital. La lectura pública de las epístolas del Nuevo Testamento como 1 Timoteo fue también muy necesaria. Haríamos bien en mantener esta __<u>costumbre</u>__. Nehemías 8:1-12; 1 Tesalonicenses 5:27
 
-####              b.  1 Timoteo 4:13b -- *Entre tanto que voy, ocúpate en\... la exhortación*\... En la iglesia hoy, Dios usa evangelistas y pastores-maestros para reforzar el significado de Su Palabra, a través del __<u>consejo</u>__ práctico y la motivación.
+####              b.  1 Timoteo 4:13b -- *Entre tanto que voy, ocúpate en... la exhortación...* En la iglesia hoy, Dios usa evangelistas y pastores-maestros para reforzar el significado de Su Palabra, a través del __<u>consejo</u>__ práctico y la motivación.
 
 #####                  1.  La exhortación es __<u>vital</u>__ y debe ser una prioridad en los servicios de nuestra iglesia. Esta es una de las herramientas de Dios para preparar a Su iglesia para el servicio. Efesios 4:11-16
 
 #####                  2.  El pastor-maestro debe exhortar, desafiar y animar a la iglesia a ser __<u>hacedores</u>__ de la Palabra y no solo oidores. Santiago 1:21-23
 
-####              c.  1 Timoteo 4:13c -- *Entre tanto que voy, ocúpate en\... la enseñanza*\... el pastor-maestro debe usar su don para explicar y exponer las verdades de las Escrituras. Al igual que con la lectura y la exhortación, la enseñanza también debe ser una __<u>prioridad</u>__.
+####              c.  1 Timoteo 4:13c -- *Entre tanto que voy, ocúpate en... la enseñanza...* el pastor-maestro debe usar su don para explicar y exponer las verdades de las Escrituras. Al igual que con la lectura y la exhortación, la enseñanza también debe ser una __<u>prioridad</u>__.
 
 #####                  1.  Hay unas 22 referencias a la enseñanza y la doctrina en las tres Epístolas Pastorales. Pablo sabía cuán vital era la enseñanza para la __<u>salud</u>__ de la iglesia local.
 
 #####                  2.  La instrucción cuidadosa a través de la enseñanza es vital para los creyentes para que puedan ser santificados a través de la verdad y así puedan rechazar la falsa doctrina y las __<u>mentiras</u>__. Juan 8:32, 17:17 2 Pedro 1:3-4
 
-###          6.  **Sexto Mandato:** 1 Timoteo 4:14 -- *No descuides el don* \['espiritual' -- LBLA\] *que hay en ti*\... La palabra *descuides* significa ser negligente. Este verbo es un mandato de tiempo presente lo que significaba para Timoteo que debía evadir constantemente ser negligente en el uso de su __<u>don</u>__ espiritual.
+###          6.  **Sexto Mandato:** 1 Timoteo 4:14 -- *No descuides el don* \['espiritual' -- LBLA\] *que hay en ti...* La palabra *descuides* significa ser negligente. Este verbo es un mandato de tiempo presente lo que significaba para Timoteo que debía evadir constantemente ser negligente en el uso de su __<u>don</u>__ espiritual.
 
 ####              a.  1 Timoteo 4:14a -- *No descuides el don* \['espiritual' -- LBLA\] *que hay en ti*\... Timoteo debía reconocer y recordar constantemente su llamado espiritual para que permaneciera enfocado en su rol a pesar de cualquier desafío que pudiera haber enfrentado en el ministerio en __<u>Éfeso</u>__.
 
