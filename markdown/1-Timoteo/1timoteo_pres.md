@@ -2448,6 +2448,7 @@ Tit 2:12  enseñándonos, que negando la impiedad y los deseos mundanos, vivamos
 Tit 2:13  aguardando la esperanza bienaventurada y la manifestación de la gloria de nuestro gran Dios y Salvador Cristo Jesús.
 Rom 7:4  Por tanto, hermanos míos, también a ustedes se les hizo morir a la ley por medio del cuerpo de Cristo, para que sean unidos a otro, a Aquel que resucitó de entre los muertos, a fin de que llevemos fruto para Dios.
 2Pe 3:17  Por tanto, amados, sabiendo esto de antemano, estén en guardia, no sea que arrastrados por el error de hombres libertinos, caigan de su firmeza.
+___
 2Pe 3:18  Antes bien, crezcan en la gracia y el conocimiento de nuestro Señor y Salvador Jesucristo. A Él sea la gloria ahora y hasta el día de la eternidad. Amén.
 
 ###          8.  1 Timoteo 4:10b -- *...porque esperamos en el Dios viviente...* ¿Por qué seguimos a Dios? Fijamos nuestra esperanza en Él, porque Él es el Dios viviente. Nadie lo reemplazará jamás. Solo Él es el Dios verdadero y nunca perderá esa __<u>posición</u>__.
