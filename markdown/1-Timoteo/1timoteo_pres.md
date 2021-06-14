@@ -2425,17 +2425,17 @@ Hech 8:4  Así que los que habían sido esparcidos iban predicando la palabra.
 <!-- .slide: data-background-color="purple" data-style="color:white;" data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/cross.jpeg" data-background-size="cover" data-background-opacity="0.5" -->
 ### La Gracia de Dios me enseña... (Tito 2:12)
 <!-- .element: style="color:white;" -->
-#### Mi identidad en Cristo (1 Cor 1:10)
+#### Mi **identidad** en Cristo (1 Cor 1:10)
 <!-- .element: class="fragment" style="color:white;" -->
-#### Mi suficiencia viene de Él (2 Corintios 12:9)
+#### Mi **suficiencia** viene de Él (2 Corintios 12:9)
 <!-- .element: class="fragment" style="color:white;" -->
-#### Mi aceptación (Romanos 5:2)
+#### Mi **aceptación** por Dios (Romanos 5:2)
 <!-- .element: class="fragment" style="color:white;" -->
-#### A dejar la impureza y abrazar lo puro (Tito 2:12)
+#### A **dejar la impureza y abrazar lo puro** (Tito 2:12)
 <!-- .element: class="fragment" style="color:white;" -->
-#### A mirar adelante con esperanza (Tito 2:13)
+#### A mirar adelante con **esperanza** (Tito 2:13)
 <!-- .element: class="fragment" style="color:white;" -->
-#### A llevar fruto para Dios (Romanos 7:4)
+#### a regocijarme (Romanos 7:4)
 <!-- .element: class="fragment" style="color:white;" -->
 #### A mantenerme sano en mi doctrina (2 Pedro 3:17-18)
 <!-- .element: class="fragment" style="color:white;" -->
@@ -2448,7 +2448,7 @@ Rom 5:2  por medio de quien también **hemos obtenido entrada** por la fe a esta
 Tit 2:12  **enseñándonos**, que negando la impiedad y los deseos mundanos, vivamos en este mundo sobria, justa y piadosamente,</br>
 Tit 2:13  **aguardando** la esperanza bienaventurada y la manifestación de la gloria de nuestro gran Dios y Salvador Cristo Jesús.
 ___
-Romanos 7:4  Por tanto, hermanos míos, también a ustedes se les hizo morir a la ley por medio del cuerpo de Cristo, para que sean unidos a otro, a Aquel que resucitó de entre los muertos, a fin de que llevemos fruto para Dios.
+Hechos 11:23  el cual, cuando vino y vio la gracia de Dios, **se regocijó** y animaba a todos para que con corazón firme permanecieran fieles al Señor;
 2 Pedro 3:17  Por tanto, amados, sabiendo esto de antemano, estén en guardia, no sea que arrastrados por el error de hombres libertinos, caigan de su firmeza.
 ___
 2 Pedro 3:18  Antes bien, **crezcan en la gracia** y el conocimiento de nuestro Señor y Salvador Jesucristo. A Él sea la gloria ahora y hasta el día de la eternidad. Amén.
@@ -2534,7 +2534,7 @@ ___
 
 ###          7.  **Séptimo Mandato:** 1 Timoteo 4:15a -- *Ocúpate en estas cosas*\... La afirmación *ocúpate en estas cosas* es una orden que significa considerar, concentrarse o reflexionar sobre estas cosas con el propósito de desempeñarse bien. Ocúpate en estas cosas significaba que Timoteo necesitaría ser incansable y tenaz en su dedicación a estos __<u>asuntos</u>__.
 
-###          8.  **Octavo Mandato:** 1 Timoteo 4:15b -- *...**permanece en ellas, para que tu aprovechamiento sea manifiesto a todos.* El mandato aquí para *permanece en ellas*, es literalmente estar en ellas. La idea comunicada es que Timoteo debería estar viviendo y respirando estas cosas. Pablo estaba ultra interesado en que Timoteo estuviera completamente concentrado en cumplir su __<u>llamado</u>__.
+###          8.  **Octavo Mandato:** 1 Timoteo 4:15b -- *...permanece en ellas, para que tu aprovechamiento sea manifiesto a todos.* El mandato aquí para *permanece en ellas*, es literalmente estar en ellas. La idea comunicada es que Timoteo debería estar viviendo y respirando estas cosas. Pablo estaba ultra interesado en que Timoteo estuviera completamente concentrado en cumplir su __<u>llamado</u>__.
 
 ####              a.  *Aprovechamiento* tiene la idea de avance. Timoteo debía perseguir apasionadamente el propósito de Dios para su vida, con atención continua al __<u>detalle</u>__.
 
