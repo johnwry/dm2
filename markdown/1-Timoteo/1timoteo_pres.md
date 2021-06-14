@@ -194,7 +194,7 @@ Junio 1, 2018 1ra edición
 Derechos de Autor © **2018 DM2® International Inc.** Todos los derechos reservados
 ___
 <small>
-<strong>Póliza de los Derechos de Autor</strong>. La traducción no autorizada, re-publicación, duplicación del documento, página de la internet o distribución del correo electrónico de cualquier porción de este material de derechos de autor de cualquier forma, sin el expreso consentimiento escrito de DM2® es estrictamente prohibido. Puedes usar los materiales de DM2® para tu propio estudio personal o para volverlos a enseñar en una clase, siempre y cuando, el logo de DM2® y esta póliza de los derechos de autor estén incluidos siempre en el material al ser enseñados. Puedes bajar una copia a tú PC, imprimirla o hacer copias para la clase o estudio de grupo bíblico; sin embargo, no puedes cobrar por este material o por conducir una clase usando el mismo, excepto por el costo actual del copiado. NO puedes hacer cambios a este material, tiene derechos de autor. Para una más amplia exposición de la póliza del DM2® con respecto a los usos de sus materiales, por favor referirse a la página de la internet DM2-USA al [DM2](https://www.dm2usa.org) . 
+<strong>Póliza de los Derechos de Autor</strong>. La traducción no autorizada, re-publicación, duplicación del documento, página de la internet o distribución del correo electrónico de cualquier porción de este material de derechos de autor de cualquier forma, sin el expreso consentimiento escrito de DM2® es estrictamente prohibido. Puedes usar los materiales de DM2® para tu propio estudio personal o para volverlos a enseñar en una clase, siempre y cuando, el logo de DM2® y esta póliza de los derechos de autor estén incluidos siempre en el material al ser enseñados. Puedes bajar una copia a tú PC, imprimirla o hacer copias para la clase o estudio de grupo bíblico; sin embargo, no puedes cobrar por este material o por conducir una clase usando el mismo, excepto por el costo actual del copiado. NO puedes hacer cambios a este material, tiene derechos de autor. Para una más amplia exposición de la póliza del DM2® con respecto a los usos de sus materiales, por favor referirse a la página de la internet DM2-USA al [DM2](https://www.dm2usa.org) . 
 </small>
 ___
 **Impreso y Propiedad de:**
@@ -219,7 +219,7 @@ ___
 |--------------|-----|
 |La iglesia es el cuerpo de Cristo en la tierra| 15|
 |¿Cómo debería ser una iglesia bíblica local?| 15|
-|¿Por qué es importante para una iglesia ser autóctona?| 16|
+|¿Por qué es importante para una iglesia ser autóctona?| 16|
 |Estructura del liderazgo en una iglesia local| 18|
 |El propósito de las reuniones en la iglesia local| 19|
 ___
@@ -254,7 +254,7 @@ ___
 |1 Timoteo 3:2-7 -- Cualificaciones para el oficio de anciano/obispo| 50|
 |1 Timoteo 3:8a -- Presentando el oficio de diácono| 54|
 |1 Timoteo 3:8c-13 -- Cualificaciones para el oficio de diácono| 55|
-|1 Timoteo 3:14-15 -- ¿Por qué es lo que Pablo escribió importante?| 59|
+|1 Timoteo 3:14-15 -- ¿Por qué es lo que Pablo escribió importante?| 59|
 |1 Timoteo 3:16 -- La iglesia y la verdad| 60|
 ___
 |**1 Timoteo 4:1-16 -- Protección Contra la Apostasía**| **61**|
@@ -2384,11 +2384,11 @@ Hech 8:4  Así que los que habían sido esparcidos iban predicando la palabra.
 <!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/guard.png" data-background-size="400px" data-background-position="left 2% bottom 15%" data-background-opacity="0.8" -->
 ## D.	1 Timoteo 4:6-10 – Protección contra la falsa enseñanza
 
-### 1.	1 Timoteo 4:6a – *Si esto enseñas a los hermanos, serás buen ministro de Jesucristo..* Pablo había dejado a Timoteo en Éfeso para corregir,  __<u>instruir</u>__ y exhortar. Timoteo debía cumplir su llamado señalando la falsa enseñanza a los líderes de la iglesia. 2 Timoteo 2:1-2
+### 1.	1 Timoteo 4:6a – *Si esto enseñas a los hermanos, serás buen ministro de Jesucristo...* Pablo había dejado a Timoteo en Éfeso para corregir,  __<u>instruir</u>__ y exhortar. Timoteo debía cumplir su llamado señalando la falsa enseñanza a los líderes de la iglesia. 2 Timoteo 2:1-2
 
-#### a.	En 2 Timoteo 4:2, Pablo le dijo a Timoteo “*que prediques la palabra; que instes a tiempo y fuera de tiempo; redarguye,  __<u>reprende</u>__, exhorta con toda paciencia y doctrina*”.
+#### a.	En 2 Timoteo 4:2, Pablo le dijo a Timoteo “*que prediques la palabra; que instes a tiempo y fuera de tiempo; redarguye,  __<u>reprende</u>__, exhorta con toda paciencia y doctrina”.*
 
-#### b.	En 2 Timoteo 4:5 Pablo agregó, "*Pero tú sé  __<u>sobrio</u>__ en todo, soporta las aflicciones, haz obra de evangelista, cumple tu ministerio*".
+#### b.	En 2 Timoteo 4:5 Pablo agregó, "*Pero tú sé  __<u>sobrio</u>__ en todo, soporta las aflicciones, haz obra de evangelista, cumple tu ministerio".*
 
 ###          2.  1 Timoteo 4:6b -- *...nutrido con las palabras de la fe y de la buena doctrina que has seguido.* Timoteo no solo necesitaba nutrirse a sí mismo para su propio ánimo, sino que debía permanecer fiel a la sana doctrina para poder señalar el __<u>error</u>__ de los falsos maestros.
 
@@ -2412,7 +2412,18 @@ Hech 8:4  Así que los que habían sido esparcidos iban predicando la palabra.
 
 ###          6.  1 Timoteo 4:9 -- *Palabra fiel es esta, y digna de ser recibida por todos.* Pablo se desvió de su camino para asegurarle a Timoteo que el seguir la piedad en lugar de las cosas de este __<u>mundo</u>__ valía la pena. Timoteo podía enseñar esto a otros sin ninguna reserva. 2 Corintios 4:16-18; Filipenses 3:17-21; 1 Juan 2:16-17
 
-###          7.  1 Timoteo 4:10a -- *Que por esto mismo trabajamos y sufrimos oprobios*\... Pablo se estaba refiriendo nuevamente a la necesidad de seguir la piedad. Pablo dijo que debemos *trabajar* KOPIAÓ, fatigarnos y *sufrir* AGÓNIZOMAI, lo cual significa participar en una __<u>lucha</u>__ como con un oponente. 1 Timoteo 4:8
+###          7.  1 Timoteo 4:10a -- *Que por esto mismo trabajamos y sufrimos oprobios...* Pablo se estaba refiriendo nuevamente a la necesidad de seguir la piedad. Pablo dijo que debemos *trabajar* KOPIAÓ, fatigarnos y *sufrir* AGÓNIZOMAI, lo cual significa participar en una __<u>lucha</u>__ como con un oponente. 1 Timoteo 4:8
+___
+κοπιάω - kopiaō - Definición de Thayer:
+1) cansarse, cansarse, agotarse (con trabajo o cargas o dolor)
+2) trabajar con fatigoso esfuerzo, trabajar duro
+2a) del trabajo corporal
+___
+ἀγωνίζομαι - agōnizomai - Definición de Thayer:
+1) para participar en un concurso: compite en los juegos de gimnasia
+2) luchar con adversarios, luchar
+3) metafóricamente para contender, luchar, con dificultades y peligros
+4) esforzarse con ardoroso celo, esforzarse: obtener algo
 
 ####              a.  En Colosenses 1:29, Pablo dijo: *\"para lo cual también trabajo, luchando según la potencia de Él, la cual actúa poderosamente en mí".* Pablo trabajó duro, pero no en su __<u>propia</u>__ fuerza.
 
@@ -2435,7 +2446,7 @@ Hech 8:4  Así que los que habían sido esparcidos iban predicando la palabra.
 <!-- .element: class="fragment" style="color:white;" -->
 #### A mirar adelante con **esperanza** (Tito 2:13)
 <!-- .element: class="fragment" style="color:white;" -->
-#### a regocijarme (Hechos 11:23)
+#### A regocijarme (Hechos 11:23)
 <!-- .element: class="fragment" style="color:white;" -->
 #### A mantenerme sano en mi doctrina (2 Pedro 3:17-18)
 <!-- .element: class="fragment" style="color:white;" -->
@@ -3582,4 +3593,5 @@ ___
 </svg>
 
 <!-- .slide: data-background-iframe="https://quizizz.com/join" id="examen_quiz_" data-menu-title="QUIZ" data-preload -->
+
 
