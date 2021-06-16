@@ -53,6 +53,7 @@ al <http://www.dm2usa.org>. \[DM2™\]
 **
 
 # Índice
+<<<<<<< Updated upstream
 
   **I.**      **Romanos 9:1-11:36 --** ¿Es Dios Justo en Su Trato con Israel?                                **7**
   ----------- ---------------------------------------------------------------------------------------------- --------
@@ -76,10 +77,35 @@ al <http://www.dm2usa.org>. \[DM2™\]
 
 **\
 **
+=======
+|**I.**  |    **Romanos 9:1-11:36 --** ¿Es Dios Justo en Su Trato con Israel?          |                      **7**|
+|:----------|----------------------------------------------------------------------------------------------| --------|
+|  **A.**    |  **Romanos 9:1-33 --** Israel en el Pasado                |                                      **7**|
+|**B.**   |   **Romanos 10:1-21 --** Israel en el Presente                         |                          **18**|
+|**C.**   |   **Romanos 11:1-36 --** Israel en el Futuro                            |                         **29**|
+|**II.**  |   **Romanos 12:1-21 --** La Justicia de Dios en Nuestro Servicio a Él.             |              **38**|
+|**III.**  |  **Romanos 13:1-14 --** La Justicia de Dios en Nuestro Servicio a la Sociedad        |           **48**|
+|**IV.**  |   **Romanos 14:1-23 --** La Justicia de Dios y Nuestro Servicio a los Débiles           |         **55**|
+|**V**   |    **Romanos 15:1-33 --** La Justicia de Dios y Nuestro Método de Servicio              |          **60**|
+|**A.**   |   **Romanos 15:1-12** -- Sirviendo a la manera de Jesús                                |          **60**|
+|**B.**   |   **Romanos 15:13** -- El servicio por la Fe                                                 |    **63**|
+|**C.**   |   **Romanos 15:14-22** -- El servicio a la manera de Pablo                                |       **67**|
+|**D.**  |    **Romanos 15:23-33** -- Observemos el corazón de un servidor del Evangelio en acción.      |    **71**|
+|**VI.**  |   **Romanos 16:1-16** -- Saludos Especiales a la Iglesia Romana.                            |     **73**|
+|**VII.**  |  **Romanos 16:17-20 --** Una Advertencia Importante para la Iglesia Romana              |        **76**|
+|**VIII.** |  **Romanos 16:21-27 --** Saludos Especiales de los Compañeros de Pablo y una Doxología Final.   |**78**|
+___
+>>>>>>> Stashed changes
 
 **EL LIBRO DE ROMANOS**
 
 ***¡Dios es Justo!***
+<<<<<<< Updated upstream
+=======
+
+___
+# I.  **Romanos 9:1-11:36 -- ¿Es Dios Justo en Su Trato con Israel?**
+>>>>>>> Stashed changes
 
 I.  **Romanos 9:1-11:36 -- ¿Es Dios Justo en Su Trato con Israel?**
 
@@ -87,7 +113,11 @@ I.  **Romanos 9:1-11:36 -- ¿Es Dios Justo en Su Trato con Israel?**
 
         1.  Romanos 9:1-3 -- Pablo se defendió de las acusaciones de que era desleal a su **[propio]{.ul}** pueblo, Israel.
 
+<<<<<<< Updated upstream
             a.  Romanos 9:1 -- Pablo declaró su sincero **[amor]{.ul}** por Israel.
+=======
+###        1.  Romanos 9:1-3 -- Pablo se defendió de las acusaciones de que era desleal a su __<u>propio</u>__ pueblo, Israel.
+>>>>>>> Stashed changes
 
                 1.  Pablo llamó a su relación personal con **[Cristo]{.ul}** como prueba de que él no estaba mintiendo acerca de su amor por Israel.
 
@@ -111,6 +141,7 @@ I.  **Romanos 9:1-11:36 -- ¿Es Dios Justo en Su Trato con Israel?**
 
                 2.  Pablo se identificó con Israel, llamando al pueblo de Israel, *\"mis hermanos, los que son mis parientes según la **[carne]{.ul}**\".*
 
+<<<<<<< Updated upstream
         2.  Romanos 9:4-5 -- Pablo presentó ocho bendiciones exclusivas que el pueblo de Israel tiene debido a la elección de la gracia de Dios de ellos como Su pueblo escogido.
 
             a.  Romanos 9:4a -- *La adopción* \['como **[hijos]{.ul}**' -- LBLA\] de Dios pertenecía a Israel en primer lugar. Éxodo 4:12, Deuteronomio 14:1, Jeremías 31:9, Oseas 11:1, Romanos 1:16
@@ -137,6 +168,48 @@ I.  **Romanos 9:1-11:36 -- ¿Es Dios Justo en Su Trato con Israel?**
 
             h.  Romanos 9:5b -- El *Cristo* (el Mesías), del **[lado]{.ul}** humano, vino de Israel, el más alto privilegio jamás dado a cualquier nación.
 
+=======
+#####                 1.  *"Que tengo __<u>gran]{.ul} tristeza**"* (griego: LUPE*,* pesadez dolorosa).
+
+#####                 2.  *"Continuo **dolor** "* (griego: ODUNE, __<u>dolor</u>__, dolor consumidor, angustia)
+
+####            c.  Romanos 9:3 -- Pablo mostró su verdadero amor por Israel al decir que estaría dispuesto a dar su __<u>vida</u>__ eterna por ella.
+
+#####                 1.  __<u>Pablo</u>__ desearía ser maldito (griego: ANATHEMA, maldito, separado de Cristo por siempre) si ese sacrificio podría obtener la salvación de Israel.
+
+######                    a.  A pesar de que era imposible hacerlo, él estaba dispuesto a __<u>morir</u>__ eternamente para que Israel fuese salvo.
+
+######                    b.  La disposición de Pablo a dar su vida por el pueblo de __<u>Israel</u>__ demostró su fiel amor por ellos.
+
+                2.  Pablo se identificó con Israel, llamando al pueblo de Israel, *\"mis hermanos, los que son mis parientes según la __<u>carne</u>__\".*
+    
+###        2.  Romanos 9:4-5 -- Pablo presentó ocho bendiciones exclusivas que el pueblo de Israel tiene debido a la elección de la gracia de Dios de ellos como Su pueblo escogido.
+    
+            a.  Romanos 9:4a -- *La adopción* \['como __<u>hijos</u>__' -- LBLA\] de Dios pertenecía a Israel en primer lugar. Éxodo 4:12, Deuteronomio 14:1, Jeremías 31:9, Oseas 11:1, Romanos 1:16
+    
+            b.  Romanos 9:4b -- Dios dio a Israel exclusivamente la __<u>gloria</u>__ Shekhinah de Su presencia.
+    
+            c.  Romanos 9:4c -- Dios entró en contratos precisos __<u>sólo</u>__ con Israel. Hechos 3:25
+    
+                1.  El Pacto de Abraham (Génesis 12:1-3, 13:14-17, 15:1-21), el cual consiste en la tierra, la __<u>simiente</u>__, y la bendición especial, es un contrato eterno entre Dios y Abraham. Génesis 17:7, Salmo 105:9-11
+    
+                2.  El Pacto Palestino (la __<u>tierra</u>__, Deuteronomio 30:1-8) es un contrato eterno (Ezequiel 16:60) entre Dios e Israel, que da a Israel la propiedad incondicional de una vasta extensión de tierra (la Tierra Santa) desde Egipto hasta el río Éufrates. Génesis 15:18
+    
+                3.  El Pacto Davídico (la __<u>semilla</u>__, 2 Samuel 7:12-14) es un contrato eterno (Salmo 89:4,8, 34-36) entre David y Dios que da a los descendientes de David el derecho perpetuo al trono de Israel. Uno de los descendientes de David (Jesucristo) será el eterno __<u>rey</u>__ de Israel. Lucas 1:30-33
+    
+                4.  El __<u>Nuevo</u>__ Pacto (las **bendiciones**, Jeremías 31:31-36) es la promesa de Dios de perdonar los pecados a Israel, escribir Sus leyes en sus corazones, hacer que el Espíritu Santo more en toda Israel, etc. Cuando Dios cumpla este pacto en el Milenio, Israel recibirá bendiciones incomparables. Hebreos 10:16-18, cf. Hebreos 8:7-13
+    
+            d.  Romanos 9:4d -- Dios confió *la promulgación de la __<u>ley</u>__* y su custodia a Israel. Romanos 3:1-2
+    
+            e.  Romanos 9:4e -- Dios le dio a Israel *el culto*. *El* *culto* probablemente se refiere al servicio del __<u>templo</u>__ de los sacerdotes de Israel, el cual permitió sólo a ellos el privilegio especial de entrar en la misma presencia de Dios.
+    
+            f.  Romanos 9:4f -- Dios le dio a Israel *las promesas*. *Las promesas* se refiere a las promesas únicas de Dios a __<u>Israel</u>__ a través de los patriarcas - Abraham, Isaac y Jacob.
+    
+            g.  Romanos 9:5a -- *Los patriarcas* se refiere a Abraham, Isaac y Jacob, tres hombres __<u>elegidos</u>__ por Dios y amado por Israel.
+    
+            h.  Romanos 9:5b -- El *Cristo* (el Mesías), del __<u>lado</u>__ humano, vino de Israel, el más alto privilegio jamás dado a cualquier nación.
+    
+>>>>>>> Stashed changes
                 1.  Con respecto a la persona de Cristo este versículo dice:
 
                     a.  El Cristo vino a través de Israel, *\"\... según la **carne**\...\"*, lo cual muestra que el Cristo vino como un ser **[humano]{.ul}**. Romanos 1:3
@@ -144,6 +217,7 @@ I.  **Romanos 9:1-11:36 -- ¿Es Dios Justo en Su Trato con Israel?**
                     b.  *\"\... el cual es... **[sobre]{.ul}** todas las cosas\...\"* afirma que el Cristo es superior a, y que está en control de todo lo que existe. 1 Corintios 8:6
 
                     c.  *\"\... el cual es **Dios***\...\", añade enfáticamente que el Señor Jesucristo\
+<<<<<<< Updated upstream
                         es **[Dios]{.ul}**.
 
                     d.  *\"\... bendito por los siglos\...\"* muestra que el **[Señor]{.ul}** Jesucristo es honrado para siempre.
@@ -208,6 +282,72 @@ I.  **Romanos 9:1-11:36 -- ¿Es Dios Justo en Su Trato con Israel?**
 
                     d.  El punto aquí es que uno no se convertía en un israelita basado en sus **[esfuerzos]{.ul}** o méritos personales, sino a través de las promesas de Dios. Génesis 22:18, Gálatas 3:18
 
+=======
+                        es __<u>Dios</u>__.
+    
+                    d.  *\"\... bendito por los siglos\...\"* muestra que el __<u>Señor</u>__ Jesucristo es honrado para siempre.
+    
+                2.  Cuando se acordó de estas cosas, Pablo exclamó: *\"__<u>Amén</u>__"*.
+    
+###        3.  Romanos 9:6-13 -- Algunos de Israel difamaron a Dios como insincero en Su amor y promesas hacia Su pueblo escogido. ¿__<u>Falló</u>__ Dios en mantener Sus promesas (Su palabra) a Israel?
+    
+            a.  Romanos 9:6a -- \['Pero' -- LBLA\] "*no que la palabra de Dios haya fallado..."*. Tenemos que establecer el hecho de que Dios __<u>nunca</u>__ deja de cumplir Sus promesas. ¡Dios nunca hace nada errado! Romanos 9:14; Santiago 1:13; Salmo 92:15; Job 34:10-12
+    
+                1.  Dios no se equivocó en Su elección soberana de poner a un lado (marginar) a Israel en el presente y __<u>usar</u>__ a la iglesia en su lugar.
+    
+                    a.  Sabemos que, como nación, Israel rechazó al Mesías a quien Dios envió para __<u>salvar</u>__ a Israel. Romanos 9:31-32, 1 Pedro 2:6-8
+    
+                    b.  En respuesta al rechazo de Israel, Dios puso a un lado temporalmente a Israel cuando instituyó la __<u>iglesia</u>__. Esto, sin embargo, no significa que Dios rechazó totalmente a Su pueblo escogido, Israel. Romanos 11:1-2,25-26; Salmo 94:14
+    
+                    c.  Por el contrario, Dios usó Su privilegio divino como Creador para iniciar la __<u>era</u>__ de la iglesia. Lo hizo con el fin de traer ambos, judíos y gentiles a Él, por medio del Evangelio. Romanos 1:15-16, 9:23-24; Éxodo 33:19; Efesios 2:11-22
+    
+                2.  La elección soberana de Dios en el tiempo presente es el de usar la __<u>iglesia</u>__ como el vehículo a través del cual Él obra en todo el mundo. Romanos 11:25; 16:25-26
+    
+                    a.  Actualmente, en la era de la iglesia, Dios __<u>obra</u>__ a través de ambos los creyentes gentiles (no judíos) y los creyentes judíos. Romanos 9:23-26, Efesios 2:11-22
+    
+                    b.  Dios ha traído a personas no judías a la comunión con Él Mismo, totalmente aparte de cualquier necesidad de ser identificadas con la nación de __<u>Israel</u>__. 1 Corintios 10:13, 1 Timoteo 3:15
+    
+            b.  Romanos 9:6b-7 -- Antes de que cuestionemos la soberanía de Dios o Le acusemos de negligencia o engaño en Su rechazo temporal de Israel, debemos determinar quién es un __<u>verdadero</u>__ israelita.
+    
+                1.  Romanos 9:6b -- *"...porque no todos los que descienden de Israel son israelitas* \['Israel' -- LBLA\]*...".* El nacer un israelita de __<u>sangre</u>__ no le hace a uno un verdadero israelita.
+    
+                    a.  Un verdadero israelita es un judío __<u>creyente</u>__.
+    
+                    b.  De la misma manera que el haber __<u>nacido</u>__ de padres cristianos no le hace a uno cristiano, el haber nacido de padres israelitas no le hace a uno un verdadero israelita.
+    
+                    c.  Inclusive en el Antiguo Testamento, una persona tenía que nacer de nuevo para convertirse en un __<u>hijo</u>__ de Dios.
+    
+                    d.  El nuevo __<u>nacimiento</u>__, no el nacimiento físico (etnicidad), hace de un judío un verdadero israelita.
+    
+                    e.  *"Os es necesario nacer de nuevo"*, en Juan 3:7, 10 fue dicho por Jesús al líder judío Nicodemo bajo la dispensación de la __<u>Ley</u>__.
+    
+                2.  Romanos 9:7a -- *"...ni por ser descendientes de Abraham, son todos hijos..."* Tampoco son todos los descendientes de sangre de Abraham __<u>verdaderos</u>__ israelitas.
+    
+                3.  Romanos 9:7b -- *"...sino: En Isaac te será __<u>llamada</u>__ descendencia."* (griego: KLETHESETAI, será llamado-a).
+    
+                    a.  Con el fin de __<u>probar</u>__ que es posible ser un descendiente de Abraham y no ser automáticamente un verdadero israelita, Pablo sabiamente citó el Antiguo Testamento.
+    
+                    b.  Abraham tuvo ocho hijos, pero sólo __<u>uno</u>__ fue el heredero a través de quien Dios cumpliría Sus promesas a Abraham. (Isaac **versus** Ismael -- Gálatas 4:23, 28; e Isaac **versus** los seis hijos de Cetura -- Génesis 25:1-6, Romanos 4:13-16
+    
+                    c.  El __<u>llamado</u>__ de Dios y Su promesa a Abraham (Génesis 21:12) hicieron a Isaac y sus descendientes los legítimos israelitas étnicos.
+    
+                    d.  En resumen: El hecho de que una persona judía sea un descendiente de Abraham, __<u>no</u>__ significa que esa persona sea un israelita étnico.
+    
+            c.  Romanos 9:8-13 -- En lugar de cuestionar la soberanía de Dios, tenemos que entender cómo Dios usó el llamado (Romanos 9:7b) y la promesa (Romanos 9:8) para determinar un __<u>verdadero</u>__ israelita.
+    
+                1.  Romanos 9:8a -- *"Esto es: No los que son hijos según la carne son los hijos de Dios..."* El nacimiento físico __<u>nunca</u>__ ha hecho hijo de Dios a nadie. De hecho, a través del nacimiento físico todos nacen en la familia rechazada del Adán caído.
+    
+                2.  Romanos 9:8b -- *"...sino que los que son hijos según la promesa son contados como descendientes".* Dios adopta las personas como hijos __<u>Suyos</u>__ basado en la promesa de salvar a todos los que creen. Romanos 4:13,16; 5:10; 1 Juan 2:25
+    
+                    a.  Dios __<u>escogió</u>__ (llamó) a Abraham basado en una promesa. Génesis 12:1-3
+    
+                    b.  Dios escogió (llamó) a __<u>Isaac</u>__ basado en una promesa a Abraham. Génesis 17:19, 21:12
+    
+                    c.  Dios también escogió (llamó) a __<u>Jacob</u>__ basado en una promesa (a Rebeca). Génesis 25:23
+    
+                    d.  El punto aquí es que uno no se convertía en un israelita basado en sus __<u>esfuerzos</u>__ o méritos personales, sino a través de las promesas de Dios. Génesis 22:18, Gálatas 3:18
+    
+>>>>>>> Stashed changes
                 3.  Romanos 9:9 -- *"Porque la palabra de la promesa es esta: Por este tiempo vendré, y Sara tendrá un hijo"*.
 
                     a.  La promesa era que Dios iba a **[salvar]{.ul}** al mundo a través de la simiente de Abraham, Jesucristo. Gálatas 3:16
@@ -247,6 +387,7 @@ I.  **Romanos 9:1-11:36 -- ¿Es Dios Justo en Su Trato con Israel?**
                 2.  No todo **[hijo]{.ul}** de Abraham es un israelita étnico. La promesa de Dios (llamado) es lo que determina un israelita étnico. Romanos 9:6b-9
 
                 3.  No todo hijo de Isaac es un israelita.
+<<<<<<< Updated upstream
 
                     a.  Sólo **[un]{.ul}** hijo, Jacob, se convirtió en Israel.
 
@@ -287,6 +428,48 @@ I.  **Romanos 9:1-11:36 -- ¿Es Dios Justo en Su Trato con Israel?**
                 1.  *"Tendré **[misericordia]{.ul}** del que Yo tenga misericordia".*
 
                 2.  *"Y Me compadeceré del **[que]{.ul}** Yo me compadezca".\
+=======
+    
+                    a.  Sólo __<u>un</u>__ hijo, Jacob, se convirtió en Israel.
+    
+                    b.  El __<u>llamado</u>__ de Dios de Jacob sobre Esaú, determinó quien era un israelita auténtico. Romanos 9:10-13
+    
+###        4.  Estos son algunos principios que te ayudarán a entender la soberanía de Dios en Su poner a un lado (marginar) a Israel y el usar a la iglesia en la época presente.
+    
+            a.  Las __<u>promesas</u>__ de Dios son Su responsabilidad de guardar, y Él ciertamente las guardará. Gálatas 3:18, Hebreos 6:13-14
+    
+                1.  __<u>Dios</u>__ ha tratado con gracia a Israel basado en Sus promesas a los padres -- Abraham, Isaac y Jacob -- y continuará haciéndolo así hasta que haya cumplido Su palabra. Génesis 12:1-3; Éxodo 32:13
+    
+                2.  De una manera similar, Dios al presente está tratando con gracia a la __<u>iglesia</u>__ basándose en Sus promesas. Génesis 15:3b, Romanos 4:14,16, Gálatas 3:14-18,22
+    
+            b.  El __<u>llamamiento</u>__ de Dios al servicio es, y siempre ha sido, Su derecho exclusivo. Gálatas 3:29
+    
+                1.  Generalmente hablando, los tratos de Dios con Israel como una nación fueron basados principalmente en Su __<u>llamamiento</u>__ a los padres: Abraham, Isaac y Jacob. Génesis 17:8, Hebreos 6:13-18
+    
+                2.  Incluso ahora, de la misma manera, Dios basa Sus tratos presentes con la __<u>iglesia</u>__ por Su llamamiento de ella al servicio. (Griego: EKKLESIA, los llamados afuera, la iglesia) Romanos 8:28; 9:8, 11, 24-25; 11:29
+    
+            c.  Cuando Dios decide soberanamente cómo Él usará a Israel o a la iglesia, esto __<u>concuerda</u>__ perfectamente con Sus promesas y Sus llamamientos.
+    
+                1.  La promesa de Dios y el llamamiento concuerdan perfectamente con la soberanía de Dios en el libre ejercicio de Su voluntad. La promesa y el llamamiento de Dios nunca deben ser vistos como estando en conflicto, con Su derecho de __<u>gobernar</u>__ como Él lo considere mejor.
+    
+                2.  En Su soberanía, Dios puede, en cualquier momento, __<u>llamar</u>__ a Su servicio a cualquier individuo o grupo, pero esto puede ser bíblicamente observado, que Él siempre lo hace así, en perfecta armonía con Sus promesas.
+    
+            d.  Afirmación de Resumen: Las promesas y el llamamiento de Dios nunca están en conflicto, o comprometidos, ya que El __<u>gobierna</u>__ soberanamente.
+    
+###        5.  Romanos 9:14-18 -- ¿Ha sido Dios injusto en Su trato con Israel? ¡De ningún modo! Dios es __<u>justo</u>__ en Su trato con Israel.
+    
+            a.  Romanos 9:14 -- *"¿Qué, pues, diremos? ¿Qué hay injusticia en Dios? ¡En __<u>ninguna</u>__ manera!"* Salmo 11:7
+    
+                1.  Dios es absolutamente __<u>justo</u>__ en todo lo que hace. 2 Crónicas 19:7
+    
+                2.  Dios es absolutamente justo en Su trato con __<u>Israel</u>__, incluso si Él la pone a un lado (margina) por un tiempo. Salmo 99:4
+    
+            b.  Romanos 9:15 -- Dios es justo en Su trato con Israel porque, como le dijo a __<u>Moisés</u>__ en Éxodo 33:19, Él puede ser misericordioso de quien quiera, en cualquier momento y en cualquier lugar y de cualquier manera que Él elija.
+    
+                1.  *"Tendré __<u>misericordia</u>__ del que Yo tenga misericordia".*
+    
+                2.  *"Y Me compadeceré del __<u>que</u>__ Yo me compadezca".\
+>>>>>>> Stashed changes
                     *
 
             c.  Romanos 9:16 -- Dios es justo en Su trato con Israel, porque Dios no **[obra]{.ul}** basado en la manipulación o coerción.
@@ -328,6 +511,7 @@ I.  **Romanos 9:1-11:36 -- ¿Es Dios Justo en Su Trato con Israel?**
                 6.  ¿Es ***justo*** Dios al **[dejar]{.ul}** a un lado (endurecer) a Israel por un tiempo y mostrar misericordia a los gentiles? ¿Es Dios justo si ahora obra principalmente a través de la iglesia? Sí, Dios puede hacer legítimamente esto, ya que Él es libre de mostrar misericordia donde quiera que Él elija.\
                     **\
                     **
+<<<<<<< Updated upstream
 
         6.  Romanos 9:19-29 -- Pablo defendió el derecho de Dios para elegir a quién va a usar y no usar en el avance de Su **[plan]{.ul}** eterno.
 
@@ -343,6 +527,23 @@ I.  **Romanos 9:1-11:36 -- ¿Es Dios Justo en Su Trato con Israel?**
 
                 1.  Romanos 9:19 -- Estas preguntas podrían leerse: "Si Dios endurece irresistiblemente a alguien, ¿cómo puede **[culpar]{.ul}** a esa persona de rebelión?"
 
+=======
+    
+###        6.  Romanos 9:19-29 -- Pablo defendió el derecho de Dios para elegir a quién va a usar y no usar en el avance de Su __<u>plan</u>__ eterno.
+    
+            a.  Pregunta: ¿Por qué Dios necesita endurecer a alguien si todas las personas son *"por naturaleza hijos de ira y __<u>muertos</u>__ en sus delitos y pecados?"* Efesios 2:1-3
+    
+                1.  Cuando Dios endureció el corazón de Faraón, esto no sucedió así para que él fuese al infierno. Faraón, como un __<u>hombre</u>__ no salvo, ya estaba en camino al infierno.
+    
+                2.  Dios endureció el corazón de Faraón para que el Faraón no fuese a ceder ante la presión de las plagas y __<u>dejare</u>__ ir a Israel antes de tiempo, antes de que Dios hubiese realizado por completo Sus planes. Éxodo 10:7
+    
+                3.  ¡El faraón tuvo el privilegio de ser usado para la __<u>gloria</u>__ de Dios! Romanos 9:17
+    
+            b.  Romanos 9:19-29 -- Pablo da siete respuestas a __<u>dos</u>__ preguntas acusatorias levantadas por el oponente judío imaginario. *"¿Por qué, pues, inculpa? porque ¿quién ha resistido a Su voluntad?"*
+    
+                1.  Romanos 9:19 -- Estas preguntas podrían leerse: "Si Dios endurece irresistiblemente a alguien, ¿cómo puede __<u>culpar</u>__ a esa persona de rebelión?"
+    
+>>>>>>> Stashed changes
                 2.  Romanos 9:20a -- **1^ra^ respuesta**: ¿Qué derecho tienen los humanos para cuestionar a Dios sobre algo? (Job 38:4; 40:1) Respuesta: No tenemos el derecho de cuestionar a Dios.
 
                 3.  Romanos 9:20b -- **2^da^** **respuesta**: Es ilógico de un objeto modelado el preguntar a su creador en cuanto a su propósito diseñado. ¡Solo el Creador tiene el **[derecho]{.ul}** de decidir qué va a hacer con Su creación!
