@@ -2481,21 +2481,35 @@ ___
 ####              b.  Este mandato destacó el trabajo más grande de Timoteo, el de la enseñanza. Lo que Pablo le había enseñado a Timoteo eso debía prescribir, o pasar, a __<u>otros</u>__. 2 Timoteo 2:2
 
 ###          2.  **Segundo Mandato:** 1 Timoteo 4:11b -- *...y **enseña**. Enseñar* significa instruir por palabra de boca en boca. Timoteo debía activa, sistemática e intencionalmente instruir a otros en la verdad. El hecho de que Pablo diera este mandato puede indicar que Timoteo necesitaba un poco de insistencia para llevar a cabo esta __<u>tarea</u>__.
+___
+*enseña*
+**διδάσκω**- didaskō - Definición de Thayer:
+1) enseñar
+1a) dialogar con otros para instruirlos, impartir discursos didácticos
+1b) ser profesor
+1c) desempeñar el cargo de maestro, comportarse como maestro
+2) enseñar a uno
+2a) impartir instrucción
+2b) inculcar doctrina en uno
+2c) lo enseñado o prescrito
+2d) explicar o exponer una cosa
+2f) enseñarle algo a uno
 
 ###          3.  **Tercer Mandato:** 1 Timoteo 4:12a -- *Ninguno tenga en poco tu juventud...* La frase *...tenga en poco\...* significa pensar a la ligera o despreciar. Es algo común que los hombres mayores desprecien a los hombres más jóvenes. Por lo tanto, Pablo buscó animar a Timoteo en su papel y autoridad en Éfeso, animándolo a mantenerse __<u>fuerte</u>__.
 ___
+*Tenga en poco*
 **καταφρονέω** - kataphroneō Definición de Thayer:
-1) despreciar, despreciar, despreciar, pensar poco o nada de
+1) despreciar, menospreciar,  pensar poco o nada de
 
 ###          4.  **Cuarto Mandato:** 1 Timoteo 4:12b -- *...pero más bien en palabras, conducta, amor, fe y pureza, muéstrate un ejemplo de los que creen.* En su rol como evangelista, un pastor de pastores, Pablo sabía cuan extremadamente importante era para Timoteo llevar una vida piadosa. La vida personal de Timoteo tenía que __<u>coincidir</u>__ con su enseñanza.
 
-####              a.  Con el fin de que las personas no despreciaran su juventud, Pablo recordó a Timoteo varias áreas prácticas en las que debería ser un __<u>modelo</u>__. Filipenses 3:17
+#### a.  Con el fin de que las personas no despreciaran su juventud, Pablo recordó a Timoteo varias áreas prácticas en las que debería ser un __<u>modelo</u>__. Filipenses 3:17
 
-####              b.  *En palabras...* El lenguaje y la enseñanza de Timoteo debían ser un modelo a seguir para otros. Su hablar y enseñanza debían reflejar la gracia y la __<u>sana</u>__ doctrina. Efesios 4:29, Colosenses 4:6, 2 Timoteo 2:24-25, 1 Pedro 3:15
+#### b.  *En palabras...* El lenguaje y la enseñanza de Timoteo debían ser un modelo a seguir para otros. Su hablar y enseñanza debían reflejar la gracia y la __<u>sana</u>__ doctrina. Efesios 4:29, Colosenses 4:6, 2 Timoteo 2:24-25, 1 Pedro 3:15
 
-####              c.  *En conducta...* la vida diaria de Timoteo debía ser consecuente con su enseñanza y un __<u>ejemplo</u>__ a seguir para otros.
+#### c.  *En conducta...* la vida diaria de Timoteo debía ser consecuente con su enseñanza y un __<u>ejemplo</u>__ a seguir para otros.
 
-####              d.  *En amor* -- Timoteo debía ser un ejemplo en amor ágape. Este tipo de __<u>amor</u>__, como se describe en 1 Corintios 13:4-7, es imposible sin el Espíritu Santo produciéndolo en nosotros.
+#### d.  *En amor* -- Timoteo debía ser un ejemplo en amor ágape. Este tipo de __<u>amor</u>__, como se describe en 1 Corintios 13:4-7, es imposible sin el Espíritu Santo produciéndolo en nosotros.
 
 #####                  1.  Además, sin este tipo de amor, las palabras de Timoteo serían __<u>vacías</u>__ e inútiles. 1 Corintios 13:1-3, 13
 
@@ -3600,5 +3614,4 @@ ___
 </svg>
 
 <!-- .slide: data-background-iframe="https://quizizz.com/join" id="examen_quiz_" data-menu-title="QUIZ" data-preload -->
-
 
