@@ -2570,7 +2570,7 @@ ___
 
 ####              b.  1 Timoteo 4:14b -- \...*que te fue dado mediante profecía*\... ¿Cuál fue el don espiritual de Timoteo? 2 Timoteo 4:5 dice que su don fue el de un evangelista (un plantador de iglesias, un pastor de pastores). *Pero tú sé sobrio en todo, soporta las aflicciones, haz obra de evangelista, cumple tu __<u>ministerio</u>__*.
 
-####              c.  1 Timoteo 4:14c -- \...*con la imposición de las manos del presbiterio*. ¿Cómo se reconoció este __<u>don</u>__ espiritual en Timoteo? Fue dado *con la imposición de las manos del presbiterio* \[o ancianos\]. 2 Timoteo 1:6
+####              c.  1 Timoteo 4:14c -- \...*con la imposición de las manos del presbiterio.* ¿Cómo se reconoció este __<u>don</u>__ espiritual en Timoteo? Fue dado *con la imposición de las manos del presbiterio* \[o ancianos\]. 2 Timoteo 1:6
 
 #####                  1.  Un profeta estuvo presente con Pablo, Timoteo y los ancianos de la iglesia local. Dios le reveló a este profeta que Timoteo __<u>serviría</u>__ a Cristo como evangelista.
 
@@ -2586,7 +2586,7 @@ ___
 
 ####              b.  Este es un asunto que pocos en el ministerio entienden. Hoy se advierte a las personas que no se quemen o se excedan en su servicio. La lectura simple de estos mandatos de hecho comunican lo opuesto. Pablo estaba llamando a Timoteo a una inmersión total en el llamado de Dios para su __<u>vida</u>__. 1 Corintios 9:16, Filipenses 2:17, Colosenses 1:28-29, 2 Timoteo 4:6
 
-###          9.  **Noveno Mandato:** 1 Timoteo 4:16a -- *Ten cuidado de ti mismo y de la doctrina*\... Timoteo debía observar cuidadosamente tanto su vida personal como su ministerio público. Este tipo de atención a los detalles de la vida es esencial para el ministro de quien desea terminar __<u>bien</u>__ y disfrutar de una buena conciencia día tras día en el ministerio. 1 Timoteo 1:5, 1:19, 3:9, 4:2
+###          9.  **Noveno Mandato:** 1 Timoteo 4:16a -- *Ten cuidado de ti mismo y de la doctrina...*  Timoteo debía observar cuidadosamente tanto su vida personal como su ministerio público. Este tipo de atención a los detalles de la vida es esencial para el ministro de quien desea terminar __<u>bien</u>__ y disfrutar de una buena conciencia día tras día en el ministerio. 1 Timoteo 1:5, 1:19, 3:9, 4:2
 
 ####              a.  Muchos líderes de la iglesia que han sido sólidos en su doctrina han permitido en algún momento que el pecado no abordado u otros obstáculos terminen arruinando su ministerio. 1 Timoteo 1:18-20 muestra que esto le sucedió a algunos __<u>líderes</u>__.
 
@@ -2594,11 +2594,11 @@ ___
 
 ####              c.  Por estas razones, Pablo instruyó fuertemente a Timoteo a mantenerse enfocado en lo que realmente importaba. Quería que su hijo en la fe no solo se centrara en la enseñanza y permaneciera fiel a la sana doctrina, sino que también prestara atención a su vida personal. Él no debía enfocarse en los __<u>resultados</u>__.
 
-###          10. **Décimo Mandato:** 1 Timoteo 4:16b -- \...*persiste en ello, pues haciendo esto, te salvarás a ti mismo y a los que te oyeren*. El *persistir* era permanecer o mantenerse en un lugar. Era el no apartarse. Pablo enfatizó fuertemente a Timoteo que no se __<u>desviara</u>__ de rumbo, como lo hicieron los falsos maestros.
+###          10. **Décimo Mandato:** 1 Timoteo 4:16b -- *...persiste en ello, pues haciendo esto, te salvarás a ti mismo y a los que te oyeren.* El *persistir* era permanecer o mantenerse en un lugar. Era el no apartarse. Pablo enfatizó fuertemente a Timoteo que no se __<u>desviara</u>__ de rumbo, como lo hicieron los falsos maestros.
 
 ####              a.  Al cumplir los mandatos noveno y décimo, Timoteo aseguraría la salvación tanto para él como para sus oyentes. Timoteo no podía salvar a la gente del infierno. Entonces, ¿qué __<u>significa</u>__ la frase *te salvarás a ti mismo y a los que te oyeren*?
 
-####              b.  Como hemos discutido a menudo, la palabra salvación tiene tres tiempos: pasado, presente y futuro. Siempre que la palabra \"salvación\" aparezca, el contexto debe ser estudiado para determinar qué tiempo de la salvación está siendo enseñado. \"¿Salvos de qué?\" es la pregunta que ayuda a determinar el significado de la __<u>palabra</u>__.
+####              b.  Como hemos discutido a menudo, la palabra salvación tiene tres tiempos: pasado, presente y futuro. Siempre que la palabra "salvación" aparezca, el contexto debe ser estudiado para determinar qué tiempo de la salvación está siendo enseñado. "¿Salvos de qué?" es la pregunta que ayuda a determinar el significado de la __<u>palabra</u>__.
 
 #####                  1.  El contexto aquí tiene que ver con Timoteo cumpliendo su llamado y permaneciendo en comunión con el Señor en la vida diaria. Este es un contexto de santificación que describe cómo Timoteo sería salvo de una __<u>vida</u>__ de servicio infructuosa.
 
