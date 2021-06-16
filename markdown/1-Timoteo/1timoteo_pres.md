@@ -2468,6 +2468,7 @@ ___
 
 ###          9.  1 Timoteo 4:10c -- Confiamos en Él porque Él *...es el Salvador de todos los hombres, mayormente de los que creen.* Ahora, esto no significa que todos sean salvos, sino más bien que todos pueden ser salvos. El único requisito para la salvación es la fe en el Salvador que murió por nuestros pecados y resucitó al tercer __<u>día</u>__. Salmos 42:2, Jeremías 10:10, 1 Corintios 15:3-4
 
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/shield.png" data-background-size="300px" data-background-position="left" data-background-opacity="0.5"-->
 ##      E.  1 Timoteo 4:11-16 -- Diez mandatos para la protección de Timoteo
 
 ###          1.  **Primer Mandato:** 1 Timoteo 4:11a -- *Esto __<u>manda</u>__.* La palabra *manda* significa pasar un anuncio. Pablo ordenó a Timoteo que continuara, como práctica estándar, presentando y repitiendo estas verdades. 1 Timoteo 4:6a
