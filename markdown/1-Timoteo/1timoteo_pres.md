@@ -2471,6 +2471,7 @@ ___
 <!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/shield.png" data-background-size="300px" data-background-position="left" data-background-opacity="0.5"-->
 ##      E.  1 Timoteo 4:11-16 -- Diez mandatos para la protección de Timoteo
 
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/one.png" data-background-size="300px" data-background-position="left" data-background-opacity="0.5"-->
 ###          1.  **Primer Mandato:** 1 Timoteo 4:11a -- *Esto __<u>manda</u>__.* La palabra *manda* significa pasar un anuncio. Pablo ordenó a Timoteo que continuara, como práctica estándar, presentando y repitiendo estas verdades. 1 Timoteo 4:6a
 ___
 **παραγγέλλω** - paraggellō - Definición de Thayer:
@@ -2481,6 +2482,7 @@ ___
 
 ####              b.  Este mandato destacó el trabajo más grande de Timoteo, el de la enseñanza. Lo que Pablo le había enseñado a Timoteo eso debía prescribir, o pasar, a __<u>otros</u>__. 2 Timoteo 2:2
 
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/two.png" data-background-size="300px" data-background-position="left" data-background-opacity="0.5"-->
 ###          2.  **Segundo Mandato:** 1 Timoteo 4:11b -- *...y **enseña**. Enseñar* significa instruir por palabra de boca en boca. Timoteo debía activa, sistemática e intencionalmente instruir a otros en la verdad. El hecho de que Pablo diera este mandato puede indicar que Timoteo necesitaba un poco de insistencia para llevar a cabo esta __<u>tarea</u>__.
 ___
 *enseña*
@@ -2496,6 +2498,7 @@ ___
 2d) explicar o exponer una cosa
 2f) enseñarle algo a uno
 
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/tres.png" data-background-size="300px" data-background-position="left" data-background-opacity="0.5"-->
 ###          3.  **Tercer Mandato:** 1 Timoteo 4:12a -- *Ninguno tenga en poco tu juventud...* La frase *...tenga en poco\...* significa pensar a la ligera o despreciar. Es algo común que los hombres mayores desprecien a los hombres más jóvenes. Por lo tanto, Pablo buscó animar a Timoteo en su papel y autoridad en Éfeso, animándolo a mantenerse __<u>fuerte</u>__.
 ___
 *Tenga en poco*
@@ -2516,6 +2519,7 @@ ___
 *en pureza*
 <!-- .element: class="fragment" -->
 
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/cuantro.png" data-background-size="300px" data-background-position="left" data-background-opacity="0.5"-->
 ###          4.  **Cuarto Mandato:** 1 Timoteo 4:12b -- *...pero más bien en palabra, conducta, amor, fe y pureza, muéstrate un ejemplo de los que creen.* En su rol como evangelista, un pastor de pastores, Pablo sabía cuan extremadamente importante era para Timoteo llevar una vida piadosa. La vida personal de Timoteo tenía que __<u>coincidir</u>__ con su enseñanza.
 
 #### a.  Con el fin de que las personas no despreciaran su juventud, Pablo recordó a Timoteo varias áreas prácticas en las que debería ser un __<u>modelo</u>__. Filipenses 3:17
@@ -2534,6 +2538,7 @@ ___
 
 ####              f.  *En __<u>pureza</u>__* -- Timoteo debía mostrarse como un ejemplo a través de la forma en que vivía su vida en castidad como un hombre soltero. 1 Tesalonicenses 2:10-11, 2 Timoteo 2:22, Tito 2:7
 
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/cinco.png" data-background-size="300px" data-background-position="left" data-background-opacity="0.5"-->
 ###          5.  **Quinto Mandato:** 1 Timoteo 4:13 -- *Entre tanto que voy, ocúpate en...*  La frase *ocúpate en* es un verbo que ya hemos observado cuatro veces en 1 Timoteo. Es un término náutico que significa fijar un rumbo a o navegar hacia. Timoteo debía dirigir resueltamente su mente hacia la verdad. No debía haber desviación con respecto a la prioridad de la __<u>Palabra</u>__ de Dios.
 ___
 προσέχω - prosechō- Definición de Thayer:
@@ -2565,6 +2570,7 @@ ___
 
 #####                  2.  La instrucción cuidadosa a través de la enseñanza es vital para los creyentes para que puedan ser santificados a través de la verdad y así puedan rechazar la falsa doctrina y las __<u>mentiras</u>__. Juan 8:32, 17:17 2 Pedro 1:3-4
 
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/seis.png" data-background-size="300px" data-background-position="left" data-background-opacity="0.5"-->
 ###          6.  **Sexto Mandato:** 1 Timoteo 4:14 -- *No descuides el don* \['espiritual' -- LBLA\] *que hay en ti...* La palabra *descuides* significa ser negligente. Este verbo es un mandato de tiempo presente lo que significaba para Timoteo que debía evadir constantemente ser negligente en el uso de su __<u>don</u>__ espiritual.
 
 ####              a.  1 Timoteo 4:14a -- *No descuides el don* \['espiritual' -- LBLA\] *que hay en ti*\... Timoteo debía reconocer y recordar constantemente su llamado espiritual para que permaneciera enfocado en su rol a pesar de cualquier desafío que pudiera haber enfrentado en el ministerio en __<u>Éfeso</u>__.
@@ -2579,14 +2585,17 @@ ___
 
 #####                  3.  La imposición de manos no es la forma en que Timoteo recibió su don espiritual. La imposición de manos no produjo ni causó de alguna manera su don espiritual. Esto es confirmado por la preposición META traducida *__<u>con</u>__* (\... *con* \[seguido de\] *la imposición de las manos del presbiterio*).
 
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/siete.png" data-background-size="300px" data-background-position="left" data-background-opacity="0.5"-->
 ###          7.  **Séptimo Mandato:** 1 Timoteo 4:15a -- *Ocúpate en estas cosas...*  La afirmación *ocúpate en estas cosas* es una orden que significa considerar, concentrarse o reflexionar sobre estas cosas con el propósito de desempeñarse bien. Ocúpate en estas cosas significaba que Timoteo necesitaría ser incansable y tenaz en su dedicación a estos __<u>asuntos</u>__.
 
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/eight.png" data-background-size="300px" data-background-position="left" data-background-opacity="0.5"-->
 ###          8.  **Octavo Mandato:** 1 Timoteo 4:15b -- *...permanece en ellas, para que tu aprovechamiento sea manifiesto a todos.* El mandato aquí para *permanece en ellas*, es literalmente estar en ellas. La idea comunicada es que Timoteo debería estar viviendo y respirando estas cosas. Pablo estaba ultra interesado en que Timoteo estuviera completamente concentrado en cumplir su __<u>llamado</u>__.
 
 ####              a.  *Aprovechamiento* tiene la idea de avance. Timoteo debía perseguir apasionadamente el propósito de Dios para su vida, con atención continua al __<u>detalle</u>__.
 
 ####              b.  Este es un asunto que pocos en el ministerio entienden. Hoy se advierte a las personas que no se quemen o se excedan en su servicio. La lectura simple de estos mandatos de hecho comunican lo opuesto. Pablo estaba llamando a Timoteo a una inmersión total en el llamado de Dios para su __<u>vida</u>__. 1 Corintios 9:16, Filipenses 2:17, Colosenses 1:28-29, 2 Timoteo 4:6
 
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/nine.png" data-background-size="300px" data-background-position="left" data-background-opacity="0.5"-->
 ###          9.  **Noveno Mandato:** 1 Timoteo 4:16a -- *Ten cuidado de ti mismo y de la doctrina...*  Timoteo debía observar cuidadosamente tanto su vida personal como su ministerio público. Este tipo de atención a los detalles de la vida es esencial para el ministro de quien desea terminar __<u>bien</u>__ y disfrutar de una buena conciencia día tras día en el ministerio. 1 Timoteo 1:5, 1:19, 3:9, 4:2
 
 ####              a.  Muchos líderes de la iglesia que han sido sólidos en su doctrina han permitido en algún momento que el pecado no abordado u otros obstáculos terminen arruinando su ministerio. 1 Timoteo 1:18-20 muestra que esto le sucedió a algunos __<u>líderes</u>__.
@@ -2595,6 +2604,7 @@ ___
 
 ####              c.  Por estas razones, Pablo instruyó fuertemente a Timoteo a mantenerse enfocado en lo que realmente importaba. Quería que su hijo en la fe no solo se centrara en la enseñanza y permaneciera fiel a la sana doctrina, sino que también prestara atención a su vida personal. Él no debía enfocarse en los __<u>resultados</u>__.
 
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/ten.png" data-background-size="300px" data-background-position="left" data-background-opacity="0.5"-->
 ###          10. **Décimo Mandato:** 1 Timoteo 4:16b -- *...persiste en ello, pues haciendo esto, te salvarás a ti mismo y a los que te oyeren.* El *persistir* era permanecer o mantenerse en un lugar. Era el no apartarse. Pablo enfatizó fuertemente a Timoteo que no se __<u>desviara</u>__ de rumbo, como lo hicieron los falsos maestros.
 
 ####              a.  Al cumplir los mandatos noveno y décimo, Timoteo aseguraría la salvación tanto para él como para sus oyentes. Timoteo no podía salvar a la gente del infierno. Entonces, ¿qué __<u>significa</u>__ la frase *te salvarás a ti mismo y a los que te oyeren*?
