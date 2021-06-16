@@ -2501,7 +2501,21 @@ ___
 **καταφρονέω** - kataphroneō Definición de Thayer:
 1) despreciar, menospreciar,  pensar poco o nada de
 
-###          4.  **Cuarto Mandato:** 1 Timoteo 4:12b -- *...pero más bien en palabras, conducta, amor, fe y pureza, muéstrate un ejemplo de los que creen.* En su rol como evangelista, un pastor de pastores, Pablo sabía cuan extremadamente importante era para Timoteo llevar una vida piadosa. La vida personal de Timoteo tenía que __<u>coincidir</u>__ con su enseñanza.
+1 Timoteo 4:12
+*muéstrate un ejemplo de los que creen...*
+<!-- .element: class="fragment" -->
+*en palabra*
+<!-- .element: class="fragment" -->
+*en conducta*
+<!-- .element: class="fragment" -->
+*en amor*
+<!-- .element: class="fragment" -->
+*en fe*
+<!-- .element: class="fragment" -->
+*en pureza*
+<!-- .element: class="fragment" -->
+
+###          4.  **Cuarto Mandato:** 1 Timoteo 4:12b -- *...pero más bien en palabra, conducta, amor, fe y pureza, muéstrate un ejemplo de los que creen.* En su rol como evangelista, un pastor de pastores, Pablo sabía cuan extremadamente importante era para Timoteo llevar una vida piadosa. La vida personal de Timoteo tenía que __<u>coincidir</u>__ con su enseñanza.
 
 #### a.  Con el fin de que las personas no despreciaran su juventud, Pablo recordó a Timoteo varias áreas prácticas en las que debería ser un __<u>modelo</u>__. Filipenses 3:17
 
