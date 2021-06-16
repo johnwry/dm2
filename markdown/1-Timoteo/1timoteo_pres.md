@@ -2446,7 +2446,7 @@ ___
 <!-- .element: class="fragment" style="color:white;" -->
 #### A mirar adelante con **esperanza** (Tito 2:13)
 <!-- .element: class="fragment" style="color:white;" -->
-#### A regocijarme (Hechos 11:23)
+#### A regocijarme (2 Corintios 4:15, Hechos 11:23)
 <!-- .element: class="fragment" style="color:white;" -->
 #### A mantenerme sano en mi doctrina (2 Pedro 3:17-18)
 <!-- .element: class="fragment" style="color:white;" -->
@@ -2483,8 +2483,11 @@ ___
 ###          2.  **Segundo Mandato:** 1 Timoteo 4:11b -- *...y **enseña**. Enseñar* significa instruir por palabra de boca en boca. Timoteo debía activa, sistemática e intencionalmente instruir a otros en la verdad. El hecho de que Pablo diera este mandato puede indicar que Timoteo necesitaba un poco de insistencia para llevar a cabo esta __<u>tarea</u>__.
 
 ###          3.  **Tercer Mandato:** 1 Timoteo 4:12a -- *Ninguno tenga en poco tu juventud...* La frase *...tenga en poco\...* significa pensar a la ligera o despreciar. Es algo común que los hombres mayores desprecien a los hombres más jóvenes. Por lo tanto, Pablo buscó animar a Timoteo en su papel y autoridad en Éfeso, animándolo a mantenerse __<u>fuerte</u>__.
+___
+**καταφρονέω** - kataphroneō Definición de Thayer:
+1) despreciar, despreciar, despreciar, pensar poco o nada de
 
-###          4.  **Cuarto Mandato:** 1 Timoteo 4:12b -- \...*pero más bien en palabras, conducta, amor, fe y pureza, muéstrate un ejemplo de los que creen*. En su rol como evangelista, un pastor de pastores, Pablo sabía cuan extremadamente importante era para Timoteo llevar una vida piadosa. La vida personal de Timoteo tenía que __<u>coincidir</u>__ con su enseñanza.
+###          4.  **Cuarto Mandato:** 1 Timoteo 4:12b -- *...pero más bien en palabras, conducta, amor, fe y pureza, muéstrate un ejemplo de los que creen.* En su rol como evangelista, un pastor de pastores, Pablo sabía cuan extremadamente importante era para Timoteo llevar una vida piadosa. La vida personal de Timoteo tenía que __<u>coincidir</u>__ con su enseñanza.
 
 ####              a.  Con el fin de que las personas no despreciaran su juventud, Pablo recordó a Timoteo varias áreas prácticas en las que debería ser un __<u>modelo</u>__. Filipenses 3:17
 
