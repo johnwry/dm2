@@ -71,17 +71,17 @@ ___
 
 ####            b.  Romanos 9:2 -- Pablo refutó la mentira de que él no estaba preocupado por __<u>Israel</u>__.
 
-                1.  *"Que tengo __<u>gran]{.ul} tristeza**"* (griego: LUPE*,* pesadez dolorosa).
+#####                 1.  *"Que tengo __<u>gran]{.ul} tristeza**"* (griego: LUPE*,* pesadez dolorosa).
     
-                2.  *"Continuo **dolor** "* (griego: ODUNE, __<u>dolor</u>__, dolor consumidor, angustia)
+#####                 2.  *"Continuo **dolor** "* (griego: ODUNE, __<u>dolor</u>__, dolor consumidor, angustia)
     
-            c.  Romanos 9:3 -- Pablo mostró su verdadero amor por Israel al decir que estaría dispuesto a dar su __<u>vida</u>__ eterna por ella.
+####            c.  Romanos 9:3 -- Pablo mostró su verdadero amor por Israel al decir que estaría dispuesto a dar su __<u>vida</u>__ eterna por ella.
     
-                1.  __<u>Pablo</u>__ desearía ser maldito (griego: ANATHEMA, maldito, separado de Cristo por siempre) si ese sacrificio podría obtener la salvación de Israel.
+#####                 1.  __<u>Pablo</u>__ desearía ser maldito (griego: ANATHEMA, maldito, separado de Cristo por siempre) si ese sacrificio podría obtener la salvación de Israel.
     
-                    a.  A pesar de que era imposible hacerlo, él estaba dispuesto a __<u>morir</u>__ eternamente para que Israel fuese salvo.
+######                    a.  A pesar de que era imposible hacerlo, él estaba dispuesto a __<u>morir</u>__ eternamente para que Israel fuese salvo.
     
-                    b.  La disposición de Pablo a dar su vida por el pueblo de __<u>Israel</u>__ demostró su fiel amor por ellos.
+######                    b.  La disposición de Pablo a dar su vida por el pueblo de __<u>Israel</u>__ demostró su fiel amor por ellos.
     
                 2.  Pablo se identificó con Israel, llamando al pueblo de Israel, *\"mis hermanos, los que son mis parientes según la __<u>carne</u>__\".*
     
@@ -411,9 +411,9 @@ ___
                     a.  Romanos 9:33a -- Dios ofreció a Jesús al pueblo judío, pero para ellos Él fue una piedra de tropiezo y __<u>roca</u>__ de ofensa. No tenía intención de enfadarlos, pero así es la respuesta del hombre natural al tener que depender totalmente de la muerte y resurrección de Jesús para la salvación. Hechos 17:18, 31-32
     
                     b.  Romanos 9:33b -- Dios dice claramente que todo aquel que __<u>confía</u>__ en Jesucristo para la salvación no será decepcionado. Salmo 34:22, 37:40
-    
+
 ##    B.  **Romanos 10:1-21 -- El trato justo de Dios con Israel en el PRESENTE**
-    
+
         1.  Romanos 10:1-5 -- Israel tuvo dificultad para entender la manera de Dios de impartir justicia.
     
             a.  Romanos 10:1 -- Pablo reafirmó su profundo __<u>amor</u>__ por Israel.
@@ -1079,7 +1079,7 @@ ___
 # II. **Romanos 12:1-21 -- La Justicia de Dios en Nuestro Servicio a Él.**
 
 ##    A.  **Romanos 12:1-2 -- Nuestro servicio espiritual de adoración**
-    
+
         1.  Los versículos 1 y 2 son una **introducción** al resto del libro de Romanos. El resto de Romanos (capítulos 12-16) **explica** la buena, agradable y perfecta __<u>voluntad</u>__ de Dios para el creyente en el curso de su vida diaria.
     
         2.  A la luz de la misericordia de Dios, *así que, hermanos, os ruego...*
@@ -1447,7 +1447,7 @@ ___
 # III. **Romanos 13:1-14 -- La Justicia de Dios en Nuestro Servicio a la Sociedad**
 
 ##     A.  **Romanos 13:1-7 -- El servicio del creyente al gobierno humano**
-    
+
          1.  Introducción
     
              a.  Como cualquier otro hombre judío, Jesús pagó un __<u>impuesto</u>__ anual de dos dracmas para el mantenimiento del templo. Éxodo 30:13-16, Mateo 17:24-27
@@ -1531,9 +1531,9 @@ ___
              b.  Romanos 13:7b -- ...*lo que debéis*... No pagues de más. Simplemente paga __<u>todo</u>__ lo que debes.
     
              c.  Romanos 13:7c -- Paga siempre los *tributos* (impuesto sobre tus ingresos), el *impuesto* de aduana (derechos de importación), __<u>*respeto*</u>__ (temor), y *honra* (decoro) cuándo y dónde lo debas.
-    
+
 ##     B.  **Romanos 13:8-10 -- El servicio del creyente a sus vecinos inconversos**
-    
+
          1.  Deshazte de todas las deudas, excepto de la deuda de __<u>amor</u>__ que le debes a Dios. ¡Nunca podrás pagar tu deuda de amor a Dios en su totalidad! Romanos 1:14-15
     
              a.  Romanos 13:8 -- Tanto como sea humanamente posible, Dios nos manda a __<u>no</u>__ estar financieramente, materialmente, o de otra manera en deuda con nadie.
