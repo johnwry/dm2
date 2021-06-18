@@ -2788,7 +2788,8 @@ El legalismo le quita el foco de Cristo y lo pone en el hombre y en sus esfuerzo
 
 ### 2. Gálatas 5:16b -- Dios promete que si andamos en el Espíritu, no satisfaremos los __<u>apetitos</u>__ de la carne. "*...Andad en el Espíritu, y no satisfagáis* [*no cumpliréis* -- LBLA] *los deseos de la carne.*"
 ___
-Gal 5:16 ** λεγω**  G3004 V-PAI-1S  **δε**  G1161 CONJ 
+Gálatas 5:16
+**λεγω**  G3004 V-PAI-1S  **δε**  G1161 CONJ 
 <!-- .element: class="fragment" -->
 **πνευματι**  G4151 N-DSN  **περιπατειτε**  G4043 V-PAM-2P 
 <!-- .element: class="fragment" -->
