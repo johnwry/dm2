@@ -2766,7 +2766,7 @@ El legalismo le quita el foco de Cristo y lo pone en el hombre y en sus esfuerzo
 # XV. Gálatas 5:16-26 -- Andando en el Espíritu
 <!-- .element: style="color:white;" -->
 
-## A. Gálatas 5:16 -- Contemplemos el mandato vital de la vida cristiana: *<u>Andad</u> en el Espíritu.*
+## A. Gálatas 5:16 -- Contemplemos el mandato vital de la vida cristiana: \*<u>Andad</u> en el Espíritu.\*
 
 ### 1. Gálatas 5:16a -- Después de haber demostrado que ni el legalismo ni el libertinaje son correctos para un cristiano, Pablo ordenó a los creyentes de galacia andar en el Espíritu como un __<u>precepto</u>__ general para vivir.
 
