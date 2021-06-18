@@ -2346,7 +2346,7 @@ El legalismo le quita el foco de Cristo y lo pone en el hombre y en sus esfuerzo
 
 #### c. Tal como Pablo había dejado atrás la forma judía del legalismo (se había convertido en lo que los gálatas __<u>eran</u>__), ahora quería que los gálatas se volvieran como él y se liberaran del legalismo de los judaizantes.
 
-### 5. Gálatas 4:12c -- Pablo concluyó este pensamiento diciendo: \"...*Ningún agravio me habéis hecho*\". Pablo no tomó el legalismo de los gálatas como un __<u>insulto</u>__ personal. El mal que estaban haciendo era en contra de Dios y en contra de ellos mismos. 1 Pedro 4:8
+### 5. Gálatas 4:12c -- Pablo concluyó este pensamiento diciendo: "*...Ningún agravio me habéis hecho*". Pablo no tomó el legalismo de los gálatas como un __<u>insulto</u>__ personal. El mal que estaban haciendo era en contra de Dios y en contra de ellos mismos. 1 Pedro 4:8
 
 ## B. Gálatas 4:13-20 -- Pablo esperó una respuesta positiva a sus afectos pastorales.
 
@@ -2366,7 +2366,7 @@ El legalismo le quita el foco de Cristo y lo pone en el hombre y en sus esfuerzo
 
 ##### 2) Pablo preguntó a dónde se había ido esa gratitud inicial. Habían __<u>perdido</u>__ esa actitud de amor hacia él.
 
-### 2. Gálatas 4:16 -- Como resultado del engaño de los __<u>falsos</u>__ maestros, los gálatas se enorgullecieron y, por lo tanto, excluyeron a Pablo de sus vidas. "*¿Me he hecho, pues, vuestro enemigo, por deciros la verdad?".*
+### 2. Gálatas 4:16 -- Como resultado del engaño de los __<u>falsos</u>__ maestros, los gálatas se enorgullecieron y, por lo tanto, excluyeron a Pablo de sus vidas. "*¿Me he hecho, pues, vuestro enemigo, por deciros la verdad?*".
 
 #### a. Inicialmente, cuando los gálatas estuvieron de acuerdo con el mensaje de Pablo, lo vieron como un ángel, pero cuando estuvieron en desacuerdo debido al legalismo, lo vieron como un __<u>enemigo</u>__.
 
@@ -2374,25 +2374,25 @@ El legalismo le quita el foco de Cristo y lo pone en el hombre y en sus esfuerzo
 
 ### 3. Gálatas 4:17 -- Los falsos maestros deben ser considerados lobos o __<u>perros</u>__ peligrosos. En Galacia, estos maestros estaban engañando a los creyentes hacia el legalismo. Hechos 20:25-31, Filipenses 3:2, Isaías 53:6
 
-#### a. Gálatas 4:17a -- "*Tienen **celo por vosotros**\...".* Los falsos maestros legalistas buscaban con *celo* __<u>conquistar</u>__ a los gálatas con sus errores doctrinales. Gálatas 1:7, 5:7, 10, 12
+#### a. Gálatas 4:17a -- "*Tienen **celo por vosotros**...*". Los falsos maestros legalistas buscaban con *celo* __<u>conquistar</u>__ a los gálatas con sus errores doctrinales. Gálatas 1:7, 5:7, 10, 12
 
-#### b. Gálatas 4:17b -- "...*pero **no para bien**\...".* Estos legalistas buscaban apartar los corazones de los gálatas lejos del apóstol Pablo y la gracia de Dios hacia la __<u>forma</u>__ de pensar de ellos. Gálatas 6:12-13
+#### b. Gálatas 4:17b -- "...*pero **no para bien**...*". Estos legalistas buscaban apartar los corazones de los gálatas lejos del apóstol Pablo y la gracia de Dios hacia la __<u>forma</u>__ de pensar de ellos. Gálatas 6:12-13
 
-#### c. Gálatas 4:17c -- "...*sino que quieren **apartaros** de nosotros\...".* Los legalistas __<u>nunca</u>__ están inactivos, pero tratan constantemente de abrirse camino en las iglesias cuya base está en la gracia. Mateo 23:15
+#### c. Gálatas 4:17c -- "...*sino que quieren **apartaros** de nosotros...*". Los legalistas __<u>nunca</u>__ están inactivos, pero tratan constantemente de abrirse camino en las iglesias cuya base está en la gracia. Mateo 23:15
 
-#### d. Gálatas 4:17d -- "...*para que vosotros tengáis celo por ellos".* Los legalistas modernos todavía tratan de seducir a los creyentes y alejarlos de la __<u>gracia</u>__ y de aquellos que enseñan un verdadero evangelio.
+#### d. Gálatas 4:17d -- "*...para que vosotros tengáis celo por ellos*". Los legalistas modernos todavía tratan de seducir a los creyentes y alejarlos de la __<u>gracia</u>__ y de aquellos que enseñan un verdadero evangelio.
 
 ### 4. Gálatas 4:18 -- Pablo apeló a los gálatas para que se dieran cuenta de la __<u>razón</u>__ por la que eran buscados.
 
-#### a. Gálatas 4:18a -- "*Bueno es mostrar celo en lo bueno siempre\...".* Pablo les recordó que es __<u>bueno</u>__ ser perseguidos celosamente si aquellos que persiguen tienen la motivación correcta. En este caso, era obvio que los legalistas no tenían sus mejores intereses en mente.
+#### a. Gálatas 4:18a -- "*Bueno es mostrar celo en lo bueno siempre...*". Pablo les recordó que es __<u>bueno</u>__ ser perseguidos celosamente si aquellos que persiguen tienen la motivación correcta. En este caso, era obvio que los legalistas no tenían sus mejores intereses en mente.
 
-#### b. Gálatas 4:18b -- "...*y no solamente cuando estoy presente con vosotros".* Pablo aseguró a los gálatas que él siempre tuvo su __<u>mejor</u>__ interés en mente, ya sea que estuviera con ellos o lejos de ellos. Hechos 20:25-31
+#### b. Gálatas 4:18b -- "*...y no solamente cuando estoy presente con vosotros*". Pablo aseguró a los gálatas que él siempre tuvo su __<u>mejor</u>__ interés en mente, ya sea que estuviera con ellos o lejos de ellos. Hechos 20:25-31
 
 ### 5. Gálatas 4:19-20 -- Considera el __<u>corazón</u>__ pastoral, el espíritu, y la pasión de Pablo. 1 Corintios 4:15
 
-#### a. Gálatas 4:19a -- "*Hijitos míos, por quienes vuelvo a sufrir dolores de parto\...".* Pablo no estaba diciendo que los gálatas necesitaban nacer de nuevo. Estaba expresando su pasión por estos creyentes comparándola con una madre que voluntariamente sufre los dolores de __<u>parto</u>__ por su hijo. 3 Juan 4 
+#### a. Gálatas 4:19a -- "*Hijitos míos, por quienes vuelvo a sufrir dolores de parto...*". Pablo no estaba diciendo que los gálatas necesitaban nacer de nuevo. Estaba expresando su pasión por estos creyentes comparándola con una madre que voluntariamente sufre los dolores de __<u>parto</u>__ por su hijo. 3 Juan 4 
 
-#### b. Gálatas 4:19b -- "...*hasta que Cristo sea formado en vosotros".* El objetivo principal del fiel pastor es trabajar con las ovejas *hasta que Cristo sea __<u>formado</u>__* o desarrollado en ellas. 1 Tesalonicenses 2:7, Efesios 3:16-17
+#### b. Gálatas 4:19b -- "*...hasta que Cristo sea formado en vosotros*". El objetivo principal del fiel pastor es trabajar con las ovejas *hasta que Cristo sea __<u>formado</u>__* o desarrollado en ellas. 1 Tesalonicenses 2:7, Efesios 3:16-17
 
 #### c. Gálatas 4:20 -- Pablo deseaba poder estar con los Gálatas y cambiar su __<u>tono</u>__ a uno de compasión en lugar de uno de corrección. "*quisiera estar con vosotros ahora mismo y cambiar de tono, pues estoy perplejo en cuanto a vosotros*". 2 Corintios 7:8, 9, 12
 
