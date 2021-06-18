@@ -2793,6 +2793,8 @@ El legalismo le quita el foco de Cristo y lo pone en el hombre y en sus esfuerzo
 #### b. La palabra *deseos* EPITHUMIA significa un fuerte __<u>deseo</u>__ y puede tener una buena o mala connotación dependiendo del contexto. Filipenses 1:23, 1 Tesalonicenses 2:17
 
 #### c. La palabra *no*  OU ME es un doble negativo que significa "no, __<u>nunca</u>__", haciendo de este versículo una promesa enfática. "*Digo, pues: Andad en el Espíritu, y __no satisfagáis__* [*no cumpliréis* -- LBLA] *los deseos de la carne.*"
+___
+Gal 5:16  λεγω G3004 V-PAI-1S  δε G1161 CONJ  πνευματι G4151 N-DSN  περιπατειτε G4043 V-PAM-2P  και G2532 CONJ  επιθυμιαν G1939 N-ASF  σαρκος G4561 N-GSF  ου G3756 PRT-N  μη G3361 PRT-N  τελεσητε G5055 V-AAS-2P 
 
 ## B. Gálatas 5:17 -- Comprendamos el conflicto que puede impedir nuestro <u>andar</u> en el Espíritu.
 
@@ -3320,16 +3322,16 @@ El legalismo le quita el foco de Cristo y lo pone en el hombre y en sus esfuerzo
 
 ##### 2) Pablo deseaba que la gracia o el favor abundaran para __<u>cada</u>__ creyente en Galacia, tal como deberíamos desear la gracia para cada creyente hoy en día.
 
-#### b. Gálatas 6:18b -- "*Hermanos, la gracia de nuestro Señor Jesucristo\...".* La verdadera gracia viene del Señor Jesucristo como su fuente. Es importante recordar esto y el impulso de Pablo aquí es todavía __<u>sentido</u>__ por todos los que leemos Gálatas.
+#### b. Gálatas 6:18b -- "*Hermanos, la gracia de nuestro Señor Jesucristo...*". La verdadera gracia viene del Señor Jesucristo como su fuente. Es importante recordar esto y el impulso de Pablo aquí es todavía __<u>sentido</u>__ por todos los que leemos Gálatas.
 
-#### c. Gálatas 6:18c -- "*Hermanos, la gracia \...sea con vuestro __<u>espíritu</u>__. Amén"*.
+#### c. Gálatas 6:18c -- "*Hermanos, la gracia...sea con vuestro __<u>espíritu</u>__. Amén*".
 
-##### 1) *"...la gracia \...sea con\..."* Pablo concluyó su carta a sus hermanos y hermanas en Cristo que estaban en el error tal como la __<u>comenzó</u>__ (Gálatas 1:3) con un recordatorio importante de lo que realmente cuenta: la gracia de Dios. 
+##### 1) "*...la gracia...sea con...*" Pablo concluyó su carta a sus hermanos y hermanas en Cristo que estaban en el error tal como la __<u>comenzó</u>__ (Gálatas 1:3) con un recordatorio importante de lo que realmente cuenta: la gracia de Dios. 
 
-##### 2) *"Hermanos \...sea con vuestro __<u>espíritu</u>__\...".* La palabra hermanos ADELPHOI incluida aquí, nos recuerda que Pablo no dudaba de la salvación de ellos.
+##### 2) "*Hermanos...sea con vuestro __<u>espíritu</u>__ ...*". La palabra hermanos ADELPHOI incluida aquí, nos recuerda que Pablo no dudaba de la salvación de ellos.
 
 ##### 3) Él deseaba que esta gracia descansara en su __<u>espíritu</u>__ y **no** en sus cuerpos, propiedades, ganado o tierras o incluso en sus cuentas bancarias.
 
-##### 4) 1 Pedro 5:12b -- Pedro lo dijo bien cuando dijo: *\"...esta es la __<u>verdadera</u>__ gracia de Dios, en la cual estáis\".*
+##### 4) 1 Pedro 5:12b -- Pedro lo dijo bien cuando dijo: "*...esta es la __<u>verdadera</u>__ gracia de Dios, en la cual estáis*".
 
 <!-- .slide: data-background-iframe="https://quizizz.com/join" id="examen_quiz_" data-menu-title="QUIZ" data-preload -->
