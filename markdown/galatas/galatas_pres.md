@@ -2722,25 +2722,25 @@ El legalismo le quita el foco de Cristo y lo pone en el hombre y en sus esfuerzo
 
 #### a. Gálatas 5:12a -- "*Ojalá se mutilasen...*" es una declaración sarcástica para mostrar el __<u>desdén</u>__ de Pablo por los legalistas que difunden las falsas enseñanzas de la circuncisión. ¡Pablo deseó que fueran aún más lejos y se castraran! Hechos 15:1, 6, 12-16
 
-#### b. Gálatas 5:12b -- Pablo llamó a los legalistas *"...los que os perturban".* Cualquiera que nos someta a cualquier forma de legalismo está provocando problemas e interrumpiendo nuestra __<u>fe</u>__.
+#### b. Gálatas 5:12b -- Pablo llamó a los legalistas "*...los que os perturban*". Cualquiera que nos someta a cualquier forma de legalismo está provocando problemas e interrumpiendo nuestra __<u>fe</u>__.
 
 #### c. Gálatas 5:12c -- El uso de Pablo de esta __<u>vívida</u>__ figura contra los legalistas muestra cómo nosotros tampoco debemos tolerar el legalismo y su enfoque ritualista, basado en obras, para la espiritualidad en la iglesia hoy. En realidad, Pablo esperaba la remoción abrupta de ellos de las iglesias de Galacia.
 
 ## C. Gálatas 5:13-15 -- Debemos permanecer firmes en contra de satisfacer a la carne. Aunque no es el enfoque principal de esta carta, Pablo también se opuso a la <u>licencia</u> o la vida de libertinaje. Pablo se tomó un momento para abordar este problema.
 
-### 1. Gálatas 5:13a -- "*Porque vosotros, hermanos, a libertad fuisteis llamados...".* La libertad en Cristo se aplica a nuestra vida cotidiana ya que ser __<u>libres</u>__ en Cristo es nuestro derecho de nacimiento. Lucas 4:18-19
+### 1. Gálatas 5:13a -- "*Porque vosotros, hermanos, a libertad fuisteis llamados...*". La libertad en Cristo se aplica a nuestra vida cotidiana ya que ser __<u>libres</u>__ en Cristo es nuestro derecho de nacimiento. Lucas 4:18-19
 
 #### a. Vimos en el versículo 1 de este capítulo que fue para libertad que Cristo nos hizo libres. Jesucristo es el autor de nuestra libertad espiritual y nos llama a __<u>disfrutarla</u>__ en Él.
 
 #### b. Como resultado de nuestra permanente posición en Cristo, estamos libres de la Ley de Moisés (Romanos 7:1-6), pero no estamos libres de la ley de Cristo, que es __<u>amar</u>__. 1 Corintios 9:21, Gálatas 6:2
 
-### 2. Gálatas 5:13b -- Para que tu libertad en Cristo no te lleve a sentir que tienes licencia para satisfacer a la carne, Pablo advirtió: \"*...solamente que no uséis la libertad como ocasión para la __<u>carne</u>__...*"
+### 2. Gálatas 5:13b -- Para que tu libertad en Cristo no te lleve a sentir que tienes licencia para satisfacer a la carne, Pablo advirtió: "*...solamente que no uséis la libertad como ocasión para la __<u>carne</u>__...*"
 
 #### a. Nuestra libertad en Cristo no debe interpretarse como una licencia para __<u>pecar</u>__.
 
 #### b. El pecado entre los cristianos es inaceptable. La gracia de Dios y tu libertad en Cristo no son dadas para que puedas cumplir tus propios deseos, sino para que puedas hacer la __<u>voluntad</u>__ de Dios.
 
-### 3. Gálatas 5:13c -- "*...sino __<u>servíos</u>__ por amor los unos a los otros".* La libertad en Cristo debe conducir al servicio.
+### 3. Gálatas 5:13c -- "*...sino __<u>servíos</u>__ por amor los unos a los otros*". La libertad en Cristo debe conducir al servicio.
 
 #### a. Como creyente, debes usar tu libertad para servir a Dios y a los __<u>demás</u>__.
 
