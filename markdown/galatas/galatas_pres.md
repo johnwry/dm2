@@ -2758,7 +2758,7 @@ El legalismo le quita el foco de Cristo y lo pone en el hombre y en sus esfuerzo
 
 ### 5. Gálatas 5:15 -- Este versículo describe el resultado de vivir por la __<u>carne</u>__. Siempre conduce a la corrupción.
 
-#### a.  "*Pero si os mordéis y os __<u>coméis</u>__ unos a otros... *" La palabra "*si*" aquí es una condición de primera clase en griego, lo cual da la impresión de que esto probablemente era una realidad. Probablemente se estaban destruyendo entre sí por sus disputas.
+#### a.  "*Pero si os mordéis y os __<u>coméis</u>__ unos a otros...*". La palabra *si* aquí es una condición de primera clase en griego, lo cual da la impresión de que esto probablemente era una realidad. Probablemente se estaban destruyendo entre sí por sus disputas.
 
 #### b. Los resultados del legalismo o la licencia son que los cristianos se __<u>devoran</u>__ mutuamente a través de disputas. Claramente estos excesos son lo opuesto al amor. Filipenses 2:14-16
 
