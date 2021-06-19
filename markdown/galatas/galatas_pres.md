@@ -2758,7 +2758,7 @@ El legalismo le quita el foco de Cristo y lo pone en el hombre y en sus esfuerzo
 
 ### 5. Gálatas 5:15 -- Este versículo describe el resultado de vivir por la __<u>carne</u>__. Siempre conduce a la corrupción.
 
-#### a. "*Pero si os mordéis y os __<u>coméis</u>__ unos a otros...*" La palabra "*si*" aquí es una condición de primera clase en griego, lo cual da la impresión de que esto probablemente era una realidad. Probablemente se estaban destruyendo entre sí por sus disputas.
+#### a. "*Pero si os mordéis y os __<u>coméis</u>__ unos a otros*..." La palabra "*si*" aquí es una condición de primera clase en griego, lo cual da la impresión de que esto probablemente era una realidad. Probablemente se estaban destruyendo entre sí por sus disputas.
 
 #### b. Los resultados del legalismo o la licencia son que los cristianos se __<u>devoran</u>__ mutuamente a través de disputas. Claramente estos excesos son lo opuesto al amor. Filipenses 2:14-16
 
@@ -2788,7 +2788,7 @@ El legalismo le quita el foco de Cristo y lo pone en el hombre y en sus esfuerzo
 
 ### 2. Gálatas 5:16b -- Dios promete que si andamos en el Espíritu, no satisfaremos los __<u>apetitos</u>__ de la carne. "*...Andad en el Espíritu, y no satisfagáis* [*no cumpliréis* -- LBLA] *los deseos de la carne.*"
 ___
-Gálatas 5:16
+### Gálatas 5:16
 **λεγω**  G3004 V-PAI-1S  **δε**  G1161 CONJ 
 <!-- .element: class="fragment" -->
 **πνευματι**  G4151 N-DSN  **περιπατειτε**  G4043 V-PAM-2P 
@@ -2799,6 +2799,10 @@ Gálatas 5:16
 <!-- .element: class="fragment" -->
 **τελεσητε**  G5055 V-AAS-2P - subjuntivo no dice cuando pero, si Dios lo hace - certero
 <!-- .element: class="fragment" -->
+___
+16 Digo, pues: Anden en el Espíritu, y así jamás satisfarán los malos deseos de la carne.RVA2005
+16 Digo, pues: anden por el Espíritu, y no cumplirán el deseo de la carne.NBLA
+
 
 #### a. El término *carne* SARX aparece más de 90 veces en las epístolas de Pablo y puede referirse a varias cosas, incluyendo el cuerpo físico (1 Corintios 15:39), la humanidad en general (Gálatas 1:16) o la __<u>naturaleza</u>__ pecaminosa depravada heredada de Adán. Romanos 8:12
 
