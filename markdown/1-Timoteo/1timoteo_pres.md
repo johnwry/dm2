@@ -2813,7 +2813,7 @@ ___
 
 ###        6.  1 Timoteo 5:11-15 -- ¿Qué hay de las viudas más __<u>jóvenes</u>__?
 
-####            a.  1 Timoteo 5:11a -- *Pero viudas más jóvenes no admitas*\... Pablo le dijo a Timoteo que prohibiera la inclusión de viudas más jóvenes en la lista para ser asistidas por la iglesia. ¿__<u>Por</u> [qué</u>__?
+####            a.  1 Timoteo 5:11a -- *Pero viudas más jóvenes no admitas*\... Pablo le dijo a Timoteo que prohibiera la inclusión de viudas más jóvenes en la lista para ser asistidas por la iglesia. ¿__<u>Por qué</u>__?
 
 ####            b.  1 Timoteo 5:11b -- \...*porque cuando, impulsadas por sus deseos* \['sensuales' -- LBLA\], *se rebelan contra Cristo, quieren casarse*\... Para poder ingresar en la lista para asistencia una viuda debía dedicarse al servicio del Señor. La justificación de Pablo para rechazar a las viudas más jóvenes era que ellas querrían volverse a casar, rompiendo así su __<u>promesa</u>__.
 
