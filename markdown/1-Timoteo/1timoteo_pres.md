@@ -2839,9 +2839,9 @@ ___
 
 ##    C.  1 Timoteo 5:17-18 -- Remuneración de los ancianos
 
-###        1.  1 Timoteo 5:17a -- *Los ancianos que **gobiernan bien***\... La frase *gobiernan bien* PROESTŌTES es un participio que literalmente significa pararse ante o presidir sobre. Se usaba para describir a una persona que infundía respeto al vivir una vida que se podía seguir. Esto describe a aquellos líderes que, dependiendo de Dios, son fieles para __<u>cumplir</u>__ con sus responsabilidades. Hebreos 13:17
+###        1.  1 Timoteo 5:17a -- *Los ancianos que **gobiernan bien**...* La frase *gobiernan bien* PROESTŌTES es un participio que literalmente significa pararse ante o presidir sobre. Se usaba para describir a una persona que infundía respeto al vivir una vida que se podía seguir. Esto describe a aquellos líderes que, dependiendo de Dios, son fieles para __<u>cumplir</u>__ con sus responsabilidades. Hebreos 13:17
 
-###        2.  1 Timoteo 5:17b -- \... *sean tenidos por dignos* \['considerados' -- LBLA\] *de **doble honor***\... Si alguien era merecedor de un solo honor, significaba que merecía ser respetado. El doble honor significaba que merecía tanto respeto como __<u>remuneración</u>__.
+###        2.  1 Timoteo 5:17b -- *...sean tenidos por dignos*  [*'considerados'* -- LBLA] *de **doble honor**...* Si alguien era merecedor de un solo honor, significaba que merecía ser respetado. El doble honor significaba que merecía tanto respeto como __<u>remuneración</u>__.
 
 ####            a.  La frase *sean tenidos* es una orden en griego. No es solo una buena idea que la asamblea pague a líderes dedicados y fieles, el mandato aquí es que ellos consideren seriamente esta posibilidad. Hoy en día, la mayoría de las iglesias llaman a estos *__<u>ancianos</u>__* pagados *que gobiernan bien* como sus ministros o pastores. 1 Corintios 9:1-14
 
@@ -2849,7 +2849,7 @@ ___
 
 ####            c.  No todos los ancianos deben ser considerados dignos de remuneración. Solo a los ancianos que exceden el servicio normal y se desempeñan excepcionalmente bien en la supervisión, el pastoreo y el cuidado del rebaño de Dios les debe ser dado este honor __<u>especial</u>__. 1 Corintios 9:13; 2 Corintios 11:8
 
-###        3.  1 Timoteo 5:17c -- *\...mayormente los que trabajan en predicar y enseñar.* Recuerde que un requisito para el ancianato es ser capaz, o __<u>apto</u>__, para enseñar. 1 Timoteo 3:2
+###        3.  1 Timoteo 5:17c -- *...mayormente los que trabajan en predicar y enseñar.* Recuerde que un requisito para el ancianato es ser capaz, o __<u>apto</u>__, para enseñar. 1 Timoteo 3:2
 
 ####            a.  La orden de remunerar a los ancianos que gobiernan bien se refiere exclusivamente a los ancianos que laboran (KOPIAÓ que trabajan arduamente, al punto del cansancio o la fatiga) en enseñar la Palabra de Dios al __<u>rebaño</u>__ de Dios. 2 Timoteo 4:2
 
