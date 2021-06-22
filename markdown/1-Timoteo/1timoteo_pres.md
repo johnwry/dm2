@@ -2771,7 +2771,7 @@ ___
 
 #####                1.  Aunque la iglesia de hoy en día generalmente no reconoce el oficio oficial de \"una verdadera viuda\", las viudas mencionadas aquí claramente habían hecho un compromiso con Dios para servirlo día y noche en un ministerio de oración. De esta manera, estas viudas servían a la iglesia y eran dignas de apoyo financiero como cualquier misionero de __<u>hoy</u>__.
 
-#####                2.  La iglesia en nuestros días haría bien en regresar a esta práctica. Imagine tener un grupo de mujeres en la iglesia que tengan el tiempo para dedicarse exclusivamente a un ministerio de súplica. Esto no solo serviría como un ministerio vital para la iglesia, sino que también proporcionaría ayuda financiera a las verdaderas *viudas*.
+#####                2.  La iglesia en nuestros días haría bien en regresar a esta práctica. Imagine tener un grupo de mujeres en la iglesia que tengan el tiempo para dedicarse exclusivamente a un ministerio de súplica. Esto no solo serviría como un ministerio __<u>vital</u>__ para la iglesia, sino que también proporcionaría ayuda financiera a las verdaderas *viudas*.
 
 ###        3.  1 Timoteo 5:6-7 -- Viudas que no cualifican para el cuidado de la __<u>iglesia</u>__
 
