@@ -2866,7 +2866,7 @@ ___
 Trillando con bueyes 1865-1872 https://www.wdl.org/en/item/14029/
 </figcaption>
 
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/bozal.png" data-background-size="300px" data-background-position="left 50% bottom 5%" data-background-opacity="0.5"-->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/bozal.png" data-background-size="cover" data-background-position="" data-background-opacity="0.5"-->
 ####            a.  En Deuteronomio 25:4 leemos: *No pondrás bozal al __<u>buey</u>__ cuando trillare.*
 
 ####            b.  En Lucas 10:7 cuando Jesús estaba instruyendo a Sus discípulos en misiones, dijo: \"*Y posad en aquella misma casa, comiendo y bebiendo lo que os den; porque el obrero es digno de su salario. No os paséis de casa en __<u>casa</u>__.* \"
