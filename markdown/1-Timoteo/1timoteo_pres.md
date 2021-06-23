@@ -2860,12 +2860,12 @@ ___
 
 ###        4.  1 Timoteo 5:18 -- Pues la Escritura dice, *\"No pondrás bozal al buey cuando trillare;\"* y: *\"El obrero es digno de su salario\".* Pablo citó a dos personas, Moisés y Jesús. Remunerar a los ancianos maestros no es una especie de concepto del Antiguo Testamento que Pablo legalistamente aplicó. Jesús mismo reiteró la importancia de remunerar a aquellos que diligentemente sirven al __<u>Señor</u>__.
 ___
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/scroll.png" data-background-size="cover" data-background-position="center" data-background-opacity="1"-->
-<small> [Trilla. Trillando con bueyes 1865-1872]( https://www.wdl.org/en/item/14029/)</small>
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/threshing.png" data-background-size="cover" data-background-position="center" data-background-opacity="1"-->
+<small> [Trillando con bueyes 1865-1872]( https://www.wdl.org/en/item/14029/)</small>
 
-####            a.  En Deuteronomio 25:4 leemos: *No pondrás bozal al __<u>buey</u>__ cuando trillare*.
+####            a.  En Deuteronomio 25:4 leemos: *No pondrás bozal al __<u>buey</u>__ cuando trillare.*
 
-####            b.  En Lucas 10:7 cuando Jesús estaba instruyendo a Sus discípulos en misiones, dijo: \"*Y posad en aquella misma casa, comiendo y bebiendo lo que os den; porque el obrero es digno de su salario. No os paséis de casa en __<u>casa</u>__* \".
+####            b.  En Lucas 10:7 cuando Jesús estaba instruyendo a Sus discípulos en misiones, dijo: \"*Y posad en aquella misma casa, comiendo y bebiendo lo que os den; porque el obrero es digno de su salario. No os paséis de casa en __<u>casa</u>__.* \"
 
 ####            c.  Claramente, si alguien trabaja duro en transmitir la Palabra para el beneficio de los demás, una iglesia debería estar dispuesta a __<u>proveer</u>__ para esa persona. 1 Corintios 9:9-14
 
