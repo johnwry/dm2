@@ -2837,6 +2837,7 @@ ___
 
 ###        8.  1 Timoteo 5:16 -- \...*a fin de que haya lo suficiente para las que en verdad son viudas*. La iglesia necesita usar sus fondos para aquellas viudas que están verdaderamente desamparadas y cualificadas. Aquellas viudas que tienen familiares creyentes no deben recibir asistencia de la iglesia. ¿Por qué? Porque no cualifican como viudas __<u>verdaderas</u>__.
 
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/euro.jpeg" data-background-size="300px" data-background-position="left" data-background-opacity="0.5"-->
 ##    C.  1 Timoteo 5:17-18 -- Remuneración de los ancianos
 
 ###        1.  1 Timoteo 5:17a -- *Los ancianos que **gobiernan bien**...* La frase *gobiernan bien* PROESTŌTES es un participio que literalmente significa pararse ante o presidir sobre. Se usaba para describir a una persona que infundía respeto al vivir una vida que se podía seguir. Esto describe a aquellos líderes que, dependiendo de Dios, son fieles para __<u>cumplir</u>__ con sus responsabilidades. Hebreos 13:17
@@ -2858,23 +2859,25 @@ ___
 ####            c.  Un anciano muy trabajador de este tipo es aquel que toma muy en serio la Gran Comisión, trabajando incansablemente para hacer de cada creyente un discípulo de Cristo __<u>maduro</u>__ y estable capaz de producir más discípulos. Mateo 28:19-20; Colosenses 1:28-2:5; 2 Timoteo 2:2, 3:16
 
 ###        4.  1 Timoteo 5:18 -- Pues la Escritura dice, *\"No pondrás bozal al buey cuando trillare;\"* y: *\"El obrero es digno de su salario\".* Pablo citó a dos personas, Moisés y Jesús. Remunerar a los ancianos maestros no es una especie de concepto del Antiguo Testamento que Pablo legalistamente aplicó. Jesús mismo reiteró la importancia de remunerar a aquellos que diligentemente sirven al __<u>Señor</u>__.
+___
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/scroll.png" data-background-size="cover" data-background-position="center" data-background-opacity="1"-->
+<small> [Trilla. Trillando con bueyes 1865-1872]( https://www.wdl.org/en/item/14029/)</small>
 
 ####            a.  En Deuteronomio 25:4 leemos: *No pondrás bozal al __<u>buey</u>__ cuando trillare*.
 
 ####            b.  En Lucas 10:7 cuando Jesús estaba instruyendo a Sus discípulos en misiones, dijo: \"*Y posad en aquella misma casa, comiendo y bebiendo lo que os den; porque el obrero es digno de su salario. No os paséis de casa en __<u>casa</u>__* \".
 
-####            c.  Claramente, si alguien trabaja duro en transmitir la Palabra para el beneficio de los demás, una iglesia debería estar dispuesta a __<u>proveer</u>__ para esa persona.\
-                1 Corintios 9:9-14
+####            c.  Claramente, si alguien trabaja duro en transmitir la Palabra para el beneficio de los demás, una iglesia debería estar dispuesta a __<u>proveer</u>__ para esa persona. 1 Corintios 9:9-14
 
 ##    D.  1 Timoteo 5:19-21 -- Corrección de los ancianos
 
-###        1.  1 Timoteo 5:19 -- *Contra un anciano no admitas acusación sino con dos o tres testigos*. En beneficio tanto del individuo como de la iglesia, una acusación o __<u>cargo</u>__ dirigido contra un anciano debe ser manejado con extremo cuidado.
+###        1.  1 Timoteo 5:19 -- *Contra un anciano no admitas acusación sino con dos o tres testigos.* En beneficio tanto del individuo como de la iglesia, una acusación o __<u>cargo</u>__ dirigido contra un anciano debe ser manejado con extremo cuidado.
 
 ####            a.  La orden de *no admitas* PARADECHOMAI significa no recibir la acusación con excesivo interés. Una acusación contra un anciano es digna de __<u>atención</u>__ solo cuando hay múltiples testigos. La crítica indebida a los líderes ha existido desde que comenzó la iglesia y no se irá hasta que todos seamos glorificados. Proverbios 26:22
 
 ####            b.  Esta orden no hace a los ancianos intocables, pero sí los protege de la crítica frívola o de una venganza personal provocada por celos o envidia. Simples conflictos de personalidad o ataques personales contra los líderes de la iglesia no deben ser tolerados. Esta orden no era aplicable solo a Timoteo, sino a toda la __<u>iglesia</u>__.
 
-###        2.  1 Timoteo 5:20a -- *A los que __<u>persisten</u>__ en pecar*\... Después de dar una advertencia, Pablo continuó con instrucciones sobre cómo tratar con los ancianos que continúan pecando después de haber sido corregidos apropiadamente.
+###        2.  1 Timoteo 5:20a -- *A los que __<u>persisten</u>__ en pecar...* Después de dar una advertencia, Pablo continuó con instrucciones sobre cómo tratar con los ancianos que continúan pecando después de haber sido corregidos apropiadamente.
 
 ###        3.  1 Timoteo 5:20b -- \...*repréndelos delante de todos*\... Si un anciano de la iglesia continúa en pecado después de haber sido corregido, debe ser reprendido ante __<u>toda</u>__ la congregación. ¿Por qué?
 
@@ -2894,17 +2897,17 @@ ___
 
 ####            b.  La mención *de Sus ángeles escogidos* podría ser una referencia a los ángeles que __<u>observan</u>__ nuestras acciones día a día.
 
-#####                1.  1 Corintios 11:10 -- *Por lo cual la mujer debe tener señal de autoridad sobre su cabeza, por causa de los __<u>ángeles</u>__*.
+#####                1.  1 Corintios 11:10 -- *Por lo cual la mujer debe tener señal de autoridad sobre su cabeza, por causa de los __<u>ángeles</u>__.*
 
-#####                2.  Mateo 18:10 -- *Mirad que no menospreciéis a uno de estos pequeños; porque os digo que sus ángeles en los cielos ven siempre el rostro de Mi __<u>Padre</u>__ que está en los cielos*.
+#####                2.  Mateo 18:10 -- *Mirad que no menospreciéis a uno de estos pequeños; porque os digo que sus ángeles en los cielos ven siempre el rostro de Mi __<u>Padre</u>__ que está en los cielos.*
 
 ####            c.  También existe la posibilidad de que Pablo se refirió a los __<u>ancianos</u>__ o pastores de la iglesia, llamándolos mensajeros (ángeles) escogidos o elegidos versus santos mensajeros (ángeles).
 
 #####                1.  Dependiendo de cómo estos versículos, Apocalipsis 2:1, 8, 12, 18; 3:1, 7, 14 son interpretados, el mandato repetido, *\"Escribe al ángel de la iglesia\",* podría estar hablando a los ancianos o pastores de esas iglesias. Dado que este contexto se centra en los ancianos, __<u>esta</u>__ es una perspectiva más aceptada.
 
-#####                2.  Pablo hizo un llamado al cielo (Dios, Cristo) y a la tierra (los escogidos, mensajeros) a atestiguar su desafío a Timoteo de *guardar* *estas cosas sin prejuicios*. Puesto que *escogido* (o elegido) se usa con *mensajero* AGGELOS, este versículo probablemente se refiere a mensajeros __<u>humanos</u>__ en lugar de mensajeros celestiales. 1 Pedro 5:1-2
+#####                2.  Pablo hizo un llamado al cielo (Dios, Cristo) y a la tierra (los escogidos, mensajeros) a atestiguar su desafío a Timoteo de *guardar* *estas cosas sin prejuicios.* Puesto que *escogido* (o elegido) se usa con *mensajero* AGGELOS, este versículo probablemente se refiere a mensajeros __<u>humanos</u>__ en lugar de mensajeros celestiales. 1 Pedro 5:1-2
 
-###        6.  1 Timoteo 5:21b -- ...*que guardes estas cosas sin prejuicios, no haciendo nada con parcialidad*. Pablo exhortó a Timoteo a mantener o vigilar estas cosas sobre cómo tratar a los ancianos, y hacerlo *sin __<u>prejuicios</u>__,* significando sin opinión previa favorable o desfavorable.
+###        6.  1 Timoteo 5:21b -- *...que guardes estas cosas sin prejuicios, no haciendo nada con parcialidad.* Pablo exhortó a Timoteo a mantener o vigilar estas cosas sobre cómo tratar a los ancianos, y hacerlo *sin __<u>prejuicios</u>__,* significando sin opinión previa favorable o desfavorable.
 
 ####            a.  Siempre debe haber dos o tres testigos antes de que una acusación pueda ser dirigida contra un anciano de la iglesia. Que una sola persona haga una acusación no es suficiente para justificar la __<u>preocupación</u>__ o investigación.
 
@@ -2912,19 +2915,19 @@ ___
 
 ##    E.  1 Timoteo 5:22-25 -- Andar prudentemente
 
-###        1.  1 Timoteo 5:22a -- *No impongas con ligereza las manos a ninguno, ni participes en pecados ajenos*\... Parte del pastoreo es proteger al rebaño de líderes incompetentes. Pablo mandó a Timoteo no __<u>ordenar</u>__ a alguien como anciano demasiado rápido.
+###        1.  1 Timoteo 5:22a -- *No impongas con ligereza las manos a ninguno, ni participes en pecados ajenos...* Parte del pastoreo es proteger al rebaño de líderes incompetentes. Pablo mandó a Timoteo no __<u>ordenar</u>__ a alguien como anciano demasiado rápido.
 
 ####            a.  Una vez que un líder es reconocido públicamente, cualquier error o pecado que cometa afecta a todo el __<u>cuerpo</u>__, no solo a él o a su familia.
 
 ####            b.  Un nombramiento apresurado de un anciano podría causar que un hombre poco cualificado sea designado anciano y que resulte en la reprensión y vergüenza pública. Pablo no quería que Timoteo fuera parcialmente culpable debido al nombramiento __<u>apresurado</u>__ de un anciano.
 
-###        2.  1 Timoteo 5:22b -- *Consérvate puro*. La palabra *consérvate* es una palabra que quiere decir guardarse o cuidarse. Pablo ordenó a Timoteo estar personalmente consciente de su propio __<u>andar</u>__ con el Señor. Al gobernar la iglesia, también es muy importante para los ancianos guardar y cuidar sus propias vidas. 1 Corintios 11:31-32, Gálatas 6:1
+###        2.  1 Timoteo 5:22b -- *Consérvate puro.* La palabra *consérvate* es una palabra que quiere decir guardarse o cuidarse. Pablo ordenó a Timoteo estar personalmente consciente de su propio __<u>andar</u>__ con el Señor. Al gobernar la iglesia, también es muy importante para los ancianos guardar y cuidar sus propias vidas. 1 Corintios 11:31-32, Gálatas 6:1
 
-###        3.  1 Timoteo 5:23 -- *Ya no bebas agua* \['sola' -- LBLA\], *sino usa de un poco de vino por causa de tu estómago y de tus frecuentes enfermedades*. Este es un paréntesis en esta sección. Mientras Pablo consideraba a Timoteo y la importancia de todo este asunto, él parece haber estado preocupado por la __<u>salud</u>__ de Timoteo. 2 Corintios 11:28
+###        3.  1 Timoteo 5:23 -- *Ya no bebas agua*  [*'sola'* -- LBLA], *sino usa de un poco de vino por causa de tu estómago y de tus frecuentes enfermedades.* Este es un paréntesis en esta sección. Mientras Pablo consideraba a Timoteo y la importancia de todo este asunto, él parece haber estado preocupado por la __<u>salud</u>__ de Timoteo. 2 Corintios 11:28
 
-###        4.  1 Timoteo 5:24 -- *Los pecados de algunos hombres se hacen patentes antes que ellos vengan a juicio, mas a otros se les descubren después*. Esto es sabiduría. Para algunos, queda inmediatamente claro que no cualifican para el ancianato, mientras que para otros se necesita tiempo para discernir su mérito. Sin embargo, con tiempo y paciencia, será evidente si un __<u>hombre</u>__ está descalificado.
+###        4.  1 Timoteo 5:24 -- *Los pecados de algunos hombres se hacen patentes antes que ellos vengan a juicio, mas a otros se les descubren después.* Esto es sabiduría. Para algunos, queda inmediatamente claro que no cualifican para el ancianato, mientras que para otros se necesita tiempo para discernir su mérito. Sin embargo, con tiempo y paciencia, será evidente si un __<u>hombre</u>__ está descalificado.
 
-###        5.  1 Timoteo 5:25 -- *Asimismo se hacen manifiestas las buenas obras; y las que son de otra manera, no pueden permanecer ocultas*. Para el ancianato, el objetivo es notar posibles pecados descalificantes antes de que el candidato sea nombrado. Con algunos candidatos verás su mérito de inmediato: *Asimismo se hacen __<u>manifiestas</u>__ las buenas obras...*
+###        5.  1 Timoteo 5:25 -- *Asimismo se hacen manifiestas las buenas obras; y las que son de otra manera, no pueden permanecer ocultas.* Para el ancianato, el objetivo es notar posibles pecados descalificantes antes de que el candidato sea nombrado. Con algunos candidatos verás su mérito de inmediato: *Asimismo se hacen __<u>manifiestas</u>__ las buenas obras...*
 
 ##    F.  1 Timoteo 6:1-2 -- Honra a los esclavos, honra a los amos
 
