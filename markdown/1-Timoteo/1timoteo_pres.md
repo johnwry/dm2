@@ -2838,7 +2838,7 @@ ___
 ###        8.  1 Timoteo 5:16 -- \...*a fin de que haya lo suficiente para las que en verdad son viudas*. La iglesia necesita usar sus fondos para aquellas viudas que están verdaderamente desamparadas y cualificadas. Aquellas viudas que tienen familiares creyentes no deben recibir asistencia de la iglesia. ¿Por qué? Porque no cualifican como viudas __<u>verdaderas</u>__.
 
 ##    C.  1 Timoteo 5:17-18 -- Remuneración de los ancianos
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/euro.jpeg" data-background-size="cover" data-background-opacity="0.5" -->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/euro.jpeg" data-background-size="cover" data-background-opacity="1" -->
 
 ###        1.  1 Timoteo 5:17a -- *Los ancianos que **gobiernan bien**...* La frase *gobiernan bien* PROESTŌTES es un participio que literalmente significa pararse ante o presidir sobre. Se usaba para describir a una persona que infundía respeto al vivir una vida que se podía seguir. Esto describe a aquellos líderes que, dependiendo de Dios, son fieles para __<u>cumplir</u>__ con sus responsabilidades. Hebreos 13:17
 
@@ -2927,7 +2927,7 @@ ___
 
 ####            a.  Una vez que un líder es reconocido públicamente, cualquier error o pecado que cometa afecta a todo el __<u>cuerpo</u>__, no solo a él o a su familia.
 
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/pointing.png" data-background-size="200px" data-background-position="left 20% bottom 25%" data-background-opacity="0.5"-->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/pointing.png" data-background-size="200px" data-background-position="left 70% bottom 75%" data-background-opacity="0.5"-->
 ####            b.  Un nombramiento apresurado de un anciano podría causar que un hombre poco cualificado sea designado anciano y que resulte en la reprensión y vergüenza pública. Pablo no quería que Timoteo fuera parcialmente culpable debido al nombramiento __<u>apresurado</u>__ de un anciano.
 
 ###        2.  1 Timoteo 5:22b -- *Consérvate puro.* La palabra *consérvate* es una palabra que quiere decir guardarse o cuidarse. Pablo ordenó a Timoteo estar personalmente consciente de su propio __<u>andar</u>__ con el Señor. Al gobernar la iglesia, también es muy importante para los ancianos guardar y cuidar sus propias vidas. 1 Corintios 11:31-32, Gálatas 6:1
