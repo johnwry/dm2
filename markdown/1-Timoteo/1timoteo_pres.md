@@ -2837,7 +2837,7 @@ ___
 
 ###        8.  1 Timoteo 5:16 -- \...*a fin de que haya lo suficiente para las que en verdad son viudas*. La iglesia necesita usar sus fondos para aquellas viudas que están verdaderamente desamparadas y cualificadas. Aquellas viudas que tienen familiares creyentes no deben recibir asistencia de la iglesia. ¿Por qué? Porque no cualifican como viudas __<u>verdaderas</u>__.
 
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/euro.jpeg" data-background-size="100%" data-background-opacity="0.5" -->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/euro.jpeg" data-background-size="90%" data-background-opacity="0.5" -->
 ##    C.  1 Timoteo 5:17-18 -- Remuneración de los ancianos
 
 ###        1.  1 Timoteo 5:17a -- *Los ancianos que **gobiernan bien**...* La frase *gobiernan bien* PROESTŌTES es un participio que literalmente significa pararse ante o presidir sobre. Se usaba para describir a una persona que infundía respeto al vivir una vida que se podía seguir. Esto describe a aquellos líderes que, dependiendo de Dios, son fieles para __<u>cumplir</u>__ con sus responsabilidades. Hebreos 13:17
