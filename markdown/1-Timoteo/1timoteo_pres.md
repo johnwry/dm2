@@ -2863,7 +2863,7 @@ ___
 | ![threshing.png](https://johnwry.github.io/dm2/markdown/1-Timoteo/img/threshing.png) |
 |:---:|
 | **[Trillando con bueyes 1865-1872]( https://www.wdl.org/en/item/14029/)**| 
-<!-- .element: style="color:white;" -->
+<!-- .slide: style="color:white;position: absolute;top: 50px;" -->
 
 ####            a.  En Deuteronomio 25:4 leemos: *No pondrás bozal al __<u>buey</u>__ cuando trillare.*
 
