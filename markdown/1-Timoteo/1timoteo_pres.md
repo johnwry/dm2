@@ -2854,7 +2854,7 @@ ___
 
 ####            a.  La orden de remunerar a los ancianos que gobiernan bien se refiere exclusivamente a los ancianos que laboran (KOPIAÓ que trabajan arduamente, al punto del cansancio o la fatiga) en enseñar la Palabra de Dios al __<u>rebaño</u>__ de Dios. 2 Timoteo 4:2
 
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/teaching.png" data-background-size="300px" data-background-position="left 50% bottom 90%" data-background-opacity="0.5"-->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/teaching.png" data-background-size="300px" data-background-position="left 50% bottom 95%" data-background-opacity="0.5"-->
 ####            b.  ¿Por qué son mencionados tanto la enseñanza como la predicación? Si bien la predicación y la enseñanza describen el rol de transmitir la verdad a los demás, la predicación se centra más en la entrega del mensaje, mientras que la enseñanza incluye la entrega, el __<u>estudio</u>__ y la preparación.
 
 ####            c.  Un anciano muy trabajador de este tipo es aquel que toma muy en serio la Gran Comisión, trabajando incansablemente para hacer de cada creyente un discípulo de Cristo __<u>maduro</u>__ y estable capaz de producir más discípulos. Mateo 28:19-20; Colosenses 1:28-2:5; 2 Timoteo 2:2, 3:16
