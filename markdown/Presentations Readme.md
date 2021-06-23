@@ -107,3 +107,14 @@ Stay at home Fathers, 20.6, 22.5, 24.8, 30.9, 28.7, 31.3, 34.6, 40.4, 44.6, 41.3
 ** Complete innovate phase
 @endwbs
 ```
+
+## Images + Captions
+
+```markdown
+<img src="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/threshing.png" width="60%">
+<figcaption>
+Trillando con bueyes 1865-1872 [^1]
+</figcaption>
+[^1]: https://www.wdl.org/en/item/14029/
+```
+
