@@ -2894,7 +2894,7 @@ Trillando con bueyes 1865-1872 https://www.wdl.org/en/item/14029/
 ###        5.  1 Timoteo 5:21a -- *Te encarezco delante de Dios y del Señor Jesucristo, y de Sus ángeles escogidos, que guardes estas __<u>cosas</u>__...* Con la inclusión de Dios, Jesucristo, y Sus ángeles escogidos, Pablo no pudo haber subrayado más enfáticamente la importancia de estas cosas para la iglesia.
 ___
 **ἄγγελος** - Aggelos - Definición de Thayer:
-1) un mensajero, un enviado, un enviado, un ángel, un mensajero de Dios
+1) un mensajero, un enviado,  un ángel, un mensajero de Dios
 
 ####            a.  En sus escritos, ocasionalmente, Pablo encargaba solemnemente a Timoteo enseñar la Palabra. Debido a la gran importancia de este encargo, Pablo llamó a __<u>Dios</u>__ como testigo.
 
@@ -2928,7 +2928,6 @@ ___
 ####            a.  Una vez que un líder es reconocido públicamente, cualquier error o pecado que cometa afecta a todo el __<u>cuerpo</u>__, no solo a él o a su familia.
 
 <!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/pointing.png" data-background-size="200px" data-background-position="left 20% bottom 25%" data-background-opacity="0.5"-->
-
 ####            b.  Un nombramiento apresurado de un anciano podría causar que un hombre poco cualificado sea designado anciano y que resulte en la reprensión y vergüenza pública. Pablo no quería que Timoteo fuera parcialmente culpable debido al nombramiento __<u>apresurado</u>__ de un anciano.
 
 ###        2.  1 Timoteo 5:22b -- *Consérvate puro.* La palabra *consérvate* es una palabra que quiere decir guardarse o cuidarse. Pablo ordenó a Timoteo estar personalmente consciente de su propio __<u>andar</u>__ con el Señor. Al gobernar la iglesia, también es muy importante para los ancianos guardar y cuidar sus propias vidas. 1 Corintios 11:31-32, Gálatas 6:1
