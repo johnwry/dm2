@@ -2854,6 +2854,7 @@ ___
 
 ####            a.  La orden de remunerar a los ancianos que gobiernan bien se refiere exclusivamente a los ancianos que laboran (KOPIAÓ que trabajan arduamente, al punto del cansancio o la fatiga) en enseñar la Palabra de Dios al __<u>rebaño</u>__ de Dios. 2 Timoteo 4:2
 
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/teaching.png" data-background-size="300px" data-background-position="right" data-background-opacity="0.5"-->
 ####            b.  ¿Por qué son mencionados tanto la enseñanza como la predicación? Si bien la predicación y la enseñanza describen el rol de transmitir la verdad a los demás, la predicación se centra más en la entrega del mensaje, mientras que la enseñanza incluye la entrega, el __<u>estudio</u>__ y la preparación.
 
 ####            c.  Un anciano muy trabajador de este tipo es aquel que toma muy en serio la Gran Comisión, trabajando incansablemente para hacer de cada creyente un discípulo de Cristo __<u>maduro</u>__ y estable capaz de producir más discípulos. Mateo 28:19-20; Colosenses 1:28-2:5; 2 Timoteo 2:2, 3:16
@@ -2884,13 +2885,16 @@ Trillando con bueyes 1865-1872 https://www.wdl.org/en/item/14029/
 
 ###        3.  1 Timoteo 5:20b -- \...*repréndelos delante de todos*\... Si un anciano de la iglesia continúa en pecado después de haber sido corregido, debe ser reprendido ante __<u>toda</u>__ la congregación. ¿Por qué?
 
-###        4.  1 Timoteo 5:20c -- \...*para que los demás también teman*. La corrección pública de un anciano que continúa deliberadamente en pecado después de haber sido corregido muestra a cada miembro de la iglesia cuán seriamente Dios toma el __<u>pecado</u>__ en la vida de Sus hijos.
+###        4.  1 Timoteo 5:20c -- *...para que los demás también teman.* La corrección pública de un anciano que continúa deliberadamente en pecado después de haber sido corregido muestra a cada miembro de la iglesia cuán seriamente Dios toma el __<u>pecado</u>__ en la vida de Sus hijos.
 
 ####            a.  Si bien esto avergüenza al anciano, tiene un propósito mucho mayor. La corrección pública de un anciano pecador envía ondas de choque positivas a través de una iglesia local, sirviendo para __<u>purificarla</u>__.
 
 ####            b.  Esperanzadamente, provocará que otros creyentes que podrían estar pecando de formas similares traten rápidamente con su pecado. Otros que están tentados a hacer algo similar podrían __<u>pensarlo</u>__ dos veces antes de ceder a la tentación. Hechos 5:5, 11
 
 ###        5.  1 Timoteo 5:21a -- *Te encarezco delante de Dios y del Señor Jesucristo, y de Sus ángeles escogidos, que guardes estas __<u>cosas</u>__...* Con la inclusión de Dios, Jesucristo, y Sus ángeles escogidos, Pablo no pudo haber subrayado más enfáticamente la importancia de estas cosas para la iglesia.
+___
+**ἄγγελος** - Aggelos - Definición de Thayer:
+1) un mensajero, un enviado, un enviado, un ángel, un mensajero de Dios
 
 ####            a.  En sus escritos, ocasionalmente, Pablo encargaba solemnemente a Timoteo enseñar la Palabra. Debido a la gran importancia de este encargo, Pablo llamó a __<u>Dios</u>__ como testigo.
 
@@ -2924,6 +2928,7 @@ Trillando con bueyes 1865-1872 https://www.wdl.org/en/item/14029/
 ####            a.  Una vez que un líder es reconocido públicamente, cualquier error o pecado que cometa afecta a todo el __<u>cuerpo</u>__, no solo a él o a su familia.
 
 <!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/pointing.png" data-background-size="200px" data-background-position="left 20% bottom 25%" data-background-opacity="0.5"-->
+
 ####            b.  Un nombramiento apresurado de un anciano podría causar que un hombre poco cualificado sea designado anciano y que resulte en la reprensión y vergüenza pública. Pablo no quería que Timoteo fuera parcialmente culpable debido al nombramiento __<u>apresurado</u>__ de un anciano.
 
 ###        2.  1 Timoteo 5:22b -- *Consérvate puro.* La palabra *consérvate* es una palabra que quiere decir guardarse o cuidarse. Pablo ordenó a Timoteo estar personalmente consciente de su propio __<u>andar</u>__ con el Señor. Al gobernar la iglesia, también es muy importante para los ancianos guardar y cuidar sus propias vidas. 1 Corintios 11:31-32, Gálatas 6:1
