@@ -2860,7 +2860,7 @@ ___
 
 ###        4.  1 Timoteo 5:18 -- Pues la Escritura dice, *\"No pondrás bozal al buey cuando trillare;\"* y: *\"El obrero es digno de su salario\".* Pablo citó a dos personas, Moisés y Jesús. Remunerar a los ancianos maestros no es una especie de concepto del Antiguo Testamento que Pablo legalistamente aplicó. Jesús mismo reiteró la importancia de remunerar a aquellos que diligentemente sirven al __<u>Señor</u>__.
 ___
-![threshing.png](https://johnwry.github.io/dm2/markdown/1-Timoteo/img/threshing.png)</br>
+<img src="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/threshing.png" width="50%">
 <figcaption>
 Trillando con bueyes 1865-1872 [wdl.org]( https://www.wdl.org/en/item/14029/)
 </figcaption>
