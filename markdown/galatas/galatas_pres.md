@@ -3104,7 +3104,7 @@ ___
 
 ### 5. Gálatas 6:1e -- La restauración debe hacerse con una cuidadosa auto-consideración porque el que restaura también puede ser __<u>probado</u>__ o tentado de la misma manera. "*...considerándote a ti mismo, no sea que tú también seas tentado"*. 1 Corintios 10:12
 
-## B. Gálatas 6:2 -- A medida que andamos en el Espíritu, debemos <u>compartir</u> las cargas de los fatigados. *"Sobrellevad los unos las cargas de los otros, y cumplid así la ley de Cristo*". 
+## B. Gálatas 6:2 -- A medida que andamos en el Espíritu, debemos <u>compartir</u> las cargas de los fatigados. "*Sobrellevad los unos las cargas de los otros, y cumplid así la ley de Cristo*". 
 
 ### 1. Gálatas 6:2a -- Aquí tenemos órdenes de __<u>llevar</u>__ las cargas de los demás. Romanos 15:1, Filipenses 2:4
 
@@ -3120,7 +3120,7 @@ ___
 
 ### 2. Gálatas 6:4a -- "*Así que, cada uno someta a prueba su propia obra...*". Debemos evaluar nuestras propias __<u>acciones</u>__ y obras sin compararlas con las obras de otro. 2 Corintios 10:11-13, 18
 
-### 3. Gálatas 6:4b -- "*...y entonces tendrá motivo de gloriarse sólo respecto de sí mismo, y no en otro*". Sólo cuando __<u>resistimos</u>__ compararnos con los demás podemos evaluar adecuadamente lo que hemos hecho. 2 Corintios 10:12
+### 3. Gálatas 6:4b -- "*...y entonces tendrá motivo de gloriarse sólo respecto de sí mismo, y no en otro.*" Sólo cuando __<u>resistimos</u>__ compararnos con los demás podemos evaluar adecuadamente lo que hemos hecho. 2 Corintios 10:12
 
 ## D. Gálatas 6:5 -- Deberíamos asumir la responsabilidad de <u>nuestras</u> propias cargas. "*Porque cada uno llevará su propia carga.*"
 

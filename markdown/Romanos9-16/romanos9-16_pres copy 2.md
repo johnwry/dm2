@@ -1,11 +1,9 @@
 ---
-title: "Romanos 9-16"
+title: Romanos 9-16
 institute: DM2
-author: DM2
-lang: es_ES
 revealjs-url: https://johnwry.github.io/dm2/
----
 
+---
 <!-- .slide: data-background-image="DM2/markdown/romanos9-16/media/media/image1.jpg" data-background-size="cover" data-background-position="" data-background-opacity="1"-->
 #  EL LIBRO DE ROMANOS
 ## *¡Dios es Justo!*
@@ -47,7 +45,7 @@ ___
 **Para** **más** **información:**
 **Escríbenos** **a:** **bret.nazworth\@gmail.com**
 **www.DM2USA.org**
-___
+
 # Índice
 |**I.** |**Romanos 9:1-11:36 --** ¿Es Dios Justo en Su Trato con Israel?|**7**|
 |----|--------------------------------------------------------|--------|
@@ -66,8 +64,8 @@ ___
 |  **VII.**  |  **Romanos 16:17-20 --** Una Advertencia Importante para la Iglesia Romana                   |   **76**|
 |  **VIII.** |  **Romanos 16:21-27 --** Saludos Especiales de los Compañeros de Pablo y una Doxología Final.  | **78**|
 
-# **EL LIBRO DE ROMANOS**
-## ***¡Dios es Justo!***
+**EL LIBRO DE ROMANOS**
+***¡Dios es Justo!***
 
 # I.  **Romanos 9:1-11:36 -- ¿Es Dios Justo en Su Trato con Israel?**
 
