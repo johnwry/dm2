@@ -39,9 +39,9 @@ set color font etc
 ```
 style="color:white"
 ```
-
+```html
 <!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/scroll.png" data-background-size="300px" data-background-position="left" data-background-opacity="0.5"-->
-
+```
 ```
 data-background-position="right 25% bottom 25%"
 ```
@@ -52,6 +52,11 @@ pandoc -f docx "Haciendo Hacedores de Discípulos Maestro.docx" -t markdown --wr
 ```
 
 --reference-doc=custom-reference.docx //not sure about location setting but this is the command to run pandoc with a reference docx to produce equal dm2 files.
+
+```bash
+pandoc --reference-doc /Users/johnwry/.local/share/custom-reference.docx -o test.docx romanos9-16_pres.md
+
+```
 
 # Steps to convert Word to Markdown
 1. Convert using pandoc (command above)

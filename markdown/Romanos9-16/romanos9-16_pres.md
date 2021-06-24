@@ -1,9 +1,10 @@
-![](media/media/image1.jpg){width="7.4375in" height="9.2125in"}
+<!-- .slide: data-background-image="DM2/markdown/romanos9-16/media/media/image1.jpg" data-background-size="cover" data-background-position="" data-background-opacity="1"-->
+#  EL LIBRO DE ROMANOS
+## *¡Dios es Justo!*
+### Romanos 9-16
+<!-- .element: style="color:white;" -->
 ___
-![](media/media/image2.jpeg){width="1.7597222222222222in" height="1.3194444444444444in"}
-___
-![](media/media/image3.png){width="2.2847222222222223in" height="0.7986111111111112in"}![](media/media/image3.png){width="2.2847222222222223in" height="0.7986111111111112in"}
-___
+![](media/media/image3.png)
 © DM Multiplied Inc. 2007-2013
 ___
 # Introducción
@@ -26,8 +27,9 @@ Julio 23, 2014
 *(2ª edición)*
 Derechos de Autor © **2014** **DM2** **International** **Inc.** Todos los derechos reservados
 ___
-**Póliza de los Derechos de Autor.** La traducción no autorizada, re-publicación, duplicación del documento, página de la internet o distribución vía correo electrónico de cualquier porción de este material de derechos de autor de cualquier forma, sin el expreso consentimiento escrito de DM2™ está estrictamente prohibido. Puedes usar los materiales de DM2 para tu propio estudio personal o para volverlos a enseñar en una clase, siempre y cuando, el logo de DM2 y esta póliza de los derechos de autor estén incluidos siempre en el material al ser enseñados. Puedes bajar una copia a tú PC, imprimirla o hacer copias para la clase o estudio de grupo Bíblico; sin embargo, no puedes cobrar por este material o por conducir una clase usando el mismo, excepto por el costo actual del copiado. NO puedes hacer cambios a este material, tiene derechos de autor. Para una más amplia exposición de la póliza del DM2 con respecto a los usos de sus materiales, por favor referirse a la página de la internet DM2-USA\
-al <http://www.dm2usa.org>. \[DM2™\]
+<small>
+**Póliza de los Derechos de Autor.** La traducción no autorizada, re-publicación, duplicación del documento, página de la internet o distribución vía correo electrónico de cualquier porción de este material de derechos de autor de cualquier forma, sin el expreso consentimiento escrito de DM2™ está estrictamente prohibido. Puedes usar los materiales de DM2 para tu propio estudio personal o para volverlos a enseñar en una clase, siempre y cuando, el logo de DM2 y esta póliza de los derechos de autor estén incluidos siempre en el material al ser enseñados. Puedes bajar una copia a tú PC, imprimirla o hacer copias para la clase o estudio de grupo Bíblico; sin embargo, no puedes cobrar por este material o por conducir una clase usando el mismo, excepto por el costo actual del copiado. NO puedes hacer cambios a este material, tiene derechos de autor. Para una más amplia exposición de la póliza del DM2 con respecto a los usos de sus materiales, por favor referirse a la página de la internet DM2-USA al [DM2™](https://www.dm2usa.org).
+</small>
 ___
 **Impreso** **y** **Propiedad** **de:**
 **DM2**
@@ -75,9 +77,9 @@ ___
 
 ####            b.  Romanos 9:2 -- Pablo refutó la mentira de que él no estaba preocupado por __<u>Israel</u>__.
 
-#####                1.  *"Que tengo __<u>gran]{.ul} tristeza**"* (griego: LUPE*,* pesadez dolorosa).
+#####                1.  "*Que tengo __<u>gran</u>__ tristeza*" (griego: LUPE, pesadez dolorosa).
 
-#####                2.  *"Continuo **dolor** "* (griego: ODUNE, __<u>dolor</u>__, dolor consumidor, angustia)
+#####                2.  "*Continuo __dolor__*" (griego: ODUNE, __<u>dolor</u>__, dolor consumidor, angustia)
 
 ####            c.  Romanos 9:3 -- Pablo mostró su verdadero amor por Israel al decir que estaría dispuesto a dar su __<u>vida</u>__ eterna por ella.
 
@@ -87,7 +89,7 @@ ___
 
 ######                    b.  La disposición de Pablo a dar su vida por el pueblo de __<u>Israel</u>__ demostró su fiel amor por ellos.
 
-#####                2.  Pablo se identificó con Israel, llamando al pueblo de Israel, *\"mis hermanos, los que son mis parientes según la __<u>carne</u>__\".*
+#####                2.  Pablo se identificó con Israel, llamando al pueblo de Israel, "*mis hermanos, los que son mis parientes según la __<u>carne</u>__\.*"
 
 ###        2.  Romanos 9:4-5 -- Pablo presentó ocho bendiciones exclusivas que el pueblo de Israel tiene debido a la elección de la gracia de Dios de ellos como Su pueblo escogido.
 
@@ -107,9 +109,9 @@ ___
 
 ####            d.  Romanos 9:4d -- Dios confió *la promulgación de la __<u>ley</u>__* y su custodia a Israel. Romanos 3:1-2
 
-####            e.  Romanos 9:4e -- Dios le dio a Israel *el culto*. *El* *culto* probablemente se refiere al servicio del __<u>templo</u>__ de los sacerdotes de Israel, el cual permitió sólo a ellos el privilegio especial de entrar en la misma presencia de Dios.
+####            e.  Romanos 9:4e -- Dios le dio a Israel *el culto. El culto* probablemente se refiere al servicio del __<u>templo</u>__ de los sacerdotes de Israel, el cual permitió sólo a ellos el privilegio especial de entrar en la misma presencia de Dios.
 
-####            f.  Romanos 9:4f -- Dios le dio a Israel *las promesas*. *Las promesas* se refiere a las promesas únicas de Dios a __<u>Israel</u>__ a través de los patriarcas - Abraham, Isaac y Jacob.
+####            f.  Romanos 9:4f -- Dios le dio a Israel *las promesas. Las promesas* se refiere a las promesas únicas de Dios a __<u>Israel</u>__ a través de los patriarcas - Abraham, Isaac y Jacob.
 
 ####            g.  Romanos 9:5a -- *Los patriarcas* se refiere a Abraham, Isaac y Jacob, tres hombres __<u>elegidos</u>__ por Dios y amados por Israel.
 
@@ -117,19 +119,19 @@ ___
 
 #####                1.  Con respecto a la persona de Cristo este versículo dice:
 
-######                    a.  El Cristo vino a través de Israel, *\"\... según la **carne**\...\"*, lo cual muestra que el Cristo vino como un ser __<u>humano</u>__. Romanos 1:3
+######                    a.  El Cristo vino a través de Israel, "*... según la **carne**...*", lo cual muestra que el Cristo vino como un ser __<u>humano</u>__. Romanos 1:3
 
-######                    b.  *\"\... el cual es... __<u>sobre</u>__ todas las cosas\...\"* afirma que el Cristo es superior a, y que está en control de todo lo que existe. 1 Corintios 8:6
+######                    b.  "*... el cual es... __<u>sobre</u>__ todas las cosas...*" afirma que el Cristo es superior a, y que está en control de todo lo que existe. 1 Corintios 8:6
 
-######                    c.  *\"\... el cual es **Dios***\...\", añade enfáticamente que el Señor Jesucristo\ es __<u>Dios</u>__.
+######                    c.  "*... el cual es **Dios**...*", añade enfáticamente que el Señor Jesucristo\ es __<u>Dios</u>__.
 
-######                    d.  *\"\... bendito por los siglos\...\"* muestra que el __<u>Señor</u>__ Jesucristo es honrado para siempre.
+######                    d.  "*... bendito por los siglos...*" muestra que el __<u>Señor</u>__ Jesucristo es honrado para siempre.
 
-#####                2.  Cuando se acordó de estas cosas, Pablo exclamó: *\"__<u>Amén</u>__"*.
+#####                2.  Cuando se acordó de estas cosas, Pablo exclamó: "*__<u>Amén</u>__*".
 
 ###        3.  Romanos 9:6-13 -- Algunos de Israel difamaron a Dios como insincero en Su amor y promesas hacia Su pueblo escogido. ¿__<u>Falló</u>__ Dios en mantener Sus promesas (Su palabra) a Israel?
 
-####            a.  Romanos 9:6a -- \['Pero' -- LBLA\] "*no que la palabra de Dios haya fallado..."*. Tenemos que establecer el hecho de que Dios __<u>nunca</u>__ deja de cumplir Sus promesas. ¡Dios nunca hace nada errado! Romanos 9:14; Santiago 1:13; Salmo 92:15; Job 34:10-12
+####            a.  Romanos 9:6a -- \['Pero' -- LBLA\] "*no que la palabra de Dios haya fallado...*". Tenemos que establecer el hecho de que Dios __<u>nunca</u>__ deja de cumplir Sus promesas. ¡Dios nunca hace nada errado! Romanos 9:14; Santiago 1:13; Salmo 92:15; Job 34:10-12
 
 #####                1.  Dios no se equivocó en Su elección soberana de poner a un lado (marginar) a Israel en el presente y __<u>usar</u>__ a la iglesia en su lugar.
 
@@ -337,7 +339,7 @@ ___
 
 ######                        i.  A veces Dios da a las naciones rebeldes (o individuos) más __<u>tiempo</u>__ en sus malos caminos, sabiendo que Él puede mostrar Su poder e ira por medio de Su juicio. Proverbios 16:4-5
 
-######                        ii. Por el contrario, a menudo Dios soporta pacientemente a los vasos de ira, con la esperanza de que vengan a tener un cambio de __<u>forma]{.ul} [de]{.ul} [pensar</u>__. Romanos 2:4-5
+######                        ii. Por el contrario, a menudo Dios soporta pacientemente a los vasos de ira, con la esperanza de que vengan a tener un cambio de __<u>forma</u>__ [de</u>__ [pensar</u>__. Romanos 2:4-5
 
 ######                        iii. Bíblicamente, hay muchas naciones que podrían ajustarse a esta categoría (es decir, Sodoma y Gomorra; Nínive en los días de Jonás, o ciudades como Jerusalén, Corazín, Betsaida, o Capernaum en los días de __<u>Jesús</u>__). Mateo 11:20-24
 
@@ -427,7 +429,7 @@ ___
 
 ######                    b.  La comprensión teológica de Pablo de ninguna manera hizo que su evangelización u __<u>oración</u>__ fuera fatalista (derrotista). Algunos no oran por los perdidos, debido a que su doctrina dice que es inútil. Lucas 18:1
 
-######                    c.  Pablo oró porque creía que era posible para Israel cambiar su __<u>forma]{.ul} [de]{.ul} [pensar</u>__ (arrepentirse) acerca de quién era Jesucristo y creer en Él para salvación.
+######                    c.  Pablo oró porque creía que era posible para Israel cambiar su __<u>forma</u>__ [de</u>__ [pensar</u>__ (arrepentirse) acerca de quién era Jesucristo y creer en Él para salvación.
 
 ######                    d.  A pesar de que la __<u>nación</u>__ de Israel seguía rechazando a Cristo como el Mesías, algunos judíos creían en Él.
 
@@ -667,7 +669,7 @@ ___
 
 ######                    f.  Recuerde que tú llamas (invocas) __<u>a</u>__ Dios con la boca sólo si crees __<u>en</u>__ Dios con tu corazón.
 
-####            h.  Romanos 10:13 -- Hemos tomado nota de que, bajo la inspiración de Dios el Espíritu Santo, en Romanos 10:11 Pablo cambió Isaías 28:16 de *"__<u>el</u>__"* a *"__<u>todo]{.ul} [aquel</u>__".*
+####            h.  Romanos 10:13 -- Hemos tomado nota de que, bajo la inspiración de Dios el Espíritu Santo, en Romanos 10:11 Pablo cambió Isaías 28:16 de *"__<u>el</u>__"* a *"__<u>todo</u>__ __<u>aquel</u>__".*
 
 #####                1.  El conocimiento profundo de Pablo del Antiguo Testamento, su entrenamiento por Jesucristo mismo (Gálatas 1:12), y la inspiración de __<u>Dios</u>__, el Espíritu Santo, le permitió discernir el significado más amplio que Dios dio en Isaías 28:16.
 
@@ -685,8 +687,8 @@ ___
 
 ######                    d.  Recuerda que la fe (el creer) tiene lugar en el corazón, y que tu __<u>confiesas</u>__ esa fe (tu creencia) con tu boca.
 
-##########                2.  Romanos 11:14b -- **Pregunta** **lógica \# 2**: Pero si una persona nunca ha oído de Jesús, ¿cómo podrá creer en Él?
-    
+#####                2.  Romanos 11:14b -- **Pregunta** **lógica \# 2**: Pero si una persona nunca ha oído de Jesús, ¿cómo podrá creer en Él?
+
 ######                    a.  El oír es esencial para creer; no se puede creer en algo o alguien de quien nunca hayas __<u>oído</u>__ hablar.
 
 ######                    b.  La naturaleza revela que Dios el Creador existe, pero la única manera para que alguien pueda oír el mensaje del Evangelio es a través de la __<u>Palabra</u>__ de Dios.
@@ -1023,7 +1025,7 @@ ___
 
 ###        4.  Romanos 11:33-36 -- **La Conclusión Majestuosa**: ¡A Dios sea la gloria! ¡Grandes cosas Él ha hecho!
 
-####            a.  Romanos 11:33a -- **Nadie puede [captar]{.ul} completamente la grandeza infinita de Dios**. Dos profundidades inconmensurables. *...Oh profundidad de...*
+####            a.  Romanos 11:33a -- **Nadie puede [captar</u>__ completamente la grandeza infinita de Dios**. Dos profundidades inconmensurables. *...Oh profundidad de...*
 
 #####                1.  **Las riquezas de la sabiduría de Dios**: ¡No hay forma humana de contemplar la increíble riqueza de la percepción de Dios en todo lo que es __<u>correcto</u>__ y verdadero!
 
@@ -1043,7 +1045,7 @@ ___
 
 #####                3.  **Todo ya pertenece a Dios**. Compara Romanos 11:35 con Job 41:11 -- Job preguntó __<u>quién</u>__ alguna vez ha dado a Dios algo para que Él esté obligado a devolverlo. ¡Nadie! Job 35:7
 
-####            d.  Romanos 11:36a -- **¿Por qué todas las cosas [pertenecen]{.ul} a Dios?**
+####            d.  Romanos 11:36a -- **¿Por qué todas las cosas [pertenecen</u>__ a Dios?**
 
 #####                1.  **¡Dios es la fuente de la existencia!** Todas las cosas son __<u>de</u>__ (griego: EK -- desde, a partir de) Dios. 1 Corintios 8:6, 11:12, Hechos 14:15
 
@@ -1567,7 +1569,7 @@ ___
 
 #####                 4.  Tu no fuiste salvo mediante el arrepentimiento de tus __<u>pecados</u>__. La Biblia no dice, ni una sola vez, que hay que arrepentirse de los pecados para la salvación.
 
-######                     a.  Sin duda, tendrías que cambiar tu __<u>forma]{.ul} [de]{.ul} [pensar</u>__ (el significado correcto de la palabra griega arrepentirse) acerca de lo que te impedía creer en la muerte de Cristo por tus pecados.
+######                     a.  Sin duda, tendrías que cambiar tu __<u>forma</u>__ [de</u>__ [pensar</u>__ (el significado correcto de la palabra griega arrepentirse) acerca de lo que te impedía creer en la muerte de Cristo por tus pecados.
 
 ######                     b.  Dios nunca conecta la confesión de __<u>pecados</u>__, el llorar, el hacer penitencia, o la promesa de limpiarse, con nuestra justificación. Hebreos 6:1, Hechos 20:21
 
@@ -1745,7 +1747,7 @@ ___
 
 ####             a.  Romanos 14:14a -- Pablo: ***Yo sé, y estoy convencido** en mi relación con el Señor Jesús, que nada es inmundo o __<u>malo</u>__ en sí mismo*. (parafraseado)
 
-####             b.  Romanos 14:14b -- Pablo: *Pero **igualmente [sé]{.ul} y estoy convencido** de que si alguien estima o considera algo inmundo, entonces se convierte en inmundo para él*. (parafraseado)
+####             b.  Romanos 14:14b -- Pablo: *Pero **igualmente [sé</u>__ y estoy convencido** de que si alguien estima o considera algo inmundo, entonces se convierte en inmundo para él*. (parafraseado)
 
 ####             c.  En otras palabras, la conciencia espiritual de Pablo no le impidió disfrutar de __<u>cualquier</u>__ alimento o bebida. (Compara con Jesús en Mateo 15:16-20.)
 
@@ -1825,7 +1827,7 @@ ___
 
 # V. **Romanos 15:1-33 -- La Justicia de Dios y Nuestro Método de Servicio**
 
-##    A.  **Romanos 15:1-12 -- Sirviendo a la [manera]{.ul} de Jesús**
+##    A.  **Romanos 15:1-12 -- Sirviendo a la [manera</u>__ de Jesús**
 
 ###        1.  Romanos 15:1-2 -- El ministerio del fuerte incluye el cuidado de los __<u>débiles</u>__.
 
@@ -2247,7 +2249,7 @@ ___
 
 ###        2.  Romanos 15:30-33 -- Pablo encargó a los creyentes de Roma a participar en su ministerio a través de la __<u>oración</u>__.
 
-####            a.  Romanos 15:30 -- Pablo les rogó por el **Señor Jesucristo** y el amor dado por **Dios el Espíritu Santo** que se esforzaran juntamente con él por medio de sus oraciones a __<u>Dios]{.ul} el Padre**. Note el énfasis de Pablo sobre la Trinidad.
+####            a.  Romanos 15:30 -- Pablo les rogó por el **Señor Jesucristo** y el amor dado por **Dios el Espíritu Santo** que se esforzaran juntamente con él por medio de sus oraciones a __<u>Dios</u>__ el Padre**. Note el énfasis de Pablo sobre la Trinidad.
 
 ####            b.  Romanos 15:31-32 -- Pablo pidió oración en estas __<u>cuatro</u>__ áreas:
 
