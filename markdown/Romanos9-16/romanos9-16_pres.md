@@ -1,10 +1,3 @@
----
-title: "Romanos 9-16"
-institute: DM2
-author: DM2
-lang: es_ES
----
-
 <!-- .slide: data-background-image="DM2/markdown/romanos9-16/media/media/image1.jpg" data-background-size="cover" data-background-position="" data-background-opacity="1"-->
 #  EL LIBRO DE ROMANOS
 ## *¡Dios es Justo!*
