@@ -149,7 +149,7 @@ ___
 
 ####            b.  Romanos 9:6b-7 -- Antes de que cuestionemos la soberanía de Dios o Le acusemos de negligencia o engaño en Su rechazo temporal de Israel, debemos determinar quién es un __<u>verdadero</u>__ israelita.
 
-#####                1.  Romanos 9:6b -- *"...porque no todos los que descienden de Israel son israelitas* \['Israel' -- LBLA\]*...".* El nacer israelita de __<u>sangre</u>__ no le hace a uno un verdadero israelita.
+#####                1.  Romanos 9:6b -- "*...porque no todos los que descienden de Israel son israelitas*  [*'Israel'* -- LBLA\]...". El nacer israelita de __<u>sangre</u>__ no le hace a uno un verdadero israelita.
 
 ######                    a.  Un verdadero israelita es un judío __<u>creyente</u>__.
 
@@ -159,11 +159,11 @@ ___
 
 ######                    d.  El nuevo __<u>nacimiento</u>__, no el nacimiento físico (etnicidad), hace de un judío un verdadero israelita.
 
-######                    e.  *"Os es necesario nacer de nuevo"*, en Juan 3:7, 10 fue dicho por Jesús al líder judío Nicodemo bajo la dispensación de la __<u>Ley</u>__.
+######                    e.  "*Os es necesario nacer de nuevo*", en Juan 3:7, 10 fue dicho por Jesús al líder judío Nicodemo bajo la dispensación de la __<u>Ley</u>__.
 
-#####                2.  Romanos 9:7a -- *"...ni por ser descendientes de Abraham, son todos hijos..."* Tampoco son todos los descendientes de sangre de Abraham __<u>verdaderos</u>__ israelitas.
+#####                2.  Romanos 9:7a -- "*...ni por ser descendientes de Abraham, son todos hijos...*" Tampoco son todos los descendientes de sangre de Abraham __<u>verdaderos</u>__ israelitas.
 
-#####                3.  Romanos 9:7b -- *"...sino: En Isaac te será __<u>llamada</u>__ descendencia."* (griego: KLETHESETAI, será llamado-a).
+#####                3.  Romanos 9:7b -- "*...sino: En Isaac te será __<u>llamada</u>__ descendencia.*" (griego: KLETHESETAI, será llamado-a).
 
 ######                    a.  Con el fin de __<u>probar</u>__ que es posible ser un descendiente de Abraham y no ser automáticamente un verdadero israelita, Pablo sabiamente citó el Antiguo Testamento.
 
@@ -175,9 +175,9 @@ ___
 
 ####            c.  Romanos 9:8-13 -- En lugar de cuestionar la soberanía de Dios, tenemos que entender cómo Dios usó el llamado (Romanos 9:7b) y la promesa (Romanos 9:8) para determinar un __<u>verdadero</u>__ israelita.
 
-#####                1.  Romanos 9:8a -- *"Esto es: No los que son hijos según la carne son los hijos de Dios..."* El nacimiento físico __<u>nunca</u>__ ha hecho hijo de Dios a nadie. De hecho, a través del nacimiento físico todos nacen en la familia rechazada del Adán caído.
+#####                1.  Romanos 9:8a -- "*Esto es: No los que son hijos según la carne son los hijos de Dios...*" El nacimiento físico __<u>nunca</u>__ ha hecho hijo de Dios a nadie. De hecho, a través del nacimiento físico todos nacen en la familia rechazada del Adán caído.
 
-#####                2.  Romanos 9:8b -- *"...sino que los que son hijos según la promesa son contados como descendientes".* Dios adopta las personas como hijos __<u>Suyos</u>__ basado en la promesa de salvar a todos los que creen. Romanos 4:13,16; 5:10; 1 Juan 2:25
+#####                2.  Romanos 9:8b -- "*...sino que los que son hijos según la promesa son contados como descendientes*". Dios adopta las personas como hijos __<u>Suyos</u>__ basado en la promesa de salvar a todos los que creen. Romanos 4:13,16; 5:10; 1 Juan 2:25
 
 ######                    a.  Dios __<u>escogió</u>__ (llamó) a Abraham basado en una promesa. Génesis 12:1-3
 
@@ -187,31 +187,31 @@ ___
 
 ######                    d.  El punto aquí es que uno no se convertía en un israelita basado en sus __<u>esfuerzos</u>__ o méritos personales, sino a través de las promesas de Dios. Génesis 22:18, Gálatas 3:18
 
-#####                3.  Romanos 9:9 -- *"Porque la palabra de la promesa es esta: Por este tiempo vendré, y Sara tendrá un hijo"*.
+#####                3.  Romanos 9:9 -- "*Porque la palabra de la promesa es esta: Por este tiempo vendré, y Sara tendrá un hijo*".
 
 ######                    a.  La promesa era que Dios iba a __<u>salvar</u>__ al mundo a través de la simiente de Abraham, Jesucristo. Gálatas 3:16
 
 ######                    b.  Dios dio esta __<u>simiente</u>__ prometida a través del hijo de Sara, Isaac. Gálatas 3:19
 
-#####                4.  Romanos 9:10-13 -- Un ejemplo del llamado de Dios para Su servicio se encuentra en la elección de Dios de Jacob __<u>sobre</u>__ Esaú. *"Y no sólo esto, sino también cuando Rebeca concibió de uno, de Isaac nuestro padre..."*
+#####                4.  Romanos 9:10-13 -- Un ejemplo del llamado de Dios para Su servicio se encuentra en la elección de Dios de Jacob __<u>sobre</u>__ Esaú. "*Y no sólo esto, sino también cuando Rebeca concibió de uno, de Isaac nuestro padre...*".
 
 ######                    a.  Jacob no merecía el __<u>llamado</u>__ de Dios para convertirse en el recipiente mediante el cual el Salvador vendría.
 
 ######                    b.  Tampoco Jacob era __<u>mejor</u>__ que Esaú cuando Dios le escogió para cumplir Su promesa a Abraham.
 
-######                    c.  Romanos 9:11a -- *"pues no habían aún* \['los mellizos' -- LBLA\] *nacido... para que el propósito de Dios conforme a la elección permaneciese"* Dios __<u>escogió</u>__ al menor (Jacob) sobre el mayor (Esaú).
+######                    c.  Romanos 9:11a -- "*pues no habían aún* \['los mellizos' -- LBLA\] *nacido... para que el propósito de Dios conforme a la elección permaneciese*" Dios __<u>escogió</u>__ al menor (Jacob) sobre el mayor (Esaú).
 
-######                        i.  *"...ni habían hecho aún ni bien ni mal..."* La elección de Dios no fue basada en la conducta de Jacob o Esaú, si era buena o mala. Génesis 25:23
+######                        i.  "*...ni habían hecho aún ni bien ni mal...*" La elección de Dios no fue basada en la conducta de Jacob o Esaú, si era buena o mala. Génesis 25:23
 
-######                        ii. Romanos 9:11b -- *"para que el propósito de Dios conforme a la elección permaneciese, no por las obras sino por el que llama..."* Dios tomó la decisión de __<u>llamar</u>__ a Jacob basado en Sus propios planes, totalmente aparte de cualquier cosa hecha, ya sea por Jacob o Esaú.
+######                        ii. Romanos 9:11b -- "*para que el propósito de Dios conforme a la elección permaneciese, no por las obras sino por el que llama...*" Dios tomó la decisión de __<u>llamar</u>__ a Jacob basado en Sus propios planes, totalmente aparte de cualquier cosa hecha, ya sea por Jacob o Esaú.
 
-######                    d.  Romanos 9:12 -- *"El __<u>mayor</u>__ servirá al menor..."*
+######                    d.  Romanos 9:12 -- "*El __<u>mayor</u>__ servirá al menor...*"
 
 ######                        i.  Esto demuestra la elección soberana de Dios antes de que cualquiera de los dos niños hubiere __<u>nacido</u>__.
 
 ######                        ii. En respuesta a la oración de Rebeca, Dios __<u>dijo</u>__ a ella lo que sucedería en el futuro. Esta fue una declaración de ***predicción*** por parte de Dios. Génesis 25:22-25
 
-######                    e.  Romanos 9:13 -- *"Como está escrito: A Jacob amé, más a Esaú aborrecí".*
+######                    e.  Romanos 9:13 -- "*Como está escrito: A Jacob amé, más a Esaú aborrecí*".
 
 ######                        i.  Estas fueron las palabras de Dios habladas por medio del profeta Malaquías más de __<u>1.000</u>__ años después de los hechos. Malaquías 1:2-3, Abdías 1:8
 
@@ -255,7 +255,7 @@ ___
 
 ###        5.  Romanos 9:14-18 -- ¿Ha sido Dios injusto en Su trato con Israel? ¡De ningún modo! Dios es __<u>justo</u>__ en Su trato con Israel.
 
-####            a.  Romanos 9:14 -- *"¿Qué, pues, diremos? ¿Qué hay injusticia en Dios? ¡En __<u>ninguna</u>__ manera!"* Salmo 11:7
+####            a.  Romanos 9:14 -- "*¿Qué, pues, diremos? ¿Qué hay injusticia en Dios? ¡En __<u>ninguna</u>__ manera!*" Salmo 11:7
 
 #####                1.  Dios es absolutamente __<u>justo</u>__ en todo lo que hace. 2 Crónicas 19:7
 
@@ -263,7 +263,7 @@ ___
 
 ####            b.  Romanos 9:15 -- Dios es justo en Su trato con Israel porque, como le dijo a __<u>Moisés</u>__ en Éxodo 33:19, Él puede ser misericordioso con quien quiera, en cualquier momento y en cualquier lugar y de cualquier manera que Él elija.
 
-#####                1.  *"Tendré __<u>misericordia</u>__ del que Yo tenga misericordia".*
+#####                1.  *"Tendré __<u>misericordia</u>__ del que Yo tenga misericordia.*"
 
 #####                2.  *"Y Me compadeceré del __<u>que</u>__ Yo me compadezca".\*
 
@@ -315,7 +315,7 @@ ___
 
 #####                3.  ¡El faraón tuvo el privilegio de ser usado para la __<u>gloria</u>__ de Dios! Romanos 9:17
 
-####            b.  Romanos 9:19-29 -- Pablo da siete respuestas a __<u>dos</u>__ preguntas acusatorias levantadas por el oponente judío imaginario. *"¿Por qué, pues, inculpa? porque ¿quién ha resistido a Su voluntad?"*
+####            b.  Romanos 9:19-29 -- Pablo da siete respuestas a __<u>dos</u>__ preguntas acusatorias levantadas por el oponente judío imaginario. "*¿Por qué, pues, inculpa? porque ¿quién ha resistido a Su voluntad?"*
 
 #####                1.  Romanos 9:19 -- Estas preguntas podrían leerse: "Si Dios endurece irresistiblemente a alguien, ¿cómo puede __<u>culpar</u>__ a esa persona de rebelión?"
 
@@ -529,7 +529,7 @@ ___
 
 ######                    c.  Era imposible convencer a un judío de verbalizar que Jesús era el SEÑOR __<u>Cristo</u>__, a menos que en verdad lo creyera. Juan 9:22, 28
 
-#####                2.  Romanos 10:7 -- *"¿...No digas...? '¿Quién descenderá al abismo?' (esto es, para hacer subir a Cristo de entre los __<u>muertos</u>__)".* La justicia que viene por la fe depende de la resurrección de Cristo. Romanos 4:25
+#####                2.  Romanos 10:7 -- "*¿...No digas...? '¿Quién descenderá al abismo?' (esto es, para hacer subir a Cristo de entre los __<u>muertos</u>__).*" La justicia que viene por la fe depende de la resurrección de Cristo. Romanos 4:25
 
 ######                    a.  Los __<u>judíos</u>__ ,tanto no creyeron, como desmintieron verbalmente la resurrección. Hechos 4:1-2
 
@@ -541,7 +541,7 @@ ___
 
 ######                    a.  Los hijos de Israel no creyeron __<u>dos</u>__ aspectos importantes del Evangelio.
 
-######                        i.  Rechazaron la naturaleza __<u>divina</u>__ de la persona de Cristo. Juan 8:23-25​​; 8:54-59; 1 Juan 2:22; 4:2-3
+######                        i.  Rechazaron la naturaleza __<u>divina</u>__ de la persona de Cristo. Juan 8:23-25; 8:54-59; 1 Juan 2:22; 4:2-3
 
 ######                        ii. También, no creyeron la resurrección de __<u>Cristo</u>__. Mateo 28:15; Hechos 2:29-36
 
@@ -559,7 +559,7 @@ ___
 
 #####                1.  El mensaje del Evangelio estaba cerca de los judíos, a su alcance; Por lo tanto, ellos no tenían excusa para __<u>no</u>__ creer.
 
-#####                2.  La respuesta __<u>estaba</u>__ en sus bocas. Podrían haber expresado fácilmente el mensaje del Evangelio; *que* *Cristo murió por nuestros pecados y resucitó al tercer día.*
+#####                2.  La respuesta __<u>estaba</u>__ en sus bocas. Podrían haber expresado fácilmente el mensaje del Evangelio; "*que Cristo murió por nuestros pecados y resucitó al tercer día.*"
 
 #####                3.  La respuesta estaba __<u>aún</u>__ en sus corazones.
 
@@ -579,13 +579,13 @@ ___
 
 ######                    c.  El corazón es para razonar y creer. El corazón no es la parte que confiesa, sino que es el lugar en el cual la __<u>fe</u>__ ocurre.
 
-#####                2.  Romanos 10:9a -- *Si confesares con tu boca que Jesús **es el [Señor</u>__* (literalmente, ***Jesús Señor***)
+#####                2.  Romanos 10:9a -- *Si confesares con tu boca que Jesús **es el __<u>Señor</u>__* (literalmente, ***Jesús Señor***)
 
 ######                    a.  Esta frase toca el meollo del problema de cada judío incrédulo. ¿Era Jesús deidad (el SEÑOR) o no lo era? Su respuesta determinaría si __<u>confiarían</u>__ en Él como el Mesías o no.
 
 ######                    b.  Jesús es el __<u>SEÑOR</u>__ del Antiguo Testamento. Ningún israelita confesaría que Jesús era *el SEÑOR* a menos que estuviese 100% convencido de esa verdad. Juan 9:22, 30; 1 Corintios 12:3
 
-#####                3.  Romanos 10:9a -- ...*y creyeres en tu corazón que Dios le levantó de los __<u>muertos</u>__*...
+#####                3.  Romanos 10:9a -- ...*y creyeres en tu corazón que Dios le levantó de los __<u>muertos</u>__...*
 
 ######                    a.  Este fue el segundo gran problema para el judío incrédulo. ¿Si Jesús había resucitado de entre los __<u>muertos</u>__, o no?
 
@@ -593,11 +593,11 @@ ___
 
 #####                4.  Es importante recordar estos __<u>dos</u>__ aspectos críticos básicos del Evangelio que fueron piedras de tropiezo para Israel. Si creían en uno, el otro sería inmediatamente creíble.
 
-######                    a.  La resurrección era un problema para ellos. Un judío que no creía que Jesús ***había resucitado***, nunca creería en Él como ***el SEÑOR Dios***. Cf. Romanos 10:6
+######                    a.  La resurrección era un problema para ellos. Un judío que no creía que Jesús ***había resucitado***, nunca creería en Él como ***el SEÑOR Dios**.* Cf. Romanos 10:6
 
-######                    b.  La deidad de Cristo era un problema para ellos. A la inversa, un judío que no creía que Jesús **era *el SEÑOR Dios***, __<u>nunca</u>__ creería que Él había ***resucitado de entre los muertos***. Cf. Romanos 10:7
+######                    b.  La deidad de Cristo era un problema para ellos. A la inversa, un judío que no creía que Jesús **era *el SEÑOR Dios***, __<u>nunca</u>__ creería que Él había ***resucitado de entre los muertos**.* Cf. Romanos 10:7
 
-#####                5.  Romanos 10:9b -- *...serás salvo*. Para los judíos del primer siglo, la salvación __<u>dependía</u>__ de dos asuntos críticos: la deidad y la resurrección de Cristo. ¿Era Él verdaderamente el SEÑOR, y de hecho había resucitado? Hechos 2:23-24, 31-36, Hechos 3:14-15, Hechos 4:2, Hechos 5:30-31
+#####                5.  Romanos 10:9b -- *...serás salvo.* Para los judíos del primer siglo, la salvación __<u>dependía</u>__ de dos asuntos críticos: la deidad y la resurrección de Cristo. ¿Era Él verdaderamente el SEÑOR, y de hecho había resucitado? Hechos 2:23-24, 31-36, Hechos 3:14-15, Hechos 4:2, Hechos 5:30-31
 
 #####                6.  ¿Qué significa el confesar algo?
 
@@ -611,7 +611,7 @@ ___
 
 ######                        ii. Juan 9:22 -- Si la confesión (griego: HOMOLOGEO) que Jesús es el __<u>Cristo</u>__ daba lugar a la excomunión del templo, ¡imagina lo que el confesar que Jesús es el SEÑOR o Dios habría traído!
 
-######                        iii. Examina este pasaje: *pero los fariseos afirman* (HOMOLOGEO) *estas cosas*... Hechos 23:8
+######                        iii. Examina este pasaje: *pero los fariseos afirman* (HOMOLOGEO) *estas cosas...* Hechos 23:8
 
 ######                    d.  El *confesar* que Jesús es el Señor, no significa __<u>hacer</u>__ a Jesús el Señor de su vida.
 
@@ -645,7 +645,7 @@ ___
 
 ######                    b.  Al citar Isaías 28:16 por segunda vez, Pablo se enfocó en la __<u>persona</u>__ que ejerce la fe.
 
-######                    c.  Bajo la inspiración del Espíritu Santo, Pablo tomó la libertad apostólica para cambiar la cita de, *"el __<u>que</u>__ creyere"* a *"todo aquel que en Él creyere".*
+######                    c.  Bajo la inspiración del Espíritu Santo, Pablo tomó la libertad apostólica para cambiar la cita de, *"el __<u>que</u>__ creyere"* a *"todo aquel que en Él creyere.*"
 
 ######                    d.  El punto es que todo el que creyere en Cristo, confiando en Su muerte por los pecados y la resurrección, no será decepcionado ni se sentirá insatisfecho.
 
@@ -669,7 +669,7 @@ ___
 
 ######                    f.  Recuerde que tú llamas (invocas) __<u>a</u>__ Dios con la boca sólo si crees __<u>en</u>__ Dios con tu corazón.
 
-####            h.  Romanos 10:13 -- Hemos tomado nota de que, bajo la inspiración de Dios el Espíritu Santo, en Romanos 10:11 Pablo cambió Isaías 28:16 de *"__<u>el</u>__"* a *"__<u>todo</u>__ __<u>aquel</u>__".*
+####            h.  Romanos 10:13 -- Hemos tomado nota de que, bajo la inspiración de Dios el Espíritu Santo, en Romanos 10:11 Pablo cambió Isaías 28:16 de *"__<u>el</u>__"* a *"__<u>todo</u>__ __<u>aquel</u>__.*"
 
 #####                1.  El conocimiento profundo de Pablo del Antiguo Testamento, su entrenamiento por Jesucristo mismo (Gálatas 1:12), y la inspiración de __<u>Dios</u>__, el Espíritu Santo, le permitió discernir el significado más amplio que Dios dio en Isaías 28:16.
 
@@ -715,7 +715,7 @@ ___
 
 #####                6.  Romanos 10:16a -- **Conclusión** **lógica \# 2**: No todo el mundo cree en las Buenas __<u>Noticias</u>__ que se predican. Obviamente, no todo Israel había creído.
 
-#####                7.  Romanos 10:16b -- **Conclusión** **lógica \# 3**: Pablo citó Isaías 53:1 el cual __<u>dice</u>__: *"¿Quién ha creído a nuestro anuncio".* El significado retórico de esto es que, obviamente, no todo el mundo creería.
+#####                7.  Romanos 10:16b -- **Conclusión** **lógica \# 3**: Pablo citó Isaías 53:1 el cual __<u>dice</u>__: *"¿Quién ha creído a nuestro anuncio.*" El significado retórico de esto es que, obviamente, no todo el mundo creería.
 
 #####                8.  Romanos 10:17 -- **Conclusión** **lógica \# 4**: La fe viene por el oír y el oír viene por la __<u>Palabra</u>__ de Cristo.
 
@@ -805,7 +805,7 @@ ___
 
 #####               5.  Romanos 11:5-7 -- **Respuesta contemporánea de Pablo**: Pablo declaró enfáticamente que de la misma manera, un remanente de creyentes judíos, salvos por gracia y no por __<u>obras</u>__ o méritos, aún permanecía en Israel.
 
-######                    a.  Romanos 11:5 -- *"...aun en este tiempo"* significa que este remanente judío estaba compuesto de los judíos que confiaban en Jesús durante la __<u>generación</u>__ de Pablo.
+######                    a.  Romanos 11:5 -- "*...aun en este tiempo"* significa que este remanente judío estaba compuesto de los judíos que confiaban en Jesús durante la __<u>generación</u>__ de Pablo.
 
 ######                    b.  En la actualidad, algunos judíos, a menudo llamados judíos mesiánicos, no han doblado la __<u>rodilla</u>__ ante los Baales del mundo, sino que han confiado en Cristo como Salvador.
 
@@ -943,7 +943,7 @@ ___
 
 ######                        ii. Lo que __<u>sí</u>__ dice, es que debido a que Israel rehusó creer, Dios los desgajó y los puso a un lado, lejos de Su bendición.
 
-######                    e.  Romanos 11:20b-21 -- *"No te ensoberbezcas, sino teme. Porque si Dios no perdonó a las ramas naturales, a __<u>ti</u>__ tampoco te perdonará".*
+######                    e.  Romanos 11:20b-21 -- *"No te ensoberbezcas, sino teme. Porque si Dios no perdonó a las ramas naturales, a __<u>ti</u>__ tampoco te perdonará.*"
 
 ######                        i.  Gentiles, no sean __<u>arrogantes</u>__, sino que dense cuenta que si ustedes no aceptan la salvación de Dios, lo mismo les podría suceder como le aconteció a las ramas naturales.
 
@@ -965,21 +965,21 @@ ___
 
 ####            b.  Romanos 11:25b-27 -- Dios quiere que todos los **creyentes gentiles** entiendan __<u>seis</u>__ cosas sobre el destino de Israel.
 
-#####                1.  *"...este misterio"*: Dios __<u>quiere</u>__ que la iglesia entienda el misterio del rechazo temporal y la salvación futura de Israel.
+#####                1.  "*...este misterio"*: Dios __<u>quiere</u>__ que la iglesia entienda el misterio del rechazo temporal y la salvación futura de Israel.
 
 #####                2.  *"para que no seáis arrogantes en cuanto a vosotros mismos"* ¡Debemos tener humildad hacia Israel! Dios no quiere que los creyentes gentiles __<u>desprecien</u>__ a Israel por su dureza hacia el Mesías. Romanos 11:22b; Gálatas 6:1b
 
-#####                3.  *"que ha acontecido a Israel endurecimiento en parte..."* ¡La dureza de Israel es parcial y temporal! Dios quiere que los cristianos gentiles entiendan que Israel sólo se ha endurecido *en __<u>parte</u>__*. Isaías 63:15-19
+#####                3.  *"que ha acontecido a Israel endurecimiento en parte...*" ¡La dureza de Israel es parcial y temporal! Dios quiere que los cristianos gentiles entiendan que Israel sólo se ha endurecido *en __<u>parte</u>__*. Isaías 63:15-19
 
 #####                4.  *"hasta que..."* Dios __<u>no</u>__ quiere que los creyentes gentiles sean ignorantes de la futura restauración de Israel.
 
-#####                5.  *"...haya entrado la plenitud de los gentiles".* El acontecimiento que __<u>marcará</u>__ el comienzo del ablandamiento de Israel hacia el Señor, es la venida de la *plenitud* (compleción total) *de los gentiles*. (Compare con Romanos 11:12)
+#####                5.  "*...haya entrado la plenitud de los gentiles.*" El acontecimiento que __<u>marcará</u>__ el comienzo del ablandamiento de Israel hacia el Señor, es la venida de la *plenitud* (compleción total) *de los gentiles*. (Compare con Romanos 11:12)
 
 ######                    a.  La *"plenitud de los gentiles"* no debe confundirse con los *"__<u>tiempos</u>__ de los gentiles"* descritos en Lucas 21:24.
 
 ######                    b.  La *"plenitud de los gentiles"* ocurrirá con el rapto de la iglesia cuando se haya completado la esposa de Cristo (la iglesia), y está presente dispensación de la iglesia __<u>termine</u>__. 1 Tesalonicenses 4:13-18, 1 Corintios 15:23, Efesios 5:25-27
 
-#####                6.  Romanos 11:26-27 -- *"__<u>Todo</u>__ Israel será salvo".* ¿Cómo podemos saber que esto es cierto? ¿Cuándo sucederá?
+#####                6.  Romanos 11:26-27 -- *"__<u>Todo</u>__ Israel será salvo.*" ¿Cómo podemos saber que esto es cierto? ¿Cuándo sucederá?
 
 ######                    a.  Romanos 11:26a -- Sabemos que es cierto porque *"está escrito"* en la Palabra de __<u>Dios</u>__.
 
@@ -1003,9 +1003,9 @@ ___
 
 ######                        i.  *"Así que en cuanto al evangelio, __<u>son</u>__ enemigos..."* Debido a su rechazo del Salvador, los israelitas se volvieron enemigos de Dios.
 
-######                        ii. *"...por causa de vosotros".* __<u>Esto</u>__ es una bendición para los gentiles.
+######                        ii. "*...por causa de vosotros.*" __<u>Esto</u>__ es una bendición para los gentiles.
 
-######                    b.  Romanos 11:28b -- *"...pero en cuanto a la elección, son amados por causa de los padres..."* Dios ama a los Israelitas *"por __<u>causa</u>__ de los padres"* (Abraham, Isaac, Jacob) y Sus promesas eternas a ellos.
+######                    b.  Romanos 11:28b -- "*...pero en cuanto a la elección, son amados por causa de los padres..."* Dios ama a los Israelitas *"por __<u>causa</u>__ de los padres"* (Abraham, Isaac, Jacob) y Sus promesas eternas a ellos.
 
 ######                    c.  Romanos 11:29 -- **La base lógica**: ¡Dios no toma de regreso un regalo o retrocede a (se echa para atrás sobre) Su palabra!
 
@@ -1155,7 +1155,7 @@ ___
 
 #####                1.  *Espiritual* es mejor traducido como "*__<u>racional</u>__"-* RV60, razonable o lógico.
 
-#####                2.  La palabra *"culto"* es la traducción de una palabra griega que podría traducirse simplemente como *"servicio".*
+#####                2.  La palabra *"culto"* es la traducción de una palabra griega que podría traducirse simplemente como *"servicio.*"
 
 ######                    a.  A la luz de la misericordia de Dios, tu servicio lógico a Dios es presentar tu __<u>cuerpo</u>__ como un sacrificio vivo, dedicado y agradable a Él.
 
@@ -1345,7 +1345,7 @@ ___
 
 ####            a.  Romanos 12:3a -- "*Por la __<u>gracia</u>__ que me es dada*..." Todo lo que tenemos es un resultado del favor inmerecido de Dios hacia nosotros.
 
-####            b.  Romanos 12:3b -- *"que no tenga más alto concepto de sí que el que debe tener, sino que piense de sí con cordura".* Piensa con humildad en cuanto se refiere a tus dones espirituales. Tú eres sólo __<u>una</u>__ parte del cuerpo de Cristo. Cada miembro sirve al cuerpo de una manera particular en lo que Dios ha decidido.
+####            b.  Romanos 12:3b -- *"que no tenga más alto concepto de sí que el que debe tener, sino que piense de sí con cordura.*" Piensa con humildad en cuanto se refiere a tus dones espirituales. Tú eres sólo __<u>una</u>__ parte del cuerpo de Cristo. Cada miembro sirve al cuerpo de una manera particular en lo que Dios ha decidido.
 
 ####            c.  Romanos 12:3c -- "*conforme a la medida de __<u>fe</u>__ que Dios repartió a cada uno*". Dios te ha dado una habilidad especial para que confíes en Él y así tengas la capacidad de llevar a cabo tu don.
 
@@ -1427,7 +1427,7 @@ ___
 
 #####                2.  Si tu enemigo tiene sed, dale de __<u>beber</u>__.
 
-#####                3.  El significado exacto de "*ascuas de fuego amontonarás sobre su cabeza"* no se conoce, pero el resultado es claro. Tu bondad en el nombre de Cristo (comida y bebida) puede traer __<u>vergüenza</u>__ y / o convicción a tu enemigo, y eso es bueno.
+#####                3.  El significado exacto de "*ascuas de fuego amontonarás sobre su cabeza*" no se conoce, pero el resultado es claro. Tu bondad en el nombre de Cristo (comida y bebida) puede traer __<u>vergüenza</u>__ y / o convicción a tu enemigo, y eso es bueno.
 
 ###        7.  Romanos 12:21 -- **El verdadero amor bíblico** gana la victoria.
 
@@ -1457,7 +1457,7 @@ ___
 
 #####                 1.  Jesucristo fue __<u>falsamente</u>__ acusado de rebelión. Lucas 23:2
 
-#####                 2.  Los cristianos __<u>también</u>__ fueron falsamente acusados ​​de rebelión. Hechos 17:6-7
+#####                 2.  Los cristianos __<u>también</u>__ fueron falsamente acusados de rebelión. Hechos 17:6-7
 
 #####                 3.  *Toda persona*, literalmente, quiere decir, *toda __<u>alma</u>__*, lo que significa que Pablo aplicó este principio no sólo a creyentes, sino a todo el mundo, ya que todos tienen un alma.
 
@@ -1505,7 +1505,7 @@ ___
 
 ###         7.  Romanos 13:5 -- *Por lo cual es necesario*... Dios da dos razones prácticas para que te __<u>sujetes</u>__ a tu gobierno.
 
-####             a.  Romanos 13:5a -- '**La [ira</u>__' -- RV09: Te sujetas a causa del *castigo* o la ira (Griego: ORGE, indignación apasionada, no el enojo repentino) del gobierno.
+####             a.  Romanos 13:5a --  **La __<u>ira</u>__  -- RV09: Te sujetas a causa del *castigo* o la ira (Griego: ORGE, indignación apasionada, no el enojo repentino) del gobierno.
 
 ####             b.  Romanos 13:5b -- **La conciencia**: Te sujetas para que puedas estar en paz con tu sentido dado por Dios del bien y del mal (conciencia). Hebreos 10:2; 1 Timoteo 4:2
 
@@ -1517,9 +1517,9 @@ ___
 
 ###         9.  Romanos 13:7 -- Dios demanda que todos los creyentes cumplan con su __<u>deber</u>__ civil. Debido a que sabes del diseño de Dios para el gobierno y la criminalidad, debes obedecer a Él y a ellos.
 
-####             a.  Romanos 13:7a -- *Pagad a todos lo que debéis*... __<u>Paga</u>__ todos los impuestos requeridos. *Pagad* está en el activo imperativo aoristo, significando empezar sin demora a pagar activa y obedientemente los impuestos.
+####             a.  Romanos 13:7a -- *Pagad a todos lo que debéis...*  __<u>Paga</u>__ todos los impuestos requeridos. *Pagad* está en el activo imperativo aoristo, significando empezar sin demora a pagar activa y obedientemente los impuestos.
 
-####             b.  Romanos 13:7b -- ...*lo que debéis*... No pagues de más. Simplemente paga __<u>todo</u>__ lo que debes.
+####             b.  Romanos 13:7b -- ...*lo que debéis...* No pagues de más. Simplemente paga __<u>todo</u>__ lo que debes.
 
 ####             c.  Romanos 13:7c -- Paga siempre los *tributos* (impuesto sobre tus ingresos), el *impuesto* de aduana (derechos de importación), __<u>*respeto*</u>__ (temor), y *honra* (decoro) cuándo y dónde lo debas.
 
@@ -1547,7 +1547,7 @@ ___
 
 ####             a.  *Y esto*... Se refiere a lo que Pablo estaba diciendo. Dios nos manda a *mostrar __<u>amor</u>__* *a otros*, porque sabemos verdades esenciales que el mundo no conoce.
 
-#####                 1.  Sabemos el __<u>tiempo</u>__. *Conociendo el tiempo*... Ahora es el momento de despertar.
+#####                 1.  Sabemos el __<u>tiempo</u>__. *Conociendo el tiempo...* Ahora es el momento de despertar.
 
 #####                 2.  Sabemos que nuestra salvación está más cerca, que cuando por primera vez, __<u>creímos</u>__ en el Señor como Salvador. El conocer la esperanza de nuestro llamado, nuestra glorificación, debería motivarnos a caminar según la voluntad de Dios. Efesios 1:18
 
@@ -1559,7 +1559,7 @@ ___
 
 #####                 3.  1 Corintios 15:33-34 -- Nos ordena a estar en compañía de gente __<u>piadosa</u>__ (aquellos que aman y, por lo tanto, obedecen a Dios) porque fácilmente podemos corrompernos por aquellos que no lo hacen, ya sean creyentes o no creyentes.
 
-####             c.  ...*que cuando creímos*. Tu salvación llegó en el momento en que creíste en la persona y __<u>obra</u>__ de Cristo.
+####             c.  ...*que cuando creímos.*  Tu salvación llegó en el momento en que creíste en la persona y __<u>obra</u>__ de Cristo.
 
 #####                 1.  Tu no fuiste salvo porque pediste a Jesús __<u>entrar</u>__ en tu corazón. ¡Ningún ser humano pecador tiene el derecho de invitar al Dios perfecto en el pozo negro del pecado que es su alma -- y esperar que venga adentro! No apliquemos mal Apocalipsis 3:20.
 
@@ -1631,7 +1631,7 @@ ___
 
 ####             b.  Romanos 13:13b -- Dios nos manda a __<u>resistir</u>__ las actividades del mundo. Gálatas 5:19-21
 
-#####                 1.  No debemos vivir *en* *glotonerías y borracheras*. Nunca debemos participar en fiestas __<u>salvajes</u>__ o en emborrachamientos. Proverbios 23:20
+#####                 1.  No debemos vivir *en* *glotonerías y borracheras.* Nunca debemos participar en fiestas __<u>salvajes</u>__ o en emborrachamientos. Proverbios 23:20
 
 #####                 2.  No debemos complacernos *en lujurias y lascivias* que tienen que ver con la promiscuidad sexual y la sensualidad. Debemos __<u>huir</u>__ del adulterio, la fornicación, la concupiscencia, la vida inmoral, la pornografía, y los pensamientos obscenos. Efesios 5:3, 1 Corintios 6:18, Colosenses 3:5
 
@@ -2409,7 +2409,7 @@ ___
 
 ####            c.  Romanos 16:17c -- Ten cuidado de los falsos maestros, porque van a tratar de destruir tu __<u>fe</u>__ a través de todo lo que es "*en contra de la doctrina que vosotros habéis aprendido*".
 
-####            d.  Romanos 16:17d -- Cuando los encuentres, debes __<u>alejarte</u>__ de ellos, porque tratan de hacer el mal. *"...Y que os apartéis de ellos... "*
+####            d.  Romanos 16:17d -- Cuando los encuentres, debes __<u>alejarte</u>__ de ellos, porque tratan de hacer el mal. "*...Y que os apartéis de ellos... "*
 
 #####                1.  Apartarse de ellos significa evitarlos, además de __<u>rechazarlos</u>__.
 
@@ -2425,7 +2425,7 @@ ___
 
 ######                    b.  Estos falsos maestros usualmente se ven bien en lo exterior, pero no __<u>siguen</u>__ a Cristo en sus pensamientos o motivaciones. Mateo 23:27
 
-#####                2.  Segundo, entiende que los que hablan mentiras acerca de la Escritura son esclavos de sus propios apetitos (griego: KOILIA, literalmente vientre) o __<u>deseos</u>__. *"Sirven... a sus propios vientres".* Ver Filipenses 3:17-21
+#####                2.  Segundo, entiende que los que hablan mentiras acerca de la Escritura son esclavos de sus propios apetitos (griego: KOILIA, literalmente vientre) o __<u>deseos</u>__. *"Sirven... a sus propios vientres.*" Ver Filipenses 3:17-21
 
 ######                    a.  Los falsos maestros carecen de dominio propio; no tienen el "control del Espíritu Santo" en lo absoluto. Ellos quieren que las cosas se hagan a __<u>su</u>__ manera, no a la manera de Dios. Gálatas 5:22-23
 
@@ -2489,7 +2489,7 @@ ___
 
 ###         1.  Romanos 16:25 -- Él comenzó en el versículo 25 con la alabanza a Dios diciendo: "*Y al que*", pero luego queda cautivado con el __<u>Evangelio</u>__ y no termina su alabanza hasta el versículo 27.
 
-###         2.  *"^ ^Y al que puede confirmaros ..."* ¡Anímate, porque Dios es capaz de confirmarte __<u>firmemente</u>__ aun a ti! Romanos 1:11
+###         2.  "*^ ^Y al que puede confirmaros ...*" ¡Anímate, porque Dios es capaz de confirmarte __<u>firmemente</u>__ aun a ti! Romanos 1:11
 
 ###         3.  La pregunta es: ¿Cómo confirma (establece) Dios a los creyentes? 1 Pedro 5:10
 
@@ -2503,7 +2503,7 @@ ___
 
 #####                 4.  Puesto que la vida cristiana es un caminar, una correcta comprensión de las funciones del Evangelio funcionan como nuestros __<u>zapatos</u>__. "*...Y calzados los pies con el apresto del evangelio de la paz...*" Efesios 6:15
 
-####             b.  Romanos 16:25b -- Segundo, Dios confirma (establece) a los creyentes "*según...la predicación de Jesucristo".*
+####             b.  Romanos 16:25b -- Segundo, Dios confirma (establece) a los creyentes "*según...la predicación de Jesucristo.*"
 
 #####                 1.  __<u>Dios</u>__ confirma (establece) a los creyentes de acuerdo con, o según, las proclamaciones de su Hijo, Jesucristo.
 
