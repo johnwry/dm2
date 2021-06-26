@@ -3328,8 +3328,8 @@ ___
 
 #### b. Filipenses 3:3 -- El Apóstol Pablo quería ***ser hallado*** en el Señor sin tener su propia justicia sino la justicia que viene por la __<u>fe</u>__ sin la Ley.
 
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/cross.png" data-background-size="contain" data-background-position="" data-background-opacity="0.3" -->
 ## C. Gálatas 6:14-16 -- A continuación, las declaraciones de Pablo mostraron la superioridad de la <u>gracia</u> como se ve a través de la cruz de nuestro Señor Jesucristo.
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/cross.png" data-background-size="contain" data-background-position="" data-background-opacity="0.3" -->
 
 ### 1. Gálatas 6:14a -- "*Pero lejos esté de mí gloriarme, sino en la cruz de nuestro Señor Jesucristo...*". Mientras el legalista se gloría en la carne, los que viven por gracia se jactan sólo en la __<u>cruz</u>__ de nuestro Señor Jesús Cristo. 1 Corintios 2:2, Gálatas 3:1
 
