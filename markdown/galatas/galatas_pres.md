@@ -3108,11 +3108,7 @@ ___
 ___
 <!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/andar-del-creyente/andar-del-creyente.009.jpeg" data-background-size="contain" data-background-position="" data-background-opacity="1" data-auto-animate=""  data-background-color="black" -->
 ___
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/andar-del-creyente/andar-del-creyente.010.jpeg" data-background-size="contain" data-background-position="" data-background-opacity="1" data-auto-animate=""  data-background-color="black" -->
-___
 <!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/andar-del-creyente/andar-del-creyente.011.jpeg" data-background-size="contain" data-background-position="" data-background-opacity="1" data-auto-animate=""  data-background-color="black" -->
-___
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/andar-del-creyente/andar-del-creyente.013.jpeg" data-background-size="contain" data-background-position="" data-background-opacity="1" data-auto-animate=""  data-background-color="black" -->
 ___
 <!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/andar-del-creyente/andar-del-creyente.014.jpeg" data-background-size="contain" data-background-position="" data-background-opacity="1" data-auto-animate=""  data-background-color="black" -->
 ___
