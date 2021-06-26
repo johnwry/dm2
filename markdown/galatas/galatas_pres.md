@@ -3238,7 +3238,7 @@ ___
 
 ### 2. Gálatas 6:12b -- "*Todos los que quieren **agradar en la carne**...*". Poner énfasis en lo externo es una __<u>señal</u>__ contundente del legalista.
 
-### 3. Gálatas 6:12c -- "...éstos ***os obligan** a que os circuncidéis...*". Un legalista pone presión constante sobre las personas para que se ajusten y __<u>sometan</u>__ a rituales.
+### 3. Gálatas 6:12c -- "*...éstos **os obligan** a que os circuncidéis...*". Un legalista pone presión constante sobre las personas para que se ajusten y __<u>sometan</u>__ a rituales.
 
 #### a. El legalista intenta tomar el lugar del Espíritu Santo en la vida de una persona. El Espíritu Santo es el único que puede __<u>cambiar</u>__ a las personas.
 
