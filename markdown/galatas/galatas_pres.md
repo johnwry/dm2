@@ -3090,65 +3090,65 @@ ___
 
 ## A. Gálatas 6:1 -- Aquellos que andan en el Espíritu deben restaurar <u>apaciblemente</u> a sus hermanos y hermanas que quedan atrapados en una cuestión de pecado. 
 ___
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/andar-del-creyente/andar-del-creyente.001.jpeg" data-background-size="cover" data-background-position="" data-background-opacity="1" data-auto-animate="" -->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/andar-del-creyente/andar-del-creyente.001.jpeg" data-background-size="contain" data-background-position="" data-background-opacity="1" data-auto-animate="" -->
 ___
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/andar-del-creyente/andar-del-creyente.002.jpeg" data-background-size="cover" data-background-position="" data-background-opacity="1" data-auto-animate="" -->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/andar-del-creyente/andar-del-creyente.002.jpeg" data-background-size="contain" data-background-position="" data-background-opacity="1" data-auto-animate="" -->
 ___
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/andar-del-creyente/andar-del-creyente.003.jpeg" data-background-size="cover" data-background-position="" data-background-opacity="1" data-auto-animate="" -->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/andar-del-creyente/andar-del-creyente.003.jpeg" data-background-size="contain" data-background-position="" data-background-opacity="1" data-auto-animate="" -->
 ___
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/andar-del-creyente/andar-del-creyente.004.jpeg" data-background-size="cover" data-background-position="" data-background-opacity="1" data-auto-animate="" -->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/andar-del-creyente/andar-del-creyente.004.jpeg" data-background-size="contain" data-background-position="" data-background-opacity="1" data-auto-animate="" -->
 ___
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/andar-del-creyente/andar-del-creyente.005.jpeg" data-background-size="cover" data-background-position="" data-background-opacity="1" data-auto-animate="" -->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/andar-del-creyente/andar-del-creyente.005.jpeg" data-background-size="contain" data-background-position="" data-background-opacity="1" data-auto-animate="" -->
 ___
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/andar-del-creyente/andar-del-creyente.006.jpeg" data-background-size="cover" data-background-position="" data-background-opacity="1" data-auto-animate="" -->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/andar-del-creyente/andar-del-creyente.006.jpeg" data-background-size="contain" data-background-position="" data-background-opacity="1" data-auto-animate="" -->
 ___
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/andar-del-creyente/andar-del-creyente.007.jpeg" data-background-size="cover" data-background-position="" data-background-opacity="1" data-auto-animate="" -->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/andar-del-creyente/andar-del-creyente.007.jpeg" data-background-size="contain" data-background-position="" data-background-opacity="1" data-auto-animate="" -->
 ___
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/andar-del-creyente/andar-del-creyente.008.jpeg" data-background-size="cover" data-background-position="" data-background-opacity="1" data-auto-animate="" -->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/andar-del-creyente/andar-del-creyente.008.jpeg" data-background-size="contain" data-background-position="" data-background-opacity="1" data-auto-animate="" -->
 ___
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/andar-del-creyente/andar-del-creyente.009.jpeg" data-background-size="cover" data-background-position="" data-background-opacity="1" data-auto-animate="" -->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/andar-del-creyente/andar-del-creyente.009.jpeg" data-background-size="contain" data-background-position="" data-background-opacity="1" data-auto-animate="" -->
 ___
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/andar-del-creyente/andar-del-creyente.010.jpeg" data-background-size="cover" data-background-position="" data-background-opacity="1" data-auto-animate="" -->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/andar-del-creyente/andar-del-creyente.010.jpeg" data-background-size="contain" data-background-position="" data-background-opacity="1" data-auto-animate="" -->
 ___
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/andar-del-creyente/andar-del-creyente.011.jpeg" data-background-size="cover" data-background-position="" data-background-opacity="1" data-auto-animate="" -->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/andar-del-creyente/andar-del-creyente.011.jpeg" data-background-size="contain" data-background-position="" data-background-opacity="1" data-auto-animate="" -->
 ___
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/andar-del-creyente/andar-del-creyente.012.jpeg" data-background-size="cover" data-background-position="" data-background-opacity="1" data-auto-animate="" -->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/andar-del-creyente/andar-del-creyente.012.jpeg" data-background-size="contain" data-background-position="" data-background-opacity="1" data-auto-animate="" -->
 ___
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/andar-del-creyente/andar-del-creyente.013.jpeg" data-background-size="cover" data-background-position="" data-background-opacity="1" data-auto-animate="" -->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/andar-del-creyente/andar-del-creyente.013.jpeg" data-background-size="contain" data-background-position="" data-background-opacity="1" data-auto-animate="" -->
 ___
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/andar-del-creyente/andar-del-creyente.014.jpeg" data-background-size="cover" data-background-position="" data-background-opacity="1" data-auto-animate="" -->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/andar-del-creyente/andar-del-creyente.014.jpeg" data-background-size="contain" data-background-position="" data-background-opacity="1" data-auto-animate="" -->
 ___
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/andar-del-creyente/andar-del-creyente.015.jpeg" data-background-size="cover" data-background-position="" data-background-opacity="1" data-auto-animate="" -->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/andar-del-creyente/andar-del-creyente.015.jpeg" data-background-size="contain" data-background-position="" data-background-opacity="1" data-auto-animate="" -->
 ___
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/andar-del-creyente/andar-del-creyente.016.jpeg" data-background-size="cover" data-background-position="" data-background-opacity="1" data-auto-animate="" -->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/andar-del-creyente/andar-del-creyente.016.jpeg" data-background-size="contain" data-background-position="" data-background-opacity="1" data-auto-animate="" -->
 ___
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/andar-del-creyente/andar-del-creyente.017.jpeg" data-background-size="cover" data-background-position="" data-background-opacity="1" data-auto-animate="" -->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/andar-del-creyente/andar-del-creyente.017.jpeg" data-background-size="contain" data-background-position="" data-background-opacity="1" data-auto-animate="" -->
 ___
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/andar-del-creyente/andar-del-creyente.018.jpeg" data-background-size="cover" data-background-position="" data-background-opacity="1" data-auto-animate="" -->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/andar-del-creyente/andar-del-creyente.018.jpeg" data-background-size="contain" data-background-position="" data-background-opacity="1" data-auto-animate="" -->
 ___
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/andar-del-creyente/andar-del-creyente.019.jpeg" data-background-size="cover" data-background-position="" data-background-opacity="1" data-auto-animate="" -->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/andar-del-creyente/andar-del-creyente.019.jpeg" data-background-size="contain" data-background-position="" data-background-opacity="1" data-auto-animate="" -->
 ___
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/andar-del-creyente/andar-del-creyente.020.jpeg" data-background-size="cover" data-background-position="" data-background-opacity="1" data-auto-animate="" -->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/andar-del-creyente/andar-del-creyente.020.jpeg" data-background-size="contain" data-background-position="" data-background-opacity="1" data-auto-animate="" -->
 ___
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/andar-del-creyente/andar-del-creyente.021.jpeg" data-background-size="cover" data-background-position="" data-background-opacity="1" data-auto-animate="" -->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/andar-del-creyente/andar-del-creyente.021.jpeg" data-background-size="contain" data-background-position="" data-background-opacity="1" data-auto-animate="" -->
 ___
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/andar-del-creyente/andar-del-creyente.022.jpeg" data-background-size="cover" data-background-position="" data-background-opacity="1" data-auto-animate="" -->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/andar-del-creyente/andar-del-creyente.022.jpeg" data-background-size="contain" data-background-position="" data-background-opacity="1" data-auto-animate="" -->
 ___
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/andar-del-creyente/andar-del-creyente.023.jpeg" data-background-size="cover" data-background-position="" data-background-opacity="1" data-auto-animate="" -->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/andar-del-creyente/andar-del-creyente.023.jpeg" data-background-size="contain" data-background-position="" data-background-opacity="1" data-auto-animate="" -->
 ___
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/andar-del-creyente/andar-del-creyente.024.jpeg" data-background-size="cover" data-background-position="" data-background-opacity="1" data-auto-animate="" -->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/andar-del-creyente/andar-del-creyente.024.jpeg" data-background-size="contain" data-background-position="" data-background-opacity="1" data-auto-animate="" -->
 ___
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/andar-del-creyente/andar-del-creyente.025.jpeg" data-background-size="cover" data-background-position="" data-background-opacity="1" data-auto-animate="" -->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/andar-del-creyente/andar-del-creyente.025.jpeg" data-background-size="contain" data-background-position="" data-background-opacity="1" data-auto-animate="" -->
 ___
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/andar-del-creyente/andar-del-creyente.026.jpeg" data-background-size="cover" data-background-position="" data-background-opacity="1" data-auto-animate="" -->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/andar-del-creyente/andar-del-creyente.026.jpeg" data-background-size="contain" data-background-position="" data-background-opacity="1" data-auto-animate="" -->
 ___
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/andar-del-creyente/andar-del-creyente.027.jpeg" data-background-size="cover" data-background-position="" data-background-opacity="1" data-auto-animate="" -->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/andar-del-creyente/andar-del-creyente.027.jpeg" data-background-size="contain" data-background-position="" data-background-opacity="1" data-auto-animate="" -->
 ___
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/andar-del-creyente/andar-del-creyente.028.jpeg" data-background-size="cover" data-background-position="" data-background-opacity="1" data-auto-animate="" -->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/andar-del-creyente/andar-del-creyente.028.jpeg" data-background-size="contain" data-background-position="" data-background-opacity="1" data-auto-animate="" -->
 ___
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/andar-del-creyente/andar-del-creyente.029.jpeg" data-background-size="cover" data-background-position="" data-background-opacity="1" data-auto-animate="" -->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/andar-del-creyente/andar-del-creyente.029.jpeg" data-background-size="contain" data-background-position="" data-background-opacity="1" data-auto-animate="" -->
 ___
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/andar-del-creyente/andar-del-creyente.030.jpeg" data-background-size="cover" data-background-position="" data-background-opacity="1" data-auto-animate="" -->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/galatas/img/andar-del-creyente/andar-del-creyente.030.jpeg" data-background-size="contain" data-background-position="" data-background-opacity="1" data-auto-animate="" -->
 
 ### 1. Gálatas 6:1a -- "*Hermanos, si alguno fuere sorprendido en alguna falta...*". Pablo dio instrucciones a los gálatas respecto a un hermano o hermana en Cristo que es __<u>atrapado</u>__, sorprendido o descubierto en un pecado.
 
