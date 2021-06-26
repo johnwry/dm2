@@ -3284,7 +3284,7 @@ ___
 
 ## B. Gálatas 6:12-13 -- Contrariamente al toque personal y la preocupación de Pablo por los gálatas, cualquier preocupación que los legalistas pudieran haber pintado era <u>falsa</u>.
 
-### 1. Gálatas 6:12a -- \"*__Todos los que__ quieren agradar __en la carne...__ *\". Un legalista busca impresionar a los __<u>hombres</u>__ en lugar de a Dios.
+### 1. Gálatas 6:12a -- "<em>__Todos los que__ quieren agradar __en la carne...__ </em>". Un legalista busca impresionar a los __<u>hombres</u>__ en lugar de a Dios.
 
 ### 2. Gálatas 6:12b -- "*Todos los que quieren **agradar en la carne**...*". Poner énfasis en lo externo es una __<u>señal</u>__ contundente del legalista.
 
