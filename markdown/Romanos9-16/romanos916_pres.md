@@ -2530,3 +2530,5 @@ ___
 ######                     d.  Romanos 16:26c -- El misterio es lo que nos lleva a la obediencia que brota de la __<u>fe</u>__. Romanos 1:5
 
 ###         4.  Romanos 16:27 -- Pablo concluye con la doxología que comenzó en el versículo 25. *Y al que... al único y sabio Dios, sea gloria mediante Jesucristo para siempre. ¡__<u>Amén</u>__!* ¡Que así sea!
+
+<!-- .slide: data-background-iframe="https://quizizz.com/join" id="examen_quiz_" data-menu-title="QUIZ" data-preload -->

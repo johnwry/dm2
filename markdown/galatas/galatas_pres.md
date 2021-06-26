@@ -3102,7 +3102,7 @@ ___
 
 ### 4. Gálatas 6:1d -- "*...con espíritu de mansedumbre...*". La restauración debe hacerse con un espíritu de mansedumbre. La mansedumbre o docilidad PRAUTETOS aquí es la misma palabra griega que se encuentra en la lista del __<u>fruto</u>__ del Espíritu.
 
-### 5. Gálatas 6:1e -- La restauración debe hacerse con una cuidadosa auto-consideración porque el que restaura también puede ser __<u>probado</u>__ o tentado de la misma manera. "*...considerándote a ti mismo, no sea que tú también seas tentado"*. 1 Corintios 10:12
+### 5. Gálatas 6:1e -- La restauración debe hacerse con una cuidadosa auto-consideración porque el que restaura también puede ser __<u>probado</u>__ o tentado de la misma manera. "*...considerándote a ti mismo, no sea que tú también seas tentado*". 1 Corintios 10:12
 
 ## B. Gálatas 6:2 -- A medida que andamos en el Espíritu, debemos <u>compartir</u> las cargas de los fatigados. "*Sobrellevad los unos las cargas de los otros, y cumplid así la ley de Cristo*". 
 
@@ -3120,9 +3120,9 @@ ___
 
 ### 2. Gálatas 6:4a -- "*Así que, cada uno someta a prueba su propia obra...*". Debemos evaluar nuestras propias __<u>acciones</u>__ y obras sin compararlas con las obras de otro. 2 Corintios 10:11-13, 18
 
-### 3. Gálatas 6:4b -- "*...y entonces tendrá motivo de gloriarse sólo respecto de sí mismo, y no en otro.*" Sólo cuando __<u>resistimos</u>__ compararnos con los demás podemos evaluar adecuadamente lo que hemos hecho. 2 Corintios 10:12
+### 3. Gálatas 6:4b -- "*...y entonces tendrá motivo de gloriarse sólo respecto de sí mismo, y no en otro*". Sólo cuando __<u>resistimos</u>__ compararnos con los demás podemos evaluar adecuadamente lo que hemos hecho. 2 Corintios 10:12
 
-## D. Gálatas 6:5 -- Deberíamos asumir la responsabilidad de <u>nuestras</u> propias cargas. "*Porque cada uno llevará su propia carga.*"
+## D. Gálatas 6:5 -- Deberíamos asumir la responsabilidad de <u>nuestras</u> propias cargas. "*Porque cada uno llevará su propia carga*".
 
 ### 1. Este versículo puede parecer contradecir Gálatas 6:2 que nos dice que llevemos las cargas de los __<u>demás</u>__, pero, por supuesto, este no es el caso.
 
@@ -3316,21 +3316,21 @@ ___
 
 ## D. Gálatas 6:17-18 -- Pablo da una conclusión muy llamativa a su epístola.
 
-### 1. Gálatas 6:17a -- "*De aquí en adelante nadie me __<u>cause</u>__ molestias\...".* La última petición de Pablo fue que nadie le causara más problema*s*.
+### 1. Gálatas 6:17a -- "*De aquí en adelante nadie me __<u>cause</u>__ molestias...*" La última petición de Pablo fue que nadie le causara más problema*s*.
 
 #### a. La frase *de aquí en adelante* TOU LOIPOU en griego connota una __<u>fuerte</u>__ finalidad.
 
 #### b. La siguiente frase *nadie me cause molestias* es igualmente concisa y podría decirse no dejen que nadie me cause más __<u>problemas</u>__ (molestias). Gálatas 5:11-12
 
-### 2. Gálatas 6:17b -- "... *porque yo traigo en mi cuerpo las marcas del Señor __<u>Jesús</u>__".* 2 Corintios 1:5
+### 2. Gálatas 6:17b -- "*...porque yo traigo en mi cuerpo las marcas del Señor __<u>Jesús</u>__*". 2 Corintios 1:5
 
 #### a. Mientras los legalistas estaban por ahí enfatizando una __<u>marca</u>__ en el cuerpo a través de la circuncisión, Pablo enfatizó el hecho de que su cuerpo estaba lleno de cicatrices que le marcaban como propiedad de Cristo. 2 Corintios 4:10
 
 #### b. Si se preocupaban por las marcas, podían visitar a Pablo y pedir ver sus __<u>cicatrices</u>__ de las persecuciones que sufrió por amor al Evangelio de la gracia. 2 Corintios 11:22-29
 
-### 3. Gálatas 6:18 -- "*Hermanos, la* __<u>gracia</u>__ *de nuestro Señor Jesucristo sea con vuestro espíritu. Amén"*. 
+### 3. Gálatas 6:18 -- "*Hermanos, la* __<u>gracia</u>__ *de nuestro Señor Jesucristo sea con vuestro espíritu. Amén*". 
 
-#### a. Gálatas 6:18a -- "*Hermanos, la **gracia\...". ***Muchas religiones cristianas enseñan que la gracia se __<u>gana</u>__ de alguna manera por los esfuerzos o es merecida por las acciones meritorias por parte del pecador.
+#### a. Gálatas 6:18a -- "*Hermanos, la **gracia**... *". Muchas religiones cristianas enseñan que la gracia se __<u>gana</u>__ de alguna manera por los esfuerzos o es merecida por las acciones meritorias por parte del pecador.
 
 ##### 1) Esta es __<u>totalmente</u>__ una mala comprensión del significado de la palabra. La gracia es favor dado sin jamás merecerlo, ya sea antes o después de la salvación.
 

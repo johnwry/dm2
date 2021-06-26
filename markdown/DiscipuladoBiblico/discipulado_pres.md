@@ -36,7 +36,7 @@ ___
 |**El Plan de Estudios**| **59**|
 |**Conclusión**| **63**|
 ___
-## Haciendo Hacedores de Discípulos
+# Haciendo Hacedores de Discípulos
 ### Redescubriendo el arte perdido de hacer discípulos
 
 # I.  La Visión y la Misión de Jesucristo
@@ -97,7 +97,7 @@ ___
 
 ####             b.  El que tiene toda autoridad en el cielo y en la tierra es el que nos comisiona a ir y __<u>hacer</u>__ discípulos.
 
-#####                1.  Y Jesús se acercó y les habló diciendo: "*Toda potestad __<u>Me</u>__ es dada en el cielo y en la tierra. Por tanto, id, y haced discípulos a todas las naciones, bautizándolos... enseñándoles que guarden todas las cosas que os he mandado\...*". Mateo 28:18-20
+#####                1.  Y Jesús se acercó y les habló diciendo: "*Toda potestad __<u>Me</u>__ es dada en el cielo y en la tierra. Por tanto, id, y haced discípulos a todas las naciones, bautizándolos... enseñándoles que guarden todas las cosas que os he mandado...*". Mateo 28:18-20
 
 #####                2.  O, como dice Pablo: "*Lo que has oído de mí ante muchos testigos, esto encarga a __<u>hombres</u>__ fieles que sean idóneos para enseñar también a otros.*" 2 Timoteo 2:2
 
@@ -143,9 +143,9 @@ ___
 
 # II. El Evangelio
 
-##    A.  Lo que el Evangelio <u>es</u>:
+##    A.  Lo que el Evangelio __<u>es</u>__:
 
-###        1.  El mensaje del Evangelio que se debe creer para salvación es: **"Cristo <u>murió</u> por nuestros pecados y resucitó."** "*Porque primeramente os he enseñado lo que asimismo recibí: Que Cristo murió por nuestros pecados, conforme a las Escrituras; y que fue sepultado, y que resucitó al tercer día, conforme a las Escrituras*" 1 Corintios 15:3-4
+###        1.  El mensaje del Evangelio que se debe creer para salvación es: **"Cristo __<u>murió</u>__ por nuestros pecados y resucitó."** "*Porque primeramente os he enseñado lo que asimismo recibí: Que Cristo murió por nuestros pecados, conforme a las Escrituras; y que fue sepultado, y que resucitó al tercer día, conforme a las Escrituras*" 1 Corintios 15:3-4
 
 ###        2.  El Evangelio es un acontecimiento histórico; se trata de una __<u>obra</u>__ que Dios realizó por la humanidad por medio de Jesucristo, en un fin de semana en la historia, más de dos mil años atrás.
 
@@ -926,7 +926,7 @@ ___
 
 #####                 3.  Demasiadas veces, queremos tomar el camino fácil y aun así lograr resultados. Olvidamos que estamos en una __<u>batalla</u>__, enseñar a hombres fieles requiere el sufrimiento.
 
-###         13. 2 Timoteo 2:3b - "...*como buen __<u>soldado</u>__ de Jesucristo.*"
+###         13. 2 Timoteo 2:3b - "*...como buen __<u>soldado</u>__ de Jesucristo.*"
 
 ####             a.  Estamos en una batalla por las __<u>almas</u>__ de la humanidad. Génesis 3:15;\  1 Timoteo 4:1
 
@@ -974,7 +974,7 @@ ___
 
 ####             e.  Nosotros comisionamos a gente fiel, el __<u>pasar</u>__ lo que ha sido enseñado a otros. 2 Timoteo 2:2c
 
-####             f.  Nosotros como un equipo, estamos dispuestos a sufrir juntos para __<u>hacer</u>__ **hacedores de discípulos*.* 2 Timoteo 2:3a.
+####             f.  Nosotros como un equipo, estamos dispuestos a sufrir juntos para __<u>hacer</u>__ **hacedores de discípulos**.* 2 Timoteo 2:3a.
 
 ####             g.  Nosotros entendemos que somos soldados y por lo tanto debemos estar dispuestos, a __<u>afrontar</u>__ el sufrimiento. 2 Timoteo 2:3b
 
@@ -1018,11 +1018,11 @@ ___
 
 ###        2.  El DM2 trabaja hacia la meta de ver en cada país posible, un __<u>centro</u>__ estratégico de líderes creyentes en el Evangelio, quienes Dios usará para discipular a otros para que repitan el proceso, hasta que su país entero sea alcanzado para Jesucristo.
 
-####            a.  El DM2 no va a todo un país en particular **haciendo** **hacedores de discípulos**, sino que enseña a un grupo estratégico de hombres y mujeres fieles, desafiándolos para que vayan y __<u>hagan</u>__ aún más hacedores de discípulos.
+####            a.  El DM2 no va a todo un país en particular **haciendo hacedores de discípulos**, sino que enseña a un grupo estratégico de hombres y mujeres fieles, desafiándolos para que vayan y __<u>hagan</u>__ aún más hacedores de discípulos.
 
 ####            b.  Creemos que la obra en cada región debe hacerse a través de la población local, usando sus __<u>propios</u>__ recursos.
 
-#####                1.  El DM2 no __<u>paga</u>__ ni soporta el **hacer discípulos.** Esto se realiza por medio de las iglesias nacionales en las regiones donde ellos se entrenan.
+#####                1.  El DM2 no __<u>paga</u>__ ni soporta el **hacer discípulos**. Esto se realiza por medio de las iglesias nacionales en las regiones donde ellos se entrenan.
 
 #####                2.  Dios le dió la Gran Comisión a __<u>cada</u>__ iglesia en particular, por lo tanto, cada congregación debe desempeñar su rol en el cumplimiento del mandato de Dios, usando los recursos que Él ha provisto.
 
@@ -1062,13 +1062,13 @@ ___
 
 ####            b.  Lamentablemente con frecuencia, nos resistimos el dejar a nuestros discípulos ministrar la Palabra, porque tememos que puedan __<u>cometer</u>__ errores.
 
-#####                1.  Es Bíblico el **hacer discípulos** e implica confiar en el modelo y mandato de Dios lo suficiente, como para permitir que la gente trate y que incluso a veces **f<u>alle</u>__. Mateo 28:19-20
+#####                1.  Es Bíblico el **hacer discípulos** e implica confiar en el modelo y mandato de Dios lo suficiente, como para permitir que la gente trate y que incluso a veces **<u>falle</u>__. Mateo 28:19-20
 
 #####                2.  Cuando le damos la oportunidad a la gente de fallar, le damos una enorme oportunidad para __<u>crecer</u>__ como discípulos de Jesucristo. No hay mejor maestro que la experiencia. Proverbios 24:16
 
 #####                3.  Pablo no instruyó a Timoteo de ir y enseñar a los que tenían el *don de la enseñanza* o a los que eran *pastores populares* o *líderes excepcionales.* __<u>Simplemente</u>__ le dijo que fuera a enseñar a hombres ***fieles*** que fueran idóneos o capaces para enseñar también a otros. 2 Timoteo 2:2
 
-#####                4.  Podemos confiar en el programa de Dios. Este <u>f**uncionará**</u>.
+#####                4.  Podemos confiar en el programa de Dios. Este __<u>funcionará</u>__.
 
 ###        4.  ***Como se dijo antes***, en muchos sentidos, hemos __<u>perdido</u>__ el arte de **hacer discípulos**.
 
@@ -1104,7 +1104,7 @@ ___
 
 ######                    a.  Las iglesias nacionales no necesitan profesionales que vengan a hacer el trabajo *por* ellos, sino que necesitan que las personas __<u>locales</u>__ estén capacitadas y dispuestas para confiar en Dios y verlo trabajar. Romanos 12:1-2
 
-######                    b.  Las iglesias nacionales necesitan creer que Dios puede y que va a usarlos, independientemente de sus limitaciones. ***En esperanza contra toda <u>esperanza</u>__*, Abraham creyó a Dios y Dios logró lo imposible. Romanos 4:18
+######                    b.  Las iglesias nacionales necesitan creer que Dios puede y que va a usarlos, independientemente de sus limitaciones. *En esperanza contra toda __<u>esperanza</u>__*, Abraham creyó a Dios y Dios logró lo imposible. Romanos 4:18
 
 #####                4.  El **hacer discípulos** puede y debe hacerse, a través de las iglesias nacionales desde sus __<u>propios</u>__ edificios y facilidades.
 
@@ -1186,7 +1186,7 @@ ___
 
 ######                        i.  El retorno espiritual de nuestras inversiones se vuelven muy __<u>bajos</u>__, cuando no hay una inversión personal de parte del que se está entrenado. Mateo 8:20-22
 
-######                        ii. A menudo los que dan la mayor parte sin necesidad de invertir en su propia formación resultan ser los menos responsables.\ 2 Corintios 12:15
+######                        ii. A menudo los que dan la mayor parte sin necesidad de invertir en su propia formación resultan ser los menos responsables.  2 Corintios 12:15
 
 ######                        iii. A menudo, las personas que reciben la menor cantidad de ayuda y tienen que hacer el mayor sacrificio, __<u>son</u>__ los más agradecidos por la enseñanza y toman mayor responsabilidad en la enseñanza de los demás.
 
@@ -1202,9 +1202,9 @@ ___
 
 ####            b.  Un gran desafío en el **hacer discípulos** es mantener ***siempre*** el Evangelio como el __<u>foco</u>__ central. "*Pues me propuse no saber entre vosotros cosa alguna sino a Jesucristo, y a éste crucificado.*" 1 Corintios 2:2
 
-####            c.  Después del Evangelio, debemos centrarnos en los __<u>principales</u>__ temas Bíblicos en lugar de cuestiones dudosas o debatibles.\ 1 Timoteo 1:3-7, 4:6-7, 6:3-5, 20-21; 2 Timoteo 1:13; 2:14; 23-26
+####            c.  Después del Evangelio, debemos centrarnos en los __<u>principales</u>__ temas Bíblicos en lugar de cuestiones dudosas o debatibles. 1 Timoteo 1:3-7, 4:6-7, 6:3-5, 20-21; 2 Timoteo 1:13; 2:14; 23-26
 
-####            d.  El enseñar las principales doctrinas desde el principio es __<u>vital</u>__ para el progreso futuro. Al hacer esto, hay muchos currículos de ayuda, algunos mejores que otros y, por supuesto, muchos se deben evitar por completo.\ 2 Timoteo 2:14-15
+####            d.  El enseñar las principales doctrinas desde el principio es __<u>vital</u>__ para el progreso futuro. Al hacer esto, hay muchos currículos de ayuda, algunos mejores que otros y, por supuesto, muchos se deben evitar por completo. 2 Timoteo 2:14-15
 
 ####            e.  Todo lo que usamos para el currículo, nosotros estamos __<u>modelando</u>__ diariamente, lo cual es importante por lo que enfatizamos. "*Pero tú has seguido mi doctrina, conducta, propósito, fe, longanimidad, amor, paciencia, persecuciones, padecimientos, como los que me sobrevinieron en Antioquía, en Iconio, en Listra; persecuciones que he sufrido, y de todas me ha librado el Señor.* " 2 Timoteo 3:10-11
 
@@ -1656,7 +1656,7 @@ ___
 
 ###         2.  A cada uno de nosotros, se le ha dado __<u>dones</u>__ espirituales para el servicio del Cuerpo de Cristo.
 
-###         3.  Contamos con la promesa de Cristo: *"Yo __<u>edificaré</u>__ mi iglesia."*
+###         3.  Contamos con la promesa de Cristo: "*Yo __<u>edificaré</u>__ mi iglesia.*"
 
 ###         4.  Tenemos un propósito de Dios con respecto a nuestro rol en el cuerpo de Cristo: "*Porque **somos** hechura suya, creados en Cristo Jesús **para buenas obras**, las cuales Dios preparó de antemano para que anduviésemos en ellas.*" Efesios 2:10
 
@@ -1664,7 +1664,7 @@ ___
 
 ###         1.  La iglesia del __<u>primer</u>__ siglo, estuvo cerca del __<u>objetivo</u>__ de hacer "*discípulos a todas las naciones.*"
 
-###         2.  Vemos en Colosenses 1:23, el apóstol Pablo diciendo: *"...el evangelio ...que fue proclamado en __<u>toda</u>__ la creación debajo del cielo.*"
+###         2.  Vemos en Colosenses 1:23, el apóstol Pablo diciendo: "*...el evangelio ...que fue proclamado en __<u>toda</u>__ la creación debajo del cielo.*"
 
 ###         3.  En el libro de los Hechos, el doctor Lucas registró que incluso el mundo reconoció el impacto universal del testimonio de los creyentes: "*...Empezaron...gritando:" Estos que han trastornado al __<u>mundo</u>__ han venido acá también.*" Hechos 17:6
 
@@ -1672,7 +1672,7 @@ ___
 
 ####             a.  Ellos lograron lo que lograron, porque tenían la __<u>fe</u>__ para creer en la declaración de Cristo: "*Yo edificaré mi iglesia, y las puertas del Hades no prevalecerán contra ella* \..." Mateo 16:18
 
-####             b.  Ellos tenían la voluntad de ir adelante en la fe "*y __<u>haced</u>__* *discípulos a todas las naciones*" Mateo 28:19a.
+####             b.  Ellos tenían la voluntad de ir adelante en la fe "*y __<u>haced</u>__ discípulos a todas las naciones*" Mateo 28:19a.
 
 ####             c.  Ellos confiaron claramente los __<u>planes</u>__ de Dios, y con valentía siguieron Su mandato.
 
@@ -1687,3 +1687,5 @@ ___
 ####             c.  Dios ha __<u>elegido</u>__ usar hombres y mujeres fieles en una multitud de iglesias Neo Testamentarias, para ser sus **hacedores de discípulos** y completar esta importante misión. 1 Corintios 3:9, Efesios 2:22, 2 Corintios 6:1
 
 ###         6.  ![](media/image6.wmf){width="2.9784722222222224in" height="2.1666666666666665in"}¿Estás preparado para el reto? ¡Id y __<u>haced</u>__ **hacedores de discípulos**!
+
+<!-- .slide: data-background-iframe="https://quizizz.com/join" id="examen_quiz_" data-menu-title="QUIZ" data-preload -->
