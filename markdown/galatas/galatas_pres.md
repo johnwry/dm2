@@ -3316,7 +3316,7 @@ ___
 
 ## D. Gálatas 6:17-18 -- Pablo da una conclusión muy llamativa a su epístola.
 
-### 1. Gálatas 6:17a -- "*De aquí en adelante nadie me __<u>cause</u>__ molestias...*" La última petición de Pablo fue que nadie le causara más problema*s*.
+### 1. Gálatas 6:17a -- "*De aquí en adelante nadie me __<u>cause</u>__ molestias*..." La última petición de Pablo fue que nadie le causara más problema*s*.
 
 #### a. La frase *de aquí en adelante* TOU LOIPOU en griego connota una __<u>fuerte</u>__ finalidad.
 
