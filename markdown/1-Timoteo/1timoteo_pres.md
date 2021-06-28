@@ -2940,6 +2940,7 @@ ___
 
 ##    F.  1 Timoteo 6:1-2 -- Honra a los esclavos, honra a los amos
 
+<!-- data-background-color="white" -->
 <svg id="svg12583" width="1000" height="700" inkscape:version="1.0.2 (e86c8708, 2021-01-15)" sodipodi:docname="bosquejo-opt.svg" version="1.1" viewBox="0 0 296 207" xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd">
  <sodipodi:namedview id="base" bordercolor="#666666" borderopacity="1.0" fit-margin-bottom="0" fit-margin-left="0" fit-margin-right="0" fit-margin-top="0" inkscape:bbox-paths="true" inkscape:current-layer="layer3" inkscape:cx="394.77242" inkscape:cy="339.58244" inkscape:document-rotation="0" inkscape:document-units="mm" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:snap-bbox="true" inkscape:window-height="935" inkscape:window-maximized="0" inkscape:window-width="1654" inkscape:window-x="24" inkscape:window-y="25" inkscape:zoom="0.74937383" pagecolor="#ffffff" showgrid="false"/>
  <g id="layer3" transform="translate(-1.8 -.18)" inkscape:groupmode="layer" inkscape:label="letters">
@@ -3088,10 +3089,90 @@ ___
 
 #####                2.  Sobre la esclavitud: Pablo no motivó la rebelión contra la sociedad o el gobierno, como a menudo se promueve en las iglesias hoy bajo el título de justicia social. Sin embargo, Pablo sí motivó a los esclavos a no dejar pasar la posibilidad de la __<u>libertad</u>__ si se les ofreciera. 1 Corintios 7:21
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/church-cover.jpeg" data-background-size="cover"  data-menu-title="X. 1 Timoteo 6:3-21 - Asuntos Relacionados con la Iglesia"--> 
 # X.  1 Timoteo 6:3-21 -- Asuntos Relacionados con la Iglesia
-<!-- .element: style="color:white;" -->
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/church-cover.jpeg" data-background-size="cover"  data-menu-title="X. 1 Timoteo 6:3-21 - Asuntos Relacionados con la Iglesia"-->  <!-- .element: style="color:white;" -->
 
+##    A.  1 Timoteo 6:3-5 -- Tratando con la oposición
+
+###        1.  1 Timoteo 6:3 -- Un gran "si"
+
+####            a.  1 Timoteo 6:3a -- *Si alguno enseña otra cosa...* Este "*si*" es una condición de primera clase, la cual asume la realidad de ser verdad. Puedes estar seguro de que habrá quienes abogan por diferentes doctrinas y que no están de __<u>acuerdo</u>__ con las sanas palabras.
+
+####            b.  1 Timoteo 6:3b -- *...enseña otra cosa...* La frase *enseña otra* es una frase compuesta comprendida por HETEROS, significando otra de un tipo diferente, y DIDASKALOS, enseñar. Los maestros errados defienden, o enseñan activamente, nuevas __<u>ideas</u>__ que no se encuentran en la Palabra de Dios. Gálatas 1:6
+
+####            c.  1 Timoteo 6:3c -- *...y no se conforma a las sanas palabras de nuestro Señor Jesucristo...* Vemos que los maestros errados defienden un mensaje que *no se conforma a las sanas palabras* \[o palabras saludables\], como las que __<u>Cristo</u>__ Jesús nuestro Señor enseñó.
+
+#####                1.  Aunque a menudo estos maestros son elocuentes y cautivadores __<u>oradores</u>__, en realidad están usando sus palabras que suenan bellas para engañar. Ellos no comunican sanas o saludables palabras.
+
+#####                2.  El engaño de los falsos maestros está en completo __<u>contraste</u>__ con las palabras vivificantes de nuestro Señor Jesús. Pedro declaró en Juan 6:68, "*Señor, ¿a quién iremos? Tú tienes palabras de vida eterna*".
+
+####            d.  1 Timoteo 6:3d -- *y no se conforma a...la doctrina que es conforme a la piedad...* También vemos que los maestros errados enseñan cosas que no corresponden a la piedad.
+
+#####                1.  Aunque promete santidad, al final la falsa enseñanza siempre te aleja de una vida __<u>santa</u>__.
+
+#####                2.  Como ejemplo de esto, Pablo usará el engaño de estos falsos maestros que __<u>asocian</u>__ el éxito financiero con la piedad.
+
+###        2.  1 Timoteo 6:4-5a -- Definiendo a un maestro errado
+
+####            a.  1 Timoteo 6:4a --  *...está envanecido*  ['hinchado' -- RV1909\]... Pablo describió el problema básico de un falso maestro: la arrogancia. La palabra *envanecido* significa soplar humo o envolver en una niebla. Se usó para describir a una persona inflada de __<u>orgullo</u>__.
+
+####            b.  1 Timoteo 6:4b -- * ...nada sabe...* Según el apóstol Pablo, un falso maestro *nada sabe*. Esa no es una evaluación muy halagadora y muestra la impaciencia del apóstol con el error. Los falsos maestros usualmente tienen caballitos de batalla y doctrinas favoritas, pero no tienen la __<u>verdad</u>__.
+
+####            c.  1 Timoteo 6:4c -- *...y delira acerca de cuestiones y __<u>contiendas</u>__ de palabras...* Según Pablo, un falso maestro tiene un anhelo enfermizo por la controversia.
+
+#####                1.  La palabra traducida *cuestiones* fue usada por los griegos para describir un debate filosófico que era puramente un intercambio de palabras en lugar de una búsqueda válida para conocer la verdad. Los maestros que aman ser muy elocuentes sin realmente edificar son falsos maestros según __<u>Pablo</u>__.
+
+#####                2.  Muchos estudios bíblicos y clases de escuela dominical están desarrollados sobre este tipo de controversia destructiva. No solo se toleran las *cuestiones* controversiales, sino que de hecho se les anima como una forma preferida de __<u>aprender</u>__.
+
+#####                3.  *Contiendas de palabras...* Esto va de la mano con las *cuestiones* controversiales. Describe disputas insignificantes que involucran escogencias de palabras. Cuando un maestro se convierte en un __<u>policía</u>__ del pensamiento, diseccionando las palabras de todos, la comunicación normal se socava y la edificación es interrumpida.
+
+#####                4.  *De las cuales nacen...* Pablo señaló varios pecados que provenían de estas controversias y __<u>contiendas</u>__. Gálatas 5:19-21
+
+####            d.  1 Timoteo 6:4d -- Los falsos maestros crean...*__<u>envidias</u>__* al provocar argumentos que terminan en celos.
+
+####            e.  1 Timoteo 6:4e -- Los falsos maestros crean *...pleitos*, o disputas, por sus *cuestiones y contiendas de palabras.* En Efesios 4:3 se nos exhorta a hacer exactamente lo contrario: *Solícitos en guardar la unidad del Espíritu en el vínculo de la __<u>paz</u>__*. Judas 1:17-19
+
+####            f.  1 Timoteo 6:4f -- Los falsos maestros inspiran *...blasfemias.* Sus cuestiones y contiendas conducen a insultos y __<u>calumnias</u>__.
+
+####            g.  1 Timoteo 6:4g -- Los falsos maestros generan *...malas sospechas.* Sus cuestiones y contiendas causan pensamientos maliciosos y __<u>malvados</u>__.
+
+###        3.  1 Timoteo 6:5 -- Examinando a las víctimas de los falsos maestros (ver 2 Timoteo 3:1-7)
+
+####            a.  1 Timoteo 6:5a -- Los falsos maestros causan *... __<u>disputas</u>__ necias* \[lit. 'fricción constante'\] (DIAPARATRIBÉ) entre las personas.
+
+#####                1.  En el primer siglo, los __<u>discursos</u>__ de los filósofos fueron llamados DIATRIBAI. Puedes imaginar la inutilidad de sus largos discursos y las controversias resultantes creadas a partir de ellos.
+
+#####                2.  La palabra diatriba en español, un ataque __<u>verbal</u>__ fuerte y rencilloso, proviene de la palabra griega DIATRIBE, significando \"desgastar con el tiempo, consumir por fricción\".
+
+####            b.  1 Timoteo 6:5b -- Los falsos maestros incitan esta __<u>fricción</u>__ *...de hombres corruptos de entendimiento y privados de la verdad.*
+
+#####                1.  *Hombres corruptos de entendimiento* podría ser traducido gente de mente __<u>depravada</u>__.
+
+#####                2.  Estos mismos individuos estaban también *privados* \[lit. 'destituidos\] *de la verdad.* Ellos no eran personas de la Palabra. No estaban \[procurando\] *con diligencia* \[presentarse\] *a Dios* \[aprobados\] *como* \[obreros\] *que no* \[tienen\] *de qué avergonzarse*, que \[usan\] *bien la palabra de __<u>verdad</u>__*. 2 Timoteo 2:15
+
+#####                3.  Esta descripción (*corruptos* y *privados*) en griego está en tiempo perfecto, indicando que estos seguidores de falsos maestros fueron corruptos en un momento determinado con __<u>resultados</u>__ que continuaron en el presente.
+
+#####                4.  Esta descripción está también en la voz pasiva, indicando que estos seguidores no planearon hacerse corruptos y __<u>privados</u>__. 2 Timoteo 3:8-9, 13
+
+##    B.  1 Timoteo 6:5b-8 -- La piedad es gran ganancia
+
+###        1.  1 Timoteo 6:5b -- Personas *...que toman la piedad como fuente de ganancia; apártate de los tales.* Es común para los falsos maestros predicar que Dios quiere que todos los creyentes sean ricos. Ellos enseñan que la riqueza es una señal de la bendición de Dios. Tienen un concepto muy egoísta, de dar para recibir, similar a lo que se practica en las religiones paganas. Este error se promueve en el __<u>evangelio</u>__ de la prosperidad. Juan 12:8
+
+###        2.  1 Timoteo 6:6a -- *Pero gran ganancia es la piedad acompañada de contentamiento.* La piedad en efecto es un medio de ganancia, pero no de __<u>ganancia</u>__ financiera. Proverbios 15:16
+
+####            a.  El contentamiento es estar satisfecho con lo que tienes en lugar de querer siempre más. El contentamiento viene del confiar en que Dios se hará cargo de tus necesidades. Dios siempre vela por ti y nunca te negará nada que sea verdaderamente beneficioso para tu __<u>bien</u>__ espiritual. Salmos 23:1; Filipenses 4:4-7, 11, 19; Romanos 8:32
+
+####            b.  El mayor contentamiento viene del estar seguro en el amor de Dios y en el hecho de que estás completo en Cristo. Este tipo de paz y seguridad vale muchísimo más que el __<u>dinero</u>__. 2 Corintios 9:8, Efesios 3:17-19, Colosenses 2:8-10, Hebreos 13:5
+
+###        3.  1 Timoteo 6:7 -- *Porque nada hemos traído a este mundo, y sin duda nada podremos sacar.* No traes posesiones materiales al mundo al nacer, ni las llevas contigo al morir. Lo único que se puede ganar durante esta vida lo cual permanecerá en la eternidad es la piedad. Las __<u>riquezas</u>__ son temporales. Job 1:21
+
+###        4.  1 Timoteo 6:8 -- *Así que, teniendo sustento y abrigo, estemos __<u>contentos</u>__ con esto.*
+
+####            a.  Pablo dijo que si tenemos las cosas básicas necesarias para la supervivencia, *sustento y abrigo,* los creyentes deberíamos estar contentos. Con nuestras necesidades básicas satisfechas, podemos caminar en total contentamiento, confiando en la plena suficiencia de Dios para satisfacer nuestras __<u>necesidades</u>__. Lucas 12:15
+
+####            b.  La palabra griega usada para *abrigo* SKEPASMA puede significar vestimenta, pero también incluye el significado más amplio de refugio. Esta declaración está en contraste con aquellos que enseñan que es la voluntad de Dios para los creyentes que sean ricos. Muchos de aquellos que siguen esta enseñanza __<u>viven</u>__ en constante desilusión con Dios. Marcos 8:20
+
+<!-- data-background-color="white" -->
 <svg id="svg12583" width="1000" height="700" inkscape:version="1.0.2 (e86c8708, 2021-01-15)" sodipodi:docname="bosquejo-opt.svg" version="1.1" viewBox="0 0 296 207" xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd">
  <sodipodi:namedview id="base" bordercolor="#666666" borderopacity="1.0" fit-margin-bottom="0" fit-margin-left="0" fit-margin-right="0" fit-margin-top="0" inkscape:bbox-paths="true" inkscape:current-layer="layer3" inkscape:cx="394.77242" inkscape:cy="339.58244" inkscape:document-rotation="0" inkscape:document-units="mm" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:snap-bbox="true" inkscape:window-height="935" inkscape:window-maximized="0" inkscape:window-width="1654" inkscape:window-x="24" inkscape:window-y="25" inkscape:zoom="0.74937383" pagecolor="#ffffff" showgrid="false"/>
  <g id="layer3" transform="translate(-1.8 -.18)" inkscape:groupmode="layer" inkscape:label="letters">
@@ -3226,86 +3307,6 @@ ___
   <text id="text14455" style="fill:#000000;font-family:sans-serif;font-size:11px;line-height:1.25;shape-inside:url(#rect14457);white-space:pre" xml:space="preserve"/>
  </g>
 </svg>
-
-##    A.  1 Timoteo 6:3-5 -- Tratando con la oposición
-
-###        1.  1 Timoteo 6:3 -- Un gran "si"
-
-####            a.  1 Timoteo 6:3a -- *Si alguno enseña otra cosa\...* Este *\"si\"* es una condición de primera clase, la cual asume la realidad de ser verdad. Puedes estar seguro de que habrá quienes abogan por diferentes doctrinas y que no están de __<u>acuerdo</u>__ con las sanas palabras.
-
-####            b.  1 Timoteo 6:3b -- *\...enseña otra cosa\...* La frase *enseña* *otra* es una frase compuesta comprendida por HETEROS, significando otra de un tipo diferente, y DIDASKALOS, enseñar. Los maestros errados defienden, o enseñan activamente, nuevas __<u>ideas</u>__ que no se encuentran en la Palabra de Dios. Gálatas 1:6
-
-####            c.  1 Timoteo 6:3c -- *\...y no se conforma a las sanas palabras de nuestro Señor Jesucristo\...* Vemos que los maestros errados defienden un mensaje que *no se conforma a las sanas palabras* \[o palabras saludables\], como las que __<u>Cristo</u>__ Jesús nuestro Señor enseñó.
-
-#####                1.  Aunque a menudo estos maestros son elocuentes y cautivadores __<u>oradores</u>__, en realidad están usando sus palabras que suenan bellas para engañar. Ellos no comunican sanas o saludables palabras.
-
-#####                2.  El engaño de los falsos maestros está en completo __<u>contraste</u>__ con las palabras vivificantes de nuestro Señor Jesús. Pedro declaró en Juan 6:68, *\"Señor, ¿a quién iremos? Tú tienes palabras de vida eterna\".*
-
-####            d.  1 Timoteo 6:3d -- *y no se conforma a...* *la doctrina que es conforme a la piedad...* También vemos que los maestros errados enseñan cosas que no corresponden a la piedad.
-
-#####                1.  Aunque promete santidad, al final la falsa enseñanza siempre te aleja de una vida __<u>santa</u>__.
-
-#####                2.  Como ejemplo de esto, Pablo usará el engaño de estos falsos maestros que __<u>asocian</u>__ el éxito financiero con la piedad.
-
-###        2.  1 Timoteo 6:4-5a -- Definiendo a un maestro errado
-
-####            a.  1 Timoteo 6:4a -- ...*está envanecido* \['hinchado' -- RV1909\]... Pablo describió el problema básico de un falso maestro: la arrogancia. La palabra *envanecido* significa soplar humo o envolver en una niebla. Se usó para describir a una persona inflada de __<u>orgullo</u>__.
-
-####            b.  1 Timoteo 6:4b -- ...*nada sabe*... Según el apóstol Pablo, un falso maestro *nada sabe*. Esa no es una evaluación muy halagadora y muestra la impaciencia del apóstol con el error. Los falsos maestros usualmente tienen caballitos de batalla y doctrinas favoritas, pero no tienen la __<u>verdad</u>__.
-
-####            c.  1 Timoteo 6:4c -- \...*y delira acerca de cuestiones y __<u>contiendas</u>__ de palabras*\... Según Pablo, un falso maestro tiene un anhelo enfermizo por la controversia.
-
-#####                1.  La palabra traducida *cuestiones* fue usada por los griegos para describir un debate filosófico que era puramente un intercambio de palabras en lugar de una búsqueda válida para conocer la verdad. Los maestros que aman ser muy elocuentes sin realmente edificar son falsos maestros según __<u>Pablo</u>__.
-
-#####                2.  Muchos estudios bíblicos y clases de escuela dominical están desarrollados sobre este tipo de controversia destructiva. No solo se toleran las *cuestiones* controversiales, sino que de hecho se les anima como una forma preferida de __<u>aprender</u>__.
-
-#####                3.  *Contiendas de palabras\...* Esto va de la mano con las *cuestiones* controversiales. Describe disputas insignificantes que involucran escogencias de palabras. Cuando un maestro se convierte en un __<u>policía</u>__ del pensamiento, diseccionando las palabras de todos, la comunicación normal se socava y la edificación es interrumpida.
-
-#####                4.  *De las cuales nacen\...* Pablo señaló varios pecados que provenían de estas controversias y __<u>contiendas</u>__. Gálatas 5:19-21
-
-####            d.  1 Timoteo 6:4d -- Los falsos maestros crean \...*__<u>envidias</u>__* al provocar argumentos que terminan en celos.
-
-####            e.  1 Timoteo 6:4e -- Los falsos maestros crean \...*pleitos*, o disputas, por sus *cuestiones y contiendas de palabras*. En Efesios 4:3 se nos exhorta a hacer exactamente lo contrario: *Solícitos en guardar la unidad del Espíritu en el vínculo de la __<u>paz</u>__*. Judas 1:17-19
-
-####            f.  1 Timoteo 6:4f -- Los falsos maestros inspiran \...*blasfemias*. Sus cuestiones y contiendas conducen a insultos y __<u>calumnias</u>__.
-
-####            g.  1 Timoteo 6:4g -- Los falsos maestros generan \...*malas sospechas*. Sus cuestiones y contiendas causan pensamientos maliciosos y __<u>malvados</u>__.
-
-###        3.  1 Timoteo 6:5 -- Examinando a las víctimas de los falsos maestros (ver 2 Timoteo 3:1-7)
-
-####            a.  1 Timoteo 6:5a -- Los falsos maestros causan\... *__<u>disputas</u>__ necias* \[lit. 'fricción constante'\] (DIAPARATRIBÉ) entre las personas*.*
-
-#####                1.  En el primer siglo, los __<u>discursos</u>__ de los filósofos fueron llamados DIATRIBAI. Puedes imaginar la inutilidad de sus largos discursos y las controversias resultantes creadas a partir de ellos.
-
-#####                2.  La palabra diatriba en español, un ataque __<u>verbal</u>__ fuerte y rencilloso, proviene de la palabra griega DIATRIBE, significando \"desgastar con el tiempo, consumir por fricción\".
-
-####            b.  1 Timoteo 6:5b -- Los falsos maestros incitan esta __<u>fricción</u>__ *\...de* *hombres corruptos de entendimiento y privados de la verdad.*
-
-#####                1.  *Hombres corruptos de entendimiento* podría ser traducido gente de mente __<u>depravada</u>__.
-
-#####                2.  Estos mismos individuos estaban también *privados* \[lit. 'destituidos\] *de la verdad*. Ellos no eran personas de la Palabra. No estaban \[procurando\] *con diligencia* \[presentarse\] *a Dios* \[aprobados\] *como* \[obreros\] *que no* \[tienen\] *de qué avergonzarse*, que \[usan\] *bien la palabra de __<u>verdad</u>__*. 2 Timoteo 2:15
-
-#####                3.  Esta descripción (*corruptos* y *privados*) en griego está en tiempo perfecto, indicando que estos seguidores de falsos maestros fueron corruptos en un momento determinado con __<u>resultados</u>__ que continuaron en el presente.
-
-#####                4.  Esta descripción está también en la voz pasiva, indicando que estos seguidores no planearon hacerse corruptos y __<u>privados</u>__. 2 Timoteo 3:8-9, 13
-
-##    B.  1 Timoteo 6:5b-8 -- La piedad es gran ganancia
-
-###        1.  1 Timoteo 6:5b -- Personas \...*que toman la piedad como fuente de ganancia; apártate de los tales*. Es común para los falsos maestros predicar que Dios quiere que todos los creyentes sean ricos. Ellos enseñan que la riqueza es una señal de la bendición de Dios. Tienen un concepto muy egoísta, de dar para recibir, similar a lo que se practica en las religiones paganas. Este error se promueve en el __<u>evangelio</u>__ de la prosperidad. Juan 12:8
-
-###        2.  1 Timoteo 6:6a -- *Pero gran ganancia es la piedad acompañada de contentamiento*. La piedad en efecto es un medio de ganancia, pero no de __<u>ganancia</u>__ financiera. Proverbios 15:16
-
-####            a.  El contentamiento es estar satisfecho con lo que tienes en lugar de querer siempre más. El contentamiento viene del confiar en que Dios se hará cargo de tus necesidades. Dios siempre vela por ti y nunca te negará nada que sea verdaderamente beneficioso para tu __<u>bien</u>__ espiritual. Salmos 23:1; Filipenses 4:4-7, 11, 19; Romanos 8:32
-
-####            b.  El mayor contentamiento viene del estar seguro en el amor de Dios y en el hecho de que estás completo en Cristo. Este tipo de paz y seguridad vale muchísimo más que el __<u>dinero</u>__. 2 Corintios 9:8, Efesios 3:17-19, Colosenses 2:8-10, Hebreos 13:5
-
-###        3.  1 Timoteo 6:7 -- *Porque nada hemos traído a este mundo, y sin duda nada podremos sacar*. No traes posesiones materiales al mundo al nacer, ni las llevas contigo al morir. Lo único que se puede ganar durante esta vida lo cual permanecerá en la eternidad es la piedad. Las __<u>riquezas</u>__ son temporales. Job 1:21
-
-###        4.  1 Timoteo 6:8 -- *Así que, teniendo sustento y abrigo, estemos __<u>contentos</u>__ con esto.*
-
-####            a.  Pablo dijo que si tenemos las cosas básicas necesarias para la supervivencia, *sustento y abrigo,* los creyentes deberíamos estar contentos. Con nuestras necesidades básicas satisfechas, podemos caminar en total contentamiento, confiando en la plena suficiencia de Dios para satisfacer nuestras __<u>necesidades</u>__. Lucas 12:15
-
-####            b.  La palabra griega usada para *abrigo* SKEPASMA puede significar vestimenta, pero también incluye el significado más amplio de refugio. Esta declaración está en contraste con aquellos que enseñan que es la voluntad de Dios para los creyentes que sean ricos. Muchos de aquellos que siguen esta enseñanza __<u>viven</u>__ en constante desilusión con Dios. Marcos 8:20
 
 ##    C.  1 Timoteo 6:9-10 -- Motivado por las riquezas
 
