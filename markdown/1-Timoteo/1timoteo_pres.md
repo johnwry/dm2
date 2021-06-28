@@ -3172,7 +3172,7 @@ ___
 
 ####            b.  La palabra griega usada para *abrigo* SKEPASMA puede significar vestimenta, pero también incluye el significado más amplio de refugio. Esta declaración está en contraste con aquellos que enseñan que es la voluntad de Dios para los creyentes que sean ricos. Muchos de aquellos que siguen esta enseñanza __<u>viven</u>__ en constante desilusión con Dios. Marcos 8:20
 
-<!-- data-background-color="white" -->
+<!-- .slide: data-background-color="white" -->
 <svg id="svg12583" width="1000" height="700" inkscape:version="1.0.2 (e86c8708, 2021-01-15)" sodipodi:docname="bosquejo-opt.svg" version="1.1" viewBox="0 0 296 207" xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd">
  <sodipodi:namedview id="base" bordercolor="#666666" borderopacity="1.0" fit-margin-bottom="0" fit-margin-left="0" fit-margin-right="0" fit-margin-top="0" inkscape:bbox-paths="true" inkscape:current-layer="layer3" inkscape:cx="394.77242" inkscape:cy="339.58244" inkscape:document-rotation="0" inkscape:document-units="mm" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:snap-bbox="true" inkscape:window-height="935" inkscape:window-maximized="0" inkscape:window-width="1654" inkscape:window-x="24" inkscape:window-y="25" inkscape:zoom="0.74937383" pagecolor="#ffffff" showgrid="false"/>
  <g id="layer3" transform="translate(-1.8 -.18)" inkscape:groupmode="layer" inkscape:label="letters">
