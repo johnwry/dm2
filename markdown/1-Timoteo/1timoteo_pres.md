@@ -3069,15 +3069,15 @@ ___
 
 ####            b.  Pablo pidió a los esclavos creyentes que hicieran lo radical. En lugar de despertarse todas las mañanas afligidos por sus propias necesidades y preocuparse por su situación, debían ser los líderes todos los días al buscar de manera proactiva __<u>honrar</u>__ a sus amos. ¿Por qué era importante esta actitud?
 
-###        3.  1 Timoteo 6:1c -- \...*para que no sea blasfemado el nombre de Dios y la doctrina*. Recibimos nuestra palabra *blasfemia* de la palabra griega traducida vituperar y significa injuriar o __<u>dañar</u>__ la reputación de alguien.
+###        3.  1 Timoteo 6:1c -- *...para que no sea blasfemado el nombre de Dios y la doctrina.* Recibimos nuestra palabra *blasfemia* de la palabra griega traducida vituperar y significa injuriar o __<u>dañar</u>__ la reputación de alguien.
 
 ####            a.  Una __<u>actitud</u>__ positiva hacia la vida por parte de un esclavo crearía un testimonio asombroso, especialmente para un amo incrédulo.
 
 ####            b.  Los trabajadores cristianos de todo el mundo históricamente han tenido la mejor reputación de todas en la fuerza laboral. Esto viene de creyentes tomando la iniciativa para honrar a sus superiores, sin importar cómo sean __<u>tratados</u>__.
 
-###        4.  1 Timoteo 6:2 -- *Y los que tienen amos __<u>creyentes</u>__*\... Pablo ahora dio instrucciones adicionales para los esclavos creyentes que tenían la situación única de tener un amo creyente.
+###        4.  1 Timoteo 6:2 -- *Y los que tienen amos __<u>creyentes</u>__...* Pablo ahora dio instrucciones adicionales para los esclavos creyentes que tenían la situación única de tener un amo creyente.
 
-####            a.  1 Timoteo 6:2a -- \...*no los tengan en menos por ser hermanos*\... Pablo enseñó que los esclavos creyentes no debían faltarle el respeto a sus amos creyentes. La expresión *tener en menos* KATAPHRONEO significa __<u>menospreciar</u>__.
+####            a.  1 Timoteo 6:2a -- *...no los tengan en menos por ser hermanos...* Pablo enseñó que los esclavos creyentes no debían faltarle el respeto a sus amos creyentes. La expresión *tener en menos* KATAPHRONEO significa __<u>menospreciar</u>__.
 
 ####            b.  1 Timoteo 6:2b -- \...*sino sírvanles mejor*\... Por el contrario, y en el lado positivo, la instrucción de Pablo para los esclavos creyentes era para que ellos sirvieran a sus amos creyentes aún con más __<u>energía</u>__.
 
@@ -3116,7 +3116,7 @@ ___
 
 ####            a.  1 Timoteo 6:4a --  *...está envanecido*  ['hinchado' -- RV1909\]... Pablo describió el problema básico de un falso maestro: la arrogancia. La palabra *envanecido* significa soplar humo o envolver en una niebla. Se usó para describir a una persona inflada de __<u>orgullo</u>__.
 
-####            b.  1 Timoteo 6:4b -- * ...nada sabe...* Según el apóstol Pablo, un falso maestro *nada sabe*. Esa no es una evaluación muy halagadora y muestra la impaciencia del apóstol con el error. Los falsos maestros usualmente tienen caballitos de batalla y doctrinas favoritas, pero no tienen la __<u>verdad</u>__.
+####            b.  1 Timoteo 6:4b -- *...nada sabe...* Según el apóstol Pablo, un falso maestro *nada sabe.* Esa no es una evaluación muy halagadora y muestra la impaciencia del apóstol con el error. Los falsos maestros usualmente tienen caballitos de batalla y doctrinas favoritas, pero no tienen la __<u>verdad</u>__.
 
 ####            c.  1 Timoteo 6:4c -- *...y delira acerca de cuestiones y __<u>contiendas</u>__ de palabras...* Según Pablo, un falso maestro tiene un anhelo enfermizo por la controversia.
 
