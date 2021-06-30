@@ -3311,6 +3311,8 @@ ___
 ##    C.  1 Timoteo 6:9-10 -- Motivado por las riquezas
 
 ###        1.  1 Timoteo 6:9 -- *Porque los que quieren enriquecerse caen*\... Pablo tuvo cuidado de distinguir entre los que son ricos y *los que __<u>quieren</u>__ enriquecerse*. Ser rico no es pecado. Pablo criticó a aquellos que están obsesionados con hacerse ricos. Este deseo constante de hacerse rico expone a los creyentes a cosas que terminarán sumergiéndolos en la __<u>ruina</u>__ total.
+___
+Pero los que **quieren enriquecerse** caen en tentación y lazo y en muchos deseos necios y dañosos que hunden a los hombres en la ruina y en la perdición. Porque la raíz de todos los males es el **amor al dinero**, por el cual, **codiciándolo** algunos, se extraviaron de la fe y se torturaron con muchos dolores. 1 Timoteo 6:9-10
 
 ####            a.  1 Timoteo 6:9a -- \...*caen en tentación*\... El deseo de hacerse rico __<u>desenfoca</u>__ las conciencias de las personas. Ellas harán cualquier cosa para obtener dinero. Proverbios 15:27; 23:4, 28:20; Marcos 4:18-19
 

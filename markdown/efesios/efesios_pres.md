@@ -1,7 +1,8 @@
----
-title: Efesios
----
 <!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/efesios/media/cover.png" data-background-size="cover" -->
+# Efesios
+<!-- .element: style="color: white; -webkit-text-stroke: 3px black;" --> 
+### El Misterio de Dios Revelado
+<!-- .element: style="color: white; -webkit-text-stroke: 2px black;" --> 
 ___
 Copyright © **2019 por DM Multiplied, Inc**
 ___
@@ -20,7 +21,9 @@ ___
 ___
 Derechos de Autor © **2019 DM2 International Inc.** Todos los derechos reservados
 ___
+<small>
 **Póliza de los Derechos de Autor.** La traducción no autorizada, re-publicación, duplicación del documento, página de la internet o distribución del correo electrónico de cualquier porción de este material de derechos de autor de cualquier forma, sin el expreso consentimiento escrito de DM2TM es estrictamente prohibido. Puedes usar los materiales de DM2 para tu propio estudio personal o para volverlos a enseñar en una clase, siempre y cuando, el logo de DM2 y esta póliza de los derechos de autor estén incluidos siempre en el material al ser enseñados. Puedes bajar una copia a tú PC, imprimirla o hacer copias para la clase o estudio de grupo Bíblico; sin embargo, no puedes cobrar por este material o por conducir una clase usando el mismo, excepto por el costo actual del copiado. NO puedes hacer cambios a este material, tiene derechos de autor. Para una más amplia exposición de la póliza del DM2 con respecto a los usos de sus materiales, por favor referirse a la página de la internet DM2-USA al http://www.dm2usa.org. \[DM2TM\]
+</small>
 ___
 **Impreso y Propiedad de:**
 **DM2®**
@@ -33,7 +36,7 @@ ___
 ___
 **Efesios 1-6**
 ___
-|**Introducción a Efesios |7**|
+|**Introducción a Efesios** |**7**|
 |--------------|----|
 |La historia de la ciudad de Éfeso |7|
 |La cultura de Éfeso |8|
@@ -41,11 +44,11 @@ ___
 |La fundación de la iglesia en Éfeso |10|
 |La importancia del libro de Efesios |11|
 ___
-|**Efesios 1:1-2 -- "Amada Iglesia," La Epístola de Pablo a los Efesios |12**|
+|**Efesios 1:1-2 -- "Amada Iglesia," La Epístola de Pablo a los Efesios** |**12**|
 |--------------|----|
 |Efesios 1:1 -- Salutación de Pablo |12|
 |Efesios 1:2 -- Aspiraciones de Pablo para los efesios |14|
-|**Efesios 1:3-14 -- ...Nuestras Bendiciones "en Cristo" |14**|
+|**Efesios 1:3-14 -- ...Nuestras Bendiciones "en Cristo"** |**14**|
 |Efesios 1:3-4 -- Escogidos en Cristo para ser bendecidos |14|
 |Efesios 1:4d-6 -- Predestinados en Cristo para ser adoptados |18|
 |Efesios 1:7-8a -- Redimidos en Cristo por gracia| 20|
@@ -54,12 +57,14 @@ ___
 |--------------|----|
 |Efesios 1:11-12 -- Predestinados para heredar por medio del Espíritu Santo |22|
 |Efesios 1:13-14 -- Salvos por fe y sellados por el Espíritu Santo| 23|
-|**Efesios 1:15-23 -- Oración de Pablo ...por la Iglesia ...por Bendiciones |25**|
+___
+|**Efesios 1:15-23 -- Oración de Pablo ...por la Iglesia ...por Bendiciones** |**25**|
+|-------------|-------|
 |Efesios 1:15-16 -- Primero, Pablo dio gracias por los efesios |25|
 |Efesios 1:17-19a -- Segundo, Pablo oró por los creyentes efesios| 26|
 |Efesios 1:19b-23 -- Tercero, Pablo explicó el poder de Dios... |29|
 ___
-|**Efesios 2:1-10 -- Ganando Entrada en el Cuerpo de Cristo |31**|
+|**Efesios 2:1-10 -- Ganando Entrada en el Cuerpo de Cristo** |**31**|
 |--------------------|-------|
 |Efesios 2:1-3 -- Originalmente, estábamos muertos |31|
 |Efesios 2:4-7 -- Por la gracia de Dios fuimos traídos a vida| 33|
@@ -73,17 +78,19 @@ ___
 |Efesios 2:17-18 -- La Iglesia, donde dos entidades se vuelven una |48|
 |Efesios 2:19-22 -- La Iglesia, la nueva edificación de Dios| 49|
 ___
-|**Efesios 3:1-13 -- La Iglesia: El Misterio de Dios Manifestado |52**|
+|**Efesios 3:1-13 -- La Iglesia: El Misterio de Dios Manifestado** |**52**|
 |----------------|-------|
 |Efesios 3:1-6 -- Encomendado a revelar la Iglesia |52|
 |Efesios 3:7-13 -- Encomendado con la tarea de expandir la Iglesia |57|
-|**Efesios 3:14-21 -- La Segunda Oración de Pablo por la Iglesia| 62**|
+___
+|**Efesios 3:14-21 -- La Segunda Oración de Pablo por la Iglesia**| **62**|
+|-------------|------------|
 |Efesios 3:14-16 -- Una oración por fortaleza interior |62|
 |Efesios 3:17a-17b -- Una oración para que Cristo habite en sus vidas |64|
 |Efesios 3:17c-19 -- Una oración por una profunda comprensión del amor... |65|
 |Efesios 3:20-21 -- Una alabanza a Dios por Sus provisiones |67|
 ___
-|**Efesios 4:1-16 -- Llamados a Andar en Unidad en la Iglesia |68**|
+|**Efesios 4:1-16 -- Llamados a Andar en Unidad en la Iglesia** |**68**|
 |--------------------|---------|
 |Efesios 4:1-3 -- El llamado a la unidad |68|
 |Efesios 4:4-6 -- El caso de la unidad en la Iglesia|71|
@@ -91,7 +98,7 @@ ___
 |Efesios 4:11-13 -- Hombres dotados para promover la unidad en la Iglesia |75|
 |Efesios 4:14-16 -- Propósito para la unidad en la Iglesia |78|
 ___
-|**Efesios 4:17-32 -- Viviendo Nuestra Nueva Vida en Cristo |80**|
+|**Efesios 4:17-32 -- Viviendo Nuestra Nueva Vida en Cristo** |**80**|
 |------------------------------------|---------|
 |Efesios 4:17-19 -- Recordando tu antigua vida sin sentido como incrédulo |80|
 |Efesios 4:20-21 -- Un nuevo camino a través de Cristo |82|
@@ -100,7 +107,7 @@ ___
 |Efesios 4:30 -- No debemos contristar al Espíritu Santo |87|
 |Efesios 4:31-32 -- Debemos mostrar amabilidad, no odio |88|
 ___
-|**Efesios 5:1-21 -- Instrucciones de Dios para Su casa, la Iglesia |90**|
+|**Efesios 5:1-21 -- Instrucciones de Dios para Su casa, la Iglesia** |**90**|
 |-----------------------|---------------|
 |Efesios 5:1-2 -- Imiten a Dios como hijos muy amados| 90|
 |Efesios 5:3-7 -- No anden como hijos de desobediencia |92|
@@ -109,7 +116,7 @@ ___
 |Efesios 5:15-16 -- Consejo paternal para aprovechar la oportunidad |100|
 |Efesios 5:17-21 -- Rechaza la insensatez, sé espiritual, vive regocijándote |101|
 ___
-|**Efesios 5:22-6:9 -- La Llenura del Espíritu Santo afecta las relaciones |106**|
+|**Efesios 5:22-6:9 -- La Llenura del Espíritu Santo afecta las relaciones** |**106**|
 |-----------------------------------|---------|
 |Efesios 5:22-24 -- Las Esposas y la sujeción, siendo llenas del Espíritu |106|
 |Efesios 5:25-32 -- Los esposos y el amor, siendo llenos del Espíritu Santo. |107|
@@ -119,14 +126,14 @@ ___
 |Efesios 6:5-8 -- Los trabajadores y su trabajo, siendo llenos del Espíritu |114|
 |Efesios 6:9 -- Los jefes y la supervisión, siendo llenos del Espíritu Santo. |117|
 ___
-|**Efesios 6:10-24 -- Cómo Luchar con Poder |118**|
+|**Efesios 6:10-24 -- Cómo Luchar con Poder** |**118**|
 |----------------------------|--------|
 |Efesios 6:10-17 -- La armadura de Dios |118|
 |Efesios 6:18-20 -- Estar alertas y orar por los santos |127|
 |Efesios 6:21-24 -- Observaciones finales |129|
 
 **Efesios 1-6**
-## El Misterio de Dios Revelado {#el-misterio-de-dios-revelado .list-paragraph}
+## El Misterio de Dios Revelado
 
 # Introducción a Efesios
 
