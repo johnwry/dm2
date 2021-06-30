@@ -3346,7 +3346,7 @@ Pero los que **quieren enriquecerse** caen en tentación y lazo y en muchos dese
 
 ####            c.  1 Pedro 2:12 -- *Manteniendo __<u>buena</u>__ vuestra manera de vivir entre los gentiles; para que en lo que murmuran de vosotros como de malhechores, glorifiquen a Dios en el día de la visitación, al considerar vuestras buenas obras*.
 
-###        2.  **Sigue:** 1 Timoteo 6:11b -- \...*y sigue la justicia, la piedad, la fe, el amor, la paciencia, la mansedumbre*. La palabra *sigue* es un imperativo de tiempo presente que significa trabajar __<u>duro</u>__ por algo. Tan importante como es huir del amor al dinero, es igualmente importante seguir distintas cosas buenas. Filipenses 4:8; 1 Pedro 2:12
+###        2.  **Sigue:** 1 Timoteo 6:11b -- *...y sigue la justicia, la piedad, la fe, el amor, la paciencia, la mansedumbre.* La palabra *sigue* es un imperativo de tiempo presente que significa trabajar __<u>duro</u>__ por algo. Tan importante como es huir del amor al dinero, es igualmente importante seguir distintas cosas buenas. Filipenses 4:8; 1 Pedro 2:12
 
 ####            a.  *La justicia\...* La justicia es lo opuesto a la anarquía; es cumplir con el estándar de Dios. Pablo dijo a Timoteo que buscara la justicia. 1 Pedro 1:15-16 dice: *\"sino, como Aquel que os llamó es Santo, sed también vosotros santos en toda vuestra manera de vivir; porque escrito está: 'Sed santos, porque Yo soy __<u>santo</u>__'".*
 
@@ -3384,21 +3384,21 @@ Pero los que **quieren enriquecerse** caen en tentación y lazo y en muchos dese
 
 ####            e.  Colosenses 1:28-29 -- *A quien anunciamos, amonestando a todo hombre, y enseñando a todo hombre en toda sabiduría, a fin de presentar perfecto en Cristo Jesús a todo hombre; para lo cual también trabajo, luchando según la potencia de __<u>Él</u>__, la cual actúa poderosamente en mí*.
 
-###        4.  **Apodérate:** 1 Timoteo 6:12b -- \...***echa [mano</u> de** la vida eterna*\... El *echar mano* era apropiarse de algo con la meta de retenerlo. Es retener algo muy cerca y no dejarlo ir.
+###        4.  **Apodérate:** 1 Timoteo 6:12b -- *...**echa**  __<u>mano</u>__ **de** la vida eterna...* El *echar mano* era apropiarse de algo con la meta de retenerlo. Es retener algo muy cerca y no dejarlo ir.
 
-####            a.  1 Timoteo 6:12c -- \...*echa mano de **la [vida</u> eterna**\... **La** vida eterna* es el Señor. Una de las cosas más fáciles que hacemos como creyentes es olvidar el amor de nuestras vidas, el Señor Jesucristo. Juan 17:3; Filipenses 1:7; Apocalipsis 2:4
+####            a.  1 Timoteo 6:12c -- \...*echa mano de **la __<u>vida</u>__ eterna**\... **La** vida eterna* es el Señor. Una de las cosas más fáciles que hacemos como creyentes es olvidar el amor de nuestras vidas, el Señor Jesucristo. Juan 17:3; Filipenses 1:7; Apocalipsis 2:4
 
 #####                1.  Pablo dijo a Timoteo que se mantuviera peleando la buena batalla de la fe, aferrándose firmemente a *__<u>la</u>__ vida eterna*, que es Cristo. Hebreos 12:2; 1 Pedro 3:18
 
 #####                2.  Juan 11:25 -- *Le dijo Jesús: "Yo soy la resurrección y la vida; el que cree en Mí, aunque esté __<u>muerto</u>__, vivirá"*.
 
-#####                3.  Colosenses 3:4 -- *Cuando Cristo, vuestra vida, se manifieste, entonces vosotros también seréis manifestados con Él en gloria.* La vida cristiana no está diseñada para vivirse lejos de la comunión con Cristo, quien es *nuestra vida*. Timoteo debía vivir en pos de *la vida __<u>eterna</u>__* Jesucristo, todos los días, todo el tiempo. 2 Corintios 3:16-18
+#####                3.  Colosenses 3:4 -- *Cuando Cristo, vuestra vida, se manifieste, entonces vosotros también seréis manifestados con Él en gloria.* La vida cristiana no está diseñada para vivirse lejos de la comunión con Cristo, quien es *nuestra vida.* Timoteo debía vivir en pos de *la vida __<u>eterna</u>__* Jesucristo, todos los días, todo el tiempo. 2 Corintios 3:16-18
 
 #####                4.  1 Juan 1:1-2 -- *Lo que era desde el principio, lo que hemos oído, lo que hemos visto con nuestros ojos, lo que hemos contemplado, y palparon nuestras manos tocante al Verbo de vida (porque la vida fue manifestada, y la hemos visto, y testificamos, y os anunciamos la vida eterna, la cual estaba con el Padre, y se __<u>nos</u>__ manifestó).*
 
 ####            b.  1 Timoteo 6:12d -- \...*a la cual asimismo fuiste llamado*\... Timoteo había sido __<u>llamado</u>__ a seguir a Cristo. Nosotros también hemos sido llamados a seguir de cerca a la misma persona, Jesucristo. Juan 15:4-5; Romanos 1:6; Filipenses 3:12-16
 
-####            c.  1 Timoteo 6:12e -- \...*habiendo hecho la buena profesión delante de muchos testigos*. Pablo nuevamente usó el artículo definido \"la\" para hacer una distinción. Timoteo no había hecho una buena profesión, había hecho *__<u>la</u>__ buena profesión* y lo había hecho en presencia de muchos testigos. ¿Cuál era esta profesión?
+####            c.  1 Timoteo 6:12e -- *...habiendo hecho la buena profesión delante de muchos testigos.* Pablo nuevamente usó el artículo definido "la" para hacer una distinción. Timoteo no había hecho una buena profesión, había hecho *__<u>la</u>__ buena profesión* y lo había hecho en presencia de muchos testigos. ¿Cuál era esta profesión?
 
 #####                1.  *Profesión* \[lit. 'confesión'\] HOMOLOGEO significa decir la misma cosa o estar de acuerdo. Timoteo había sido llamado al ministerio por Cristo y había testificado públicamente sobre este __<u>hecho</u>__.
 
@@ -3430,11 +3430,11 @@ Pero los que **quieren enriquecerse** caen en tentación y lazo y en muchos dese
 
 ###        2.  1 Timoteo 6:15b -- *El bienaventurado y solo Soberano, Rey de reyes, y Señor de señores*. Además del culto a Diana, Éfeso era un centro de adoración al emperador. Esta doxología es la declaración de Pablo de que el Dios al que servimos, no cualquier soberano humano, es el único __<u>gobernante</u>__ supremo del universo.
 
-####            a.  Dios el Padre es descrito como *el bienaventurado y solo Soberano*. Esto significa que Él es el que ocupa la posición más __<u>elevada</u>__ de poder y autoridad en el universo. Salmos 92:8, 97:9
+####            a.  Dios el Padre es descrito como *el bienaventurado y solo Soberano.* Esto significa que Él es el que ocupa la posición más __<u>elevada</u>__ de poder y autoridad en el universo. Salmos 92:8, 97:9
 
-####            b.  Dios el Padre es descrito como el *Rey de reyes, y Señor de señores*. Aunque estos títulos también describen al Señor Jesucristo (Apocalipsis 19:16), en este versículo se refieren específicamente a Dios el Padre. 1 Corintios 15:24-28 explica que al final el Padre será irrefutablemente visto como Rey sobre todos los reyes y __<u>Señor</u>__ sobre todos los señores. Daniel 4:34-35
+####            b.  Dios el Padre es descrito como el *Rey de reyes, y Señor de señores.* Aunque estos títulos también describen al Señor Jesucristo (Apocalipsis 19:16), en este versículo se refieren específicamente a Dios el Padre. 1 Corintios 15:24-28 explica que al final el Padre será irrefutablemente visto como Rey sobre todos los reyes y __<u>Señor</u>__ sobre todos los señores. Daniel 4:34-35
 
-###        3.  1 Timoteo 6:16 -- \...*el único que tiene inmortalidad, que habita en luz inaccesible; a quien ninguno de los hombres ha visto ni puede ver, al cual sea la honra y el imperio sempiterno. Amén*. Nadie es como Dios; Solo __<u>Él</u>__ merece honor, respeto y reverencia. Éxodo 33:20; Salmos 90:2; Isaías 46:5
+###        3.  1 Timoteo 6:16 -- *...el único que tiene inmortalidad, que habita en luz inaccesible; a quien ninguno de los hombres ha visto ni puede ver, al cual sea la honra y el imperio sempiterno. Amén.* Nadie es como Dios; Solo __<u>Él</u>__ merece honor, respeto y reverencia. Éxodo 33:20; Salmos 90:2; Isaías 46:5
 
 ####            a.  Dios el Padre es descrito como *el único que tiene inmortalidad*. Esto no solo significa que Dios no puede morir, sino que solamente Él posee esta característica innata. Las personas en sí mismas no poseen este atributo, pero afortunadamente pueden recibir vida eterna por medio del evangelio como un __<u>regalo</u>__ gratuito de parte de Dios.
 
