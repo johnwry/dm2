@@ -1,4 +1,4 @@
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/church-cover.jpeg" data-background-size="cover"  data-menu-title="Início"--> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/1timoteo/img/church-cover.jpeg" data-background-size="cover"  data-menu-title="Início"--> 
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -289,7 +289,7 @@ En la Casa de Dios
 Note: ¿Cómo te comportas en tu casa? ¿Cómo te comportas en la casa de otra persona? Una cosa es hacer las cosas como quieres en tu propia casa; otra cosa es hacer lo que quieres en la casa de otra persona. 
 Timoteo es como un hijo para Pablo. Sin embargo le escribe una carta muy formal. Un padre generalmente no escribe una carta tan formal a su hijo. Porque? Es porque trata de un tema muy importante, no era un tema liviano ni sujetivo según el concepto de iglesia de Pablo sino de Jesucristo. 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/church-cover.jpeg" data-background-size="cover"  data-menu-title="I.  La Iglesia: Información General"--> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/1timoteo/img/church-cover.jpeg" data-background-size="cover"  data-menu-title="I.  La Iglesia: Información General"--> 
 # I.  La Iglesia: Información General 
 <!-- .element: style="color:white;" -->
 
@@ -301,24 +301,24 @@ Timoteo es como un hijo para Pablo. Sin embargo le escribe una carta muy formal.
 
 #####                1.  Entre otros usos, fue usada en las ciudades-estado griegas para describir a los ciudadanos convocados para un deber __<u>cívico</u>__.
 
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/athens.png" data-background-size="400px" data-background-position="bottom" data-background-opacity="0.5"-->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1timoteo/img/athens.png" data-background-size="400px" data-background-position="bottom" data-background-opacity="0.5"-->
 #####                2.  En ciudades como Atenas, era considerado un gran honor y un deber solemne __<u>asistir</u>__ al llamado. Un heraldo sería enviado a la plaza del mercado de la ciudad para proclamar: \"EKKLESIA, EKKLESIA\".
 Note: Dentro del sistema democrático Atense, había un grupo llamado ekklesia - una asamblea popular compuesta de ciudadanos con un mínimo de 30 años de edad. Esta asamblea votaba por decretos, tratados, propuestas de leyes y para algunos magistrados. Eran convocados para reunirse y levantaban la mano para votar. 
 
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/assembly.png" data-background-size="300px" data-background-position="left" data-background-opacity="0.5"-->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1timoteo/img/assembly.png" data-background-size="300px" data-background-position="left" data-background-opacity="0.5"-->
 #####                3.  Inmediatamente, todos los ciudadanos abandonarían lo que estaban haciendo, dejando el mercado, sus tiendas y sus hogares para asistir a la __<u>reunión</u>__.
 
 ####            b.  Esta convocatoria del estado era para que cada ciudadano __<u>viniera</u>__ a cumplir con sus responsabilidades cívicas. Es significativo que las mujeres y los esclavos no eran contados como ciudadanos.
 
 ###        2.  Aunque la palabra EKKLESIA era común en las escrituras seculares, la designación TE EKKLESIA, o \"la iglesia\", era única en el Nuevo Testamento. El uso del artículo definido \"__<u>la</u>__\" (TE) con la palabra \"iglesia\" (EKKLESIA) en la literatura cristiana es evidencia de la naturaleza única de la iglesia del Nuevo Testamento en las mentes de los escritores del Nuevo Testamento.
 
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/class.png" data-background-size="300px" data-background-position="left" data-background-opacity="0.5"-->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1timoteo/img/class.png" data-background-size="300px" data-background-position="left" data-background-opacity="0.5"-->
 ####            a.  Los autores del Nuevo Testamento se apropiaron de una palabra secular (EKKLESIA), convirtiéndola en un término técnico (TE EKKLESIA) para describir al pueblo de Dios en esta __<u>dispensación</u>__. Este es el uso principal de la palabra en el Nuevo Testamento, aunque su uso secular también es observable, como es visto en los siguientes ejemplos.
 
 #####                1.  En Hechos 7:35-38, Esteban usó el término EKKLESIA para describir a la nación de __<u>Israel</u>__ durante el tiempo de su deambular en el desierto.
 Note: Hechos 7:35-38 A este Moisés, a quien habían rechazado, diciendo: ¿Quién te ha puesto por gobernante y juez?, a éste lo envió Dios como gobernante y libertador por mano del ángel que se le apareció en la zarza. Éste los sacó, habiendo hecho prodigios y señales en tierra de Egipto, y en el Mar Rojo, y en el desierto por cuarenta años.  Este Moisés es el que dijo a los hijos de Israel: Profeta os levantará el Señor vuestro Dios de entre vuestros hermanos, como a mí; a él oiréis. Éste es aquel Moisés que estuvo en la congregación [Asamblea - EKKLESIA] en el desierto con el ángel que le hablaba en el monte Sinaí, y con nuestros padres, y que recibió palabras de vida que darnos
 
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/temple-artemis.svg" data-background-size="400px" data-background-position="bottom" data-background-opacity="0.5"-->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1timoteo/img/temple-artemis.svg" data-background-size="400px" data-background-position="bottom" data-background-opacity="0.5"-->
 #####                2.  En Hechos 19:32 y 9:41, se usó la palabra EKKLESIA para describir a una asamblea de adoradores de __<u>Diana</u>__ en Éfeso.
 Note: Hechos 19:32  Así que unos gritaban una cosa y otros otra, porque había confusión en la asamblea, y la mayoría no sabía por qué razón se habían reunido. 
 Hechos 9:41  Y él le dio la mano y la levantó; y llamando a los santos y a las viudas, la presentó viva.
@@ -341,7 +341,7 @@ Note: 1Co 1:2  a la iglesia de Dios que está en Corinto... 2 Cor 1:1 A la igles
 
 #####                1.  Refiriéndose a la iglesia universal en Mateo 16:18b, Jesús dijo: *\"Edificaré Mi __<u>iglesia</u>__; y las puertas del Hades no prevalecerán contra ella".*
 
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/body-christ.png"  data-background-size="600px" data-background-opacity="0.5" data-background-position="top"-->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1timoteo/img/body-christ.png"  data-background-size="600px" data-background-opacity="0.5" data-background-position="top"-->
 #####                2.  Además, Efesios 1:22-23 habla de la iglesia universal cuando dice que Dios dio a Jesús *por cabeza sobre todas las cosas a la iglesia, la cual es Su __<u>cuerpo</u>__.*
 Note: Efe 1:22  Y todo sometió bajo sus pies, y a Él lo dio por cabeza sobre todas las cosas a la iglesia,
 Efe 1:23  la cual es su cuerpo, la plenitud de aquel que lo llena todo en todo.
@@ -400,7 +400,7 @@ Rom 9:33  tal como está escrito: HE AQUÍ, PONGO EN SIÓN UNA PIEDRA DE TROPIEZ
 Efe 2:20  edificados sobre el fundamento de los apóstoles y profetas, siendo Cristo Jesús mismo **la piedra angular**,
 Dan 2:34  Estuviste mirando hasta que **una piedra fue cortada sin ayuda de manos, y golpeó la estatua en sus pies de hierro y de barro, y los desmenuzó**.
 
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/body-christ.png"  data-background-size="1200px" -->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1timoteo/img/body-christ.png"  data-background-size="1200px" -->
 <svg clip-rule="evenodd" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5" version="1.1" viewBox="0 0 1920 1080" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"><metadata><rdf:RDF><cc:Work rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/><dc:title/></cc:Work></rdf:RDF></metadata><g clip-rule="evenodd" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5"><rect x="980.36" y="75.168" width="720" height="940" fill="#0071e5" stroke="#f5fffc" stroke-width="3.7"/><text x="1036.7415" y="197.26077" fill="#ffffff" font-family="Calibri" font-size="74.667px" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25" xml:space="preserve"><tspan x="1036.7415" y="197.26077">Y yo también te digo, </tspan><tspan x="1036.7415" y="290.59415">que tú eres Pedro, </tspan><tspan x="1036.7415" y="383.92752">y sobre esta roca </tspan><tspan x="1036.7415" y="477.26089">edificaré mi iglesia; </tspan><tspan x="1036.7415" y="570.5943">y las puertas del </tspan><tspan x="1036.7415" y="663.92767">Hades no </tspan><tspan x="1036.7415" y="757.26105">prevalecerán </tspan><tspan x="1036.7415" y="850.59442">contra ella.</tspan><tspan x="1036.7415" y="943.9278">Mateo 16:18</tspan></text></g></svg>
 
 ## C.  Un análisis más profundo de Mateo 16:18
@@ -482,7 +482,7 @@ Efe 2:3  entre los cuales también todos nosotros en otro tiempo vivíamos en la
 
 ####            c.  Jesús prometió que la iglesia universal, a la cual todos nosotros pertenecemos, nunca __<u>cesará</u>__ de existir. Ni los poderes de la muerte, Satanás o los demonios de Satanás pueden prevalecer sobre la iglesia universal.
 
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/building.png" data-background-size="300px" data-background-position="left" data-background-opacity="0.5"-->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1timoteo/img/building.png" data-background-size="300px" data-background-position="left" data-background-opacity="0.5"-->
 ##    D.  ¿Cuándo comenzó la iglesia?
 
 ###        1.  Hay opiniones diferentes con respecto al __<u>inicio</u>__ histórico de la iglesia. Aquí tenemos algunas de las opiniones más populares, pero defectuosas, del origen histórico de la iglesia.
@@ -524,14 +524,14 @@ Note: Hech 9 - conversión de Saulo Hech13: primer viaje misionero de pablo Hech
 
 ###        2.  Los autores de este currículo enseñan que la iglesia comenzó en el día de __<u>Pentecostés</u>__ como se registra en Hechos 2. Aquí hay siete puntos que nos llevan a concluir que la iglesia comenzó el día de pentecostés, no antes ni después.
 
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/one.png" data-background-size="300px" data-background-position="left" data-background-opacity="0.5"-->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1timoteo/img/one.png" data-background-size="300px" data-background-position="left" data-background-opacity="0.5"-->
 ####            a.  Uno: Cuando Cristo dijo que Él edificaría Su iglesia, aún era __<u>futuro</u>__ para Su ministerio terrenal.
 
 #####                1.  Cuando Jesús dijo en Mateo 16:18, \"*Edificaré Mi iglesia,*\" Él usó la forma indicativa, activa y futura del verbo edificar, indicando que Él comenzaría a edificar la iglesia en algún momento __<u>después</u>__ de haber hecho esta declaración.
 
 #####                2.  Como se mencionó anteriormente, Jesús pudo haber dicho, "He estado edificando Mi iglesia," o "Estoy edificando Mi iglesia," pero no lo hizo. Él escogió decir, "*__<u>Edificaré</u>__ Mi iglesia*".
 
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/two.png" data-background-size="300px" data-background-position="left" data-background-opacity="0.5"-->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1timoteo/img/two.png" data-background-size="300px" data-background-position="left" data-background-opacity="0.5"-->
 ####            b.  Dos: El apóstol Pedro describió lo que sucedió en el día de Pentecostés como el __<u>bautismo</u>__ del Espíritu Santo.
 
 #####                1.  1 Corintios 12:13 -- *Porque por un solo Espíritu fuimos todos bautizados en un cuerpo, sean judíos o griegos, sean esclavos o libres; y a todos se nos dio a beber de un mismo Espíritu.* Sabemos por este versículo que todo creyente es bautizado en el cuerpo de Cristo. El bautismo en el __<u>Espíritu</u>__ es el medio de Dios para colocar a los creyentes en la iglesia, que es el cuerpo de Cristo.
@@ -558,14 +558,14 @@ Note: Hech 9 - conversión de Saulo Hech13: primer viaje misionero de pablo Hech
 
 ######                       iii. Hechos 11:17 -- *Si Dios, pues, les concedió también el mismo __<u>don</u>__ que a nosotros que hemos creído en el Señor Jesucristo, ¿quién era yo que pudiese estorbar a Dios?*
 
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/tres.png" data-background-size="300px" data-background-position="left" data-background-opacity="0.5"-->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1timoteo/img/tres.png" data-background-size="300px" data-background-position="left" data-background-opacity="0.5"-->
 ####            c.  Tres: La iglesia no comenzó hasta después de que Cristo fue __<u>sentado</u>__ a la diestra de Dios el Padre en el cielo. No fue sino hasta después de que fue exaltado que Cristo se convirtió en la cabeza de la iglesia y equipó a la iglesia con dones espirituales.
 
 #####                1.  Efesios 1:20-23 nos dice que cuando Dios el Padre resucitó a Cristo *de los muertos y sentándole a Su diestra en los lugares celestiales \... sometió todas las cosas bajo Sus pies, y lo dio por __<u>cabeza</u>__ sobre todas las cosas a la iglesia, la cual es Su cuerpo, la plenitud de Aquel que todo lo llena en todo*.
 
 #####                2.  Efesios 4:8-13 -- *Por lo cual dice: Subiendo a lo __<u>alto</u>__, llevó cautiva la cautividad, Y dio dones a los hombres\... Y Él mismo constituyó a unos, apóstoles; a otros, profetas; a otros, evangelistas; a otros, pastores y maestros, a fin de perfeccionar* \['capacitar' -- LBLA\] *a los santos para la obra del ministerio, para la edificación del cuerpo de Cristo*...
 
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/cuatro.png" data-background-size="300px" data-background-position="left" data-background-opacity="0.5"-->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1timoteo/img/cuatro.png" data-background-size="300px" data-background-position="left" data-background-opacity="0.5"-->
 ####            d.  Cuatro: Una de las características determinantes de la iglesia es la __<u>morada</u>__ permanente del Espíritu Santo. Esto comenzó el día de Pentecostés. Romanos 8:9, 1 Corintios 3:16
 Note: Rom 8:9  Sin embargo, vosotros no estáis en la carne sino en el Espíritu, si en verdad el Espíritu de Dios habita en vosotros. Pero si alguno no tiene el Espíritu de Cristo, el tal no es de Él.  
 1Co 3:16  ¿No sabéis que sois templo de Dios y que el Espíritu de Dios habita en vosotros?
@@ -584,7 +584,7 @@ Note: Juan 14:16  Y yo rogaré al Padre, y Él os dará otro Consolador para que
 
 #####                3.  Pedro confirmó que todos los creyentes, tanto judíos como gentiles, __<u>recibieron</u>__ el Espíritu Santo por medio de la fe en Cristo comenzando en Pentecostés. *\"Si Dios, pues, les concedió también el mismo don que a nosotros que hemos creído en el Señor Jesucristo, ¿quién era yo que pudiese estorbar a Dios?\"* Hechos 11:17
 
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/cinco.png" data-background-size="300px" data-background-position="left" data-background-opacity="0.5"-->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1timoteo/img/cinco.png" data-background-size="300px" data-background-position="left" data-background-opacity="0.5"-->
 ####            e.  Cinco: La iglesia está construida sobre la base de los profetas y __<u>apóstoles</u>__ del Nuevo Testamento, cuyo ministerio comenzó el Día de Pentecostés.
 
 #####                1.  Efesios 2:19-22 dice que la iglesia está edificada *sobre el fundamento de los apóstoles y profetas, siendo la principal piedra del ángulo Jesucristo mismo*, indicando que la iglesia comenzó con el Señor Jesucristo y los apóstoles y profetas del __<u>Nuevo</u>__ Testamento. Colosenses 1:24-27
@@ -596,10 +596,10 @@ Col 1:27  a quienes Dios quiso dar a conocer cuáles son las riquezas de la glor
 #####                2.  Hechos 1:2 -- *Hasta el día en que fue recibido arriba, después de haber dado mandamientos por el Espíritu Santo a los __<u>apóstoles</u>__ que había escogido*. Hechos 1:8-26, 2:14
 Note: Hech 2:14  Entonces Pedro, poniéndose en pie con los once, alzó la voz y les declaró: Varones judíos y todos los que vivís en Jerusalén, sea esto de vuestro conocimiento y prestad atención a mis palabras,
 
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/seispng.png" data-background-size="300px" data-background-position="left" data-background-opacity="0.5"-->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1timoteo/img/seispng.png" data-background-size="300px" data-background-position="left" data-background-opacity="0.5"-->
 ####            f.  Seis: Otra indicación de que la iglesia comenzó en el Día de Pentecostés es que en Hechos 5:11, el mismo año de los acontecimientos de Hechos 2, la iglesia ya estaba en existencia, como se muestra en el registro de Lucas: *Y vino gran temor sobre toda la __<u>iglesia</u>__, y sobre todos los que oyeron estas cosas*.
 
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/siete.png" data-background-size="300px" data-background-position="left" data-background-opacity="0.5"-->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1timoteo/img/siete.png" data-background-size="300px" data-background-position="left" data-background-opacity="0.5"-->
 ####            g.  Siete: Puesto que la iglesia comenzó en Hechos __<u>2</u>__ en el día de Pentecostés, no pudo haber comenzado con el apóstol Pablo, como algunos afirman.
 
 #####                1.  En Romanos 16:7, el apóstol Pablo declaró que Andrónico y Junias estaban *en Cristo* antes que él. Solo a los miembros del cuerpo de Cristo, la iglesia, son referidos como estando __<u>en</u> <u>Cristo</u>__. Efesios 1:3-4
@@ -611,16 +611,16 @@ Note: Hech 8:3  Pero Saulo hacía estragos en la iglesia entrando de casa en cas
 En Resumen:
 Vemos claramente cuando La Iglesia (Te EKKLESIA) fué iniciado por Dios el Espiritu Santo. NO fué con ADAN, ABRAHAM, JESUS, PABLO. La iglesia de Jesucristo empezó en Hechos 2 cuando descendió el ES. Vimos 7 razones por lo cual creemos que si es evidente que la Biblia enseña su inicio en el día de Pentecostés, no antes ni después. Ahora empezamos a mirar algunas caracteristicas del la iglesia local. El primero es que la iglesia de Cristo es su cuerpo. La segunda caracteristica es como debe ser la iglesia local. Luego veremos por que es importante que la iglesia local sea autóctona. 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/church-cover.jpeg" data-background-size="cover"  data-menu-title="II. Características Distintivas de la Iglesia del Nuevo"  --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/1timoteo/img/church-cover.jpeg" data-background-size="cover"  data-menu-title="II. Características Distintivas de la Iglesia del Nuevo"  --> 
 # II. Características Distintivas de la Iglesia del Nuevo Testamento <!-- .element: style="color:white;" -->
 
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/body-christ.png"  data-background-size="auto"  data-background-position="center" data-background-opacity="0.5" data-background-color="#0071e5ff" -->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1timoteo/img/body-christ.png"  data-background-size="auto"  data-background-position="center" data-background-opacity="0.5" data-background-color="#0071e5ff" -->
 ## A.  La iglesia es el <u style="color:white;">cuerpo</u> de Cristo en la tierra 
 <!-- .element: style="color:white;" -->
 
 ###        1.  La iglesia es el cuerpo de Cristo en la tierra, encargada de __<u>influenciar</u>__ al mundo. Jesús dijo: \"*Sobre esta roca edificaré Mi iglesia; y las puertas del Hades no prevalecerán contra ella*\". Mateo 16:18
 
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/body-christ.png"  data-background-size="contain" data-background-position="center" data-background-color="#0071e5ff" -->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1timoteo/img/body-christ.png"  data-background-size="contain" data-background-position="center" data-background-color="#0071e5ff" -->
 <svg width="960px" height="720px" clip-rule="evenodd" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5" version="1.1" viewBox="0 0 1920 1080" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"><g clip-rule="evenodd" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5"><rect x="980.36" y="75.168" width="720" height="940" fill="#0071e5" stroke="#f5fffc" stroke-width="3.7"/><text x="1020.7415" y="145.26077" fill="#ffffff" font-family="Calibri" font-size="74.667px" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25" xml:space="preserve"><tspan x="1020.7415" y="145.26077">Conforme a la gracia </tspan><tspan x="1020.7415" y="238.59415">de Dios que me ha </tspan><tspan x="1020.7415" y="331.92752">sido dada, yo como </tspan><tspan x="1020.7415" y="425.26089">perito arquitecto </tspan><tspan x="1020.7415" y="518.5943">puse el fundamento </tspan><tspan x="1020.7415" y="611.92767">[de La Iglesia], </tspan><tspan x="1020.7415" y="705.26105">y otro edifica encima; </tspan><tspan x="1020.7415" y="798.59442">pero cada uno mire </tspan><tspan x="1020.7415" y="891.9278">cómo sobreedifica.</tspan><tspan x="1020.7415" y="985.26117">1 Corintios 3:10</tspan></text></g></svg>
 
 ###        2.  En cada dispensación, desde la caída del hombre, Dios se ha esforzado por llegar a este mundo agonizante con el verdadero __<u>conocimiento</u>__ de Sí mismo. Mientras que en el pasado usó a la humanidad en general (Enoc y Noé) y a la nación de Israel en su conjunto, en este momento está alcanzando a la humanidad perdida a través de la iglesia, el cuerpo de Cristo.
@@ -643,7 +643,7 @@ Vemos claramente cuando La Iglesia (Te EKKLESIA) fué iniciado por Dios el Espir
 
 ###        2.  A lo largo de los años, misioneros occidentales han superpuesto involuntariamente tradiciones y métodos occidentales en iglesias de todo el mundo. Desafortunadamente, esto ha resultado en la creencia de que la manera __<u>occidental</u>__ de conducir una iglesia es bíblica.
 
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/church.svg" data-background-size="300px" data-background-position="left" data-background-opacity="0.8"-->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1timoteo/img/church.svg" data-background-size="300px" data-background-position="left" data-background-opacity="0.8"-->
 ###        3.  Ventanas con vitrales, rituales específicos para el culto, vestimenta eclesiástica, un tipo particular de música o el uso de himnarios, plataformas elevadas (altares) y platos de ofrendas son sólo algunas de las tradiciones que los occidentales han __<u>impuesto</u>__ inadvertidamente a las iglesias locales.
 
 ###        4.  Incluso si no eres occidental, es posible que estés conduciendo la iglesia de una manera __<u>extraña</u>__ y superpuesta que no tiene una base real en las Escrituras.
@@ -790,7 +790,7 @@ Hech 8:4  Así que los que habían sido esparcidos iban predicando la palabra.
 
 ####            j.  Hechos 2:47c -- *Y el Señor añadía cada día a la iglesia los que habían de ser salvos.* Una iglesia local prosigue a __<u>evangelizar</u>__ a su comunidad local y añade almas a su congregación a través del alcance. Mateo 28:19-20, Marcos 16:15, Hechos 1:8
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/church-cover.jpeg" data-background-size="cover"  data-menu-title="III. 1 Timoteo 1:1-2 - Saludos e Información Biográfica" data-background-color="beige" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/1timoteo/img/church-cover.jpeg" data-background-size="cover"  data-menu-title="III. 1 Timoteo 1:1-2 - Saludos e Información Biográfica" data-background-color="beige" --> 
 # III. 1 Timoteo 1:1-2 -- Saludos e Información Biográfica <!-- .element: style="color:white;" -->
 
 <!-- .slide:  data-background-color="white" --> 
@@ -989,7 +989,7 @@ Hech 8:4  Así que los que habían sido esparcidos iban predicando la palabra.
 
 ###         4.  1 Timoteo 1:1d -- *Jesucristo nuestra esperanza*\... La esperanza aquí habla del deseo de algo bueno con la expectativa de obtenerlo. Es gracias a que Jesucristo pagó la pena por nuestros pecados en la cruz, que todos aquellos que creen en Él pueden esperar con __<u>confianza</u>__ vivir con Dios en el cielo para siempre. Juan 3:16
 
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/scroll.svg" data-background-size="300px" data-background-position="right 50% bottom 75%" data-background-opacity="0.5"-->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1timoteo/img/scroll.svg" data-background-size="300px" data-background-position="right 50% bottom 75%" data-background-opacity="0.5"-->
 ##     B.  Timoteo, el receptor de la epístola
 
 ###         1.  1 Timoteo 1:2a -- *A Timoteo, verdadero hijo en la fe*... Timoteo, un __<u>compañero</u>__ creyente en Jesucristo, fue uno de los asistentes de Pablo en el ministerio.
@@ -1020,7 +1020,7 @@ Hech 8:4  Así que los que habían sido esparcidos iban predicando la palabra.
 
 #####                 2.  Pablo sabía que Timoteo, como todos nosotros, era un pecador __<u>salvo</u>__ por gracia. Romanos 7:13-25
 
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/shalom.svg" data-background-size="300px" data-background-position="right 50% bottom 25%" data-background-opacity="0.8"-->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1timoteo/img/shalom.svg" data-background-size="300px" data-background-position="right 50% bottom 25%" data-background-opacity="0.8"-->
 ####             c.  *__<u>Paz</u>__* (para ti): Un típico deseo judío para un medio-judío (Timoteo).
 
 #####                 1.  La paz proviene de un entendimiento de la __<u>gracia</u>__ de Dios.
@@ -1031,7 +1031,7 @@ Hech 8:4  Así que los que habían sido esparcidos iban predicando la palabra.
 
 ###         3.  1 Timoteo 1:2b -- \...*de Dios nuestro Padre y de Cristo Jesús nuestro Señor.* Gracia, misericordia y paz __<u>vienen</u>__ de Dios el Padre y Cristo Jesús nuestro Señor.
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/church-cover.jpeg" data-background-size="cover"  data-menu-title="IV. 1 Timoteo 1:3-20 - Batallando por la Gracia"--> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/1timoteo/img/church-cover.jpeg" data-background-size="cover"  data-menu-title="IV. 1 Timoteo 1:3-20 - Batallando por la Gracia"--> 
 # IV. 1 Timoteo 1:3-20 -- Batallando por la Gracia
 <!-- .element: style="color:white;" -->
 
@@ -1353,7 +1353,7 @@ Hech 8:4  Así que los que habían sido esparcidos iban predicando la palabra.
 
 ####            c.  Desafortunadamente, sabemos por 2 Timoteo que __<u>Himeneo</u>__ no respondió bien a esta disciplina. No sabemos cómo respondió Alejandro. 2 Timoteo 2:16-18
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/church-cover.jpeg" data-background-size="cover"  data-menu-title="V. Breve Doctrina sobre la Disciplina en la Iglesia"--> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/1timoteo/img/church-cover.jpeg" data-background-size="cover"  data-menu-title="V. Breve Doctrina sobre la Disciplina en la Iglesia"--> 
 # V.  Breve Doctrina sobre la Disciplina en la Iglesia
 <!-- .element: style="color:white;" -->
 
@@ -1395,7 +1395,7 @@ Hech 8:4  Así que los que habían sido esparcidos iban predicando la palabra.
 
 ####            a.  2 Tesalonicenses 3:6a -- *que os apartéis de todo hermano...* Pablo ordenó a estos creyentes que no tuvieran comunión con *__<u>todo</u>__ hermano*  [no solo con algunos] *que ande desordenadamente.* Además, la palabra griega traducida "*apartéis*" está en la voz media, lo que implica que deben desasociarse de tal creyente por su propio bien.
 
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/chaos.png" data-background-size="300px" data-background-position="left" data-background-opacity="0.5"-->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1timoteo/img/chaos.png" data-background-size="300px" data-background-position="left" data-background-opacity="0.5"-->
 ####            b.  2 Tesalonicenses 3:6b -- *...que ande desordenadamente...* La palabra *desordenadamente* significa fuera de __<u>orden</u>__. En griego esto se usó para describir a un soldado perezoso. Desordenadamente implicaba a una persona que era insubordinada, holgazana y negligente en sus deberes.
 
 ####            c.  2 Tesalonicenses 3:6c -- *...y no según la enseñanza que recibisteis de nosotros.* La palabra *enseñanza* se refiere a una doctrina o mandato comunicado de uno a otro. Este error describía a un creyente que se __<u>desvió</u>__ de la sana enseñanza bíblica dada por los apóstoles y registrada en el Nuevo Testamento.
@@ -1512,11 +1512,11 @@ Hech 8:4  Así que los que habían sido esparcidos iban predicando la palabra.
 
 #####                5.  ¿Manifiesta en el presente la persona el __<u>fruto</u>__ del Espíritu o un interés en las cosas espirituales? Gálatas 5:22-23
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/church-cover.jpeg" data-background-size="cover"  data-menu-title="VI. 1 Timoteo 2:1-15 - Instrucción Sobre la Adoración"  --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/1timoteo/img/church-cover.jpeg" data-background-size="cover"  data-menu-title="VI. 1 Timoteo 2:1-15 - Instrucción Sobre la Adoración"  --> 
 # VI. 1 Timoteo 2:1-15 -- Instrucción Sobre la Adoración
 <!-- .element: style="color:white;" -->
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/church-cover.jpeg" data-background-size="cover"  data-menu-title="VI. 1 Timoteo 2:1-15 - Instrucción Sobre la Adoración"  --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/1timoteo/img/church-cover.jpeg" data-background-size="cover"  data-menu-title="VI. 1 Timoteo 2:1-15 - Instrucción Sobre la Adoración"  --> 
 <svg id="svg12583" width="1000" height="700" inkscape:version="1.0.2 (e86c8708, 2021-01-15)" sodipodi:docname="bosquejo-opt.svg" version="1.1" viewBox="0 0 296 207" xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd">
  <sodipodi:namedview id="base" bordercolor="#666666" borderopacity="1.0" fit-margin-bottom="0" fit-margin-left="0" fit-margin-right="0" fit-margin-top="0" inkscape:bbox-paths="true" inkscape:current-layer="layer3" inkscape:cx="394.77242" inkscape:cy="339.58244" inkscape:document-rotation="0" inkscape:document-units="mm" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:snap-bbox="true" inkscape:window-height="935" inkscape:window-maximized="0" inkscape:window-width="1654" inkscape:window-x="24" inkscape:window-y="25" inkscape:zoom="0.74937383" pagecolor="#ffffff" showgrid="false"/>
  <g id="layer3" transform="translate(-1.8 -.18)" inkscape:groupmode="layer" inkscape:label="letters">
@@ -1559,7 +1559,7 @@ Hech 8:4  Así que los que habían sido esparcidos iban predicando la palabra.
 
 ##    A.  1 Timoteo 2:1-7 -- La oración
 
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/world-map.png" data-background-size="800px" data-background-position="right 50% bottom 55%" data-background-opacity="0.5"-->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1timoteo/img/world-map.png" data-background-size="800px" data-background-position="right 50% bottom 55%" data-background-opacity="0.5"-->
 ###        1.  1 Timoteo 2:1 -- La iglesia tiene la responsabilidad de __<u>orar</u>__ por todas las personas en todas partes.
 
 ####            a.  1 Timoteo 2:1a -- *Exhorto* \['pues' -- RV1909\] *ante todo...* La palabra '*pues'* podría ser traducida consecuentemente, atando esta sección a la sección anterior donde Pablo abordó la necesidad de la fidelidad a la sana __<u>doctrina</u>__. 1 Timoteo 1:3-4; 18-19a
@@ -1654,12 +1654,12 @@ Hech 8:4  Así que los que habían sido esparcidos iban predicando la palabra.
 
 ####            d.  Es interesante que muchas imágenes en las paredes de las catacumbas y en el arte cristiano primitivo representaban a creyentes orando con las manos en alto. Aunque esta costumbre exacta no se sigue en todas las iglesias, todos los hombres que dirigen la oración deben, sin embargo, estar __<u>libres</u>__ de pecado.
 
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/catacumba1.jpeg" data-background-color="black" -->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1timoteo/img/catacumba1.jpeg" data-background-color="black" -->
 > ## Salmo 63:4  Así te bendeciré mientras viva, en tu nombre alzaré mis manos.
 
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/catacumba2.jpeg" data-background-color="black" -->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1timoteo/img/catacumba2.jpeg" data-background-color="black" -->
 
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/catacumba3.png" data-background-color="black" -->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1timoteo/img/catacumba3.png" data-background-color="black" -->
 > ## Salmo 134:2  Alzad vuestras manos al santuario y bendecid al SEÑOR.
 
 ##    C.  1 Timoteo 2:9-15 -- Varios requisitos para las mujeres en el culto publico
@@ -1674,7 +1674,7 @@ Hech 8:4  Así que los que habían sido esparcidos iban predicando la palabra.
 
 ###        3.  1 Timoteo 2:9c -- *...no con peinado ostentoso* [lit. -- 'trenzas'], *ni oro, ni perlas, ni vestidos costosos...* En la cultura del primer siglo, las mujeres que se vestían como se describe aquí eran típicamente prostitutas o excesivamente __<u>egocéntricas</u>__.
 
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/romanhair.jpeg" data-background-color="black" -->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1timoteo/img/romanhair.jpeg" data-background-color="black" -->
 
 ####            a.  La conclusión es que la forma en que una mujer creyente se viste no debe __<u>distraer</u>__ de ninguna manera, ya sea a través de la sensualidad o la extravagancia.
 
@@ -1738,7 +1738,7 @@ Hech 8:4  Así que los que habían sido esparcidos iban predicando la palabra.
 
 #####                2.  Aunque los hombres y las mujeres son iguales, son __<u>diferentes</u>__. Dios le dio a cada género roles específicos y diferentes. Dios creó al hombre y a la mujer para que se complementen el uno al otro, no para competir entre ellos. Un género no es superior al otro.
 
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/adanyeva.png" data-background-size="300px" data-background-position="right 50% bottom 75%" data-background-opacity="0.5"-->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1timoteo/img/adanyeva.png" data-background-size="300px" data-background-position="right 50% bottom 75%" data-background-opacity="0.5"-->
 ####            b.  1 Timoteo 2:14 -- *Y Adán no fue engañado, sino que la mujer, siendo engañada, incurrió en transgresión.* Luego, Pablo dio un argumento posterior a la __<u>caída</u>__ del por qué las mujeres no deberían ejercer autoridad sobre los hombres en la iglesia local.
 
 #####                1.  Dios dio específicamente la orden de no comer el fruto a Adán. Era responsabilidad de Adán __<u>proteger</u>__ a su esposa y asegurarse de que siguieran las instrucciones de Dios.
@@ -1765,7 +1765,7 @@ Hech 8:4  Así que los que habían sido esparcidos iban predicando la palabra.
 
 ####            c.  Las mujeres necesitan creer en la Palabra de Dios y confiar en Él, que Su voluntad para ellas, tal como se describe en Su Palabra, es *buena, aceptable y __<u>perfecta</u>__*, conduciendo al gozo y la realización. Romanos 12:1-2; 2 Corintios 11:3; Gálatas 6:7-9, 1 Timoteo 5:6; 1 Juan 2:15-17
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/church-cover.jpeg" data-background-size="cover"  data-menu-title="VII. 1 Timoteo 3:1-16 - Instrucción en la Selección de Líderes en la Iglesia"--> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/1timoteo/img/church-cover.jpeg" data-background-size="cover"  data-menu-title="VII. 1 Timoteo 3:1-16 - Instrucción en la Selección de Líderes en la Iglesia"--> 
 # VII. 1 Timoteo 3:1-16 -- Instrucción en la selección de líderes en la iglesia
 <!-- .element: style="color:white;" -->
 
@@ -2006,7 +2006,7 @@ Hech 8:4  Así que los que habían sido esparcidos iban predicando la palabra.
 
 ###         12. 1 Timoteo 3:3e -- *Pero es necesario que el obispo sea\... no avaro. No avaro* APHILARGUROS es no ser codicioso. Una persona con una fijación por el dinero no debe ser elegida como anciano. Esta podría ser una persona rica ocupada en ganar más riqueza o una persona pobre ocupada en hacerse __<u>rica</u>__.
 
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/house.png" data-background-size="300px" data-background-position="right 25% bottom 15%" data-background-opacity="0.5" -->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1timoteo/img/house.png" data-background-size="300px" data-background-position="right 25% bottom 15%" data-background-opacity="0.5" -->
 ###         13. 1 Timoteo 3:4a -- *Que gobierne bien su casa...* (Tito 1:6) *Que gobierne bien*, PROISTEMI habla de buena administración. La misma habilidad requerida para dirigir un hogar sin problemas es necesaria para dirigir una iglesia. Una persona que no tiene un hogar bien administrado no __<u>califica</u>__ para el ancianato.
 
 ###         14. 1 Timoteo 3:4b -- *Que tenga a sus hijos en sujeción con toda honestidad* \['dignidad' -- LBLA\]\... *Honestidad* SEMNOTAS significa tanto decencia como seriedad. El candidato a anciano debe siempre hacer lo mejor para su familia sin preocuparse de lo que __<u>otros</u>__ piensen.
@@ -2071,7 +2071,7 @@ Hech 8:4  Así que los que habían sido esparcidos iban predicando la palabra.
 
 ####             e.  Aunque Pablo no mencionó "Si alguno anhela" como un pre requisito para convertirse en diácono (como lo hizo con los ancianos), sería una imprudencia nombrar a alguien para el oficio de diácono si él no desea totalmente __<u>servir</u>__ de esta manera.
 
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/wrench.png" data-background-size="300px" data-background-position="left 50% bottom 75%" data-background-opacity="0.5"-->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1timoteo/img/wrench.png" data-background-size="300px" data-background-position="left 50% bottom 75%" data-background-opacity="0.5"-->
 ##     D.  1 Timoteo 3:8c-13 -- Cualificaciones para el oficio de diácono
 
 ###         1.  Timoteo 3:8a -- *Los diáconos asimismo deben ser honestos* ['dignos' -- LBLA]. La palabra *honesto* SEMNOS significa venerable, honorable o serio. Habla de alguien que es seguro de si mismo y que inspira respeto a causa de su carácter y __<u>sabiduría</u>__.
@@ -2128,7 +2128,7 @@ Hech 8:4  Así que los que habían sido esparcidos iban predicando la palabra.
 
 ###         10. 1 Timoteo 3:11b -- *Las mujeres* [esposas] *asimismo sean honestas* ['dignas' -- LBLA].... Como se mencionó anteriormente, la palabra *honesta* SEMNOS significa venerable, honorable o seria. Habla de alguien que es segura de si misma e inspira __<u>respeto</u>__ a causa de su carácter y sabiduría.
 
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/secret.png" data-background-size="300px" data-background-position="left 25% bottom 15%" data-background-opacity="0.5"-->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1timoteo/img/secret.png" data-background-size="300px" data-background-position="left 25% bottom 15%" data-background-opacity="0.5"-->
 ###         11. 1 Timoteo 3:11c -- *Las mujeres* [esposas] *asimismo sean... no calumniadoras...* La palabra *calumniadora* DIABOLOS es una palabra fuerte a menudo usada para referirse a Satanás en las Escrituras. Describe a un falso acusador. El chisme malicioso o la calumnia es la obra del diablo. Divide y lastima a los individuos. Puede __<u>destruir</u>__ iglesias.
 
 ###         12. 1 Timoteo 3:11d -- *Las mujeres* [esposas] *asimismo sean...sobrias...* El significado estricto de esta palabra *sobria* NEFALIOS es "libre de vino". Aunque literalmente este término significó abstenerse del vino, metafóricamente llegó a significar de pensamiento sobrio, vigilante o sensato. Significaba con autocontrol en lugar de controlado por la pasión o el __<u>vino</u>__.
@@ -2139,10 +2139,10 @@ Hech 8:4  Así que los que habían sido esparcidos iban predicando la palabra.
 
 ###         15. 1 Timoteo 3:12b -- *Los diáconos sean maridos...que gobiernen bien sus hijos y sus casas...* Esta es la misma palabra traducida *__<u>gobernar</u>__* PROISTEMI en el versículo cuatro, donde se habla de ancianos gobernando bien su hogar.
 
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/money.png" data-background-size="300px" data-background-position="left 75% bottom 75%" data-background-opacity="0.5"-->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1timoteo/img/money.png" data-background-size="300px" data-background-position="left 75% bottom 75%" data-background-opacity="0.5"-->
 ####             a.  Los diáconos se encargarán de las finanzas y serán responsables de una serie de cuestiones diversas y delicadas dentro de la iglesia local; por lo tanto, las mismas habilidades administrativas requeridas para administrar un hogar son requeridas para el servicio como __<u>diácono</u>__.
 
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/house.png" data-background-size="300px" data-background-position="left 75% bottom 75%" data-background-opacity="0.5"-->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1timoteo/img/house.png" data-background-size="300px" data-background-position="left 75% bottom 75%" data-background-opacity="0.5"-->
 ####             b.  Una seria consideración de la vida hogareña del diácono potencial debería revelar si finalmente será capaz de __<u>servir</u>__ en la iglesia local.
 
 ###         16. 1 Timoteo 3:13a -- *Porque los que ejerzan bien el diaconado, ganan para sí un grado honroso...* La frase *grado honroso* literalmente significa un nivel o alto rango.
@@ -2151,7 +2151,7 @@ Hech 8:4  Así que los que habían sido esparcidos iban predicando la palabra.
 
 ####             b.  Hombres como Felipe y Esteban que liberaron a los apóstoles sirviendo en el rol de diáconos ganaron una __<u>gran</u>__ reputación en la iglesia. Hechos 6:5; 8:6
 
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/servant.png" data-background-size="300px" data-background-position="left 50% bottom 75%" data-background-opacity="0.5"-->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1timoteo/img/servant.png" data-background-size="300px" data-background-position="left 50% bottom 75%" data-background-opacity="0.5"-->
 ####             c.  Al mismo tiempo, ya que el rol del diácono es un trabajo detrás de la escena, a veces puede pasar desapercibido para las personas, pero __<u>Dios</u>__ no pasa por alto el servicio bien hecho.
 
 ###         17. 1 Timoteo 3:13b -- *Porque los que ejerzan bien el diaconado, ganan para sí... mucha confianza en la fe que es en Cristo Jesús.* La frase *mucha confianza* significa libertad o franqueza en el __<u>habla</u>__ de uno.
@@ -2176,7 +2176,7 @@ Hech 8:4  Así que los que habían sido esparcidos iban predicando la palabra.
 
 ####             b.  Cuando un incrédulo deposita su fe en la persona y obra de Jesucristo, nace de nuevo y es colocado en la familia de Dios. Entonces son hechos hijos de Dios. Por primera vez en sus vidas pueden descansar con un verdadero __<u>sentido</u>__ de pertenencia. Juan 1:11-13, 1 Juan 3:1
 
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/house.png" data-background-size="300px" data-background-position="left 5% bottom 5%" data-background-opacity="0.5"-->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1timoteo/img/house.png" data-background-size="300px" data-background-position="left 5% bottom 5%" data-background-opacity="0.5"-->
 ####             c.  La iglesia no es un negocio o una producción teatral; es una casa. Esto es clave porque gran parte del cristianismo se ha convertido en un espectáculo o en un negocio que genera dinero. Oh, que volviéramos a la iglesia siendo nuestro __<u>hogar</u>__ y nuestra familia.
 
 ###         4.  1 Timoteo 3:15d -- ...*te escribo... para que... sepas cómo debes conducirte en la casa de Dios, **que es la iglesia del Dios viviente**...* En marcado contraste con los templos religiosos que albergaban ídolos muertos en las religiones del día, Pablo enseñó que la iglesia es la asamblea de los llamados que pertenecen al único Dios verdadero y __<u>viviente</u>__.
@@ -2185,14 +2185,14 @@ Hech 8:4  Así que los que habían sido esparcidos iban predicando la palabra.
 
 ####             a.  La iglesia (es decir, la suma de todas las iglesias locales) es el instrumento de Dios para sostener (columna) y mantener firme y segura (baluarte) la __<u>verdad</u>__ de la Palabra de Dios en el mundo. Filipenses 2:16
 
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/temple-artemis.png" data-background-size="300px" data-background-position="left 50% bottom 50%" data-background-opacity="0.5"-->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1timoteo/img/temple-artemis.png" data-background-size="300px" data-background-position="left 50% bottom 50%" data-background-opacity="0.5"-->
 ####             b.  El gran templo de Diana en Éfeso tenía 127 columnas. Ninguna de esas poderosas columnas sostenían la verdad. Por el contrario, la iglesia de Jesucristo es el __<u>vehículo</u>__ principal de Dios para promover y sostener la verdad en este mundo hoy.
 
 ####             c.  En el panorama cambiante e inestable en el cual vivimos, es responsabilidad de la iglesia, no de los gobiernos, denominaciones, sociedades bíblicas o individuos, defender y __<u>proteger</u>__ la verdad, la cual es la Palabra de Dios.
 
 ####             d.  Como hijo de Dios, debes hacer tu prioridad ser parte de la iglesia. Si no, te expones al peligro de creer en las __<u>mentiras</u>__ que este mundo propone. Hechos 2:42; Efesios 4:11-16; Hebreos 3:13; 10:24-25
 
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/column.png" data-background-size="300px" data-background-position="left 1% bottom 50%" data-background-opacity="0.5"-->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1timoteo/img/column.png" data-background-size="300px" data-background-position="left 1% bottom 50%" data-background-opacity="0.5"-->
 ##     F.  1 Timoteo 3:16 -- La iglesia y la verdad
 
 *E indiscutiblemente, grande es el misterio de la piedad:* 
@@ -2239,7 +2239,7 @@ Hech 8:4  Así que los que habían sido esparcidos iban predicando la palabra.
 
 ###         8.  1 Timoteo 3:16g -- El misterio de la piedad es Cristo quien fue *recibido arriba en gloria.* Cristo ascendió al cielo y ahora está sentado a la diestra de Dios el Padre. Junto con la resurrección, la ascensión prueba que Dios estuvo completamente satisfecho con la __<u>vida</u>__ y obra de Jesucristo. Hechos 1:9-11; Romanos 3:24-25; 8:34; Efesios 1:20; 1 Juan 2:1-2
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/church-cover.jpeg" data-background-size="cover"  data-menu-title="VIII. 1 Timoteo 4:1-16 - Protección Contra la Apostasía"--> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/1timoteo/img/church-cover.jpeg" data-background-size="cover"  data-menu-title="VIII. 1 Timoteo 4:1-16 - Protección Contra la Apostasía"--> 
 # VIII. 1 Timoteo 4:1-16 -- Protección Contra la Apostasía
 <!-- .element: style="color:white;" -->
 
@@ -2329,7 +2329,7 @@ Hech 8:4  Así que los que habían sido esparcidos iban predicando la palabra.
 
 ###          3.  1 Timoteo 4:1c -- *...escuchando* \['prestando atención' -- LBLA\] *a espíritus engañadores y a doctrinas de demonios...* Esto describe __<u>cómo</u>__ algunos creyentes cristianos apostatarán de la fe. Habrá un componente demoniaco para este predicho apartamiento de la fe.
 
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/plane.png" data-background-size="300px" data-background-position="left 50% bottom 80%" data-background-opacity="0.8"-->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1timoteo/img/plane.png" data-background-size="300px" data-background-position="left 50% bottom 80%" data-background-opacity="0.8"-->
 ####              a.  La palabra traducida *escuchando a* PROSECHÓ se usa 4 veces en el libro de 1 Timoteo. Como término náutico significa navegar hacia. En otras palabras, apartarse de la fe es un proceso que comienza con dirigir el __<u>rumbo</u>__ de uno hacia la falsedad.
 
 ####              b.  1 Juan 4:1 -- *Amados, no creáis a todo espíritu, sino probad los espíritus si son de Dios; porque muchos falsos profetas han salido por el __<u>mundo</u>__.* 2 Corintios 11:3-4; 2 Pedro 2:1
@@ -2354,15 +2354,15 @@ Hech 8:4  Así que los que habían sido esparcidos iban predicando la palabra.
 
 ##      C.  1 Timoteo 4:3-5 -- La falsa enseñanza
 
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/no-food.png" data-background-size="200px" data-background-position="left 30% bottom 5%" data-background-opacity="0.8"-->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1timoteo/img/no-food.png" data-background-size="200px" data-background-position="left 30% bottom 5%" data-background-opacity="0.8"-->
 ###          1.  1 Timoteo 4:3a -- \...*prohibirán casarse, y mandarán abstenerse de alimentos*\... La hipocresía de estos maestros será una forma de ascetismo, una abstinencia de las cosas legítimas. Una marca clave de los falsos maestros es su énfasis en lo externo por encima de una __<u>respuesta</u>__ interna y verdadera al Señor.
 
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/nun.png" data-background-size="100px" data-background-position="left 80% bottom 85%" data-background-opacity="0.8"-->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1timoteo/img/nun.png" data-background-size="100px" data-background-position="left 80% bottom 85%" data-background-opacity="0.8"-->
 ####              a.  El *prohibir casarse* es prohibir una de las instituciones más antiguas de Dios para la humanidad. Estos maestros comunicarán que el matrimonio es incorrecto. Génesis 2:18a dice: *\"No es bueno que el hombre esté solo\".* Dios ordenó el matrimonio, pero estos falsos maestros contradecirán la __<u>Palabra</u>__ de Dios.
 
 ####              b.  El *abstenerse de alimentos* muestra que estos falsos maestros se entrometerán en la vida personal de las personas, no permitiéndoles comer libremente ciertos alimentos. En Colosenses, Pablo dijo que aunque este tipo de abnegación religiosa puede lucir bien por fuera, no tiene ningún __<u>valor</u>__ espiritual. Romanos 14:3, 17; Colosenses 2:16, 20-23; Hebreos 9:10
 
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/vegetables.png" data-background-size="200px" data-background-position="left 50% bottom 75%" data-background-opacity="0.8"-->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1timoteo/img/vegetables.png" data-background-size="200px" data-background-position="left 50% bottom 75%" data-background-opacity="0.8"-->
 ###          2.  1 Timoteo 4:3b -- \...*que Dios creó para que con acción de gracias participasen de ellos los creyentes y los que han conocido la verdad*. Dios creó los alimentos y el matrimonio para el disfrute de Sus __<u>hijos</u>__.
 
 ####              a.	Si bien el mundo incrédulo disfruta del alimento y el matrimonio, no son capaces de __<u>disfrutarlos</u>__ en la medida en que los creyentes, que conocen y creen la verdad, lo hacen. 
@@ -2381,7 +2381,7 @@ Hech 8:4  Así que los que habían sido esparcidos iban predicando la palabra.
 
 #### b.	Por fe a través de la oración, estamos de acuerdo en que el juicio de Dios de lo que es bueno, es  __<u>correcto</u>__. 
 
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/guard.png" data-background-size="400px" data-background-position="left 2% bottom 15%" data-background-opacity="0.8" -->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1timoteo/img/guard.png" data-background-size="400px" data-background-position="left 2% bottom 15%" data-background-opacity="0.8" -->
 ## D.	1 Timoteo 4:6-10 – Protección contra la falsa enseñanza
 
 ### 1.	1 Timoteo 4:6a – *Si esto enseñas a los hermanos, serás buen ministro de Jesucristo...* Pablo había dejado a Timoteo en Éfeso para corregir,  __<u>instruir</u>__ y exhortar. Timoteo debía cumplir su llamado señalando la falsa enseñanza a los líderes de la iglesia. 2 Timoteo 2:1-2
@@ -2433,7 +2433,7 @@ ___
 
 ####              d.  La piedad no viene por golpearnos a nosotros mismos para estar en forma. La piedad viene a medida que aprendemos a andar por la fe. Gálatas 2:20 lo dice bien: "*Con Cristo estoy juntamente crucificado, y ya no vivo yo, mas vive Cristo en mí; **y lo que ahora vivo en la carne, lo vivo en la fe del Hijo de Dios, el cual Me amó y Se entregó a Sí mismo por <u>mí</u>**.*"
 
-<!-- .slide: data-background-color="purple" data-style="color:white;" data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/cross.jpeg" data-background-size="cover" data-background-opacity="0.5" -->
+<!-- .slide: data-background-color="purple" data-style="color:white;" data-background-image="https://johnwry.github.io/dm2/markdown/1timoteo/img/cross.jpeg" data-background-size="cover" data-background-opacity="0.5" -->
 ### La Gracia de Dios me enseña... (Tito 2:12)
 <!-- .element: style="color:white;" -->
 #### Mi **identidad** en Cristo (1 Cor 1:10)
@@ -2468,10 +2468,10 @@ ___
 
 ###          9.  1 Timoteo 4:10c -- Confiamos en Él porque Él *...es el Salvador de todos los hombres, mayormente de los que creen.* Ahora, esto no significa que todos sean salvos, sino más bien que todos pueden ser salvos. El único requisito para la salvación es la fe en el Salvador que murió por nuestros pecados y resucitó al tercer __<u>día</u>__. Salmos 42:2, Jeremías 10:10, 1 Corintios 15:3-4
 
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/shield.png" data-background-size="300px" data-background-position="left" data-background-opacity="0.5"-->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1timoteo/img/shield.png" data-background-size="300px" data-background-position="left" data-background-opacity="0.5"-->
 ##      E.  1 Timoteo 4:11-16 -- Diez mandatos para la protección de Timoteo
 
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/one.png" data-background-size="300px" data-background-position="left" data-background-opacity="0.5"-->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1timoteo/img/one.png" data-background-size="300px" data-background-position="left" data-background-opacity="0.5"-->
 ###          1.  **Primer Mandato:** 1 Timoteo 4:11a -- *Esto __<u>manda</u>__.* La palabra *manda* significa pasar un anuncio. Pablo ordenó a Timoteo que continuara, como práctica estándar, presentando y repitiendo estas verdades. 1 Timoteo 4:6a
 ___
 **παραγγέλλω** - paraggellō - Definición de Thayer:
@@ -2482,7 +2482,7 @@ ___
 
 ####              b.  Este mandato destacó el trabajo más grande de Timoteo, el de la enseñanza. Lo que Pablo le había enseñado a Timoteo eso debía prescribir, o pasar, a __<u>otros</u>__. 2 Timoteo 2:2
 
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/two.png" data-background-size="300px" data-background-position="left" data-background-opacity="0.5"-->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1timoteo/img/two.png" data-background-size="300px" data-background-position="left" data-background-opacity="0.5"-->
 ###          2.  **Segundo Mandato:** 1 Timoteo 4:11b -- *...y **enseña**. Enseñar* significa instruir por palabra de boca en boca. Timoteo debía activa, sistemática e intencionalmente instruir a otros en la verdad. El hecho de que Pablo diera este mandato puede indicar que Timoteo necesitaba un poco de insistencia para llevar a cabo esta __<u>tarea</u>__.
 ___
 *enseña*
@@ -2498,7 +2498,7 @@ ___
 2d) explicar o exponer una cosa
 2f) enseñarle algo a uno
 
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/tres.png" data-background-size="300px" data-background-position="left" data-background-opacity="0.5"-->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1timoteo/img/tres.png" data-background-size="300px" data-background-position="left" data-background-opacity="0.5"-->
 ###          3.  **Tercer Mandato:** 1 Timoteo 4:12a -- *Ninguno tenga en poco tu juventud...* La frase *...tenga en poco\...* significa pensar a la ligera o despreciar. Es algo común que los hombres mayores desprecien a los hombres más jóvenes. Por lo tanto, Pablo buscó animar a Timoteo en su papel y autoridad en Éfeso, animándolo a mantenerse __<u>fuerte</u>__.
 ___
 *Tenga en poco*
@@ -2519,7 +2519,7 @@ ___
 *en pureza*
 <!-- .element: class="fragment" -->
 
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/cuantro.png" data-background-size="300px" data-background-position="left" data-background-opacity="0.5"-->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1timoteo/img/cuantro.png" data-background-size="300px" data-background-position="left" data-background-opacity="0.5"-->
 ###          4.  **Cuarto Mandato:** 1 Timoteo 4:12b -- *...pero más bien en palabra, conducta, amor, fe y pureza, muéstrate un ejemplo de los que creen.* En su rol como evangelista, un pastor de pastores, Pablo sabía cuan extremadamente importante era para Timoteo llevar una vida piadosa. La vida personal de Timoteo tenía que __<u>coincidir</u>__ con su enseñanza.
 
 #### a.  Con el fin de que las personas no despreciaran su juventud, Pablo recordó a Timoteo varias áreas prácticas en las que debería ser un __<u>modelo</u>__. Filipenses 3:17
@@ -2538,7 +2538,7 @@ ___
 
 ####              f.  *En __<u>pureza</u>__* -- Timoteo debía mostrarse como un ejemplo a través de la forma en que vivía su vida en castidad como un hombre soltero. 1 Tesalonicenses 2:10-11, 2 Timoteo 2:22, Tito 2:7
 
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/cinco.png" data-background-size="300px" data-background-position="left" data-background-opacity="0.5"-->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1timoteo/img/cinco.png" data-background-size="300px" data-background-position="left" data-background-opacity="0.5"-->
 ###          5.  **Quinto Mandato:** 1 Timoteo 4:13 -- *Entre tanto que voy, ocúpate en...*  La frase *ocúpate en* es un verbo que ya hemos observado cuatro veces en 1 Timoteo. Es un término náutico que significa fijar un rumbo a o navegar hacia. Timoteo debía dirigir resueltamente su mente hacia la verdad. No debía haber desviación con respecto a la prioridad de la __<u>Palabra</u>__ de Dios.
 ___
 προσέχω - prosechō- Definición de Thayer:
@@ -2570,7 +2570,7 @@ ___
 
 #####                  2.  La instrucción cuidadosa a través de la enseñanza es vital para los creyentes para que puedan ser santificados a través de la verdad y así puedan rechazar la falsa doctrina y las __<u>mentiras</u>__. Juan 8:32, 17:17 2 Pedro 1:3-4
 
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/seis.png" data-background-size="300px" data-background-position="left" data-background-opacity="0.5"-->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1timoteo/img/seis.png" data-background-size="300px" data-background-position="left" data-background-opacity="0.5"-->
 ###          6.  **Sexto Mandato:** 1 Timoteo 4:14 -- *No descuides el don* \['espiritual' -- LBLA\] *que hay en ti...* La palabra *descuides* significa ser negligente. Este verbo es un mandato de tiempo presente lo que significaba para Timoteo que debía evadir constantemente ser negligente en el uso de su __<u>don</u>__ espiritual.
 
 ####              a.  1 Timoteo 4:14a -- *No descuides el don* \['espiritual' -- LBLA\] *que hay en ti*\... Timoteo debía reconocer y recordar constantemente su llamado espiritual para que permaneciera enfocado en su rol a pesar de cualquier desafío que pudiera haber enfrentado en el ministerio en __<u>Éfeso</u>__.
@@ -2585,17 +2585,17 @@ ___
 
 #####                  3.  La imposición de manos no es la forma en que Timoteo recibió su don espiritual. La imposición de manos no produjo ni causó de alguna manera su don espiritual. Esto es confirmado por la preposición META traducida *__<u>con</u>__* (\... *con* \[seguido de\] *la imposición de las manos del presbiterio*).
 
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/siete.png" data-background-size="300px" data-background-position="left" data-background-opacity="0.5"-->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1timoteo/img/siete.png" data-background-size="300px" data-background-position="left" data-background-opacity="0.5"-->
 ###          7.  **Séptimo Mandato:** 1 Timoteo 4:15a -- *Ocúpate en estas cosas...*  La afirmación *ocúpate en estas cosas* es una orden que significa considerar, concentrarse o reflexionar sobre estas cosas con el propósito de desempeñarse bien. Ocúpate en estas cosas significaba que Timoteo necesitaría ser incansable y tenaz en su dedicación a estos __<u>asuntos</u>__.
 
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/eight.png" data-background-size="300px" data-background-position="left" data-background-opacity="0.5"-->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1timoteo/img/eight.png" data-background-size="300px" data-background-position="left" data-background-opacity="0.5"-->
 ###          8.  **Octavo Mandato:** 1 Timoteo 4:15b -- *...permanece en ellas, para que tu aprovechamiento sea manifiesto a todos.* El mandato aquí para *permanece en ellas*, es literalmente estar en ellas. La idea comunicada es que Timoteo debería estar viviendo y respirando estas cosas. Pablo estaba ultra interesado en que Timoteo estuviera completamente concentrado en cumplir su __<u>llamado</u>__.
 
 ####              a.  *Aprovechamiento* tiene la idea de avance. Timoteo debía perseguir apasionadamente el propósito de Dios para su vida, con atención continua al __<u>detalle</u>__.
 
 ####              b.  Este es un asunto que pocos en el ministerio entienden. Hoy se advierte a las personas que no se quemen o se excedan en su servicio. La lectura simple de estos mandatos de hecho comunican lo opuesto. Pablo estaba llamando a Timoteo a una inmersión total en el llamado de Dios para su __<u>vida</u>__. 1 Corintios 9:16, Filipenses 2:17, Colosenses 1:28-29, 2 Timoteo 4:6
 
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/nine.png" data-background-size="300px" data-background-position="left" data-background-opacity="0.5"-->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1timoteo/img/nine.png" data-background-size="300px" data-background-position="left" data-background-opacity="0.5"-->
 ###          9.  **Noveno Mandato:** 1 Timoteo 4:16a -- *Ten cuidado de ti mismo y de la doctrina...*  Timoteo debía observar cuidadosamente tanto su vida personal como su ministerio público. Este tipo de atención a los detalles de la vida es esencial para el ministro de quien desea terminar __<u>bien</u>__ y disfrutar de una buena conciencia día tras día en el ministerio. 1 Timoteo 1:5, 1:19, 3:9, 4:2
 
 ####              a.  Muchos líderes de la iglesia que han sido sólidos en su doctrina han permitido en algún momento que el pecado no abordado u otros obstáculos terminen arruinando su ministerio. 1 Timoteo 1:18-20 muestra que esto le sucedió a algunos __<u>líderes</u>__.
@@ -2604,7 +2604,7 @@ ___
 
 ####              c.  Por estas razones, Pablo instruyó fuertemente a Timoteo a mantenerse enfocado en lo que realmente importaba. Quería que su hijo en la fe no solo se centrara en la enseñanza y permaneciera fiel a la sana doctrina, sino que también prestara atención a su vida personal. Él no debía enfocarse en los __<u>resultados</u>__.
 
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/ten.png" data-background-size="300px" data-background-position="left" data-background-opacity="0.5"-->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1timoteo/img/ten.png" data-background-size="300px" data-background-position="left" data-background-opacity="0.5"-->
 ###          10. **Décimo Mandato:** 1 Timoteo 4:16b -- *...persiste en ello, pues haciendo esto, te salvarás a ti mismo y a los que te oyeren.* El *persistir* era permanecer o mantenerse en un lugar. Era el no apartarse. Pablo enfatizó fuertemente a Timoteo que no se __<u>desviara</u>__ de rumbo, como lo hicieron los falsos maestros.
 
 ####              a.  Al cumplir los mandatos noveno y décimo, Timoteo aseguraría la salvación tanto para él como para sus oyentes. Timoteo no podía salvar a la gente del infierno. Entonces, ¿qué __<u>significa</u>__ la frase *te salvarás a ti mismo y a los que te oyeren*?
@@ -2617,7 +2617,7 @@ ___
 
 #####                  3.  Del mismo modo, si aquellos bajo su enseñanza aprendían a andar por la fe y disfrutar de la comunión con el Señor, ellos también experimentarían el poder sobre el __<u>pecado</u>__ en su vida diaria.
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/church-cover.jpeg" data-background-size="cover"  data-menu-title="IX. 1 Timoteo 5:1-6:21 - Relaciones Dentro de la Iglesia"--> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/1timoteo/img/church-cover.jpeg" data-background-size="cover"  data-menu-title="IX. 1 Timoteo 5:1-6:21 - Relaciones Dentro de la Iglesia"--> 
 # IX. 1 Timoteo 5:1-6:21 -- Relaciones dentro de la Iglesia
 <!-- .element: style="color:white;" -->
 
@@ -2838,7 +2838,7 @@ ___
 ###        8.  1 Timoteo 5:16 -- \...*a fin de que haya lo suficiente para las que en verdad son viudas*. La iglesia necesita usar sus fondos para aquellas viudas que están verdaderamente desamparadas y cualificadas. Aquellas viudas que tienen familiares creyentes no deben recibir asistencia de la iglesia. ¿Por qué? Porque no cualifican como viudas __<u>verdaderas</u>__.
 
 ##    C.  1 Timoteo 5:17-18 -- Remuneración de los ancianos
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/euro.jpeg" data-background-size="cover" data-background-opacity="1" -->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1timoteo/img/euro.jpeg" data-background-size="cover" data-background-opacity="1" -->
 
 ###        1.  1 Timoteo 5:17a -- *Los ancianos que **gobiernan bien**...* La frase *gobiernan bien* PROESTŌTES es un participio que literalmente significa pararse ante o presidir sobre. Se usaba para describir a una persona que infundía respeto al vivir una vida que se podía seguir. Esto describe a aquellos líderes que, dependiendo de Dios, son fieles para __<u>cumplir</u>__ con sus responsabilidades. Hebreos 13:17
 
@@ -2854,19 +2854,19 @@ ___
 
 ####            a.  La orden de remunerar a los ancianos que gobiernan bien se refiere exclusivamente a los ancianos que laboran (KOPIAÓ que trabajan arduamente, al punto del cansancio o la fatiga) en enseñar la Palabra de Dios al __<u>rebaño</u>__ de Dios. 2 Timoteo 4:2
 
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/teaching.png" data-background-size="300px" data-background-position="left 50% bottom 95%" data-background-opacity="0.5"-->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1timoteo/img/teaching.png" data-background-size="300px" data-background-position="left 50% bottom 95%" data-background-opacity="0.5"-->
 ####            b.  ¿Por qué son mencionados tanto la enseñanza como la predicación? Si bien la predicación y la enseñanza describen el rol de transmitir la verdad a los demás, la predicación se centra más en la entrega del mensaje, mientras que la enseñanza incluye la entrega, el __<u>estudio</u>__ y la preparación.
 
 ####            c.  Un anciano muy trabajador de este tipo es aquel que toma muy en serio la Gran Comisión, trabajando incansablemente para hacer de cada creyente un discípulo de Cristo __<u>maduro</u>__ y estable capaz de producir más discípulos. Mateo 28:19-20; Colosenses 1:28-2:5; 2 Timoteo 2:2, 3:16
 
 ###        4.  1 Timoteo 5:18 -- Pues la Escritura dice, *\"No pondrás bozal al buey cuando trillare;\"* y: *\"El obrero es digno de su salario\".* Pablo citó a dos personas, Moisés y Jesús. Remunerar a los ancianos maestros no es una especie de concepto del Antiguo Testamento que Pablo legalistamente aplicó. Jesús mismo reiteró la importancia de remunerar a aquellos que diligentemente sirven al __<u>Señor</u>__.
 ___
-<img src="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/threshing.png" width="70%">
+<img src="https://johnwry.github.io/dm2/markdown/1timoteo/img/threshing.png" width="70%">
 <figcaption>
 Trillando con bueyes 1865-1872 https://www.wdl.org/en/item/14029/
 </figcaption>
 
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/bozal.png" data-background-size="300px" data-background-position="left 50% bottom 5%" data-background-opacity="0.5"-->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1timoteo/img/bozal.png" data-background-size="300px" data-background-position="left 50% bottom 5%" data-background-opacity="0.5"-->
 ####            a.  En Deuteronomio 25:4 leemos: *No pondrás bozal al __<u>buey</u>__ cuando trillare.*
 
 ####            b.  En Lucas 10:7 cuando Jesús estaba instruyendo a Sus discípulos en misiones, dijo: \"*Y posad en aquella misma casa, comiendo y bebiendo lo que os den; porque el obrero es digno de su salario. No os paséis de casa en __<u>casa</u>__.* \"
@@ -2920,14 +2920,14 @@ ___
 
 ####            b.  En la iglesia, nada, incluyendo nombrar ancianos, diáconos, permitir la enseñanza falsa, poner viudas en la lista, o recibir acusaciones, debe ser hecho con un espíritu de parcialidad, ya sea a favor o en contra de alguien. Dios no muestra favoritismo y no quiere que los líderes de la iglesia muestren __<u>favoritismo</u>__.
 
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/caution.png" data-background-size="200px" data-background-position="left 50% bottom 75%" data-background-opacity="0.5"-->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1timoteo/img/caution.png" data-background-size="200px" data-background-position="left 50% bottom 75%" data-background-opacity="0.5"-->
 ##    E.  1 Timoteo 5:22-25 -- Andar prudentemente
 
 ###        1.  1 Timoteo 5:22a -- *No impongas con ligereza las manos a ninguno, ni participes en pecados ajenos...* Parte del pastoreo es proteger al rebaño de líderes incompetentes. Pablo mandó a Timoteo no __<u>ordenar</u>__ a alguien como anciano demasiado rápido.
 
 ####            a.  Una vez que un líder es reconocido públicamente, cualquier error o pecado que cometa afecta a todo el __<u>cuerpo</u>__, no solo a él o a su familia.
 
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/pointing.png" data-background-size="200px" data-background-position="left 70% bottom 85%" data-background-opacity="0.5"-->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1timoteo/img/pointing.png" data-background-size="200px" data-background-position="left 70% bottom 85%" data-background-opacity="0.5"-->
 ####            b.  Un nombramiento apresurado de un anciano podría causar que un hombre poco cualificado sea designado anciano y que resulte en la reprensión y vergüenza pública. Pablo no quería que Timoteo fuera parcialmente culpable debido al nombramiento __<u>apresurado</u>__ de un anciano.
 
 ###        2.  1 Timoteo 5:22b -- *Consérvate puro.* La palabra *consérvate* es una palabra que quiere decir guardarse o cuidarse. Pablo ordenó a Timoteo estar personalmente consciente de su propio __<u>andar</u>__ con el Señor. Al gobernar la iglesia, también es muy importante para los ancianos guardar y cuidar sus propias vidas. 1 Corintios 11:31-32, Gálatas 6:1
@@ -3090,7 +3090,7 @@ ___
 #####                2.  Sobre la esclavitud: Pablo no motivó la rebelión contra la sociedad o el gobierno, como a menudo se promueve en las iglesias hoy bajo el título de justicia social. Sin embargo, Pablo sí motivó a los esclavos a no dejar pasar la posibilidad de la __<u>libertad</u>__ si se les ofreciera. 1 Corintios 7:21
 
 # X.  1 Timoteo 6:3-21 -- Asuntos Relacionados con la Iglesia
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/1-Timoteo/img/church-cover.jpeg" data-background-size="cover"  data-menu-title="X. 1 Timoteo 6:3-21 - Asuntos Relacionados con la Iglesia"-->  <!-- .element: style="color:white;" -->
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/1timoteo/img/church-cover.jpeg" data-background-size="cover"  data-menu-title="X. 1 Timoteo 6:3-21 - Asuntos Relacionados con la Iglesia"-->  <!-- .element: style="color:white;" -->
 
 ##    A.  1 Timoteo 6:3-5 -- Tratando con la oposición
 
