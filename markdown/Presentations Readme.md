@@ -123,3 +123,16 @@ Trillando con bueyes 1865-1872 [^1]
 [^1]: https://www.wdl.org/en/item/14029/
 ```
 
+## Quiz sheet
+
+
+
+<section id="examen" data-state="no-toc-progress">
+
+   <script data-quiz >
+
+   quiz = {};
+
+  </script>
+
+</section>
