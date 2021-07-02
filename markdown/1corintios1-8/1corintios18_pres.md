@@ -1,4 +1,4 @@
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/1corintios/media/image1.jpeg" data-background-size="cover"  -->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/1corintios1-8/media/image1.jpeg" data-background-size="cover"  -->
 ## 1 Corintios
 ### **UNA IGLESIA EN CONFLICTO**
 <!-- .element: style="color:white;" -->
@@ -132,7 +132,7 @@ ___
 
 ##### 2.  Pablo habla enérgica y desafiantemente __<u>usando</u>__ la metáfora de atletas en\ 1 Corintios 9:24-27.
 
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/1corintios/media/image4.jpg" -->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/1corintios1-8/media/image4.jpg" -->
 
 # II. **1 Corintios 1:1-10 -- Recomendando a los Cristianos  de Corinto**
 
