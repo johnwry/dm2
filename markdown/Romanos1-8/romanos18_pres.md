@@ -1,4 +1,4 @@
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/cover.png"  data-background-size="contain" data-auto-animate="" data-menu-title="inicio" data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/cover.png"  data-background-size="contain" data-auto-animate="" data-menu-title="inicio" data-background-color="black" --> 
 <small>
 ROMANOS 1-8  <!-- .element: style="color:white;" -->
 Versión: Romanos 5.5
@@ -96,7 +96,7 @@ ___
 | **Resultados de Vivir Consistentemente una Vida Carnal** |**126**|
 
 # Romanos 1-8 <!-- .element: class="r-fit-text" -->
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom-intro.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="Introducción" data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/rom-intro.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="Introducción" data-background-color="black" --> 
 
 # I. Introducción
 

@@ -3002,102 +3002,102 @@ Colossians exalts Jesus Christ and shows that anything that takes you away from 
 
 ###### b. Sadly, when a believing husband does not give proper **<u>honor</u>** to the wife, their fellowship with God and each other gets hurt and their prayers go unanswered.
 
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/colossians/media/children.png" data-background-size="300px" data-background-position="left 50% bottom 65%" -->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/colossians/media/children.png" data-background-size="300px" data-background-position="left 50% bottom 85%" -->
 ## C. Colossians 3:20 -- Teachings for believing children (Eph.6:1-3)
 
-### 1. Colossians 3:20 --*Children, be obedient to your parents...* To believing children Paul gave **<u>one</u>** small command with huge implications. Proverbs 6:20
+### 1. Colossians 3:20 --*Children, be obedient to your parents...* To believing children Paul gave __<u>one</u>__ small command with huge implications. Proverbs 6:20
 
-#### a. Colossians 3:20a --*Children, be obedient...* The word *obedient* HUPAKOUO is a compound word made up of HUPO meaning under and AKOUO meaning to **<u>hear</u>** or listen.
+#### a. Colossians 3:20a --*Children, be obedient...* The word *obedient* HUPAKOUO is a compound word made up of HUPO meaning under and AKOUO meaning to __<u>hear</u>__ or listen.
 
-##### 1. In a literal sense,*obey* HUPAKOUO means to **<u>listen</u>** with submission or to hear in subjection.
+##### 1. In a literal sense,*obey* HUPAKOUO means to __<u>listen</u>__ with submission or to hear in subjection.
 
-##### 2. By implication, this command means Christian children are to **<u>heed</u>** their parents' commands as being under their authority.
+##### 2. By implication, this command means Christian children are to __<u>heed</u>__ their parents' commands as being under their authority.
 
-##### 3. The command to obey is **<u>straightforward</u>**. The verb *obey* is in the present tense, active voice and imperative mood.
+##### 3. The command to obey is __<u>straightforward</u>__. The verb *obey* is in the present tense, active voice and imperative mood.
 
-###### a. The present tense means that as a believing child you should obey **<u>right</u>** away, not wait till you feel like it. As the saying goes,"Delayed obedience is disobedience."
+###### a. The present tense means that as a believing child you should obey __<u>right</u>__ away, not wait till you feel like it. As the saying goes,"Delayed obedience is disobedience."
 
-###### b. The active **<u>voice</u>** means that the obedience is to be a proactive response.
+###### b. The active __<u>voice</u>__ means that the obedience is to be a proactive response.
 
-###### c. Lastly the imperative mood makes *obey* a **<u>direct</u>** command from God, commanding the Christian child to positively comply.
+###### c. Lastly the imperative mood makes *obey* a __<u>direct</u>__ command from God, commanding the Christian child to positively comply.
 
-#### b. Colossians 3:20 --*Children, be obedient **to your parents***. Notice the plural word *parents* here. The command is for the believing child to be obedient to **<u>both</u>** parents. Obviously broken homes make this difficult, but the spirit of this verse can be honored as the believing child trusts God.
+#### b. Colossians 3:20 --*Children, be obedient **to your parents**.* Notice the plural word *parents* here. The command is for the believing child to be obedient to __<u>both</u>__ parents. Obviously broken homes make this difficult, but the spirit of this verse can be honored as the believing child trusts God.
 
-#### c. Colossians 3:20 --*Children, be obedient to your parents **in [all</u> things**...*
+#### c. Colossians 3:20 --*Children, be obedient to your parents **in**  __<u>all</u>__ **things**...*
 
-##### 1. Children are to obey their parents in **<u>every</u>** way.
+##### 1. Children are to obey their parents in  __<u>every</u>__ way.
 
-###### a. When a child is told to study, clean up, brush teeth, wash dishes, or anything else around the house, it is his or her job to obey **<u>right</u>** away.
+###### a. When a child is told to study, clean up, brush teeth, wash dishes, or anything else around the house, it is his or her job to obey  __<u>right</u>__ away.
 
-###### b. Obedience in all things is the biblical **<u>duty</u>** of every believing child.
+###### b. Obedience in all things is the biblical  __<u>duty</u>__ of every believing child.
 
-##### 2. At this point there is usually a question about unconditional obedience. What if your parents ask you to do something that is clearly **<u>wrong</u>**? What is the Christian young person to do in such a situation?"
+##### 2. At this point there is usually a question about unconditional obedience. What if your parents ask you to do something that is clearly  __<u>wrong</u>__? What is the Christian young person to do in such a situation?"
 
-###### a. If your parents ask you to steal, lie, or **<u>break</u>** one of God's commands, you are to obey God rather than your parents. This would clearly be the exception not the rule. Acts 5:29
+###### a. If your parents ask you to steal, lie, or  __<u>break</u>__ one of God's commands, you are to obey God rather than your parents. This would clearly be the exception not the rule. Acts 5:29
 
-###### b. For a parent to ask a child to sin is rare, but it **<u>might</u>** happen. In such cases you, as a believer in Christ, would obey God's Word above the command of your parents, even if you were punished for it. As you honor the Lord, He will help you in difficult situations.(Study Daniel 3)
+###### b. For a parent to ask a child to sin is rare, but it  __<u>might</u>__ happen. In such cases you, as a believer in Christ, would obey God's Word above the command of your parents, even if you were punished for it. As you honor the Lord, He will help you in difficult situations.(Study Daniel 3)
 
-#### d. Colossians 3:20 --*Children, be obedient to your parents in all things,**for this is well-pleasing to the [Lord</u>**.*
+#### d. Colossians 3:20 --*Children, be obedient to your parents in all things,**for this is well-pleasing to the**   __<u>Lord</u>__.*
 
-##### 1. The word *well-pleasing* EUARESTOS means fully agreeable. This means that God **<u>loves</u>** it when Christian children obey their moms and dads.
+##### 1. The word *well-pleasing* EUARESTOS means fully agreeable. This means that God  __<u>loves</u>__ it when Christian children obey their moms and dads.
 
-##### 2. Young believer, God wants you to obey this command by **<u>faith</u>** not feelings. It is His command to you and there is eternal value for you as you obey. You need to trust that whatever God commands you to do is best and good for you, and most of all it is pleasing to God.
+##### 2. Young believer, God wants you to obey this command by  __<u>faith</u>__ not feelings. It is His command to you and there is eternal value for you as you obey. You need to trust that whatever God commands you to do is best and good for you, and most of all it is pleasing to God.
 
-##### 3. Positive responses to God's mandate will not only benefit you in the short term but will also set your life on a **<u>path</u>** of positive growth. Deuteronomy 5:16, Proverbs 6:20-23
+##### 3. Positive responses to God's mandate will not only benefit you in the short term but will also set your life on a  __<u>path</u>__ of positive growth. Deuteronomy 5:16, Proverbs 6:20-23
 
-##### 4. Submission to authority is one of the most important things you can **<u>learn</u>**. It will not only bless you personally but will also help you in the future in your community, job, church, ministry, marriage and family. Proverbs 3:21-23, Exodus 20:12
+##### 4. Submission to authority is one of the most important things you can  __<u>learn</u>__. It will not only bless you personally but will also help you in the future in your community, job, church, ministry, marriage and family. Proverbs 3:21-23, Exodus 20:12
 
-### 2. Ephesians 6:1-3 -- Let's consider another passage in the New Testament concerning Christian **<u>children</u>**.
+### 2. Ephesians 6:1-3 -- Let's consider another passage in the New Testament concerning Christian __<u>children</u>__.
 
-#### a. Ephesians 6:1 -- Paul essentially gave the **<u>same</u>** command to the Ephesian children as to the Colossians when he said,"*Children, obey your parents in the Lord, for this is right.*"
+#### a. Ephesians 6:1 -- Paul essentially gave the  __<u>same</u>__ command to the Ephesian children as to the Colossians when he said,"*Children, obey your parents in the Lord, for this is right.*"
 
-##### 1. Ephesians 6:1a --*Children obey...* Here we hear the same basic command to **<u>obey</u>** your parents restated.
+##### 1. Ephesians 6:1a --*Children obey...* Here we hear the same basic command to  __<u>obey</u>__ your parents restated.
 
-##### 2. Ephesians 6:1b -- Paul added the phrase,"*In the **<u>Lord</u>***," to his command. This phrase sometimes creates questions.
+##### 2. Ephesians 6:1b -- Paul added the phrase,"*In the  __<u>Lord</u>__*," to his command. This phrase sometimes creates questions.
 
-###### a. This does not mean that you are to obey your parents only if they are Christians, as some have concluded. The command to obey has nothing to do with whether or not your **<u>parents</u>** are believers. You must obey them regardless of their spiritual state.
+###### a. This does not mean that you are to obey your parents only if they are Christians, as some have concluded. The command to obey has nothing to do with whether or not your  __<u>parents</u>__ are believers. You must obey them regardless of their spiritual state.
 
-###### b. So what does *in the Lord* mean? *In the Lord* and as a believer are synonymous statements.*In the Lord* means because you **<u>belong</u>** to God.
+###### b. So what does *in the Lord* mean? *In the Lord* and as a believer are synonymous statements.*In the Lord* means because you  __<u>belong</u>__ to God.
 
-###### c. Of course all children ought to obey their parents, but Paul and the apostles never sought to **<u>correct</u>** the unsaved multitudes. Their focus was always specifically on those who are *in the Lord*, speaking specifically of believers.
+###### c. Of course all children ought to obey their parents, but Paul and the apostles never sought to  __<u>correct</u>__ the unsaved multitudes. Their focus was always specifically on those who are *in the Lord*, speaking specifically of believers.
 
-##### 3. Ephesians 6:1c -- We have the phrase ...*for this is **<u>right</u>***.
+##### 3. Ephesians 6:1c -- We have the phrase ...*for this is  __<u>right</u>__.*
 
-###### a. Simply put, this means that this is your Christian **<u>duty</u>**, or the right thing to do. God's will for the young believer is obedience to parents.
+###### a. Simply put, this means that this is your Christian  __<u>duty</u>__, or the right thing to do. God's will for the young believer is obedience to parents.
 
-###### b. While the command to obey is for **<u>minors</u>**, the directive to honor your parents remains constant for life. Exodus 20:12
+###### b. While the command to obey is for  __<u>minors</u>__, the directive to honor your parents remains constant for life. Exodus 20:12
 
-###### c. Once you get married, your loyalty is to change from your parents to your spouse. Implicitly the command to obey ends there, however as believers we should never **<u>stop</u>** honoring our parents. Genesis 2:24
+###### c. Once you get married, your loyalty is to change from your parents to your spouse. Implicitly the command to obey ends there, however as believers we should never  __<u>stop</u>__ honoring our parents. Genesis 2:24
 
-#### b. Ephesians 6:2 -- Paul reiterated his command to Christian children by quoting from the Ten Commandments.***<u>Honor</u>** your father and mother, which is the first commandment with a promise*.
+#### b. Ephesians 6:2 -- Paul reiterated his command to Christian children by quoting from the Ten Commandments.  *__<u>Honor</u>__ your father and mother, which is the first commandment with a promise.*
 
-##### 1. Unlike the command to obey, this command to honor our parents must be remembered until **<u>death</u>**.
+##### 1. Unlike the command to obey, this command to honor our parents must be remembered until  __<u>death</u>__.
 
-##### 2. It is interesting that the apostle did not tell children to honor their parents if they **<u>deserve</u>** it. All believers are to honor their parents because that is God's will for them.
+##### 2. It is interesting that the apostle did not tell children to honor their parents if they  __<u>deserve</u>__ it. All believers are to honor their parents because that is God's will for them.
 
-#### c. Ephesians 6:3 -- The command to honor our parents comes with a blessed promise: *So that it may be well with you, and that you may **<u>live</u>** long on the earth.*
+#### c. Ephesians 6:3 -- The command to honor our parents comes with a blessed promise: *So that it may be well with you, and that you may  __<u>live</u>__ long on the earth.*
 
-##### 1. In the wisdom of God, He not only gave children the commands to obey and to honor their parents, but above and beyond, he gave **<u>two</u>** enormous incentives for faithful compliance.
+##### 1. In the wisdom of God, He not only gave children the commands to obey and to honor their parents, but above and beyond, he gave  __<u>two</u>__ enormous incentives for faithful compliance.
 
-###### a. First, he promised that life would go **<u>well</u>** for the child who honored his or her parents.
+###### a. First, he promised that life would go  __<u>well</u>__ for the child who honored his or her parents.
 
-###### b. Second, that child would go on to live a long **<u>life</u>** on the earth. Proverbs 3:1-2,4:10
+###### b. Second, that child would go on to live a long  __<u>life</u>__ on the earth. Proverbs 3:1-2,4:10
 
-##### 2. We probably all know of individuals who honored their parents but **<u>died</u>** young. Conversely we probably also know of some people who were dishonoring to their parents and lived to be very old. Why?
+##### 2. We probably all know of individuals who honored their parents but  __<u>died</u>__  young. Conversely we probably also know of some people who were dishonoring to their parents and lived to be very old. Why?
 
-###### a. Simply put, situations like these are exceptions, not the **<u>general</u>** rule. The general principle remains that those who honor their parents have long prosperous lives while rebellion shortens a life.
+###### a. Simply put, situations like these are exceptions, not the  __<u>general</u>__  rule. The general principle remains that those who honor their parents have long prosperous lives while rebellion shortens a life.
 
-###### b. Proverbs 3:1-2 --*My son, do not forget my teaching, but let your heart **<u>keep</u>** my commandments; for length of days and years of life and peace they will add to you.*
+###### b. Proverbs 3:1-2 --*My son, do not forget my teaching, but let your heart  __<u>keep</u>__  my commandments; for length of days and years of life and peace they will add to you.*
 
-###### c. Your decision by faith to honor your parents will set you on a path to blessing in **<u>life</u>**. Proverbs 12:28
+###### c. Your decision by faith to honor your parents will set you on a path to blessing in __<u>life</u>__. Proverbs 12:28
 
-##### 3. Conclusion: Children are not **<u>able</u>** to obey this command consistently and with a proper attitude by human determination alone.
+##### 3. Conclusion: Children are not  __<u>able</u>__  to obey this command consistently and with a proper attitude by human determination alone.
 
-###### a. Believing children do well to trust the Lord for the strength to obey and honor their parents. Without God's enabling **<u>grace</u>** even the simplest commands are impossible. John 15:4-5
+###### a. Believing children do well to trust the Lord for the strength to obey and honor their parents. Without God's enabling  __<u>grace</u>__  even the simplest commands are impossible. John 15:4-5
 
-###### b. Young people, in your relationship with your parents you need to **<u>trust</u>** God to give you the desire and the power to honor and obey with a good attitude. Philippians 2:12-13
+###### b. Young people, in your relationship with your parents you need to  __<u>trust</u>__ God to give you the desire and the power to honor and obey with a good attitude. Philippians 2:12-13
 
-## D.**Colossians 3:21 -- Teaching for believing parents (Eph.6:4)**
+## D. Colossians 3:21 -- Teaching for believing parents (Eph.6:4)
 
 ### 1. Colossians 3:21 --*Fathers, do not exasperate your children, so that they will not **<u>lose</u>** heart*. Paul commanded parents not to create **discouragement** in their children.
 
