@@ -4623,8 +4623,4 @@ ___
  </g>
 </svg> 
 
-<section id="examen" data-state="no-toc-progress">
-   <script data-quiz >
-      quiz = {};
-   </script>
-</section>
+<!-- .slide: data-background-iframe="https://quizizz.com/join" id="examen_quiz_" data-menu-title="QUIZ" data-preload -->
