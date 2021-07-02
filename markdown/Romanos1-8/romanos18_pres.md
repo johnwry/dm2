@@ -491,7 +491,7 @@ ___
  </g>
 </svg>
 
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/colosseum_old.png" data-background-size="500px" data-background-position="right" data-background-opacity="0.5" -->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/colosseum_old.png" data-background-size="500px" data-background-position="right" data-background-opacity="0.5" -->
 ## B. La ciudad de Roma
 
 ### 1. Cuando el libro de Romanos fue escrito, Roma era la **<u>capital</u>** del Imperio Romano y la ciudad más influyente sobre la tierra. De hecho, Roma gobernaba todo el mundo conocido de aquel momento, y esta dominación de expansión posibilitó un periodo de paz conocido históricamente como la Pax Romana (en latín para Paz Romana). 
@@ -500,27 +500,27 @@ ___
 
 
 
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/aqueduct.png" data-background-size="400px" data-background-position="left" data-background-opacity="0.5" -->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/aqueduct.png" data-background-size="400px" data-background-position="left" data-background-opacity="0.5" -->
 ### 3. El Imperio Romano no solamente construyó canales y **<u>caminos</u>**, también promovió el griego como lengua unificadora. Gálatas 4:4 
 
 
 
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/colosseum-down.png" data-background-size="300px" data-background-position="right" data-background-opacity="0.5" -->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/colosseum-down.png" data-background-size="300px" data-background-position="right" data-background-opacity="0.5" -->
 ### 4. La ciudad era bien conocida por sus imponentes edificios públicos, música refinada y entretenimiento. También era conocida por sus concursos de gladiadores inmortales y peleas de animales brutales, donde tanto hombres como animales a menudo eran obligados a **<u>luchar</u>** hasta la muerte. 
 
 
 
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/roman-centurion.png" data-background-size="300px" data-background-position="left" data-background-opacity="0.5" -->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/roman-centurion.png" data-background-size="300px" data-background-position="left" data-background-opacity="0.5" -->
 ### 5. Roma se jactaba de contar con una prestigiosa unidad militar llamada Guardia Pretoriana. La Guardia Pretoriana era una unidad **<u>élite</u>** de soldados que luego sirvió como guardaespaldas del emperador. Eventualmente, sin embargo, se convirtió en una institución traidora, incluso derrocando emperadores y nombrando sucesores. 
 
 
 
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/claudius.png" data-background-size="300px" data-background-position="left" data-background-opacity="0.5" -->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/claudius.png" data-background-size="300px" data-background-position="left" data-background-opacity="0.5" -->
 ### 6. Aunque Claudio había expulsado a todos los **<u>judíos</u>** que no eran ciudadanos de Roma en el año 50 d. C., hubo muchos judíos con ciudadanía romana que continuaron viviendo en la ciudad. Hechos 18:2 
 
 
 
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/paul.jpeg" data-background-size="400px" data-background-position="right" data-background-opacity="0.7"-->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/paul.jpeg" data-background-size="400px" data-background-position="right" data-background-opacity="0.7"-->
 ## C. Autor, localización y fecha de escritura
 
 ### 1. Autor: Es comúnmente aceptado que **<u>Pablo</u>** fue el autor del libro de Romanos. 
@@ -529,7 +529,7 @@ ___
 
 #### b. En Romanos 11:1, el autor afirmó ser de la tribu de Benjamín. También sabemos que Pablo era de la **<u>tribu</u>** de Benjamín por Filipenses 3:5 
 
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/ship.png" data-background-size="400px" data-background-position="right" data-background-opacity="0.5"-->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/ship.png" data-background-size="400px" data-background-position="right" data-background-opacity="0.5"-->
 #### c. Los planes de viaje y ministerio de Pablo descritos en Hechos coinciden con los **<u>planes</u>** expresados en Romanos. Hechos 19:21; Romanos 1:10-13, 15; 15:22-32 
 
 ### 2. Localización: Pablo posiblemente escribió este libro desde la **<u>ciudad</u>** de Corinto. 
@@ -538,7 +538,7 @@ ___
 
 #### b. En Romanos 16:23, Pablo mencionó a Gayo como uno de sus compañeros en la **<u>escritura</u>** de Romanos. 1 Corintios 1:14 muestra que Gayo era de Corinto. 
 
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/coin.png" data-background-size="400px" data-background-position="left" data-background-opacity="0.5"-->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/coin.png" data-background-size="400px" data-background-position="left" data-background-opacity="0.5"-->
 #### c. Pablo también mencionó a Erasto, el tesorero de la ciudad. En tiempos recientes, un **<u>adoquín</u>** que data de esa época y que lleva el nombre de Erasto fue descubierto en Corinto. Se cree que es la misma persona. 
 
 ### 3. Fecha: Pablo posiblemente escribió este libro en el invierno o a inicios de la primavera del año 57 d.C., cerca del final de su tercer **<u>viaje</u>** misionero. Esto habría sido justo antes de su viaje de regreso a Jerusalén, en el que llevó una ofrenda de las iglesias de Macedonia y Acaya a los cristianos pobres de Jerusalén. 1 Corintios 16:1-8, 2 Corintios 8:1-5 
@@ -568,7 +568,7 @@ ___
 
 ### 5. Curiosamente, al final del libro de Hechos, Pablo está bajo arresto domiciliario en la ciudad de **<u>Roma</u>**. Así que finalmente pudo ir a Roma, pero no de la forma que él hubiera deseado. Hechos 28:16 
 
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rome.png" data-background-size="300px" data-background-position="bottom" data-background-opacity="0.5" -->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/rome.png" data-background-size="300px" data-background-position="bottom" data-background-opacity="0.5" -->
 <i class="fas fa-book-reader"></i>
 ## E. Los destinatarios del libro  
 
@@ -576,7 +576,7 @@ ___
 
 ### 2. Las iglesias en Roma consistían tanto de creyentes judíos como **<u>gentiles</u>** (Romanos 16:7, 11). A pesar de que Roma era una ciudad gentil y la capital de un vasto imperio, se jactaba de una gran población judía de ciudadanos romanos. Hechos 28:17-29; Romanos 1:5, 13; 11:13 
 
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/scroll.png" data-background-size="300px" data-background-position="left" data-background-opacity="0.5"-->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/scroll.png" data-background-size="300px" data-background-position="left" data-background-opacity="0.5"-->
 ### 3. Al final del libro, Pablo saludó específicamente a 28 personas por su **<u>nombre</u>**, junto con varios grupos de personas. 
 
 <i class="fas fa-book-open"></i>
@@ -595,7 +595,7 @@ ___
 <i class="fas fa-cloud-upload-alt"></i>
 #### c. Glorificación: Esta es la finalización de la obra de Dios en la vida del creyente. Esto sucederá en el rapto cuando el creyente sea hecho **<u>completamente</u>** justo. Romanos 8:18-39, 1 Corintios 15:50-57, Filipenses 1:6 
 
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/jew.png" data-background-size="300px" data-background-position="left" data-background-opacity="0.5"-->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/jew.png" data-background-size="300px" data-background-position="left" data-background-opacity="0.5"-->
 ### 3. En los capítulos 9-11 de Romanos, la justicia de Dios es vista en Su fidelidad para con Su pueblo **<u>Israel</u>**. Estos tres capítulos explican el estado pasado, presente y futuro de Israel. 
 
 ### 4. En Romanos capítulos 12-16, la justicia de Dios es vivida por el pueblo de Dios a través de numerosas relaciones **<u>humanas</u>**.
@@ -656,9 +656,9 @@ ___
  </g>
 </svg>
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom1.1-7.jpeg" data-auto-animate="" data-background-size="contain"  data-menu-title="Romanos 1:1-17 Dirigiéndose a la Iglesia en Roma" data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/rom1.1-7.jpeg" data-auto-animate="" data-background-size="contain"  data-menu-title="Romanos 1:1-17 Dirigiéndose a la Iglesia en Roma" data-background-color="black" --> 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="contain" data-auto-animate="" data-background-color="white" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/outline.png"  data-background-size="contain" data-auto-animate="" data-background-color="white" --> 
 
 # II. Romanos 1:1-17 – Dirigiéndose a la Iglesia en Roma <!-- .element: class="r-fit-text" -->
 
@@ -703,7 +703,7 @@ ___
 
 ##### 2) La humanidad de Cristo es muy importante, tenía que ser **<u>completamente</u>** humano a fin de morir como un sustituto idóneo para las personas. 1 Timoteo 2:5; Hebreos 2:17, 9:12
 
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/lamb.png" data-background-size="200px" data-background-position="left" data-background-opacity="0.5"-->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/lamb.png" data-background-size="200px" data-background-position="left" data-background-opacity="0.5"-->
 ###### a) Un animal **<u>jamás</u>** funcionó como un sustituto aceptable para la humanidad. Era necesario un humano justo. Juan 1:29; Hebreos 10:1-4, 11
 
 ###### b) Un ángel (ser espiritual) tampoco podía **<u>morir</u>** como sustituto de la humanidad. Solo un humano justo podría ser suficiente como sustituto de los humanos injustos. Romanos 5:17, Gálatas 3:13, 1 Corintios 15:21
@@ -748,9 +748,9 @@ ___
 
 ##### 2) Romanos 1:7d – “*…de Dios nuestro Padre y del Señor Jesucristo.*” La verdadera gracia y paz provienen solo de Dios el Padre y de Dios el Hijo. Aunque el Espíritu Santo no es mencionado aquí, Él es el que silenciosamente administra estas bendiciones en la **<u>vida</u>** de los creyentes. Romanos 8:11, 15:13; 2 Corintios 13:14
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom1.8-15.jpeg"  data-background-size="contain" data-auto-animate="" data-menu-title="Romanos 1:8-15 - Amor por los Romanos" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/rom1.8-15.jpeg"  data-background-size="contain" data-auto-animate="" data-menu-title="Romanos 1:8-15 - Amor por los Romanos" --> 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="contain" data-background-image="white" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/outline.png"  data-background-size="contain" data-background-image="white" --> 
 
 ## B. Romanos 1:8-15 – Amor por los Romanos  <i class="fas fa-hands-helping"></i>
 
@@ -808,7 +808,7 @@ ___
 
 #### h. Romanos 1:15 – “*Así que, en cuanto a mí, pronto estoy a anunciaros el evangelio también a vosotros que estáis en Roma.*” Aunque Pablo anhelaba visitar la iglesia en Roma, la cual incluía personas de un **<u>estatus</u>** social más alto que la mayoría de las iglesias, él sentía una responsabilidad hacia todas las personas, sin importar cuál era su posición social en la vida.
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom1.16-17.001.jpeg"  data-background-size="contain" data-auto-animate="" data-menu-title="Romanos 1:16-17 - Una pasión por el Evangelio" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/rom1.16-17.001.jpeg"  data-background-size="contain" data-auto-animate="" data-menu-title="Romanos 1:16-17 - Una pasión por el Evangelio" --> 
 
 ## C. Romanos 1:16-17 – Una pasión por el evangelio 
 
@@ -846,17 +846,17 @@ ___
 
 ##### 2) ¿Qué significa la palabra justo? En hebreo es la palabra TSADDIYQ (pronunciada sa-dik), significa justo o legal. En griego, la palabra es DIKAIOS (pronunciado di-ka-yos), significa justo o sin culpa, específicamente justo a los ojos de Dios o sin culpa a la **<u>vista</u>** de Dios.
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom1.18-32.jpg"  data-background-size="contain" data-auto-animate="" data-menu-title="Romanos 1:18-32 - Amor por los Romanos" data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/rom1.18-32.jpg"  data-background-size="contain" data-auto-animate="" data-menu-title="Romanos 1:18-32 - Amor por los Romanos" data-background-color="black" --> 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="contain" data-background-color="white" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/outline.png"  data-background-size="contain" data-background-color="white" --> 
 
 # III. Romanos 1:18-3:20 – La Justicia de Dios hacia los Pecadores <!-- .element: class="r-fit-text" -->
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-caminos/3-caminos.001.jpeg"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/3-caminos/3-caminos.001.jpeg"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-caminos/3-caminos.002.jpeg"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/3-caminos/3-caminos.002.jpeg"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-caminos/3-caminos.003.jpeg"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/3-caminos/3-caminos.003.jpeg"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
 
 ## A. Romanos 1:18-32 – El juicio de Dios del pecador inmoral <i class="fas fa-balance-scale"></i>
 
@@ -888,7 +888,7 @@ ___
 
 ##### 2) Romanos 1:20b – “*…siendo entendidas por medio de las cosas **<u>hechas</u>**, de modo que no tienen excusa.*”
 
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/mona-lisa.png" data-background-size="200px" data-background-position="left" data-background-opacity="0.5"-->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/mona-lisa.png" data-background-size="200px" data-background-position="left" data-background-opacity="0.5"-->
 ###### a) Todo el mundo sabe que una hermosa pintura es obra de un gran artista. La literatura bien escrita **<u>refleja</u>** a un autor talentoso, y estructuras magníficas, son levantadas por constructores expertos, arquitectos brillantes e ingenieros habilidosos.
 
 ###### b) Esto demuestra que cuando las personas no reconocen la grandeza, majestad y sabiduría obvias del Creador del universo, no tienen **<u>excusa</u>**. Proverbios 30:4, Jeremías 10:11-13
@@ -951,15 +951,15 @@ ___
 
 #### d. Romanos 1:32d – “*…sino que también se complacen con los que las practican.*”  Lamentablemente, el                     **<u>pecador</u>**  inmoral incluso llega tan lejos como animar a otros a hacer las cosas que él o ella sabe que merecen la muerte.
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom2.1-16.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="Romanos 2:1-16 - El juicio de Dios por el pecador moral" data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/rom2.1-16.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="Romanos 2:1-16 - El juicio de Dios por el pecador moral" data-background-color="black" --> 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="contain" data-background-color="white" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/outline.png"  data-background-size="contain" data-background-color="white" --> 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-caminos/3-caminos.001.jpeg"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/3-caminos/3-caminos.001.jpeg"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-caminos/3-caminos.002.jpeg"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/3-caminos/3-caminos.002.jpeg"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-caminos/3-caminos.003.jpeg"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/3-caminos/3-caminos.003.jpeg"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
 
 <i class="fas fa-gavel"></i>
 ## B. Romanos 2:1-16 – El juicio de Dios del pecador moral 
@@ -1012,15 +1012,15 @@ ___
 
 #### d. Romanos 2:16 – En el futuro, en el Juicio del Gran Trono Blanco, usando la conciencia como testigo, Cristo revelará los **<u>secretos</u>** de la gente. “*en el día en que Dios juzgará por Jesucristo los secretos de los hombres, conforme a mi evangelio.*” Los pecadores morales serán condenados porque Dios es consciente de todos sus pensamientos y pecados secretos. 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom2.17-16.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="Romanos 2:17-29 - El juicio de Dios sobre el pecador religioso"  data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/rom2.17-16.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="Romanos 2:17-29 - El juicio de Dios sobre el pecador religioso"  data-background-color="black" --> 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="70%" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/outline.png"  data-background-size="70%" --> 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-caminos/3-caminos.001.jpeg"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/3-caminos/3-caminos.001.jpeg"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-caminos/3-caminos.002.jpeg"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/3-caminos/3-caminos.002.jpeg"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-caminos/3-caminos.003.jpeg"  data-background-size="contain" data-auto-animate="" data-background-color="black" -->
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/3-caminos/3-caminos.003.jpeg"  data-background-size="contain" data-auto-animate="" data-background-color="black" -->
 
 <i class="fas fa-scroll"></i>
 ## C. Romanos 2:17-29 – El juicio de Dios sobre el pecador religioso 
@@ -1101,9 +1101,9 @@ ___
 
 ##### 3) Romanos 2:29b – “*…la alabanza del cual no viene de los hombres, sino de Dios.*” Solo la persona nacida de nuevo que ha recibido cirugía espiritual en su corazón por medio del Espíritu Santo trae **<u>honor</u>** a Dios. Efesios 1:13-14
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom3.1-8.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="Romanos 3:1-8 - Pablo anticipó preguntas concernientes a los pecadores"  data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/rom3.1-8.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="Romanos 3:1-8 - Pablo anticipó preguntas concernientes a los pecadores"  data-background-color="black" --> 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="contain" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/outline.png"  data-background-size="contain" --> 
 
 ## D. Romanos 3:1-8 – Pablo anticipó preguntas concernientes a los pecadores religiosos <i class="far fa-question-circle"></i>
 
@@ -1149,9 +1149,9 @@ ___
 
 ##### 2) Si los legalistas religiosos no te acusan de esta manera, probablemente necesites verificar para ver si realmente estás enseñando la **<u>gracia</u>**.
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom3.9-20.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="Romanos 3:9-20 - En conclusion: Todo el mundo es culpable de pecado"  data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/rom3.9-20.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="Romanos 3:9-20 - En conclusion: Todo el mundo es culpable de pecado"  data-background-color="black" --> 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="contain" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/outline.png"  data-background-size="contain" --> 
 
 <i class="fas fa-balance-scale-right"></i>
 ## E. Romanos 3:9-20 – En conclusión: Todo el mundo es culpable de pecado.   
@@ -1208,7 +1208,7 @@ ___
 
 #### e. Romanos 3:20b – “*…porque por medio de la ley es el conocimiento del pecado.*” El propósito de la Ley es **<u>mostrar</u>** la pecaminosidad de la humanidad. 1 Timoteo 1:8-11
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/derecho.jpg" data-auto-animate="" data-background-size="contain"  data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/derecho.jpg" data-auto-animate="" data-background-size="contain"  data-background-color="black" --> 
 
  <i class="fas fa-file-contract"></i>
 ## F. Hagamos un viaje por la Escuela del Derecho. 
@@ -1313,9 +1313,9 @@ ___
 
 #### j. **Ley #10** – “*No **<u>codiciarás</u>**…cosa alguna de tu prójimo*” (Ex. 20:17). Desear lo que le pertenece a otra persona es pecado. Dios quiere que estés contento con lo que tienes. Proverbios 27:20, Hebreos 13:5
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom3.21-31.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="Romanos 3:21-31 - Justificación: Declarado Legalmente Justo Delante de Dios"  data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/rom3.21-31.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="Romanos 3:21-31 - Justificación: Declarado Legalmente Justo Delante de Dios"  data-background-color="black" --> 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="contain" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/outline.png"  data-background-size="contain" --> 
 
 # IV.Romanos 3:21-5:11 – Justificación: Declarado Legalmente Justo Delante de Dios <!-- .element: class="r-fit-text" -->
 
@@ -1406,49 +1406,49 @@ ___
 
 #### b.	Romanos 3:31b – Sino que confirmamos la ley. Cuando enseñamos la justificación por fe en la muerte sustitutiva de Cristo, en realidad confirmamos la autoridad de la Ley, ya que estamos de acuerdo con la Ley de que la paga por el pecado es la **<u>muerte</u>**. Romanos 6:23
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.001.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/3-tiempos/3_tiempos.001.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.002.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/3-tiempos/3_tiempos.002.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.003.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" -->
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/3-tiempos/3_tiempos.003.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" -->
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.004.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/3-tiempos/3_tiempos.004.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.005.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" -->
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/3-tiempos/3_tiempos.005.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" -->
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.006.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" -->
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/3-tiempos/3_tiempos.006.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" -->
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.007.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" -->
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/3-tiempos/3_tiempos.007.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" -->
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.008.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/3-tiempos/3_tiempos.008.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.009.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/3-tiempos/3_tiempos.009.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.010.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/3-tiempos/3_tiempos.010.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.011.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/3-tiempos/3_tiempos.011.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.012.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/3-tiempos/3_tiempos.012.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.013.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/3-tiempos/3_tiempos.013.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.014.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/3-tiempos/3_tiempos.014.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.015.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/3-tiempos/3_tiempos.015.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.016.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/3-tiempos/3_tiempos.016.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.017.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" -->
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/3-tiempos/3_tiempos.017.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" -->
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.018.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" -->
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/3-tiempos/3_tiempos.018.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" -->
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3_tiempos.019.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/3_tiempos.019.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3_tiempos.020.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/3_tiempos.020.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom4.1-9.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="Romanos 4:1-25 - Ejemplos del Antiguo Testamento de la justificación por la fe"  data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/rom4.1-9.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="Romanos 4:1-25 - Ejemplos del Antiguo Testamento de la justificación por la fe"  data-background-color="black" --> 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="contain" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/outline.png"  data-background-size="contain" --> 
 
 ## B.	Romanos 4:1-25 – Ejemplos del Antiguo Testamento de la justificación por la fe <i class="fas fa-star-of-david"></i>
 
@@ -1504,11 +1504,11 @@ ___
 
 ##### 3) Hoy en día, el objeto de nuestra fe es todavía el Mesías, Jesucristo, quien vino y murió por nuestros pecados y resucitó. Dios **<u>atribuye</u>** justicia a toda persona que cree en él. Juan 6:29, Romanos 4:23-25, 2 Timoteo 1:2
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/por-fe/por-fe2.001.png" data-auto-animate="" data-background-size="contain"   --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/por-fe/por-fe2.001.png" data-auto-animate="" data-background-size="contain"   --> 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/por-fe/por-fe2.002.png" data-auto-animate="" data-background-size="contain"   --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/por-fe/por-fe2.002.png" data-auto-animate="" data-background-size="contain"   --> 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/por-fe/por-fe2.003.png" data-auto-animate="" data-background-size="contain"   --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/por-fe/por-fe2.003.png" data-auto-animate="" data-background-size="contain"   --> 
 
 #### h. Romanos 4:5c – “*...que justifica al impío,…*” Abraham se regocijó al saber que Dios declara al pecador justo con Él a través de la fe, no como una recompensa por ser una **<u>buena</u>** persona.
 
@@ -1530,7 +1530,7 @@ ___
 
 #### b. Romanos 4:9b – “*…Porque decimos que a Abraham le fue contada la fe por justicia.*” ¿Era Abraham un judío cuando Dios lo justificó? ¡No! En Génesis 15:6, cuando Dios lo declaró justo por fe, Abraham todavía era un gentil incircunciso. Esto significa que judíos y gentiles **<u>por igual</u>**, pueden ser justificados por fe.
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom4.10-25.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="Romanos 4:10-12 - La justificación de Abraham por fe..."  data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/rom4.10-25.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="Romanos 4:10-12 - La justificación de Abraham por fe..."  data-background-color="black" --> 
 
 ### 4. Romanos 4:10-12 – La justificación de Abraham por fe prueba que la justificación está aparte de cualquier tipo de **<u>ritual</u>**. Génesis 17:9-14, 23-27
 
@@ -1548,7 +1548,7 @@ ___
 
 ##### 2) Los rituales religiosos no salvan a la gente. Una persona es justificada ante Dios al creer en el Hijo de Dios quien **<u>murió</u>** como sacrificio por sus pecados y resucitó al tercer día.
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="contain" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/outline.png"  data-background-size="contain" --> 
 
 #### d. Romanos 4:12 – Muchos israelitas confiaron en su circuncisión para la salvación. Pablo señaló su error cuando se refirió a Abraham como “*…**<u>padre</u>** de la circuncisión, para los que no solamente son de la circuncisión, sino que también siguen las pisadas de la fe que tuvo nuestro padre Abraham antes de ser circuncidado.*”
 
@@ -1624,49 +1624,49 @@ ___
 
 ##### 3) ¿Has creído personalmente en el Evangelio, confiando en Cristo, que Él murió por tus pecados y resucitó al tercer día? 1 Juan 5:13
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom5.1-11.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="Romanos 5:1-11 - Las bendiciones inmerecidas de la justificación por fe"  data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/rom5.1-11.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="Romanos 5:1-11 - Las bendiciones inmerecidas de la justificación por fe"  data-background-color="black" --> 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.001.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/3-tiempos/3_tiempos.001.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.002.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/3-tiempos/3_tiempos.002.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.003.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" -->
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/3-tiempos/3_tiempos.003.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" -->
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.004.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/3-tiempos/3_tiempos.004.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.005.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" -->
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/3-tiempos/3_tiempos.005.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" -->
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.006.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" -->
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/3-tiempos/3_tiempos.006.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" -->
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.007.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" -->
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/3-tiempos/3_tiempos.007.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" -->
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.008.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/3-tiempos/3_tiempos.008.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.009.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/3-tiempos/3_tiempos.009.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.010.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/3-tiempos/3_tiempos.010.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.011.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/3-tiempos/3_tiempos.011.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.012.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/3-tiempos/3_tiempos.012.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.013.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/3-tiempos/3_tiempos.013.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.014.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/3-tiempos/3_tiempos.014.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.015.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/3-tiempos/3_tiempos.015.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.016.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/3-tiempos/3_tiempos.016.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.017.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" -->
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/3-tiempos/3_tiempos.017.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" -->
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.018.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" -->
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/3-tiempos/3_tiempos.018.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" -->
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3_tiempos.019.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/3_tiempos.019.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3_tiempos.020.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/3_tiempos.020.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="contain"  data-background-color="white" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/outline.png"  data-background-size="contain"  data-background-color="white" --> 
 
 ## C. Romanos 5:1-11 – Las bendiciones inmerecidas de la justificación por fe  <i class="fas fa-gift"></i>
 
@@ -1780,9 +1780,9 @@ ___
 
 #### b. Romanos 5:11b – “*…por el Señor nuestro Jesucristo, por quien hemos recibido ahora la reconciliación.*” Nos regocijamos porque Jesucristo **<u>ganó</u>** la aceptación de Dios por nosotros.
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom5.12-21.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="Romanos 5:12-21 - La Doctrina de la Identificación: El Acceso a la Santificación"  data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/rom5.12-21.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="Romanos 5:12-21 - La Doctrina de la Identificación: El Acceso a la Santificación"  data-background-color="black" --> 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="contain"  data-background-color="white" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/outline.png"  data-background-size="contain"  data-background-color="white" --> 
 
 # V. Romanos 5:12-21 – La Doctrina de la Identificación: El Acceso a la Santificación <!-- .element: class="r-fit-text" -->
 
@@ -1872,49 +1872,49 @@ ___
 
 ### 3. Romanos 5:21 – "*para que así como el pecado reinó para muerte, así también la gracia reine por la justicia para vida eterna mediante Jesucristo, Señor nuestro.*” El **<u>pecado</u>** había ganado el control de la humanidad, causando la muerte. A través de la justicia de Cristo, la gracia vino y venció al pecado. La gracia proveyó un camino para que los pecadores fueran declarados justos y recibieran la vida eterna. Tito 2:11-13  
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom6.1-2.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="Romanos 6:1-10 - La Doctrina de la Santificación"  data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/rom6.1-2.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="Romanos 6:1-10 - La Doctrina de la Santificación"  data-background-color="black" --> 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.001.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/3-tiempos/3_tiempos.001.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.002.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/3-tiempos/3_tiempos.002.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.003.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" -->
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/3-tiempos/3_tiempos.003.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" -->
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.004.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/3-tiempos/3_tiempos.004.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.005.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" -->
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/3-tiempos/3_tiempos.005.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" -->
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.006.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" -->
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/3-tiempos/3_tiempos.006.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" -->
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.007.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" -->
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/3-tiempos/3_tiempos.007.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" -->
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.008.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/3-tiempos/3_tiempos.008.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.009.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/3-tiempos/3_tiempos.009.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.010.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/3-tiempos/3_tiempos.010.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.011.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/3-tiempos/3_tiempos.011.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.012.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/3-tiempos/3_tiempos.012.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.013.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/3-tiempos/3_tiempos.013.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.014.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/3-tiempos/3_tiempos.014.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.015.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/3-tiempos/3_tiempos.015.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.016.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/3-tiempos/3_tiempos.016.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.017.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" -->
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/3-tiempos/3_tiempos.017.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" -->
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.018.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" -->
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/3-tiempos/3_tiempos.018.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" -->
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3_tiempos.019.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/3_tiempos.019.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3_tiempos.020.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/3_tiempos.020.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="contain"  data-background-color="white" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/outline.png"  data-background-size="contain"  data-background-color="white" --> 
 
 # VI.Romanos 6:1-10 – La Doctrina de la Santificación - Verdad Posicional  <!-- .element: class="r-fit-text" -->
 
@@ -2013,9 +2013,9 @@ ___
 
 ##### 5) En conclusión, la única **<u>razón</u>** de Pablo para que no continuemos en el pecado fue simplemente porque *hemos muerto al pecado*.
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom6.3-5.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="Romanos 6:3-5 - Conociendo la historia de tu muerte al pecado con Cristo"  data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/rom6.3-5.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="Romanos 6:3-5 - Conociendo la historia de tu muerte al pecado con Cristo"  data-background-color="black" --> 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="contain"  data-background-color="white" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/outline.png"  data-background-size="contain"  data-background-color="white" --> 
 
 ## B. Romanos 6:3-5 – Conociendo la historia de tu muerte al pecado con Cristo
 
@@ -2059,7 +2059,7 @@ ___
 
 #### b. Si Dios considera que este hecho es verdadero acerca de ti, ¿no puedes hacer lo mismo hoy? Si **<u>fallas</u>** en reconocer y abrazar la verdad de que estás unido a Cristo en Su muerte y resurrección, tu crecimiento como cristiano será cohibido.
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom6.6-10.jpg" data-auto-animate="" data-background-size="contain"  data-background-color="white" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/rom6.6-10.jpg" data-auto-animate="" data-background-size="contain"  data-background-color="white" --> 
 
 ## C. Romanos 6:6-10 – Conociendo el significado de tu muerte al pecado con Cristo
 
@@ -2143,9 +2143,9 @@ ___
 
 #### c. Porque Dios ahora te identifica con el Cristo viviente, en Cristo no sólo estás muerto al pecado, sino también maravillosamente **<u>vivo</u>** para Dios. 2 Timoteo 2:11
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom6.11.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="Romanos 6:11-23 - La Doctrina de la Santificación - Haciendo Práctica la Santificación"  data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/rom6.11.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="Romanos 6:11-23 - La Doctrina de la Santificación - Haciendo Práctica la Santificación"  data-background-color="black" --> 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="contain"  data-background-color="white" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/outline.png"  data-background-size="contain"  data-background-color="white" --> 
 
 # VII. Romanos 6:11-23 – La Doctrina de la Santificación - Haciendo Práctica la Santificación <!-- .element: class="r-fit-text" -->
 
@@ -2199,7 +2199,7 @@ ___
 
 #### d. Estando vivo para Dios, eres capaz de **<u>agradar</u>** a Dios y vivir para Sus propósitos y gloria. Filipenses 1:21
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom6.12-14.jpg" data-auto-animate="" data-background-size="contain"  data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/rom6.12-14.jpg" data-auto-animate="" data-background-size="contain"  data-background-color="black" --> 
 
 <i class="fas fa-hands"></i>
 ## B. Romanos 6:12-14 – Presentando tus miembros  
@@ -2230,9 +2230,9 @@ ___
 
 ### 5. Romanos 6:14b – “*Porque el pecado no se enseñoreará de vosotros; pues …estáis …bajo la gracia.*” La vida *bajo la **<u>gracia</u>*** es superior. La gracia de Dios te guarda de convertirte en esclavo de la naturaleza de pecado. La gracia es el poder de Dios para cambiar nuestras vidas. Vive por gracia y la naturaleza de pecado no será tu amo. Tito 2:11
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom6.15-18.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="Romanos 6:15-18 - ¿Quien es tu señor?"  data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/rom6.15-18.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="Romanos 6:15-18 - ¿Quien es tu señor?"  data-background-color="black" --> 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="contain"  data-background-color="white" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/outline.png"  data-background-size="contain"  data-background-color="white" --> 
 
 ## C. Romanos 6:15-18 – ¿Quién es tu señor?
 
@@ -2270,7 +2270,7 @@ ___
 
 #### b. Romanos 6:18 – “ *y libertados del pecado, vinisteis a ser siervos de la justicia.*” Los creyentes romanos no solo deben haber entendido su libertad del **<u>pecado</u>**, sino que, obviamente, también contaron con ello por fe, porque Pablo dijo que ellos vinieron *a ser siervos de la justicia*.
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom6.19-23.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="Romanos 6:19-23 - La santificación hecha simple"  data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/rom6.19-23.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="Romanos 6:19-23 - La santificación hecha simple"  data-background-color="black" --> 
 
 <i class="fas fa-walking"></i>
 ## D. Romanos 6:19-23 – La santificación hecha simple
@@ -2307,9 +2307,9 @@ ___
 
 #### c. A la inversa, el resultado de presentarse ante Dios, basado en tu posición en Cristo de estar muerto al pecado y vivo para Dios, es el regocijo tanto de vida eterna como **<u>abundante</u>**. ¿Estás viviendo esta maravillosa vida eterna hoy? Juan 17:3, 1 Juan 1:3b-4
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom7.1-6.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="Romanos 7:1-25 - La Doctrina de la Santificación - Tu Nueva Relación con la Ley"  data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/rom7.1-6.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="Romanos 7:1-25 - La Doctrina de la Santificación - Tu Nueva Relación con la Ley"  data-background-color="black" --> 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="contain"  data-background-color="white" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/outline.png"  data-background-size="contain"  data-background-color="white" --> 
 
 # VIII. Romanos 7:1-25 – La Doctrina de la Santificación - Tu Nueva Relación con la Ley <!-- .element: class="r-fit-text" -->
 
@@ -2364,23 +2364,23 @@ ___
 
 #### d. Romanos 7:3b – “*…pero si su marido muriere, es libre de esa ley, de tal manera que, si se uniere a otro marido, no será adúltera.*” Pero si su esposo muere, ella queda **<u>libre</u>** de la ley del matrimonio y puede casarse legalmente con otro hombre.
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/ley-matrimonio/ley-matrimonio.001.jpeg"  data-background-size="contain"  data-background-color="black" data-auto-animate="" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/ley-matrimonio/ley-matrimonio.001.jpeg"  data-background-size="contain"  data-background-color="black" data-auto-animate="" --> 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/ley-matrimonio/ley-matrimonio.002.jpeg"  data-background-size="contain"  data-background-color="black" data-auto-animate="" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/ley-matrimonio/ley-matrimonio.002.jpeg"  data-background-size="contain"  data-background-color="black" data-auto-animate="" --> 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/ley-matrimonio/ley-matrimonio.003.jpeg"  data-background-size="contain"  data-background-color="black" data-auto-animate="" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/ley-matrimonio/ley-matrimonio.003.jpeg"  data-background-size="contain"  data-background-color="black" data-auto-animate="" --> 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/ley-matrimonio/ley-matrimonio.004.jpeg"  data-background-size="contain"  data-background-color="black" data-auto-animate="" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/ley-matrimonio/ley-matrimonio.004.jpeg"  data-background-size="contain"  data-background-color="black" data-auto-animate="" --> 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/ley-matrimonio/ley-matrimonio.005.jpeg"  data-background-size="contain"  data-background-color="black" data-auto-animate="" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/ley-matrimonio/ley-matrimonio.005.jpeg"  data-background-size="contain"  data-background-color="black" data-auto-animate="" --> 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/ley-matrimonio/ley-matrimonio.006.jpeg"  data-background-size="contain"  data-background-color="black" data-auto-animate="" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/ley-matrimonio/ley-matrimonio.006.jpeg"  data-background-size="contain"  data-background-color="black" data-auto-animate="" --> 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/ley-matrimonio/ley-matrimonio.007.jpeg"  data-background-size="contain"  data-background-color="black" data-auto-animate="" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/ley-matrimonio/ley-matrimonio.007.jpeg"  data-background-size="contain"  data-background-color="black" data-auto-animate="" --> 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/ley-matrimonio/ley-matrimonio.008.jpeg"  data-background-size="contain"  data-background-color="black" data-auto-animate="" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/ley-matrimonio/ley-matrimonio.008.jpeg"  data-background-size="contain"  data-background-color="black" data-auto-animate="" --> 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/ley-matrimonio/ley-matrimonio.009.jpeg"  data-background-size="contain"  data-background-color="black" data-auto-animate="" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/ley-matrimonio/ley-matrimonio.009.jpeg"  data-background-size="contain"  data-background-color="black" data-auto-animate="" --> 
 
 ### 3. Romanos 7:4 – Comprender esta enseñanza puede **<u>salvarte</u>** de una vida de legalismo. Puede liberarte de la inútil frustración de tratar de guardar los Diez Mandamientos o intentar seguir otras listas de qué se debe y no se debe hacer.
 
@@ -2420,9 +2420,9 @@ ___
 
 #### b. Romanos 7:6b – “*…de modo que sirvamos bajo el régimen nuevo del Espíritu y no bajo el régimen viejo de la letra.*” Esta frase bajo *el régimen viejo de la letra *se refiere a la Ley de Moisés. Ahora que estás bajo la **<u>gracia</u>**, no la Ley, y ahora que Cristo vive a través de ti, la vida puede ser verdaderamente gozosa y digna de ser vivida. 2 Corintios 5:17, 1 Juan 1:4
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom7.7-13.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="Romanos 7:7-13 - La vida bajo la ley"  data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/rom7.7-13.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="Romanos 7:7-13 - La vida bajo la ley"  data-background-color="black" --> 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="contain"  data-background-color="white" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/outline.png"  data-background-size="contain"  data-background-color="white" --> 
 
 <i class="fas fa-ring"></i>
 ## C. Romanos 7:7-13 – La vida bajo la Ley
@@ -2471,9 +2471,9 @@ ___
 
 ##### 2) Esta comprensión debería estimularte a **<u>presentar</u>** las partes de tu cuerpo como instrumentos de justicia para Dios, como Romanos 6 lo enseña. Juan 15:5, 2 Corintios 12:9-10
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom7.14-23.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="Romanos 7:14-23 - Una vida frustrada"  data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/rom7.14-23.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="Romanos 7:14-23 - Una vida frustrada"  data-background-color="black" --> 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="contain"  data-background-color="white" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/outline.png"  data-background-size="contain"  data-background-color="white" --> 
 
 <i class="fas fa-tired"></i>
 ## D. Romanos 7:14-23 – Una vida frustrada
@@ -2530,7 +2530,7 @@ ___
 
 #### d. Romanos 7:23b – “*…y que me lleva cautivo a la ley del pecado que está en mis miembros.*” Pablo estaba perdiendo la guerra porque su nueva naturaleza no era rival para su naturaleza pecaminosa. Necesitaba el **<u>poder</u>** del Espíritu Santo, el cual pasó a explicar en Romanos 8. Romanos 7:14-15
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom7.24-25.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="Romanos 7:24-25 - El reconocimiento de Pablo de la liberación en Cristo"  data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/rom7.24-25.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="Romanos 7:24-25 - El reconocimiento de Pablo de la liberación en Cristo"  data-background-color="black" --> 
 
 <i class="fas fa-unlink"></i>
 ## E. Romanos 7:24-25 – El reconocimiento de Pablo de la liberación en Cristo 
@@ -2553,9 +2553,9 @@ ___
 
 ### 5. Entonces, ¿cuál es la provisión de Dios para vivir la vida cristiana? Los detalles específicos no se encuentran en Romanos 7. Esto nos lleva a Romanos 8 y al ministerio del Espíritu **<u>Santo</u>** en nuestra santificación.
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom8.1-4.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="Romanos 8:1-17 - La Doctrina de la Santificación y el Espíritu Santo"  data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/rom8.1-4.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="Romanos 8:1-17 - La Doctrina de la Santificación y el Espíritu Santo"  data-background-color="black" --> 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="contain"  data-background-color="white" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/outline.png"  data-background-size="contain"  data-background-color="white" --> 
 
 # IX. Romanos 8:1-17 – La Doctrina de la Santificación y el Espíritu Santo <!-- .element: class="r-fit-text" -->
 
@@ -2654,47 +2654,47 @@ ___
 
 ##### 3) Pero el creyente que se deja dominar por la naturaleza de pecado experimentará la **<u>muerte</u>** de comunión y la ruina eventual. Gálatas 6:8
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom8.5-8.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="Romanos 8:5-8 - Características de la mente puesta en la carne y la mente puesta en el Espíritu"  data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/rom8.5-8.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="Romanos 8:5-8 - Características de la mente puesta en la carne y la mente puesta en el Espíritu"  data-background-color="black" --> 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.001.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/3-tiempos/3_tiempos.001.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.002.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/3-tiempos/3_tiempos.002.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.003.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" -->
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/3-tiempos/3_tiempos.003.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" -->
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.004.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/3-tiempos/3_tiempos.004.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.005.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" -->
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/3-tiempos/3_tiempos.005.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" -->
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.006.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" -->
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/3-tiempos/3_tiempos.006.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" -->
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.007.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" -->
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/3-tiempos/3_tiempos.007.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" -->
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.008.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/3-tiempos/3_tiempos.008.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.009.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/3-tiempos/3_tiempos.009.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.010.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/3-tiempos/3_tiempos.010.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.011.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/3-tiempos/3_tiempos.011.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.012.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/3-tiempos/3_tiempos.012.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.013.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/3-tiempos/3_tiempos.013.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.014.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/3-tiempos/3_tiempos.014.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.015.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/3-tiempos/3_tiempos.015.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.016.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/3-tiempos/3_tiempos.016.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.017.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" -->
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/3-tiempos/3_tiempos.017.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" -->
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.018.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" -->
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/3-tiempos/3_tiempos.018.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" -->
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3_tiempos.019.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/3_tiempos.019.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3_tiempos.020.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/3_tiempos.020.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
 
 ## C. Romanos 8:5-8 – Características de la mente puesta en la carne y la mente puesta en el Espíritu
 
@@ -2736,7 +2736,7 @@ ___
 
 #### b. A pesar de que este versículo describe al incrédulo, de la misma forma, todo creyente que escoge **<u>caminar</u>** según la carne instantáneamente deja de agradar a Dios. Romanos 8:4-5
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom8.9-11.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="Romanos 8:9-11 - El creyente está en el Espíritu"  data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/rom8.9-11.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="Romanos 8:9-11 - El creyente está en el Espíritu"  data-background-color="black" --> 
 
 ## D. Romanos 8:9-11 – El creyente está *en el Espíritu*
 
@@ -2756,9 +2756,9 @@ ___
 
 #### c. El mismo Espíritu Santo que trajo a Jesucristo a la **<u>vida</u>**, vive actualmente dentro de ti para fortalecerte para un servicio fructífero. Romanos 12:1, Efesios 1:19-20, Colosenses 3:4
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom8.12-17.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="Romanos 8:12-17 - Tu responsabilidad como creyente en Cristo"  data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/rom8.12-17.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="Romanos 8:12-17 - Tu responsabilidad como creyente en Cristo"  data-background-color="black" --> 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="contain"  data-background-color="white" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/outline.png"  data-background-size="contain"  data-background-color="white" --> 
 
 ## E. Romanos 8:12-17 – Tu responsabilidad como creyente en Cristo
 
@@ -2850,49 +2850,49 @@ ___
 
 ##### 4) La lógica es que si sufres con alguien, es razonable esperar **<u>compartir</u>** sus honores. Filipenses 3:10, 1 Pedro 2:21-23
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom8.18.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="Romanos 8:18-39 - Glorificación"  data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/rom8.18.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="Romanos 8:18-39 - Glorificación"  data-background-color="black" --> 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.001.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/3-tiempos/3_tiempos.001.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.002.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/3-tiempos/3_tiempos.002.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.003.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" -->
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/3-tiempos/3_tiempos.003.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" -->
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.004.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/3-tiempos/3_tiempos.004.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.005.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" -->
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/3-tiempos/3_tiempos.005.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" -->
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.006.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" -->
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/3-tiempos/3_tiempos.006.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" -->
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.007.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" -->
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/3-tiempos/3_tiempos.007.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" -->
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.008.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/3-tiempos/3_tiempos.008.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.009.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/3-tiempos/3_tiempos.009.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.010.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/3-tiempos/3_tiempos.010.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.011.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/3-tiempos/3_tiempos.011.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.012.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/3-tiempos/3_tiempos.012.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.013.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/3-tiempos/3_tiempos.013.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.014.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/3-tiempos/3_tiempos.014.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.015.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/3-tiempos/3_tiempos.015.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.016.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/3-tiempos/3_tiempos.016.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.017.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" -->
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/3-tiempos/3_tiempos.017.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" -->
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3-tiempos/3_tiempos.018.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" -->
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/3-tiempos/3_tiempos.018.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" -->
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3_tiempos.019.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/3_tiempos.019.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/3_tiempos.020.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/3_tiempos.020.png"  data-background-size="contain" data-auto-animate="" data-background-color="black" --> 
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/outline.png"  data-background-size="contain"  data-background-color="white" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/outline.png"  data-background-size="contain"  data-background-color="white" --> 
 
 # X. Romanos 8:18-39 – Glorificación <!-- .element: class="r-fit-text" -->
 
@@ -2909,7 +2909,7 @@ ___
 
 #### c. En tercer lugar, serás glorificado; ¡Ese es un **<u>hecho</u>**! Romanos 8:30
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom8.19-27.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="Romanos 8:19-27 - Gimiendo por ser glorificados"  data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/rom8.19-27.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="Romanos 8:19-27 - Gimiendo por ser glorificados"  data-background-color="black" --> 
 
 ## B. Romanos 8:19-27 – Gimiendo por ser glorificados
 
@@ -2959,7 +2959,7 @@ ___
 
 #### e. Romanos 8:27b – “*…porque conforme a la voluntad de Dios intercede por los santos.*” El Espíritu Santo solicitará a Dios el Padre **<u>únicamente</u>** aquello que esté de acuerdo con Su voluntad.
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom8.28-30.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="Romanos 8:28-30 - Garantizado ser glorificado"  data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/rom8.28-30.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="Romanos 8:28-30 - Garantizado ser glorificado"  data-background-color="black" --> 
 
 <i class="fas fa-check-double"></i>
 ## C. Romanos 8:28-30 – Garantizado ser glorificado
@@ -3084,7 +3084,7 @@ ___
 
 #### g. Romanos 8:30c – “*…a éstos también glorificó.*” Aún no estamos glorificados, pero la palabra glorificado está en tiempo **<u>pasado</u>** porque Dios garantiza absolutamente que seremos glorificados. En lo que respecta a Dios, ya es un hecho consumado. Romanos 8:17
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/rom8.31-39.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="Romanos 8:31-39 - Glorificación probada y demostrada"  data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/rom8.31-39.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="Romanos 8:31-39 - Glorificación probada y demostrada"  data-background-color="black" --> 
 
 ## D. Romanos 8:31-39 – Glorificación probada y demostrada <i class="fas fa-cloud-upload-alt"></i>
 
@@ -3168,7 +3168,7 @@ ___
 
 #### b. Ciertamente, en ningún caso somos dignos de este tipo de amor o glorificación futura. Es completamente por la asombrosa **<u>gracia</u>** de Dios, basada en lo que Jesús hizo por nosotros al morir en la cruz por nuestros pecados y resucitar. ¡Las gracias sean a Dios!
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/evangelio.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="Apéndice - El Mensaje del Evangelio"  data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/evangelio.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="Apéndice - El Mensaje del Evangelio"  data-background-color="black" --> 
 
 # XI. El mensaje del evangelio <!-- .element: class="r-fit-text" -->
 
@@ -3192,7 +3192,7 @@ ___
 
 ### 4. Hablando de manera concisa, el mensaje que debes creer para ser salvo tiene que ver con una persona en particular (Cristo) y lo que Él hizo en tu nombre: Cristo **<u>murió</u>** por tus pecados y resucitó.
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/evangelio_claro.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="Apéndice - B. El evangelio es un mensaje objetivo"  data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/evangelio_claro.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="Apéndice - B. El evangelio es un mensaje objetivo"  data-background-color="black" --> 
 
 ## B. El evangelio es un mensaje objetivo
 
@@ -3340,7 +3340,7 @@ ___
 |     |para ser justificados por la fe de Cristo | y no por las obras de la ley,   |
 |          |           | ...por las obras de la ley nadie será justificado.|
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/presentaciones-no-claras.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="G. - Presentaciones No Claras del Evangelio"  data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/presentaciones-no-claras.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="G. - Presentaciones No Claras del Evangelio"  data-background-color="black" --> 
 
 ## G. Presentaciones No Claras del Evangelio
 
@@ -3370,7 +3370,7 @@ ___
 
 #### f. Recordemos la sección “Escuela de leyes” de este manual, donde aprendimos que la Ley fue otorgada para ser nuestra maestra de escuela, para enseñarnos a reconocer nuestra **<u>necesidad</u>** de salvación, pero nunca fue dada para salvarnos. Sólo Jesucristo puede salvar.
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/ser-bautizado.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="3. Confusión: Cree y sé bautizado"  data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/ser-bautizado.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="3. Confusión: Cree y sé bautizado"  data-background-color="black" --> 
 
 ### 3. **Confusión: Cree y sé bautizado**
 
@@ -3380,7 +3380,7 @@ ___
 
 #### c. El ladrón en la cruz fue indiscutiblemente salvo sin ser bautizado en  agua, lo cual es otra confirmación de que el **<u>ritual</u>** del bautismo no es necesario para la salvación. Lucas 23:42-43
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/ser-circuncidado.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="4. Confusión: Cree y sé circuncidado"  data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/ser-circuncidado.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="4. Confusión: Cree y sé circuncidado"  data-background-color="black" --> 
 
 ### 4. **Confusión: Cree y sé circuncidado**
 
@@ -3394,7 +3394,7 @@ ___
 
 #### e. La circuncisión era una **<u>señal </u>**del Pacto Abrahámico, el cual era un acuerdo entre Dios y Abraham que data de la época en que Israel se convirtió por primera vez en nación. A todos los niños israelitas se les exigía ser circuncidados ocho días después del nacimiento. Este ritual, sin embargo, no salvaba a nadie de sus pecados. Génesis 17:9-14
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/confieza-pecados.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="5. Confusión: Cree y confiesa tus pecados"  data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/confieza-pecados.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="5. Confusión: Cree y confiesa tus pecados"  data-background-color="black" --> 
 
 ### 5. **Confusión: Cree y confiesa tus pecados**
 
@@ -3412,7 +3412,7 @@ ___
 
 ##### 2) La palabra griega traducida *confesamos* (HOMOLOGEO) es de HOMO, que significa lo mismo, y LOGEO, que significa hablar. Confesar es decir la **<u>misma</u>** cosa. Significa estar de acuerdo con Dios con respecto a tu pecado.
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/pide-perdon.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="6. Confusión: Cree y pide perdón"  data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/pide-perdon.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="6. Confusión: Cree y pide perdón"  data-background-color="black" --> 
 
 ### 6. **Confusión: Cree y pide perdón**
 
@@ -3424,7 +3424,7 @@ ___
 
 #### d. Colosenses 2:13-14 dice, “*Y a vosotros, estando muertos en pecados ...os dio vida juntamente con él, **<u>perdonándoos</u>** todos los pecados, anulando el acta de los decretos que había contra nosotros, que nos era contraria, quitándola de en medio y clavándola en la cruz.*”
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/arrepientete.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="7. Confusión: Arrepiéntete de tus pecados"  data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/arrepientete.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="7. Confusión: Arrepiéntete de tus pecados"  data-background-color="black" --> 
 
 ### 7. **Confusión: Arrepiéntete de tus pecados**
 
@@ -3462,7 +3462,7 @@ ___
 
 ##### 7) El arrepentimiento no es un cambio de **<u>vida</u>** o un cambio de dirección. Una persona no necesita limpiar su vida de alguna manera con el fin de ser salva. Dios no requiere este paso adicional, u obra humana, para la salvación. Isaías 64:6 llama a nuestras justicias “*…trapo de inmundicia;…*”
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/pide-a-jesus.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="8. Confusión: Invita a Cristo a tu vida; pide a Jesús que entre en tu corazón"  data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/pide-a-jesus.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="8. Confusión: Invita a Cristo a tu vida; pide a Jesús que entre en tu corazón"  data-background-color="black" --> 
 
 ### 8. **Confusión: Invita a Cristo a tu vida; pide a Jesús que entre en tu corazón**
 
@@ -3480,7 +3480,7 @@ ___
 
 ##### 2) Este versículo fue escrito a cristianos de la **<u>iglesia</u>** de Laodicea (Ap. 3:14-22). Osadamente, de todas las personas, estos creyentes habían excluido a Cristo de sus reuniones. Como creyentes, necesitaban reabrirle la puerta de la comunión a Él.
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/dale-tu-vida.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="9. Confusión: Dale tu vida a Dios; dale tu corazón a Jesús; haz un compromiso con Cristo"  data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/dale-tu-vida.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="9. Confusión: Dale tu vida a Dios; dale tu corazón a Jesús; haz un compromiso con Cristo"  data-background-color="black" --> 
 
 ### 9. **Confusión: Dale tu vida a Dios; dale tu corazón a Jesús; haz un compromiso con Cristo**
 
@@ -3498,7 +3498,7 @@ ___
 
 #### e. De ningún modo acepta Dios **<u>algo</u>** de ti a cambio de la salvación, no importa cuán sincero seas. No hacemos ninguna contribución o pago a cambio de la salvación. De principio a fin, la salvación es un regalo totalmente gratuito, dado a nosotros sólo por la gracia de Dios cuando creemos.
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/confesion-publica.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="10. Confusión: Pasa al frente y haz una profesión pública de fe"  data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/confesion-publica.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="10. Confusión: Pasa al frente y haz una profesión pública de fe"  data-background-color="black" --> 
 
 ### 10. **Confusión: Pasa al frente y haz una profesión pública de fe**
 
@@ -3528,7 +3528,7 @@ ___
 
 ##### 5) La confesión simplemente confirma verbalmente lo que ya ha ocurrido en la privacidad del **<u>corazón</u>**, pero no es un requisito para la salvación. 1 Corintios 12:3
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/haz-una-oracion.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="11. Confusión: Haz la oración del pecador"  data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/haz-una-oracion.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="11. Confusión: Haz la oración del pecador"  data-background-color="black" --> 
 
 ### 11. **Confusión: Haz la oración del pecador**
 
@@ -3538,7 +3538,7 @@ ___
 
 #### c. ¿Estamos dando a entender que la oración es mala? **<u>Nunca</u>**. La Biblia insta a los creyentes a orar sin cesar (1 Tes. 5:17) y a orar en todo tiempo (Ef. 6:18), pero la oración no es un requisito para la salvación de los incrédulos. La fe en el evangelio es lo que salva, no ser guiado por alguien para orar una oración.
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/di-si.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="12. Confusión: Simplemente di sí a Jesús"  data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/di-si.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="12. Confusión: Simplemente di sí a Jesús"  data-background-color="black" --> 
 
 ### 12. **Confusión: Simplemente di sí a Jesús**
 
@@ -3550,7 +3550,7 @@ ___
 
 #### d. De hecho, Mateo 7:22-23 habla de personas que fueron muy positivas hacia el Señor y, sin embargo, no fueron salvas. A este tipo de personas, Jesús les dirá, “*  Muchos me **<u>dirán</u>** en aquel día: Señor, Señor, ¿no  profetizamos en tu nombre, y en tu nombre echamos fuera demonios, y en tu nombre hicimos muchos milagros? Y entonces les declararé: Nunca os conocí; apartaos de mí, hacedores de maldad.*”
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/ama-a-dios.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="13. Confusión: Ama a Dios"  data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/ama-a-dios.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="13. Confusión: Ama a Dios"  data-background-color="black" --> 
 
 ### 13. **Confusión: Ama a Dios**
 
@@ -3564,7 +3564,7 @@ ___
 
 #### e. Es por creer las buenas nuevas acerca de Jesús lo que **<u>salva</u>** a un alma, no por amar a Dios y a los demás.
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/toma-tu-cruz.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="14. Confusión: Sigue a Jesús; toma tu cruz"  data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/toma-tu-cruz.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="14. Confusión: Sigue a Jesús; toma tu cruz"  data-background-color="black" --> 
 
 ### 14. **Confusión: Sigue a Jesús; toma tu cruz**
 
@@ -3576,7 +3576,7 @@ ___
 
 #### d. Jesús estaba advirtiendo a los creyentes no **<u>perder</u>** la vida abundante y volverse infructuosos en el servicio aquí en la tierra. Él estaba hablando en contra del creyente que se vende al mundo. Romanos 12:2, 1 Juan 2:15-17
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/confesion-publica.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="15. Confusión: Haz a Cristo Señor de tu vida; sométete al señorío de Jesús"  data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/confesion-publica.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="15. Confusión: Haz a Cristo Señor de tu vida; sométete al señorío de Jesús"  data-background-color="black" --> 
 
 ### 15. **Confusión: Haz a Cristo Señor de tu vida; sométete al señorío de Jesús**
 
@@ -3600,7 +3600,7 @@ ___
 
 ##### 3) Sin embargo, cuando de manera consistente **<u>presentamos</u>** los miembros de nuestro cuerpo como instrumentos de justicia al Señor, el señorío de Cristo sobre nuestras vidas aumenta. Romanos 6:19-22
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/solo-ten-fe.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="16. Confusión: Sólo ten fe"  data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/solo-ten-fe.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="16. Confusión: Sólo ten fe"  data-background-color="black" --> 
 
 ### 16. **Confusión: Sólo ten fe**
 
@@ -3612,7 +3612,7 @@ ___
 
 #### d. Debido a que las declaraciones “sólo ten fe” o “cree” no describen una fe puesta en la muerte del Señor Jesucristo por nuestros **<u>pecados</u>** y Su resurrección, este es un mensaje engañoso. Hechos 16:29-34, 1 Corintios 15:1-4
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/manten-la-fe.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="17. Confusión: Mantén la fe"  data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/manten-la-fe.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="17. Confusión: Mantén la fe"  data-background-color="black" --> 
 
 ### 17. **Confusión: Mantén la fe**
 
@@ -3624,7 +3624,7 @@ ___
 
 #### d. Este error se reduce a confiar en tu propia **<u>fe</u>** en lugar de en la obra terminada de Cristo para la salvación.
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/evangelio-sin-cruz.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="18. Confusión: El evangelio sin cruz;"  data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/evangelio-sin-cruz.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="18. Confusión: El evangelio sin cruz;"  data-background-color="black" --> 
 
 ### 18.  **Confusión: El evangelio sin cruz; el evangelio de la promesa solamente**
 
@@ -3646,7 +3646,7 @@ ___
 
 ##### 3) Pablo predicaba la resurrección a los no son salvos. Hechos 17:32 –  “*Pero cuando oyeron lo de la resurrección de los muertos, unos se  **<u>burlaban</u>**,…*” .
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/lo-que-no-es.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="H. Resumiendo lo que el evangelio no es"  data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/lo-que-no-es.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="H. Resumiendo lo que el evangelio no es"  data-background-color="black" --> 
 
 ## H. Resumiendo lo que el evangelio no es
 
@@ -3713,7 +3713,7 @@ ___
 
 ### 12. Claro y directo, el evangelio es el mensaje objetivo de que Cristo **<u>murió</u>** por tus pecados y resucitó al tercer día. ¿Crees en Cristo y lo que Él hizo por ti? Si es así, eres salvo. 1 Juan 5:13
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/cuidado-comprometerse.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="I. Cuídate de predicar cualquier otro evangelio"  data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/cuidado-comprometerse.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="I. Cuídate de predicar cualquier otro evangelio"  data-background-color="black" --> 
 
 ## I. Cuídate de predicar cualquier otro evangelio. Gálatas 1:6-9
 
@@ -3755,7 +3755,7 @@ ___
 
 ### 4. Debido a que es una cuestión de vida o muerte, asegurémonos de ser exactos y **<u>precisos</u>** al enseñar a otros la buena nueva de que Cristo murió por sus pecados y resucitó al tercer día.
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/seguros-por-siempre.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="5. Confusión: Cree y confiesa tus pecados"  data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/seguros-por-siempre.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="5. Confusión: Cree y confiesa tus pecados"  data-background-color="black" --> 
 
 # XII. Seguros Por Siempre <!-- .element: class="r-fit-text" -->
 
@@ -4101,7 +4101,7 @@ ___
 
 ### 3. La seguridad de nuestra salvación es un asunto importante para el creyente. Es importante comprender con precisión los hechos bíblicos acercade la naturaleza eterna de tu salvación para que puedas **<u>evitar</u>** la confusión que podría dificultar tu crecimiento y resultar en problemas debilitantes para ti mismo y los demás. Asegúrate de ser preciso y exacto con los hechos bíblicos sobre este tema.
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/cinco-personas.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="XIII. Cinco Personas que Debes Conocer"  data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/cinco-personas.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="XIII. Cinco Personas que Debes Conocer"  data-background-color="black" --> 
 
 # XIII. Cinco Personas que Debes Conocer <!-- .element: class="r-fit-text" -->
 
@@ -4251,7 +4251,7 @@ ___
 
 #### f. Romanos 8:12-13 – “*Así que, hermanos, deudores somos, no a la carne, para que vivamos conforme a la carne; porque si vivís conforme a la carne, moriréis;…*” La persona carnal está a punto de **<u>morir</u>** , ya sea por el mecanismo destructivo que incorpora el pecado, por sufrir las consecuencias del pecado o por disciplina. Romanos 6:23, 8:2
 
-<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/tiene-precio.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="XIV. Resultados de Vivir una Vida Carnal"  data-background-color="black" --> 
+<!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/tiene-precio.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="XIV. Resultados de Vivir una Vida Carnal"  data-background-color="black" --> 
 
 # XIV. Resultados de Vivir una Vida Carnal. ¿Qué está en juego? <!-- .element: class="r-fit-text" -->
 
