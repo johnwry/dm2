@@ -136,3 +136,8 @@ Trillando con bueyes 1865-1872 [^1]
   </script>
 
 </section>
+
+## outline text
+
+-webkit-font-smoothing: antialiased
+
