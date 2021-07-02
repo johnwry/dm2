@@ -1895,3 +1895,5 @@ ___
 #### b.  1 Corintios 8:12 -- Si tú libertad arruina a tu hermano, no estarías pecando solo contra tú hermano, también estarías pecando contra __<u>Cristo</u>__. ¡Esto no es para la risa!
 
 #### c.  1 Corintios 8:12 -- Pablo dijo que si tú libertad respecto a algunos alimentos puede causar que un hermano caiga en pecado, él __<u>nunca</u>__ volvería a comer carne otra vez. Él no quería que su conocimiento acerca de los alimentos dañara a hermanos y hermanas en Cristo más débiles.
+
+<!-- .slide: data-background-iframe="https://quizizz.com/join" id="examen_quiz_" data-menu-title="QUIZ" data-preload -->
