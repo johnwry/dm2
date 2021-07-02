@@ -3002,7 +3002,7 @@ Colossians exalts Jesus Christ and shows that anything that takes you away from 
 
 ###### b. Sadly, when a believing husband does not give proper **<u>honor</u>** to the wife, their fellowship with God and each other gets hurt and their prayers go unanswered.
 
-%<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/colossians/media/children.png" data-background-size="300px" data-background-position="left 50% bottom 65%" -->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/colossians/media/children.png" data-background-size="300px" data-background-position="left 50% bottom 65%" -->
 ## C. Colossians 3:20 -- Teachings for believing children (Eph.6:1-3)
 
 ### 1. Colossians 3:20 --*Children, be obedient to your parents...* To believing children Paul gave **<u>one</u>** small command with huge implications. Proverbs 6:20
