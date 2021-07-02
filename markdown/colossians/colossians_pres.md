@@ -1,37 +1,24 @@
-!(media/image1.jpg){width="7.458333333333333in" height="5.59375in"}
-
-!(media/image2.png){width="2.2847222222222223in" height="0.7986111111111112in"}!(media/image2.png){width="2.2847222222222223in" height="0.7986111111111112in"}
-
-!(media/image3.png){width="3.161111111111111in" height="1.125in"}
-
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/colossians/media/image1.jpg" -->
+___
+!(https://johnwry.github.io/dm2/markdown/colossians/media/image2.png){width="2.2847222222222223in" height="0.7986111111111112in"}!(media/image2.png){width="2.2847222222222223in" height="0.7986111111111112in"}
+___
+!(https://johnwry.github.io/dm2/markdown/colossians/media/image3.png){width="3.161111111111111in" height="1.125in"}
+___
 Copyright ©**2016 by DM Multiplied, Inc**
-
 All rights reserved.
-
-Copyright ©**2016 by DM Multiplied, Inc**
-
-All rights reserved.
-
+___
 **Copyright Policy.** Unauthorized translation, republishing, file duplication, website or email distribution of any portion of this copyrighted material in any form, without the express written consent of DM2® is strictly forbidden. You may use the DM2® materials for your own personal study or for teaching a class so long as the DM2® logo and this copyright policy is included on the materials used to teach the class. You may download a copy to your PC, print, or make paper photocopies for a class or Bible study group; however, no charge may be made for this material or for conducting a class using this material, except for the actual cost of copying. You may NOT make changes to this copyrighted material. For a more complete disclosure of DM2® policy regarding the use of DM2® materials, please refer to the DM2 USA website at www.dm2usa.org.
-
+___
 **Printed and Owned by:**
-
 **DM2®**
-
 **Disciple Makers Multiplied**
-
 **PO Box 7758**
-
 **Beaumont, TX 77726-7758**
-
 **For more information:**
-
 **disciplemakersmultiplied\@gmail.com**
-
 **www.DM2USA.org**
-
+___
 **COLOSSIANS**
-
 > **Colossians 1:1-2 --** An Introduction to the Book **7**
 >
 > **Colossians 1:3-14 --** Paul's Three-focused Prayer **13**
@@ -64,33 +51,28 @@ All rights reserved.
 > **Colossians 4:2-7 --** Changed Lives **124**
 >
 > **Colossians 4:7-18 --** Closing Comments **127**
-
-
-
+___
 **Colossians**
-
 **Christ is All You Need**
-
+___
 Paul wrote this short letter of 95 verses from a prison cell in Rome. You might call this Paul's "95 Thesis" on the authority and adequacy of Christ. You will never find a greater discourse on the greatness of Christ. A careful study of Colossians will furnish a humble appreciation of the supreme authority and absolute adequacy of Jesus Christ.
-
+___
 The apostle Paul expressed that Jesus Christ is the ultimate authority and complete sustainer of the Christian. He proclaimed Christ as the one and only fountain that is able to completely satisfy our thirst. Through the apostle Paul, the Holy Spirit warned the Colossians of the shallowness of philosophy, legalism, mysticism and asceticism. These are cheap substitutes for Christ living in and through you. Paul showed that human philosophy cannot provide an explanation for, or an understanding of, life. Each of these errors takes your eyes off Jesus as the source and sustainer of your life. Colossians answers the question: "Is Christ enough?" or more specifically,"Is He enough for you?"
-
+___
 It is significant that the Holy Spirit is only mentioned once in this narrative (Col.1:8). By explaining the Christian life without stressing the Holy Spirit, Paul removed the tendency toward mysticism by showing that the Holy Spirit's ministry is ultimately *Christ in you*. In an era (AD 2016) when the Holy Spirit's work is mystified, the emphasis of Paul in Colossians is a must-study. Whereas some teach that believers are lacking and need a second blessing or some novel experience to be complete, Colossians emphasizes just the opposite, stating we are already complete in Christ.
-
+___
 **The Authority of Christ**-- Do you believe that Jesus Christ the Creator rules supreme and sovereign over His creation? Do you acknowledge that in creation He is above everything including all so-called gods, angels, demons, animals and people? All of us ought to pause and honestly ask if there is anything eclipsing Christ in our thinking. Although many people in our day confess that Christ is good or important, they see Him as just one authority among many. If that describes you, the book of Colossians was designed to change your mind.
-
+___
 **The Adequacy of Christ**-- Do you believe that Christ is adequate? Are you convinced that Jesus Christ is sufficient for all your spiritual needs? Is Jesus Christ ***part*** of the answer or is He ***the*** answer itself? Do you find yourself looking to religious activities like fasting, deeper devotion or penance to keep you in line spiritually? What influence does modern-day secular philosophy have on your mind? In the book of Colossians you will learn that nothing can ever replace Jesus Christ in meeting your spiritual needs. While many Christians believe that Christ is good for their lives, they are not quite convinced He is enough.
-
+___
 Colossians exalts Jesus Christ and shows that anything that takes you away from a dependence on Him is illegitimate.
 
 **The Book of Colossians**
-
 ***Christ is all you need\***
 
+# I. Colossians 1:1-2 -- An Introduction to the Book 
 
-# I.**Colossians 1:1-2 -- An Introduction to the Book**
-
-## A.**An analysis of Colossians**
+## A. An analysis of Colossians 
 
 ### 1. A short **<u>history</u>** of Colossae
 
@@ -736,7 +718,7 @@ Colossians exalts Jesus Christ and shows that anything that takes you away from 
 
 #### c. Ultimately these errors **<u>demean</u>** Christ's sufficiency and lead to the false notion that Christ is not enough. We easily become like Esau and sell our birthright for a bowl of porridge.
 
-## B.**Colossians 1:15-18 -- Articulating the deity of Christ**
+## B. Colossians 1:15-18 -- Articulating the deity of Christ
 
 ### 1. Colossians 1:15 -- As God-made-visible, Jesus Christ holds **<u>first</u>** place in all creation.
 
@@ -882,7 +864,7 @@ Colossians exalts Jesus Christ and shows that anything that takes you away from 
 
 #### c. In **how many areas** should Christ *have first place*? "*In **<u>everything</u>***!"
 
-# IV.**Colossians 1:19-29 -- God's Protection from Heresies: Understanding the Adequacy of Christ**
+# IV. Colossians 1:19-29 -- God's Protection from Heresies: Understanding the Adequacy of Christ
 
 ## A.**Colossians 1:19-23 -- The adequacy of Christ in His work of reconciliation**
 
@@ -2114,7 +2096,7 @@ Colossians exalts Jesus Christ and shows that anything that takes you away from 
 
 #### b. Although God uses His Word, Bible teachers, and fellow believers,**<u>God</u>** is the ultimate cause of all true spiritual growth.1 Corinthians 3:6-7, Ephesians 4:11-16
 
-## G.**Colossians 2:20-23**--**Asceticism, the fourth heresy**
+## G. Colossians 2:20-23--Asceticism, the fourth heresy
 
 ### 1. What is asceticism?
 
@@ -2572,9 +2554,9 @@ Colossians exalts Jesus Christ and shows that anything that takes you away from 
 
 ##### 2.*Christ is all **and in all**...* Christ lives in our **<u>lives</u>**. He lives IN every believer without exception, no matter what our particular condition or status. Christ being in us gives us true significance. Ephesians 4:4-5, Colossians 3:3
 
-# IV.**Colossians 3:12-17 -- Changed Person: Living a New Life as a New Person**
+# IV. Colossians 3:12-17 -- Changed Person: Living a New Life as a New Person
 
-## A.**Colossians 3:12 -- Paul made [three</u> amazing statements about the new you.**
+## A. Colossians 3:12 -- Paul made [three</u> amazing statements about the new you.
 
 ### 1.*So, as those who have been **chosen** of God*... As a believer in Christ you are a **<u>chosen</u>** EKLEKTOS (called out one) of God. By means of the Gospel, God called you forth from the vile world system in which you were mired down and ensnared. Colossians 1:21
 
@@ -2746,9 +2728,9 @@ Colossians exalts Jesus Christ and shows that anything that takes you away from 
 
 ##### 5. Colossians 3:17b -- Fifthly, as the Word of Christ permeates our thinking **our appreciation for the [Lord</u> will change**.*Giving thanks through Him to God the Father*. We'll develop an attitude of gratitude.
 
-# V.**Colossians 3:18-4:1 -- Changed Relationships Through the Word of Christ**
+# V. Colossians 3:18-4:1 -- Changed Relationships Through the Word of Christ
 
-## A.**Colossians 3:18 -- Teaching for the believing wife (Eph.5:22-24,33;****1 Pet.3:1-6)**
+## A. Colossians 3:18 -- Teaching for the believing wife (Eph.5:22-24,33;****1 Pet.3:1-6)
 
 ### 1. General comment
 
@@ -2756,7 +2738,7 @@ Colossians exalts Jesus Christ and shows that anything that takes you away from 
 
 #### b. Conversely, in Christianity, although the husband is the **<u>head</u>** of the home, the daily responsibilities for the household depend on both the husband and wife.
 
-###2. Colossians 3:18 -- Teaching for the Christian wife
+### 2. Colossians 3:18 -- Teaching for the Christian wife
 
 #### a. Colossians 3:18a --***Wives**, be subject to your husbands*... The biblical standard is for wives to voluntarily subject themselves to their **<u>own</u>** husbands.
 
@@ -2868,7 +2850,7 @@ Colossians exalts Jesus Christ and shows that anything that takes you away from 
 
 ###### b. With that said, if a husband puts his wife into a harmful or sinful situation, the wife has the right to **<u>obey</u>** God over and above her husband. In such a situation she has the right to refuse to submit. Exodus 1:17; Daniel 6:13; Acts 4:19,5:29
 
-## B.**Colossians 3:19 -- Teaching for the believing husband (Eph.5:25-33,1 Pet.3:7)**
+## B. Colossians 3:19 -- Teaching for the believing husband (Eph.5:25-33,1 Pet.3:7) 
 
 ### 1. Colossians 3:19 -- Paul gave two commands to the Christian **<u>husband</u>**.
 
@@ -3020,7 +3002,8 @@ Colossians exalts Jesus Christ and shows that anything that takes you away from 
 
 ###### b. Sadly, when a believing husband does not give proper **<u>honor</u>** to the wife, their fellowship with God and each other gets hurt and their prayers go unanswered.
 
-## C.**Colossians 3:20 -- Teachings for believing children (Eph.6:1-3)**
+%<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/colossians/media/children.png" data-background-size="300px" data-background-position="left 50% bottom 65%" -->
+## C. Colossians 3:20 -- Teachings for believing children (Eph.6:1-3)
 
 ### 1. Colossians 3:20 --*Children, be obedient to your parents...* To believing children Paul gave **<u>one</u>** small command with huge implications. Proverbs 6:20
 
