@@ -31,25 +31,28 @@ ___
 | **1 Corintios 1:11-17 -- Confrontando el Conflicto Corinto**| 15**|
 | **1** **Corintios** **1:18-31** **--** **¡No** **Alterar** **el** **Mensaje!**| **15**|
 | **1** **Corintios** **2:1-16** **--** **¡No** **Juguetear** **con** **el** **Método!**| **20**|
+___
 | **1** **Corintios** **3:1** **-** **4:13** **--** **¡No** **te** **dejes** **seducir** **por** **un** **hombre!**| **27**|
 | **1** **Corintios** **5:1-6:20** **--** **Confrontando** **Tres** **Serios** **Problemas** |**42**|
 | **1 Corintios 5:1-13 -- Una situación social escandalosa "el incesto"** |**42**|
 | **1 Corintios 6:1-8 -- Una libertad legal lamentable \"la justicia social\"** |**48**|
+___
 | **1 Corintios 6:9-20 -- Una inclinación hacia la indulgencia inmoral** |**50**|
 | **1 Corintios 7:1-40 -- Preguntas Relacionadas con el Matrimonio** |**55**|
 | **1 Corintios 7:1b-9 -- ¿Es legítimo... nunca tocar... mujer?** |**55**|
 | **1 Corintios 7:10-16 -- ¿Qué instrucción tenía para el matrimonio?** |**58**|
 | **1 Corintios 7:17-24 -- No trates de cambiar tu estado matrimonial** |**61**|
+___
 | **1 Corintios 7:25-38 -- ¿Qué instrucción hay para hijas vírgenes?** |**63**|
 | **1 Corintios 7:39-40 -- ¿Qué instrucciones tenía para las viudas?** |**66**|
 | **1** **Corintios** **8:1-11:1** **--Preguntas** **sobre** **Libertades** **Cristianas** |**69**|
 | **1 Corintios 8:1-6 -- ¿Qué de lo sacrificado a los ídolos?**| **69**|
-
+___
 1 Corintios
 **UNA IGLESIA EN CONFLICTO**
 
-# I.  **Historia de Corinto**
-##    A.  **La Iglesia**
+# I.  Historia de Corinto
+##    A.  La Iglesia
 
 ### 1.  1 Corintios 1:2 -- *A la iglesia de __<u>Dios</u>__ que está en Corinto*
 
@@ -1090,30 +1093,29 @@ ___
 
 ##### 2.  1 Corintios 5:4b --Traten el asunto con autoridad
 
-    a.  1 Corintios 5:4c --Ellos debían tratar con esta situación basados en la autoridad apostólica de Pablo. ...*y mi __<u>espíritu</u>__*...
+######    a.  1 Corintios 5:4c --Ellos debían tratar con esta situación basados en la autoridad apostólica de Pablo. ...*y mi __<u>espíritu</u>__*...
 
-    i.  Incluso hoy, cuando tratemos con esta clase de asuntos, no los tratemos basados en nuestra __<u>propia</u>__ autoridad.
+######    i.  Incluso hoy, cuando tratemos con esta clase de asuntos, no los tratemos basados en nuestra __<u>propia</u>__ autoridad.
 
-    ii. Tratamos situaciones como éstas __<u>bajo</u>__ la autoridad divina investida en nosotros, con las Escrituras, escritas por los apóstoles y profetas.
+######    ii. Tratamos situaciones como éstas __<u>bajo</u>__ la autoridad divina investida en nosotros, con las Escrituras, escritas por los apóstoles y profetas.
 
-    b.  1 Corintios 5:4d -- Ellos debían tratar con esta situación basados en la autoridad __<u>divina</u>__. *Con el poder de nuestro Señor Jesucristo*.
+######    b.  1 Corintios 5:4d -- Ellos debían tratar con esta situación basados en la autoridad __<u>divina</u>__. *Con el poder de nuestro Señor Jesucristo*.
 
-#####3.  1 Corintios 5:5 -- Debemos tratarlo resueltamente -- *el tal sea entregado...\*
+##### 3.  1 Corintios 5:5 -- Debemos tratarlo resueltamente -- *el tal sea entregado...\*
 
-    a.  1 Corintios 5:5a -- Por el lado negativo: *sea* *entregado a Satanás para __<u>destrucción</u>__ de la carne.* Esta es la disciplina divina, donde Dios permite que Satanás traiga la muerte sobre un hijo errante, si es necesario.\
-1 Timoteo 1:19-20; 1 Corintios 11:28-32
+######    a.  1 Corintios 5:5a -- Por el lado negativo: *sea* *entregado a Satanás para __<u>destrucción</u>__ de la carne.* Esta es la disciplina divina, donde Dios permite que Satanás traiga la muerte sobre un hijo errante, si es necesario.\ 1 Timoteo 1:19-20; 1 Corintios 11:28-32
 
-    b.  1 Corintios 5:5b -- Por el lado positivo: *A fin de que el espíritu sea __<u>salvo</u>__* *(librado de* *pérdida y vergüenza) en el día del Señor Jesús*.
+######    b.  1 Corintios 5:5b -- Por el lado positivo: *A fin de que el espíritu sea __<u>salvo</u>__* *(librado de* *pérdida y vergüenza) en el día del Señor Jesús*.
 
-    c.  Este es un versículo clave, que confirma claramente que se trataba de la disciplina de un __<u>creyente</u>__.\
+######    c.  Este es un versículo clave, que confirma claramente que se trataba de la disciplina de un __<u>creyente</u>__.\
 
-###2.  **1** **Corintios** **5:6-8** **--** **Pablo** **les** **dice** **que** ***aparten*** **de** **entre** **ellos** **a** **este** **hermano** **no** **arrepentido** **por** **el** **bien** **del** __<u>conjunto</u>__ **de** **la** **masa** **--** **la** **iglesia** **como** **un** **todo.**
+### 2.  **1** **Corintios** **5:6-8** **--** **Pablo** **les** **dice** **que** ***aparten*** **de** **entre** **ellos** **a** **este** **hermano** **no** **arrepentido** **por** **el** **bien** **del** __<u>conjunto</u>__ **de** **la** **masa** **--** **la** **iglesia** **como** **un** **todo.**
 
 ####    a.  1 Corintios 5:6 -- Pablo usa la __<u>levadura</u>__ para mostrar el ***peligro*** del pecado no confrontado en la iglesia.
 
-#####1.  1 Corintios 5:6a -- Su imparcialidad y tolerancia frente a este pecado eran el producto del __<u>orgullo</u>__, no de la piedad o bondad.
+##### 1.  1 Corintios 5:6a -- Su imparcialidad y tolerancia frente a este pecado eran el producto del __<u>orgullo</u>__, no de la piedad o bondad.
 
-#####2.  1 Corintios 5:6b -- ¡No sabrían ellos, que un miembro viviendo abiertamente en pecado __<u>mancharía</u>__ a toda la iglesia! *Un poco de levadura leuda toda la masa*.
+##### 2.  1 Corintios 5:6b -- ¡No sabrían ellos, que un miembro viviendo abiertamente en pecado __<u>mancharía</u>__ a toda la iglesia! *Un poco de levadura leuda toda la masa*.
 
 ######    a.  En la Biblia, la levadura se usa muchas veces para describir el __<u>pecado</u>__.
 
@@ -1121,7 +1123,7 @@ ___
 
 ####    b.  1 Corintios 5:7 -- Pablo usa analógicamente la ***Pascua*** para enseñar sobre la ***limpieza*** de la iglesia.
 
-#####1.  1 Corintios 5:7 -- ***Contemplemos*** la Pascua:
+##### 1.  1 Corintios 5:7 -- ***Contemplemos*** la Pascua:
 
 ######    a.  Cuando Israel estaba en la esclavitud de Egipto, el cordero de la Pascua tenía que ser __<u>sacrificado</u>__ para que el primogénito de cada familia no cayese muerto en la última plaga.
 
@@ -1137,11 +1139,11 @@ ___
 
 ######    ii. Inmediatamente después de nuestra salvación, comenzamos nuestra jornada espiritual, que se supone debe ser libre de la levadura del __<u>pecado</u>__.
 
-#####2.  1 Corintios 5:7a -- Pablo dijo a los corintios que ***limpiaran*** ***la*** ***casa***. Debían de remover a ese individuo pecador (levadura) de la iglesia (masa), para así llegar a ser como una __<u>nueva</u>__ o fresca masa.
+##### 2.  1 Corintios 5:7a -- Pablo dijo a los corintios que ***limpiaran*** ***la*** ***casa***. Debían de remover a ese individuo pecador (levadura) de la iglesia (masa), para así llegar a ser como una __<u>nueva</u>__ o fresca masa.
 
-#####3.  1 Corintios 5:7b -- ¡Pablo les dijo que, en esencia, ellos ***ya*** ***eran*** ***limpios***! Por causa de nuestra nueva relación con Dios, por medio de Cristo, ya somos __<u>puros</u>__ (sin levadura).
+##### 3.  1 Corintios 5:7b -- ¡Pablo les dijo que, en esencia, ellos ***ya*** ***eran*** ***limpios***! Por causa de nuestra nueva relación con Dios, por medio de Cristo, ya somos __<u>puros</u>__ (sin levadura).
 
-#####4.  1 Corintios 5:7c -- ¡Pablo les recuerda a ***Cristo***, *nuestro* __<u>Cordero</u>__ *Pascual*!
+##### 4.  1 Corintios 5:7c -- ¡Pablo les recuerda a ***Cristo***, *nuestro* __<u>Cordero</u>__ *Pascual*!
 
 ######    a.  Cristo, nuestro Cordero Pascual, ha sido sacrificado para librarnos de la esclavitud del pecado y hacernos un pueblo __<u>santo</u>__.
 
@@ -1149,15 +1151,15 @@ ___
 
 ####    c.  1 Corintios 5:8 -- Usando ***metafóricamente*** el concepto de la Pascua, Pablo insta a los corintios a *__<u>purificar</u>__* la iglesia.
 
-#####1.  1 Corintios 5:8a -- Consistentemente, ellos debían *conmemorar* el sacrificio Pascual de Cristo por nosotros, removiendo continuamente la __<u>levadura</u>__ del pecado de la iglesia y de sus propias vidas personales. 1 Juan 1:9
+##### 1.  1 Corintios 5:8a -- Consistentemente, ellos debían *conmemorar* el sacrificio Pascual de Cristo por nosotros, removiendo continuamente la __<u>levadura</u>__ del pecado de la iglesia y de sus propias vidas personales. 1 Juan 1:9
 
-#####2.  1 Corintios 5:8b -- Nosotros deberíamos recordar el sacrificio Pascual de Cristo para la consagración de nuestras vidas. Debemos eliminar todo __<u>trazo</u>__ de levadura de...
+##### 2.  1 Corintios 5:8b -- Nosotros deberíamos recordar el sacrificio Pascual de Cristo para la consagración de nuestras vidas. Debemos eliminar todo __<u>trazo</u>__ de levadura de...
 
 ######    a.  *Malicia* (Griego, KAKIA, malos pensamientos) lo que significa que no deberíamos permitir una mentalidad maliciosa, __<u>perversa</u>__ o viciosa en la iglesia.
 
 ######    b.  *Maldad* (Griego, PONERIA, acciones malas o perniciosas) lo que significa que toda actividad __<u>vil</u>__ debería ser impedida.
 
-#####3.  1 Corintios 5:8c -- *Celebrar*: deberíamos de celebrar el sacrificio Pascual de Cristo con el pan sin levadura de...
+##### 3.  1 Corintios 5:8c -- *Celebrar*: deberíamos de celebrar el sacrificio Pascual de Cristo con el pan sin levadura de...
 
 ######    a.  *Sinceridad* significa __<u>pureza</u>__, o rectitud, y en el lenguaje griego era considerado el antónimo de maldad.
 
@@ -1173,95 +1175,95 @@ ___
 
 ######    b.  *__<u>Verdad</u>__* (griego, ALETHEIA, realidad, certeza o rectitud) Pablo se preocupaba de que ellos vivieran en la realidad y no en algún engaño.\ 3 Juan 1:4
 
-###3.  **1** **Corintios** **5:9-13** **--** **Pablo** **les** **dijo** **que** ***se*** ***desasociaran*** **de** **este** **hermano** **impenitente,** **porque** **Dios** **nos** **dice,** **que** **juzgar** **el** **pecado** **descarado** **y** **desafiante** **es** **necesario** **dentro** **de** **la** **iglesia** **local.**
+### 3.  **1** **Corintios** **5:9-13** **--** **Pablo** **les** **dijo** **que** ***se*** ***desasociaran*** **de** **este** **hermano** **impenitente,** **porque** **Dios** **nos** **dice,** **que** **juzgar** **el** **pecado** **descarado** **y** **desafiante** **es** **necesario** **dentro** **de** **la** **iglesia** **local.**
 
 ####    a.  1 Corintios 5:9-10 -- Pablo mencionó una __<u>carta</u>__ anterior.
 
-#####1.  1 Corintios 5:9a -- Pablo ya les había enviado una carta en cuanto a este asunto. Esa carta no estaba divinamente inspirada, por lo cual, no era la intención de Dios de que fuera incluida en la __<u>Biblia</u>__.
+##### 1.  1 Corintios 5:9a -- Pablo ya les había enviado una carta en cuanto a este asunto. Esa carta no estaba divinamente inspirada, por lo cual, no era la intención de Dios de que fuera incluida en la __<u>Biblia</u>__.
 
-#####2.  1 Corintios 5:9b -- El contenido tenía que ver con el __<u>no</u>__ asociarse con gente inmoral.
+##### 2.  1 Corintios 5:9b -- El contenido tenía que ver con el __<u>no</u>__ asociarse con gente inmoral.
 
-#####3.  1 Corintios 5:10 -- ¿Qué quería decir Pablo cuando hablaba de no asociarse con pecadores?
+##### 3.  1 Corintios 5:10 -- ¿Qué quería decir Pablo cuando hablaba de no asociarse con pecadores?
 
-    a.  1 Corintios 5:10a -- Pablo no quiso decir que debemos __<u>evitar</u>__ a la gente inmoral inconversa, todos quienes resultan ser avaros, engañadores e idólatras.
+######    a.  1 Corintios 5:10a -- Pablo no quiso decir que debemos __<u>evitar</u>__ a la gente inmoral inconversa, todos quienes resultan ser avaros, engañadores e idólatras.
 
-    b.  1 Corintios 5:10b -- Pablo razona de que en ese caso, deberíamos salir del __<u>mundo</u>__. Juan 17:15,18
+######    b.  1 Corintios 5:10b -- Pablo razona de que en ese caso, deberíamos salir del __<u>mundo</u>__. Juan 17:15,18
 
 ####    b.  1 Corintios 5:11a -- Pablo dio una penetrante exhortación a no juntarse __<u>con</u>__ cristianos que están manifiestamente involucrados en pecado y que, sin embargo, quieren permanecer en comunión con la iglesia.
 
-#####1.  No debemos juntarnos con un cristiano ***inmoral*** (griego, PORNOS, del cual viene la palabra pornografía). Este es el creyente que se __<u>entrega</u>__ a la inmoralidad.
+##### 1.  No debemos juntarnos con un cristiano ***inmoral*** (griego, PORNOS, del cual viene la palabra pornografía). Este es el creyente que se __<u>entrega</u>__ a la inmoralidad.
 
-#####2.  No debemos juntarnos con cristianos ***avaros***. Este es un cristiano que se vuelve codicioso y anhela tener más. Él quiere tener lo que __<u>pertenece</u>__ a otros.
+##### 2.  No debemos juntarnos con cristianos ***avaros***. Este es un cristiano que se vuelve codicioso y anhela tener más. Él quiere tener lo que __<u>pertenece</u>__ a otros.
 
-#####3.  No debemos juntarnos con cristianos ***idólatras***. Este es un cristiano que vuelve a caer en la adoración de falsos __<u>dioses</u>__. Esta es una forma vil de carnalidad. 1 Corintios 10:7
+##### 3.  No debemos juntarnos con cristianos ***idólatras***. Este es un cristiano que vuelve a caer en la adoración de falsos __<u>dioses</u>__. Esta es una forma vil de carnalidad. 1 Corintios 10:7
 
-#####4.  No debemos juntarnos con un ***maldiciente*** o un cristiano que causa divisiones. Este creyente __<u>disemina</u>__ información negativa sobre otros mediante el chisme o calumnia.
+##### 4.  No debemos juntarnos con un ***maldiciente*** o un cristiano que causa divisiones. Este creyente __<u>disemina</u>__ información negativa sobre otros mediante el chisme o calumnia.
 
-#####5.  No debemos juntarnos con un cristiano que es ***borracho***. Este es un cristiano que llega a ser adicto a sustancias tóxicas como el alcohol o las __<u>drogas</u>__.
+##### 5.  No debemos juntarnos con un cristiano que es ***borracho***. Este es un cristiano que llega a ser adicto a sustancias tóxicas como el alcohol o las __<u>drogas</u>__.
 
-#####6.  No debemos juntarnos con un cristiano que es ladrón. Este es un cristiano que participa en __<u>extorSiÓn</u>__ o que roba. Mateo 7:15
+##### 6.  No debemos juntarnos con un cristiano que es ladrón. Este es un cristiano que participa en __<u>EXTORSIÓN</u>__ o que roba. Mateo 7:15
 
 ####    c.  1 Corintios 5:11b -- Pablo les advierte que no se asocien (Griego: SUNANAMIGNUMI, mezclarse, tener compañerismo) con cristianos que han arruinado su testimonio y que se niegan a cambiar de __<u>mentalidad</u>__ en cuanto a sus pecados. *Con el tal ni aun comáis*.
 
-#####1.  Veamos los __<u>cinco</u>__ tipos de creyentes para los cuales hay motivos Bíblicos para alejarlos de la comunión de la iglesia (ser disciplinados por excomunión).
+##### 1.  Veamos los __<u>cinco</u>__ tipos de creyentes para los cuales hay motivos Bíblicos para alejarlos de la comunión de la iglesia (ser disciplinados por excomunión).
 
-#####2.  El **incorregible**: Mateo 18:15-17 -- El creyente que no __<u>admite</u>__ ser corregido.
+##### 2.  El **incorregible**: Mateo 18:15-17 -- El creyente que no __<u>admite</u>__ ser corregido.
 
-#####3.  El **descarado**: 1 Corintios 5:9-11 -- El cristiano que anda en pecado __<u>abierto</u>__ y que no cambiará de parecer al respecto.
+##### 3.  El **descarado**: 1 Corintios 5:9-11 -- El cristiano que anda en pecado __<u>abierto</u>__ y que no cambiará de parecer al respecto.
 
-#####4.  El **herético**: 1 Timoteo 1:18-20, 2 Timoteo 2:17-18 -- El cristiano que enseña __<u>falsa</u>__ doctrina.
+##### 4.  El **herético**: 1 Timoteo 1:18-20, 2 Timoteo 2:17-18 -- El cristiano que enseña __<u>falsa</u>__ doctrina.
 
-#####5.  El **divisivo**: Tito 3:10-11 -- El cristiano que causa división en el __<u>cuerpo</u>__. Proverbios 6:16-19, Romanos 16:17
+##### 5.  El **divisivo**: Tito 3:10-11 -- El cristiano que causa división en el __<u>cuerpo</u>__. Proverbios 6:16-19, Romanos 16:17
 
-#####6.  El **perezoso**: 2 Tesalonicenses 3:6-14 -- El cristiano perezoso, que no quiere trabajar para ganarse la vida y __<u>proveer</u>__ para su propia familia. 1 Timoteo 5: 8
+##### 6.  El **perezoso**: 2 Tesalonicenses 3:6-14 -- El cristiano perezoso, que no quiere trabajar para ganarse la vida y __<u>proveer</u>__ para su propia familia. 1 Timoteo 5: 8
 
 ####    d.  1 Corintios 5:12a, 5:13a -- Pablo establece un parámetro claro: no debemos de __<u>juzgar</u>__ o condenar a los pecadores del mundo. Eso es tarea de Dios. Juan 3:17-18, Romanos 2:16
 
 ####    e.  1 Corintios 5:12b -- Pablo insta a los creyentes a juzgar a los creyentes que __<u>andan</u>__ en pecado abierto.
 
-#####1.  Esto no es para decir que andemos de cazaría de brujas para __<u>ver</u>__ si nuestros hermanos y hermanas en Cristo tienen pecado en sus vidas. Eso sería cultismo.
+##### 1.  Esto no es para decir que andemos de cazaría de brujas para __<u>ver</u>__ si nuestros hermanos y hermanas en Cristo tienen pecado en sus vidas. Eso sería cultismo.
 
-#####2.  Primero deberíamos tratar de __<u>restaurar</u>__ al hermano en Cristo (si se encuentra en pecado abierto) a la comunión con Dios. Mateo 18:15,\ Gálatas 6:1, Santiago 5:19-20
+##### 2.  Primero deberíamos tratar de __<u>restaurar</u>__ al hermano en Cristo (si se encuentra en pecado abierto) a la comunión con Dios. Mateo 18:15,\ Gálatas 6:1, Santiago 5:19-20
 
-#####3.  Por otra parte, si un creyente anda en pecado abierto y al mismo tiempo busca asociarse con la iglesia, debemos __<u>juzgarlo</u>__ y finalmente apartarlo de la comunión.
+##### 3.  Por otra parte, si un creyente anda en pecado abierto y al mismo tiempo busca asociarse con la iglesia, debemos __<u>juzgarlo</u>__ y finalmente apartarlo de la comunión.
 
 ####    f.  1 Corintios 5:13b -- Pablo da un **apasionado** ultimátum: *__<u>Quitad</u>__*, pues, *a ese perverso de entre* *vosotros*. Comparar con Deuteronomio 13:5; 17:7,12; 21:21; 22:21
 
 ####    g.  Algunos Pensamientos Finales:
 
-#####1.  1 Pedro 1:16 nos enseña a __<u>andar</u>__ en santidad.
+##### 1.  1 Pedro 1:16 nos enseña a __<u>andar</u>__ en santidad.
 
-#####2.  2 Pedro 1:3 dice que se nos ha sido dado todo lo necesario para ser __<u>piadosos</u>__.
+##### 2.  2 Pedro 1:3 dice que se nos ha sido dado todo lo necesario para ser __<u>piadosos</u>__.
 
-#####3.  Tito 2:11-13 nos instruye que la __<u>gracia</u>__ de Dios nos enseña a ser santos.
+##### 3.  Tito 2:11-13 nos instruye que la __<u>gracia</u>__ de Dios nos enseña a ser santos.
 
-#####4.  1 Juan 1:9 indica cómo tratar con el pecado __<u>diario</u>__.
+##### 4.  1 Juan 1:9 indica cómo tratar con el pecado __<u>diario</u>__.
 
-#####5.  Romanos 6:6 y 6:11 enseña cómo tratar con la __<u>naturaleza</u>__ pecaminosa mediante nuestra identificación con Cristo en su muerte al pecado y la resurrección a novedad de vida.
+##### 5.  Romanos 6:6 y 6:11 enseña cómo tratar con la __<u>naturaleza</u>__ pecaminosa mediante nuestra identificación con Cristo en su muerte al pecado y la resurrección a novedad de vida.
 
-#####6.  1 Corintios 11:31-33 nos advierte de examinarnos a nosotros mismos __<u>seriamente</u>__ para que no seamos juzgados.
+##### 6.  1 Corintios 11:31-33 nos advierte de examinarnos a nosotros mismos __<u>seriamente</u>__ para que no seamos juzgados.
 
-#####7.  Filipenses 1:6 muestra que Dios nunca __<u>dejará</u>__ de obrar en nosotros para traer la santidad en nuestras vidas. Filipenses 2:12-13, Efesios 2:10,\  2 Corintios 3:4-5, Juan 15:5
+##### 7.  Filipenses 1:6 muestra que Dios nunca __<u>dejará</u>__ de obrar en nosotros para traer la santidad en nuestras vidas. Filipenses 2:12-13, Efesios 2:10,\  2 Corintios 3:4-5, Juan 15:5
 
 ##    B.  **1** **Corintios** **6:1-8** **--** **El** **segundo** **problema** **moral** **era** **una** ***libertad*** ***legal*** ***lamentable*.** **Pablo** **trata** **con** **problemas** **legales** **en** **la** **iglesia** **de** **Corinto.**
 
-###1.  1 Corintios 6:1 -- Pablo habla contra la osadía de un creyente que lleva a otro ante los __<u>tribunales</u>__ de los injustos.
+### 1.  1 Corintios 6:1 -- Pablo habla contra la osadía de un creyente que lleva a otro ante los __<u>tribunales</u>__ de los injustos.
 
 ####    a.  1 Corintios 6:1a -- ¡Cómo te atreves!
 
-#####1.  En el griego, el capítulo seis versículo uno comienza con la palabra __<u>osar</u>__ (Griego: TOLMAO, actuar con atrevimiento contra alguien) enfatizando esa palabra.
+##### 1.  En el griego, el capítulo seis versículo uno comienza con la palabra __<u>osar</u>__ (Griego: TOLMAO, actuar con atrevimiento contra alguien) enfatizando esa palabra.
 
-#####2.  Aunque no era poco común en las ciudades griegas que hasta un __<u>hijo</u>__ llevara a su padre a los tribunales, pensar que cristianos corintios estuvieran llevándose mutuamente a la corte era increíble.
+##### 2.  Aunque no era poco común en las ciudades griegas que hasta un __<u>hijo</u>__ llevara a su padre a los tribunales, pensar que cristianos corintios estuvieran llevándose mutuamente a la corte era increíble.
 
 ####    b.  Según la evidencia histórica, habían __<u>dos</u>__ razones comunes en Corinto por las cuales la gente se llevaba mutuamente ante la corte.
 
-#####1.  Razones Matrimoniales: El apóstol Pablo expresó esta enseñanza en el contexto del trato con la inmoralidad (capítulos 5:1-13 y 6:9-20) de modo que es muy posible que tenía que ver con asuntos legales referentes a la infidelidad __<u>matrimonial</u>__.
+##### 1.  Razones Matrimoniales: El apóstol Pablo expresó esta enseñanza en el contexto del trato con la inmoralidad (capítulos 5:1-13 y 6:9-20) de modo que es muy posible que tenía que ver con asuntos legales referentes a la infidelidad __<u>matrimonial</u>__.
 
-#####2.  Razones de __<u>Ganancia</u>__ Monetaria: Esto era personas que llevaban a otras a la corte, como medio para obtener ganancia monetaria. Los versículos 7-8 podrían indicar que el problema en la iglesia de corinto también se basaba en ganancias monetarias. (Comparar 1 Corintios 6:7-8 - *defraudar* -- con\ Marcos 10:19, Levítico 6:1-6, Malaquías 3:5)
+##### 2.  Razones de __<u>Ganancia</u>__ Monetaria: Esto era personas que llevaban a otras a la corte, como medio para obtener ganancia monetaria. Los versículos 7-8 podrían indicar que el problema en la iglesia de corinto también se basaba en ganancias monetarias. (Comparar 1 Corintios 6:7-8 - *defraudar* -- con\ Marcos 10:19, Levítico 6:1-6, Malaquías 3:5)
 
 ####    c.  1 Corintios 6:1b -- ¿Se atreverían ellos a llevar estos asuntos ante los injustos en lugar de los __<u>santos</u>__?
 
-###2.  1 Corintios 6:2-3 -- ¿No sabían ellos?
+### 2.  1 Corintios 6:2-3 -- ¿No sabían ellos?
 
 ####    a.  1 Corintios 6:2a -- ¿No sabían ellos que los santos juzgarán al __<u>mundo</u>__?
 
@@ -1271,65 +1273,65 @@ ___
 
 ####    d.  1 Corintios 6:3b -- ¿No deberían los santos ser capaces de juzgar asuntos concernientes a esta __<u>vida</u>__, cosas con las cuales estamos familiarizados?
 
-###3.  1 Corintios 6:4-6 -- Aquí es como Pablo evaluó la __<u>manera</u>__ en que ellos trataban los asuntos legales.
+### 3.  1 Corintios 6:4-6 -- Aquí es como Pablo evaluó la __<u>manera</u>__ en que ellos trataban los asuntos legales.
 
 ####    a.  1 Corintios 6:4 -- ¿Por qué pedían el fallo de un juez que es de menor __<u>estima</u>__ (Griego: EXOUTHENEO, detestable, rechazado) en la iglesia? La respuesta anticipada sería, "No habíamos pensado que estábamos haciendo algo tan irresponsable."
 
 ####    b.  1 Corintios 6:5-6 -- Pablo menciona estas cosas para __<u>vergüenza</u>__ de los corintios.
 
-#####1.  1 Corintios 6:5 -- *No hay entre vosotros sabio, ni aun uno...* ¡De modo que era cierto! No había un solo hombre __<u>sabio</u>__ entre ellos quien pudiera decidir asuntos entre hermanos en Cristo. *Para avergonzaros lo digo*.
+##### 1.  1 Corintios 6:5 -- *No hay entre vosotros sabio, ni aun uno...* ¡De modo que era cierto! No había un solo hombre __<u>sabio</u>__ entre ellos quien pudiera decidir asuntos entre hermanos en Cristo. *Para avergonzaros lo digo*.
 
-#####2.  1 Corintios 6:6 -- Así que, era cristiano contra cristiano yendo a la corte ante incrédulos. ¡Qué triste testimonio de su __<u>estado</u>__ espiritual!
+##### 2.  1 Corintios 6:6 -- Así que, era cristiano contra cristiano yendo a la corte ante incrédulos. ¡Qué triste testimonio de su __<u>estado</u>__ espiritual!
 
-###4.  1 Corintios 6:7-8 -- Pablo habla cándidamente acerca de su condición.
+### 4.  1 Corintios 6:7-8 -- Pablo habla cándidamente acerca de su condición.
 
 ####    a.  1 Corintios 6:7a -- Su inmadurez era evidente. *Por cierto es ya una __<u>falta</u>__ en vosotros*. El hecho de que hubiesen pleitos (demandas legales) entre ellos, era una clara evidencia de su abismante condición espiritual.
 
 ####    b.  1 Corintios 6:7b -- Era evidente que ellos no entendían la __<u>gracia</u>__. Veamos cómo se responde con gracia ante un agravio (ofensa)...
 
-#####1.  Permita ser __<u>agraviado</u>__. Esto es una bofetada en la cara del humanismo que dice: "Nunca permitas que alguien tome ventaja sobre ti."
+##### 1.  Permita ser __<u>agraviado</u>__. Esto es una bofetada en la cara del humanismo que dice: "Nunca permitas que alguien tome ventaja sobre ti."
 
-#####2.  Permita ser __<u>engañado</u>__ o defraudado. Esto significa que no tienes que salirte con la tuya, o desquitarte, ni vengarte, aunque tengas "derecho" a hacerlo.
+##### 2.  Permita ser __<u>engañado</u>__ o defraudado. Esto significa que no tienes que salirte con la tuya, o desquitarte, ni vengarte, aunque tengas "derecho" a hacerlo.
 
 ####    c.  1 Corintios 6:8 -- Cuando __<u>exigimos</u>__ nuestros derechos, demostramos el hecho de que somos carnales.
 
-#####1.  La __<u>realidad</u>__ espiritual de la iglesia de Corinto era que los hermanos estaban agraviando y defraudando a hermanos.
+##### 1.  La __<u>realidad</u>__ espiritual de la iglesia de Corinto era que los hermanos estaban agraviando y defraudando a hermanos.
 
-#####2.  *Pues habiendo entre vosotros celos, __<u>contiendas</u>__ y disensiones, ¿no sois carnales...?* Recuerda, esto era la "prueba" que Pablo había dado en cuanto a su carnalidad en 1 Corintios 3:3.
+##### 2.  *Pues habiendo entre vosotros celos, __<u>contiendas</u>__ y disensiones, ¿no sois carnales...?* Recuerda, esto era la "prueba" que Pablo había dado en cuanto a su carnalidad en 1 Corintios 3:3.
 
-#####3.  ¿Qué de las relaciones en tu vida? ¿Está tu vida llena de conflictos y falta de armonía? ¿Hay un continuo altercado en tu hogar? Si es así, no te engañes, estás andando según la __<u>carne</u>__ y no según el Espíritu. La contienda (conflicto) es la bandera roja de la carnalidad.
+##### 3.  ¿Qué de las relaciones en tu vida? ¿Está tu vida llena de conflictos y falta de armonía? ¿Hay un continuo altercado en tu hogar? Si es así, no te engañes, estás andando según la __<u>carne</u>__ y no según el Espíritu. La contienda (conflicto) es la bandera roja de la carnalidad.
 
-###5.  ¿Qué hacemos con esta enseñanza?
+### 5.  ¿Qué hacemos con esta enseñanza?
 
 ####    a.  Dios nos llama a solucionar las diferencias entre creyentes __<u>en</u>__ el contexto de la iglesia local.
 
-#####1.  Recuerda que si tenemos conflictos, esto es porque aún somos niños bebiendo __<u>leche</u>__, andando según la carne y no según el Espíritu. 1 Corintios 3:2-3
+##### 1.  Recuerda que si tenemos conflictos, esto es porque aún somos niños bebiendo __<u>leche</u>__, andando según la carne y no según el Espíritu. 1 Corintios 3:2-3
 
-#####2.  Seamos conscientes de __<u>nunca</u>__ ir, ante el sistema legal injusto, con los conflictos cristianos.
+##### 2.  Seamos conscientes de __<u>nunca</u>__ ir, ante el sistema legal injusto, con los conflictos cristianos.
 
-#####3.  Tengamos presente que __<u>podemos</u>__ resolver los conflictos porque algún día juzgaremos a los ángeles.
+##### 3.  Tengamos presente que __<u>podemos</u>__ resolver los conflictos porque algún día juzgaremos a los ángeles.
 
-#####4.  Démonos cuenta que debemos sufrir ser agraviados y defraudados, en lugar de __<u>exigir</u>__ nuestros derechos.
+##### 4.  Démonos cuenta que debemos sufrir ser agraviados y defraudados, en lugar de __<u>exigir</u>__ nuestros derechos.
 
 ##    C.  **1** **Corintios** **6:9-20** **--** **El** **tercer** **asunto** **moral** **era** **una** ***inclinación*** ***hacia*** ***la*** ***indulgencia*** ***inmoral*.**
 
-###1.  1 Corintios 6:9-10 -- Entender la verdadera condición de los __<u>injustos</u>__ (Griego: ADIKOI, inicuo, malvado). Los creyentes no son descritos en estos términos en las epístolas.\ 1 Corintios 6:1, 1 Pedro 3:18, 2 Pedro 2:9 cf. Hechos 24:15
+### 1.  1 Corintios 6:9-10 -- Entender la verdadera condición de los __<u>injustos</u>__ (Griego: ADIKOI, inicuo, malvado). Los creyentes no son descritos en estos términos en las epístolas.\ 1 Corintios 6:1, 1 Pedro 3:18, 2 Pedro 2:9 cf. Hechos 24:15
 
 ####    a.  1 Corintios 6:9 -- ¿No sabéis que los ***injustos*** no heredarán, o tendrán __<u>parte</u>__, en el Reino de Dios?
 
-#####1.  Por lo general, *heredar* KLERONOMEO lleva la idea de recibir una posesión o beneficio especial como __<u>regalo</u>__ de alguien que ha muerto. Gálatas 4:30,\ 1 Corintios 15:50
+##### 1.  Por lo general, *heredar* KLERONOMEO lleva la idea de recibir una posesión o beneficio especial como __<u>regalo</u>__ de alguien que ha muerto. Gálatas 4:30,\ 1 Corintios 15:50
 
-#####2.  __<u>Cada</u>__ hijo de Dios hereda, como regalo gratuito, un lugar en el Reino de Dios y como tal reinará con ÉL para siempre. Hebreos 1:14, Apocalipsis 22:3-5,\ 1 Pedro 2:9, Col. 3:4
+##### 2.  __<u>Cada</u>__ hijo de Dios hereda, como regalo gratuito, un lugar en el Reino de Dios y como tal reinará con ÉL para siempre. Hebreos 1:14, Apocalipsis 22:3-5,\ 1 Pedro 2:9, Col. 3:4
 
-#####3.  Por otra parte, solo el hijo de Dios __<u>fiel</u>__ heredará honores espirituales especiales, bendiciones, y/o recompensas en el Reino de Dios.\ 1 Corintios 3:14-15, 2 Corintios 5, 2 Timoteo 2:12, Apocalipsis 11:18
+##### 3.  Por otra parte, solo el hijo de Dios __<u>fiel</u>__ heredará honores espirituales especiales, bendiciones, y/o recompensas en el Reino de Dios.\ 1 Corintios 3:14-15, 2 Corintios 5, 2 Timoteo 2:12, Apocalipsis 11:18
 
-#####4.  No debemos confundir tener ***entrada*** al reino por el nuevo nacimiento (Juan 3:5, Mateo 19:22-25) y ser hechos así herederos de Dios (Romanos 4:13-17, 8:16-17; Gálatas 4:6-7; Tito 3:7) ***con*** el hecho de recibir una *__<u>rica</u>__* ***herencia*** en el reino por un servicio fiel. 2 Pedro 1:10-11, 1 Juan 2:28,\ 1 Tesalonicenses 2:19
+##### 4.  No debemos confundir tener ***entrada*** al reino por el nuevo nacimiento (Juan 3:5, Mateo 19:22-25) y ser hechos así herederos de Dios (Romanos 4:13-17, 8:16-17; Gálatas 4:6-7; Tito 3:7) ***con*** el hecho de recibir una *__<u>rica</u>__* ***herencia*** en el reino por un servicio fiel. 2 Pedro 1:10-11, 1 Juan 2:28,\ 1 Tesalonicenses 2:19
 
 ####    b.  1 Corintios 6:9b-10 -- No te engañes pensando que los pecadores de este mundo se saldrán con la suya con sus pecados o que tendrán un lugar en el Reino de Dios. Veamos __<u>nueve</u>__ clases de pecado que caracterizan a los injustos.
 
-#####1.  Esta información fue dada aquí por el apóstol para mostrar por qué nunca debemos ir __<u>ante</u>__ los ***injustos*** para resolver conflictos cristianos.\ 1 Corintios 6:1-8
+##### 1.  Esta información fue dada aquí por el apóstol para mostrar por qué nunca debemos ir __<u>ante</u>__ los ***injustos*** para resolver conflictos cristianos.\ 1 Corintios 6:1-8
 
-#####2.  Segundo, esto sirve como razón fundamental de por qué nunca debemos copiar las actividades pecaminosas de los ***injustos*** y consentir la inmoralidad. 1 Corintios 6:12-19\
+##### 2.  Segundo, esto sirve como razón fundamental de por qué nunca debemos copiar las actividades pecaminosas de los ***injustos*** y consentir la inmoralidad. 1 Corintios 6:12-19\
 
 |**1 Corintios 5:11**|**1 Corintios 6:9-10**|
 |--------------------|----------------------|
@@ -1341,70 +1343,70 @@ ___
 | 4\) Maldiciente (calumniar, chismear) |4\) Maldiciente (calumniar, chismear)|
 | 5\) Borracho (abusar de drogas) |5\) Borracho (abusar de drogas) |
 |  6\) Estafadores (engañadores) |6a) Estafadores (engañadores) 6b) Ladrones (rateros)|
-| 7\) Incesto (lo que hasta el mundo sabe que está mal - 1 Corintios 5:1) y esto excede todo lo demás inmoralidad sexual | 7\) Adúlteros (sexo ilegítimo)|
-|8\) Afeminados (prostitución masculina, travestido)|9\) Homosexuales (sexo ilegítimo)|
+| 7\) Incesto (lo que hasta el mundo sabe que está mal - 1 Corintios 5:1) y esto excede todo lo demás inmoralidad sexual | 7\) Adúlteros (sexo ilegítimo) 8\) Afeminados (prostitución masculina, travestido) 9\) Homosexuales (sexo ilegítimo)|
 
 ### 2.  1 Corintios 6:11 -- Pablo insta a los corintios a entender su __<u>nuevo</u>__ estado. Antes se caracterizaban por estos pecados, pero por el nombre (poder y autoridad) de Jesucristo y el Espíritu de Dios ellos fueron cambiados.
 
-    a.  Ellos fueron __<u>lavados</u>__. Los corintios fueron purificados por obra del Espíritu Santo en el momento de su salvación y ahora estaban libres de lo que mancha.\ Tito 3:5-6
+####    a.  Ellos fueron __<u>lavados</u>__. Los corintios fueron purificados por obra del Espíritu Santo en el momento de su salvación y ahora estaban libres de lo que mancha.\ Tito 3:5-6
 
-    b.  Ellos fueron santificados o hechos __<u>santos</u>__. Habían sido separados como la posesión exclusiva de Dios. ¡Haber sido hecho santo es una verdad posicional!
+####    b.  Ellos fueron santificados o hechos __<u>santos</u>__. Habían sido separados como la posesión exclusiva de Dios. ¡Haber sido hecho santo es una verdad posicional!
 
-    c.  Ellos fueron justificados -- declarados __<u>rectos</u>__ ante Dios -- en la corte del Cielo.
+####    c.  Ellos fueron justificados -- declarados __<u>rectos</u>__ ante Dios -- en la corte del Cielo.
 
-1.  En el día de nuestra salvación fuimos justificados y nunca más Dios nos llamará "__<u>injustos.</u>__" Romanos 3:24,28; 5:1,9,19; 8:30; Gálatas 2:16; Tito 3:7; Hebreos 10:38
+##### 1.  En el día de nuestra salvación fuimos justificados y nunca más Dios nos llamará "__<u>injustos.</u>__" Romanos 3:24,28; 5:1,9,19; 8:30; Gálatas 2:16; Tito 3:7; Hebreos 10:38
 
-2.  Al justificar a una persona, Dios nunca más tomará en __<u>cuenta</u>__ sus pecados. ÉL perdona al pecador, lo exonera judicialmente de todos los cargos y lo pone en libertad. Romanos 4:7-8
+##### 2.  Al justificar a una persona, Dios nunca más tomará en __<u>cuenta</u>__ sus pecados. ÉL perdona al pecador, lo exonera judicialmente de todos los cargos y lo pone en libertad. Romanos 4:7-8
 
-3.  Toda la doctrina de la justificación es completamente anormal. Nosotros los que somos __<u>dignos</u>__ de la pena de muerte, somos declarados rectos para con Dios por Dios mismo, en base a los méritos de Cristo. Romanos 5:8,16-18;\ 2 Corintios 5:21\
+##### 3.  Toda la doctrina de la justificación es completamente anormal. Nosotros los que somos __<u>dignos</u>__ de la pena de muerte, somos declarados rectos para con Dios por Dios mismo, en base a los méritos de Cristo. Romanos 5:8,16-18;\ 2 Corintios 5:21\
 
 ### 3.  1 Corintios 6:12-20 -- Pablo da instrucciones sobre el uso apropiado del cuerpo del cristiano y amonesta contra la inmoralidad.
 
-    a.  Pablo se refiere a dos dichos falsos de los corintios en cuanto al __<u>cuerpo</u>__ humano.
+####    a.  Pablo se refiere a dos dichos falsos de los corintios en cuanto al __<u>cuerpo</u>__ humano.
 
-1.  1 Corintios 6:12 -- Los envanecidos corintios estaban diciendo: *Todas las cosas me son* *lícitas...* Los corintios estaban diciendo que ellos tenían la __<u>libertad</u>__ cristiana para hacer todo lo que quisieran. Pablo da dos argumentos contundentes contra esta manera errónea de pensar.
+##### 1.  1 Corintios 6:12 -- Los envanecidos corintios estaban diciendo: *Todas las cosas me son* *lícitas...* Los corintios estaban diciendo que ellos tenían la __<u>libertad</u>__ cristiana para hacer todo lo que quisieran. Pablo da dos argumentos contundentes contra esta manera errónea de pensar.
 
-    a.  1 Corintios 6:12a -- La primera respuesta de Pablo podría formularse así, "__<u>No</u>__, todas las cosas no son legales, en el sentido de que **no** todo es beneficioso o útil."
+######    a.  1 Corintios 6:12a -- La primera respuesta de Pablo podría formularse así, "__<u>No</u>__, todas las cosas no son legales, en el sentido de que **no** todo es beneficioso o útil."
 
-    b.  1 Corintios 6:12b -- La segunda respuesta de Pablo dice básicamente, "__<u>Sí,</u>__ todas las cosas **son** lícitas por cuanto tienes libertad, pero recuerda, que si permites que algo te domine, llegas a ser esclavo de eso."\ Romanos 6:16,19
+######    b.  1 Corintios 6:12b -- La segunda respuesta de Pablo dice básicamente, "__<u>Sí,</u>__ todas las cosas **son** lícitas por cuanto tienes libertad, pero recuerda, que si permites que algo te domine, llegas a ser esclavo de eso."\ Romanos 6:16,19
 
-2.  1 Corintios 6:13-14 -- Los orgullosos corintios estaban diciendo: *Las viandas para el vientre, y el vientre para las viandas,* de modo que Pablo les da cuatro fuertes argumentos en contra de tal __<u>error</u>__.
+##### 2.  1 Corintios 6:13-14 -- Los orgullosos corintios estaban diciendo: *Las viandas para el vientre, y el vientre para las viandas,* de modo que Pablo les da cuatro fuertes argumentos en contra de tal __<u>error</u>__.
 
-    a.  1 Corintios 6:13a -- La primera respuesta de Pablo es que su razonamiento estaba mal porque un día Dios **destruirá** (Griego: KATERGEO __<u>hacer</u>__ inactivo, hacer innecesario) el vientre (estómago) y la vianda (alimento). En la eternidad nosotros comeremos, pero no por necesidad. Mateo 8:11, Marcos 14:25, Romanos 14:17
+######    a.  1 Corintios 6:13a -- La primera respuesta de Pablo es que su razonamiento estaba mal porque un día Dios **destruirá** (Griego: KATERGEO __<u>hacer</u>__ inactivo, hacer innecesario) el vientre (estómago) y la vianda (alimento). En la eternidad nosotros comeremos, pero no por necesidad. Mateo 8:11, Marcos 14:25, Romanos 14:17
 
-    b.  1 Corintios 6:13b -- La segunda respuesta de Pablo era que su razonamiento estaba mal porque el cuerpo __<u>no</u>__ está para la indulgencia sexual. Romanos 6:13, 12:1
+######    b.  1 Corintios 6:13b -- La segunda respuesta de Pablo era que su razonamiento estaba mal porque el cuerpo __<u>no</u>__ está para la indulgencia sexual. Romanos 6:13, 12:1
 
-    c.  1 Corintios 6:13c -- La tercera respuesta de Pablo es que su razonamiento está mal porque la verdad es que el __<u>cuerpo</u>__ *es para el Señor y el Señor para el cuerpo*.
+######    c.  1 Corintios 6:13c -- La tercera respuesta de Pablo es que su razonamiento está mal porque la verdad es que el __<u>cuerpo</u>__ *es para el Señor y el Señor para el cuerpo*.
 
-    d.  1 Corintios 6:14 -- La cuarta repuesta de Pablo es que su razonamiento está mal, porque nuestros cuerpos físicos presentes serán realmente resucitados tal como el __<u>cuerpo</u>__ físico de Cristo fue resucitado. Ciertamente, nuestros cuerpos serán cambiados o glorificados en aquel día. Romanos 8:23, 1 Corintios 15:35-58
+######    d.  1 Corintios 6:14 -- La cuarta repuesta de Pablo es que su razonamiento está mal, porque nuestros cuerpos físicos presentes serán realmente resucitados tal como el __<u>cuerpo</u>__ físico de Cristo fue resucitado. Ciertamente, nuestros cuerpos serán cambiados o glorificados en aquel día. Romanos 8:23, 1 Corintios 15:35-58
 
-    b.  1 Corintios 6:15-17 -- Pablo enseña el __<u>punto</u>__ __<u>de</u>__ __<u>vista</u>__ correcto sobre el cuerpo del cristiano.
+####    b.  1 Corintios 6:15-17 -- Pablo enseña el __<u>punto</u>__ __<u>de</u>__ __<u>vista</u>__ correcto sobre el cuerpo del cristiano.
 
-1.  1 Corintios 6:15a -- Como creyentes, nuestros cuerpos físicos deben ser considerados **miembros** (Griego: MELOS, __<u>extremidades</u>__, partes del cuerpo) de Cristo. Cristo se expresa por medio de nuestros cuerpos físicos como si fueran Sus manos o pies.
+##### 1.  1 Corintios 6:15a -- Como creyentes, nuestros cuerpos físicos deben ser considerados **miembros** (Griego: MELOS, __<u>extremidades</u>__, partes del cuerpo) de Cristo. Cristo se expresa por medio de nuestros cuerpos físicos como si fueran Sus manos o pies.
 
-2.  1 Corintios 6:15b -- Usar inmoralmente nuestros cuerpos físicos es __<u>como</u>__ dejar que las manos de Cristo abracen una ramera. Por eso él añade: *De ningún modo*.
+##### 2.  1 Corintios 6:15b -- Usar inmoralmente nuestros cuerpos físicos es __<u>como</u>__ dejar que las manos de Cristo abracen una ramera. Por eso él añade: *De ningún modo*.
 
-3.  1 Corintios 6:16 -- Involucrarse de esta manera es llegar a ser __<u>una</u>__ persona (como si estuvieras casado con) la persona inmoral.
+##### 3.  1 Corintios 6:16 -- Involucrarse de esta manera es llegar a ser __<u>una</u>__ persona (como si estuvieras casado con) la persona inmoral.
 
-4.  1 Corintios 6:17 -- La verdad es que en la salvación hemos llegado a ser un __<u>espíritu</u>__ con el Señor. Esto hace que la inmoralidad sea algo impensable.
+##### 4.  1 Corintios 6:17 -- La verdad es que en la salvación hemos llegado a ser un __<u>espíritu</u>__ con el Señor. Esto hace que la inmoralidad sea algo impensable.
 
-    c.  1 Corintios 6:18-20 -- Pablo da la __<u>respuesta</u>__ apropiada a la inmoralidad de nuestra sociedad.
+####    c.  1 Corintios 6:18-20 -- Pablo da la __<u>respuesta</u>__ apropiada a la inmoralidad de nuestra sociedad.
 
-1.  1 Corintios 6:18a -- ¡__<u>Huye</u>__ de la inmoralidad! ¡Corre de ella por tu vida!
+##### 1.  1 Corintios 6:18a -- ¡__<u>Huye</u>__ de la inmoralidad! ¡Corre de ella por tu vida!
 
-2.  1 Corintios 6:18b -- Entiende que la inmoralidad es un pecado en contra de tu __<u>propio</u>__ cuerpo. Sí, es un pecado contra Dios (Génesis 39:9), pero de una manera diferente, es un pecado que es particularmente dañino para ti y tu propio cuerpo físico.
+##### 2.  1 Corintios 6:18b -- Entiende que la inmoralidad es un pecado en contra de tu __<u>propio</u>__ cuerpo. Sí, es un pecado contra Dios (Génesis 39:9), pero de una manera diferente, es un pecado que es particularmente dañino para ti y tu propio cuerpo físico.
 
-3.  1 Corintios 6:19-20 -- Deberíamos tener el punto de vista __<u>divino</u>__ de Dios, en cuanto a nuestros cuerpos humanos.
+##### 3.  1 Corintios 6:19-20 -- Deberíamos tener el punto de vista __<u>divino</u>__ de Dios, en cuanto a nuestros cuerpos humanos.
 
-    a.  1 Corintios 6:19a -- Tú cuerpo humano es un __<u>templo</u>__ del ***Espíritu*** ***Santo***, que mora en ti, y que te ha sido dado por Dios.
+######    a.  1 Corintios 6:19a -- Tú cuerpo humano es un __<u>templo</u>__ del ***Espíritu*** ***Santo***, que mora en ti, y que te ha sido dado por Dios.
 
-    b.  1 Corintios 6:19b -- Tu cuerpo humano __<u>ya</u>__ no es de tu propiedad.
+######    b.  1 Corintios 6:19b -- Tu cuerpo humano __<u>ya</u>__ no es de tu propiedad.
 
-    c.  1 Corintios 6:20a -- Todo tu ser (contexto, ***cuerpo***) fue comprado por un __<u>precio</u>__ muy alto; ¡Tú rescatarte costó la vida de Jesús!
+######    c.  1 Corintios 6:20a -- Todo tu ser (contexto, ***cuerpo***) fue comprado por un __<u>precio</u>__ muy alto; ¡Tú rescatarte costó la vida de Jesús!
 
-    d.  1 Corintios 6:20b -- Tu cuerpo humano es el único vehículo por medio del cual puedes __<u>glorificar</u>__ a Dios.
+######    d.  1 Corintios 6:20b -- Tu cuerpo humano es el único vehículo por medio del cual puedes __<u>glorificar</u>__ a Dios.
 
-**![](media/image6.jpg){width="6.5in" height="4.875in"}
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1corintios1-8/media/image6.jpg" data-background-position="" data-background-size="cover" -->
+*En cuanto a las cosas de que me escribisteis... 1 Corintios 7:1a*
 
 # VI. **1** **Corintios** **7:1-40** **--** **Pablo** **Responde** **Preguntas** **Relacionadas** **con** **el** **Matrimonio**
 
@@ -1420,25 +1422,25 @@ ___
 
 ####    b.  Esta concesión __<u>parece</u>__ ir contra la enseñanza bíblica general en cuanto al matrimonio.
 
-#####1.  Génesis 2:18 y 2:24 indica que no es __<u>bueno</u>__ que el hombre esté solo.
+##### 1.  Génesis 2:18 y 2:24 indica que no es __<u>bueno</u>__ que el hombre esté solo.
 
-#####2.  Proverbios 18:22 dice que *el que haya esposa halla el __<u>bien</u>__*__<u>.</u>__
+##### 2.  Proverbios 18:22 dice que *el que haya esposa halla el __<u>bien</u>__*__<u>.</u>__
 
-#####3.  Hebreos 13:4 dice que el matrimonio __<u>es</u>__ honroso.
+##### 3.  Hebreos 13:4 dice que el matrimonio __<u>es</u>__ honroso.
 
-#####4.  Pablo mismo advierte que una de las características de la apostasía de los últimos tiempos en la iglesia, sería el prohibir *__<u>casarse</u>__*. 1 Timoteo 4:3
+##### 4.  Pablo mismo advierte que una de las características de la apostasía de los últimos tiempos en la iglesia, sería el prohibir *__<u>casarse</u>__*. 1 Timoteo 4:3
 
-#####5.  1 Timoteo 5:14 muestra que Pablo claramente anima a las __<u>viudas</u>__ jóvenes a volver a casarse.
+##### 5.  1 Timoteo 5:14 muestra que Pablo claramente anima a las __<u>viudas</u>__ jóvenes a volver a casarse.
 
-#####6.  De hecho, __<u>aquí</u>__ mismo en 1 Corintios 6:2 y 6:28 sigue recomendando el matrimonio.
+##### 6.  De hecho, __<u>aquí</u>__ mismo en 1 Corintios 6:2 y 6:28 sigue recomendando el matrimonio.
 
 ####    c.  No hay contradicción.
 
-#####1.  Pablo dice específicamente que estaba bien permanecer soltero. Él era __<u>soltero</u>__.
+##### 1.  Pablo dice específicamente que estaba bien permanecer soltero. Él era __<u>soltero</u>__.
 
-#####2.  Podemos asegurar bíblicamente que aunque Pablo dijo en el primer versículo que *bueno le sería a un hombre no tocar mujer*; generalmente el celibato sería considerado la excepción y no la __<u>regla</u>__. ...*por vía de* *concesión*... versículo 6
+##### 2.  Podemos asegurar bíblicamente que aunque Pablo dijo en el primer versículo que *bueno le sería a un hombre no tocar mujer*; generalmente el celibato sería considerado la excepción y no la __<u>regla</u>__. ...*por vía de* *concesión*... versículo 6
 
-###2.  1 Corintios 7:2 -- Puesto que Pablo dice claramente que *bueno le sería al hombre no tocar* *mujer, ¿*aconseja él a los solteros de Corinto a no casarse?
+### 2.  1 Corintios 7:2 -- Puesto que Pablo dice claramente que *bueno le sería al hombre no tocar* *mujer, ¿*aconseja él a los solteros de Corinto a no casarse?
 
 ####    a.  __<u>No</u>__, el aconsejaría a los corintios que se casen. Pero, ¿por qué?
 
@@ -1446,7 +1448,7 @@ ___
 
 ####    c.  1 Corintios 7:2b -- Nótese que Pablo puso de relieve la definición de que el matrimonio es entre un hombre y __<u>una</u>__ mujer. ...*cada uno tenga su propia mujer y cada una tenga su* *propio marido*.
 
-###3.  1 Corintios 7:3-5a -- ¿Es bueno, en general, que parejas casadas se abstengan físicamente el uno del otro? __<u>No</u>__: no es bueno negar el uno al otro la relación física.
+### 3.  1 Corintios 7:3-5a -- ¿Es bueno, en general, que parejas casadas se abstengan físicamente el uno del otro? __<u>No</u>__: no es bueno negar el uno al otro la relación física.
 
 ####    a.  1 Corintios 7:3 --Pablo dice que es nuestro __<u>deber</u>__ marital no negarnos físicamente el uno al otro.
 
@@ -1454,25 +1456,25 @@ ___
 
 ####    c.  1 Corintios 7:5a -- No os __<u>neguéis</u>__ (griego: APOSTEREO, un verbo en tiempo presente, voz activa, y modo imperativo que significa "no robes o prives." Es un mandato firme). Pablo manda a las parejas casadas a no negar el uno al otro el aspecto físico del matrimonio.
 
-###4.  1 Corintios 7:5b-6 -- ¿Es permisible que a veces las parejas casadas se abstengan físicamente el uno del otro?
+### 4.  1 Corintios 7:5b-6 -- ¿Es permisible que a veces las parejas casadas se abstengan físicamente el uno del otro?
 
 ####    a.  1 Corintios 7:5b -- Sí, puedes abstenerte de la relación física bajo una condición -- para __<u>orar</u>__.
 
 ####    b.  1 Corintios 7:5c -- Guía para abstenerse de la relación física en el matrimonio.
 
-#####1.  Tiene que ser por mutuo __<u>acuerdo</u>__. ... *de mutuo consentimiento*\...
+##### 1.  Tiene que ser por mutuo __<u>acuerdo</u>__. ... *de mutuo consentimiento*\...
 
-#####2.  Tiene que ser un interludio __<u>limitado</u>__. ...*por algún tiempo*...
+##### 2.  Tiene que ser un interludio __<u>limitado</u>__. ...*por algún tiempo*...
 
-#####3.  Tiene que ser por una __<u>razón</u>__ espiritual. ...*para ocuparos sosegadamente en la oración*...
+##### 3.  Tiene que ser por una __<u>razón</u>__ espiritual. ...*para ocuparos sosegadamente en la oración*...
 
-#####4.  Tiene que tener un fin planificado. ...*y __<u>volved</u>__ a juntaros*...
+##### 4.  Tiene que tener un fin planificado. ...*y __<u>volved</u>__ a juntaros*...
 
-#####5.  Hay definitivamente un riesgo si no vuelven a juntarse. ...*para* *que no os __<u>tiente</u>__ Satanás*...
+##### 5.  Hay definitivamente un riesgo si no vuelven a juntarse. ...*para* *que no os __<u>tiente</u>__ Satanás*...
 
 ####    c.  1 Corintios 7:6 -- Esta cesación de lo físico para orar es la única excepción; es una concesión, no un __<u>mandamiento</u>__.
 
-###5.  1 Corintios 7:7-9 -- Pablo da instrucciones a los solteros y a __<u>las</u>__ __<u>viudas</u>__.
+### 5.  1 Corintios 7:7-9 -- Pablo da instrucciones a los solteros y a __<u>las</u>__ __<u>viudas</u>__.
 
 ####    a.  1 Corintios 7:7a -- Pablo dice que es perfectamente aceptable ser soltero, y en el mejor de los casos, eso es lo que él __<u>desearía</u>__ para todo creyente.
 
@@ -1482,296 +1484,295 @@ ___
 
 ####    d.  1 Corintios 7:8 -- Aquí él menciona __<u>dos</u>__ clases de solteros.
 
-#####1.  1 Corintios 7:8a -- Los ***solteros*** (Griego: AGAMOS, los que al momento no están casados) son __<u>libres</u>__ de seguir solteros. Veamos el uso del término *soltero* en 1 Corintios 7.
+##### 1.  1 Corintios 7:8a -- Los ***solteros*** (Griego: AGAMOS, los que al momento no están casados) son __<u>libres</u>__ de seguir solteros. Veamos el uso del término *soltero* en 1 Corintios 7.
 
-    a.  *Soltero* se refiere a una persona que al presente no está __<u>casada</u>__ (griego: GAMOS, casado y AGAMOS soltero, no casado). Esta palabra solo se usa en este capítulo de la Biblia.
+######    a.  *Soltero* se refiere a una persona que al presente no está __<u>casada</u>__ (griego: GAMOS, casado y AGAMOS soltero, no casado). Esta palabra solo se usa en este capítulo de la Biblia.
 
-    i.  1 Corintios 7:32 dice que el soltero es __<u>libre</u>__ para ocuparse de las cosas del Señor.
+######    i.  1 Corintios 7:32 dice que el soltero es __<u>libre</u>__ para ocuparse de las cosas del Señor.
 
-    ii. 1 Corintios 7:34 hace una diferencia __<u>entre</u>__ una mujer *casada* y una *doncella* (virgen).
+######    ii. 1 Corintios 7:34 hace una diferencia __<u>entre</u>__ una mujer *casada* y una *doncella* (virgen).
 
-    iii. 1 Corintios 7:8, 9 se refiere a los *solteros* que se __<u>casan</u>__.
+######    iii. 1 Corintios 7:8, 9 se refiere a los *solteros* que se __<u>casan</u>__.
 
-    iv. 1 Corintios 7:10-11 tiene un significado conciso para el término *soltero* cuando dice que si una mujer creyente se separa de su marido creyente, debe __<u>quedar</u>__ (AGAMOS) *sin casarse*, soltera.
+######    iv. 1 Corintios 7:10-11 tiene un significado conciso para el término *soltero* cuando dice que si una mujer creyente se separa de su marido creyente, debe __<u>quedar</u>__ (AGAMOS) *sin casarse*, soltera.
 
-    b.  Conclusión: La palabra *soltero* en 1 Corintios 7 __<u>significa</u>__ una persona que estaba previamente casada, pero que no está casada al momento.
+######    b.  Conclusión: La palabra *soltero* en 1 Corintios 7 __<u>significa</u>__ una persona que estaba previamente casada, pero que no está casada al momento.
 
-    c.  1 Corintios 7:8b --...*bueno les fuera quedarse como yo*... podría implicar fácilmente que Pablo había estado casado __<u>antes</u>__ y que su matrimonio había terminado en divorcio o que había quedado viudo.
+######    c.  1 Corintios 7:8b --...*bueno les fuera quedarse como yo*... podría implicar fácilmente que Pablo había estado casado __<u>antes</u>__ y que su matrimonio había terminado en divorcio o que había quedado viudo.
 
-#####2.  1 Corintios 7:8c -- las *__<u>Viudas</u>__* (incluyendo viudos) son libres de quedar solteros.
+##### 2.  1 Corintios 7:8c -- las *__<u>Viudas</u>__* (incluyendo viudos) son libres de quedar solteros.
 
-    a.  Pablo asegura a las viudas que sería honorable quedar solteras, pero esto debería ser considerado una excepción de Pablo a la __<u>regla</u>__ general que había dado.
+######    a.  Pablo asegura a las viudas que sería honorable quedar solteras, pero esto debería ser considerado una excepción de Pablo a la __<u>regla</u>__ general que había dado.
 
-    b.  1 Corintios 7:39-40 -- Pablo dijo a las viudas que son libres de volverse a casar, lo que está de acuerdo con su enseñanza __<u>normal</u>__ en el asunto. Romanos 7:2-3
+######    b.  1 Corintios 7:39-40 -- Pablo dijo a las viudas que son libres de volverse a casar, lo que está de acuerdo con su enseñanza __<u>normal</u>__ en el asunto. Romanos 7:2-3
 
-    c.  1 Timoteo 5:14-15 -- Como regla general, Pablo siempre animó a las viudas __<u>jóvenes</u>__ a volverse a casar.
+######    c.  1 Timoteo 5:14-15 -- Como regla general, Pablo siempre animó a las viudas __<u>jóvenes</u>__ a volverse a casar.
 
 ####    e.  1 Corintios 7:9 -- Si alguien no tiene el *__<u>don</u>__ de continencia* (1 Corintios 7:7) Pablo diría que esa persona debería casarse.
 
-1.  1 Corintios 7:9a -- Si tienes __<u>falta</u>__ de auto-control, cásate.
+##### 1.  1 Corintios 7:9a -- Si tienes __<u>falta</u>__ de auto-control, cásate.
 
-    a.  Esto no __<u>significa</u>__ que todas las personas casadas tienen falta de auto-control y que por eso se han casado.
+######    a.  Esto no __<u>significa</u>__ que todas las personas casadas tienen falta de auto-control y que por eso se han casado.
 
-    b.  Pablo se refiere al hecho de que algunas personas tienen el don de ser __<u>solteras</u>__ pero otras no.
+######    b.  Pablo se refiere al hecho de que algunas personas tienen el don de ser __<u>solteras</u>__ pero otras no.
 
-2.  1 Corintios 7:9b -- Si tienes deseos de casarte, entonces __<u>cásate</u>__.
+##### 2.  1 Corintios 7:9b -- Si tienes deseos de casarte, entonces __<u>cásate</u>__.
 
-    a.  Pablo dijo que es mejor casarse que estarse ***quemando*** (griego: PYROUSTHAI, está en tiempo pasivo y significa ser incendiado o __<u>ser</u>__ inflamado).
+######    a.  Pablo dijo que es mejor casarse que estarse ***quemando*** (griego: PYROUSTHAI, está en tiempo pasivo y significa ser incendiado o __<u>ser</u>__ inflamado).
 
-    b.  Es mejor casarse que estar ardiendo con el __<u>deseo</u>__ de casarse.
+######    b.  Es mejor casarse que estar ardiendo con el __<u>deseo</u>__ de casarse.
 
 ##    C.  **1** **Corintios** **7:10-16** **--** **Segunda** **Pregunta:** **¿Qué** **instrucción** **tenía** **Pablo** **para** **el** **matrimonio?\**
 
-###1.  **Instrucciones** **para** **parejas** **inconversas**: Pablo no se pronunció en cuanto al matrimonio y el divorcio entre parejas no salvas. (1 Corintios 5:12-13) Dios ha establecido el gobierno __<u>humano</u>__ para tratar con esas circunstancias.
+### 1.  **Instrucciones** **para** **parejas** **inconversas**: Pablo no se pronunció en cuanto al matrimonio y el divorcio entre parejas no salvas. (1 Corintios 5:12-13) Dios ha establecido el gobierno __<u>humano</u>__ para tratar con esas circunstancias.
 
-###2.  1 Corintios 7:10 -- **Instrucción** **para** **parejas** **creyentes** Mateo 19:11-12, Lucas 16:18
+### 2.  1 Corintios 7:10 -- **Instrucción** **para** **parejas** **creyentes** Mateo 19:11-12, Lucas 16:18
 
 ####    a.  1 Corintios 7:10a -- *Pero a los que están unidos en matrimonio mando no yo, sino el* *__<u>Señor</u>__...* Pablo declaró que Jesucristo ha hablado sobre este asunto.
 
 ####    b.  1 Corintios 7:10b-11a -- Pablo resume las instrucciones de Jesús diciendo que la mujer no se __<u>divorcie</u>__ del marido y que el marido no abandone a su mujer.
 
-#####1.  Mateo 19:3-6 -- Jesús dijo, que lo que Dios ha __<u>unido</u>__, no lo separe el hombre.
+##### 1.  Mateo 19:3-6 -- Jesús dijo, que lo que Dios ha __<u>unido</u>__, no lo separe el hombre.
 
-#####2.  Mateo 19:8-9 -- Jesús dijo que la __<u>única</u>__ razón justificable para el divorcio era por fornicación (griego: PORNEIA, inmoralidad sexual de cualquier tipo).
+##### 2.  Mateo 19:8-9 -- Jesús dijo que la __<u>única</u>__ razón justificable para el divorcio era por fornicación (griego: PORNEIA, inmoralidad sexual de cualquier tipo).
 
 ####    c.  1 Corintios 7:11 -- Pablo ahora __<u>agregó</u>__ a lo que Jesús dijo y se refiere al divorcio entre creyentes.
 
-#####1.  1 Corintios 7:11a -- La mujer creyente no debe __<u>separarse</u>__ de su marido creyente, pero si lo hace...
+##### 1.  1 Corintios 7:11a -- La mujer creyente no debe __<u>separarse</u>__ de su marido creyente, pero si lo hace...
 
-    a.  Que se __<u>quede</u>__ sin casar (griego: AGAMOS, no casada en el presente).
+######    a.  Que se __<u>quede</u>__ sin casar (griego: AGAMOS, no casada en el presente).
 
-    b.  O que se reconcilie con su __<u>marido</u>__.
+######    b.  O que se reconcilie con su __<u>marido</u>__.
 
-#####2.  1 Corintios 7:11b -- El marido creyente no __<u>abandone</u>__ a su mujer creyente, pero si lo hace... (Por inferencia, lo que es válido para la mujer, es válido para el marido).
+##### 2.  1 Corintios 7:11b -- El marido creyente no __<u>abandone</u>__ a su mujer creyente, pero si lo hace... (Por inferencia, lo que es válido para la mujer, es válido para el marido).
 
-    a.  *Que se __<u>quede</u>__ sin casar.*
+######    a.  *Que se __<u>quede</u>__ sin casar.*
 
-    b.  *O que se reconcilie con su __<u>mujer</u>__.\
-*
+######    b.  *O que se reconcilie con su __<u>mujer</u>__.\*
 
-###3.  1 Corintios 7:12-13 -- **Instrucción** **para** **cristianos** **casados** **en** __<u>yugo</u>__ **desigual.**
+### 3.  1 Corintios 7:12-13 -- **Instrucción** **para** **cristianos** **casados** **en** __<u>yugo</u>__ **desigual.**
 
 ####    a.  1 Corintios 7:12a -- Pablo o Jesús:
 
-#####1.  *Y a los demás digo yo, no el Señor* se refiere al hecho de que Jesús nunca __<u>enseñó</u>__ sobre este punto. Él no está diciendo que esto no es inspirado.
+##### 1.  *Y a los demás digo yo, no el Señor* se refiere al hecho de que Jesús nunca __<u>enseñó</u>__ sobre este punto. Él no está diciendo que esto no es inspirado.
 
-#####2.  La enseñanza de Pablo aquí es __<u>inspirada</u>__ por el Espíritu Santo y debe ser tomada en cuenta.
+##### 2.  La enseñanza de Pablo aquí es __<u>inspirada</u>__ por el Espíritu Santo y debe ser tomada en cuenta.
 
-#####3.  Jesús nunca se refirió en particular a lo que se debe hacer en caso de divorcio, cuando un cónyuge es creyente y el otro __<u>no</u>__ lo es.
+##### 3.  Jesús nunca se refirió en particular a lo que se debe hacer en caso de divorcio, cuando un cónyuge es creyente y el otro __<u>no</u>__ lo es.
 
 ####    b.  Si te encuentras casado en yugo desigual, debes __<u>permanecer</u>__ casado...
 
-#####1.  1 Corintios 7:12b -- Si un hombre creyente tiene una mujer que no es creyente y ella consiente en seguir con él, él no es libre para __<u>abandonarla</u>__ (divorciarse de ella).
+##### 1.  1 Corintios 7:12b -- Si un hombre creyente tiene una mujer que no es creyente y ella consiente en seguir con él, él no es libre para __<u>abandonarla</u>__ (divorciarse de ella).
 
-#####2.  Pero si un hombre creyente tiene una mujer que no es creyente y ella se separa (lo abandona), en este caso, él es __<u>libre</u>__ de los lazos matrimoniales.\ 1 Corintios 7:15
+##### 2.  Pero si un hombre creyente tiene una mujer que no es creyente y ella se separa (lo abandona), en este caso, él es __<u>libre</u>__ de los lazos matrimoniales.\ 1 Corintios 7:15
 
-#####3.  1 Corintios 7:13 -- A la inversa, si la mujer creyente tiene un marido que no es creyente y él consiente en vivir con ella, no le está permitido dejarlo (__<u>divorciarse</u>__ de él).
+##### 3.  1 Corintios 7:13 -- A la inversa, si la mujer creyente tiene un marido que no es creyente y él consiente en vivir con ella, no le está permitido dejarlo (__<u>divorciarse</u>__ de él).
 
-#####4.  Pero si la mujer creyente tiene un marido que no es creyente y él se separa (la abandona), en ese caso, ella es __<u>libre</u>__ de los lazos matrimoniales.\ 1 Corintios 7:15
+##### 4.  Pero si la mujer creyente tiene un marido que no es creyente y él se separa (la abandona), en ese caso, ella es __<u>libre</u>__ de los lazos matrimoniales.\ 1 Corintios 7:15
 
 ####    c.  1 Corintios 7:14-16 -- ¿Cuál es la dinámica de una pareja en yugo desigual?
 
-#####1.  Corintios 7:14a -- **Tu** **cónyuge** **no** **salvo** **está** **en** **un** **matrimonio** **privilegiado**. El marido o la mujer incrédulo está en una relación privilegiada (santificada), porque él o ella está casada con alguien que es muy especial para el Señor y está bajo Su directo __<u>cuidado</u>__.
+##### 1.  Corintios 7:14a -- **Tu** **cónyuge** **no** **salvo** **está** **en** **un** **matrimonio** **privilegiado**. El marido o la mujer incrédulo está en una relación privilegiada (santificada), porque él o ella está casada con alguien que es muy especial para el Señor y está bajo Su directo __<u>cuidado</u>__.
 
-    a.  Considera cómo esa vil ciudad de Sodoma habría sido perdonada si __<u>diez</u>__ personas justas hubiesen estado viviendo en ella. Génesis 18
+######    a.  Considera cómo esa vil ciudad de Sodoma habría sido perdonada si __<u>diez</u>__ personas justas hubiesen estado viviendo en ella. Génesis 18
 
-    b.  Considera cómo Potifar fue bendecido porque José estaba en su casa. Génesis 39:1-6
+######    b.  Considera cómo Potifar fue bendecido porque José estaba en su casa. Génesis 39:1-6
 
-#####2.  1 Corintios 7:14b -- **Tus** **hijos** **son** **especiales** **para** **el** **Señor**. Los hijos de la pareja en yugo desigual son __<u>santos</u>__ (santificados) para el Señor por causa del cónyuge creyente. Ellos no se vuelven inmundos o impíos por causa de su padre incrédulo.
+##### 2.  1 Corintios 7:14b -- **Tus** **hijos** **son** **especiales** **para** **el** **Señor**. Los hijos de la pareja en yugo desigual son __<u>santos</u>__ (santificados) para el Señor por causa del cónyuge creyente. Ellos no se vuelven inmundos o impíos por causa de su padre incrédulo.
 
-#####3.  1 Corintios 7:15-16 -- **No** **busques** **el** **divorcio,** **pero** **no** **lo** **impidas** **si** **sucede**. __<u>Nunca</u>__ busques el divorcio, pero si el incrédulo quiere irse, la instrucción es dejarlo partir.
+##### 3.  1 Corintios 7:15-16 -- **No** **busques** **el** **divorcio,** **pero** **no** **lo** **impidas** **si** **sucede**. __<u>Nunca</u>__ busques el divorcio, pero si el incrédulo quiere irse, la instrucción es dejarlo partir.
 
-    a.  1 Corintios 7:15a -- El cónyuge creyente no está bajo __<u>servidumbre</u>__ (Griego: DOULOO, estar esclavizado), y en ese caso queda libre de los lazos del matrimonio.
+######    a.  1 Corintios 7:15a -- El cónyuge creyente no está bajo __<u>servidumbre</u>__ (Griego: DOULOO, estar esclavizado), y en ese caso queda libre de los lazos del matrimonio.
 
-    b.  1 Corintios 7:15b-- El cónyuge creyente está llamado a tener __<u>paz</u>__ en su corazón y en sus pensamientos y no debe pelear para mantener el matrimonio.
+######    b.  1 Corintios 7:15b-- El cónyuge creyente está llamado a tener __<u>paz</u>__ en su corazón y en sus pensamientos y no debe pelear para mantener el matrimonio.
 
-    c.  1 Corintios 7:16a -- Nunca debes buscar el divorcio, pero Pablo dijo que no puedes saber si tendrás parte en la salvación del cónyuge incrédulo, de modo que no tienes que tratar de mantener el matrimonio con la esperanza de que el otro será __<u>salvo.</u>__
+######    c.  1 Corintios 7:16a -- Nunca debes buscar el divorcio, pero Pablo dijo que no puedes saber si tendrás parte en la salvación del cónyuge incrédulo, de modo que no tienes que tratar de mantener el matrimonio con la esperanza de que el otro será __<u>salvo.</u>__
 
-    i.  El creyente que fue divorciado de un matrimonio de yugo desigual no tiene que quedar __<u>sin</u>__ __<u>casarse</u>__, tal como sucede en el mandato de la separación de una pareja creyente. 1 Corintios 7:11
+######    i.  El creyente que fue divorciado de un matrimonio de yugo desigual no tiene que quedar __<u>sin</u>__ __<u>casarse</u>__, tal como sucede en el mandato de la separación de una pareja creyente. 1 Corintios 7:11
 
-    ii. El creyente que fue divorciado en un matrimonio de yugo desigual, no tiene el mandato de __<u>buscar</u>__ la reconciliación como en el caso del creyente en el matrimonio cristiano.
+######    ii. El creyente que fue divorciado en un matrimonio de yugo desigual, no tiene el mandato de __<u>buscar</u>__ la reconciliación como en el caso del creyente en el matrimonio cristiano.
 
 ####    d.  1 Corintios 7:15 -- *No está el hermano o la hermana sujeto a servidumbre en semejante caso...; Pero si el incrédulo se separa, sepárese;...que a paz nos llamó Dios,* todo indica que hay __<u>libertad</u>__ de los lazos matrimoniales si el incrédulo te divorcia.
 
-#####1.  Aquí están los motivos bíblicos para estar liberado de los __<u>lazos</u>__ matrimoniales y la libertad consecuente para volverse a casar.
+##### 1.  Aquí están los motivos bíblicos para estar liberado de los __<u>lazos</u>__ matrimoniales y la libertad consecuente para volverse a casar.
 
-    a.  La __<u>muerte</u>__ del cónyuge. Romanos 7:2
+######    a.  La __<u>muerte</u>__ del cónyuge. Romanos 7:2
 
-    b.  **Fornicación** de __<u>parte</u>__ de cualquiera de los dos esposos. Mateo 19:9
+######    b.  **Fornicación** de __<u>parte</u>__ de cualquiera de los dos esposos. Mateo 19:9
 
-    c.  **Abandono** por parte del __<u>cónyuge</u>__ incrédulo. 1 Corintios 7:15
+######    c.  **Abandono** por parte del __<u>cónyuge</u>__ incrédulo. 1 Corintios 7:15
 
-    d.  __<u>Divorcio</u>__ anterior a la salvación. 1 Corintios 7:17,20,24
+######    d.  __<u>Divorcio</u>__ anterior a la salvación. 1 Corintios 7:17,20,24
 
-#####2.  Solo el cristiano divorciado de un matrimonio cristiano debe __<u>quedar</u>__ sin casarse. 1 Corintios 7:11a
+##### 2.  Solo el cristiano divorciado de un matrimonio cristiano debe __<u>quedar</u>__ sin casarse. 1 Corintios 7:11a
 
-#####3.  Otros __<u>cristianos</u>__ divorciados de un matrimonio en yugo desigual son libres de...
+##### 3.  Otros __<u>cristianos</u>__ divorciados de un matrimonio en yugo desigual son libres de...
 
-    a.  Permanecer __<u>solteros</u>__ (sin casarse) de acuerdo con 1 Corintios 7:7
+######    a.  Permanecer __<u>solteros</u>__ (sin casarse) de acuerdo con 1 Corintios 7:7
 
-    b.  O __<u>volver</u>__ a casarse en el Señor (solo con un creyente) según\ 1 Corintios 7:9,15
+######    b.  O __<u>volver</u>__ a casarse en el Señor (solo con un creyente) según\ 1 Corintios 7:9,15
 
 ##    D.  **1** **Corintios** **7:17-24** **--** **Un** **importante** **principio** **de** **la** **vida:** **No** **trates** **de** **cambiar** **tu** __<u>estado</u>__ **matrimonial.** **1** **Tim** **6:6**
 
-###1.  1 Corintios 7:17-19 -- ***Pero*** ***cada*** ***uno*** ***como*** ***el*** ***Señor*** ***le*** ***repartió...así*** ***haga.*** Pablo enseña que el cristiano debe __<u>andar</u>__ (seguir en el mismo camino) *en el estado en que fue llamado.*
+### 1.  1 Corintios 7:17-19 -- ***Pero*** ***cada*** ***uno*** ***como*** ***el*** ***Señor*** ***le*** ***repartió...así*** ***haga.*** Pablo enseña que el cristiano debe __<u>andar</u>__ (seguir en el mismo camino) *en el estado en que fue llamado.*
 
 ####    a.  1 Corintios 7:17a -- Esto significa que has de __<u>vivir</u>__ *como el Señor te lo ha **asignado***, encarando tú situación como tú área de responsabilidad.
 
-#####1.  Pablo no dijo que no debemos tratar de mejorar nuestra __<u>condición</u>__ en la vida. No está diciendo que estamos sentenciados a vivir en la situación en que estábamos cuando fuimos salvos.
+##### 1.  Pablo no dijo que no debemos tratar de mejorar nuestra __<u>condición</u>__ en la vida. No está diciendo que estamos sentenciados a vivir en la situación en que estábamos cuando fuimos salvos.
 
-#####2.  El contexto inmediato es el matrimonio. Pablo está enseñando que como creyente, Dios no está diciendo que cambies tu __<u>estado</u>__ matrimonial.
+##### 2.  El contexto inmediato es el matrimonio. Pablo está enseñando que como creyente, Dios no está diciendo que cambies tu __<u>estado</u>__ matrimonial.
 
 ####    b.  1 Corintios 7:18-19 -- Pero este mismo principio se aplica también a otras áreas. Revertir la circuncisión era el __<u>tema</u>__ candente del día.
 
-#####1.  1 Corintios 7:18a -- Pablo dijo que si habías sido circuncidado cuando fuiste salvo, que no trates de __<u>revertir</u>__ eso. (Ese procedimiento médico está bien documentado).
+##### 1.  1 Corintios 7:18a -- Pablo dijo que si habías sido circuncidado cuando fuiste salvo, que no trates de __<u>revertir</u>__ eso. (Ese procedimiento médico está bien documentado).
 
-#####2.  1 Corintios 7:18b -- Si eras incircunciso cuando fuiste salvo, no trates de __<u>cambiar</u>__ eso.
+##### 2.  1 Corintios 7:18b -- Si eras incircunciso cuando fuiste salvo, no trates de __<u>cambiar</u>__ eso.
 
-#####3.  1 Corintios 7:19 -- Ninguna de esas cosas importaban. Pero lo que __<u>siempre</u>__ es importante es nuestra obediencia a la Palabra de Dios. Juan 14:15
+##### 3.  1 Corintios 7:19 -- Ninguna de esas cosas importaban. Pero lo que __<u>siempre</u>__ es importante es nuestra obediencia a la Palabra de Dios. Juan 14:15
 
-###2.  1 Corintios 7:20-23 -- El creyente debe *__<u>quedar</u>__* ***en*** ***la*** ***condición*** ***en*** ***que*** ***fue*** ***llamado***.
+### 2.  1 Corintios 7:20-23 -- El creyente debe *__<u>quedar</u>__* ***en*** ***la*** ***condición*** ***en*** ***que*** ***fue*** ***llamado***.
 
 ####    a.  1 Corintios 7:20 -- Podemos aplicar a nosotros ese mismo principio.
 
-#####1.  Si cuando fuiste salvo ya estabas casado, no __<u>trates</u>__ de cambiar nada.
+##### 1.  Si cuando fuiste salvo ya estabas casado, no __<u>trates</u>__ de cambiar nada.
 
-#####2.  Si eras __<u>soltero</u>__ cuando fuiste salvo, no sientas prisa de cambiar eso.
+##### 2.  Si eras __<u>soltero</u>__ cuando fuiste salvo, no sientas prisa de cambiar eso.
 
 ####    b.  1 Corintios 7:21-22 -- Pablo trata otro tópico apasionante del día -- libertad de esclavitud.
 
-#####1.  Trasfondo Efesios 6:5-9; Colosenses 3:22-25
+##### 1.  Trasfondo Efesios 6:5-9; Colosenses 3:22-25
 
-    a.  Se estima que en las ciudades griegas, dos de cada tres personas que veías en las calles eran __<u>esclavos</u>__.
+######    a.  Se estima que en las ciudades griegas, dos de cada tres personas que veías en las calles eran __<u>esclavos</u>__.
 
-    b.  Muchos de los convertidos al cristianismo eran __<u>esclavos</u>__. Filemón 1:10-20
+######    b.  Muchos de los convertidos al cristianismo eran __<u>esclavos</u>__. Filemón 1:10-20
 
-#####2.  1 Corintios 7:21a -- Si eres esclavo, no te __<u>molestes</u>__ por tu suerte en la vida.
+##### 2.  1 Corintios 7:21a -- Si eres esclavo, no te __<u>molestes</u>__ por tu suerte en la vida.
 
-#####3.  1 Corintios 7:21b -- Si la __<u>libertad</u>__ está a tu alcance, tómala, por cierto.
+##### 3.  1 Corintios 7:21b -- Si la __<u>libertad</u>__ está a tu alcance, tómala, por cierto.
 
-#####4.  1 Corintios 7:22a -- Esclavos, considérense libres en __<u>Cristo</u>__.
+##### 4.  1 Corintios 7:22a -- Esclavos, considérense libres en __<u>Cristo</u>__.
 
-#####5.  1 Corintios 7:22b -- Gente libre, considérense __<u>esclavos</u>__ de Cristo.
+##### 5.  1 Corintios 7:22b -- Gente libre, considérense __<u>esclavos</u>__ de Cristo.
 
-    a.  1 Corintios 7:23a -- Dios __<u>pagó</u>__ el tesoro más grande del cielo, la muerte de Jesucristo, para comprarte.
+######    a.  1 Corintios 7:23a -- Dios __<u>pagó</u>__ el tesoro más grande del cielo, la muerte de Jesucristo, para comprarte.
 
-    b.  1 Corintios 7:23b -- No te hagas __<u>esclavo</u>__ de los hombres. Gálatas 1:10
+######    b.  1 Corintios 7:23b -- No te hagas __<u>esclavo</u>__ de los hombres. Gálatas 1:10
 
 ####    c.  Aplicando esto a los corintios como también a nosotros, según el contexto inmediato podemos decir...
 
-#####1.  Si estás __<u>ligado</u>__ en matrimonio, no trates de cambiar eso.
+##### 1.  Si estás __<u>ligado</u>__ en matrimonio, no trates de cambiar eso.
 
-#####2.  Si tu cónyuge incrédulo quiere salirse del matrimonio, no le resistas. En ese caso estás __<u>libre</u>__. 1 Corintios 7:13-16
+##### 2.  Si tu cónyuge incrédulo quiere salirse del matrimonio, no le resistas. En ese caso estás __<u>libre</u>__. 1 Corintios 7:13-16
 
-#####3.  Si estás libre de __<u>atadura,</u>__ no te sientas presionado a cambiar eso tampoco (tengo que casarme).
+##### 3.  Si estás libre de __<u>atadura,</u>__ no te sientas presionado a cambiar eso tampoco (tengo que casarme).
 
-###3.  1 Corintios 7:24 -- ***Quédate*** ***con*** ***Dios*** ***tal*** ***como*** ***estás...*** Deberías de estar __<u>contento</u>__ con la situación en que estabas cuando fuiste salvo.
+### 3.  1 Corintios 7:24 -- ***Quédate*** ***con*** ***Dios*** ***tal*** ***como*** ***estás...*** Deberías de estar __<u>contento</u>__ con la situación en que estabas cuando fuiste salvo.
 
 ####    a.  Esta es la __<u>tercera</u>__ vez en ocho versículos que Pablo dice estas claras palabras.\  1 Corintios 7:17,20,24
 
-#####1.  Pablo no está diciendo que nunca deberíamos tratar de cambiar nuestra suerte en la vida (cambiar de trabajo, de casa, etc.) Él estaba diciendo, que no deberíamos __<u>cambiar</u>__ nuestro enfoque, ni angustiarnos acerca de dónde nos encontramos.
+##### 1.  Pablo no está diciendo que nunca deberíamos tratar de cambiar nuestra suerte en la vida (cambiar de trabajo, de casa, etc.) Él estaba diciendo, que no deberíamos __<u>cambiar</u>__ nuestro enfoque, ni angustiarnos acerca de dónde nos encontramos.
 
-#####2.  En el contexto, Pablo exhorta al creyente a estar conforme con su estado matrimonial. Quédate tal como __<u>estabas</u>__ cuando fuiste salvo.
+##### 2.  En el contexto, Pablo exhorta al creyente a estar conforme con su estado matrimonial. Quédate tal como __<u>estabas</u>__ cuando fuiste salvo.
 
 ####    b.  Si estabas casado, soltero, divorciado, viudo cuando fuiste salvo, no te sientas obligado a cambiar algo. No sientas que tienes que hacer algo __<u>drástico</u>__. Ejemplos: 1 Corintios 7:26-28ª
 
-#####1.  1 Corintios 7:18 -- Si fueras un gentil en los días de Pablo, no sentirías la necesidad de una gran __<u>cirugía</u>__ de circuncisión, o si fueras judío, no sentirías la necesidad de revertir tú circuncisión médicamente.
+##### 1.  1 Corintios 7:18 -- Si fueras un gentil en los días de Pablo, no sentirías la necesidad de una gran __<u>cirugía</u>__ de circuncisión, o si fueras judío, no sentirías la necesidad de revertir tú circuncisión médicamente.
 
-#####2.  1 Corintios 7:21-23 -- Si fueras un esclavo no tendrías que sentir como que tienes que lograr tu libertad a cualquier costo, incluso recibiendo __<u>daño</u>__ por causa de tu auto emancipación. Pero si se presentaba la oportunidad, por si sola de ser libre, deberías de tomarla por todos los medios.
+##### 2.  1 Corintios 7:21-23 -- Si fueras un esclavo no tendrías que sentir como que tienes que lograr tu libertad a cualquier costo, incluso recibiendo __<u>daño</u>__ por causa de tu auto emancipación. Pero si se presentaba la oportunidad, por si sola de ser libre, deberías de tomarla por todos los medios.
 
-#####3.  1 Corintios 7:12-13 -- Y tal como en los días de Pablo, si estás casado con un inconverso, no sientas como que te tienes que __<u>salir</u>__ de ese matrimonio.
+##### 3.  1 Corintios 7:12-13 -- Y tal como en los días de Pablo, si estás casado con un inconverso, no sientas como que te tienes que __<u>salir</u>__ de ese matrimonio.
 
 ##    E.  **1** **Corintios** **7:25-38** **--** **La** **Tercera** **Pregunta:** **¿Qué** **instrucción** **hay** **para** **hijas** **vírgenes?**
 
-###1.  1 Corintios 7:25 -- __<u>Jesús</u>__ no enseñó en cuanto a este tema, pero Pablo tenía consejo confiable. Estaba escribiendo bajo la influencia del Espíritu.
+### 1.  1 Corintios 7:25 -- __<u>Jesús</u>__ no enseñó en cuanto a este tema, pero Pablo tenía consejo confiable. Estaba escribiendo bajo la influencia del Espíritu.
 
-###2.  1 Corintios 7:26-35 -- Tres razones prácticas para que las ***vírgenes*** permanecieren __<u>solteras</u>__, si ellas lo querían (o si su padre lo deseaba, como era el caso en Corinto para la mayoría de las hijas en esos días).
+### 2.  1 Corintios 7:26-35 -- Tres razones prácticas para que las ***vírgenes*** permanecieren __<u>solteras</u>__, si ellas lo querían (o si su padre lo deseaba, como era el caso en Corinto para la mayoría de las hijas en esos días).
 
 ####    a.  1 Corintios 7:26-28 -- La primera razón para que una virgen quedara soltera (no fuese dada en matrimonio por su padre), era que Pablo podía ver el __<u>sufrimiento</u>__ en la presente situación para los creyentes en Corinto. *...a causa de la necesidad que apremia...*
 
-#####1.  1 Corintios 7:26-27 -- Había muchas dificultades en Corinto para los casados y los solteros, de modo que Pablo sugería que la gente se __<u>contentara</u>__ con su condición.
+##### 1.  1 Corintios 7:26-27 -- Había muchas dificultades en Corinto para los casados y los solteros, de modo que Pablo sugería que la gente se __<u>contentara</u>__ con su condición.
 
-#####2.  1 Corintios 7:28a -- Pero fiel a lo que ya había dicho, si ella se casaba, ella no estaba haciendo nada __<u>malo</u>__. 1 Corintios 7:2, 8-9
+##### 2.  1 Corintios 7:28a -- Pero fiel a lo que ya había dicho, si ella se casaba, ella no estaba haciendo nada __<u>malo</u>__. 1 Corintios 7:2, 8-9
 
-#####3.  1 Corintios 7:28b -- Pablo estaba prediciendo persecución para el futuro, lo que sucedió a través del mundo Romano por casi __<u>300</u>__ años.
+##### 3.  1 Corintios 7:28b -- Pablo estaba prediciendo persecución para el futuro, lo que sucedió a través del mundo Romano por casi __<u>300</u>__ años.
 
 ####    b.  1 Corintios 7:29-31 -- La segunda razón para que una virgen quedara soltera (no fuese dada en matrimonio por su padre), era a causa de los siniestros días que los corintios tenían por delante. ...*el tiempo es corto*...
 
-#####1.  1 Corintios 7:29 -- Pablo predice __<u>tiempos</u>__ difíciles en el futuro cercano para los que están en Corinto.
+##### 1.  1 Corintios 7:29 -- Pablo predice __<u>tiempos</u>__ difíciles en el futuro cercano para los que están en Corinto.
 
-#####2.  1 Corintios 7:30-31 -- Ha habido tiempos similares en la historia de la iglesia, donde el sobrevivir y el matrimonio, son las cosas más importantes, la aflicción o el __<u>trabajo</u>__, etc. son secundarios.
+##### 2.  1 Corintios 7:30-31 -- Ha habido tiempos similares en la historia de la iglesia, donde el sobrevivir y el matrimonio, son las cosas más importantes, la aflicción o el __<u>trabajo</u>__, etc. son secundarios.
 
 ####    c.  1 Corintios 7:32-35 --La tercera razón para que una virgen quedara soltera (no fuese dada en matrimonio por su padre), era para que pudiera dedicarse por completo al __<u>servicio</u>__ del Señor.
 
-#####1.  1 Corintios 7:32a -- Pablo anima a las vírgenes a permanecer solteras, para que no se preocupen por el cuidado de sus __<u>familias</u>__ en el difícil ambiente de Corinto. *Quisiera que estuvieseis sin congoja...*
+##### 1.  1 Corintios 7:32a -- Pablo anima a las vírgenes a permanecer solteras, para que no se preocupen por el cuidado de sus __<u>familias</u>__ en el difícil ambiente de Corinto. *Quisiera que estuvieseis sin congoja...*
 
-#####2.  1 Corintios 7:32b -- Pablo enseñó que si estuvieran casadas, ellas no podrían __<u>dedicarse</u>__ sin distracción a servir a Dios. *el* *soltero tiene cuidado de las cosas del Señor*.
+##### 2.  1 Corintios 7:32b -- Pablo enseñó que si estuvieran casadas, ellas no podrían __<u>dedicarse</u>__ sin distracción a servir a Dios. *el* *soltero tiene cuidado de las cosas del Señor*.
 
-    a.  1 Corintios 7:34b -- Un __<u>hombre</u>__ casado tiene que ocuparse de lo secular (su trabajo) para mantener contentos a su esposa y familia. ...*se preocupa de las cosas del mundo, de* *cómo agradar a su mujer*...
+######    a.  1 Corintios 7:34b -- Un __<u>hombre</u>__ casado tiene que ocuparse de lo secular (su trabajo) para mantener contentos a su esposa y familia. ...*se preocupa de las cosas del mundo, de* *cómo agradar a su mujer*...
 
-    b.  1 Corintios 7:34c -- Una mujer soltera (divorciada o viuda) y la virgen pueden concentrarse en el Señor con __<u>cuerpo</u>__ y espíritu. *la virgen \[mujer soltera\] tiene cuidado de las cosas del Señor...*
+######    b.  1 Corintios 7:34c -- Una mujer soltera (divorciada o viuda) y la virgen pueden concentrarse en el Señor con __<u>cuerpo</u>__ y espíritu. *la virgen \[mujer soltera\] tiene cuidado de las cosas del Señor...*
 
-    c.  1 Corintios 7:34d -- La mujer casada tiene que ocuparse de las cosas del mundo, de cómo __<u>agradar</u>__ a su marido. ...*pero la casada tiene cuidado de las cosas del mundo*, *de cómo agradar a su marido*.
+######    c.  1 Corintios 7:34d -- La mujer casada tiene que ocuparse de las cosas del mundo, de cómo __<u>agradar</u>__ a su marido. ...*pero la casada tiene cuidado de las cosas del mundo*, *de cómo agradar a su marido*.
 
-#####3.  1 Corintios 7:35 -- El apóstol Pablo hace un __<u>resumen</u>__ del por qué desanima a las mujeres solteras y a las vírgenes de Corinto de contraer matrimonio.
+##### 3.  1 Corintios 7:35 -- El apóstol Pablo hace un __<u>resumen</u>__ del por qué desanima a las mujeres solteras y a las vírgenes de Corinto de contraer matrimonio.
 
-    a.  1 Corintios 7:35a -- Él dice que lo hace para su __<u>bien</u>__, por las circunstancias en que viven. *Esto lo digo para vuestro provecho...*
+######    a.  1 Corintios 7:35a -- Él dice que lo hace para su __<u>bien</u>__, por las circunstancias en que viven. *Esto lo digo para vuestro provecho...*
 
-    b.  1 Corintios 7:35b -- No lo dice para poner __<u>restricciones</u>__ sobre ellas. ...*no para* *tenderos lazo*... Ellas eran libres de casarse si querían.
+######    b.  1 Corintios 7:35b -- No lo dice para poner __<u>restricciones</u>__ sobre ellas. ...*no para* *tenderos lazo*... Ellas eran libres de casarse si querían.
 
-    c.  1 Corintios 7:35c -- Él quería lo __<u>mejor</u>__ para su situación actual. ...*para lo honesto y* *decente*...
+######    c.  1 Corintios 7:35c -- Él quería lo __<u>mejor</u>__ para su situación actual. ...*para lo honesto y* *decente*...
 
-    d.  1 Corintios 7:35d -- El esperaba que ellas pudieran dedicar sus vidas __<u>por</u>__ __<u>completo</u>__ al Señor. ...*para que sin impedimento os acerquéis al Señor.\ *
+######    d.  1 Corintios 7:35d -- El esperaba que ellas pudieran dedicar sus vidas __<u>por</u>__ __<u>completo</u>__ al Señor. ...*para que sin impedimento os acerquéis al Señor.\ *
 
-###3.  1 Corintios 7:36-38 -- Una __<u>respuesta</u>__ a la pregunta de los ***padres*** en corinto sobre sus hijas vírgenes solteras.
+### 3.  1 Corintios 7:36-38 -- Una __<u>respuesta</u>__ a la pregunta de los ***padres*** en corinto sobre sus hijas vírgenes solteras.
 
 ####    a.  1 Corintios 7:36a -- *Si alguno piensa que ha actuado de manera impropia para con su* *hija*...
 
-#####1.  Aquí no se infiere a nada inmoral en cuanto a los __<u>padres</u>__ respecto a sus hijas.
+##### 1.  Aquí no se infiere a nada inmoral en cuanto a los __<u>padres</u>__ respecto a sus hijas.
 
-#####2.  A juzgar por el lenguaje y el contexto, muchos maestros de la Biblia piensan que muchos padres en Corinto habían hecho el __<u>juramento</u>__ de nunca entregar a sus hijas en matrimonio.
+##### 2.  A juzgar por el lenguaje y el contexto, muchos maestros de la Biblia piensan que muchos padres en Corinto habían hecho el __<u>juramento</u>__ de nunca entregar a sus hijas en matrimonio.
 
-#####3.  Pablo estaba respondiendo una pregunta de aquellos padres que ahora pensaban que habían actuado de manera vergonzosa hacia sus hijas al tomar la decisión __<u>precipitada</u>__ de nunca darlas en matrimonio.
+##### 3.  Pablo estaba respondiendo una pregunta de aquellos padres que ahora pensaban que habían actuado de manera vergonzosa hacia sus hijas al tomar la decisión __<u>precipitada</u>__ de nunca darlas en matrimonio.
 
-#####4.  Si este era el caso, y el contexto parece indicar que lo era, la respuesta de Pablo es que no tenía nada malo retractarse de esa decisión. No sería __<u>pecado</u>__ hacerlo.
+##### 4.  Si este era el caso, y el contexto parece indicar que lo era, la respuesta de Pablo es que no tenía nada malo retractarse de esa decisión. No sería __<u>pecado</u>__ hacerlo.
 
 ####    b.  1 Corintios 7:36b -- Estaba bien __<u>quebrantar</u>__ el juramento y dejar que se casara ***SI***
 
-#####1.  *Pero si alguno piensa* (Griego: NOMIZEI, recapacita) *que es impropio para su hija virgen...* lo que significa que si ha hecho un voto de no dejar que su hija se case y que ahora siente que eso fue una __<u>mala</u>__ decisión.
+##### 1.  *Pero si alguno piensa* (Griego: NOMIZEI, recapacita) *que es impropio para su hija virgen...* lo que significa que si ha hecho un voto de no dejar que su hija se case y que ahora siente que eso fue una __<u>mala</u>__ decisión.
 
-#####2.  *Que pase ya de edad...* Si ella ahora es __<u>adulta</u>__...
+##### 2.  *Que pase ya de edad...* Si ella ahora es __<u>adulta</u>__...
 
-#####3.  *Y es necesario que así sea...* es decir, si resulta que ahora es lo __<u>mejor</u>__ para ella\... 1 Corintios 7:7
+##### 3.  *Y es necesario que así sea...* es decir, si resulta que ahora es lo __<u>mejor</u>__ para ella\... 1 Corintios 7:7
 
-#####4.  *El no peca*... está bien retractarse de ese __<u>juramento</u>__...
+##### 4.  *El no peca*... está bien retractarse de ese __<u>juramento</u>__...
 
-#####5.  ...*que se case*. Estaba bien que el padre permitiera que se __<u>casara</u>__.
+##### 5.  ...*que se case*. Estaba bien que el padre permitiera que se __<u>casara</u>__.
 
 ####    c.  1 Corintios 7:37 -- Por otra parte, estaba bien __<u>mantener</u>__ el voto y no dejar que se casara ***SI***
 
-#####1.  *Pero el que está firme en su corazón*... Si el padre tenía una __<u>firme</u>__ convicción en cuanto al voto que había hecho, no tenía que dejar que se casara.
+##### 1.  *Pero el que está firme en su corazón*... Si el padre tenía una __<u>firme</u>__ convicción en cuanto al voto que había hecho, no tenía que dejar que se casara.
 
-#####2.  *...sin tener necesidad, sino que es dueño de su propia voluntad...* Si el padre no estaba bajo alguna obligación: por ejemplo, si él mismo era __<u>esclavo</u>__ y no podía tomar esa clase de decisiones en cuanto a sus hijos.
+##### 2.  *...sin tener necesidad, sino que es dueño de su propia voluntad...* Si el padre no estaba bajo alguna obligación: por ejemplo, si él mismo era __<u>esclavo</u>__ y no podía tomar esa clase de decisiones en cuanto a sus hijos.
 
-#####3.  ...*y ha resuelto esto en su corazón*... Si podía tomar sus propias decisiones. Si no estaba obligado o controlado por la __<u>voluntad</u>__ de otros, él podía mantener la decisión de no dejar que su hija se casara -- si esa era su firme convicción.
+##### 3.  ...*y ha resuelto esto en su corazón*... Si podía tomar sus propias decisiones. Si no estaba obligado o controlado por la __<u>voluntad</u>__ de otros, él podía mantener la decisión de no dejar que su hija se casara -- si esa era su firme convicción.
 
-#####4.  Conclusión: Permítanle __<u>tener</u>__ a su hija virgen como un miembro de su casa; él hace bien, si así lo hace.
+##### 4.  Conclusión: Permítanle __<u>tener</u>__ a su hija virgen como un miembro de su casa; él hace bien, si así lo hace.
 
 ####    d.  1 Corintios 7:38 -- En cualquiera de los casos no estás haciendo nada malo ***SI***
 
-#####1.  __<u>Das</u>__ a tú hija en matrimonio, haces bien
+##### 1.  __<u>Das</u>__ a tú hija en matrimonio, haces bien
 
-#####2.  si __<u>no</u>__ __<u>la</u>__ __<u>das</u>__ en casamiento, haces mejor. Esto por causa de las tres razones dadas más arriba en cuanto a los difíciles días que enfrentarían los corintios en el futuro cercano. 1 Corintios 7:26-35
+##### 2.  si __<u>no</u>__ __<u>la</u>__ __<u>das</u>__ en casamiento, haces mejor. Esto por causa de las tres razones dadas más arriba en cuanto a los difíciles días que enfrentarían los corintios en el futuro cercano. 1 Corintios 7:26-35
 
 ####    e.  Dos puntos para reflexionar.
 
-#####1.  __<u>Conténtate</u>__ con tu suerte en la vida. 1 Corintios 7:17, 20,24,
+##### 1.  __<u>Conténtate</u>__ con tu suerte en la vida. 1 Corintios 7:17, 20,24,
 
-#####2.  Ten __<u>cuidado</u>__ de no hacer juicios (votos) apresurados en cuanto a tu familia.
+##### 2.  Ten __<u>cuidado</u>__ de no hacer juicios (votos) apresurados en cuanto a tu familia.
 
 ##    F.  **1** **Corintios** **7:39-40** -- **La** **Cuarta** **Pregunta:** **¿Qué** **instrucciones** **tenía** **Pablo** **para** **las** **viudas?**
 
-###1.  1 Corintios 7:39 -- Indicaciones generales para las viudas.
+### 1.  1 Corintios 7:39 -- Indicaciones generales para las viudas.
 
 ####    a.  La mujer está __<u>ligada</u>__ (Griego: DEO, atada, bajo obligación, deber) a su marido mientras él viva. Romanos 7:2
 
@@ -1779,7 +1780,7 @@ ___
 
 ####    c.  Lo único es que tiene que casarse *en el Señor*, es decir, tiene que casarse con un __<u>creyente</u>__.
 
-###2.  1 Corintios 7:40 -- Recomendaciones específicas para viudas.
+### 2.  1 Corintios 7:40 -- Recomendaciones específicas para viudas.
 
 ####    a.  En la opinión de Pablo ella sería más __<u>feliz</u>__ si queda sin casarse (por causa de la situación de corinto) por cuanto su opinión normal es que ellas vuelvan a casarse. 1 Timoteo 5:14
 
@@ -1787,54 +1788,53 @@ ___
 
 ####    c.  Pablo lo dijo de esta manera porque estaba respondiendo a las preguntas, no porque __<u>dudara</u>__ de su precisión en el asunto.
 
-![](media/image7.jpeg){width="6.5in" height="7.059524278215223in"}**\**
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1corintios1-8/media/image7.jpeg" data-background-size="cover" -->
 
 # VII. **1** **Corintios** **8:1-11:1** **--** **Pablo** **Responde** **Preguntas** **sobre** **Libertades** **Cristianas.**
 
 ## A.  **1** **Corintios** **8:1-6** **--** **¿Tenemos** **libertad** **de** **comer** __<u>alimentos</u>__ **de** **los** **templos** **de** **los** **ídolos?** **¿Qué** **de** **lo** **sacrificado** **a** **los** **ídolos?**
 
- a.  1 Corintios 8:1 -- Pablo advirtió en contra del pensar que tienes todo el conocimiento y motivó el __<u>amor</u>__ sobre la *inteligencia*. *Todos tenemos conocimiento*...
+### a.  1 Corintios 8:1 -- Pablo advirtió en contra del pensar que tienes todo el conocimiento y motivó el __<u>amor</u>__ sobre la *inteligencia*. *Todos tenemos conocimiento*...
 
- b.  1 Corintios 8:1a -- __<u>Todos</u>__ tienen conocimiento (inteligencia general o entendimiento) sobre alimentos ofrecidos a los ídolos, ¿verdad?
+### b.  1 Corintios 8:1a -- __<u>Todos</u>__ tienen conocimiento (inteligencia general o entendimiento) sobre alimentos ofrecidos a los ídolos, ¿verdad?
 
-##### 1.  Pablo usó hábilmente __<u>proverbios</u>__ comunes que los corintios acostumbraban recitar.
+#### 1.  Pablo usó hábilmente __<u>proverbios</u>__ comunes que los corintios acostumbraban recitar.
 
- a.  *Todas las cosas me son __<u>lícitas</u>__* 1 Corintios 6:12, 10:23
+##### a.  *Todas las cosas me son __<u>lícitas</u>__* 1 Corintios 6:12, 10:23
 
- b.  *Las viandas para el vientre y el vientre para la __<u>viandas</u>__* 1 Corintios 6:13
+##### b.  *Las viandas para el vientre y el vientre para la __<u>viandas</u>__* 1 Corintios 6:13
 
- c.  *Bueno le sería al hombre no __<u>tocar</u>__ mujer* 1 Corintios 7:1
+##### c.  *Bueno le sería al hombre no __<u>tocar</u>__ mujer* 1 Corintios 7:1
 
- d.  Sabemos que ***todos*** *tenemos conocimiento* 1 Corintios 8:1
+##### d.  Sabemos que ***todos*** *tenemos conocimiento* 1 Corintios 8:1
 
- c.  1 Corintios 8:1b -- Pablo los insta a entender __<u>dos</u>__ puntos muy importantes del conocimiento.
+### c.  1 Corintios 8:1b -- Pablo los insta a entender __<u>dos</u>__ puntos muy importantes del conocimiento.
 
- 1.  Primero, Pablo quería que se cuidaran porque el conocimiento fácilmente __<u>envanece</u>__. 1 Corintios 13:2
+#### 1.  Primero, Pablo quería que se cuidaran porque el conocimiento fácilmente __<u>envanece</u>__. 1 Corintios 13:2
 
- a.  Esta __<u>palabra</u>__ arrogante o *envanecer* (Griego: PHUSIOO, hacer arrogante, inflar, enorgullecer) aparece nueve veces en el NT y seis de ellas en la Primera de Corintios.
+##### a.  Esta __<u>palabra</u>__ arrogante o *envanecer* (Griego: PHUSIOO, hacer arrogante, inflar, enorgullecer) aparece nueve veces en el NT y seis de ellas en la Primera de Corintios.
 
- b.  De esos seis usos, Pablo __<u>acusó</u>__ directamente a los corintios dos veces de ser arrogantes (estar envanecidos). 1 Corintios 4:6,18,19; 5:2; 8:1; 13:4
+##### b.  De esos seis usos, Pablo __<u>acusó</u>__ directamente a los corintios dos veces de ser arrogantes (estar envanecidos). 1 Corintios 4:6,18,19; 5:2; 8:1; 13:4
 
- 2.  Segundo, Pablo quería que ellos se dieran cuenta de que el amor __<u>edifica</u>__ y que por eso es preferible. 1 Corintios 13:1-8a, Efesios 4:15
+#### 2.  Segundo, Pablo quería que ellos se dieran cuenta de que el amor __<u>edifica</u>__ y que por eso es preferible. 1 Corintios 13:1-8a, Efesios 4:15
 
- d.  Los cristianos necesitan saber que el __<u>amor</u>__ es más importante que tener la mente llena de conocimiento.
+### d.  Los cristianos necesitan saber que el __<u>amor</u>__ es más importante que tener la mente llena de conocimiento.
 
- 1.  A menudo oímos decir a la gente, "El conocimiento es __<u>rey</u>__."
+#### 1.  A menudo oímos decir a la gente, "El conocimiento es __<u>rey</u>__."
 
- 2.  Dios nos diría, "*El __<u>amor</u>__ es rey*."
+#### 2.  Dios nos diría, "*El __<u>amor</u>__ es rey*."
 
- 3.  El conocimiento sin __<u>amor</u>__ es la forma más pura de la ignorancia.
+#### 3.  El conocimiento sin __<u>amor</u>__ es la forma más pura de la ignorancia.
 
- 1.  1 Corintios 8:2 -- Si un creyente supone que tiene todo el conocimiento sobre un asunto, él __<u>demuestra</u>__ su total ignorancia. ...*aún no sabe nada como __<u>debe</u>__ saberlo*...
+### 1.  1 Corintios 8:2 -- Si un creyente supone que tiene todo el conocimiento sobre un asunto, él __<u>demuestra</u>__ su total ignorancia. ...*aún no sabe nada como __<u>debe</u>__ saberlo*...
 
- 2.  1 Corintios 8:3 -- Pablo recuerda a sus orgullosos lectores un hecho importante: Dios también tiene ***conocimiento*** -- Dios conocía la verdad de su amor por ÉL.\
- Juan 21:15-17
+### 2.  1 Corintios 8:3 -- Pablo recuerda a sus orgullosos lectores un hecho importante: Dios también tiene ***conocimiento*** -- Dios conocía la verdad de su amor por ÉL.\ Juan 21:15-17
 
- a.  Un cristiano puede decir que ama a Dios, pero Dios __<u>sabe</u>__ si el amor que expresa califica o no, como verdadero amor bíblico. 1 Pedro 1:8, Apocalipsis 2:4
+#### a.  Un cristiano puede decir que ama a Dios, pero Dios __<u>sabe</u>__ si el amor que expresa califica o no, como verdadero amor bíblico. 1 Pedro 1:8, Apocalipsis 2:4
 
- b.  Tu amor por el Señor tiene que ser real para que puedas tener un __<u>real</u>__ amor por la gente. 1 Juan 4:19, 5:2
+#### b.  Tu amor por el Señor tiene que ser real para que puedas tener un __<u>real</u>__ amor por la gente. 1 Juan 4:19, 5:2
 
- c.  En este contexto, Pablo muestra que es mucho más importante entender el amor, que tener contestadas las preguntas sobre los __<u>alimentos</u>__.
+#### c.  En este contexto, Pablo muestra que es mucho más importante entender el amor, que tener contestadas las preguntas sobre los __<u>alimentos</u>__.
 
 ### 3.  1 Corintios 8:4-6 -- *Sabemos*... Pablo da ahora el punto de vista divino de Dios sobre el comer carne sacrificada a los ídolos. Este es el verdadero conocimiento sobre el asunto.
 
