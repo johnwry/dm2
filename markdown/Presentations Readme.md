@@ -41,6 +41,8 @@ style="color:white"
 ```
 ```html
 <!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/Romanos/img/scroll.png" data-background-size="300px" data-background-position="left" data-background-opacity="0.5"-->
+
+<!-- .element: style="color:#1c87c9; -webkit-text-stroke: 2px white; -webkit-font-smoothing: antialiased; text-shadow: 2px 2px #ccc;" -->
 ```
 ```
 data-background-position="right 25% bottom 25%"
