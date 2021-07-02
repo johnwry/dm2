@@ -1,6 +1,7 @@
 <!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/cover.png"  data-background-size="contain" data-auto-animate="" data-menu-title="inicio" data-background-color="black" --> 
 <small>
-ROMANOS 1-8  <!-- .element: style="color:white;" -->
+ROMANOS 1-8  
+<!-- .element: style="color:white;" -->
 Versión: Romanos 5.5
 </small>
 ___
@@ -95,12 +96,13 @@ ___
 | **Cinco Personas que Deberías Conocer**                  |**120**|
 | **Resultados de Vivir Consistentemente una Vida Carnal** |**126**|
 
-# Romanos 1-8 <!-- .element: class="r-fit-text" -->
+# Romanos 1-8 
+<!-- .element: class="r-fit-text" style="color:white;" -->
 <!-- .slide:  data-background-image="https://johnwry.github.io/dm2/markdown/Romanos1-8/img/rom-intro.jpg" data-auto-animate="" data-background-size="contain" data-menu-title="Introducción" data-background-color="black" --> 
 
 # I. Introducción
-
-## A. Importancia del libro de Romanos  <!-- .element: class="fragment fade-up" -->
+## A. Importancia del libro de Romanos  
+<!-- .element: class="fragment fade-up" -->
 
 ### 1. El libro de Romanos es considerado por muchos la carta más importante de Pablo. Explica el marco teológico básico para las **<u>creencias</u>** y prácticas de la iglesia, el cuerpo de Cristo. 
 
