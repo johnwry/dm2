@@ -1,7 +1,7 @@
 <!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1corintios1-8/media/image1.jpeg" data-background-size="cover" -->
 ## 1 Corintios
 <!-- .element: class="r-fit-text" style="color:#1c87c9; -webkit-text-stroke: 2px white; -webkit-font-smoothing: antialiased"  -->
-### UNA IGLESIA EN CONFLICTO
+### **UNA IGLESIA EN CONFLICTO**
 <!-- .element: style="color:#1c87c9; -webkit-text-stroke: 2px white; -webkit-font-smoothing: antialiased" -->
 ___
 La primera carta a los Corintios es un excelente estudio porque nos habla de las situaciones por las cuales pasan las iglesias locales promedio de hoy. El libro abarca situaciones frecuentes que suceden en todas las iglesias y nos proporciona respuestas confiables en cómo resolverlas (1 Corintios 7:40b). Estas respuestas no son, ni remotamente comparables a las filosofías huecas de este mundo, aunque sean presentadas como la última y mejor idea (1 Corintios 1:19-20).
@@ -14,8 +14,10 @@ Bret Nazworth
 Junio, 2013 (2a Edición)
 Derechos de Autor © **2013** **DM2** **International** **Inc.** Todos los derechos reservados
 ___
+<small>
 **Póliza** **de** **los** **Derechos** **de** **Autor.** Traducción no autorizada, re-publicación, duplicación del documento, página de la internet o distribución del correo electrónico de cualquier porción de este material de derechos de autor de cualquier forma, sin el expreso consentimiento escrito de DM2™ es estrictamente prohibido. Puedes usar los materiales de DM2 para tu propio estudio personal o para volverlos a enseñar en una clase, siempre y cuando, el logo de DM2 y esta póliza de los derechos de autor estén incluidos siempre en el material al ser enseñados. Puedes bajar una copia a tú PC, imprimirla o hacer copias para la clase o estudio de grupo Bíblico; sin embargo, no puedes cobrar por este material o por conducir una clase usando el mismo, excepto por el costo actual del copiado. NO puedes hacer cambios a este material, tiene derechos de autor. Para una más amplia exposición de la póliza del DM2 con respecto a los usos de sus materiales, por favor referirse a la página de la internet DM2-USA al <http://www.dm2usa.org>.
 \[DM2™\]
+</small>
 ___
 **Impreso** **y** **Propiedad** **de:**
 **DM2**
@@ -63,7 +65,7 @@ ___
 
 ### 3.  Parecía poco probable que una iglesia __<u>naciera</u>__ en una comunidad tan pecaminosa. Marcos 10:27
 
-##    B.  **La Ciudad**
+##    B.  La Ciudad
 
 ### 1.  Hace dos mil años, Corinto era la __<u>capital</u>__ de la provincia del sur de Grecia llamada Acaya.
 
@@ -139,9 +141,9 @@ ___
 
 <!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1corintios1-8/media/image4.jpg" -->
 
-# II. **1 Corintios 1:1-10 -- Recomendando a los Cristianos  de Corinto**
+# II. 1 Corintios 1:1-10 -- Recomendando a los Cristianos  de Corinto
 
-##    A.  **1** **Corintios** **1:1-9** **--** **Saludos** **e** **introducción** **a** **la** **carta**
+##    A.  1 Corintios 1:1-9 -- Saludos e introducción a la carta
 
 ### 1.  1 Corintios 1:1 -- El **Autor**
 
@@ -241,7 +243,7 @@ ___
 
 ####    d.  __<u>Unidad</u>__ basada en cualquier otra cosa que no sea Jesucristo, no es verdadera unidad, sino solo una débil tolerancia mundana.
 
-##    B.  **1** **Corintios** **1:10** **--** **Algunos** **Principios** **Básicos** **para** **la** **Unidad**
+##    B.  1 Corintios 1:10 -- Algunos Principios Básicos para la Unidad
 
 ### 1.  1 Corintios 1:10a -- Recordar que todos somos hermanos y hermanas en la misma __<u>familia</u>__: *Os ruego, pues, **hermanos**...que todos habléis una misma cosa.*
 
@@ -277,9 +279,9 @@ ___
 
 ### 6.  En resumen: Para tener __<u>unidad</u>__ debemos tener presente que tenemos un Maestro en común y que todos pertenecemos a la misma familia. Esto debería motivarnos a dejar de a un lado las discusiones, para buscar el mutuo entendimiento y las metas en común.
 
-# III. **1** **Corintios** **1:11-17** **--** **Confrontando** **el** **Conflicto** **Corinto**
+# III. 1 Corintios 1:11-17 -- Confrontando el Conflicto Corinto
 
-## A.  **1** **Corintios** **1:11-12** **--** **El** **conflicto** **en** **Corinto.**
+## A.  1 Corintios 1:11-12 -- El conflicto en Corinto.
 
 ### 1.  1 Corintios 1:11 -- Pablo había recibido noticia de que había __<u>disputas</u>__ entre los corintios.
 
