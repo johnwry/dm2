@@ -574,8 +574,7 @@ ___
 
 ####             b.  Al igual que en el Jardín del Edén, en la actualidad todavía hay dos opciones: creer en la Palabra de Dios y vivir o no creer en ella y __<u>morir</u>__.
 
-![](media/image3.png){width="6.141025809273841in" height="6.141025809273841in"}**\
-**
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/discipulado-biblico/media/image3.png" -->
 
 # III. El Modelo Bíblico de Hacer Discípulos
 
@@ -1567,7 +1566,7 @@ ___
 
 ####            c.  Un DL sólo es pagado, ***si su DMR*** es capaz de __<u>levantar</u>__ esos fondos, y ninguna promesa puede ser hecha, de que el empleo y el salario, serán de hecho, garantizados para durar los 10 años completos.
 
-**![](media/image4.jpeg){width="4.0in" height="3.75625in"}
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/discipulado-biblico/media/image4.jpeg" -->
 
 # VI. El Plan de Estudios
 
@@ -1645,7 +1644,7 @@ ___
 
 ####            b.  Un curso de Griego y Hebreo Bíblico.
 
-![](media/image5.wmf){width="3.6534722222222222in" height="3.904166666666667in"}
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/discipulado-biblico/media/image5.wmf" -->
 
 # VII. Conclusión:
 
@@ -1685,6 +1684,12 @@ ___
 
 ####             c.  Dios ha __<u>elegido</u>__ usar hombres y mujeres fieles en una multitud de iglesias Neo Testamentarias, para ser sus **hacedores de discípulos** y completar esta importante misión. 1 Corintios 3:9, Efesios 2:22, 2 Corintios 6:1
 
-###         6.  ![](media/image6.wmf){width="2.9784722222222224in" height="2.1666666666666665in"}¿Estás preparado para el reto? ¡Id y __<u>haced</u>__ **hacedores de discípulos**!
+###         6. ¿Estás preparado para el reto? ¡Id y __<u>haced</u>__ **hacedores de discípulos**!
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/discipulado-biblico/media/image6.wmf" data-background-size="cover" -->
 
 <!-- .slide: data-background-iframe="https://quizizz.com/join" id="examen_quiz_" data-menu-title="QUIZ" data-preload -->
+<section id="examen" data-state="no-toc-progress">
+   <script data-quiz >
+   quiz = {};
+  </script>
+</section>

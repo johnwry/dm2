@@ -1900,3 +1900,8 @@ ___
 #### c.  1 Corintios 8:12 -- Pablo dijo que si tú libertad respecto a algunos alimentos puede causar que un hermano caiga en pecado, él __<u>nunca</u>__ volvería a comer carne otra vez. Él no quería que su conocimiento acerca de los alimentos dañara a hermanos y hermanas en Cristo más débiles.
 
 <!-- .slide: data-background-iframe="https://quizizz.com/join" id="examen_quiz_" data-menu-title="QUIZ" data-preload -->
+<section id="examen" data-state="no-toc-progress">
+   <script data-quiz >
+   quiz = {};
+  </script>
+</section>
