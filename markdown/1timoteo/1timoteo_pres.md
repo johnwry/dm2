@@ -3342,13 +3342,13 @@ Pero los que **quieren enriquecerse** caen en tentación y lazo y en muchos dese
 
 ####            a.  *Huye* es un imperativo de tiempo presente. Timoteo necesitaba obedecer sin __<u>demora</u>__. Pablo advirtió a Timoteo que huyera de los peligros asociados con el deseo por las riquezas.
 
-####            b.  *...tú, oh hombre de Dios\...* Esta es una declaración de posesión, expresando que Timoteo pertenecía a __<u>Dios</u>__*. 2 Timoteo* 2:22
+####            b.  *...tú, oh hombre de Dios...* Esta es una declaración de posesión, expresando que Timoteo pertenecía a __<u>Dios</u>__*. 2 Timoteo* 2:22
 
 ####            c.  1 Pedro 2:12 -- *Manteniendo __<u>buena</u>__ vuestra manera de vivir entre los gentiles; para que en lo que murmuran de vosotros como de malhechores, glorifiquen a Dios en el día de la visitación, al considerar vuestras buenas obras*.
 
 ###        2.  **Sigue:** 1 Timoteo 6:11b -- *...y sigue la justicia, la piedad, la fe, el amor, la paciencia, la mansedumbre.* La palabra *sigue* es un imperativo de tiempo presente que significa trabajar __<u>duro</u>__ por algo. Tan importante como es huir del amor al dinero, es igualmente importante seguir distintas cosas buenas. Filipenses 4:8; 1 Pedro 2:12
 
-####            a.  *La justicia\...* La justicia es lo opuesto a la anarquía; es cumplir con el estándar de Dios. Pablo dijo a Timoteo que buscara la justicia. 1 Pedro 1:15-16 dice: *\"sino, como Aquel que os llamó es Santo, sed también vosotros santos en toda vuestra manera de vivir; porque escrito está: 'Sed santos, porque Yo soy __<u>santo</u>__'".*
+####            a.  *La justicia...* La justicia es lo opuesto a la anarquía; es cumplir con el estándar de Dios. Pablo dijo a Timoteo que buscara la justicia. 1 Pedro 1:15-16 dice: *\"sino, como Aquel que os llamó es Santo, sed también vosotros santos en toda vuestra manera de vivir; porque escrito está: 'Sed santos, porque Yo soy __<u>santo</u>__'".*
 
 #####                1.  Esto no está hablando de la justicia necesaria para ir al cielo. La Escritura enseña que la justicia necesaria para el cielo no se obtiene a través de un proceso de tiempo o por algún esfuerzo personal. La justicia perfecta de Dios se nos concede como un __<u>regalo</u>__ gratuito en el momento preciso en que ponemos nuestra fe en Cristo. Romanos 3:21-22
 
@@ -3358,19 +3358,19 @@ Pero los que **quieren enriquecerse** caen en tentación y lazo y en muchos dese
 
 #####                4.  Hebreos 10:38 -- *Mas el justo vivirá por __<u>fe</u>__; y si retrocediere, no agradará a Mi alma*.
 
-####            b.  *Piedad\...* Esta palabra describe abierta y __<u>audaz</u>__ devoción hacia Dios. Pablo le pidió a Timoteo que exteriorice su devoción a Dios en sus interacciones diarias.
+####            b.  *Piedad...* Esta palabra describe abierta y __<u>audaz</u>__ devoción hacia Dios. Pablo le pidió a Timoteo que exteriorice su devoción a Dios en sus interacciones diarias.
 
 #####                1.  A veces necesitamos ser recordados de externalizar nuestra fe y andar, para dejar que otros sepan lo que realmente está pasando en nuestra comunión con Dios. Sin ningún indicio de hipocresía, Pablo pidió a Timoteo que transmitiera quién y qué era para otros. De esta manera, otros podrían captar su __<u>pasión</u>__. 2 Timoteo 1:7
 
 #####                2.  Jesús es un ejemplo de esto en Juan 11:41-42 donde oró por el bien de __<u>otros</u>__. *\"Entonces Jesús levantó los ojos y dijo: \'Entonces quitaron la piedra de donde había sido puesto el muerto. Y Jesús, alzando los ojos a lo alto, dijo: Padre, gracias Te doy por haberme oído. Yo sabía que siempre Me oyes; pero Lo dije por causa de la multitud que está alrededor, para que crean que Tú me has enviado'\".*
 
-####            c.  *Fe\...* Este concepto no solo habla de todo lo que es creído por los creyentes, sino también de lo que hacemos con las verdades que conocemos. Puesto que es natural confiar en nosotros mismos en lugar de confiar en el Señor y en Su Palabra, Pablo animó a Timoteo a seguir la __<u>fe</u>__.
+####            c.  *Fe...* Este concepto no solo habla de todo lo que es creído por los creyentes, sino también de lo que hacemos con las verdades que conocemos. Puesto que es natural confiar en nosotros mismos en lugar de confiar en el Señor y en Su Palabra, Pablo animó a Timoteo a seguir la __<u>fe</u>__.
 
-####            d.  *Amor\...* Este es el amor incondicional ágape que solo es posible a través del poder del Espíritu de Dios en nuestras vidas (Gálatas 5:22). En 1 Corintios 16:14, Pablo ordenó a los creyentes a que todas las cosas sean hechas en amor. El amor es mayor que el más grande __<u>don</u>__ espiritual que una persona puede poseer.
+####            d.  *Amor...* Este es el amor incondicional ágape que solo es posible a través del poder del Espíritu de Dios en nuestras vidas (Gálatas 5:22). En 1 Corintios 16:14, Pablo ordenó a los creyentes a que todas las cosas sean hechas en amor. El amor es mayor que el más grande __<u>don</u>__ espiritual que una persona puede poseer.
 
 ####            e.  *Paciencia* \['perseverancia' -- LBLA\]\... Esto literalmente significa mantenerse debajo. Significaba mantener el hombro debajo de la carga y no rendirse independientemente de la presión. La perseverancia es lo opuesto a la rendición. Pablo quería que Timoteo fuera tras la perseverancia con valiente __<u>determinación</u>__. Santiago 1:2-4
 
-####            f.  *Mansedumbre*. Esta es la actitud que humildemente __<u>acepta</u>__ los tratos de Dios. Timoteo debía de todo corazón ver sus circunstancias como pasando por el filtro de las manos de Dios. La mansedumbre no es una debilidad, sino más bien una paz interior que fluye de la fe.
+####            f.  *Mansedumbre.* Esta es la actitud que humildemente __<u>acepta</u>__ los tratos de Dios. Timoteo debía de todo corazón ver sus circunstancias como pasando por el filtro de las manos de Dios. La mansedumbre no es una debilidad, sino más bien una paz interior que fluye de la fe.
 
 ###        3.  **Pelea:** 1 Timoteo 6:12a -- *Pelea la buena batalla de la fe*\... Después de decirle a Timoteo qué seguir, Pablo le ordenó *pelear* AGONIZOMAI, o luchar. Puesto que este es un imperativo de tiempo presente, significa que Timoteo debía pelear una __<u>batalla</u>__ inmediata y continua.
 
@@ -3396,7 +3396,7 @@ Pero los que **quieren enriquecerse** caen en tentación y lazo y en muchos dese
 
 #####                4.  1 Juan 1:1-2 -- *Lo que era desde el principio, lo que hemos oído, lo que hemos visto con nuestros ojos, lo que hemos contemplado, y palparon nuestras manos tocante al Verbo de vida (porque la vida fue manifestada, y la hemos visto, y testificamos, y os anunciamos la vida eterna, la cual estaba con el Padre, y se __<u>nos</u>__ manifestó).*
 
-####            b.  1 Timoteo 6:12d -- \...*a la cual asimismo fuiste llamado*\... Timoteo había sido __<u>llamado</u>__ a seguir a Cristo. Nosotros también hemos sido llamados a seguir de cerca a la misma persona, Jesucristo. Juan 15:4-5; Romanos 1:6; Filipenses 3:12-16
+####            b.  1 Timoteo 6:12d -- *...a la cual asimismo fuiste llamado...*  Timoteo había sido __<u>llamado</u>__ a seguir a Cristo. Nosotros también hemos sido llamados a seguir de cerca a la misma persona, Jesucristo. Juan 15:4-5; Romanos 1:6; Filipenses 3:12-16
 
 ####            c.  1 Timoteo 6:12e -- *...habiendo hecho la buena profesión delante de muchos testigos.* Pablo nuevamente usó el artículo definido "la" para hacer una distinción. Timoteo no había hecho una buena profesión, había hecho *__<u>la</u>__ buena profesión* y lo había hecho en presencia de muchos testigos. ¿Cuál era esta profesión?
 
@@ -3406,20 +3406,21 @@ Pero los que **quieren enriquecerse** caen en tentación y lazo y en muchos dese
 
 ###        5.  **Declara**: 1 Timoteo 6:13 -- *Te mando delante de Dios*\... En presencia de dos testigos, Dios el Padre y Dios el Hijo, Pablo desafió a Timoteo a ser fiel para cumplir su llamado. El hecho de que estos dos fueran testigos debió haber sido tanto alentador como desafiante para Timoteo, especialmente __<u>ante</u>__ sus desafíos. 2 Corintios 13:1
 
-####            a.  1 Timoteo 6:13a -- \...*de Dios que da vida a todas las cosas*\... Hablando del Padre, Pablo confiadamente señaló que Él está en control absoluto y total de todas las cosas. Esto le recordaría a Timoteo que podía ser __<u>valiente</u>__.
+####            a.  1 Timoteo 6:13a -- *...de Dios que da vida a todas las cosas...* Hablando del Padre, Pablo confiadamente señaló que Él está en control absoluto y total de todas las cosas. Esto le recordaría a Timoteo que podía ser __<u>valiente</u>__.
 
-####            b.  1 Timoteo 6:13b -- \...*de Jesucristo, que dio testimonio de la buena profesión delante de Poncio Pilato*\... Hablando del Hijo, Pablo señaló cómo Jesús habló con valentía incluso frente a una situación de vida o muerte. Timoteo podía así mismo ser __<u>valiente</u>__. Juan 18:33-38, 19:8-12
+####            b.  1 Timoteo 6:13b -- *...de Jesucristo, que dio testimonio de la buena profesión delante de Poncio Pilato...* Hablando del Hijo, Pablo señaló cómo Jesús habló con valentía incluso frente a una situación de vida o muerte. Timoteo podía así mismo ser __<u>valiente</u>__. Juan 18:33-38, 19:8-12
 
 ###        6.  **Guarda**: 1 Timoteo 6:14 -- *Te mando\... que guardes el mandamiento sin mácula ni reprensión, hasta la aparición de nuestro Señor Jesucristo*\... ¿Cuál era este importante mandamiento que Timoteo necesitaba __<u>guardar</u>__?
 
-####            a.  1 Timoteo 6:14a -- \...*que guardes*\... La palabra traducida *guardes* TEREO significa __<u>velar</u>__ atentamente o proteger. La palabra se usó para la vigilancia de un guardián sobre los prisioneros.
+####            a.  1 Timoteo 6:14a -- *...que guardes...* La palabra traducida *guardes* TEREO significa __<u>velar</u>__ atentamente o proteger. La palabra se usó para la vigilancia de un guardián sobre los prisioneros.
 
-####            b.  1 Timoteo 6:14b -- \...*que guardes el mandamiento*\... Pablo usó nuevamente el artículo definido \"el\" con \"mandamiento\" para recordarle a Timoteo el encargo solemne que le acaba de dar en estos versículos de __<u>huir</u>__, seguir, pelear, apoderarse y declarar.
+####            b.  1 Timoteo 6:14b -- *...que guardes el mandamiento...* Pablo usó nuevamente el artículo definido \"el\" con \"mandamiento\" para recordarle a Timoteo el encargo solemne que le acaba de dar en estos versículos de __<u>huir</u>__, seguir, pelear, apoderarse y declarar.
 
-####            c.  1 Timoteo 6:14c -- \...*sin mácula ni reprensión*\... A la luz del hecho de que los falsos maestros y maestros errados estaban pervirtiendo y corrompiendo el mensaje, Pablo le pidió a Timoteo que mantuviera este mandamiento sin mancha y puro. Timoteo pudo haber acordado hacerlo, pero ¿por cuánto tiempo necesitó estar __<u>vigilante</u>__?
+####            c.  1 Timoteo 6:14c -- *...sin mácula ni reprensión...* A la luz del hecho de que los falsos maestros y maestros errados estaban pervirtiendo y corrompiendo el mensaje, Pablo le pidió a Timoteo que mantuviera este mandamiento sin mancha y puro. Timoteo pudo haber acordado hacerlo, pero ¿por cuánto tiempo necesitó estar __<u>vigilante</u>__?
 
-####            d.  1 Timoteo 6:14d -- \...*hasta la aparición de nuestro Señor Jesucristo*\... Timoteo no debía dejar de pelear hasta el __<u>Rapto</u>__ de la iglesia.
+####            d.  1 Timoteo 6:14d -- *...hasta la aparición de nuestro Señor Jesucristo...*  Timoteo no debía dejar de pelear hasta el __<u>Rapto</u>__ de la iglesia.
 
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1timoteo/img/choir.png" data-background-size="300px" data-background-position="left 50% bottom 85%" data-background-opacity="0.5" -->
 ##    E.  1 Timoteo 6:15-16 -- Doxología
 
 ###        1.  1 Timoteo 6:15a -- *La cual a Su tiempo mostrará* \['manifestará' -- LBLA\]\... Con la mención de la aparición de nuestro Señor Jesucristo, Pablo súbitamente rompió en una dichosa canción de __<u>alabanza</u>__, una doxología para Dios el Padre.
@@ -3428,7 +3429,7 @@ Pero los que **quieren enriquecerse** caen en tentación y lazo y en muchos dese
 
 ####            b.  Ya que solo el Padre conoce el tiempo de *la aparición de nuestro Señor Jesucristo* (1 Timoteo 6:14b), parece mejor entenderse esta doxología como específicamente hablando de Dios el Padre en lugar de Dios el Hijo. Esta interpretación se ajusta mejor al contexto. Mateo 24:36; Marcos 13:32; Hechos 1:7
 
-###        2.  1 Timoteo 6:15b -- *El bienaventurado y solo Soberano, Rey de reyes, y Señor de señores*. Además del culto a Diana, Éfeso era un centro de adoración al emperador. Esta doxología es la declaración de Pablo de que el Dios al que servimos, no cualquier soberano humano, es el único __<u>gobernante</u>__ supremo del universo.
+###        2.  1 Timoteo 6:15b -- *El bienaventurado y solo Soberano, Rey de reyes, y Señor de señores.* Además del culto a Diana, Éfeso era un centro de adoración al emperador. Esta doxología es la declaración de Pablo de que el Dios al que servimos, no cualquier soberano humano, es el único __<u>gobernante</u>__ supremo del universo.
 
 ####            a.  Dios el Padre es descrito como *el bienaventurado y solo Soberano.* Esto significa que Él es el que ocupa la posición más __<u>elevada</u>__ de poder y autoridad en el universo. Salmos 92:8, 97:9
 
@@ -3654,4 +3655,9 @@ Pero los que **quieren enriquecerse** caen en tentación y lazo y en muchos dese
 </svg>
 
 <!-- .slide: data-background-iframe="https://quizizz.com/join" id="examen_quiz_" data-menu-title="QUIZ" data-preload -->
+<section id="examen" data-state="no-toc-progress">
+   <script data-quiz >
+   quiz = {};
+  </script>
+</section>
 
