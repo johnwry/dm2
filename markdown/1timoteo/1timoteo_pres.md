@@ -3439,7 +3439,7 @@ Pero los que **quieren enriquecerse** caen en tentación y lazo y en muchos dese
 
 ####            a.  Dios el Padre es descrito como *el único que tiene inmortalidad.* Esto no solo significa que Dios no puede morir, sino que solamente Él posee esta característica innata. Las personas en sí mismas no poseen este atributo, pero afortunadamente pueden recibir vida eterna por medio del evangelio como un __<u>regalo</u>__ gratuito de parte de Dios.
 
-####            b.  Dios el Padre es también descrito como el *que habita en __<u>luz</u>__ inaccesible.* Esto significa que Él es tan inalcanzablemente perfecto que nadie puede acercarse a Él tal como es; si intentara hacerlo, moriría. Éxodo 33:20 dice, *"No podrás ver Mi rostro; porque no Me verá hombre, y vivirá".*
+####            b.  Dios el Padre es también descrito como el *que habita en __<u>luz</u>__ inaccesible.* Esto significa que Él es tan inalcanzablemente perfecto que nadie puede acercarse a Él tal como es; si intentara hacerlo, moriría. Éxodo 33:20 dice, "*No podrás ver Mi rostro; porque no Me verá hombre, y vivirá*".
 
 ####            c.  Dios el Padre es descrito como *a quien ninguno de los hombres ha visto ni puede ver.* Esto se refiere a ver a Dios en Su verdadera esencia. Juan 1:18 dice: "*A Dios nadie le vio jamás; el unigénito Hijo, que está en el seno del Padre, Él le ha dado a conocer.*" Con el fin de que conozcamos a Dios, Él se ha revelado a través de la encarnación de __<u>Jesucristo</u>__.
 
