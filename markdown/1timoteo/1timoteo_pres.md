@@ -3437,19 +3437,19 @@ Pero los que **quieren enriquecerse** caen en tentación y lazo y en muchos dese
 
 ###        3.  1 Timoteo 6:16 -- *...el único que tiene inmortalidad, que habita en luz inaccesible; a quien ninguno de los hombres ha visto ni puede ver, al cual sea la honra y el imperio sempiterno. Amén.* Nadie es como Dios; Solo __<u>Él</u>__ merece honor, respeto y reverencia. Éxodo 33:20; Salmos 90:2; Isaías 46:5
 
-####            a.  Dios el Padre es descrito como *el único que tiene inmortalidad*. Esto no solo significa que Dios no puede morir, sino que solamente Él posee esta característica innata. Las personas en sí mismas no poseen este atributo, pero afortunadamente pueden recibir vida eterna por medio del evangelio como un __<u>regalo</u>__ gratuito de parte de Dios.
+####            a.  Dios el Padre es descrito como *el único que tiene inmortalidad.* Esto no solo significa que Dios no puede morir, sino que solamente Él posee esta característica innata. Las personas en sí mismas no poseen este atributo, pero afortunadamente pueden recibir vida eterna por medio del evangelio como un __<u>regalo</u>__ gratuito de parte de Dios.
 
-####            b.  Dios el Padre es también descrito como el *que habita en __<u>luz</u>__ inaccesible*. Esto significa que Él es tan inalcanzablemente perfecto que nadie puede acercarse a Él tal como es; si intentara hacerlo, moriría. Éxodo 33:20 dice, *"No podrás ver Mi rostro; porque no Me verá hombre, y vivirá".*
+####            b.  Dios el Padre es también descrito como el *que habita en __<u>luz</u>__ inaccesible.* Esto significa que Él es tan inalcanzablemente perfecto que nadie puede acercarse a Él tal como es; si intentara hacerlo, moriría. Éxodo 33:20 dice, *"No podrás ver Mi rostro; porque no Me verá hombre, y vivirá".*
 
-####            c.  Dios el Padre es descrito como *a quien ninguno de los hombres ha visto ni puede ver*. Esto se refiere a ver a Dios en Su verdadera esencia. Juan 1:18 dice: *"A Dios nadie le vio jamás; el unigénito Hijo, que está en el seno del Padre, Él le ha dado a conocer".* Con el fin de que conozcamos a Dios, Él se ha revelado a través de la encarnación de __<u>Jesucristo</u>__.
+####            c.  Dios el Padre es descrito como *a quien ninguno de los hombres ha visto ni puede ver.* Esto se refiere a ver a Dios en Su verdadera esencia. Juan 1:18 dice: "*A Dios nadie le vio jamás; el unigénito Hijo, que está en el seno del Padre, Él le ha dado a conocer.*" Con el fin de que conozcamos a Dios, Él se ha revelado a través de la encarnación de __<u>Jesucristo</u>__.
 
 ##    F.  1 Timoteo 6:17-19 -- Instrucciones para los ricos
 
-###        1.  1 Timoteo 6:17a -- *A los ricos de este siglo manda*\... Después de enseñar sobre los peligros del *amor al dinero* en 1 Timoteo 6:3-10, Pablo amplió sus instrucciones a los creyentes __<u>ricos</u>__.
+###        1.  1 Timoteo 6:17a -- *A los ricos de este siglo manda...* Después de enseñar sobre los peligros del *amor al dinero* en 1 Timoteo 6:3-10, Pablo amplió sus instrucciones a los creyentes __<u>ricos</u>__.
 
 ####            a.  En griego, *manda* es un imperativo de tiempo presente. En ese preciso momento y allí en Éfeso, Pablo quería que Timoteo inmediatamente y de forma continua educara a los creyentes ricos sobre el __<u>delicado</u>__ tema de las riquezas.
 
-####            b.  Es interesante que Pablo se refirió a los creyentes ricos como a *los ricos de este siglo*. ¿Por qué fue tan específico? Pablo sabía que en el mundo venidero todos seremos fabulosamente ricos, más allá de __<u>toda</u>__ imaginación concebible. Juan 14:1-4; Romanos 8:18; 1 Corintios 2:9; 2 Corintios 4:16-18; Apocalipsis 21:15-21
+####            b.  Es interesante que Pablo se refirió a los creyentes ricos como a *los ricos de este siglo.* ¿Por qué fue tan específico? Pablo sabía que en el mundo venidero todos seremos fabulosamente ricos, más allá de __<u>toda</u>__ imaginación concebible. Juan 14:1-4; Romanos 8:18; 1 Corintios 2:9; 2 Corintios 4:16-18; Apocalipsis 21:15-21
 
 #####                1.  Pablo __<u>no</u>__ condenó a estos creyentes adinerados por ser ricos. Tener riqueza no es un pecado, ni una señal de carnalidad, ni algo de lo cual avergonzarse.
 
@@ -3457,57 +3457,57 @@ Pero los que **quieren enriquecerse** caen en tentación y lazo y en muchos dese
 
 ####            c.  Cristo quiere usar personas de todos los niveles económicos en la edificación de Su iglesia. Sin embargo, aquí en este pasaje, Pablo dio siete exhortaciones a los creyentes adinerados para mostrarles cómo podían ser usados de manera significativa por Dios en el avance de Sus __<u>propósitos</u>__.
 
-###        2.  **Sean humildes:** 1 Timoteo 6:17b -- *A los ricos de este siglo manda que no sean altivos*\... Los creyentes ricos no deben ser prepotentes, orgullosos o arrogantes. No deben asumir que su riqueza material indica una bendición más completa del Señor o que los eleva a un estatus especial de superioridad sobre los __<u>demás</u>__. Deuteronomio 8:18; Proverbios 10:22
+###        2.  **Sean humildes:** 1 Timoteo 6:17b -- *A los ricos de este siglo manda que no sean altivos...* Los creyentes ricos no deben ser prepotentes, orgullosos o arrogantes. No deben asumir que su riqueza material indica una bendición más completa del Señor o que los eleva a un estatus especial de superioridad sobre los __<u>demás</u>__. Deuteronomio 8:18; Proverbios 10:22
 
-###        3.  **Sean sensatos:** 1 Timoteo 6:17c -- *A los ricos de este siglo manda que...* \[no\] *pongan la esperanza en las riquezas, las cuales son inciertas*\... Los creyentes ricos no deben fijar su esperanza en las riquezas. Las riquezas literalmente pueden estar aquí hoy y desaparecer mañana. Cosas como las economías inestables, los climas políticos cambiantes, la guerra, la salud y el robo pueden destruir las __<u>riquezas</u>__.
+###        3.  **Sean sensatos:** 1 Timoteo 6:17c -- *A los ricos de este siglo manda que...* \[no\] *pongan la esperanza en las riquezas, las cuales son inciertas...* Los creyentes ricos no deben fijar su esperanza en las riquezas. Las riquezas literalmente pueden estar aquí hoy y desaparecer mañana. Cosas como las economías inestables, los climas políticos cambiantes, la guerra, la salud y el robo pueden destruir las __<u>riquezas</u>__.
 
-###        4.  **Sean intencionales**: 1 Timoteo 6:17d -- *A los ricos de este siglo manda que* \[pongan la esperanza en\]\... *el Dios vivo, que nos da todas las cosas en abundancia para que las disfrutemos*. En lugar de la incertidumbre de las riquezas, los creyentes ricos deben fijar su __<u>esperanza</u>__ en Dios, quien a diferencia del dinero, nunca cambia.
+###        4.  **Sean intencionales**: 1 Timoteo 6:17d -- *A los ricos de este siglo manda que* \[pongan la esperanza en\]\... *el Dios vivo, que nos da todas las cosas en abundancia para que las disfrutemos.* En lugar de la incertidumbre de las riquezas, los creyentes ricos deben fijar su __<u>esperanza</u>__ en Dios, quien a diferencia del dinero, nunca cambia.
 
 ####            a.  Cuando dice esto de que *Dios* *nos da todas las cosas en abundancia para que las disfrutemos*, significa que todo lo que se origina de Él, esas cosas que Él nos da gratuitamente, son dadas *para* (EIS con el fin de) nuestro __<u>placer</u>__. Romanos 8:32; Santiago 1:17
 
-####            b.  Este versículo no dice simplemente que Dios nos da todas las cosas; dice: *\"el Dios vivo que nos da todas las cosas en abundancia **para que las** __<u>disfrutemos</u>__\".* Si bien Él no nos da todas las cosas (la casa de mi vecino), todo lo que Él provee es abundantemente provisto en vista de nuestro disfrute. Mateo 7:11
+####            b.  Este versículo no dice simplemente que Dios nos da todas las cosas; dice: "*el Dios vivo que nos da todas las cosas en abundancia **para que las** __<u>disfrutemos</u>__.*" Si bien Él no nos da todas las cosas (la casa de mi vecino), todo lo que Él provee es abundantemente provisto en vista de nuestro disfrute. Mateo 7:11
 
-####            c.  En Proverbios 10:22, Salomón expresó un pensamiento similar cuando dijo: *\"La __<u>bendición</u>__ de Jehová es la que enriquece, y* \[Él\] *no añade tristeza con ella\".*
+####            c.  En Proverbios 10:22, Salomón expresó un pensamiento similar cuando dijo: *\"La __<u>bendición</u>__ de Jehová es la que enriquece, y* \[Él\] *no añade tristeza con ella.*"
 
-###        5.  **Sean misericordiosos**: 1 Timoteo 6:18a -- *Manda... que hagan bien*\... Aunque todo creyente debería hacer el bien, Pablo pidió a Timoteo que instruyera específicamente a los ricos que sean cuidadosos en mantener __<u>buenas</u>__ obras. Efesios 2:10, Tito 3:8
+###        5.  **Sean misericordiosos**: 1 Timoteo 6:18a -- *Manda... que hagan bien...* Aunque todo creyente debería hacer el bien, Pablo pidió a Timoteo que instruyera específicamente a los ricos que sean cuidadosos en mantener __<u>buenas</u>__ obras. Efesios 2:10, Tito 3:8
 
-###        6.  **Sean benevolentes**: 1 Timoteo 6:18b -- *Manda\... que sean ricos en buenas __<u>obras</u>__*\... Aunque los creyentes ricos pueden hacer más por su riqueza material, esta es la meta y el deseo de Dios para todo creyente. Efesios 2:10, Tito 3:8
+###        6.  **Sean benevolentes**: 1 Timoteo 6:18b -- *Manda... que sean ricos en buenas __<u>obras</u>__...* Aunque los creyentes ricos pueden hacer más por su riqueza material, esta es la meta y el deseo de Dios para todo creyente. Efesios 2:10, Tito 3:8
 
-###        7.  **Sean dadivosos**: 1 Timoteo 6:18c -- *Manda que... sean\...__<u>dadivosos</u>__\...* Los creyentes ricos deben ser instruidos para ser caritativos. Proverbios 22:9, 2 Corintios 9:5-8
+###        7.  **Sean dadivosos**: 1 Timoteo 6:18c -- *Manda que... sean...__<u>dadivosos</u>__ ...* Los creyentes ricos deben ser instruidos para ser caritativos. Proverbios 22:9, 2 Corintios 9:5-8
 
 ####            a.  Los creyentes ricos están en posición de contribuir considerablemente a sus iglesias locales y __<u>misiones</u>__.
 
 ####            b.  Timoteo no fue instruido para decirles dónde, cuándo o cómo ser generosos. Nadie tiene ese derecho sobre ningún creyente, rico o no. Dios simplemente quería que Timoteo instruyera a los ricos a usar sus bienes para __<u>bendecir</u>__ activamente a los demás y así edificar el cuerpo de Cristo. Mateo 6:20
 
-###        8.  **Sean generosos**: 1 Timoteo 6:18c -- *Manda que sean\... generosos*\... Esta frase enfatiza que los creyentes ricos deben estar __<u>preparados</u>__ para que Dios los utilice. Sería sabio que ellos separen dinero que usen exclusivamente para la generosidad. 1 Corintios 16:2
+###        8.  **Sean generosos**: 1 Timoteo 6:18c -- *Manda que sean... generosos...* Esta frase enfatiza que los creyentes ricos deben estar __<u>preparados</u>__ para que Dios los utilice. Sería sabio que ellos separen dinero que usen exclusivamente para la generosidad. 1 Corintios 16:2
 
-###        9.  **Sean inversores**: 1 Timoteo 6:19a -- \...*atesorando para sí buen fundamento para lo por venir*\... Al dedicarse a las buenas obras mencionadas en 1 Timoteo 6:17-18, los creyentes ricos realmente acumularán tesoros para sí mismos en el cielo. Aunque las riquezas materiales no acompañan a una persona cuando esta __<u>muere</u>__, este tipo de tesoro sí lo hace. 2 Corintios 5:9-10
+###        9.  **Sean inversores**: 1 Timoteo 6:19a -- *...atesorando para sí buen fundamento para lo por venir...* Al dedicarse a las buenas obras mencionadas en 1 Timoteo 6:17-18, los creyentes ricos realmente acumularán tesoros para sí mismos en el cielo. Aunque las riquezas materiales no acompañan a una persona cuando esta __<u>muere</u>__, este tipo de tesoro sí lo hace. 2 Corintios 5:9-10
 
-###        10. **Sean bendecidos**: 1 Timoteo 6:19b -- *...que echen mano de la vida eterna* \['de lo que en verdad es __<u>vida</u>__' -- LBLA\]. Aunque el dinero puede parecer la puerta al éxito y la felicidad, en verdad causa mucho daño a aquellos que son consumidos por él. Por otro lado, cuando la riqueza se usa para la gloria de Dios, conduce a una vida verdadera y abundante.
+###        10. **Sean bendecidos**: 1 Timoteo 6:19b -- *...que echen mano de la vida eterna*  ['de lo que en verdad es __<u>vida</u>__' -- LBLA]. Aunque el dinero puede parecer la puerta al éxito y la felicidad, en verdad causa mucho daño a aquellos que son consumidos por él. Por otro lado, cuando la riqueza se usa para la gloria de Dios, conduce a una vida verdadera y abundante.
 
 ##    G.  1 Timoteo 6:20-21 -- Últimas instrucciones personales de Pablo a Timoteo
 
-###        1.  1 Timoteo 6:20a -- *Oh Timoteo, __<u>guarda</u>__ lo que se te ha encomendado*\... Timoteo debía mantener un atento cuidado sobre lo que se le había encomendado. 2 Timoteo 1:14
+###        1.  1 Timoteo 6:20a -- *Oh Timoteo, __<u>guarda</u>__ lo que se te ha encomendado...* Timoteo debía mantener un atento cuidado sobre lo que se le había encomendado. 2 Timoteo 1:14
 
 ####            a.  Pablo había encomendado a Timoteo el cuidado de la iglesia en Éfeso. Entre otras cosas, él era responsable de nombrar líderes; oponerse a los falsos maestros; enseñar los roles de los hombres, las mujeres, viudas y los esclavos; instruir a los ricos; y vivir como un auténtico modelo a seguir, manteniendo la sana doctrina y un consecuente andar con el Señor. ¡__<u>Guau</u>__!
 
 ####            b.  Pablo había invertido mucho tiempo y la verdad en Timoteo. Él quería que Timoteo __<u>pasara</u>__ fielmente a los demás lo que le había sido dado. Filipenses 2:19-22, 2 Timoteo 2:1-3
 
-###        2.  1 Timoteo 6:20b -- \...*evitando las profanas pláticas sobre cosas vanas*\... Timoteo debía guardar lo que se le había confiado a su cuidado *evitando las profanas pláticas sobre cosas vanas*.
+###        2.  1 Timoteo 6:20b -- *...evitando las profanas pláticas sobre cosas vanas...* Timoteo debía guardar lo que se le había confiado a su cuidado *evitando las profanas pláticas sobre cosas vanas.*
 
-####            a.  *Profanas pláticas\...* Cualquier cosa que no tenga relación con Dios es profano. Timoteo debía mantenerse __<u>alejado</u>__ del parloteo profano, infructuoso y secular.
+####            a.  *Profanas pláticas...* Cualquier cosa que no tenga relación con Dios es profano. Timoteo debía mantenerse __<u>alejado</u>__ del parloteo profano, infructuoso y secular.
 
-####            b.  *Pláticas\...vanas\...* Pablo dijo a Timoteo que __<u>evitara</u>__ el debate vacío y la charla inútil. Anteriormente, le dijo a Timoteo que dijera a ciertos hombres que no prestaran atención *a fábulas y genealogías interminables* (1 Timoteo 1:4-7). Timoteo debía alejarse de este tipo de tonterías, no tratar de refutarlas a través de la apologética o la argumentación.
+####            b.  *Pláticas...vanas...* Pablo dijo a Timoteo que __<u>evitara</u>__ el debate vacío y la charla inútil. Anteriormente, le dijo a Timoteo que dijera a ciertos hombres que no prestaran atención *a fábulas y genealogías interminables* (1 Timoteo 1:4-7). Timoteo debía alejarse de este tipo de tonterías, no tratar de refutarlas a través de la apologética o la argumentación.
 
-###        3.  1 Timoteo 6:20c -- \...*evitando\... los argumentos* \['las objeciones' -- LBLA\] *de la falsamente llamada ciencia*\... Esta declaración se refiere a las etapas iniciales de la herejía __<u>gnóstica</u>__ que dominaría a la iglesia primitiva en los siglos venideros.
+###        3.  1 Timoteo 6:20c -- *...evitando... los argumentos* \['las objeciones' -- LBLA\] *de la falsamente llamada ciencia*\... Esta declaración se refiere a las etapas iniciales de la herejía __<u>gnóstica</u>__ que dominaría a la iglesia primitiva en los siglos venideros.
 
 ####            a.  La esencia de la enseñanza gnóstica era que Jesucristo no era suficiente. Cristo no era suficiente para todo en la vida cristiana. Uno necesitaba un conocimiento especial que solo unos pocos __<u>selectos</u>__ e iniciados poseían.
 
-####            b.  Pablo dijo que esta *\"ciencia\"* no era ciencia en absoluto.
+####            b.  Pablo dijo que esta "*ciencia*" no era ciencia en absoluto.
 
-####            c.  Colosenses 2:9-10a -- *Porque en Él habita corporalmente toda la plenitud de la Deidad, y vosotros estáis completos en Él*. Cristo es más que __<u>suficiente</u>__ para todas nuestras necesidades como creyentes. Colosenses2:3
+####            c.  Colosenses 2:9-10a -- *Porque en Él habita corporalmente toda la plenitud de la Deidad, y vosotros estáis completos en Él.* Cristo es más que __<u>suficiente</u>__ para todas nuestras necesidades como creyentes. Colosenses2:3
 
-###        4.  1 Timoteo 6:21 -- \...*la cual profesando algunos, se desviaron de la fe. La gracia sea contigo*. El significado original de *__<u>profesar</u>__* en griego clásico era hacer públicamente un compromiso.
+###        4.  1 Timoteo 6:21 -- *...la cual profesando algunos, se desviaron de la fe. La gracia sea contigo.* El significado original de *__<u>profesar</u>__* en griego clásico era hacer públicamente un compromiso.
 
 ####            a.  Una vez que una persona proclama __<u>públicamente</u>__ una enseñanza herética, requiere una gran humildad para admitir que ha estado equivocada. Algunos maestros, en lugar de admitir que están equivocados, defienden empecinadamente su error.
 
@@ -3519,6 +3519,7 @@ Pero los que **quieren enriquecerse** caen en tentación y lazo y en muchos dese
 
 ####            e.  *La gracia sea contigo.* Como siempre, cerró su carta con una mención de *la gracia*. ¡Timoteo necesitaba la gracia de Dios tanto como tú la necesitas hoy! Hermanos __<u>oren</u>__ los unos por los otros.
 
+<!-- .slide: data-background-color="white" -->
 <svg id="svg12583" width="1000" height="700" inkscape:version="1.0.2 (e86c8708, 2021-01-15)" sodipodi:docname="bosquejo-opt.svg" version="1.1" viewBox="0 0 296 207" xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd">
  <sodipodi:namedview id="base" bordercolor="#666666" borderopacity="1.0" fit-margin-bottom="0" fit-margin-left="0" fit-margin-right="0" fit-margin-top="0" inkscape:bbox-paths="true" inkscape:current-layer="layer3" inkscape:cx="394.77242" inkscape:cy="339.58244" inkscape:document-rotation="0" inkscape:document-units="mm" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:snap-bbox="true" inkscape:window-height="935" inkscape:window-maximized="0" inkscape:window-width="1654" inkscape:window-x="24" inkscape:window-y="25" inkscape:zoom="0.74937383" pagecolor="#ffffff" showgrid="false"/>
  <g id="layer3" transform="translate(-1.8 -.18)" inkscape:groupmode="layer" inkscape:label="letters">
