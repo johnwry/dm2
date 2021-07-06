@@ -1,7 +1,8 @@
 <!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/discipulado-biblico/media/image1.jpg" -->
 ## Haciendo Hacedores de Discípulos
-<!-- .element: style="color:white;" -->
+<!-- .element: style="color:white; -webkit-text-stroke: 2px black; -webkit-font-smoothing: antialiased; text-shadow: 2px 2px #ccc;" -->
 ### Redescubriendo el arte perdido de hacer discípulos
+<!-- .element: style="color:white; -webkit-text-stroke: 2px black; -webkit-font-smoothing: antialiased; text-shadow: 2px 2px #ccc;" -->
 ___
 El mayor desafío que la iglesia enfrenta en cualquier generación dada, es lograr que las personas participen en el proceso de la replicación. Esto es especialmente difícil en ciertos círculos donde los maestros niegan que la Gran Comisión sea aplicable para hoy. Sin la Gran Comisión no existe ímpetu bíblico para que las iglesias se reproduzcan. Si la iglesia de Jesucristo fracasa en reduplicarse así misma a través de un discipulado efectivo, las iglesias locales lentamente quedaran vacantes debido a la falta de agregar nuevos miembros al cuerpo de Cristo.
 ___
@@ -13,8 +14,10 @@ Bret Nazworth
 *(*2^nda^ Edición*)*
 Derechos de Autor © **2013 DM2 International Inc.** Todos los derechos reservados
 ___
+<small>
 **Póliza de los Derechos de Autor.** Traducción no autorizada, re-publicación, duplicación del documento, página de la internet o distribución del correo electrónico de cualquier porción de este material de derechos de autor de cualquier forma, sin el expreso consentimiento escrito de DM2™ es estrictamente prohibido. Puedes usar los materiales de DM2 para tu propio estudio personal o para volverlos a enseñar en una clase, siempre y cuando, el logo de DM2 y esta póliza de los derechos de autor estén incluidos siempre en el material al ser enseñados. Puedes bajar una copia a tú PC, imprimirla o hacer copias para la clase o estudio de grupo Bíblico; sin embargo, no puedes cobrar por este material o por conducir una clase usando el mismo, excepto por el costo actual del copiado. NO puedes hacer cambios a este material, tiene derechos de autor. Para una más amplia exposición de la póliza del DM2 con respecto a los usos de sus materiales, por favor referirse a la página de la internet DM2-USA al <http://www.dm2usa.org>.
 \[DM2™\]
+</small>
 ___
 **Impreso y Propiedad de:**
 **DM2**
@@ -40,13 +43,13 @@ ___
 
 # I.  La Visión y la Misión de Jesucristo
 
-##    A.  La visión de Jesucristo: "*edificaré mi <u>iglesia</u>*"
+##    A.  La visión de Jesucristo: "*edificaré mi __<u>iglesia</u>__*"
 
 ###        1.  La visión de Jesucristo es ver a Su iglesia - __<u>cuerpo</u>__ y esposa de Cristo - completa. Mateo 16:18, 28:19-20; Romanos 11:25
 
 ###        2.  El libro de Apocalipsis dice que el cuerpo de Cristo no sólo se completará, sino que será compuesto de __<u>gente</u>__ de toda tribu, lengua, y nación. Apocalipsis 5:9
 
-##    B.  La misión de Jesucristo es la Gran Comisión: "*Y les dijo: <u>Id</u> por todo el mundo y predicad el evangelio a toda criatura*". Marcos 16:15
+##    B.  La misión de Jesucristo es la Gran Comisión: "*Y les dijo: __<u>Id</u>__ por todo el mundo y predicad el evangelio a toda criatura*". Marcos 16:15
 
 ###        1.  La misión de Jesucristo es __<u>cumplir</u>__ Su visión.
 
