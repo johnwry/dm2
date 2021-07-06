@@ -1691,8 +1691,6 @@ ___
 <!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/discipulado-biblico/media/image6.wmf" data-background-size="cover" -->
 
 <!-- .slide: data-background-iframe="https://quizizz.com/join" id="examen_quiz_" data-menu-title="QUIZ" data-preload -->
-<section id="examen" data-state="no-toc-progress">
    <script data-quiz >
    quiz = {};
   </script>
-</section>
