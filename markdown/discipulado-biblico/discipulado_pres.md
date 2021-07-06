@@ -141,13 +141,13 @@ ___
 
 #####                3.  Todo creyente debería ser capaz de __<u>compartir</u>__ con claridad el Evangelio con los demás. "*Sino santificad a Dios el Señor en vuestros corazones, y estad siempre preparados para presentar defensa con mansedumbre y reverencia ante todo el que os demande razón de la esperanza que hay en vosotros...*" 1 Pedro 3:15
 
-####             d.  La labor de la Iglesia es el __<u>preparar</u>__ al pueblo de Dios con el Evangelio.\ Efesios 4:11-13
+####             d.  La labor de la Iglesia es el __<u>preparar</u>__ al pueblo de Dios con el Evangelio. Efesios 4:11-13
 
 # II. El Evangelio
 
 ##    A.  Lo que el Evangelio __<u>es</u>__:
 
-###        1.  El mensaje del Evangelio que se debe creer para salvación es: **"Cristo __<u>murió</u>__ por nuestros pecados y resucitó."** "*Porque primeramente os he enseñado lo que asimismo recibí: Que Cristo murió por nuestros pecados, conforme a las Escrituras; y que fue sepultado, y que resucitó al tercer día, conforme a las Escrituras*" 1 Corintios 15:3-4
+###        1.  El mensaje del Evangelio que se debe creer para salvación es: "**Cristo __<u>murió</u>__ por nuestros pecados y resucitó**".  "*Porque primeramente os he enseñado lo que asimismo recibí: Que Cristo murió por nuestros pecados, conforme a las Escrituras; y que fue sepultado, y que resucitó al tercer día, conforme a las Escrituras*" 1 Corintios 15:3-4
 
 ###        2.  El Evangelio es un acontecimiento histórico; se trata de una __<u>obra</u>__ que Dios realizó por la humanidad por medio de Jesucristo, en un fin de semana en la historia, más de dos mil años atrás.
 
@@ -171,7 +171,7 @@ ___
 
 ####             b.  "*De modo que si alguno está en Cristo, __<u>nueva</u>__ criatura es; las cosas viejas pasaron; he aquí todas son hechas nuevas.*" 2 Corintios 5:17
 
-##    B.  Lo que el Evangelio <u>no</u>__ __<u>es</u>:
+##    B.  Lo que el Evangelio __<u>no</u> <u>es</u>__:
 
 ###        1.  La gente fácilmente está de acuerdo al escuchar el único Evangelio __<u>verdadero</u>__, pero cuando se estipula lo que el Evangelio no es, a menudo están en desacuerdo.
 
@@ -189,7 +189,7 @@ ___
 
 #####                2.  "*Sabiendo que el hombre no es justificado por las __<u>obras</u>__ de la ley, sino por la fe de Jesucristo, nosotros también hemos creído en Jesucristo, para ser justificados por la fe de Cristo y no por las obras de la ley, por cuanto por las obras de la ley nadie será justificado.*" Gálatas 2:16
 
-#####                3.  "*Porque por gracia sois salvos por medio de la fe; y esto no de vosotros, pues es __<u>don</u>__ de Dios; no por obras, para que nadie se gloríe.*"\Efesios 2:8-9
+#####                3.  "*Porque por gracia sois salvos por medio de la fe; y esto no de vosotros, pues es __<u>don</u>__ de Dios; no por obras, para que nadie se gloríe.*" Efesios 2:8-9
 
 #####                4.  "*Nos __<u>salvó</u>__, no por obras de justicia que nosotros hubiéramos hecho, sino por Su misericordia, por el lavamiento de la regeneración y por la renovación en el Espíritu Santo,*" Tito 3:5
 
@@ -197,7 +197,7 @@ ___
 
 ####             a.  El mensaje salvador del Evangelio se refiere al hecho de que Cristo se __<u>entregó</u>__ a sí mismo por nosotros.
 
-#####                1.  "*Y andad en amor, como también Cristo nos __<u>amó</u>__, y se entregó a sí mismo por nosotros, ofrenda y sacrificio a Dios en olor fragante.*"\Efesios 5:2
+#####                1.  "*Y andad en amor, como también Cristo nos __<u>amó</u>__, y se entregó a sí mismo por nosotros, ofrenda y sacrificio a Dios en olor fragante.*" Efesios 5:2
 
 #####                2.  "*...vivo en la fe del Hijo de Dios, el cual me amó y se __<u>entregó</u>__ a sí mismo por mí.*" Gálatas 2:20b
 
@@ -249,7 +249,7 @@ ___
 
 ####             d.  Jesucristo nuestro Señor quiere ser el Señor de todos los miembros de su cuerpo, y este es un proceso de toda la vida que Dios inicia en el punto de la salvación y continúa perfeccionando hasta la __<u>muerte</u>__. 1 Pedro 1:13-16, Filipenses 2:12-13
 
-#####                1.  Esto se logra a lo largo de la vida del creyente, y no es el resultado de una decisión tomada momentos o segundos antes de __<u>creer</u>__.\Filipenses 1:6
+#####                1.  Esto se logra a lo largo de la vida del creyente, y no es el resultado de una decisión tomada momentos o segundos antes de __<u>creer</u>__. Filipenses 1:6
 
 #####                2.  Obviamente, cada creyente __<u>lucha</u>__ diariamente con esta cuestión del señorío, y continuará haciéndolo hasta su muerte. Romanos 6:11-23
 
