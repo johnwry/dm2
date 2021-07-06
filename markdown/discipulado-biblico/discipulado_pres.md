@@ -1,7 +1,7 @@
 <!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/discipulado-biblico/media/image1.jpg" -->
-## Haciendo Hacedores de Discípulos
+# Haciendo Hacedores de Discípulos
 <!-- .element: style="color:white; -webkit-text-stroke: 2px black; -webkit-font-smoothing: antialiased; text-shadow: 2px 2px #ccc;" -->
-### Redescubriendo el arte perdido de hacer discípulos
+## Redescubriendo el arte perdido de hacer discípulos
 <!-- .element: style="color:white; -webkit-text-stroke: 2px black; -webkit-font-smoothing: antialiased; text-shadow: 2px 2px #ccc;" -->
 ___
 El mayor desafío que la iglesia enfrenta en cualquier generación dada, es lograr que las personas participen en el proceso de la replicación. Esto es especialmente difícil en ciertos círculos donde los maestros niegan que la Gran Comisión sea aplicable para hoy. Sin la Gran Comisión no existe ímpetu bíblico para que las iglesias se reproduzcan. Si la iglesia de Jesucristo fracasa en reduplicarse así misma a través de un discipulado efectivo, las iglesias locales lentamente quedaran vacantes debido a la falta de agregar nuevos miembros al cuerpo de Cristo.
