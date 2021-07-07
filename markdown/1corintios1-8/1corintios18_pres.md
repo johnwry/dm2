@@ -95,13 +95,13 @@ ___
 
 ####    b.  Esta ciudad, era tan famosa por su perversa inmoralidad, que en el mundo __<u>romano</u>__ una persona indecente era catalogada como un corintio.
 ___
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1corintios1-8/media/corinto1.jpg" data-background-size="contain" -->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1corintios1-8/media/corinto1.jpg" data-background-size="contain" data-background-color="black" -->
 ___
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1corintios1-8/media/corinto2.jpg" data-background-size="contain" -->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1corintios1-8/media/corinto2.jpg" data-background-size="contain" data-background-color="black" -->
 ___
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1corintios1-8/media/corinto3.jpg" data-background-size="contain" -->
+<!-- .slide: data-background-image="https://johnwry .github.io/dm2/markdown/1corintios1-8/media/corinto3.jpg" data-background-size="contain" data-background-color="black" -->
 ___
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1corintios1-8/media/corinto4.jpg" data-background-size="contain" -->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1corintios1-8/media/corinto4.jpg" data-background-size="contain" data-background-color="black" -->
 ___
 
 ### 4.  El Apóstol Pablo estableció una iglesia en la ciudad de Corinto.
@@ -130,9 +130,9 @@ ___
 
 ##### 3.  Arqueólogos han descubierto el lugar __<u>preciso</u>__ de este tribunal BEMA en Corinto.
 ___
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1corintios1-8/media/bema.png" data-background-size="contain" -->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1corintios1-8/media/bema.png" data-background-size="contain" data-background-color="black" -->
 ___
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1corintios1-8/media/bemaII.png" data-background-size="contain" -->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1corintios1-8/media/bemaII.png" data-background-size="contain" data-background-color="black" -->
 
 ##### 4.  Es interesante que en diversos lugares Pablo usa el concepto de ser __<u>juzgado</u>__ ante el tribunal BEMA. 1 Corintios 3:8-15, 4:3-5; 2 Corintios 4:2, 5:10-11, 10:18
 
