@@ -1,7 +1,7 @@
 <!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1corintios1-8/media/image1.jpeg" data-background-size="cover" -->
-## 1 Corintios
+# 1 Corintios
 <!-- .element: class="r-fit-text" style="color:#1c87c9; -webkit-text-stroke: 2px white; -webkit-font-smoothing: antialiased; text-shadow: 2px 2px #ccc;"  -->
-### **UNA IGLESIA EN CONFLICTO**
+## **UNA IGLESIA EN CONFLICTO**
 <!-- .element: style="color:#1c87c9; -webkit-text-stroke: 2px white; -webkit-font-smoothing: antialiased; text-shadow: 2px 2px #ccc;" -->
 ___
 La primera carta a los Corintios es un excelente estudio porque nos habla de las situaciones por las cuales pasan las iglesias locales promedio de hoy. El libro abarca situaciones frecuentes que suceden en todas las iglesias y nos proporciona respuestas confiables en cómo resolverlas (1 Corintios 7:40b). Estas respuestas no son, ni remotamente comparables a las filosofías huecas de este mundo, aunque sean presentadas como la última y mejor idea (1 Corintios 1:19-20).
@@ -94,6 +94,15 @@ ___
 ####    a.  Este templo empleaba 1,000 jóvenes __<u>esclavas</u>__, que estaban dedicadas a la prostitución en el templo y eran pagadas con fondos públicos.
 
 ####    b.  Esta ciudad, era tan famosa por su perversa inmoralidad, que en el mundo __<u>romano</u>__ una persona indecente era catalogada como un corintio.
+___
+<!-- .slide: data-background-image="johnwry.github.io/dm2/markdown/1corintios1-8/media/corinto1.jpg" data-background-size="cover" -->
+___
+<!-- .slide: data-background-image="johnwry.github.io/dm2/markdown/1corintios1-8/media/corinto2.jpg" data-background-size="cover" -->
+___
+<!-- .slide: data-background-image="johnwry.github.io/dm2/markdown/1corintios1-8/media/corinto3.jpg" data-background-size="cover" -->
+___
+<!-- .slide: data-background-image="johnwry.github.io/dm2/markdown/1corintios1-8/media/corinto4.jpg" data-background-size="cover" -->
+___
 
 ### 4.  El Apóstol Pablo estableció una iglesia en la ciudad de Corinto.
 
@@ -120,16 +129,20 @@ ___
 ##### 2.  Galión, el procónsul romano en Acaya, los echó y no quiso __<u>oír</u>__ el caso.
 
 ##### 3.  Arqueólogos han descubierto el lugar __<u>preciso</u>__ de este tribunal BEMA en Corinto.
+___
+<!-- .slide: data-background-image="johnwry.github.io/dm2/markdown/1corintios1-8/media/bema.png" data-background-size="cover" -->
+___
+<!-- .slide: data-background-image="johnwry.github.io/dm2/markdown/1corintios1-8/media/bemaII.png" data-background-size="cover" -->
 
-##### 4.  Es interesante que en diversos lugares Pablo usa el concepto de ser __<u>juzgado</u>__ ante el tribunal BEMA. 1 Corintios 3:8-15, 4:3-5;\ 2 Corintios 4:2, 5:10-11, 10:18
+##### 4.  Es interesante que en diversos lugares Pablo usa el concepto de ser __<u>juzgado</u>__ ante el tribunal BEMA. 1 Corintios 3:8-15, 4:3-5; 2 Corintios 4:2, 5:10-11, 10:18
 
 ####    c.  El __<u>templo</u>__: La ciudad albergaba el gran complejo del templo de Afrodita, la diosa del amor carnal.
 
 ##### 1.  Pablo usa la palabra templo en forma figurativa en este libro. El usó **dos** términos griegos para templo.
 
-######    a.  Un **santuario** o __<u>lugar</u>__ sagrado (Griego: NAOS) se usa en\ 1 Corintios 3:16--17, 6:19; 2 Corintios 6:16.
+######    a.  Un **santuario** o __<u>lugar</u>__ sagrado (Griego: NAOS) se usa en  1 Corintios 3:16--17, 6:19; 2 Corintios 6:16.
 
-######    b.  Un complejo entero del __<u>templo</u>__ (Griego: HIERON) se usa en\ 1 Corintios 9:13.
+######    b.  Un complejo entero del __<u>templo</u>__ (Griego: HIERON) se usa en  1 Corintios 9:13.
 
 ##### 2.  La mayoría de los corintios nunca habrían visto el Templo en Jerusalén. De modo que debe darse una cuidadosa atención al contexto en el cual se usa el concepto de templo para __<u>saber</u>__ si Pablo está hablando metafóricamente de templos en general, o del templo judío. Comparar con Romanos 2:22.
 
@@ -137,7 +150,7 @@ ___
 
 ##### 1.  Los __<u>juegos</u>__ bienales del istmo se realizaban en Corinto y eran segundos en importancia después de los Juegos Olímpicos.
 
-##### 2.  Pablo habla enérgica y desafiantemente __<u>usando</u>__ la metáfora de atletas en\ 1 Corintios 9:24-27.
+##### 2.  Pablo habla enérgica y desafiantemente __<u>usando</u>__ la metáfora de atletas en  1 Corintios 9:24-27.
 
 <!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1corintios1-8/media/image4.jpg" -->
 
@@ -169,13 +182,13 @@ ___
 
 ##### 2.  Pablo fue escogido porque **Dios** **el** **Padre** lo __<u>quiso</u>__ así -- *por la voluntad de Dios*.
 
-##### 3.  También sabemos que Pablo fue __<u>apartado</u>__ por Dios el Espíritu Santo cuando fue enviado como misionero por los líderes de la iglesia de Antioquía.\ Hechos 13:2-4.
+##### 3.  También sabemos que Pablo fue __<u>apartado</u>__ por Dios el Espíritu Santo cuando fue enviado como misionero por los líderes de la iglesia de Antioquía.  Hechos 13:2-4.
 
 ####    d.  1 Corintios 1:1c -- No se __<u>sabe</u>__ mucho del hombre Sóstenes que envía los saludos.
 
 ##### 1.  El nombre Sóstenes significa "__<u>seguro</u>__ en poder."
 
-##### 2.  Parece que era el __<u>líder</u>__ de la sinagoga de Corinto que se convirtió al cristianismo y fue golpeado por los judíos incrédulos. Hechos 18:8, 17;\ 1 Corintios 1:14
+##### 2.  Parece que era el __<u>líder</u>__ de la sinagoga de Corinto que se convirtió al cristianismo y fue golpeado por los judíos incrédulos. Hechos 18:8, 17;  1 Corintios 1:14
 
 ### 2.  1 Corintios 1:2 -- La **Audiencia**
 
@@ -193,11 +206,11 @@ ___
 
 ##### 3.  Este término se refiere a la posición en Cristo de los corintios por la obra del Espíritu Santo en el __<u>momento</u>__ de la salvación. 1 Pedro 1:2, 1 Corintios 12:13
 
-####    c.  1 Corintios 1:2c -- Pablo les recuerda que ellos, como todos los demás creyentes, eran *__<u>santos</u>__* *por llamamiento*.
+####    c.  1 Corintios 1:2c -- Pablo les recuerda que ellos, como todos los demás creyentes, eran *__<u>santos</u>__* *por llamamiento.*
 
 ##### 1.  La idea es que, puesto que ahora eran llamados "santos," ellos debían vivir una vida __<u>digna</u>__ de tan noble llamado. Debían vivir de acuerdo con la honorable posición que tenían.
 
-##### 2.  Mientras que la frase "*los santificados*" se refiere específicamente a su ***posición*** en Cristo, las palabras "*llamados a ser santos"* se refiere más bien a su __<u>manera</u>__ de vivir o a su ***práctica*** como creyentes.
+##### 2.  Mientras que la frase "*los santificados*" se refiere específicamente a su ***posición*** en Cristo, las palabras "*llamados a ser santos*"  se refiere más bien a su __<u>manera</u>__ de vivir o a su ***práctica*** como creyentes.
 
 ### 3.  1 Corintios 1:3 -- Dos **Afirmaciones**
 
@@ -229,7 +242,7 @@ ___
 
 ##### 2.  1 Corintios 1:7b -- El testimonio de Pablo también fue confirmado por el anhelado __<u>retorno</u>__ del Señor Jesucristo. Pablo se regocijaba dando gracias por ellos.
 
-####    i.  1 Corintios 1:8 -- Pablo estaba agradecido por la seguridad __<u>eterna</u>__ de la salvación de ellos. ***El*** ***cual*** ***también*** ***os*** ***confirmará*** ***hasta*** ***el*** ***fin,*** ***para*** ***que*** ***seáis*** ***irreprensibles*** (libres de toda acusación) *en el día de nuestro Señor Jesucristo*.
+####    i.  1 Corintios 1:8 -- Pablo estaba agradecido por la seguridad __<u>eterna</u>__ de la salvación de ellos. ***El cual también os confirmará hasta el fin, para que seáis irreprensibles*** (libres de toda acusación) *en el día de nuestro Señor Jesucristo.*
 
 ####    j.  1 Corintios 1:9 -- Pablo estaba agradecido de que Dios hubiera __<u>llamado</u>__ a los corintios para tener comunión con Su Hijo. 2 Tesalonicenses 2:14
 
@@ -289,7 +302,7 @@ ___
 
 #### b.  Esto era un problema serio, e incluso un __<u>año</u>__ o más después, vemos que Pablo temía encontrarlos aún envueltos en discordias. 2 Corintios 12:20
 
-### 2.  1 Corintios 1:12 -- Bandos orgullosos eran el __<u>centro</u>__ de sus controversias.\ Proverbios 13:10
+### 2.  1 Corintios 1:12 -- Bandos orgullosos eran el __<u>centro</u>__ de sus controversias.  Proverbios 13:10
 
 #### a.  Algunos corintios afirmaban ser seguidores de __<u>Pablo</u>__, el fundador de la iglesia.
 
@@ -309,7 +322,7 @@ ___
 
 #### d.  Algunos eran muy piadosos y alardeaban diciendo, "Nosotros seguimos a Cristo." Puesto que Pablo añadió a este grupo de esta manera, parece ser una referencia a los hipócritas __<u>súper</u>__ espirituales que eran parte de los desacuerdos.
 
-## B.  **1** **Corintios** **1:13** **--** **Se** **hacen** **tres** **preguntas** **para** **hacer** **reflexionar** **a** **los** **corintios.**
+## B.  1 Corintios 1:13 -- Se hacen tres preguntas para hacer reflexionar a los corintios.
 
 ### 1.  Una pregunta en cuanto al ***Salvador***: ¿Está Cristo dividido en bandos? No, ¡__<u>jamás</u>__!
 
@@ -317,7 +330,7 @@ ___
 
 ### 3.  Una pregunta en cuanto a su identidad ***espiritual***: ¿Fue alguno de ustedes bautizado por la autoridad de Pablo? ¡Por cierto que __<u>no</u>__!
 
-## C.  **1** **Corintios** **1:14-17** **--** **Pablo** **señala** **el** **motivo** **presentado** **en** **sus** **tres** **preguntas.**
+## C.  1 Corintios 1:14-17 -- Pablo señala el motivo presentado en sus tres preguntas.
 
 ### 1.  1 Corintios 1:14-16 -- Pablo nunca trató de establecer un __<u>culto</u>__ a la ***personalidad***: *Doy gracias a* *Dios de que a ninguno de vosotros he bautizado*, *sino...para que ninguno diga que fuisteis bautizados en mi nombre.*
 
@@ -325,13 +338,13 @@ ___
 
 ### 3.  1 Corintios 1:17b -- Pablo no trató de ser un predicador ***popular***: *no con sabiduría de __<u>palabras</u>__*.
 
-### 4.  1 Corintios 1:17c -- Pablo no trató de tener un mensaje ***prestigioso***; él no quería invalidar el poder de la cruz de Cristo: *...para que no se haga __<u>vana</u>__ la cruz de Cristo.\*
+### 4.  1 Corintios 1:17c -- Pablo no trató de tener un mensaje ***prestigioso***; él no quería invalidar el poder de la cruz de Cristo: *...para que no se haga __<u>vana</u>__ la cruz de Cristo.*
 
-## D.  **Sumario--** **Siguiendo** **el** **motivo** **de** **Pablo** **hacia** **la** **unidad.**
+## D.  Sumario -- Siguiendo el motivo de Pablo hacia la unidad.
 
 ### 1.  1 Corintios 1:10 -- Todos formamos parte de la __<u>misma</u>__ familia: *hermanos.*
 
-### 2.  1 Corintios 1:10 -- Tenemos el mismo __<u>maestro</u>__: *Jesucristo*.
+### 2.  1 Corintios 1:10 -- Tenemos el mismo __<u>maestro</u>__: *Jesucristo.*
 
 ### 3.  1 Corintios 1:11-12 -- Los cristianos que siguen a los hombres __<u>crean</u>__ divisiones.
 
@@ -341,11 +354,11 @@ ___
 
 ### 6.  1 Corintios 1:17a -- Pablo no confiaba en su __<u>habilidad</u>__ para predicar, ni en su metodología.
 
-### 7.  1 Corintios 1:17b -- Pablo se centraba en el __<u>mensaje</u>__ del Evangelio e indica que el Evangelio que predicaba era acerca del *Cristo crucificado*.
+### 7.  1 Corintios 1:17b -- Pablo se centraba en el __<u>mensaje</u>__ del Evangelio e indica que el Evangelio que predicaba era acerca del *Cristo crucificado.*
 
-# IV. **1** **Corintios** **1:18-4:21** **--** **Acerca** **de** **la** **Tentación** **de** **Comprometerse**
+# IV. 1 Corintios 1:18-4:21 -- Acerca de la Tentación de Comprometerse
 
-##    A.  **Introducción** **a** **la** **Sección:** **Pablo** **señala** __<u>tres</u>__ **áreas** **en** **las** **cuales** **comúnmente** **muchas** **iglesias** **son** **tentadas** **al** **compromiso.**
+##    A.  Introducción a la Sección: Pablo señala  __<u>tres</u>__  áreas en las cuales comúnmente muchas iglesias son tentadas al compromiso. 
 
 ### 1.  ***Alterar*** ***el*** ***Mensaje***: Los Corintios estaban tentados a comprometerse, alterando el mensaje del __<u>Evangelio</u>__. 1 Corintios 1:18-31
 
@@ -355,7 +368,7 @@ ___
 
 ### 4.  Estos tres __<u>errores</u>__ serán indicados y corregidos en los capítulos 1-4.
 
-##    B.  **1** **Corintios** **1:18-31** **--** **¡No** **Alterar** **el** **Mensaje**!
+##    B.  1 Corintios 1:18-31 -- ¡No Alterar el Mensaje!
 
 ### 1.  1 Corintios 1:18 -- La ***palabra*** ***de*** ***la*** ***cruz*** (el mensaje del Evangelio) no es un mensaje agradable o popular para el __<u>mundo.</u>__
 
@@ -381,11 +394,11 @@ ___
 
 ##### 4.  *¿No ha enloquecido Dios la sabiduría del mundo?* Respuesta anticipada: Sí*,* Dios ha hecho totalmente necios a los __<u>sabios</u>__ del mundo.
 
-### 3.  1 Corintios 1:21-23 -- La ***palabra*** ***de*** ***la*** ***cruz*** es una piedra de tropiezo para el __<u>mundo</u>__ inconverso.
+### 3.  1 Corintios 1:21-23 -- La ***palabra de la cruz*** es una piedra de tropiezo para el __<u>mundo</u>__ inconverso.
 
 ####    a.  1 Corintios 1:21 -- Por diseño, Dios escogió salvar a las personas, por un medio que los __<u>sabios</u>__ de este mundo no aceptarían fácilmente.
 
-##### 1.  Por diseño, el __<u>método</u>__ de Dios es ilógico y poco atractivo para el mundo. *En la sabiduría de Dios, el mundo no conoció a Dios mediante la sabiduría.\ *
+##### 1.  Por diseño, el __<u>método</u>__ de Dios es ilógico y poco atractivo para el mundo. *En la sabiduría de Dios, el mundo no conoció a Dios mediante la sabiduría.*
 
 ##### 2.  Por diseño...*agradó a Dios* (Griego: EUDOKESEN -- literalmente *con euforia*) __<u>usar</u>__ un método que este mundo no aceptaría.
 
@@ -403,21 +416,21 @@ ___
 
 ##### 2.  Esto era un concepto insensato para los gentiles, que gustaban de sofisticada retórica o __<u>lógica</u>__. Querían maravillarse con grandilocuentes y extravagantes palabras.
 
-### 4.  1 Corintios 1:24-25 -- La ***palabra*** ***de*** ***la*** ***cruz*** parece __<u>débil</u>__ e insensata al mundo, pero es absolutamente racional y poderosa para los que somos salvos.
+### 4.  1 Corintios 1:24-25 -- La ***palabra de la cruz*** parece __<u>débil</u>__ e insensata al mundo, pero es absolutamente racional y poderosa para los que somos salvos.
 
 ####    a.  1 Corintios 1:24 -- Para nosotros que hemos sido __<u>llamados</u>__ (todos los que han respondido al mensaje), el mensaje del Evangelio es tanto racional como poderoso.
 
-##### 1.  El ***mensaje*** ***de*** ***Cristo*** ***crucificado*** es el poder mismo de Dios. Ese mensaje que cambia las vidas, tiene el poder de transferir a la gente de muerte a vida y eso debería haber sido una __<u>señal</u>__ más que suficiente para los israelitas.
+##### 1.  El ***mensaje de Cristo crucificado*** es el poder mismo de Dios. Ese mensaje que cambia las vidas, tiene el poder de transferir a la gente de muerte a vida y eso debería haber sido una __<u>señal</u>__ más que suficiente para los israelitas.
 
-##### 2.  El ***mensaje*** ***de*** ***Cristo*** ***crucificado*** es la sabiduría misma de Dios. El __<u>sabio</u>__ mensaje del Evangelio estaba trayendo vida y paz a todo aquel que creía. Esa exhibición de poder debería haber hecho que el Evangelio fuese estimado y buscado entre los gentiles.
+##### 2.  El ***mensaje de Cristo crucificado*** es la sabiduría misma de Dios. El __<u>sabio</u>__ mensaje del Evangelio estaba trayendo vida y paz a todo aquel que creía. Esa exhibición de poder debería haber hecho que el Evangelio fuese estimado y buscado entre los gentiles.
 
 ####    b.  1 Corintios 1:25 -- El aspecto más pequeño (débil) del poder y sabiduría de Dios, es infinitamente superior que lo __<u>mejor</u>__ que la humanidad pueda jamás realizar.
 
-### 5.  1 Corintios 1:26-29 -- La ***palabra*** ***de*** ***la*** ***cruz*** es una solución única que produce resultados asombrosos en __<u>todos</u>__ los que creen.
+### 5.  1 Corintios 1:26-29 -- La ***palabra de la cruz*** es una solución única que produce resultados asombrosos en __<u>todos</u>__ los que creen.
 
-####    a.  1 Corintios 1:26 -- **Dios** **usa** **lo** **ignorante.** Piensa en los creyentes que conoces. *No son __<u>muchos</u>__ sabios, ni poderosos ni nobles* los llamados.
+####    a.  1 Corintios 1:26 -- **Dios usa lo ignorante**. Piensa en los creyentes que conoces. *No son __<u>muchos</u>__ sabios, ni poderosos ni nobles* los llamados.
 
-####    b.  1 Corintios 1:27 -- **Dios** **usa** **lo** **inusual**. Para hacer Su __<u>obra</u>__, Dios usa todo lo contrario de lo que el sistema del mundo estima o requiere. Veamos 1 Corintios 1:27 en comparación con 1 Corintios 1:22-23
+####    b.  1 Corintios 1:27 -- **Dios usa lo inusual**. Para hacer Su __<u>obra</u>__, Dios usa todo lo contrario de lo que el sistema del mundo estima o requiere. Veamos 1 Corintios 1:27 en comparación con 1 Corintios 1:22-23
 
 ##### 1.  1 Corintios 1:27a -- A los gentiles del mundo que buscaban la sabiduría, Dios __<u>escogió</u>__ presentarles algo que consideraban necedad.
 
@@ -425,23 +438,23 @@ ___
 
 ######    b.  Dios escogió un mensaje que la sabiduría de los gentiles no podía explicar. A pesar de toda su sabiduría, los gentiles jamás habrían podido idear (concebir) un __<u>plan</u>__ de salvación tan increíble.
 
-##### 2.  1 Corintios 1:27b -- Los israelitas, por otra parte, típicamente buscaban algo poderoso como __<u>señales</u>__ y milagros que confirmara la credibilidad de algo, pero Dios, a cambio, les dio la ***palabra*** ***de*** ***la*** ***cruz***.
+##### 2.  1 Corintios 1:27b -- Los israelitas, por otra parte, típicamente buscaban algo poderoso como __<u>señales</u>__ y milagros que confirmara la credibilidad de algo, pero Dios, a cambio, les dio la ***palabra de  la cruz***.
 
 ######    a.  Para el israelita, Dios escogió usar algo que se consideraba absolutamente débil y miserable - como su Mesías __<u>muriendo</u>__ en una cruz - para ser el objeto de fe para la salvación.
 
 ######    b.  Para el israelita común esto no __<u>parecía</u>__ ser la respuesta para su salvación, sino una desagradable y repugnante debilidad.
 
-####    c.  1 Corintios 1:28 -- **Dios** **usa** **lo** **débil**. Pablo pide a sus lectores el considerar otras cosas *débiles* que Dios ha escogido emplear para alcanzar al __<u>mundo</u>__.
+####    c.  1 Corintios 1:28 -- **Dios usa lo débil**. Pablo pide a sus lectores el considerar otras cosas *débiles* que Dios ha escogido emplear para alcanzar al __<u>mundo</u>__.
 
 ##### 1.  *Lo vil* (griego: AGENES significa lo cobarde, lo sin __<u>familia</u>__, lo abandonado o huérfano).
 
-##### 2.  *Lo* *menospreciado* (griego: EXOUTHENEO que significa lo que __<u>no</u>__ __<u>cuenta</u>__, lo rechazado o despreciable).
+##### 2.  *Lo menospreciado* (griego: EXOUTHENEO que significa lo que __<u>no</u>__ __<u>cuenta</u>__, lo rechazado o despreciable).
 
 ##### 3.  *Lo que __<u>no</u>__ es,* significa lo que es considerado como nada. Dios hace esto, para *deshacer lo que es,* lo que el mundo considera como importante.
 
-####    d.  1 Corintios 1:29 -- **Dios** **usa** **lo** **despreciado**. Dios usa las cosas rechazadas para hacer __<u>callar</u>__ toda lengua jactanciosa.
+####    d.  1 Corintios 1:29 -- **Dios usa lo despreciado**. Dios usa las cosas rechazadas para hacer __<u>callar</u>__ toda lengua jactanciosa.
 
-### 6.  1 Corintios 1:30-31 -- Pablo finaliza su enseñanza sobre la importancia de no alterar el mensaje recordando a los corintios que la ***palabra*** ***de*** ***la*** ***cruz*** o ***Cristo*** ***crucificado***, cambia la __<u>vida</u>__.
+### 6.  1 Corintios 1:30-31 -- Pablo finaliza su enseñanza sobre la importancia de no alterar el mensaje recordando a los corintios que la ***palabra de la cruz*** o ***Cristo crucificado***, cambia la __<u>vida</u>__.
 
 ####    a.  1 Corintios 1:30 -- Por Su __<u>muerte</u>__ a nuestro favor, Jesucristo, el Mesías, ha llegado a ser para nosotros, mucho más de lo que los judíos y los gentiles jamás podrían haber imaginado o deseado en su búsqueda de sabiduría y poder. Colosenses 2:8-10
 
@@ -453,13 +466,13 @@ ___
 
 ##### 4.  Cristo llegó a ser el pago de nuestra redención ante __<u>Dios</u>__. 1 Pedro 1:18
 
-####    b.  1 Corintios 1:31 -- Conclusión: la vida cambiada del creyente en Cristo trae todo el reconocimiento y la __<u>gloria</u>__ a Dios, y nada al hombre.\
+####    b.  1 Corintios 1:31 -- Conclusión: la vida cambiada del creyente en Cristo trae todo el reconocimiento y la __<u>gloria</u>__ a Dios, y nada al hombre.
 
-##    C.  **1** **Corintios** **2:1-16** **--** **¡No** **Juguetear** **con** **el** **Método!**
+##    C.  1 Corintios 2:1-16 -- ¡No Juguetear con el Método!
 
 ### 1.  1 Corintios 2:1-5 -- El apóstol Pablo explica que él no __<u>se</u>__ __<u>valió</u>__ de métodos humanos o "populares" cuando ministró entre los corintios.
 
-####    a.  1 Corintios 2:1 -- Pablo se **refiere** a cómo él predicó el *testimonio de __<u>Dios</u>__* entre los corintios sin ninguna ostentación**.**
+####    a.  1 Corintios 2:1 -- Pablo se **refiere** a cómo él predicó el *testimonio de __<u>Dios</u>__* entre los corintios sin ninguna ostentación.
 
 ##### 1.  1 Corintios 2:1a -- Fue sin un *__<u>discurso</u>__* de altivez o palabras sublimes.
 
@@ -485,7 +498,7 @@ ___
 
 ######    c.  Cuídate de los predicadores del Evangelio "sin cruz," que dicen que no es necesario creer en la __<u>obra</u>__ de Cristo para ser salvo. Pero, si el creer en la obra de Cristo en la cruz no es necesario para la salvación, ¿por qué Pablo predicaba a Cristo crucificado?
 
-######    d.  Pero si el ***mensaje*** ***de*** ***la*** ***cruz*** es una información extra pero innecesaria, ¿por qué Pablo y los otros apóstoles lo predicaron a los __<u>perdidos</u>__?\Gálatas 3:1
+######    d.  Pero si el ***mensaje de la cruz*** es una información extra pero innecesaria, ¿por qué Pablo y los otros apóstoles lo predicaron a los __<u>perdidos</u>__?\Gálatas 3:1
 
 ####    c.  1 Corintios 2:3 -- Pablo compartió entre los corintios que mientras les ministraba se había sentido __<u>débil</u>__ y frágil... Hebreos 5:7
 
@@ -499,9 +512,9 @@ ___
 
 ####    d.  1 Corintios 2:4 -- Pablo resumió cuál era la verdadera fuente de __<u>poder</u>__ en su ministerio.
 
-##### 1.  1 Corintios 2:4a --...*mi palabra*... Pablo dijo que su palabra, el __<u>mensaje</u>__ del Evangelio de la fe en Cristo solamente, no dependió de la sabiduría o persuasión de los hombres. El no **alteró** **el** **mensaje.**
+##### 1.  1 Corintios 2:4a --...*mi palabra...* Pablo dijo que su palabra, el __<u>mensaje</u>__ del Evangelio de la fe en Cristo solamente, no dependió de la sabiduría o persuasión de los hombres. El no **alteró el mensaje**.
 
-##### 2.  1 Corintios 2:4b --...y *mi predicación no fueron persuasivas palabras de sabiduría*... el método de Pablo no se __<u>basaba</u>__ en la persuasión. El no **jugueteaba** **con** **el** **método.**
+##### 2.  1 Corintios 2:4b --...y *mi predicación no fueron persuasivas palabras de sabiduría...* el método de Pablo no se __<u>basaba</u>__ en la persuasión. El no **jugueteaba con el método**.
 
 ######    a.  Muchos métodos se basan en persuadir o convencer a alguien a __<u>creer</u>__.
 
@@ -513,7 +526,7 @@ ___
 
 ######    b.  El poder de Dios -- Pablo confiaba exclusivamente en el poder de Dios, que mediante el Evangelio, produce un __<u>cambio</u>__ de vida. Romanos 1:16
 
-####    e.  1 Corintios 2:5 -- Pablo reitera por qué es importante que al ministrar, se dependa de Dios y no de los __<u>métodos</u>__ de los hombres. Básicamente, porque no quería que fueran persuadidos o **sugestionados** **por** **los** **hombres**.
+####    e.  1 Corintios 2:5 -- Pablo reitera por qué es importante que al ministrar, se dependa de Dios y no de los __<u>métodos</u>__ de los hombres. Básicamente, porque no quería que fueran persuadidos o **sugestionados** **por los hombres**.
 
 ##### 1.  Para que la fe de los Corintios no __<u>descansara</u>__ en la sabiduría de los hombres.
 
@@ -533,7 +546,7 @@ ___
 
 ##### 2.  Nuestra sabiduría no procede de los que gobiernan el sistema __<u>mundial</u>__.
 
-######    a.  Los cristianos muchas veces se sienten tentados a cambiar su método o mensaje para apelar al __<u>mundo</u>__. Pablo dice que los gobernantes (*gente prominente e* *importante del mundo*) pasarán. ¿Por qué apelar a lo que no permanecerá?
+######    a.  Los cristianos muchas veces se sienten tentados a cambiar su método o mensaje para apelar al __<u>mundo</u>__. Pablo dice que los gobernantes (*gente prominente e importante del mundo*) pasarán. ¿Por qué apelar a lo que no permanecerá?
 
 ######    b.  Debe servir de recordatorio y consuelo que los *iluminados e influyentes*, los que rechazan *nuestra* sabiduría, se desvanecerán y __<u>desaparecerán</u>__.
 
@@ -549,7 +562,7 @@ ___
 
 ##### 2.  1 Corintios 2:8 -- Consideremos __<u>cuatro</u>__ grupos que estimamos gloriosos y llenos de conocimiento, que Dios ha dejado, a propósito, sin entendimiento en este tiempo.
 
-######    a.  **Líderes** **Humanos:** 1 Corintios 2:8 -- Pablo puede referirse aquí a los gobernantes humanos de este tiempo. Se puede referir a Herodes, Pilato y a los líderes judíos que consintieron en la __<u>muerte</u>__ de Cristo.
+######    a.  **Líderes Humanos:** 1 Corintios 2:8 -- Pablo puede referirse aquí a los gobernantes humanos de este tiempo. Se puede referir a Herodes, Pilato y a los líderes judíos que consintieron en la __<u>muerte</u>__ de Cristo.
 
 ######    b.  **Demonios:** 1 Corintios 2:8 -- Pablo se puede estar refiriendo aquí a seres espirituales demoníacos que no entendían lo que estaban haciendo.
 
@@ -567,7 +580,7 @@ ___
 
 ######    ii. 1 Corintios 2:8 -- Tomemos nota de esto. *Hablamos* una sabiduría que __<u>ninguno</u>__ de los príncipes de este siglo ha entendido. ¡Asombroso!
 
-###### 3.  1 Corintios 2:9 -- *Cosas que...Dios* *ha preparado para los que le __<u>aman</u>__...* Dios predijo que nosotros entenderíamos esta sabiduría oculta.
+###### 3.  1 Corintios 2:9 -- *Cosas que...Dios ha preparado para los que le __<u>aman</u>__...* Dios predijo que nosotros entenderíamos esta sabiduría oculta.
 
 ######    a.  __<u>Ojos</u>__ no han visto lo que Dios tiene preparado para nuestra gloria.\ Isaías 64:4, 65:17
 
