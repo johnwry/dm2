@@ -29,7 +29,7 @@ ___
 www.DM2USA.org
 
 ___
-**1 CORINTIOS 1-8**
+### 1 CORINTIOS 1-8**
 |1 Corintios 1:1-10 -- Historia de Corinto| 7 |
 |------------------------------|----|
 | 1 Corintios 1:1-10 -- Recomendando a los Cristianos de Corinto |11|
@@ -108,7 +108,6 @@ ___
          x="16.664408"
          y="37.672512" />
     </g>
-    <!-- .element: class="fragment" data-fragment-index="1"-->
     <g
        id="g4">
       <rect
@@ -147,7 +146,6 @@ ___
            y="49.326973"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.264583">2:1-16</tspan></text>
     </g>
-    <!-- .element: class="fragment" data-fragment-index="4"-->
     <g
        id="g5">
       <rect
@@ -186,7 +184,6 @@ ___
            y="48.073772"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.264583">3:1-4:21</tspan></text>
     </g>
-    <!-- .element: class="fragment" data-fragment-index="5"-->
     <g
        id="g6">
       <rect
@@ -225,7 +222,6 @@ ___
            y="49.805859"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.264583">5:1-6:20</tspan></text>
     </g>
-    <!-- .element: class="fragment" data-fragment-index="6"-->
     <g
        id="g7">
       <rect
@@ -264,7 +260,6 @@ ___
            y="49.766636"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.264583">7:1-16-24</tspan></text>
     </g>
-    <!-- .element: class="fragment" data-fragment-index="7"-->
     <g
        id="g3">
       <rect
@@ -303,7 +298,6 @@ ___
            y="48.514545"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.264583">1:18-31</tspan></text>
     </g>
-    <!-- .element: class="fragment" data-fragment-index="3"-->
     <g
        id="g2">
       <rect
@@ -342,7 +336,6 @@ ___
            y="49.348686"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.264583">1:11-17</tspan></text>
     </g>
-    <!-- .element: class="fragment" data-fragment-index="2"-->
     <text
        xml:space="preserve"
        id="text1523"
