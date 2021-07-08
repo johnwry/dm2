@@ -27,7 +27,6 @@ ___
 **Para más información:**
 **Escríbenos** **a:** **bret.nazworth@gmail.com**
 www.DM2USA.org
-
 ___
 ### 1 CORINTIOS 1-8
 |1 Corintios 1:1-10 -- Historia de Corinto| 7 |
