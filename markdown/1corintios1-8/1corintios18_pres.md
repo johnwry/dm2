@@ -2009,7 +2009,6 @@ ___
   </g>
 </svg>
 
-
 # I.  Historia de Corinto
 
 ##    A.  La Iglesia
