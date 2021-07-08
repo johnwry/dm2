@@ -67,627 +67,6 @@ ___
    id="svg1786"
    inkscape:version="1.0.2 (e86c8708, 2021-01-15)"
    sodipodi:docname="bosquejo_web.svg">
-  <defs
-     id="defs1780">
-    <rect
-       x="60.172231"
-       y="100.89028"
-       width="25.516579"
-       height="14.207038"
-       id="rect2515" />
-    <rect
-       x="16.663523"
-       y="52.135517"
-       width="36.023308"
-       height="20.818249"
-       id="rect1651" />
-    <rect
-       x="16.663523"
-       y="52.135517"
-       width="35.55849"
-       height="20.813888"
-       id="rect1645" />
-    <rect
-       x="16.663521"
-       y="52.135516"
-       width="36.02331"
-       height="20.813889"
-       id="rect1531" />
-    <rect
-       x="20.873833"
-       y="55.633632"
-       width="30.650955"
-       height="17.315773"
-       id="rect1525" />
-    <rect
-       x="63.065875"
-       y="42.376656"
-       width="17.636772"
-       height="12.636917"
-       id="rect906" />
-    <rect
-       x="111.4246"
-       y="16.414579"
-       width="106.52772"
-       height="26.152005"
-       id="rect900" />
-    <rect
-       x="16.663523"
-       y="52.135517"
-       width="36.023308"
-       height="20.818249"
-       id="rect1651-2" />
-    <rect
-       x="16.663523"
-       y="52.135517"
-       width="36.023308"
-       height="20.818249"
-       id="rect1664" />
-    <rect
-       x="16.663523"
-       y="52.135517"
-       width="36.023308"
-       height="20.818249"
-       id="rect1651-2-3" />
-    <rect
-       x="16.663523"
-       y="52.135517"
-       width="36.023308"
-       height="20.818249"
-       id="rect2007" />
-    <rect
-       x="16.663523"
-       y="52.135517"
-       width="36.023308"
-       height="20.818249"
-       id="rect1651-2-2" />
-    <rect
-       x="16.663523"
-       y="52.135517"
-       width="36.023308"
-       height="20.818249"
-       id="rect2051" />
-    <rect
-       x="16.663523"
-       y="52.135517"
-       width="36.023308"
-       height="20.818249"
-       id="rect1651-2-2-3" />
-    <rect
-       x="16.663523"
-       y="52.135517"
-       width="36.023308"
-       height="20.818249"
-       id="rect2095" />
-    <rect
-       x="16.663523"
-       y="52.135517"
-       width="36.023308"
-       height="20.818249"
-       id="rect1651-2-2-3-0" />
-    <rect
-       x="16.663523"
-       y="52.135517"
-       width="36.023308"
-       height="20.818249"
-       id="rect2161" />
-    <rect
-       x="16.663523"
-       y="52.135517"
-       width="36.023308"
-       height="20.818249"
-       id="rect1651-2-2-3-0-7" />
-    <rect
-       x="16.663523"
-       y="52.135517"
-       width="36.023308"
-       height="20.818249"
-       id="rect2215" />
-    <rect
-       x="16.663523"
-       y="52.135517"
-       width="36.023308"
-       height="20.818249"
-       id="rect1651-2-2-3-0-7-5" />
-    <rect
-       x="16.663523"
-       y="52.135517"
-       width="36.023308"
-       height="20.818249"
-       id="rect2283" />
-    <rect
-       x="16.663523"
-       y="52.135517"
-       width="36.023308"
-       height="20.818249"
-       id="rect1651-2-2-3-0-7-4" />
-    <rect
-       x="16.663523"
-       y="52.135517"
-       width="36.023308"
-       height="20.818249"
-       id="rect2380" />
-    <rect
-       x="16.663523"
-       y="52.135517"
-       width="36.023308"
-       height="20.818249"
-       id="rect1651-2-2-3-0-7-4-3" />
-    <rect
-       x="16.663523"
-       y="52.135517"
-       width="36.023308"
-       height="20.818249"
-       id="rect2453" />
-    <rect
-       x="16.663523"
-       y="52.135517"
-       width="36.023308"
-       height="20.818249"
-       id="rect1651-2-2-3-0-7-4-3-1" />
-    <rect
-       x="16.663523"
-       y="52.135517"
-       width="36.023308"
-       height="20.818249"
-       id="rect2532" />
-    <rect
-       x="16.663523"
-       y="52.135517"
-       width="36.023308"
-       height="20.818249"
-       id="rect1651-2-2-3-0-7-4-3-9" />
-    <rect
-       x="16.663523"
-       y="52.135517"
-       width="36.023308"
-       height="20.818249"
-       id="rect2532-2" />
-    <rect
-       x="16.663523"
-       y="52.135517"
-       width="36.023308"
-       height="20.818249"
-       id="rect1651-2-2-3-0-7-4-3-6" />
-    <rect
-       x="16.663523"
-       y="52.135517"
-       width="36.023308"
-       height="20.818249"
-       id="rect2532-6" />
-    <rect
-       x="16.663523"
-       y="52.135517"
-       width="36.023308"
-       height="20.818249"
-       id="rect1651-2-2-3-0-7-4-3-68" />
-    <rect
-       x="16.663523"
-       y="52.135517"
-       width="36.023308"
-       height="20.818249"
-       id="rect2532-27" />
-    <rect
-       x="16.663523"
-       y="52.135517"
-       width="36.023308"
-       height="20.818249"
-       id="rect1651-2-2-3-0-7-4-3-4" />
-    <rect
-       x="16.663523"
-       y="52.135517"
-       width="36.023308"
-       height="20.818249"
-       id="rect2532-3" />
-    <rect
-       x="16.663523"
-       y="52.135517"
-       width="36.023308"
-       height="20.818249"
-       id="rect1651-2-2-3-0-7-4-3-13" />
-    <rect
-       x="16.663523"
-       y="52.135517"
-       width="36.023308"
-       height="20.818249"
-       id="rect2532-26" />
-    <rect
-       x="16.663523"
-       y="52.135517"
-       width="36.023308"
-       height="20.818249"
-       id="rect1651-2-2-3-0-7-4-3-10" />
-    <rect
-       x="16.663523"
-       y="52.135517"
-       width="36.023308"
-       height="20.818249"
-       id="rect2532-4" />
-    <rect
-       x="16.663523"
-       y="52.135517"
-       width="36.023308"
-       height="20.818249"
-       id="rect1651-2-2-3-0-7-4-3-2" />
-    <rect
-       x="16.663523"
-       y="52.135517"
-       width="36.023308"
-       height="20.818249"
-       id="rect2532-9" />
-    <rect
-       x="16.663523"
-       y="52.135517"
-       width="36.023308"
-       height="20.818249"
-       id="rect1651-2-2-3-0-7-4-3-3" />
-    <rect
-       x="16.663523"
-       y="52.135517"
-       width="36.023308"
-       height="20.818249"
-       id="rect2532-97" />
-    <rect
-       x="16.663523"
-       y="52.135517"
-       width="36.023308"
-       height="20.818249"
-       id="rect1651-2-2-3-0-7-4-3-91" />
-    <rect
-       x="16.663523"
-       y="52.135517"
-       width="36.023308"
-       height="20.818249"
-       id="rect2532-90" />
-    <rect
-       x="16.663523"
-       y="52.135517"
-       width="36.023308"
-       height="20.818249"
-       id="rect1651-2-2-3-0-7-4-3-0" />
-    <rect
-       x="16.663523"
-       y="52.135517"
-       width="36.023308"
-       height="20.818249"
-       id="rect2532-0" />
-    <rect
-       x="16.663523"
-       y="52.135517"
-       width="36.023308"
-       height="20.818249"
-       id="rect1651-2-2-3-0-7-4-3-04" />
-    <rect
-       x="16.663523"
-       y="52.135517"
-       width="36.023308"
-       height="20.818249"
-       id="rect2532-28" />
-    <rect
-       x="16.663523"
-       y="52.135517"
-       width="36.023308"
-       height="20.818249"
-       id="rect1651-2-2-3-0-7-4-3-27" />
-    <rect
-       x="16.663523"
-       y="52.135517"
-       width="36.023308"
-       height="20.818249"
-       id="rect2532-7" />
-    <rect
-       x="16.663523"
-       y="52.135517"
-       width="36.023308"
-       height="20.818249"
-       id="rect1651-2-2-3-0-7-4-3-30" />
-    <rect
-       x="16.663523"
-       y="52.135517"
-       width="36.023308"
-       height="20.818249"
-       id="rect2532-8" />
-    <rect
-       x="16.663523"
-       y="52.135517"
-       width="53.582565"
-       height="14.207602"
-       id="rect1651-2-2-3-0-7-4-3-913" />
-    <rect
-       x="16.663523"
-       y="52.135517"
-       width="36.023308"
-       height="20.818249"
-       id="rect2532-02" />
-    <rect
-       x="16.663523"
-       y="52.135517"
-       width="33.822652"
-       height="21.276185"
-       id="rect1651-2-2-3-0-7-4-3-21" />
-    <rect
-       x="16.663523"
-       y="52.135517"
-       width="36.023308"
-       height="20.818249"
-       id="rect2532-09" />
-    <rect
-       x="16.663523"
-       y="52.135517"
-       width="36.023308"
-       height="20.818249"
-       id="rect1651-2-2-3-0-7-4-3-64" />
-    <rect
-       x="16.663523"
-       y="52.135517"
-       width="36.023308"
-       height="20.818249"
-       id="rect2532-86" />
-    <rect
-       x="16.663523"
-       y="52.135517"
-       width="36.023308"
-       height="20.818249"
-       id="rect1651-2-2-3-0-7-4-3-99" />
-    <rect
-       x="16.663523"
-       y="52.135517"
-       width="36.023308"
-       height="20.818249"
-       id="rect2532-39" />
-    <rect
-       x="16.663523"
-       y="52.135517"
-       width="36.023308"
-       height="20.818249"
-       id="rect1651-2-2-3-0-7-4-3-62" />
-    <rect
-       x="16.663523"
-       y="52.135517"
-       width="36.023308"
-       height="20.818249"
-       id="rect2532-274" />
-    <rect
-       x="16.663523"
-       y="52.135517"
-       width="36.023308"
-       height="20.818249"
-       id="rect1651-2-2-3-0-7-4-3-7" />
-    <rect
-       x="16.663523"
-       y="52.135517"
-       width="36.023308"
-       height="20.818249"
-       id="rect2532-76" />
-    <rect
-       x="16.663523"
-       y="52.135517"
-       width="36.023308"
-       height="20.818249"
-       id="rect1651-2-2-3-0-7-4-3-217" />
-    <rect
-       x="16.663523"
-       y="52.135517"
-       width="36.023308"
-       height="20.818249"
-       id="rect2532-5" />
-    <rect
-       x="16.663523"
-       y="52.135517"
-       width="36.023308"
-       height="20.818249"
-       id="rect1651-2-2-3-0-7-4-3-48" />
-    <rect
-       x="16.663523"
-       y="52.135517"
-       width="36.023308"
-       height="20.818249"
-       id="rect2532-58" />
-    <rect
-       x="16.663523"
-       y="52.135517"
-       width="36.023308"
-       height="20.818249"
-       id="rect1651-2-2-3-0-7-4-3-39" />
-    <rect
-       x="16.663523"
-       y="52.135517"
-       width="36.023308"
-       height="20.818249"
-       id="rect2532-20" />
-    <rect
-       x="16.663523"
-       y="52.135517"
-       width="36.023308"
-       height="20.818249"
-       id="rect1651-2-2-3-0-7-4-3-47" />
-    <rect
-       x="16.663523"
-       y="52.135517"
-       width="36.023308"
-       height="20.818249"
-       id="rect2532-281" />
-    <rect
-       x="16.663523"
-       y="52.135517"
-       width="33.776491"
-       height="20.526528"
-       id="rect1651-2-2-3-0-7-4-3-07" />
-    <rect
-       x="16.663523"
-       y="52.135517"
-       width="36.023308"
-       height="20.818249"
-       id="rect2532-81" />
-    <rect
-       x="16.663523"
-       y="52.135517"
-       width="36.023308"
-       height="20.818249"
-       id="rect1651-2-2-3-0-7-4-3-44" />
-    <rect
-       x="16.663523"
-       y="52.135517"
-       width="36.023308"
-       height="20.818249"
-       id="rect2532-288" />
-    <rect
-       x="16.663523"
-       y="52.135517"
-       width="36.023308"
-       height="20.818249"
-       id="rect1651-2-2-3-0-7-4-3-63" />
-    <rect
-       x="16.663523"
-       y="52.135517"
-       width="36.023308"
-       height="20.818249"
-       id="rect2532-96" />
-    <rect
-       x="16.663523"
-       y="52.135517"
-       width="36.023308"
-       height="20.818249"
-       id="rect1651-2-2-3-0-7-4-3-70" />
-    <rect
-       x="16.663523"
-       y="52.135517"
-       width="36.023308"
-       height="20.818249"
-       id="rect2532-06" />
-    <rect
-       x="16.663523"
-       y="52.135517"
-       width="36.023308"
-       height="20.818249"
-       id="rect1651-2-2-3-0-7-4-3-43" />
-    <rect
-       x="16.663523"
-       y="52.135517"
-       width="36.023308"
-       height="20.818249"
-       id="rect2532-45" />
-    <rect
-       x="16.663523"
-       y="52.135517"
-       width="36.023308"
-       height="20.818249"
-       id="rect1651-2-2-3-0-7-4-3-16" />
-    <rect
-       x="16.663523"
-       y="52.135517"
-       width="36.023308"
-       height="20.818249"
-       id="rect2532-025" />
-    <rect
-       x="16.663523"
-       y="52.135517"
-       width="36.023308"
-       height="20.818249"
-       id="rect1651-2-2-3-0-7-4-3-5" />
-    <rect
-       x="16.663523"
-       y="52.135517"
-       width="36.023308"
-       height="20.818249"
-       id="rect2532-99" />
-    <rect
-       x="16.663523"
-       y="52.135517"
-       width="36.023308"
-       height="20.818249"
-       id="rect1651-2-2-3-0-7-4-3-03" />
-    <rect
-       x="16.663523"
-       y="52.135517"
-       width="36.023308"
-       height="20.818249"
-       id="rect2532-01" />
-    <rect
-       x="16.663523"
-       y="52.135517"
-       width="36.023308"
-       height="20.818249"
-       id="rect1651-2-2-3-0-7-4-3-06" />
-    <rect
-       x="16.663523"
-       y="52.135517"
-       width="36.023308"
-       height="20.818249"
-       id="rect2532-1" />
-    <rect
-       x="16.663523"
-       y="52.135517"
-       width="36.023308"
-       height="20.818249"
-       id="rect1651-2-2-3-0-7-4-3-90" />
-    <rect
-       x="16.663523"
-       y="52.135517"
-       width="36.023308"
-       height="20.818249"
-       id="rect2532-32" />
-    <rect
-       x="16.663523"
-       y="52.135517"
-       width="55.374326"
-       height="13.685709"
-       id="rect1651-2-2-3-0-7-4-3-02" />
-    <rect
-       x="16.663523"
-       y="52.135517"
-       width="36.023308"
-       height="20.818249"
-       id="rect2532-84" />
-    <rect
-       x="16.663523"
-       y="52.135517"
-       width="36.023308"
-       height="20.818249"
-       id="rect1651-2-2-3-0-7-4-3-71" />
-    <rect
-       x="16.663523"
-       y="52.135517"
-       width="36.023308"
-       height="20.818249"
-       id="rect2532-75" />
-    <rect
-       x="16.663523"
-       y="52.135517"
-       width="36.023308"
-       height="20.818249"
-       id="rect1651-2-2-3-0-7-4-3-93" />
-    <rect
-       x="16.663523"
-       y="52.135517"
-       width="36.023308"
-       height="20.818249"
-       id="rect2532-57" />
-    <rect
-       x="16.663523"
-       y="52.135517"
-       width="36.023308"
-       height="20.818249"
-       id="rect1651-2-2-3-0-7-4-3-997" />
-    <rect
-       x="16.663523"
-       y="52.135517"
-       width="36.023308"
-       height="20.818249"
-       id="rect2532-15" />
-    <rect
-       x="111.4246"
-       y="16.414579"
-       width="106.52772"
-       height="26.152004"
-       id="rect900-9" />
-    <rect
-       x="111.4246"
-       y="16.414579"
-       width="106.52772"
-       height="26.152004"
-       id="rect4669" />
-  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -1014,17 +393,17 @@ ___
          y="0"><tspan
            x="18.18711"
            y="55.623024"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.82346px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">Recomendando </tspan></tspan><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.82346px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">Recomendando </tspan></tspan><tspan
            x="28.989131"
            y="60.402348"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.82346px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">a los 
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.82346px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">a los 
 </tspan></tspan><tspan
            x="20.677586"
            y="65.181671"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.82346px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">Cristianos de </tspan></tspan><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.82346px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">Cristianos de </tspan></tspan><tspan
            x="26.823499"
            y="69.960999"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.82346px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">Corinto</tspan></tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.82346px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">Corinto</tspan></tspan></text>
     </g>
     <!-- .element: class="fragment" data-fragment-index="8"-->
     <g
@@ -1045,11 +424,11 @@ ___
          y="0"><tspan
            x="30.871327"
            y="55.940141"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">1:2
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">1:2
 </tspan></tspan><tspan
            x="19.759389"
            y="61.153955"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">La Audiencia</tspan></tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">La Audiencia</tspan></tspan></text>
     </g>
     <!-- .element: class="fragment" data-fragment-index="10"-->
     <g
@@ -1070,15 +449,15 @@ ___
          y="0"><tspan
            x="28.38662"
            y="55.940141"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">1:4-9
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">1:4-9
 </tspan></tspan><tspan
            x="22.533301"
            y="61.153955"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">Verdadera
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">Verdadera
 </tspan></tspan><tspan
            x="20.981377"
            y="66.367769"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">Apreciacion</tspan></tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">Apreciacion</tspan></tspan></text>
     </g>
     <!-- .element: class="fragment" data-fragment-index="12"-->
     <g
@@ -1099,25 +478,25 @@ ___
          y="0"><tspan
            x="29.388649"
            y="55.940141"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">1:10
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">1:10
 </tspan></tspan><tspan
            x="17.576105"
            y="61.153955"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">Claves Basicas
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">Claves Basicas
 </tspan></tspan><tspan
            x="25.058741"
            y="66.367769"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">Sobre la
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">Sobre la
 </tspan></tspan><tspan
            x="26.472173"
            y="71.581582"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">Unidad
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">Unidad
 </tspan></tspan><tspan
            style="visibility:hidden"
            x="16.664062"
            y="76.7585"><tspan
              dx="0 3.2423396 2.9164767 2.0773783 2.7698383 2.4521208 1.4256516 2.7861319 2.4521217 1.4256516 2.8675957"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">Apreciacion</tspan></tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">Apreciacion</tspan></tspan></text>
     </g>
     <!-- .element: class="fragment" data-fragment-index="13"-->
     <g
@@ -1139,25 +518,25 @@ ___
          y="0"><tspan
            x="27.995584"
            y="55.940141"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">1:17a
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">1:17a
 </tspan></tspan><tspan
            x="22.350002"
            y="61.153955"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">El Metodo:
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">El Metodo:
 </tspan></tspan><tspan
            x="20.252258"
            y="66.367769"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">Palabras de 
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">Palabras de 
 </tspan></tspan><tspan
            x="22.187071"
            y="71.581582"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">Elocuencia
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">Elocuencia
 </tspan></tspan><tspan
            style="visibility:hidden"
            x="16.664062"
            y="76.7585"><tspan
              dx="0 3.2423396 2.9164767 2.0773783 2.7698383 2.4521208 1.4256516 2.7861319 2.4521217 1.4256516 2.8675957"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">Apreciacion</tspan></tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">Apreciacion</tspan></tspan></text>
     </g>
     <!-- .element: class="fragment" data-fragment-index="18"-->
     <g
@@ -1179,33 +558,33 @@ ___
          y="0"><tspan
            x="28.162589"
            y="55.940141"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">1:17c
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">1:17c
 </tspan></tspan><tspan
            x="21.2828"
            y="61.153955"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">El Mensaje:
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">El Mensaje:
 </tspan></tspan><tspan
            x="22.402955"
            y="66.367769"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">La Cruz de</tspan><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">La Cruz de</tspan><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">
 </tspan></tspan><tspan
            x="27.791919"
            y="71.581582"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">Cristo</tspan><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">Cristo</tspan><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">
 </tspan></tspan><tspan
            style="visibility:hidden"
            x="16.664062"
            y="76.7585"><tspan
              dx="0 3.3889782 2.9735024 1.425652 2.9164762 2.7861309 2.9164772"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">Unidad
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">Unidad
 </tspan></tspan><tspan
            style="visibility:hidden"
            x="16.664062"
            y="81.972313"><tspan
              dx="0 3.2423396 2.9164767 2.0773783 2.7698383 2.4521208 1.4256516 2.7861319 2.4521217 1.4256516 2.8675957"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">Apreciacion</tspan></tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">Apreciacion</tspan></tspan></text>
     </g>
     <!-- .element: class="fragment" data-fragment-index="19"-->
     <g
@@ -1226,19 +605,19 @@ ___
          y="0"><tspan
            x="30.871327"
            y="55.940141"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">1:3
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">1:3
 </tspan></tspan><tspan
            x="30.272554"
            y="61.153955"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">Dos
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">Dos
 </tspan></tspan><tspan
            x="19.33984"
            y="66.367769"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">Afirmaciones
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">Afirmaciones
 </tspan></tspan><tspan
            x="20.272624"
            y="71.581582"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">Gracia y Paz</tspan></tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">Gracia y Paz</tspan></tspan></text>
     </g>
     <!-- .element: class="fragment" data-fragment-index="11"-->
     <g
@@ -1259,25 +638,25 @@ ___
          y="0"><tspan
            x="25.421264"
            y="55.940141"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">1:14-16
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">1:14-16
 </tspan></tspan><tspan
            x="24.891736"
            y="61.153955"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">El Culto:
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">El Culto:
 </tspan></tspan><tspan
            x="20.284844"
            y="66.367769"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">Rindiendose
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">Rindiendose
 </tspan></tspan><tspan
            x="19.681997"
            y="71.581582"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">al Mensajero
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">al Mensajero
 </tspan></tspan><tspan
            style="visibility:hidden"
            x="16.664062"
            y="76.7585"><tspan
              dx="0 3.2423396 2.9164767 2.0773783 2.7698383 2.4521208 1.4256516 2.7861319 2.4521217 1.4256516 2.8675957"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">Apreciacion</tspan></tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">Apreciacion</tspan></tspan></text>
     </g>
     <!-- .element: class="fragment" data-fragment-index="17"-->
     <g
@@ -1336,11 +715,11 @@ ___
          y="0"><tspan
            x="30.871327"
            y="55.940141"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">1:1
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">1:1
 </tspan></tspan><tspan
            x="25.294992"
            y="61.153955"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">El Autor</tspan></tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">El Autor</tspan></tspan></text>
     </g>
     <!-- .element: class="fragment" data-fragment-index="9"-->
     <g
@@ -1477,23 +856,23 @@ ___
          y="0"><tspan
            x="25.421264"
            y="55.314484"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">1:19-20
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">1:19-20
 </tspan></tspan><tspan
            x="22.402955"
            y="59.276981"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">La Cruz de
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">La Cruz de
 </tspan></tspan><tspan
            x="20.696246"
            y="63.239479"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">Cristo no va
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">Cristo no va
 </tspan></tspan><tspan
            x="19.160616"
            y="67.201973"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">Con la Logica
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">Con la Logica
 </tspan></tspan><tspan
            x="24.960982"
            y="71.164467"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">Humana</tspan></tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">Humana</tspan></tspan></text>
     </g>
     <!-- .element: class="fragment" data-fragment-index="22"-->
     <g
@@ -1585,23 +964,23 @@ ___
          y="0"><tspan
            x="25.421264"
            y="55.314484"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">1:26-31
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">1:26-31
 </tspan></tspan><tspan
            x="18.944731"
            y="59.276981"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">La Cruz como
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">La Cruz como
 </tspan></tspan><tspan
            x="18.704407"
            y="63.239479"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">Solucion para
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">Solucion para
 </tspan></tspan><tspan
            x="22.142265"
            y="67.201973"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">Cambiar la
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">Cambiar la
 </tspan></tspan><tspan
            x="29.518995"
            y="71.164467"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">Vida</tspan></tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">Vida</tspan></tspan></text>
     </g>
     <!-- .element: class="fragment" data-fragment-index="25"-->
     <g
@@ -1623,23 +1002,23 @@ ___
          y="0"><tspan
            x="25.421264"
            y="55.314484"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#e6e6e6;stroke:#000000;stroke-width:0.0608813;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">2:14-16
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#e6e6e6;stroke:#000000;stroke-width:0.0608813;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">2:14-16
 </tspan></tspan><tspan
            x="25.404971"
            y="59.276981"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#e6e6e6;stroke:#000000;stroke-width:0.0608813;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Hombre
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#e6e6e6;stroke:#000000;stroke-width:0.0608813;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Hombre
 </tspan></tspan><tspan
            x="25.934499"
            y="63.239479"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#e6e6e6;stroke:#000000;stroke-width:0.0608813;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Natural
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#e6e6e6;stroke:#000000;stroke-width:0.0608813;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Natural
 </tspan></tspan><tspan
            x="32.081095"
            y="67.201973"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#e6e6e6;stroke:#000000;stroke-width:0.0608813;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">vs
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#e6e6e6;stroke:#000000;stroke-width:0.0608813;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">vs
 </tspan></tspan><tspan
            x="23.54755"
            y="71.164467"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#e6e6e6;stroke:#000000;stroke-width:0.0608813;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Espiritual</tspan></tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#e6e6e6;stroke:#000000;stroke-width:0.0608813;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Espiritual</tspan></tspan></text>
     </g>
     <!-- .element: class="fragment" data-fragment-index="31"-->
     <g
@@ -1660,17 +1039,17 @@ ___
          y="0"><tspan
            x="23.963026"
            y="55.940141"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#e6e6e6;stroke:#000000;stroke-width:0.0608813;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">2:10b-13
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#e6e6e6;stroke:#000000;stroke-width:0.0608813;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">2:10b-13
 </tspan></tspan><tspan
            x="20.02008"
            y="61.153955"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#e6e6e6;stroke:#000000;stroke-width:0.0608813;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Pablo Confia </tspan></tspan><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#e6e6e6;stroke:#000000;stroke-width:0.0608813;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Pablo Confia </tspan></tspan><tspan
            x="19.258374"
            y="66.367769"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#e6e6e6;stroke:#000000;stroke-width:0.0608813;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">en el Espiritu </tspan></tspan><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#e6e6e6;stroke:#000000;stroke-width:0.0608813;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">en el Espiritu </tspan></tspan><tspan
            x="27.930411"
            y="71.581582"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#e6e6e6;stroke:#000000;stroke-width:0.0608813;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Santo</tspan></tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#e6e6e6;stroke:#000000;stroke-width:0.0608813;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Santo</tspan></tspan></text>
     </g>
     <!-- .element: class="fragment" data-fragment-index="30"-->
     <g
@@ -1691,19 +1070,19 @@ ___
          y="0"><tspan
            x="25.510876"
            y="55.940141"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#e6e6e6;stroke:#000000;stroke-width:0.0608813;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">2:6-10a
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#e6e6e6;stroke:#000000;stroke-width:0.0608813;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">2:6-10a
 </tspan></tspan><tspan
            x="28.150369"
            y="61.153955"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#e6e6e6;stroke:#000000;stroke-width:0.0608813;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Pablo
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#e6e6e6;stroke:#000000;stroke-width:0.0608813;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Pablo
 </tspan></tspan><tspan
            x="20.142279"
            y="66.367769"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#e6e6e6;stroke:#000000;stroke-width:0.0608813;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Confia en la 
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#e6e6e6;stroke:#000000;stroke-width:0.0608813;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Confia en la 
 </tspan></tspan><tspan
            x="23.539403"
            y="71.581582"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#e6e6e6;stroke:#000000;stroke-width:0.0608813;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Sabiduria</tspan></tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#e6e6e6;stroke:#000000;stroke-width:0.0608813;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Sabiduria</tspan></tspan></text>
     </g>
     <!-- .element: class="fragment" data-fragment-index="29"-->
     <g
@@ -1724,33 +1103,33 @@ ___
          y="0"><tspan
            x="31.084296"
            y="55.136487"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.93756px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#e6e6e6;stroke:#000000;stroke-width:0.0608813;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">2:5
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.93756px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#e6e6e6;stroke:#000000;stroke-width:0.0608813;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">2:5
 </tspan></tspan><tspan
            x="28.515653"
            y="58.877168"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.93756px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#e6e6e6;stroke:#000000;stroke-width:0.0608813;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Pablo
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.93756px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#e6e6e6;stroke:#000000;stroke-width:0.0608813;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Pablo
 </tspan></tspan><tspan
            x="19.483106"
            y="62.617848"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.93756px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#e6e6e6;stroke:#000000;stroke-width:0.0608813;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Confiando en 
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.93756px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#e6e6e6;stroke:#000000;stroke-width:0.0608813;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Confiando en 
 </tspan></tspan><tspan
            x="18.471799"
            y="66.358529"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.93756px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#e6e6e6;stroke:#000000;stroke-width:0.0608813;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">la Metodologia
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.93756px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#e6e6e6;stroke:#000000;stroke-width:0.0608813;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">la Metodologia
 </tspan></tspan><tspan
            x="26.231561"
            y="70.09921"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.93756px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#e6e6e6;stroke:#000000;stroke-width:0.0608813;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">De Dios
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.93756px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#e6e6e6;stroke:#000000;stroke-width:0.0608813;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">De Dios
 </tspan></tspan><tspan
            x="16.664062"
            y="73.839894"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.93756px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#e6e6e6;stroke:#000000;stroke-width:0.0608813;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.93756px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#e6e6e6;stroke:#000000;stroke-width:0.0608813;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
 </tspan></tspan><tspan
            style="visibility:hidden"
            x="16.664062"
            y="75.954846"><tspan
              dx="0 3.0608377 2.7532158 1.9610896 2.6147857 2.3148546 1.3458462 2.6301661 2.3148556 1.3458462 2.7070713"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.93756px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#e6e6e6;stroke:#000000;stroke-width:0.0608813;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Apreciacion</tspan></tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.93756px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#e6e6e6;stroke:#000000;stroke-width:0.0608813;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Apreciacion</tspan></tspan></text>
     </g>
     <!-- .element: class="fragment" data-fragment-index="28"-->
     <g
@@ -1771,23 +1150,23 @@ ___
          y="0"><tspan
            x="28.38662"
            y="55.314484"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#e6e6e6;stroke:#000000;stroke-width:0.0608813;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">2:1-4
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#e6e6e6;stroke:#000000;stroke-width:0.0608813;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">2:1-4
 </tspan></tspan><tspan
            x="28.150369"
            y="59.276981"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#e6e6e6;stroke:#000000;stroke-width:0.0608813;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Pablo
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#e6e6e6;stroke:#000000;stroke-width:0.0608813;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Pablo
 </tspan></tspan><tspan
            x="20.814372"
            y="63.239479"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#e6e6e6;stroke:#000000;stroke-width:0.0608813;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Rechaza los
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#e6e6e6;stroke:#000000;stroke-width:0.0608813;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Rechaza los
 </tspan></tspan><tspan
            x="24.802124"
            y="67.201973"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#e6e6e6;stroke:#000000;stroke-width:0.0608813;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Metodos
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#e6e6e6;stroke:#000000;stroke-width:0.0608813;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Metodos
 </tspan></tspan><tspan
            x="23.681969"
            y="71.164467"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#e6e6e6;stroke:#000000;stroke-width:0.0608813;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Humanos</tspan></tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#e6e6e6;stroke:#000000;stroke-width:0.0608813;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Humanos</tspan></tspan></text>
     </g>
     <!-- .element: class="fragment" data-fragment-index="27"-->
     <g
@@ -1808,19 +1187,19 @@ ___
          y="0"><tspan
            x="30.635076"
            y="55.523036"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;line-height:1.05;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#e6e6e6;stroke:#000000;stroke-width:0.0608813;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">¡No
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;line-height:1.05;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#e6e6e6;stroke:#000000;stroke-width:0.0608813;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">¡No
 </tspan></tspan><tspan
            x="22.936556"
            y="59.902636"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;line-height:1.05;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#e6e6e6;stroke:#000000;stroke-width:0.0608813;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Juguetear
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;line-height:1.05;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#e6e6e6;stroke:#000000;stroke-width:0.0608813;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Juguetear
 </tspan></tspan><tspan
            x="27.005774"
            y="64.282237"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;line-height:1.05;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#e6e6e6;stroke:#000000;stroke-width:0.0608813;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">con el 
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;line-height:1.05;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#e6e6e6;stroke:#000000;stroke-width:0.0608813;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">con el 
 </tspan></tspan><tspan
            x="25.201306"
            y="68.661838"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;line-height:1.05;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#e6e6e6;stroke:#000000;stroke-width:0.0608813;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Metodo!</tspan></tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;line-height:1.05;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#e6e6e6;stroke:#000000;stroke-width:0.0608813;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Metodo!</tspan></tspan></text>
     </g>
     <!-- .element: class="fragment" data-fragment-index="26"-->
     <g
@@ -1841,20 +1220,20 @@ ___
          y="0"><tspan
            x="20.09068"
            y="55.940141"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">¡No te dejes seducir </tspan></tspan><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">¡No te dejes seducir </tspan></tspan><tspan
            x="25.015289"
            y="61.153955"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">por un Hombre!
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">por un Hombre!
 </tspan></tspan><tspan
            x="16.664062"
            y="66.367769"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">
 </tspan></tspan><tspan
            style="visibility:hidden"
            x="16.664062"
            y="70.149125"><tspan
              dx="0 3.2423396 2.9164767 2.0773783 2.7698383 2.4521208 1.4256516 2.7861319 2.4521217 1.4256516 2.8675957"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">Apreciacion</tspan></tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">Apreciacion</tspan></tspan></text>
     </g>
     <!-- .element: class="fragment" data-fragment-index="32"-->
     <g
@@ -1875,21 +1254,21 @@ ___
          y="0"><tspan
            x="27.286034"
            y="55.41876"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">3:1-4
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">3:1-4
 </tspan></tspan><tspan
            x="20.88282"
            y="59.589811"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">Jugando al
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">Jugando al
 </tspan></tspan><tspan
            x="18.740269"
            y="63.760862"><tspan>Favoritismo-
 </tspan></tspan><tspan
            x="23.558973"
            y="67.931913"><tspan>Senal de</tspan><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none"> </tspan></tspan><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none"> </tspan></tspan><tspan
            x="21.017239"
            y="72.102964"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">Carnalidad</tspan></tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">Carnalidad</tspan></tspan></text>
     </g>
     <!-- .element: class="fragment" data-fragment-index="33"-->
     <g
@@ -1910,19 +1289,19 @@ ___
          y="0"><tspan
            x="28.38662"
            y="55.940141"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">3:5-9
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">3:5-9
 </tspan></tspan><tspan
            x="19.449819"
            y="61.153955"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">10 Principios
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">10 Principios
 </tspan></tspan><tspan
            x="19.132102"
            y="66.367769"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">Acerca de los
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">Acerca de los
 </tspan></tspan><tspan
            x="23.889706"
            y="71.581582"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">Ministros</tspan></tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">Ministros</tspan></tspan></text>
     </g>
     <!-- .element: class="fragment" data-fragment-index="34"-->
     <g
@@ -1943,19 +1322,19 @@ ___
          y="0"><tspan
            x="25.421264"
            y="55.940141"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">3:10-11
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">3:10-11
 </tspan></tspan><tspan
            x="21.873427"
            y="61.153955"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">Usando los
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">Usando los
 </tspan></tspan><tspan
            x="22.663646"
            y="66.367769"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">Planes de 
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">Planes de 
 </tspan></tspan><tspan
            x="29.559728"
            y="71.581582"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">Dios</tspan></tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">Dios</tspan></tspan></text>
     </g>
     <!-- .element: class="fragment" data-fragment-index="35"-->
     <g
@@ -1976,19 +1355,19 @@ ___
          y="0"><tspan
            x="25.421264"
            y="55.940141"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">3:12-20
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">3:12-20
 </tspan></tspan><tspan
            x="23.160587"
            y="61.153955"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">Usando el
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">Usando el
 </tspan></tspan><tspan
            x="22.484421"
            y="66.367769"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">Metodo de
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">Metodo de
 </tspan></tspan><tspan
            x="29.559728"
            y="71.581582"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">Dios</tspan></tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">Dios</tspan></tspan></text>
     </g>
     <!-- .element: class="fragment" data-fragment-index="36"-->
     <g
@@ -2009,19 +1388,19 @@ ___
          y="0"><tspan
            x="25.421264"
            y="55.940141"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">3:21-23
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">3:21-23
 </tspan></tspan><tspan
            x="19.527212"
            y="61.153955"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">¡No te Jactes
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">¡No te Jactes
 </tspan></tspan><tspan
            x="27.70638"
            y="66.367769"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">en los
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">en los
 </tspan></tspan><tspan
            x="23.327592"
            y="71.581582"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">Hombres!</tspan></tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">Hombres!</tspan></tspan></text>
     </g>
     <!-- .element: class="fragment" data-fragment-index="37"-->
     <g
@@ -2042,19 +1421,19 @@ ___
          y="0"><tspan
            x="25.421264"
            y="55.940141"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">4:14-21
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">4:14-21
 </tspan></tspan><tspan
            x="22.533301"
            y="61.153955"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">Verdadera
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">Verdadera
 </tspan></tspan><tspan
            x="23.123928"
            y="66.367769"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">Autoridad
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">Autoridad
 </tspan></tspan><tspan
            x="23.54755"
            y="71.581582"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">Espiritual</tspan></tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">Espiritual</tspan></tspan></text>
     </g>
     <!-- .element: class="fragment" data-fragment-index="42"-->
     <g
@@ -2172,28 +1551,28 @@ ___
          y="0"><tspan
            x="27.262596"
            y="55.940141"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">4:1-2
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">4:1-2
 </tspan></tspan><tspan
            x="19.665909"
            y="61.153955"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">¿Cuales son </tspan></tspan><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">¿Cuales son </tspan></tspan><tspan
            x="17.250447"
            y="66.367769"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">los Siervos de </tspan></tspan><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">los Siervos de </tspan></tspan><tspan
            x="27.148544"
            y="71.581582"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">Dios?
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">Dios?
 </tspan></tspan><tspan
            style="visibility:hidden"
            x="16.664062"
            y="76.467485"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">
 </tspan></tspan><tspan
            style="visibility:hidden"
            x="16.664062"
            y="81.681297"><tspan
              dx="0 3.2423396 2.9164767 2.0773783 2.7698383 2.4521208 1.4256516 2.7861319 2.4521217 1.4256516 2.8675957"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">Apreciacion</tspan></tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">Apreciacion</tspan></tspan></text>
     </g>
     <!-- .element: class="fragment" data-fragment-index="38"-->
     <g
@@ -2214,30 +1593,30 @@ ___
          y="0"><tspan
            x="18.68404"
            y="55.940141"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#e6e6e6;stroke:#000000;stroke-width:0.0608813;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Confrontando
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#e6e6e6;stroke:#000000;stroke-width:0.0608813;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Confrontando
 </tspan></tspan><tspan
            x="27.486422"
            y="61.153955"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#e6e6e6;stroke:#000000;stroke-width:0.0608813;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">a Tres
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#e6e6e6;stroke:#000000;stroke-width:0.0608813;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">a Tres
 </tspan></tspan><tspan
            x="22.280756"
            y="66.367769"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#e6e6e6;stroke:#000000;stroke-width:0.0608813;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Problemas
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#e6e6e6;stroke:#000000;stroke-width:0.0608813;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Problemas
 </tspan></tspan><tspan
            x="27.38459"
            y="71.581582"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#e6e6e6;stroke:#000000;stroke-width:0.0608813;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Serios
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#e6e6e6;stroke:#000000;stroke-width:0.0608813;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Serios
 </tspan></tspan><tspan
            style="visibility:hidden"
            x="16.664062"
            y="76.7585"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#e6e6e6;stroke:#000000;stroke-width:0.0608813;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#e6e6e6;stroke:#000000;stroke-width:0.0608813;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
 </tspan></tspan><tspan
            style="visibility:hidden"
            x="16.664062"
            y="81.972313"><tspan
              dx="0 3.2423396 2.9164767 2.0773783 2.7698383 2.4521208 1.4256516 2.7861319 2.4521217 1.4256516 2.8675957"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#e6e6e6;stroke:#000000;stroke-width:0.0608813;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Apreciacion</tspan></tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#e6e6e6;stroke:#000000;stroke-width:0.0608813;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Apreciacion</tspan></tspan></text>
     </g>
     <!-- .element: class="fragment" data-fragment-index="43"-->
     <g
@@ -2258,19 +1637,19 @@ ___
          y="0"><tspan
            x="26.903942"
            y="55.940141"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#e6e6e6;stroke:#000000;stroke-width:0.0608813;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">5:1-13
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#e6e6e6;stroke:#000000;stroke-width:0.0608813;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">5:1-13
 </tspan></tspan><tspan
            x="18.504816"
            y="61.153955"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#e6e6e6;stroke:#000000;stroke-width:0.0608813;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Una Situacion
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#e6e6e6;stroke:#000000;stroke-width:0.0608813;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Una Situacion
 </tspan></tspan><tspan
            x="27.714527"
            y="66.367769"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#e6e6e6;stroke:#000000;stroke-width:0.0608813;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Social
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#e6e6e6;stroke:#000000;stroke-width:0.0608813;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Social
 </tspan></tspan><tspan
            x="20.276697"
            y="71.581582"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#e6e6e6;stroke:#000000;stroke-width:0.0608813;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Escandalosa</tspan></tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#e6e6e6;stroke:#000000;stroke-width:0.0608813;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Escandalosa</tspan></tspan></text>
     </g>
     <!-- .element: class="fragment" data-fragment-index="44"-->
     <g
@@ -2291,19 +1670,19 @@ ___
          y="0"><tspan
            x="28.38662"
            y="55.940141"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#e6e6e6;stroke:#000000;stroke-width:0.0608813;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">6:1-8
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#e6e6e6;stroke:#000000;stroke-width:0.0608813;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">6:1-8
 </tspan></tspan><tspan
            x="24.952835"
            y="61.153955"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#e6e6e6;stroke:#000000;stroke-width:0.0608813;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Libertad
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#e6e6e6;stroke:#000000;stroke-width:0.0608813;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Libertad
 </tspan></tspan><tspan
            x="28.39884"
            y="66.367769"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#e6e6e6;stroke:#000000;stroke-width:0.0608813;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Legal
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#e6e6e6;stroke:#000000;stroke-width:0.0608813;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Legal
 </tspan></tspan><tspan
            x="20.977303"
            y="71.581582"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#e6e6e6;stroke:#000000;stroke-width:0.0608813;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Lamentable</tspan></tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#e6e6e6;stroke:#000000;stroke-width:0.0608813;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Lamentable</tspan></tspan></text>
     </g>
     <!-- .element: class="fragment" data-fragment-index="45"-->
     <g
@@ -2324,30 +1703,30 @@ ___
          y="0"><tspan
            x="26.903942"
            y="55.940141"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#e6e6e6;stroke:#000000;stroke-width:0.0608813;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">6:9-20
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#e6e6e6;stroke:#000000;stroke-width:0.0608813;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">6:9-20
 </tspan></tspan><tspan
            x="17.857162"
            y="61.153955"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#e6e6e6;stroke:#000000;stroke-width:0.0608813;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Una Iniciacion
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#e6e6e6;stroke:#000000;stroke-width:0.0608813;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Una Iniciacion
 </tspan></tspan><tspan
            x="20.728833"
            y="66.367769"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#e6e6e6;stroke:#000000;stroke-width:0.0608813;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Indulgencia
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#e6e6e6;stroke:#000000;stroke-width:0.0608813;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Indulgencia
 </tspan></tspan><tspan
            x="20.240038"
            y="71.581582"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#e6e6e6;stroke:#000000;stroke-width:0.0608813;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Inmoralidad
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#e6e6e6;stroke:#000000;stroke-width:0.0608813;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Inmoralidad
 </tspan></tspan><tspan
            style="visibility:hidden"
            x="16.664062"
            y="76.7585"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#e6e6e6;stroke:#000000;stroke-width:0.0608813;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#e6e6e6;stroke:#000000;stroke-width:0.0608813;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
 </tspan></tspan><tspan
            style="visibility:hidden"
            x="16.664062"
            y="81.972313"><tspan
              dx="0 3.2423396 2.9164767 2.0773783 2.7698383 2.4521208 1.4256516 2.7861319 2.4521217 1.4256516 2.8675957"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#e6e6e6;stroke:#000000;stroke-width:0.0608813;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Apreciacion</tspan></tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#e6e6e6;stroke:#000000;stroke-width:0.0608813;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Apreciacion</tspan></tspan></text>
     </g>
     <!-- .element: class="fragment" data-fragment-index="46"-->
     <g
@@ -2368,19 +1747,19 @@ ___
          y="0"><tspan
            x="25.421264"
            y="55.940141"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">7:25-40
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">7:25-40
 </tspan></tspan><tspan
            x="21.132088"
            y="61.153955"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">¿Que de las
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">¿Que de las
 </tspan></tspan><tspan
            x="21.596444"
            y="66.367769"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">Virgenes y 
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">Virgenes y 
 </tspan></tspan><tspan
            x="25.506803"
            y="71.581582"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">Viudas?</tspan></tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">Viudas?</tspan></tspan></text>
     </g>
     <!-- .element: class="fragment" data-fragment-index="52"-->
     <g
@@ -2401,22 +1780,22 @@ ___
          y="0"><tspan
            x="25.421264"
            y="55.314484"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">7:17-24
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">7:17-24
 </tspan></tspan><tspan
            x="20.170792"
            y="59.276981"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">¡No busques
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">¡No busques
 </tspan></tspan><tspan
            x="21.812328"
            y="63.239479"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">Cambiar tu
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">Cambiar tu
 </tspan></tspan><tspan
            x="26.77767"
            y="67.201973"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">Estado </tspan></tspan><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">Estado </tspan></tspan><tspan
            x="19.820489"
            y="71.164467"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">Matrimonial!</tspan></tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">Matrimonial!</tspan></tspan></text>
     </g>
     <!-- .element: class="fragment" data-fragment-index="51"-->
     <g
@@ -2437,19 +1816,19 @@ ___
          y="0"><tspan
            x="25.421264"
            y="55.940141"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">7:10-16
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">7:10-16
 </tspan></tspan><tspan
            x="18.627014"
            y="61.153955"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">Instrucciones
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">Instrucciones
 </tspan></tspan><tspan
            x="29.392723"
            y="66.367769"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">para
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">para
 </tspan></tspan><tspan
            x="20.093399"
            y="71.581582"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">Matrimonios</tspan></tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">Matrimonios</tspan></tspan></text>
     </g>
     <!-- .element: class="fragment" data-fragment-index="50"-->
     <g
@@ -2470,15 +1849,15 @@ ___
          y="0"><tspan
            x="28.38662"
            y="55.940141"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">7:1-9
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">7:1-9
 </tspan></tspan><tspan
            x="18.627014"
            y="61.153955"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">Instrucciones
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">Instrucciones
 </tspan></tspan><tspan
            x="19.00583"
            y="66.367769"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">para Solteros</tspan></tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">para Solteros</tspan></tspan></text>
     </g>
     <!-- .element: class="fragment" data-fragment-index="49"-->
     <g
@@ -2499,19 +1878,19 @@ ___
          y="0"><tspan
            x="26.903942"
            y="55.940141"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">7:1-40
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">7:1-40
 </tspan></tspan><tspan
            x="20.63922"
            y="61.153955"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">Pablo Sobre
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">Pablo Sobre
 </tspan></tspan><tspan
            x="32.578036"
            y="66.367769"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">el
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">el
 </tspan></tspan><tspan
            x="21.33168"
            y="71.581582"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">Matrimonio</tspan></tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">Matrimonio</tspan></tspan></text>
     </g>
     <!-- .element: class="fragment" data-fragment-index="48"-->
     <g
@@ -2532,20 +1911,20 @@ ___
          y="0"><tspan
            x="25.674546"
            y="55.940141"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">Respondiendo a </tspan></tspan><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">Respondiendo a </tspan></tspan><tspan
            x="18.778465"
            y="61.153955"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">Preguntas Especificas
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">Preguntas Especificas
 </tspan></tspan><tspan
            x="16.664062"
            y="66.367769"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">
 </tspan></tspan><tspan
            style="visibility:hidden"
            x="16.664062"
            y="69.625688"><tspan
              dx="0 3.2423396 2.9164767 2.0773783 2.7698383 2.4521208 1.4256516 2.7861319 2.4521217 1.4256516 2.8675957"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">Apreciacion</tspan></tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">Apreciacion</tspan></tspan></text>
     </g>
     <!-- .element: class="fragment" data-fragment-index="47"-->
     <g
@@ -2566,19 +1945,19 @@ ___
          y="0"><tspan
            x="24.582166"
            y="55.940141"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">8:1-11:1
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">8:1-11:1
 </tspan></tspan><tspan
            x="27.877458"
            y="61.153955"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">Sobre
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">Sobre
 </tspan></tspan><tspan
            x="22.329636"
            y="66.367769"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">Libertades
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">Libertades
 </tspan></tspan><tspan
            x="23.001729"
            y="71.581582"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">Cristianas</tspan></tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">Cristianas</tspan></tspan></text>
     </g>
     <!-- .element: class="fragment" data-fragment-index="53"-->
     <g
@@ -2599,19 +1978,19 @@ ___
          y="0"><tspan
            x="28.38662"
            y="55.940141"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">8:1-6
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">8:1-6
 </tspan></tspan><tspan
            x="22.90397"
            y="61.153955"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">Que de lo 
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">Que de lo 
 </tspan></tspan><tspan
            x="19.612751"
            y="66.367769"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">Sacrificado a
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">Sacrificado a
 </tspan></tspan><tspan
            x="22.301123"
            y="71.581582"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">los idolos?</tspan></tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">los idolos?</tspan></tspan></text>
     </g>
     <!-- .element: class="fragment" data-fragment-index="54"-->
     <g
