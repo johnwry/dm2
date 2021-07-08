@@ -60,7 +60,7 @@ ___
 ___
 1 Corintios
 UNA IGLESIA EN CONFLICTO
-___
+
 <svg
    width="1280"
    height="720"
