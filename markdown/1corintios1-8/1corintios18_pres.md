@@ -25,35 +25,36 @@ ___
 **PO** **Box** **3570**
 **Harlingen,** **TX** **78551**
 **Para más información:**
-**Escríbenos** **a:** **bret.nazworth\@gmail.com**
-**www.DM2USA.org**
+**Escríbenos** **a:** **bret.nazworth@gmail.com**
+www.DM2USA.org
+
 ___
 **1 CORINTIOS 1-8**
-| **1** **Corintios** **1:1-10** **--** **Historia de Corinto** | 7**|
-|------------------------------|--------|
-| **1** **Corintios** **1:1-10** **--** **Recomendando** **a** **los** **Cristianos** **de** **Corinto** |11**|
-| **1 Corintios 1:11-17 -- Confrontando el Conflicto Corinto**| 15**|
-| **1** **Corintios** **1:18-31** **--** **¡No** **Alterar** **el** **Mensaje!**| **15**|
-| **1** **Corintios** **2:1-16** **--** **¡No** **Juguetear** **con** **el** **Método!**| **20**|
+|1 Corintios 1:1-10 -- Historia de Corinto| 7 |
+|------------------------------|----|
+| 1 Corintios 1:1-10 -- Recomendando a los Cristianos de Corinto |11|
+| 1 Corintios 1:11-17 -- Confrontando el Conflicto Corinto | 15 |
+| 1 Corintios 1:18-31 -- ¡No Alterar el Mensaje! | 15 |
+| 1 Corintios 2:1-16 -- ¡No Juguetear con el Método! | 20 |
 ___
-| **1** **Corintios** **3:1** **-** **4:13** **--** **¡No** **te** **dejes** **seducir** **por** **un** **hombre!**| **27**|
+| 1 Corintios 3:1-4:13 -- ¡No te dejes seducir por un hombre!| 27|
 |------------------------------|--------|
-| **1** **Corintios** **5:1-6:20** **--** **Confrontando** **Tres** **Serios** **Problemas** |**42**|
-| **1 Corintios 5:1-13 -- Una situación social escandalosa "el incesto"** |**42**|
-| **1 Corintios 6:1-8 -- Una libertad legal lamentable \"la justicia social\"** |**48**|
+| 1 Corintios 5:1-6:20 -- Confrontando Tres Serios Problemas | 42 |
+| 1 Corintios 5:1-13 -- Una situación social escandalosa "el incesto" | 42 |
+| 1 Corintios 6:1-8 -- Una libertad legal lamentable "la justicia social" | 48 |
 ___
-| **1 Corintios 6:9-20 -- Una inclinación hacia la indulgencia inmoral** |**50**|
+| 1 Corintios 6:9-20 -- Una inclinación hacia la indulgencia inmoral | 50 |
 |------------------------------|--------|
-| **1 Corintios 7:1-40 -- Preguntas Relacionadas con el Matrimonio** |**55**|
-| **1 Corintios 7:1b-9 -- ¿Es legítimo... nunca tocar... mujer?** |**55**|
-| **1 Corintios 7:10-16 -- ¿Qué instrucción tenía para el matrimonio?** |**58**|
-| **1 Corintios 7:17-24 -- No trates de cambiar tu estado matrimonial** |**61**|
+| 1 Corintios 7:1-40 -- Preguntas Relacionadas con el Matrimonio | 55|
+| 1 Corintios 7:1b-9 -- ¿Es legítimo... nunca tocar... mujer? | 55 |
+| 1 Corintios 7:10-16 -- ¿Qué instrucción tenía para el matrimonio? | 58 |
+| 1 Corintios 7:17-24 -- No trates de cambiar tu estado matrimonial | 61 |
 ___
-| **1 Corintios 7:25-38 -- ¿Qué instrucción hay para hijas vírgenes?** |**63**|
+| 1 Corintios 7:25-38 -- ¿Qué instrucción hay para hijas vírgenes?  | 63 |
 |------------------------------|--------|
-| **1 Corintios 7:39-40 -- ¿Qué instrucciones tenía para las viudas?** |**66**|
-| **1** **Corintios** **8:1-11:1** **--Preguntas** **sobre** **Libertades** **Cristianas** |**69**|
-| **1 Corintios 8:1-6 -- ¿Qué de lo sacrificado a los ídolos?**| **69**|
+| 1 Corintios 7:39-40 -- ¿Qué instrucciones tenía para las viudas?| 66 |
+| 1 Corintios 8:1-11:1 --Preguntas sobre Libertades Cristianas | 69 |
+| 1 Corintios 8:1-6 -- ¿Qué de lo sacrificado a los ídolos? | 69 |
 ___
 1 Corintios
 UNA IGLESIA EN CONFLICTO
@@ -2644,6 +2645,7 @@ ___
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.22003px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ff7f2a;stroke:#000000;stroke-width:0.244817;stroke-miterlimit:4;stroke-dasharray:none">1 Corintios</tspan></tspan></text>
   </g>
 </svg>
+
 
 # I.  Historia de Corinto
 
