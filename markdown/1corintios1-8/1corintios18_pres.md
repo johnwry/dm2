@@ -677,19 +677,19 @@ ___
          y="0"><tspan
            x="29.388649"
            y="55.940141"><tspan
-             style="text-align:center;text-anchor:middle">1:13
+             style="text-align:center;">1:13
 </tspan></tspan><tspan
            x="29.592314"
            y="61.153955"><tspan
-             style="text-align:center;text-anchor:middle">Tres
+             style="text-align:center;">Tres
 </tspan></tspan><tspan
            x="19.99564"
            y="66.367769"><tspan
-             style="text-align:center;text-anchor:middle">Importantes
+             style="text-align:center;">Importantes
 </tspan></tspan><tspan
            x="22.712525"
            y="71.581582"><tspan
-             style="text-align:center;text-anchor:middle">Preguntas</tspan></tspan></text>
+             style="text-align:center;">Preguntas</tspan></tspan></text>
     </g>
     <!-- .element: class="fragment" data-fragment-index="16"-->
     <text
@@ -740,15 +740,15 @@ ___
          y="0"><tspan
            x="25.421264"
            y="55.940141"><tspan
-             style="text-align:center;text-anchor:middle">1:11-12
+             style="text-align:center;">1:11-12
 </tspan></tspan><tspan
            x="21.478318"
            y="61.153955"><tspan
-             style="text-align:center;text-anchor:middle">El Conflicto
+             style="text-align:center;">El Conflicto
 </tspan></tspan><tspan
            x="22.525154"
            y="66.367769"><tspan
-             style="text-align:center;text-anchor:middle">en Corinto</tspan></tspan></text>
+             style="text-align:center;">en Corinto</tspan></tspan></text>
     </g>
     <!-- .element: class="fragment" data-fragment-index="15"-->
     <g
@@ -769,15 +769,15 @@ ___
          y="0"><tspan
            x="18.724773"
            y="55.940141"><tspan
-             style="text-align:center;text-anchor:middle">Confrantando
+             style="text-align:center;">Confrantando
 </tspan></tspan><tspan
            x="21.519051"
            y="61.153955"><tspan
-             style="text-align:center;text-anchor:middle">el Conflicto
+             style="text-align:center;">el Conflicto
 </tspan></tspan><tspan
            x="26.10965"
            y="66.367769"><tspan
-             style="text-align:center;text-anchor:middle">Corinto</tspan></tspan></text>
+             style="text-align:center;">Corinto</tspan></tspan></text>
     </g>
     <!-- .element: class="fragment" data-fragment-index="14"-->
     <g
@@ -798,7 +798,7 @@ ___
          y="0"><tspan
            x="18.973244"
            y="55.940141"><tspan
-             style="text-align:center;text-anchor:middle">¡No Alterar el
+             style="text-align:center;">¡No Alterar el
 </tspan></tspan><tspan
            x="24.134104"
            y="61.153955"><tspan
@@ -823,19 +823,19 @@ ___
          y="0"><tspan
            x="29.388649"
            y="55.940141"><tspan
-             style="text-align:center;text-anchor:middle">1:18
+             style="text-align:center;">1:18
 </tspan></tspan><tspan
            x="18.989537"
            y="61.153955"><tspan
-             style="text-align:center;text-anchor:middle">La Cruz no es
+             style="text-align:center;">La Cruz no es
 </tspan></tspan><tspan
            x="21.286873"
            y="66.367769"><tspan
-             style="text-align:center;text-anchor:middle">un Mensaje
+             style="text-align:center;">un Mensaje
 </tspan></tspan><tspan
            x="25.624928"
            y="71.581582"><tspan
-             style="text-align:center;text-anchor:middle">Popular</tspan></tspan></text>
+             style="text-align:center;">Popular</tspan></tspan></text>
     </g>
     <!-- .element: class="fragment" data-fragment-index="21"-->
     <g
@@ -893,19 +893,19 @@ ___
          y="0"><tspan
            x="25.421264"
            y="55.940141"><tspan
-             style="text-align:center;text-anchor:middle">1:21-23
+             style="text-align:center;">1:21-23
 </tspan></tspan><tspan
            x="18.231905"
            y="61.153955"><tspan
-             style="text-align:center;text-anchor:middle">La Cruz como 
+             style="text-align:center;">La Cruz como 
 </tspan></tspan><tspan
            x="23.604576"
            y="66.367769"><tspan
-             style="text-align:center;text-anchor:middle">Piedra de
+             style="text-align:center;">Piedra de
 </tspan></tspan><tspan
            x="24.545506"
            y="71.581582"><tspan
-             style="text-align:center;text-anchor:middle">Tropiezo</tspan></tspan></text>
+             style="text-align:center;">Tropiezo</tspan></tspan></text>
     </g>
     <!-- .element: class="fragment" data-fragment-index="23"-->
     <g
@@ -926,23 +926,23 @@ ___
          y="0"><tspan
            x="25.421264"
            y="55.314484"><tspan
-             style="text-align:center;text-anchor:middle">1:24-25
+             style="text-align:center;">1:24-25
 </tspan></tspan><tspan
            x="18.944731"
            y="59.276981"><tspan
-             style="text-align:center;text-anchor:middle">La Cruz como
+             style="text-align:center;">La Cruz como
 </tspan></tspan><tspan
            x="21.555711"
            y="63.239479"><tspan
-             style="text-align:center;text-anchor:middle">Debilidad e
+             style="text-align:center;">Debilidad e
 </tspan></tspan><tspan
            x="18.908071"
            y="67.201973"><tspan
-             style="text-align:center;text-anchor:middle">Insensatez al
+             style="text-align:center;">Insensatez al
 </tspan></tspan><tspan
            x="26.834696"
            y="71.164467"><tspan
-             style="text-align:center;text-anchor:middle">Mundo
+             style="text-align:center;">Mundo
 </tspan></tspan></text>
     </g>
     <!-- .element: class="fragment" data-fragment-index="24"-->
@@ -1454,18 +1454,18 @@ ___
          y="0"><tspan
            x="26.903942"
            y="55.940141"><tspan
-             style="text-align:center;text-anchor:middle">4:9-13
+             style="text-align:center;">4:9-13
 </tspan></tspan><tspan
            x="21.095429"
            y="61.153955"><tspan
-             style="text-align:center;text-anchor:middle">La Realidad
+             style="text-align:center;">La Realidad
 </tspan></tspan><tspan
            x="27.734893"
            y="66.367769"><tspan
-             style="text-align:center;text-anchor:middle">de los </tspan></tspan><tspan
+             style="text-align:center;">de los </tspan></tspan><tspan
            x="23.205394"
            y="71.581582"><tspan
-             style="text-align:center;text-anchor:middle">Apostoles</tspan></tspan></text>
+             style="text-align:center;">Apostoles</tspan></tspan></text>
     </g>
     <!-- .element: class="fragment" data-fragment-index="41"-->
     <g
