@@ -69,27 +69,6 @@ UNA IGLESIA EN CONFLICTO
    id="svg1786"
    inkscape:version="1.0.2 (e86c8708, 2021-01-15)"
    sodipodi:docname="bosquejo_web.svg">
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="1.1030817"
-     inkscape:cx="683.46359"
-     inkscape:cy="284.4667"
-     inkscape:document-units="mm"
-     inkscape:current-layer="layer2"
-     inkscape:document-rotation="0"
-     showgrid="false"
-     units="px"
-     showguides="false"
-     inkscape:window-width="1370"
-     inkscape:window-height="785"
-     inkscape:window-x="0"
-     inkscape:window-y="25"
-     inkscape:window-maximized="0" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
