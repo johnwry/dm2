@@ -37,17 +37,20 @@ ___
 | **1** **Corintios** **2:1-16** **--** **¡No** **Juguetear** **con** **el** **Método!**| **20**|
 ___
 | **1** **Corintios** **3:1** **-** **4:13** **--** **¡No** **te** **dejes** **seducir** **por** **un** **hombre!**| **27**|
+|------------------------------|--------|
 | **1** **Corintios** **5:1-6:20** **--** **Confrontando** **Tres** **Serios** **Problemas** |**42**|
 | **1 Corintios 5:1-13 -- Una situación social escandalosa "el incesto"** |**42**|
 | **1 Corintios 6:1-8 -- Una libertad legal lamentable \"la justicia social\"** |**48**|
 ___
 | **1 Corintios 6:9-20 -- Una inclinación hacia la indulgencia inmoral** |**50**|
+|------------------------------|--------|
 | **1 Corintios 7:1-40 -- Preguntas Relacionadas con el Matrimonio** |**55**|
 | **1 Corintios 7:1b-9 -- ¿Es legítimo... nunca tocar... mujer?** |**55**|
 | **1 Corintios 7:10-16 -- ¿Qué instrucción tenía para el matrimonio?** |**58**|
 | **1 Corintios 7:17-24 -- No trates de cambiar tu estado matrimonial** |**61**|
 ___
 | **1 Corintios 7:25-38 -- ¿Qué instrucción hay para hijas vírgenes?** |**63**|
+|------------------------------|--------|
 | **1 Corintios 7:39-40 -- ¿Qué instrucciones tenía para las viudas?** |**66**|
 | **1** **Corintios** **8:1-11:1** **--Preguntas** **sobre** **Libertades** **Cristianas** |**69**|
 | **1 Corintios 8:1-6 -- ¿Qué de lo sacrificado a los ídolos?**| **69**|
@@ -56,13 +59,6 @@ ___
 UNA IGLESIA EN CONFLICTO
 ___
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="1280"
    height="720"
    viewBox="0 0 338.66667 190.49999"
