@@ -58,7 +58,7 @@ ___
 | 1 Corintios 8:1-11:1 --Preguntas sobre Libertades Cristianas | 69 |
 | 1 Corintios 8:1-6 -- ¿Qué de lo sacrificado a los ídolos? | 69 |
 
-## 1 Corintios
+# 1 Corintios
 ### UNA IGLESIA EN CONFLICTO
 
 <!-- .slide: data-background-color="beige" -->
@@ -2225,15 +2225,7 @@ ___
 
 ### 6.  En resumen: Para tener __<u>unidad</u>__ debemos tener presente que tenemos un Maestro en común y que todos pertenecemos a la misma familia. Esto debería motivarnos a dejar de a un lado las discusiones, para buscar el mutuo entendimiento y las metas en común.
 
-
-|------------------------------|--------|
-| 1 Corintios 7:39-40 -- ¿Qué instrucciones tenía para las viudas?| 66 |
-| 1 Corintios 8:1-11:1 --Preguntas sobre Libertades Cristianas | 69 |
-| 1 Corintios 8:1-6 -- ¿Qué de lo sacrificado a los ídolos? | 69 |
-
-## 1 Corintios
-### UNA IGLESIA EN CONFLICTO
-
+<!-- .slide: data-background-color="beige" -->
 <svg
    width="1280"
    height="720"
@@ -4224,15 +4216,7 @@ ___
 
 ### 7.  1 Corintios 1:17b -- Pablo se centraba en el __<u>mensaje</u>__ del Evangelio e indica que el Evangelio que predicaba era acerca del *Cristo crucificado.*
 
-
-|------------------------------|--------|
-| 1 Corintios 7:39-40 -- ¿Qué instrucciones tenía para las viudas?| 66 |
-| 1 Corintios 8:1-11:1 --Preguntas sobre Libertades Cristianas | 69 |
-| 1 Corintios 8:1-6 -- ¿Qué de lo sacrificado a los ídolos? | 69 |
-
-## 1 Corintios
-### UNA IGLESIA EN CONFLICTO
-
+<!-- .slide: data-background-color="beige" -->
 <svg
    width="1280"
    height="720"
@@ -6271,15 +6255,7 @@ ___
 
 ####    b.  1 Corintios 1:31 -- Conclusión: la vida cambiada del creyente en Cristo trae todo el reconocimiento y la __<u>gloria</u>__ a Dios, y nada al hombre.
 
-
-|------------------------------|--------|
-| 1 Corintios 7:39-40 -- ¿Qué instrucciones tenía para las viudas?| 66 |
-| 1 Corintios 8:1-11:1 --Preguntas sobre Libertades Cristianas | 69 |
-| 1 Corintios 8:1-6 -- ¿Qué de lo sacrificado a los ídolos? | 69 |
-
-## 1 Corintios
-### UNA IGLESIA EN CONFLICTO
-
+<!-- .slide: data-background-color="beige" -->
 <svg
    width="1280"
    height="720"
@@ -8412,15 +8388,7 @@ ___
 
 ##### 4.  1 Corintios 2:16 -- La persona espiritual recibe el pensamiento y la instrucción del Espíritu __<u>Santo</u>__ quien conoce los pensamientos profundos de la deidad eterna.
 
-
-|------------------------------|--------|
-| 1 Corintios 7:39-40 -- ¿Qué instrucciones tenía para las viudas?| 66 |
-| 1 Corintios 8:1-11:1 --Preguntas sobre Libertades Cristianas | 69 |
-| 1 Corintios 8:1-6 -- ¿Qué de lo sacrificado a los ídolos? | 69 |
-
-## 1 Corintios
-### UNA IGLESIA EN CONFLICTO
-
+<!-- .slide: data-background-color="beige" -->
 <svg
    width="1280"
    height="720"
@@ -10747,17 +10715,9 @@ ___
 
 ######    ii. ¿Con una __<u>copa</u>__ de compasión? *Con amor y espíritu de mansedumbre*...
 
-![](media/image5.jpg){width="6.5in" height="4.875in"}**\
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1corintios1-8/media/image5.jpg" data-background-size="contain" -->
 
-
-|------------------------------|--------|
-| 1 Corintios 7:39-40 -- ¿Qué instrucciones tenía para las viudas?| 66 |
-| 1 Corintios 8:1-11:1 --Preguntas sobre Libertades Cristianas | 69 |
-| 1 Corintios 8:1-6 -- ¿Qué de lo sacrificado a los ídolos? | 69 |
-
-## 1 Corintios
-### UNA IGLESIA EN CONFLICTO
-
+<!-- .slide: data-background-color="beige" -->
 <svg
    width="1280"
    height="720"
@@ -12870,15 +12830,7 @@ ___
 
 ##### 7.  Filipenses 1:6 muestra que Dios nunca __<u>dejará</u>__ de obrar en nosotros para traer la santidad en nuestras vidas. Filipenses 2:12-13, Efesios 2:10,\  2 Corintios 3:4-5, Juan 15:5
 
-
-|------------------------------|--------|
-| 1 Corintios 7:39-40 -- ¿Qué instrucciones tenía para las viudas?| 66 |
-| 1 Corintios 8:1-11:1 --Preguntas sobre Libertades Cristianas | 69 |
-| 1 Corintios 8:1-6 -- ¿Qué de lo sacrificado a los ídolos? | 69 |
-
-## 1 Corintios
-### UNA IGLESIA EN CONFLICTO
-
+<!-- .slide: data-background-color="beige" -->
 <svg
    width="1280"
    height="720"
@@ -14873,15 +14825,7 @@ ___
 
 ##### 4.  Démonos cuenta que debemos sufrir ser agraviados y defraudados, en lugar de __<u>exigir</u>__ nuestros derechos.
 
-
-|------------------------------|--------|
-| 1 Corintios 7:39-40 -- ¿Qué instrucciones tenía para las viudas?| 66 |
-| 1 Corintios 8:1-11:1 --Preguntas sobre Libertades Cristianas | 69 |
-| 1 Corintios 8:1-6 -- ¿Qué de lo sacrificado a los ídolos? | 69 |
-
-## 1 Corintios
-### UNA IGLESIA EN CONFLICTO
-
+<!-- .slide: data-background-color="beige" -->
 <svg
    width="1280"
    height="720"
@@ -16900,15 +16844,7 @@ ___
 
 ######    d.  1 Corintios 6:20b -- Tu cuerpo humano es el único vehículo por medio del cual puedes __<u>glorificar</u>__ a Dios.
 
-
-|------------------------------|--------|
-| 1 Corintios 7:39-40 -- ¿Qué instrucciones tenía para las viudas?| 66 |
-| 1 Corintios 8:1-11:1 --Preguntas sobre Libertades Cristianas | 69 |
-| 1 Corintios 8:1-6 -- ¿Qué de lo sacrificado a los ídolos? | 69 |
-
-## 1 Corintios
-### UNA IGLESIA EN CONFLICTO
-
+<!-- .slide: data-background-color="beige" -->
 <svg
    width="1280"
    height="720"
@@ -18954,15 +18890,7 @@ ___
 
 ######    b.  Es mejor casarse que estar ardiendo con el __<u>deseo</u>__ de casarse.
 
-
-|------------------------------|--------|
-| 1 Corintios 7:39-40 -- ¿Qué instrucciones tenía para las viudas?| 66 |
-| 1 Corintios 8:1-11:1 --Preguntas sobre Libertades Cristianas | 69 |
-| 1 Corintios 8:1-6 -- ¿Qué de lo sacrificado a los ídolos? | 69 |
-
-## 1 Corintios
-### UNA IGLESIA EN CONFLICTO
-
+<!-- .slide: data-background-color="beige" -->
 <svg
    width="1280"
    height="720"
@@ -21155,15 +21083,7 @@ ___
 
 ####    c.  Pablo lo dijo de esta manera porque estaba respondiendo a las preguntas, no porque __<u>dudara</u>__ de su precisión en el asunto.
 
-
-|------------------------------|--------|
-| 1 Corintios 7:39-40 -- ¿Qué instrucciones tenía para las viudas?| 66 |
-| 1 Corintios 8:1-11:1 --Preguntas sobre Libertades Cristianas | 69 |
-| 1 Corintios 8:1-6 -- ¿Qué de lo sacrificado a los ídolos? | 69 |
-
-## 1 Corintios
-### UNA IGLESIA EN CONFLICTO
-
+<!-- .slide: data-background-color="beige" -->
 <svg
    width="1280"
    height="720"
@@ -23196,15 +23116,7 @@ ___
 
 #### c.  1 Corintios 8:12 -- Pablo dijo que si tú libertad respecto a algunos alimentos puede causar que un hermano caiga en pecado, él __<u>nunca</u>__ volvería a comer carne otra vez. Él no quería que su conocimiento acerca de los alimentos dañara a hermanos y hermanas en Cristo más débiles.
 
-
-|------------------------------|--------|
-| 1 Corintios 7:39-40 -- ¿Qué instrucciones tenía para las viudas?| 66 |
-| 1 Corintios 8:1-11:1 --Preguntas sobre Libertades Cristianas | 69 |
-| 1 Corintios 8:1-6 -- ¿Qué de lo sacrificado a los ídolos? | 69 |
-
-## 1 Corintios
-### UNA IGLESIA EN CONFLICTO
-
+<!-- .slide: data-background-color="beige" -->
 <svg
    width="1280"
    height="720"
