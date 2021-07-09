@@ -61,6 +61,7 @@ ___
 ## 1 Corintios
 ### UNA IGLESIA EN CONFLICTO
 
+<!-- data-background-color="beige" -->
 <svg
    width="1280"
    height="720"
@@ -24808,17 +24809,7 @@ ___
          y="0"><tspan
            x="26.903942"
            y="55.940141"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#e6e6e6;stroke:#000000;stroke-width:0.0608813;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">6:9-20
-</tspan></tspan><tspan
-           x="17.857162"
-           y="61.153955"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#e6e6e6;stroke:#000000;stroke-width:0.0608813;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Una Iniciación
-</tspan></tspan><tspan
-           x="20.728833"
-           y="66.367769"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#e6e6e6;stroke:#000000;stroke-width:0.0608813;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Indulgencia
-</tspan></tspan><tspan
-           x="20.240038"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#e6e6e6;stroke:#000000;stroke-width:0.0608813;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">6:9-20-
            y="71.581582"><tspan
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#e6e6e6;stroke:#000000;stroke-width:0.0608813;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Inmoralidad
 </tspan></tspan><tspan
