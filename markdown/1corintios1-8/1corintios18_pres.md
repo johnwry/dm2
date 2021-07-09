@@ -2663,7 +2663,7 @@ ___
            x="16.664062"
            y="76.7585"><tspan
              dx="0 3.2423396 2.9164767 2.0773783 2.7698383 2.4521208 1.4256516 2.7861319 2.4521217 1.4256516 2.8675957"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">Apreciacion</tspan></tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">Apreciación</tspan></tspan></text>
     </g>
     <!-- .element: class="fragment" data-fragment-index="18"-->
     <g
@@ -2711,7 +2711,7 @@ ___
            x="16.664062"
            y="81.972313"><tspan
              dx="0 3.2423396 2.9164767 2.0773783 2.7698383 2.4521208 1.4256516 2.7861319 2.4521217 1.4256516 2.8675957"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">Apreciacion</tspan></tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">Apreciación</tspan></tspan></text>
     </g>
     <!-- .element: class="fragment" data-fragment-index="19"-->
     <g
@@ -2747,45 +2747,6 @@ ___
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">Gracia y Paz</tspan></tspan></text>
     </g>
     <!-- .element: class="fragment" data-fragment-index="11"-->
-    <g
-       id="g17">
-      <rect
-         style="display:inline;mix-blend-mode:normal;fill:#f8caa4;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.505734;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="rect4168-1"
-         width="34.175941"
-         height="20.951509"
-         x="52.225998"
-         y="115.49754" />
-      <text
-         xml:space="preserve"
-         id="text1649-3-1-5-5-0-04"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105000000000015px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect1651-2-2-3-0-7-4);display:inline;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none;"
-         transform="matrix(0.97108517,0,0,1.0001774,35.644787,63.315368)"
-         x="15.971375"
-         y="0"><tspan
-           x="25.421264"
-           y="55.940141"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">1:14-16
-</tspan></tspan><tspan
-           x="24.891736"
-           y="61.153955"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">El Culto:
-</tspan></tspan><tspan
-           x="20.284844"
-           y="66.367769"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">Rindiendose
-</tspan></tspan><tspan
-           x="19.681997"
-           y="71.581582"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">al Mensajero
-</tspan></tspan><tspan
-           style="visibility:hidden"
-           x="16.664062"
-           y="76.7585"><tspan
-             dx="0 3.2423396 2.9164767 2.0773783 2.7698383 2.4521208 1.4256516 2.7861319 2.4521217 1.4256516 2.8675957"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.17105px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;fill:#000000;stroke:#ffffff;stroke-width:0.113308;stroke-miterlimit:4;stroke-dasharray:none">Apreciacion</tspan></tspan></text>
-    </g>
-    <!-- .element: class="fragment" data-fragment-index="17"-->
     <g
        id="g16">
       <rect
