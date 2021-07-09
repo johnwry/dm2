@@ -61,7 +61,7 @@ ___
 ## 1 Corintios
 ### UNA IGLESIA EN CONFLICTO
 
-<!-- data-background-color="beige" -->
+<!-- .slide: data-background-color="beige" -->
 <svg
    width="1280"
    height="720"
