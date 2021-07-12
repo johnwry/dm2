@@ -2016,11 +2016,13 @@ ___
 <figcaption>
 Templo de Apollo y Alto Corinto
 </figcaption>
+<!-- .slide: data-background-color="beige" -->
 
 <img src="https://johnwry.github.io/dm2/markdown/1corintios1-8/media/corinto-mapa.jpeg" width="80%">
 <figcaption>
 Mapa de Corinto
 </figcaption>
+<!-- .slide: data-background-color="beige" -->
 
 ### 2.  Corinto estaba ubicada a 50 millas al este de Atenas, Grecia. Situada en una estratégica franja de __<u>tierra</u>__ entre el Mar Egeo al este y el Mar Jónico al oeste.
 
