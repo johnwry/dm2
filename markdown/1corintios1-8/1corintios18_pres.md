@@ -2011,14 +2011,14 @@ ___
 ##### 1.  Esta fue probablemente una de las mejores decisiones que __<u>Roma</u>__ hiciera jamás.
 
 ##### 2.  Una vez un poeta apodó a Corinto "la __<u>Rica</u>__" por su inmensa riqueza.
-
-<img src="https://johnwry.github.io/dm2/markdown/1corintios1-8/media/corinth-upper.jpeg" width="80%">
+___
+<img src="https://johnwry.github.io/dm2/markdown/1corintios1-8/media/corinth-upper.jpeg" width="75%">
 <figcaption>
 Templo de Apollo y Alto Corinto
 </figcaption>
 <!-- .slide: data-background-color="beige" -->
-
-<img src="https://johnwry.github.io/dm2/markdown/1corintios1-8/media/corinto-mapa.jpeg" width="80%">
+___
+<img src="https://johnwry.github.io/dm2/markdown/1corintios1-8/media/corinto-mapa.jpeg" width="60%">
 <figcaption>
 Mapa de Corinto
 </figcaption>
