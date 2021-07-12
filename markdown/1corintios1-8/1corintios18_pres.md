@@ -2012,6 +2012,16 @@ ___
 
 ##### 2.  Una vez un poeta apodó a Corinto "la __<u>Rica</u>__" por su inmensa riqueza.
 
+<img src="https://johnwry.github.io/dm2/markdown/1corintios1-8/media/corinth-upper.jpeg" width="80%">
+<figcaption>
+Templo de Apollo y Alto Corinto
+</figcaption>
+
+<img src="https://johnwry.github.io/dm2/markdown/1corintios1-8/media/corinto-mapa.jpeg" width="80%">
+<figcaption>
+Mapa de Corinto
+</figcaption>
+
 ### 2.  Corinto estaba ubicada a 50 millas al este de Atenas, Grecia. Situada en una estratégica franja de __<u>tierra</u>__ entre el Mar Egeo al este y el Mar Jónico al oeste.
 
 ####    a.  La vía fluvial alrededor del extremo sur de Grecia era (y sigue siendo) tan traicionera, que muchos capitanes de barco preferían __<u>atracar</u>__ en la orilla oriental de Corinto, y tener su mercadería llevada través del istmo, antes que realizar un viaje peligroso por mar.
