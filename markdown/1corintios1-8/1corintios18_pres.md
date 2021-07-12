@@ -2048,7 +2048,6 @@ ___
 <!-- .slide: data-background-image="https://johnwry .github.io/dm2/markdown/1corintios1-8/media/corinto3.jpg" data-background-size="contain" data-background-color="black" -->
 ___
 <!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1corintios1-8/media/corinto4.jpg" data-background-size="contain" data-background-color="black" -->
-___
 
 ### 4.  El Apóstol Pablo estableció una iglesia en la ciudad de Corinto.
 
