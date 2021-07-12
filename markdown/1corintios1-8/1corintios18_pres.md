@@ -1998,8 +1998,8 @@ ___
 
 ### 3.  Parecía poco probable que una iglesia __<u>naciera</u>__ en una comunidad tan pecaminosa. Marcos 10:27
 
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1corintios1-8/media/corinth.jpeg" data-background-size="300px" data-background-position="left" data-background-opacity="0.5"-->
 ##    B.  La Ciudad
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1corintios1-8/media/corinth.jpeg" data-background-size="300px" data-background-position="left 50% bottom 75%" data-background-opacity="0.5" data-background-color="beige" -->
 
 ### 1.  Hace dos mil años, Corinto era la __<u>capital</u>__ de la provincia del sur de Grecia llamada Acaya.
 
