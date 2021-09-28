@@ -1,18 +1,22 @@
 ![](media/image1.jpg){width="8.590277777777779in" height="6.438194444444444in"}
-
+___
 ![](media/image2.png){width="2.225in" height="0.8131944444444444in"}
-
+___
 La primera carta a los Corintios es un excelente estudio porque nos habla de las situaciones por las cuales pasan las iglesias locales promedio de hoy. El libro abarca situaciones frecuentes que suceden en todas las iglesias y nos proporciona respuestas confiables en cómo resolverlas (1 Corintios 7:40b). Estas respuestas no son, ni remotamente comparables a las filosofías huecas de este mundo, aunque sean presentadas como la última y mejor idea (1 Corintios 1:19-20).
-
+___
 A veces hay que ver como algo no debe ser, antes de poder visualizar como algo debe de ser (1 Corintios 11:19). Esto lo observamos claramente en nuestro estudio de la primera carta a los Corintios (1 Corintios 1:10-11). Aunque Pablo aplaudió a los creyentes en el primer capítulo (1 Corintios 1:1-9), parece que los loores terminaron allí. Obviamente estuvo desilusionado por su conducta. Nosotros debemos recordar que no podemos amar al mundo y ser amigos de Dios, al mismo tiempo (1 Corintios 3:18-21). Tampoco es posible caminar según la naturaleza carnal y el Espíritu Santo al mismo tiempo (1 Corintios 3:1-4). Para nosotros es necesario recordar siempre que si desagradamos al Señor Jesucristo no debemos esperar ser recompensados en el Tribunal BEMA de Jesucristo (1 Corintios 3:11-15).
-
+___
 Remarcablemente, a pesar de todos sus errores, el apóstol Pablo los llamó "*la iglesia de Dios*" (1 Corintios 1:2). Sin lugar a dudas, Cristo ama a su iglesia a pesar de su mala conducta (1 Corintios 1:8-9). De la misma forma, nosotros debemos ser pro-eclesiales en nuestra forma de pensar y acciones, aun cuando nuestra iglesia local sea imperfecta. Ya es hora de madurar y formar parte de la solución y no ser más contribuyentes de la fragmentación (1 Corintios 3:16-17) por que; ...*sólo hay un Dios, el Padre, del cual proceden todas las cosas, y nosotros somos para él; y un Señor, Jesucristo, por medio del cual son todas las cosas, y nosotros por medio de él*... 1 Corintios 8:6.
 
 Noviembre, 2013 (2a Edición)
 
 Derechos de Autor © **2013** **DM2** **International** **Inc.** Todos los derechos reservados
 
+___
+
 **Póliza** **de** **los** **Derechos** **de** **Autor.** Traducción no autorizada, re-publicación, duplicación del documento, página de la internet o distribución del correo electrónico de cualquier porción de este material de derechos de autor de cualquier forma, sin el expreso consentimiento escrito de DM2™ es estrictamente prohibido. Puedes usar los materiales de DM2 para tu propio estudio personal o para volverlos a enseñar en una clase, siempre y cuando, el logo de DM2 y esta póliza de los derechos de autor estén incluidos siempre en el material al ser enseñados. Puedes bajar una copia a tú PC, imprimirla o hacer copias para la clase o estudio de grupo Bíblico; sin embargo, no puedes cobrar por este material o por conducir una clase usando el mismo, excepto por el costo actual del copiado. NO puedes hacer cambios a este material, tiene derechos de autor. Para una más amplia exposición de la póliza del DM2 con respecto a los usos de sus materiales, por favor referirse a la página de la internet DM2-USA al <http://www.dm2usa.org>.
+
+___
 
 \[DM2™\]
 
@@ -32,6 +36,8 @@ Derechos de Autor © **2013** **DM2** **International** **Inc.** Todos los derec
 
 **www.DM2USA.org**
 
+___
+
 **1 CORINTIOS 9-16**
 
 **1** **Corintios 8:1-11:1 -- Preguntas sobre Libertades Cristianas 7**
@@ -48,6 +54,8 @@ Derechos de Autor © **2013** **DM2** **International** **Inc.** Todos los derec
 >
 > **1 Corintios 10:32-11:1 -- La conclusión de las libertades 23**
 
+___
+
 **1 Corintios 11:2-14:40 -- Preguntas sobre la Adoración 25**
 
 > **1 Corintios 11:2-16 -- Nuestra autoridad en público 25**
@@ -55,6 +63,8 @@ Derechos de Autor © **2013** **DM2** **International** **Inc.** Todos los derec
 > **1 Corintios 11:17-34 -- La Comunión 29**
 >
 > **1 Corintios 12:1-14:40 -- El uso y abuso de los dones 34**
+
+___
 
 **1 Corintios 15:1-58 -- La Doctrina de la Resurrección 65**
 
@@ -70,6 +80,8 @@ Derechos de Autor © **2013** **DM2** **International** **Inc.** Todos los derec
 >
 > **1 Corintios 15:50-58 -- ¡La Victoria sobre la Muerte! 75**
 
+___
+
 **1 Corintios 16:1-24 -- Pablo Concluye su Carta a los Corintios 79**
 
 > **1 Corintios 16:1-24 -- Ofrendas monetarias prometidas 79**
@@ -80,19 +92,22 @@ Derechos de Autor © **2013** **DM2** **International** **Inc.** Todos los derec
 >
 > **1 Corintios 16:15-18 -- Corinto era una iglesia sin ancianos 84**
 
+___
+
 **1 Corintios 16:19-24 -- Pablo concluye su carta 84\
 **
 
 ![](media/image3.jpg){width="6.326965223097113in" height="6.975885826771654in"}**\
 **
 
+
 **UNA IGLESIA EN CONFLICTO**
 
-# VII. **1 Corintios 8:1-11:1 -- Pablo Responde Preguntas sobre Libertades Cristianas**
+# VII. 1 Corintios 8:1-11:1 -- Pablo Responde Preguntas sobre Libertades Cristianas
 
-    ## A.  **1 Corintios 8:1-13 -- ¿Tenemos** **libertad** **de** **comer** **[alimentos]{.ul}** **de** **los** **templos** **de** **los** **ídolos?** **¿Qué** **de** **lo** **sacrificado** **a** **los** **ídolos?**
+## A.  **1 Corintios 8:1-13 -- ¿Tenemos** **libertad** **de** **comer** **[alimentos]{.ul}** **de** **los** **templos** **de** **los** **ídolos?** **¿Qué** **de** **lo** **sacrificado** **a** **los** **ídolos?**
     
-         1.  1 Corintios 8:1 -- Pablo advirtió en contra del pensar que tienes todo el conocimiento y motivó el **[amor]{.ul}** sobre la *inteligencia*. *Todos tenemos conocimiento*...
+###         1.  1 Corintios 8:1 -- Pablo advirtió en contra del pensar que tienes todo el conocimiento y motivó el **[amor]{.ul}** sobre la *inteligencia*. *Todos tenemos conocimiento*...
     
              a.  1 Corintios 8:1a -- **[Todos]{.ul}** tienen conocimiento (inteligencia general o entendimiento) sobre alimentos ofrecidos a los ídolos, ¿verdad?
     
@@ -124,9 +139,9 @@ Derechos de Autor © **2013** **DM2** **International** **Inc.** Todos los derec
     
                  3.  El conocimiento sin **[amor]{.ul}** es la forma más pura de la ignorancia.
     
-         2.  1 Corintios 8:2 -- Si un creyente supone que tiene todo el conocimiento sobre un asunto, él **[demuestra]{.ul}** su total ignorancia. ...*aún no sabe nada como **[debe]{.ul}** saberlo*...
+###         2.  1 Corintios 8:2 -- Si un creyente supone que tiene todo el conocimiento sobre un asunto, él **[demuestra]{.ul}** su total ignorancia. ...*aún no sabe nada como **[debe]{.ul}** saberlo*...
     
-         3.  1 Corintios 8:3 -- Pablo recuerda a sus orgullosos lectores un hecho importante: Dios también tiene ***conocimiento*** -- Dios conocía la verdad de su amor por ÉL.\
+###         3.  1 Corintios 8:3 -- Pablo recuerda a sus orgullosos lectores un hecho importante: Dios también tiene ***conocimiento*** -- Dios conocía la verdad de su amor por ÉL.\
              Juan 21:15-17
     
              a.  Un cristiano puede decir que ama a Dios, pero Dios **[sabe]{.ul}** si el amor que expresa califica o no, como verdadero amor bíblico. 1 Pedro 1:8, Apocalipsis 2:4
@@ -135,7 +150,7 @@ Derechos de Autor © **2013** **DM2** **International** **Inc.** Todos los derec
     
              c.  En este contexto, Pablo muestra que es mucho más importante entender el amor, que tener contestadas las preguntas sobre los **[alimentos]{.ul}**.
     
-         4.  1 Corintios 8:4-6 -- *Sabemos*... Pablo da ahora el punto de vista divino de Dios sobre el comer carne sacrificada a los ídolos. Este es el verdadero conocimiento sobre el asunto.
+###         4.  1 Corintios 8:4-6 -- *Sabemos*... Pablo da ahora el punto de vista divino de Dios sobre el comer carne sacrificada a los ídolos. Este es el verdadero conocimiento sobre el asunto.
     
              a.  1 Corintios 8:4a -- En el mundo no hay tal cosa como un **[ídolo]{.ul}**. Hechos 19:26, Salmo 115:4-7
     
@@ -155,7 +170,7 @@ Derechos de Autor © **2013** **DM2** **International** **Inc.** Todos los derec
     
                  2.  Él es el Señor **[a]{.ul}** **[quien]{.ul}** debemos nuestra existencia. Colosenses 1:17
     
-         5.  1 Corintios 8:7-9 -- Sin embargo, no todos los hombres tienen este ***conocimiento***, incluso muchos cristianos.
+###         5.  1 Corintios 8:7-9 -- Sin embargo, no todos los hombres tienen este ***conocimiento***, incluso muchos cristianos.
     
              a.  1 Corintios 8:7a -- Lamentablemente, tu libertad de comer carne ofrecida a un dios no existente (un ídolo) podría ser la ruina de un hermano más **[débil]{.ul}**.
     
@@ -179,13 +194,13 @@ Derechos de Autor © **2013** **DM2** **International** **Inc.** Todos los derec
     
              d.  1 Corintios 8:9 -- Ten cuidado. Asegúrate de que tu libertad alimenticia no sea causa de que algún hermano débil **[caiga]{.ul}** en pecado.
     
-         6.  1 Corintios 8:10 -- Tú conocimiento de que los alimentos ofrecidos a un inexistente dios no han sido contaminados, podría representar una **[amenaza]{.ul}** para tu hermano en Cristo más débil.
+###         6.  1 Corintios 8:10 -- Tú conocimiento de que los alimentos ofrecidos a un inexistente dios no han sido contaminados, podría representar una **[amenaza]{.ul}** para tu hermano en Cristo más débil.
     
              a.  Por el conocimiento que tienes, tú puedes tener toda la libertad de **[hacer]{.ul}** algo y no terminar pecando como resultado.
     
              b.  Por causa de tu libertad, algún hermano o hermana débil sin conocimiento podría hacer lo que tú hiciste y terminar siendo **[atrapado]{.ul}** en pecado. Nunca deberías llegar a ser culpable de tal crimen contra tu hermano o hermana.
     
-         7.  1 Corintios 8:11-13 -- Volviendo al asunto de que el amor es mejor que el conocimiento, Pablo dice, "Cuidado, porque tu *conocimiento* puede **[destruir]{.ul}** a tu hermano."
+###         7.  1 Corintios 8:11-13 -- Volviendo al asunto de que el amor es mejor que el conocimiento, Pablo dice, "Cuidado, porque tu *conocimiento* puede **[destruir]{.ul}** a tu hermano."
     
              a.  1 Corintios 8:11 -- Tú conocimiento y la resultante libertad puede **[arruinar]{.ul}** al hermano o hermana por quien Cristo dio Su vida.
     
@@ -193,10 +208,10 @@ Derechos de Autor © **2013** **DM2** **International** **Inc.** Todos los derec
     
              c.  1 Corintios 8:13 -- Pablo dijo que si tú libertad respecto a algunos alimentos puede causar que un hermano caiga en pecado, él **[nunca]{.ul}** volvería a comer carne otra vez. Él no quería que su conocimiento acerca de los alimentos dañara a hermanos y hermanas en Cristo más débiles.
     
-     B.  **1 Corintios 9:1-18 -- Pablo da un ejemplo de renunciar a nuestras libertades cristianas para el [bien]{.ul} de los demás.\
+##     B.  **1 Corintios 9:1-18 -- Pablo da un ejemplo de renunciar a nuestras libertades cristianas para el [bien]{.ul} de los demás.\
          **
     
-         1.  1 Corintios 9:1-2 -- Pablo tenía la libertad de hacer demandas a causa de su apostolado, pero nunca **[utilizó]{.ul}** dicha libertad.
+###         1.  1 Corintios 9:1-2 -- Pablo tenía la libertad de hacer demandas a causa de su apostolado, pero nunca **[utilizó]{.ul}** dicha libertad.
     
              a.  1 Corintios 9:1a -- *¿No soy libre?* Él era **[libre]{.ul}** de tomar ventaja de ciertas libertades.
     
@@ -210,7 +225,7 @@ Derechos de Autor © **2013** **DM2** **International** **Inc.** Todos los derec
     
              c.  A consecuencia de estos hechos, Pablo tenía los derechos de un **[Apóstol]{.ul}** para hacer demandas de los Corintios, pero nunca utilizó estos derechos. Él los entregó para el bien de los Corintios.
     
-         2.  1 Corintios 9:3-14 -- Pablo señaló varios argumentos buenos que establecieron su derecho a la libertad de exigir apoyo financiero como un Apóstol - un **[derecho]{.ul}** al que libremente renunció.
+###         2.  1 Corintios 9:3-14 -- Pablo señaló varios argumentos buenos que establecieron su derecho a la libertad de exigir apoyo financiero como un Apóstol - un **[derecho]{.ul}** al que libremente renunció.
     
              a.  1 Corintios 9:3-6 -- Demos un vistazo a los **argumentos de necesidad existentes** que Pablo y Bernabé pudieron haber utilizado para demostrar su libertad al exigir **[apoyo]{.ul}**.
     
@@ -274,7 +289,7 @@ Derechos de Autor © **2013** **DM2** **International** **Inc.** Todos los derec
     
                  2.  Dios espera que aquellos que predican las buenas noticias también reciban apoyo de los que se **[benefician]{.ul}** del Evangelio que se predica.
     
-         3.  **1 Corintios 9:15-18 -- Pablo voluntaria y libremente renunció a su derecho de su libertad de exigir apoyo.**
+###         3.  **1 Corintios 9:15-18 -- Pablo voluntaria y libremente renunció a su derecho de su libertad de exigir apoyo.**
     
              a.  1 Corintios 9:15 -- Vamos a examinar el uso de Pablo de su **[derecho]{.ul}** a exigir su apoyo.
     
@@ -302,7 +317,7 @@ Derechos de Autor © **2013** **DM2** **International** **Inc.** Todos los derec
     
                  2.  1 Corintios 9:18b -- La recompensa de Pablo fue la bendición de no usar sus plenos **[derechos]{.ul}** debidos al Evangelio.
     
-         4.  **Vamos a resumir nuestras libertades Cristianas.**
+###         4.  **Vamos a resumir nuestras libertades Cristianas.**
     
              a.  ¿Es más **[noble]{.ul}** exigir tus derechos o rehusarlos por el bien del Evangelio? Romanos 15:1-3
     
@@ -322,9 +337,9 @@ Derechos de Autor © **2013** **DM2** **International** **Inc.** Todos los derec
     
              c.  Romanos 14:14-16 -- ¿Eres lo suficientemente maduro como para **[renunciar]{.ul}** a tus derechos?
     
-     C.  **1 Corintios 9:19-27 -- Veamos un ejemplo práctico del por qué podrías renunciar a tu derecho de exigir tus libertades Cristianas.**
+##     C.  **1 Corintios 9:19-27 -- Veamos un ejemplo práctico del por qué podrías renunciar a tu derecho de exigir tus libertades Cristianas.**
     
-         1.  **1 Corintios 9:19 -- En primer lugar, vamos a dar una introducción a lo que es renunciar con el fin de ganar.**
+###         1.  **1 Corintios 9:19 -- En primer lugar, vamos a dar una introducción a lo que es renunciar con el fin de ganar.**
     
              a.  Una pregunta práctica. ¿Estarías dispuesto a renunciar a tus libertades Cristianas por causa del **[Evangelio]{.ul}**?
     
@@ -346,7 +361,7 @@ Derechos de Autor © **2013** **DM2** **International** **Inc.** Todos los derec
                  7.  ¿Sabías que en la vida Cristiana uno **[pierde]{.ul}** para ganar? Marcos 8:35,\
                      1 Corintios 9:19-23
     
-         2.  **1 Corintios 9:19-23 -- Pablo mostró la verdad que renuncias para ganar y pierdes para triunfar.**
+###         2.  **1 Corintios 9:19-23 -- Pablo mostró la verdad que renuncias para ganar y pierdes para triunfar.**
     
              a.  1 Corintios 9:19a -- Es importante observar que Pablo declaró que él no era **[esclavo]{.ul}** de hombre alguno.
     
@@ -396,7 +411,7 @@ Derechos de Autor © **2013** **DM2** **International** **Inc.** Todos los derec
     
                  2.  ¿Renunciarías a tus riquezas, tiempo libre, comodidad o seguridad para que el Evangelio **[alcance]{.ul}** a otros?
     
-         3.  **1 Corintios 9:24-27 -- Pablo reveló sus motivaciones subyacentes en [dejar]{.ul} a un lado sus libertades para correr efectivamente la carrera.**
+###         3.  **1 Corintios 9:24-27 -- Pablo reveló sus motivaciones subyacentes en [dejar]{.ul} a un lado sus libertades para correr efectivamente la carrera.**
     
              a.  1 Corintios 9:24-25 -- Pablo jugó para ganar; **[corrió]{.ul}** de tal manera como para triunfar.
     
@@ -432,9 +447,9 @@ Derechos de Autor © **2013** **DM2** **International** **Inc.** Todos los derec
     
                          ii. El contexto aquí muestra que estaba en peligro de perder recompensas y ser descalificado para el **[premio]{.ul}**.
     
-     D.  **Las Libertades: 1 Corintios 10:1-15 -- ¡No abuses de tus libertades, ya que tú, como creyente, podrías quedar descalificado. Ejemplos de la historia de [Israel]{.ul}!**
+##     D.  **Las Libertades: 1 Corintios 10:1-15 -- ¡No abuses de tus libertades, ya que tú, como creyente, podrías quedar descalificado. Ejemplos de la historia de [Israel]{.ul}!**
     
-         1.  1 Corintios 10:1-5 -- Ten cuidado. Es posible para el pueblo de Dios **[caer]{.ul}** en pecado. 1 Corintios 9:27
+###         1.  1 Corintios 10:1-5 -- Ten cuidado. Es posible para el pueblo de Dios **[caer]{.ul}** en pecado. 1 Corintios 9:27
     
              a.  1 Corintios 10:1a -- Pablo no quería que los hermanos (los creyentes) en Corinto pensaran que estaban por encima de la misma **[clase]{.ul}** de falla que los Israelitas (los antepasados ​​de Pablo) experimentaron.
     
@@ -497,13 +512,13 @@ Derechos de Autor © **2013** **DM2** **International** **Inc.** Todos los derec
     
                  2.  Cuando Israel murmuró contra el Señor y su siervo, la **[tierra]{.ul}** se los tragó. Números 16:31-35, 41-50
     
-         3.  1 Corintios 10:11 -- Se enseñable. Nosotros, que vivimos en los **[últimos]{.ul}** tiempos, debemos aprender de los Israelitas.
+###         3.  1 Corintios 10:11 -- Se enseñable. Nosotros, que vivimos en los **[últimos]{.ul}** tiempos, debemos aprender de los Israelitas.
     
              a.  1 Corintios 10:11a -- El **[pecado]{.ul}** de Israel y la disciplina de Dios deben servir como un ejemplo para nosotros.
     
              b.  1 Corintios 10:11b -- El pecado de Israel y la disciplina de Dios deben **[servir]{.ul}** como una advertencia para nosotros.
     
-         4.  1 Corintios 10:12-13 -- Sé humilde y entiende la provisión de Dios.
+###         4.  1 Corintios 10:12-13 -- Sé humilde y entiende la provisión de Dios.
     
              a.  1 Corintios 10:12 -- Entiende que eres **[débil]{.ul}**. ...*mire que no caiga*.
     
@@ -517,15 +532,15 @@ Derechos de Autor © **2013** **DM2** **International** **Inc.** Todos los derec
     
              f.  1 Corintios 10:13e -- Entiende que Dios te fortalecerá para que puedas **[sobrellevar]{.ul}**. ...*para que podáis soportar*.
     
-         5.  1 Corintios 10:14-15 -- Se cauteloso.
+###         5.  1 Corintios 10:14-15 -- Se cauteloso.
     
              a.  1 Corintios 10:14 -- Pablo mandó a los Corintios a **[huir]{.ul}** (evadir para escapar) de la idolatría.
     
              b.  1 Corintios 10:15 -- Pablo les habló como a hombres **[sabios]{.ul}** y les animó a discernir lo que dijo.
     
-     E.  **1 Corintios 10:16-31 -- Una razón para no usar tus libertades: la Culpabilidad por Asociación.**
+##     E.  **1 Corintios 10:16-31 -- Una razón para no usar tus libertades: la Culpabilidad por Asociación.**
     
-         1.  1 Corintios 10:16-17 -- La dinámica de la asociación en la **[mesa]{.ul}** de la comunión.
+###         1.  1 Corintios 10:16-17 -- La dinámica de la asociación en la **[mesa]{.ul}** de la comunión.
     
              a.  1 Corintios 10:16 -- Cuando un Cristiano **[participa]{.ul}** en la cena del Señor, él/ella está haciendo una declaración de afiliación y vinculación con el sacrificio sustitutivo de Cristo, cuyo cuerpo y sangre esto representa.
     
@@ -543,13 +558,13 @@ Derechos de Autor © **2013** **DM2** **International** **Inc.** Todos los derec
     
                  4.  La Biblia **[no]{.ul}** enseña \"la transubstanciación\", que es la creencia de que el pan y el vino, realmente se convierten en la carne y la sangre de Cristo, al ser digeridos. El comer de su cuerpo y beber su sangre eran metáforas para la fe: creyendo en El.
     
-         2.  1 Corintios 10:18 -- Un ejemplo **positivo** de la dinámica de asociación - El sacerdocio de Israel.
+###         2.  1 Corintios 10:18 -- Un ejemplo **positivo** de la dinámica de asociación - El sacerdocio de Israel.
     
              a.  Los sacerdotes Levitas **[comían]{.ul}** parte de la carne de los sacrificios.
     
              b.  Los sacerdotes eran identificados con el **[altar]{.ul}** de Dios por su comer de la carne ofrecida.
     
-         3.  1 Corintios 10:19-22 -- Veamos cómo la dinámica de la asociación funciona en el lado **negativo** cuando una persona come de forma indiscriminada la carne ofrecida a los ídolos.
+###         3.  1 Corintios 10:19-22 -- Veamos cómo la dinámica de la asociación funciona en el lado **negativo** cuando una persona come de forma indiscriminada la carne ofrecida a los ídolos.
     
              a.  1 Corintios 10:19 -- La esencia de la carne dada a un **[ídolo]{.ul}** no cambia.
     
@@ -575,7 +590,7 @@ Derechos de Autor © **2013** **DM2** **International** **Inc.** Todos los derec
     
                  3.  1 Corintios 10:22b -- ¡Quién **[pensamos]{.ul}** que somos para desafiar al Dios todopoderoso!
     
-         4.  1 Corintios 10:23-24 -- Aquí hay algunas razones prácticas para **[no]{.ul}** ser culpables por asociación en el uso de tus libertades cristianas.
+###         4.  1 Corintios 10:23-24 -- Aquí hay algunas razones prácticas para **[no]{.ul}** ser culpables por asociación en el uso de tus libertades cristianas.
     
              a.  1 Corintios 10:23a -- Todo es legal para ti, pero no todo te es **[bueno]{.ul}**.
     
@@ -585,7 +600,7 @@ Derechos de Autor © **2013** **DM2** **International** **Inc.** Todos los derec
     
              d.  1 Corintios 10:24b -- Preocúpate por el **[bien]{.ul}** de tu prójimo (cristiano o no cristiano).
     
-         5.  1 Corintios 10:25-31 -- Pablo dio alguna enseñanza práctica sobre, cómo tratar **[sabiamente]{.ul}** con situaciones donde necesitas comprar algo, que proviene de una fuente cuestionable.
+###         5.  1 Corintios 10:25-31 -- Pablo dio alguna enseñanza práctica sobre, cómo tratar **[sabiamente]{.ul}** con situaciones donde necesitas comprar algo, que proviene de una fuente cuestionable.
     
              a.  **La libertad en tus compras:** Cómo **[tratar]{.ul}** con la carne ofrecida a los ídolos y las *necesidades* de la vida.
     
@@ -615,13 +630,13 @@ Derechos de Autor © **2013** **DM2** **International** **Inc.** Todos los derec
     
                  3.  1 Corintios 10:31 -- Todo lo que tu comas o bebas, hazlo para la **[gloria]{.ul}** de Dios y no para la alabanza de otra persona. Gálatas 1:10
     
-     F.  **1 Corintios 10:32-11:1 -- Veamos la conclusión de Pablo al tema de las libertades Cristianas.**
+##     F.  **1 Corintios 10:32-11:1 -- Veamos la conclusión de Pablo al tema de las libertades Cristianas.**
     
-         1.  1 Corintios 10:32 -- No **[ofendas]{.ul}** a nadie intencionalmente: sea Judío, Gentil, o la iglesia de Dios.
+###         1.  1 Corintios 10:32 -- No **[ofendas]{.ul}** a nadie intencionalmente: sea Judío, Gentil, o la iglesia de Dios.
     
-         2.  1 Corintios 10:33 -- Renuncia a cualquier libertad que te sea necesaria para que otros se **[salven]{.ul}**.
+###         2.  1 Corintios 10:33 -- Renuncia a cualquier libertad que te sea necesaria para que otros se **[salven]{.ul}**.
     
-         3.  1 Corintios 11:1 -- Sigue el ejemplo de **[aquellos]{.ul}** que siguen el ejemplo de Cristo.
+###         3.  1 Corintios 11:1 -- Sigue el ejemplo de **[aquellos]{.ul}** que siguen el ejemplo de Cristo.
     
              a.  Juan 5:30 -- Jesús no buscó hacer su propia **[voluntad]{.ul}**. Juan 4:34 , 6:38
     
