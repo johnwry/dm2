@@ -1,4 +1,4 @@
-<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1corintios916/media/front.png" data-background-size="cover" -->
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1corintios9-16/media/front.png" data-background-size="cover" -->
 
 ___
 La primera carta a los Corintios es un excelente estudio porque nos habla de las situaciones por las cuales pasan las iglesias locales promedio de hoy. El libro abarca situaciones frecuentes que suceden en todas las iglesias y nos proporciona respuestas confiables en cómo resolverlas (1 Corintios 7:40b). Estas respuestas no son, ni remotamente comparables a las filosofías huecas de este mundo, aunque sean presentadas como la última y mejor idea (1 Corintios 1:19-20).
