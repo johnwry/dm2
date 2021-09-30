@@ -64,9 +64,7 @@ ___
 >
 > **1 Corintios 16:15-18 -- Corinto era una iglesia sin ancianos 84**
 ___
-**1 Corintios 16:19-24 -- Pablo concluye su carta 84\
-**
-![] (media/image3.jpg){width="6.326965223097113in" height="6.975885826771654in"}**\**
+**1 Corintios 16:19-24 -- Pablo concluye su carta 84\**
 
 **UNA IGLESIA EN CONFLICTO**
 
@@ -74,7 +72,7 @@ ___
 
 ## A.  1 Corintios 8:1-13 -- ¿Tenemos libertad de comer __<u>alimentos</u>__ de los templos de los ídolos? ¿Qué de lo sacrificado a los ídolos? 
 
-###         1.  1 Corintios 8:1 -- Pablo advirtió en contra del pensar que tienes todo el conocimiento y motivó el __<u>amor</u>__ sobre la *inteligencia*. *Todos tenemos conocimiento*...
+###         1.  1 Corintios 8:1 -- Pablo advirtió en contra del pensar que tienes todo el conocimiento y motivó el __<u>amor</u>__ sobre la *inteligencia.* *Todos tenemos conocimiento...*
 
 ####             a.  1 Corintios 8:1a -- __<u>Todos</u>__ tienen conocimiento (inteligencia general o entendimiento) sobre alimentos ofrecidos a los ídolos, ¿verdad?
 
@@ -108,7 +106,7 @@ ___
 
 ###         2.  1 Corintios 8:2 -- Si un creyente supone que tiene todo el conocimiento sobre un asunto, él __<u>demuestra</u>__ su total ignorancia. ...*aún no sabe nada como __<u>debe</u>__ saberlo*...
 
-###         3.  1 Corintios 8:3 -- Pablo recuerda a sus orgullosos lectores un hecho importante: Dios también tiene ***conocimiento*** -- Dios conocía la verdad de su amor por ÉL.\ Juan 21:15-17
+###         3.  1 Corintios 8:3 -- Pablo recuerda a sus orgullosos lectores un hecho importante: Dios también tiene ***conocimiento*** -- Dios conocía la verdad de su amor por ÉL.  Juan 21:15-17
 
 ####             a.  Un cristiano puede decir que ama a Dios, pero Dios __<u>sabe</u>__ si el amor que expresa califica o no, como verdadero amor bíblico. 1 Pedro 1:8, Apocalipsis 2:4
 
@@ -116,7 +114,7 @@ ___
 
 ####             c.  En este contexto, Pablo muestra que es mucho más importante entender el amor, que tener contestadas las preguntas sobre los __<u>alimentos</u>__.
 
-###         4.  1 Corintios 8:4-6 -- *Sabemos*... Pablo da ahora el punto de vista divino de Dios sobre el comer carne sacrificada a los ídolos. Este es el verdadero conocimiento sobre el asunto.
+###         4.  1 Corintios 8:4-6 -- *Sabemos...* Pablo da ahora el punto de vista divino de Dios sobre el comer carne sacrificada a los ídolos. Este es el verdadero conocimiento sobre el asunto.
 
 ####             a.  1 Corintios 8:4a -- En el mundo no hay tal cosa como un __<u>ídolo</u>__. Hechos 19:26, Salmo 115:4-7
 
@@ -254,7 +252,7 @@ ___
 
 #####                 2.  Dios espera que aquellos que predican las buenas noticias también reciban apoyo de los que se __<u>benefician</u>__ del Evangelio que se predica.
 
-###         3.  **1 Corintios 9:15-18 -- Pablo voluntaria y libremente renunció a su derecho de su libertad de exigir apoyo.**
+###         3.  1 Corintios 9:15-18 -- Pablo voluntaria y libremente renunció a su derecho de su libertad de exigir apoyo.
 
 ####             a.  1 Corintios 9:15 -- Vamos a examinar el uso de Pablo de su __<u>derecho</u>__ a exigir su apoyo.
 
@@ -302,9 +300,9 @@ ___
 
 ####             c.  Romanos 14:14-16 -- ¿Eres lo suficientemente maduro como para __<u>renunciar</u>__ a tus derechos?
 
-##     C.  **1 Corintios 9:19-27 -- Veamos un ejemplo práctico del por qué podrías renunciar a tu derecho de exigir tus libertades Cristianas.**
+##     C.  1 Corintios 9:19-27 -- Veamos un ejemplo práctico del por qué podrías renunciar a tu derecho de exigir tus libertades Cristianas.
 
-###         1.  **1 Corintios 9:19 -- En primer lugar, vamos a dar una introducción a lo que es renunciar con el fin de ganar.**
+###         1.  1 Corintios 9:19 -- En primer lugar, vamos a dar una introducción a lo que es renunciar con el fin de ganar.
 
 ####             a.  Una pregunta práctica. ¿Estarías dispuesto a renunciar a tus libertades Cristianas por causa del __<u>Evangelio</u>__?
 
@@ -324,7 +322,7 @@ ___
 
 #####                 7.  ¿Sabías que en la vida Cristiana uno __<u>pierde</u>__ para ganar? Marcos 8:35,\1 Corintios 9:19-23
 
-###         2.  **1 Corintios 9:19-23 -- Pablo mostró la verdad que renuncias para ganar y pierdes para triunfar.**
+###         2.  1 Corintios 9:19-23 -- Pablo mostró la verdad que renuncias para ganar y pierdes para triunfar.
 
 ####             a.  1 Corintios 9:19a -- Es importante observar que Pablo declaró que él no era __<u>esclavo</u>__ de hombre alguno.
 
@@ -410,7 +408,7 @@ ___
 
 ######                         ii. El contexto aquí muestra que estaba en peligro de perder recompensas y ser descalificado para el __<u>premio</u>__.
 
-##     D.  **Las Libertades: 1 Corintios 10:1-15 -- ¡No abuses de tus libertades, ya que tú, como creyente, podrías quedar descalificado. Ejemplos de la historia de __<u>Israel</u>__!**
+##     D.  Las Libertades: 1 Corintios 10:1-15 -- ¡No abuses de tus libertades, ya que tú, como creyente, podrías quedar descalificado. Ejemplos de la historia de __<u>Israel</u>__!
 
 ###         1.  1 Corintios 10:1-5 -- Ten cuidado. Es posible para el pueblo de Dios __<u>caer</u>__ en pecado. 1 Corintios 9:27
 
@@ -444,7 +442,7 @@ ___
 
 #####                 1.  Al igual que Israel, los Corintios estaban en peligro de sus antojos por __<u>carne</u>__.
 
-#####                 2.  En el desierto, los Israelitas fueron disciplinados por codiciar __<u>carne</u>__.\ Números 11:4-35
+#####                 2.  En el desierto, los Israelitas fueron disciplinados por codiciar __<u>carne</u>__. Números 11:4-35
 
 ####             c.  1 Corintios 10:7 -- No participes en ninguna __<u>forma</u>__ de idolatría como Israel lo hizo con el becerro de oro.
 
