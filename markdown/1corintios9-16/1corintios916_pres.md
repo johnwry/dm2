@@ -1,6 +1,5 @@
-![](media/image1.jpg){width="8.590277777777779in" height="6.438194444444444in"}
-___
-![](media/image2.png){width="2.225in" height="0.8131944444444444in"}
+<!-- .slide: data-background-image="https://johnwry.github.io/dm2/markdown/1corintios916/media/front.png" data-background-size="cover" -->
+
 ___
 La primera carta a los Corintios es un excelente estudio porque nos habla de las situaciones por las cuales pasan las iglesias locales promedio de hoy. El libro abarca situaciones frecuentes que suceden en todas las iglesias y nos proporciona respuestas confiables en cómo resolverlas (1 Corintios 7:40b). Estas respuestas no son, ni remotamente comparables a las filosofías huecas de este mundo, aunque sean presentadas como la última y mejor idea (1 Corintios 1:19-20).
 ___
@@ -67,7 +66,7 @@ ___
 ___
 **1 Corintios 16:19-24 -- Pablo concluye su carta 84\
 **
-![](media/image3.jpg){width="6.326965223097113in" height="6.975885826771654in"}**\**
+![] (media/image3.jpg){width="6.326965223097113in" height="6.975885826771654in"}**\**
 
 **UNA IGLESIA EN CONFLICTO**
 
@@ -1537,60 +1536,60 @@ ___
 
 ######                      b.  **El conocimiento** era la comprensión divina que impartía información a los hombres: Era la comunicación del conocimiento recibido __<u>de</u>__ Dios, siendo guiado por el Espíritu Santo.
 
-                      c.  **La profecía** era la comunicación divina que vino directamente de Dios a la iglesia. Era hablar bajo la inspiración y dirección del Espíritu Santo. Era el decir un __<u>mensaje</u>__ de Dios a los hombres (2 Pedro 1:21) a menudo prediciendo algo por venir en el futuro.
-    
-                      d.  **La enseñanza** era la __<u>instrucción</u>__ divina, el hablar a la gente mediante la instrucción y explicación dirigida (o guiada) por el Espíritu Santo.\ Juan 16:12-15
-    
-                  3.  1 Corintios 14:7-11 -- Las lenguas carecían de la comunicación necesaria requerida para la edificación. ...*el __<u>valor</u>__ de las palabras*... Pablo usó varios ejemplos prácticos para explicar lo que quería decir.
-    
-                      a.  1 Corintios 14:7 -- Pablo usó el ejemplo de una flauta o arpa, que se toca de una __<u>manera</u>__ irreconocible. Sin una melodía clara, no habría agrado al oído.
-    
-                      b.  1 Corintios 14:8 -- Pablo usó el ejemplo de una __<u>trompeta</u>__, que no daría una orden clara. ¿Cómo se enlistarían las tropas para la guerra?
-    
-                      c.  1 Corintios 14:9 -- Pablo declaró que de la misma manera, a no ser que uno hable con un lenguaje común, que sea entendible, el __<u>oyente</u>__ no sabría lo que has dicho. ¡Serías como uno hablando al aire!
-    
-                      d.  1 Corintios 14:10-11 -- Aunque todos los idiomas del mundo se comunican, si no hablas un lenguaje en __<u>común</u>__, no hay comprensión. En tal caso, las personas serian como extranjeros entre sí.
-    
-              d.  **1 Corintios 14:12-19 -- La edificación habría de ser el objetivo de la Iglesia y sin el Nuevo Testamento completo, el don de la profecía era un importante recurso, dado por Dios, para alcanzar dicho __<u>objetivo</u>__.**
-    
-                  1.  1 Corintios 14:12-14 -- ¿Cual debería haber sido el objetivo de los Corintios en la iglesia local? ¡__<u>Edificar</u>__ unos a otros!
-    
-                      a.  1 Corintios 14:12 -- Ya que eran celosos por la espiritualidad, o cosas espirituales (la palabra PNEUMATICOS aquí no habla de los dones espirituales), ellos por lo tanto, deberían de buscar __<u>abundar</u>__ en ellos, para la edificación del cuerpo de Cristo.
-    
-                      b.  1 Corintios 14:13 -- Deberían buscar la edificación. Si uno de ellos tenía el don de lenguas, debería __<u>orar</u>__ para que Dios le diera (a él o a otro en la Iglesia), la habilidad de interpretar lo que se dijo.
-    
-                          i.  Pablo no dijo que orara para que Dios le diera el __<u>don</u>__ de interpretación, más bien oraban para recibir la ***habilidad*** de interpretar. Hay una gran diferencia.
-    
-                          ii. No hay ninguna indicación bíblica, que debas __<u>orar</u>__, para que Dios te conceda un don espiritual en particular. Los dones espirituales se dan según los propósitos omniscientes de Dios, el Espíritu Santo.\ 1 Corintios 12:4-11 , especialmente los versículos 8 y 11
-    
-                          iii. Los dones son dados a nosotros __<u>por</u>__ el Espíritu Santo, como Él elija y no como nosotros deseamos, pedimos, o esperamos.
-    
-                      c.  1 Corintios 14:14 -- La edificación viene __<u>mediante</u>__ la comprensión y la comprensión llega mediante la comunicación clara.
-    
-                          i.  1 Corintios 14:14a -- *Porque si yo oro en lengua desconocida, mi espíritu ora*... Lo que pasó con el don de lenguas fue que una persona habló con Dios (oró) de su espíritu, pero su __<u>mente</u>__ quedaba desconectada y ni siquiera sabía lo que decía.
-    
-                          ii. 1 Corintios 14:14b --...*pero mi entendimiento queda sin fruto*... En consecuencia, no había ningún beneficio o edificación para la __<u>Iglesia</u>__ en general.
-    
-                  2.  1 Corintios 14:15-17 -- A la luz del objetivo de la edificación de la iglesia, ¿qué consejo dio Pablo a los creyentes de Corinto?
-    
-                      a.  1 Corintios 14:15 -- Si bien, que habían sido capaces de orar y cantar con sus espíritus a través de una lengua desconocida, más bien deberían de haber deseado orar y cantar con **sus espíritus y sus mentes**. El entendimiento se lograba mediante el orar y cantar en su lengua __<u>conocida</u>__ (el Griego, en este caso).
-    
-                      b.  1 Corintios 14:16 -- Si no usaban un lenguaje mutuamente conocido, ¡nadie podría decir el *\"__<u>Amén</u>__\"* (así sea) a lo que dijeron!
-    
-                      c.  1 Corintios 14:17 -- A pesar de que estaban dando gracias a Dios mientras hablaban en lenguas, desafortunadamente, nadie estaba siendo bendecido, o __<u>edificado</u>__, por lo que se dijo.
-    
-                  3.  1 Corintios 14:18-19 -- Pablo hizo una __<u>aclaración</u>__ importante para que no se malinterpretara lo que estaba diciendo.
-    
-                      a.  1 Corintios 14:18 -- En primer lugar, él dio gracias a Dios de que hablaba en lenguas __<u>más</u>__ que todos los Corintios, a pesar de que practicaba este don por fuera de los confines de las iglesias locales. Vea el versículo 19.
-    
-                      b.  1 Corintios 14:19 -- En segundo lugar, Pablo declaró que él preferiría en un servicio, el hablar cinco palabras con su entendimiento, que __<u>10.000</u>__ palabras incomprensibles.
-    
-          10. **1 Corintios 14:20-40 -- Pablo estaba preocupado por una comunicación clara y el buen __<u>orden</u>__ en la iglesia local.**
-    
-              a.  **1 Corintios 14:20-33 -- En esta sección, Pablo dio una comprensión __<u>apropiada</u>__ de la práctica de las lenguas y la profecía en la iglesia local.**
-    
-                  1.  1 Corintios 14:20 -- Al hablar de la práctica correcta de los dones de lenguas y la profecía, Pablo apeló al intelecto o la __<u>mente</u>__.
-    
+######                      c.  **La profecía** era la comunicación divina que vino directamente de Dios a la iglesia. Era hablar bajo la inspiración y dirección del Espíritu Santo. Era el decir un __<u>mensaje</u>__ de Dios a los hombres (2 Pedro 1:21) a menudo prediciendo algo por venir en el futuro.
+
+######                      d.  **La enseñanza** era la __<u>instrucción</u>__ divina, el hablar a la gente mediante la instrucción y explicación dirigida (o guiada) por el Espíritu Santo.\ Juan 16:12-15
+
+#####                  3.  1 Corintios 14:7-11 -- Las lenguas carecían de la comunicación necesaria requerida para la edificación. ...*el __<u>valor</u>__ de las palabras*... Pablo usó varios ejemplos prácticos para explicar lo que quería decir.
+
+######                      a.  1 Corintios 14:7 -- Pablo usó el ejemplo de una flauta o arpa, que se toca de una __<u>manera</u>__ irreconocible. Sin una melodía clara, no habría agrado al oído.
+
+######                      b.  1 Corintios 14:8 -- Pablo usó el ejemplo de una __<u>trompeta</u>__, que no daría una orden clara. ¿Cómo se enlistarían las tropas para la guerra?
+
+######                      c.  1 Corintios 14:9 -- Pablo declaró que de la misma manera, a no ser que uno hable con un lenguaje común, que sea entendible, el __<u>oyente</u>__ no sabría lo que has dicho. ¡Serías como uno hablando al aire!
+
+######                      d.  1 Corintios 14:10-11 -- Aunque todos los idiomas del mundo se comunican, si no hablas un lenguaje en __<u>común</u>__, no hay comprensión. En tal caso, las personas serian como extranjeros entre sí.
+
+####              d.  **1 Corintios 14:12-19 -- La edificación habría de ser el objetivo de la Iglesia y sin el Nuevo Testamento completo, el don de la profecía era un importante recurso, dado por Dios, para alcanzar dicho __<u>objetivo</u>__.**
+
+#####                  1.  1 Corintios 14:12-14 -- ¿Cual debería haber sido el objetivo de los Corintios en la iglesia local? ¡__<u>Edificar</u>__ unos a otros!
+
+######                      a.  1 Corintios 14:12 -- Ya que eran celosos por la espiritualidad, o cosas espirituales (la palabra PNEUMATICOS aquí no habla de los dones espirituales), ellos por lo tanto, deberían de buscar __<u>abundar</u>__ en ellos, para la edificación del cuerpo de Cristo.
+
+######                      b.  1 Corintios 14:13 -- Deberían buscar la edificación. Si uno de ellos tenía el don de lenguas, debería __<u>orar</u>__ para que Dios le diera (a él o a otro en la Iglesia), la habilidad de interpretar lo que se dijo.
+
+######                          i.  Pablo no dijo que orara para que Dios le diera el __<u>don</u>__ de interpretación, más bien oraban para recibir la ***habilidad*** de interpretar. Hay una gran diferencia.
+
+######                          ii. No hay ninguna indicación bíblica, que debas __<u>orar</u>__, para que Dios te conceda un don espiritual en particular. Los dones espirituales se dan según los propósitos omniscientes de Dios, el Espíritu Santo.\ 1 Corintios 12:4-11 , especialmente los versículos 8 y 11
+
+######                          iii. Los dones son dados a nosotros __<u>por</u>__ el Espíritu Santo, como Él elija y no como nosotros deseamos, pedimos, o esperamos.
+
+######                      c.  1 Corintios 14:14 -- La edificación viene __<u>mediante</u>__ la comprensión y la comprensión llega mediante la comunicación clara.
+
+######                          i.  1 Corintios 14:14a -- *Porque si yo oro en lengua desconocida, mi espíritu ora*... Lo que pasó con el don de lenguas fue que una persona habló con Dios (oró) de su espíritu, pero su __<u>mente</u>__ quedaba desconectada y ni siquiera sabía lo que decía.
+
+######                          ii. 1 Corintios 14:14b --...*pero mi entendimiento queda sin fruto*... En consecuencia, no había ningún beneficio o edificación para la __<u>Iglesia</u>__ en general.
+
+#####                  2.  1 Corintios 14:15-17 -- A la luz del objetivo de la edificación de la iglesia, ¿qué consejo dio Pablo a los creyentes de Corinto?
+
+######                      a.  1 Corintios 14:15 -- Si bien, que habían sido capaces de orar y cantar con sus espíritus a través de una lengua desconocida, más bien deberían de haber deseado orar y cantar con **sus espíritus y sus mentes**. El entendimiento se lograba mediante el orar y cantar en su lengua __<u>conocida</u>__ (el Griego, en este caso).
+
+######                      b.  1 Corintios 14:16 -- Si no usaban un lenguaje mutuamente conocido, ¡nadie podría decir el *\"__<u>Amén</u>__\"* (así sea) a lo que dijeron!
+
+######                      c.  1 Corintios 14:17 -- A pesar de que estaban dando gracias a Dios mientras hablaban en lenguas, desafortunadamente, nadie estaba siendo bendecido, o __<u>edificado</u>__, por lo que se dijo.
+
+#####                  3.  1 Corintios 14:18-19 -- Pablo hizo una __<u>aclaración</u>__ importante para que no se malinterpretara lo que estaba diciendo.
+
+######                      a.  1 Corintios 14:18 -- En primer lugar, él dio gracias a Dios de que hablaba en lenguas __<u>más</u>__ que todos los Corintios, a pesar de que practicaba este don por fuera de los confines de las iglesias locales. Vea el versículo 19.
+
+######                      b.  1 Corintios 14:19 -- En segundo lugar, Pablo declaró que él preferiría en un servicio, el hablar cinco palabras con su entendimiento, que __<u>10.000</u>__ palabras incomprensibles.
+
+###          10. **1 Corintios 14:20-40 -- Pablo estaba preocupado por una comunicación clara y el buen __<u>orden</u>__ en la iglesia local.**
+
+####              a.  **1 Corintios 14:20-33 -- En esta sección, Pablo dio una comprensión __<u>apropiada</u>__ de la práctica de las lenguas y la profecía en la iglesia local.**
+
+#####                  1.  1 Corintios 14:20 -- Al hablar de la práctica correcta de los dones de lenguas y la profecía, Pablo apeló al intelecto o la __<u>mente</u>__.
+
                       a.  Pablo usó la palabra *pensar* __<u>dos</u>__ veces en este versículo. Él quería apelar a sus mentes.
     
                           i.  *Hermanos, __<u>no</u>__ seáis niños en el modo de pensar, sino sed niños en la malicia*...
