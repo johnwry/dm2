@@ -14,8 +14,31 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
+  <g
+     inkscape:groupmode="layer"
+     id="animation"
+     inkscape:label="animation">
+    <text
+       xml:space="preserve"
+       id="text365"
+       style="font-size:24px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;white-space:pre;shape-inside:url(#rect367);fill:#000000;stroke:#000000;stroke-width:0.4"
+       x="137.99414"
+       y="0"
+       transform="translate(-50.207031)"><tspan
+         x="294.00195"
+         y="34.987724"
+         id="tspan468"><tspan
+           style="font-weight:bold"
+           id="tspan466">Bosquejo Romanos 1-8</tspan></tspan></text>
+  </g>
   <defs
      id="defs6322">
+    <rect
+       x="99.5"
+       y="13.092064"
+       width="700.5"
+       height="46.757371"
+       id="rect367" />
     <rect
        x="386.71538"
        y="311.5"
@@ -40,17 +63,17 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="0.53467505"
-     inkscape:cx="175.80772"
-     inkscape:cy="287.09026"
+     inkscape:cx="425.49208"
+     inkscape:cy="311.40409"
      inkscape:window-width="1483"
      inkscape:window-height="831"
-     inkscape:window-x="0"
+     inkscape:window-x="16"
      inkscape:window-y="38"
      inkscape:window-maximized="0"
-     inkscape:current-layer="svg6318" />
+     inkscape:current-layer="animation" />
   <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
   <g
-     id="Layer_1"><title
+     id="g269"><title
    id="title6296">Bosquejo de Romanos 1-8</title>
 <text
    font-style="normal"
@@ -65,7 +88,7 @@
    font-family="'Anton'"
    text-anchor="start"
    xml:space="preserve" />
-ansform=&quot;matrix(0.875950515270233,0,0,1,49.159233033657074,-4) &quot; stroke=&quot;#000&quot;&gt;Bosquejo de Romanos 1-8</g>
+transform=&quot;matrix(0.875950515270233,0,0,1,49.159233033657074,-4) &quot; stroke=&quot;#000&quot;&gt;Bosquejo de Romanos 1-8</g>
   <rect
      fill="#ffd4aa"
      stroke="#000000"
@@ -77,134 +100,71 @@ ansform=&quot;matrix(0.875950515270233,0,0,1,49.159233033657074,-4) &quot; strok
      y="486.5"
      width="700"
      height="70"
-     id="rect6300" />
-  <!-- .element: class="fragment fade-right" data-fragment-index="1" -->
-  <rect
-     fill="#7f7f7f"
-     stroke-width="null"
-     stroke-dasharray="none"
-     stroke-opacity="null"
-     opacity="undefined"
-     x="100"
-     y="416.5"
-     width="600"
-     height="70"
-     id="svg_2"
-     stroke="#000000" />
-  <!-- .element: class="fragment fade-right" data-fragment-index="2" -->
-  <rect
-     fill="#ffaaff"
-     stroke-width="null"
-     stroke-dasharray="none"
-     stroke-opacity="null"
-     opacity="undefined"
-     x="140.5"
-     y="346.5"
-     width="519"
-     height="70"
-     id="svg_4"
-     stroke="#000000" />
-  <!-- .element: class="fragment fade-right" data-fragment-index="3" -->
-  <rect
-     fill="#aaffff"
-     stroke-width="null"
-     stroke-dasharray="none"
-     stroke-opacity="null"
-     opacity="undefined"
-     x="176.50002"
-     y="276.5"
-     width="446.99997"
-     height="70"
-     id="svg_5"
-     stroke="#000000" />
-  <!-- .element: class="fragment fade-right" data-fragment-index="4" -->
-  <rect
-     fill="#00bf5f"
-     stroke-width="null"
-     stroke-dasharray="none"
-     stroke-opacity="null"
-     opacity="undefined"
-     x="211.49998"
-     y="206.5"
-     width="377.00003"
-     height="70"
-     id="svg_6"
-     stroke="#000000" />
-  <!-- .element: class="fragment fade-right" data-fragment-index="5" -->
+     id="rect6300"
+     class="fragment fade-up"
+     data-fragment-index="1" />
+  <!---->
+  <!---->
+  <!---->
+  <!---->
+  <!---->
   <g
      id="svg_22"
      stroke="null"
-     transform="translate(-34.499979,-0.52366633)">
+     transform="translate(-34.499979,-0.52366633)"
+     class="fragment fade-down"
+     data-fragment-index="6">
     <path
        fill="#aaffaa"
        d="m 430.68058,130.19007 v 16.24455 c 5.95137,1.40738 11.24148,3.72122 16.78241,5.31943 v -16.2684 c -5.92857,-1.38353 -11.26428,-3.69736 -16.78241,-5.29558 z m 50.91727,-29.34037 c -7.82115,3.79278 -17.44367,7.60941 -26.67855,7.60941 -12.19917,0 -22.30054,-8.30118 -37.66921,-8.30118 -5.70055,0 -10.78543,1.04957 -15.50548,2.86248 0.63846,-1.74134 0.93489,-3.6258 0.82088,-5.62954 -0.41044,-6.77453 -5.72335,-12.21323 -12.22197,-12.49948 -7.2967,-0.3101 -13.29367,5.79651 -13.29367,13.35822 0,4.53225 2.16621,8.53972 5.47252,10.94897 v 92.10015 c 0,3.17258 2.43983,5.72495 5.47252,5.72495 h 3.64835 c 3.03269,0 5.47252,-2.55237 5.47252,-5.72495 v -22.51814 c 6.45302,-2.88633 14.50219,-5.27173 26.0857,-5.27173 12.22197,0 22.30054,8.30118 37.66921,8.30118 10.99065,0 19.76949,-3.8882 27.93267,-9.75627 1.98379,-1.43124 3.1467,-3.76893 3.1467,-6.29745 v -57.98898 c 0.0228,-5.55797 -5.51813,-9.25534 -10.35219,-6.91765 z m -67.69968,61.68635 c -5.88296,0.64406 -11.40109,1.95602 -16.78241,3.95976 v -16.81704 c 5.97417,-2.21842 10.83104,-3.57809 16.78241,-4.15059 v 17.00788 z m 67.12963,-32.08358 c -5.38132,2.33769 -10.55741,4.65152 -16.78241,5.7011 v 16.96017 c 5.65494,-0.81103 11.72032,-2.81477 16.78241,-6.20203 v 16.81704 c -5.72335,3.84049 -11.05906,5.89193 -16.78241,6.46442 v -17.07944 c -6.15659,0.8826 -10.92225,0.35781 -16.78241,-1.33582 v 16.07757 c -5.44972,-1.76519 -10.78543,-3.98361 -16.78241,-5.08089 v -16.33996 c -4.49203,-1.04957 -9.30329,-1.62207 -16.78241,-0.90645 v -16.69777 c -5.10769,0.73947 -10.16977,2.4331 -16.78241,4.98548 v -16.81704 c 7.57032,-2.91018 11.42389,-4.72308 16.78241,-5.24787 v 17.07944 c 6.15659,-0.8826 11.03626,-0.3101 16.78241,1.35968 v -16.07757 c 5.40412,1.76519 10.76263,3.98361 16.78241,5.08089 v 16.31611 c 5.40412,1.26426 10.85384,1.64592 16.78241,0.64406 v -17.151 c 6.15659,-1.14499 11.92554,-3.24414 16.78241,-5.36714 v 16.81704 z"
        id="svg_21"
        stroke="#7f7f7f" />
   </g>
-  <!-- .element: class="fragment" data-fragment-index="5" -->
+  <!---->
   <text
      xml:space="preserve"
      id="text6588"
      style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect6590);display:inline;fill:#999999;stroke:#000000;stroke-width:0.4" />
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:#000000;stroke-width:0.4"
-     x="294.78906"
-     y="233.84062"
-     id="text6596"><tspan
-       sodipodi:role="line"
+  <g
+     id="g364"
+     data-fragment-index="5"
+     class="fragment fade-right">
+    <rect
+       fill="#00bf5f"
+       stroke-width="null"
+       stroke-dasharray="none"
+       stroke-opacity="null"
+       opacity="undefined"
+       x="211.49998"
+       y="206.5"
+       width="377.00003"
+       height="70"
+       id="svg_6"
+       stroke="#000000" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:#000000;stroke-width:0.4"
        x="294.78906"
        y="233.84062"
-       id="tspan6673"
-       style="font-weight:bold">La Glorificación </tspan></text>
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:#000000;stroke-width:0.4"
-     x="287.96875"
-     y="270.40155"
-     id="text6596-9"
-     inkscape:transform-center-x="-447.00047"
-     inkscape:transform-center-y="138.40182"><tspan
-       sodipodi:role="line"
+       id="text6596"><tspan
+         sodipodi:role="line"
+         x="294.78906"
+         y="233.84062"
+         id="tspan6673"
+         style="font-weight:bold">La Glorificación </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:#000000;stroke-width:0.4"
        x="287.96875"
        y="270.40155"
-       id="tspan6673-1"> Romanos 8:17-39</tspan></text>
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:#000000;stroke-width:0.4"
-     x="274.85547"
-     y="340.40155"
-     id="text6596-9-0"
-     inkscape:transform-center-x="-447.00047"
-     inkscape:transform-center-y="138.40182"><tspan
-       sodipodi:role="line"
-       x="274.85547"
-       y="340.40155"
-       id="tspan6673-1-5"> Romanos 5:12-8:17</tspan></text>
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:#000000;stroke-width:0.4"
-     x="275.37695"
-     y="410.43671"
-     id="text6596-9-0-1"
-     inkscape:transform-center-x="-447.00047"
-     inkscape:transform-center-y="138.40182"><tspan
-       sodipodi:role="line"
-       x="275.37695"
-       y="410.43671"
-       id="tspan6673-1-5-9"> Romanos 3:21-5:11</tspan></text>
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:#000000;stroke-width:0.4"
-     x="274.89062"
-     y="480.40155"
-     id="text6596-9-0-1-7"
-     inkscape:transform-center-x="-447.00047"
-     inkscape:transform-center-y="138.40182"><tspan
-       sodipodi:role="line"
-       x="274.89062"
-       y="480.40155"
-       id="tspan6673-1-5-9-5"> Romanos 1:18-3:20</tspan></text>
+       id="text6596-9"
+       inkscape:transform-center-x="-447.00047"
+       inkscape:transform-center-y="138.40182"><tspan
+         sodipodi:role="line"
+         x="287.96875"
+         y="270.40155"
+         id="tspan6673-1"> Romanos 8:17-39</tspan></text>
+  </g>
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:#000000;stroke-width:0.4"
@@ -217,39 +177,126 @@ ansform=&quot;matrix(0.875950515270233,0,0,1,49.159233033657074,-4) &quot; strok
        x="303.19141"
        y="550.43671"
        id="tspan6673-1-5-9-5-7"> Romanos 1:1-7</tspan></text>
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:#000000;stroke-width:0.4"
-     x="293.21289"
-     y="303.84064"
-     id="text6596-8"><tspan
-       sodipodi:role="line"
-       id="tspan6594-1"
+  <g
+     id="g346"
+     class="fragment fade-right"
+     data-fragment-index="4">
+    <rect
+       fill="#aaffff"
+       stroke-width="null"
+       stroke-dasharray="none"
+       stroke-opacity="null"
+       opacity="undefined"
+       x="176.50002"
+       y="276.5"
+       width="446.99997"
+       height="70"
+       id="svg_5"
+       stroke="#000000" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:#000000;stroke-width:0.4"
+       x="274.85547"
+       y="340.40155"
+       id="text6596-9-0"
+       inkscape:transform-center-x="-447.00047"
+       inkscape:transform-center-y="138.40182"><tspan
+         sodipodi:role="line"
+         x="274.85547"
+         y="340.40155"
+         id="tspan6673-1-5"> Romanos 5:12-8:17</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:#000000;stroke-width:0.4"
        x="293.21289"
        y="303.84064"
-       style="font-weight:bold">La Santificación</tspan></text>
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:#000000;stroke-width:0.4"
-     x="295.97266"
-     y="373.84064"
-     id="text6596-5"><tspan
-       sodipodi:role="line"
-       id="tspan6594-3"
+       id="text6596-8"><tspan
+         sodipodi:role="line"
+         id="tspan6594-1"
+         x="293.21289"
+         y="303.84064"
+         style="font-weight:bold">La Santificación</tspan></text>
+  </g>
+  <g
+     id="g339"
+     data-fragment-index="3"
+     class="fragment fade-right">
+    <rect
+       fill="#ffaaff"
+       stroke-width="null"
+       stroke-dasharray="none"
+       stroke-opacity="null"
+       opacity="undefined"
+       x="140.5"
+       y="346.5"
+       width="519"
+       height="70"
+       id="svg_4"
+       stroke="#000000" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:#000000;stroke-width:0.4"
+       x="275.37695"
+       y="410.43671"
+       id="text6596-9-0-1"
+       inkscape:transform-center-x="-447.00047"
+       inkscape:transform-center-y="138.40182"><tspan
+         sodipodi:role="line"
+         x="275.37695"
+         y="410.43671"
+         id="tspan6673-1-5-9"> Romanos 3:21-5:11</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:#000000;stroke-width:0.4"
        x="295.97266"
        y="373.84064"
-       style="font-weight:bold">La Justificación</tspan></text>
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:#000000;stroke-width:0.4"
-     x="231.73047"
-     y="443.84064"
-     id="text6596-54"><tspan
-       sodipodi:role="line"
-       id="tspan6594-36"
+       id="text6596-5"><tspan
+         sodipodi:role="line"
+         id="tspan6594-3"
+         x="295.97266"
+         y="373.84064"
+         style="font-weight:bold">La Justificación</tspan></text>
+  </g>
+  <g
+     id="g332"
+     class="fragment fade-right"
+     data-fragment-index="2">
+    <rect
+       fill="#7f7f7f"
+       stroke-width="null"
+       stroke-dasharray="none"
+       stroke-opacity="null"
+       opacity="undefined"
+       x="100"
+       y="416.5"
+       width="600"
+       height="70"
+       id="svg_2"
+       stroke="#000000" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:#000000;stroke-width:0.4"
+       x="274.89062"
+       y="480.40155"
+       id="text6596-9-0-1-7"
+       inkscape:transform-center-x="-447.00047"
+       inkscape:transform-center-y="138.40182"><tspan
+         sodipodi:role="line"
+         x="274.89062"
+         y="480.40155"
+         id="tspan6673-1-5-9-5"> Romanos 1:18-3:20</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:#000000;stroke-width:0.4"
        x="231.73047"
        y="443.84064"
-       style="font-weight:bold">La Condición del Hombre</tspan></text>
+       id="text6596-54"><tspan
+         sodipodi:role="line"
+         id="tspan6594-36"
+         x="231.73047"
+         y="443.84064"
+         style="font-weight:bold">La Condición del Hombre</tspan></text>
+  </g>
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:#000000;stroke-width:0.4"
