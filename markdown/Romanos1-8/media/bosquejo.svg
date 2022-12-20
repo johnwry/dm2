@@ -2,87 +2,27 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="1024"
-   height="768"
-   viewBox="0 0 1024 768"
+   width="1021.3667"
+   height="642.07233"
+   viewBox="0 0 1021.3667 642.07233"
    version="1.1"
    id="animation"
-   inkscape:version="1.2.2 (b0a84865, 2022-12-01)"
-   sodipodi:docname="bosquejo.svg"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
-  <sodipodi:namedview
-     id="namedview7"
-     pagecolor="#ffffff"
-     bordercolor="#000000"
-     borderopacity="0.25"
-     inkscape:showpageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1"
-     inkscape:document-units="px"
-     showgrid="false"
-     inkscape:zoom="0.74892983"
-     inkscape:cx="478.68303"
-     inkscape:cy="382.54585"
-     inkscape:window-width="1464"
-     inkscape:window-height="841"
-     inkscape:window-x="52"
-     inkscape:window-y="38"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="layer1" />
   <defs
      id="defs2">
     <rect
-       x="471.73133"
+       x="471.73132"
        y="28.797552"
-       width="695.4976"
-       height="37.829443"
+       width="695.49762"
+       height="37.829445"
        id="rect2014" />
     <rect
-       x="871.37423"
-       y="712.95704"
-       width="131.51439"
-       height="55.042956"
-       id="rect1065" />
-    <rect
-       x="871.37423"
-       y="712.95704"
-       width="138.26579"
-       height="32.081347"
-       id="rect1059" />
-    <rect
-       x="705.36913"
-       y="421.52954"
-       width="145.39479"
-       height="21.223919"
-       id="rect1053" />
-    <rect
-       x="635.94791"
-       y="678.3946"
-       width="59.503898"
-       height="26.331047"
-       id="rect955" />
-    <rect
-       x="52.065911"
-       y="48.346917"
-       width="458.73933"
+       x="52.06591"
+       y="48.346916"
+       width="458.73932"
        height="179.57526"
        id="rect4166" />
-    <rect
-       x="171.05278"
-       y="49.586582"
-       width="433.90351"
-       height="80.37074"
-       id="rect4156" />
-    <rect
-       x="369.42003"
-       y="70.660879"
-       width="311.29109"
-       height="59.296442"
-       id="rect4100" />
     <rect
        x="52.06591"
        y="48.346916"
@@ -154,18 +94,6 @@
        y="48.346916"
        width="458.73932"
        height="179.57526"
-       id="rect4166-5-6-9-5-0" />
-    <rect
-       x="52.06591"
-       y="48.346916"
-       width="458.73932"
-       height="179.57526"
-       id="rect4166-5-6-6" />
-    <rect
-       x="52.06591"
-       y="48.346916"
-       width="458.73932"
-       height="179.57526"
        id="rect4166-5-6-9-5-3-4" />
     <rect
        x="52.06591"
@@ -203,18 +131,6 @@
        width="458.73932"
        height="179.57526"
        id="rect4166-5-6-9-5-3-9-0" />
-    <rect
-       x="52.06591"
-       y="48.346916"
-       width="458.73932"
-       height="179.57526"
-       id="rect4166-5-6-9-5-3-9-8" />
-    <rect
-       x="52.06591"
-       y="48.346916"
-       width="458.73932"
-       height="179.57526"
-       id="rect4166-5-6-9-5-3-9-6" />
     <rect
        x="52.06591"
        y="48.346916"
@@ -340,12 +256,6 @@
        y="48.346916"
        width="458.73932"
        height="179.57526"
-       id="rect4166-5-6-9-5-3-9-0-3-5-2" />
-    <rect
-       x="52.06591"
-       y="48.346916"
-       width="458.73932"
-       height="179.57526"
        id="rect4166-5-6-9-5-3-9-0-3-5-24" />
     <rect
        x="52.06591"
@@ -355,13 +265,8 @@
        id="rect4166-5-6-9-5-3-9-57-4" />
   </defs>
   <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
-     id="layer1">
-    <text
-       xml:space="preserve"
-       id="text4154"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;white-space:pre;shape-inside:url(#rect4156);display:inline;fill:#deaa87;stroke:#000000;stroke-width:1;stroke-dasharray:none;stroke-opacity:1" />
+     id="layer1"
+     transform="translate(0,-45.86763)">
     <g
        id="g1907"
        transform="matrix(1.0000037,0,0,0.99999996,-0.0025117,5.7636564e-6)"
@@ -381,7 +286,7 @@
          transform="translate(229.58087,89.101312)"><tspan
            x="125.79082"
            y="72.367805"
-           id="tspan4928">3 Tiempos de la Salvación</tspan></text>
+           id="tspan3160">3 Tiempos de la Salvación</tspan></text>
     </g>
     <g
        id="g1812"
@@ -403,11 +308,11 @@
          y="0"><tspan
            x="213.86795"
            y="67.56372"
-           id="tspan4930">Dirigiéndose 
+           id="tspan3162">Dirigiéndose 
 </tspan><tspan
            x="205.56588"
            y="94.230346"
-           id="tspan4932">a los Romanos</tspan></text>
+           id="tspan3164">a los Romanos</tspan></text>
     </g>
     <g
        id="g3226"
@@ -429,15 +334,15 @@
          y="0"><tspan
            x="222.36272"
            y="67.56372"
-           id="tspan4934">Los 3 Tipos
+           id="tspan3166">Los 3 Tipos
 </tspan><tspan
            x="266.02411"
            y="94.230346"
-           id="tspan4936">de 
+           id="tspan3168">de 
 </tspan><tspan
            x="227.4773"
            y="120.89697"
-           id="tspan4938">Pecadores</tspan></text>
+           id="tspan3170">Pecadores</tspan></text>
     </g>
     <g
        id="g1849"
@@ -459,15 +364,15 @@
          y="0"><tspan
            x="226.30022"
            y="67.56372"
-           id="tspan4940">El Pecador
+           id="tspan3172">El Pecador
 </tspan><tspan
            x="242.90957"
            y="94.230346"
-           id="tspan4942">Inmoral
+           id="tspan3174">Inmoral
 </tspan><tspan
            x="244.66998"
            y="120.89697"
-           id="tspan4944">1:18-32</tspan></text>
+           id="tspan3176">1:18-32</tspan></text>
     </g>
     <g
        id="g1856"
@@ -489,15 +394,15 @@
          y="0"><tspan
            x="226.30022"
            y="67.56372"
-           id="tspan4946">El Pecador
+           id="tspan3178">El Pecador
 </tspan><tspan
            x="252.98768"
            y="94.230346"
-           id="tspan4948">Moral
+           id="tspan3180">Moral
 </tspan><tspan
            x="250.60226"
            y="120.89697"
-           id="tspan4950">2:1-16</tspan></text>
+           id="tspan3182">2:1-16</tspan></text>
     </g>
     <g
        id="g1863"
@@ -519,15 +424,15 @@
          y="0"><tspan
            x="226.30022"
            y="67.56372"
-           id="tspan4952">El Pecador
+           id="tspan3184">El Pecador
 </tspan><tspan
            x="233.43041"
            y="94.230346"
-           id="tspan4954">Religioso
+           id="tspan3186">Religioso
 </tspan><tspan
            x="241.1179"
            y="120.89697"
-           id="tspan4956">2:17-3:8</tspan></text>
+           id="tspan3188">2:17-3:8</tspan></text>
     </g>
     <g
        id="g1869"
@@ -549,21 +454,21 @@
          y="0"><tspan
            x="204.39921"
            y="64.897058"
-           id="tspan4958">La Conclusión:
+           id="tspan3190">La Conclusión:
 </tspan><tspan
            x="217.43044"
            y="86.230356"
-           id="tspan4960">No hay justo
+           id="tspan3192">No hay justo
 </tspan><tspan
            x="224.55543"
            y="107.56365"
-           id="tspan4962">ni aún uno.
+           id="tspan3194">ni aún uno.
 </tspan><tspan
            x="251.1908"
            y="128.89695"
-           id="tspan4966"><tspan
+           id="tspan3198"><tspan
              style="font-weight:normal"
-             id="tspan4964">3:9-20</tspan></tspan></text>
+             id="tspan3196">3:9-20</tspan></tspan></text>
     </g>
     <g
        id="g1894"
@@ -584,17 +489,17 @@
          y="0"><tspan
            x="200.82109"
            y="67.56372"
-           id="tspan4968">La Justificación
+           id="tspan3200">La Justificación
 </tspan><tspan
            x="231.63354"
            y="94.230346"
-           id="tspan4970">Explicada
+           id="tspan3202">Explicada
 </tspan><tspan
            x="245.25852"
            y="120.89697"
-           id="tspan4974"><tspan
+           id="tspan3206"><tspan
              style="font-weight:normal"
-             id="tspan4972">3:21-31</tspan></tspan></text>
+             id="tspan3204">3:21-31</tspan></tspan></text>
     </g>
     <g
        id="g1888"
@@ -616,17 +521,17 @@
          y="0"><tspan
            x="200.82109"
            y="67.56372"
-           id="tspan4976">La Justificación
+           id="tspan3208">La Justificación
 </tspan><tspan
            x="212.67003"
            y="94.230346"
-           id="tspan4978">Ejemplificada
+           id="tspan3210">Ejemplificada
 </tspan><tspan
            x="251.1908"
            y="120.89697"
-           id="tspan4982"><tspan
+           id="tspan3214"><tspan
              style="font-weight:normal"
-             id="tspan4980">4:1-25</tspan></tspan></text>
+             id="tspan3212">4:1-25</tspan></tspan></text>
     </g>
     <g
        id="g1882"
@@ -647,17 +552,17 @@
          y="0"><tspan
            x="200.82109"
            y="67.56372"
-           id="tspan4984">La Justificación
+           id="tspan3216">La Justificación
 </tspan><tspan
            x="228.68563"
            y="94.230346"
-           id="tspan4986">Disfrutada
+           id="tspan3218">Disfrutada
 </tspan><tspan
            x="251.98247"
            y="120.89697"
-           id="tspan4990"><tspan
+           id="tspan3222"><tspan
              style="font-weight:normal"
-             id="tspan4988">5:1-11</tspan></tspan></text>
+             id="tspan3220">5:1-11</tspan></tspan></text>
     </g>
     <g
        id="g1876"
@@ -679,35 +584,35 @@
          y="0"><tspan
            x="204.68606"
            y="62.763728"
-           id="tspan4994"><tspan
+           id="tspan3226"><tspan
              style="font-size:18.6667px"
-             id="tspan4992">La Identificación:
+             id="tspan3224">La Identificación:
 </tspan></tspan><tspan
-           x="220.71864"
+           x="212.04503"
            y="79.830371"
-           id="tspan4998"><tspan
+           id="tspan3230"><tspan
              style="font-weight:normal"
-             id="tspan4996">En Adan todos
+             id="tspan3228">En Adan todos
 </tspan></tspan><tspan
-           x="204.1483"
+           x="193.10756"
            y="96.897013"
-           id="tspan5002"><tspan
+           id="tspan3234"><tspan
              style="font-weight:normal"
-             id="tspan5000">mueren - en Cristo
+             id="tspan3232">mueren - en Cristo
 </tspan></tspan><tspan
-           x="231.62882"
+           x="224.51376"
            y="113.96366"
-           id="tspan5008"><tspan
+           id="tspan3240"><tspan
              style="font-weight:normal"
-             id="tspan5004">todos viven.</tspan><tspan
+             id="tspan3236">todos viven.</tspan><tspan
              style="font-size:18.6667px"
-             id="tspan5006">
+             id="tspan3238">
 </tspan></tspan><tspan
-           x="250.47325"
+           x="246.05019"
            y="131.0303"
-           id="tspan5012"><tspan
+           id="tspan3244"><tspan
              style="font-weight:normal"
-             id="tspan5010">5:11-21</tspan></tspan></text>
+             id="tspan3242">5:11-21</tspan></tspan></text>
     </g>
     <g
        id="g3243"
@@ -731,7 +636,7 @@
            y="0"><tspan
              x="208.32734"
              y="65.161769"
-             id="tspan5014">SANTIFICACION</tspan></text>
+             id="tspan3246">SANTIFICACION</tspan></text>
       </g>
     </g>
     <g
@@ -754,7 +659,7 @@
          y="0"><tspan
            x="206.7733"
            y="65.161769"
-           id="tspan5016">GLORIFICACION</tspan></text>
+           id="tspan3248">GLORIFICACION</tspan></text>
     </g>
     <g
        id="g1923"
@@ -776,23 +681,23 @@
          y="0"><tspan
            x="214.97572"
            y="62.763728"
-           id="tspan5020"><tspan
+           id="tspan3252"><tspan
              style="font-size:17.3333px"
-             id="tspan5018">La Santificación
+             id="tspan3250">La Santificación
 </tspan></tspan><tspan
            x="243.85749"
            y="79.830371"
-           id="tspan5026"><tspan
+           id="tspan3258"><tspan
              style="font-weight:normal;font-size:17.3333px;-inkscape-font-specification:'Arial, Normal'"
-             id="tspan5022">Explicada</tspan><tspan
+             id="tspan3254">Explicada</tspan><tspan
              style="font-size:17.3333px"
-             id="tspan5024">
+             id="tspan3256">
 </tspan></tspan><tspan
            x="256.8617"
            y="96.897013"
-           id="tspan5030"><tspan
+           id="tspan3262"><tspan
              style="font-weight:normal;font-size:17.3333px;-inkscape-font-specification:'Arial, Normal'"
-             id="tspan5028">6:1-10</tspan></tspan></text>
+             id="tspan3260">6:1-10</tspan></tspan></text>
     </g>
     <g
        id="g1931"
@@ -814,23 +719,23 @@
          y="0"><tspan
            x="209.86315"
            y="60.961762"
-           id="tspan5034"><tspan
+           id="tspan3266"><tspan
              style="line-height:0.8"
-             id="tspan5032">La Santificación
+             id="tspan3264">La Santificación
 </tspan></tspan><tspan
            x="248.75515"
            y="76.828457"
-           id="tspan5040"><tspan
+           id="tspan3272"><tspan
              style="font-weight:normal;-inkscape-font-specification:'Arial, Normal'"
-             id="tspan5036">práctica</tspan><tspan
+             id="tspan3268">práctica</tspan><tspan
              style="line-height:0.9"
-             id="tspan5038">
+             id="tspan3270">
 </tspan></tspan><tspan
            x="250.47325"
-           y="93.628487"
-           id="tspan5044"><tspan
+           y="85.228472"
+           id="tspan3276"><tspan
              style="font-weight:normal;-inkscape-font-specification:'Arial, Normal'"
-             id="tspan5042">6:11-23</tspan></tspan></text>
+             id="tspan3274">6:11-23</tspan></tspan></text>
     </g>
     <g
        id="g1937"
@@ -851,21 +756,21 @@
          y="0"><tspan
            x="214.97572"
            y="62.763728"
-           id="tspan5048"><tspan
+           id="tspan3280"><tspan
              style="font-size:17.3333px"
-             id="tspan5046">La Santificación
+             id="tspan3278">La Santificación
 </tspan></tspan><tspan
            x="238.55086"
            y="79.830371"
-           id="tspan5052"><tspan
+           id="tspan3284"><tspan
              style="font-weight:normal;font-size:17.3333px;-inkscape-font-specification:'Arial, Normal'"
-             id="tspan5050">Reprobada
+             id="tspan3282">Reprobada
 </tspan></tspan><tspan
            x="256.8617"
            y="96.897013"
-           id="tspan5056"><tspan
+           id="tspan3288"><tspan
              style="font-weight:normal;font-size:17.3333px;-inkscape-font-specification:'Arial, Normal'"
-             id="tspan5054">7:1-25</tspan></tspan></text>
+             id="tspan3286">7:1-25</tspan></tspan></text>
     </g>
     <g
        id="g1943"
@@ -887,21 +792,21 @@
          y="0"><tspan
            x="214.97572"
            y="62.763728"
-           id="tspan5060"><tspan
+           id="tspan3292"><tspan
              style="font-size:17.3333px"
-             id="tspan5058">La Santificación
+             id="tspan3290">La Santificación
 </tspan></tspan><tspan
            x="231.80967"
            y="79.830371"
-           id="tspan5064"><tspan
+           id="tspan3296"><tspan
              style="font-weight:normal;font-size:17.3333px;-inkscape-font-specification:'Arial, Normal'"
-             id="tspan5062">Empoderado
+             id="tspan3294">Empoderado
 </tspan></tspan><tspan
            x="256.8617"
            y="96.897013"
-           id="tspan5068"><tspan
+           id="tspan3300"><tspan
              style="font-weight:normal;font-size:17.3333px;-inkscape-font-specification:'Arial, Normal'"
-             id="tspan5066">8:1-17</tspan></tspan></text>
+             id="tspan3298">8:1-17</tspan></tspan></text>
     </g>
     <g
        id="g1949"
@@ -922,21 +827,21 @@
          y="0"><tspan
            x="210.90222"
            y="62.763728"
-           id="tspan5072"><tspan
+           id="tspan3304"><tspan
              style="font-size:18.6667px"
-             id="tspan5070">La Glorificación
+             id="tspan3302">La Glorificación
 </tspan></tspan><tspan
            x="242.00123"
            y="79.830371"
-           id="tspan5076"><tspan
+           id="tspan3308"><tspan
              style="font-weight:normal;font-size:18.6667px;-inkscape-font-specification:'Arial, Normal'"
-             id="tspan5074">explicada
+             id="tspan3306">explicada
 </tspan></tspan><tspan
            x="249.78054"
            y="96.897013"
-           id="tspan5080"><tspan
+           id="tspan3312"><tspan
              style="font-weight:normal;font-size:18.6667px;-inkscape-font-specification:'Arial, Normal'"
-             id="tspan5078">8:18-30</tspan></tspan></text>
+             id="tspan3310">8:18-30</tspan></tspan></text>
     </g>
     <g
        id="g1956"
@@ -956,39 +861,39 @@
          transform="translate(314.28619,532.81389)"
          x="0"
          y="0"><tspan
-           x="216.61707"
+           x="213.72782"
            y="63.830393"
-           id="tspan5086"><tspan
+           id="tspan3318"><tspan
              style="font-size:18.6667px"
-             id="tspan5082">El Júbilo: </tspan><tspan
+             id="tspan3314">El Júbilo: </tspan><tspan
              style="font-weight:normal"
-             id="tspan5084">mas 
+             id="tspan3316">mas 
 </tspan></tspan><tspan
-           x="215.01746"
+           x="205.52942"
            y="83.030359"
-           id="tspan5090"><tspan
+           id="tspan3322"><tspan
              style="font-weight:normal"
-             id="tspan5088">que vencedores
+             id="tspan3320">que vencedores
 </tspan></tspan><tspan
-           x="239.93222"
+           x="234.00333"
            y="102.23033"
-           id="tspan5094"><tspan
+           id="tspan3326"><tspan
              style="font-weight:normal"
-             id="tspan5092">por medio
+             id="tspan3324">por medio
 </tspan></tspan><tspan
-           x="244.08847"
+           x="238.75332"
            y="121.43029"
-           id="tspan5100"><tspan
+           id="tspan3332"><tspan
              style="font-weight:normal"
-             id="tspan5096">de Cristo</tspan><tspan
+             id="tspan3328">de Cristo</tspan><tspan
              style="font-size:18.6667px"
-             id="tspan5098">
+             id="tspan3330">
 </tspan></tspan><tspan
            x="249.78054"
            y="140.63026"
-           id="tspan5104"><tspan
+           id="tspan3336"><tspan
              style="font-weight:normal;font-size:18.6667px;-inkscape-font-specification:'Arial, Normal'"
-             id="tspan5102">8:31-39</tspan></tspan></text>
+             id="tspan3334">8:31-39</tspan></tspan></text>
     </g>
     <g
        id="g1981"
@@ -1010,11 +915,11 @@
          y="0"><tspan
            x="230.46167"
            y="67.56372"
-           id="tspan5106">La Nación
+           id="tspan3338">La Nación
 </tspan><tspan
            x="238.14916"
            y="94.230346"
-           id="tspan5108">de Israel</tspan></text>
+           id="tspan3340">de Israel</tspan></text>
     </g>
     <g
        id="g1976"
@@ -1036,19 +941,19 @@
          y="0"><tspan
            x="239.94082"
            y="67.56372"
-           id="tspan5110">Pasado:
+           id="tspan3342">Pasado:
 </tspan><tspan
            x="241.1179"
            y="94.230346"
-           id="tspan5114"><tspan
+           id="tspan3346"><tspan
              style="font-weight:normal"
-             id="tspan5112">Escojida
+             id="tspan3344">Escojida
 </tspan></tspan><tspan
            x="251.1908"
            y="120.89697"
-           id="tspan5118"><tspan
+           id="tspan3350"><tspan
              style="font-weight:normal"
-             id="tspan5116">9:1-33</tspan></tspan></text>
+             id="tspan3348">9:1-33</tspan></tspan></text>
     </g>
     <g
        id="g1971"
@@ -1070,19 +975,19 @@
          y="0"><tspan
            x="232.82104"
            y="67.56372"
-           id="tspan5120">Presente:
+           id="tspan3352">Presente:
 </tspan><tspan
            x="227.47209"
            y="94.230346"
-           id="tspan5124"><tspan
+           id="tspan3356"><tspan
              style="font-weight:normal"
-             id="tspan5122">Rechazada
+             id="tspan3354">Rechazada
 </tspan></tspan><tspan
            x="245.25852"
            y="120.89697"
-           id="tspan5128"><tspan
+           id="tspan3360"><tspan
              style="font-weight:normal"
-             id="tspan5126">10:1-21</tspan></tspan></text>
+             id="tspan3358">10:1-21</tspan></tspan></text>
     </g>
     <g
        id="g1966"
@@ -1104,19 +1009,19 @@
          y="0"><tspan
            x="244.1179"
            y="67.56372"
-           id="tspan5130">Futuro:
+           id="tspan3362">Futuro:
 </tspan><tspan
            x="226.2898"
            y="94.230346"
-           id="tspan5134"><tspan
+           id="tspan3366"><tspan
              style="font-weight:normal"
-             id="tspan5132">Restaurada
+             id="tspan3364">Restaurada
 </tspan></tspan><tspan
            x="246.05019"
            y="120.89697"
-           id="tspan5138"><tspan
+           id="tspan3370"><tspan
              style="font-weight:normal"
-             id="tspan5136">11:1-32</tspan></tspan></text>
+             id="tspan3368">11:1-32</tspan></tspan></text>
     </g>
     <g
        id="g1961"
@@ -1138,25 +1043,25 @@
          y="0"><tspan
            x="210.91482"
            y="64.897058"
-           id="tspan5140">La Doxología:
+           id="tspan3372">La Doxología:
 </tspan><tspan
            x="219.18044"
            y="86.230356"
-           id="tspan5144"><tspan
+           id="tspan3376"><tspan
              style="font-weight:normal"
-             id="tspan5142">A Dios sea la
+             id="tspan3374">A Dios sea la
 </tspan></tspan><tspan
            x="252.38351"
            y="107.56365"
-           id="tspan5148"><tspan
+           id="tspan3380"><tspan
              style="font-weight:normal"
-             id="tspan5146">gloria.
+             id="tspan3378">gloria.
 </tspan></tspan><tspan
            x="240.1179"
            y="128.89695"
-           id="tspan5152"><tspan
+           id="tspan3384"><tspan
              style="font-weight:normal"
-             id="tspan5150">11:33-36</tspan></tspan></text>
+             id="tspan3382">11:33-36</tspan></tspan></text>
     </g>
     <g
        id="g1985"
@@ -1178,11 +1083,11 @@
          y="0"><tspan
            x="243.69081"
            y="67.56372"
-           id="tspan5154">La Vida
+           id="tspan3386">La Vida
 </tspan><tspan
            x="235.78979"
            y="94.230346"
-           id="tspan5156">Cristiana</tspan></text>
+           id="tspan3388">Cristiana</tspan></text>
     </g>
     <g
        id="g1990"
@@ -1204,21 +1109,21 @@
          y="0"><tspan
            x="225.70126"
            y="64.897058"
-           id="tspan5160"><tspan
+           id="tspan3392"><tspan
              style="font-weight:normal"
-             id="tspan5158">Sirviendo la
+             id="tspan3390">Sirviendo la
 </tspan></tspan><tspan
            x="250.60226"
            y="86.230356"
-           id="tspan5164"><tspan
+           id="tspan3396"><tspan
              style="font-weight:normal"
-             id="tspan5162">Iglesia
+             id="tspan3394">Iglesia
 </tspan></tspan><tspan
            x="245.25852"
            y="107.56365"
-           id="tspan5168"><tspan
+           id="tspan3400"><tspan
              style="font-weight:normal"
-             id="tspan5166">12:1-21</tspan></tspan></text>
+             id="tspan3398">12:1-21</tspan></tspan></text>
     </g>
     <g
        id="g1995"
@@ -1240,21 +1145,21 @@
          y="0"><tspan
            x="216.80544"
            y="64.897058"
-           id="tspan5172"><tspan
+           id="tspan3404"><tspan
              style="font-weight:normal"
-             id="tspan5170">Sirviendo a la
+             id="tspan3402">Sirviendo a la
 </tspan></tspan><tspan
            x="236.95645"
            y="86.230356"
-           id="tspan5176"><tspan
+           id="tspan3408"><tspan
              style="font-weight:normal"
-             id="tspan5174">Sociedad
+             id="tspan3406">Sociedad
 </tspan></tspan><tspan
            x="245.25852"
            y="107.56365"
-           id="tspan5180"><tspan
+           id="tspan3412"><tspan
              style="font-weight:normal"
-             id="tspan5178">13:1-14</tspan></tspan></text>
+             id="tspan3410">13:1-14</tspan></tspan></text>
     </g>
     <g
        id="g2000"
@@ -1276,21 +1181,21 @@
          y="0"><tspan
            x="211.47212"
            y="64.897058"
-           id="tspan5184"><tspan
+           id="tspan3416"><tspan
              style="font-weight:normal"
-             id="tspan5182">Sirviendo a los
+             id="tspan3414">Sirviendo a los
 </tspan></tspan><tspan
            x="245.86269"
            y="86.230356"
-           id="tspan5188"><tspan
+           id="tspan3420"><tspan
              style="font-weight:normal"
-             id="tspan5186">Débiles
+             id="tspan3418">Débiles
 </tspan></tspan><tspan
            x="245.25852"
            y="107.56365"
-           id="tspan5192"><tspan
+           id="tspan3424"><tspan
              style="font-weight:normal"
-             id="tspan5190">14:1-23</tspan></tspan></text>
+             id="tspan3422">14:1-23</tspan></tspan></text>
     </g>
     <g
        id="g2005"
@@ -1312,21 +1217,21 @@
          y="0"><tspan
            x="225.10751"
            y="64.897058"
-           id="tspan5196"><tspan
+           id="tspan3428"><tspan
              style="font-weight:normal"
-             id="tspan5194">Sirviendo a 
+             id="tspan3426">Sirviendo a 
 </tspan></tspan><tspan
            x="206.74296"
            y="86.230356"
-           id="tspan5200"><tspan
+           id="tspan3432"><tspan
              style="font-weight:normal"
-             id="tspan5198">traves de Cristo
+             id="tspan3430">traves de Cristo
 </tspan></tspan><tspan
            x="245.25852"
            y="107.56365"
-           id="tspan5204"><tspan
+           id="tspan3436"><tspan
              style="font-weight:normal"
-             id="tspan5202">15:1-33</tspan></tspan></text>
+             id="tspan3434">15:1-33</tspan></tspan></text>
     </g>
     <g
        id="g2010"
@@ -1349,29 +1254,30 @@
          y="0"><tspan
            x="200.22734"
            y="64.897058"
-           id="tspan5206">Saludos Finales
+           id="tspan3438">Saludos Finales
 </tspan><tspan
            x="219.77419"
            y="86.230356"
-           id="tspan5210"><tspan
+           id="tspan3442"><tspan
              style="font-weight:normal"
-             id="tspan5208">Advertencias
+             id="tspan3440">Advertencias
 </tspan></tspan><tspan
            x="229.8523"
            y="107.56365"
-           id="tspan5214"><tspan
+           id="tspan3446"><tspan
              style="font-weight:normal"
-             id="tspan5212">Especiales
+             id="tspan3444">Especiales
 </tspan></tspan><tspan
            x="245.25852"
            y="128.89695"
-           id="tspan5218"><tspan
+           id="tspan3450"><tspan
              style="font-weight:normal"
-             id="tspan5216">16:1-27</tspan></tspan></text>
+             id="tspan3448">16:1-27</tspan></tspan></text>
     </g>
     <g
        id="g1817"
-       data-fragment-index="2">
+       data-fragment-index="2"
+       class="fragment">
       <rect
          style="fill:#f9f9f9;stroke:#000000;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
          id="rect3032"
@@ -1388,7 +1294,7 @@
          y="0"><tspan
            x="226.29492"
            y="77.171798"
-           id="tspan5220">1:1 - 17</tspan></text>
+           id="tspan3452">1:1 - 17</tspan></text>
     </g>
     <g
        id="g1822"
@@ -1410,7 +1316,7 @@
          y="0"><tspan
            x="203.16992"
            y="77.171798"
-           id="tspan5222">1:18 - 3:20</tspan></text>
+           id="tspan3454">1:18 - 3:20</tspan></text>
     </g>
     <g
        id="g3237"
@@ -1432,7 +1338,7 @@
          y="0"><tspan
            x="199.65443"
            y="67.56372"
-           id="tspan5224">JUSTIFICACION</tspan></text>
+           id="tspan3456">JUSTIFICACION</tspan></text>
     </g>
     <g
        id="g1827"
@@ -1454,7 +1360,7 @@
          y="0"><tspan
            x="207.61523"
            y="77.171798"
-           id="tspan5226">3:21- 5:21</tspan></text>
+           id="tspan3458">3:21- 5:21</tspan></text>
     </g>
     <g
        id="g1832"
@@ -1476,7 +1382,7 @@
          y="0"><tspan
            x="249.41992"
            y="77.171798"
-           id="tspan5228">6 - 8</tspan></text>
+           id="tspan3460">6 - 8</tspan></text>
     </g>
     <g
        id="g1837"
@@ -1498,7 +1404,7 @@
          y="0"><tspan
            x="241.4043"
            y="77.171798"
-           id="tspan5230">9 - 11</tspan></text>
+           id="tspan3462">9 - 11</tspan></text>
     </g>
     <g
        id="g1842"
@@ -1520,7 +1426,7 @@
          y="0"><tspan
            x="231.62305"
            y="77.171798"
-           id="tspan5232">12 - 16</tspan></text>
+           id="tspan3464">12 - 16</tspan></text>
     </g>
     <g
        id="g3199"
@@ -1542,21 +1448,21 @@
          y="0"><tspan
            x="206.13879"
            y="65.963723"
-           id="tspan5236">El deber <tspan
+           id="tspan3468">El deber <tspan
    style="font-weight:normal;-inkscape-font-specification:'Arial, Normal'"
-   id="tspan5234">de dar
+   id="tspan3466">de dar
 </tspan></tspan><tspan
            x="224.50335"
            y="89.430352"
-           id="tspan5240"><tspan
+           id="tspan3472"><tspan
    style="font-weight:normal;-inkscape-font-specification:'Arial, Normal'"
-   id="tspan5238">el evangelio</tspan>
+   id="tspan3470">el evangelio</tspan>
 </tspan><tspan
            x="257.12309"
            y="112.89698"
-           id="tspan5244"><tspan
+           id="tspan3476"><tspan
              style="font-weight:normal;-inkscape-font-specification:'Arial, Normal'"
-             id="tspan5242">1:1-7</tspan></tspan></text>
+             id="tspan3474">1:1-7</tspan></tspan></text>
     </g>
     <g
        id="g3206"
@@ -1578,21 +1484,21 @@
          y="0"><tspan
            x="209.11795"
            y="65.963723"
-           id="tspan5248">El corazón<tspan
+           id="tspan3480">El corazón<tspan
    style="font-weight:normal;-inkscape-font-specification:'Arial, Normal'"
-   id="tspan5246"> por
+   id="tspan3478"> por
 </tspan></tspan><tspan
            x="219.18565"
            y="89.430352"
-           id="tspan5252"><tspan
+           id="tspan3484"><tspan
    style="font-weight:normal;-inkscape-font-specification:'Arial, Normal'"
-   id="tspan5250">los Romanos</tspan>
+   id="tspan3482">los Romanos</tspan>
 </tspan><tspan
            x="251.1908"
            y="112.89698"
-           id="tspan5256"><tspan
+           id="tspan3488"><tspan
              style="font-weight:normal;-inkscape-font-specification:'Arial, Normal'"
-             id="tspan5254">1:8-15</tspan></tspan></text>
+             id="tspan3486">1:8-15</tspan></tspan></text>
     </g>
     <g
        id="g3213"
@@ -1614,27 +1520,27 @@
          y="0"><tspan
            x="212.67003"
            y="65.963723"
-           id="tspan5260">La Pasión <tspan
+           id="tspan3492">La Pasión <tspan
    style="font-weight:normal;-inkscape-font-specification:'Arial, Normal'"
-   id="tspan5258">por
+   id="tspan3490">por
 </tspan></tspan><tspan
            x="231.63354"
            y="89.430352"
-           id="tspan5264"><tspan
+           id="tspan3496"><tspan
              style="font-weight:normal;-inkscape-font-specification:'Arial, Normal'"
-             id="tspan5262">predicar el
+             id="tspan3494">predicar el
 </tspan></tspan><tspan
            x="234.58666"
            y="112.89698"
-           id="tspan5268"><tspan
+           id="tspan3500"><tspan
    style="font-weight:normal;-inkscape-font-specification:'Arial, Normal'"
-   id="tspan5266">Evangelio</tspan>
+   id="tspan3498">Evangelio</tspan>
 </tspan><tspan
            x="260.67516"
            y="136.36361"
-           id="tspan5272"><tspan
+           id="tspan3504"><tspan
              style="font-weight:normal;-inkscape-font-specification:'Arial, Normal'"
-             id="tspan5270">1:16</tspan></tspan></text>
+             id="tspan3502">1:16</tspan></tspan></text>
     </g>
     <g
        id="g3219"
@@ -1657,46 +1563,30 @@
          y="0"><tspan
            x="221.58147"
            y="64.897058"
-           id="tspan5274">El Producto
+           id="tspan3506">El Producto
 </tspan><tspan
            x="215.63878"
            y="86.230356"
-           id="tspan5276">el Evangelio:
+           id="tspan3508">el Evangelio:
 </tspan><tspan
            x="206.13358"
            y="107.56365"
-           id="tspan5280"><tspan
+           id="tspan3512"><tspan
              style="font-weight:normal"
-             id="tspan5278">el justo por la fe
+             id="tspan3510">el justo por la fe
 </tspan></tspan><tspan
            x="256.54496"
            y="128.89695"
-           id="tspan5284"><tspan
+           id="tspan3516"><tspan
              style="font-weight:normal"
-             id="tspan5282">vivirá
+             id="tspan3514">vivirá
 </tspan></tspan><tspan
            x="245.25852"
            y="150.23025"
-           id="tspan5288"><tspan
+           id="tspan3520"><tspan
              style="font-weight:normal"
-             id="tspan5286">1:17-18</tspan></tspan></text>
+             id="tspan3518">1:17-18</tspan></tspan></text>
     </g>
-    <text
-       xml:space="preserve"
-       id="text953"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.3333px;line-height:0.8;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;white-space:pre;shape-inside:url(#rect955);display:inline;fill:#ffffff;stroke:#000000;stroke-width:0.4" />
-    <text
-       xml:space="preserve"
-       id="text1051"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;line-height:0.8;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;white-space:pre;shape-inside:url(#rect1053);display:inline;fill:#ffffff;stroke:#000000;stroke-width:0.4" />
-    <text
-       xml:space="preserve"
-       id="text1057"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;line-height:0.8;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;white-space:pre;shape-inside:url(#rect1059);display:inline;fill:#ffffff;stroke:#000000;stroke-width:0.4" />
-    <text
-       xml:space="preserve"
-       id="text1063"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;line-height:0.8;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;white-space:pre;shape-inside:url(#rect1065);display:inline;fill:#ffffff;stroke:#000000;stroke-width:0.4" />
     <text
        xml:space="preserve"
        id="text2012"
@@ -1704,6 +1594,6 @@
        transform="translate(-309.46891,19.116548)"><tspan
          x="553.82607"
          y="54.025019"
-         id="tspan5290">Bosquejo del Libro de Romanos</tspan></text>
+         id="tspan3522">Bosquejo del Libro de Romanos</tspan></text>
   </g>
 </svg>
