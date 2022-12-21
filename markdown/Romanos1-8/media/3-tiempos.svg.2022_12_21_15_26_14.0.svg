@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="animation"
+   width="900"
+   height="600.01001"
+   version="1.1"
+   viewBox="0 0 238.00051 159.00266"
+   sodipodi:docname="3-tiempos.svg"
+   inkscape:version="1.2.2 (b0a84865, 2022-12-01)"
+   inkscape:export-filename="3-tiempos.svg"
+   inkscape:export-xdpi="85.333328"
+   inkscape:export-ydpi="85.333328"
+   inkscape:dataloss="true"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview206"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="false"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.85426714"
+     inkscape:cx="455.36107"
+     inkscape:cy="335.37518"
+     inkscape:window-width="1497"
+     inkscape:window-height="825"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g2736" />
+  <defs
+     id="defs115">
+    <rect
+       x="92.415092"
+       y="12.373343"
+       width="689.6604"
+       height="36.683262"
+       id="rect2678" />
+  </defs>
+  <g
+     id="g2736"
+     transform="translate(0.02799748,0.00133142)">
+    <g
+       id="cross-group"
+       transform="matrix(0.35,0,0,0.35,13.92812,-45.238087)"
+       fill="#01000a"
+       stroke="#000000"
+       stroke-opacity="null"
+       stroke-width="null"
+       data-fragment-index="2"
+       class="fragment"><rect
+   id="svg_6"
+   x="28"
+   y="320"
+   width="18"
+   height="100"
+   opacity="undefined" />
+<rect
+   id="svg_7"
+   x="9"
+   y="338"
+   width="55"
+   height="15"
+   opacity="undefined" />
+</g>
+    <path
+       id="path7163"
+       d="M 15,102 H 220 Z"
+       fill="none"
+       stroke="#000000"
+       stroke-width="0.27px" />
+    <path
+       id="path7226"
+       d="m 42.35312,31.078562 h -2.6 v -2.6 c 0,-0.35 -0.29,-0.64 -0.64,-0.64 h -1.3 c -0.35,0 -0.64,0.29 -0.64,0.64 v 2.6 h -2.6 c -0.35,0 -0.64,0.29 -0.64,0.64 v 1.3 c 0,0.35 0.29,0.64 0.64,0.64 h 2.6 v 2.6 c 0,0.35 0.29,0.64 0.64,0.64 h 1.3 c 0.35,0 0.64,-0.29 0.64,-0.64 v -2.6 h 2.6 c 0.35,0 0.64,-0.29 0.64,-0.64 v -1.3 c 0,-0.35 -0.29,-0.64 -0.64,-0.64 z m -16,1.9 c 2.8,0 5.1,-2.3 5.1,-5.1 0,-2.8 -2.3,-5.1 -5.1,-5.1 -2.8,0 -5.1,2.3 -5.1,5.1 0,2.8 2.3,5.1 5.1,5.1 z m 3.6,1.3 h -0.67 c -0.89,0.41 -1.9,0.64 -2.9,0.64 -1,0 -2,-0.23 -2.9,-0.64 h -0.67 c -3,0 -5.4,2.4 -5.4,5.4 v 1.7 c 0,1.1 0.86,1.9 1.9,1.9 h 14 c 1.1,0 1.9,-0.86 1.9,-1.9 v -1.7 c 0,-3 -2.4,-5.4 -5.4,-5.4 z"
+       fill="#008000"
+       stroke-width="0.04" />
+    <rect
+       id="rect7311"
+       x="30.2001"
+       y="96.000092"
+       width="177.59981"
+       height="5.4998255"
+       fill="#00d455"
+       fill-rule="evenodd"
+       stroke="#000000"
+       stroke-linejoin="round"
+       stroke-width="0.0970835"
+       class="fragment"
+       data-fragment-index="6" />
+    <g
+       id="g2632"
+       class="fragment"
+       data-fragment-index="7"
+       transform="translate(2.4006357)">
+      <g
+         id="man">
+        <path
+           id="path7237"
+           d="m 122,74 c 1.4,0 2.6,-1.2 2.6,-2.6 0,-1.4 -1.2,-2.6 -2.6,-2.6 -1.4,0 -2.6,1.2 -2.6,2.6 0,1.4 1.2,2.6 2.6,2.6 z m 5.1,8 -1.2,-0.63 -0.52,-1.6 c -0.79,-2.4 -3,-4.1 -5.5,-4.1 -1.9,-0.0056 -3,0.54 -5,1.4 -1.2,0.47 -2.1,1.4 -2.7,2.5 l -0.36,0.73 c -0.42,0.85 -0.08,1.9 0.76,2.3 0.84,0.42 1.9,0.08 2.3,-0.77 l 0.36,-0.73 c 0.19,-0.38 0.5,-0.67 0.88,-0.83 l 1.4,-0.58 -0.81,3.3 c -0.28,1.1 0.022,2.3 0.8,3.2 l 3.2,3.5 c 0.39,0.42 0.66,0.93 0.8,1.5 l 0.98,3.9 c 0.23,0.92 1.2,1.5 2.1,1.2 0.92,-0.23 1.5,-1.2 1.2,-2.1 l -1.2,-4.8 c -0.14,-0.55 -0.41,-1.1 -0.8,-1.5 l -2.4,-2.7 0.92,-3.7 0.29,0.88 c 0.28,0.86 0.9,1.6 1.7,2 l 1.2,0.63 c 0.84,0.42 1.9,0.08 2.3,-0.77 0.41,-0.84 0.075,-1.9 -0.77,-2.3 z m -12,7.5 c -0.17,0.43 -0.43,0.83 -0.76,1.2 l -2.7,2.7 c -0.67,0.67 -0.67,1.8 0,2.4 0.67,0.67 1.8,0.67 2.4,0 l 3.2,-3.2 c 0.33,-0.33 0.58,-0.72 0.76,-1.2 l 0.72,-1.8 c -3,-3.2 -2.1,-2.2 -2.5,-2.9 z"
+           fill="#00d455"
+           stroke="#000000"
+           stroke-width="0.054" />
+      </g>
+      <text
+         id="text7315"
+         transform="translate(116.49467,100.09508)"
+         x="30.84033"
+         fill="#ffffff"
+         font-family="sans-serif"
+         font-size="4.2px"
+         text-align="center"
+         style="line-height:1.25;white-space:pre;shape-inside:url(#rect7317);display:inline"
+         xml:space="preserve"><tspan
+           x="-29.268749"
+           y="0"
+           id="tspan1282"><tspan
+             style="font-weight:bold;text-anchor:middle"
+             id="tspan1280">El Creyente en el Tiempo</tspan></tspan></text>
+    </g>
+    <g
+       id="g11769"
+       data-fragment-index="8">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.180465;stroke-dasharray:none;stroke-opacity:1"
+         id="rect11742"
+         width="54.596508"
+         height="23.488817"
+         x="95.886559"
+         y="42.266888" />
+      <g
+         id="g7828"
+         data-fragment-index="8"
+         class="fragment">
+        <text
+           id="text7248-4"
+           transform="translate(122.05341,50.297289)"
+           x="19.825495"
+           text-align="center"
+           style="font-size:4.9px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect7250-8);display:inline;fill:#000000"
+           xml:space="preserve"
+           class="fragment"
+           data-fragment-index="8"><tspan
+             x="-22.5979"
+             y="0"
+             id="tspan1274"><tspan
+               style="font-weight:bold;text-anchor:middle"
+               id="tspan1272">SANTIFICACION</tspan></tspan></text>
+        <text
+           id="text7321"
+           transform="translate(121.99958,56.193897)"
+           x="21.052982"
+           text-align="center"
+           style="font-size:4.9px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect7323);display:inline;fill:#000000"
+           xml:space="preserve"
+           class="fragment"
+           data-fragment-index="9"
+           y="0"><tspan
+             x="-22.224659"
+             y="0"
+             id="tspan1286"
+             style="text-align:center;text-anchor:middle">Siendo salvos del 
+<tspan
+   style="font-style:italic;text-align:center;text-anchor:middle"
+   id="tspan1288">PODER</tspan> del pecado</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g11785"
+       data-fragment-index="3"
+       class="fragment">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.180465;stroke-dasharray:none;stroke-opacity:1"
+         id="rect10782"
+         width="48.082153"
+         height="23.308352"
+         x="5.1774464"
+         y="42.357121" />
+      <g
+         id="g9047"
+         transform="translate(1.415,-0.92143912)">
+        <text
+           id="text7248"
+           transform="translate(5.0841247,49.83657)"
+           style="font-size:4.9px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect7250);display:inline;fill:#000000"
+           xml:space="preserve"
+           data-fragment-index="3"
+           class="fragment"><tspan
+             x="0"
+             y="0"
+             id="tspan1270"><tspan
+               style="font-weight:bold"
+               id="tspan1268">JUSTIFICACION</tspan></tspan></text>
+        <text
+           id="text7321-6"
+           transform="translate(26.76567,56.554881)"
+           x="40.676907"
+           text-align="center"
+           style="font-size:4.9px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect7323-5);display:inline;fill:#000000"
+           xml:space="preserve"
+           data-fragment-index="4"
+           class="fragment"
+           y="0"><tspan
+             x="-19.506689"
+             y="0"
+             id="tspan1296"
+             style="text-align:center;text-anchor:middle">Nos salvo de la 
+PENA de pecado</tspan></text>
+      </g>
+    </g>
+    <g
+       id="glorification-cloud"
+       class="fragment  fade-up"
+       data-fragment-index="12"
+       transform="translate(1.1209007)">
+      <path
+         id="path7169"
+         d="m 216,31 c 0.19,-0.54 0.29,-1.1 0.29,-1.8 0,-2.7 -2,-4.9 -4.4,-4.9 -0.9,0 -1.7,0.31 -2.4,0.82 -1.3,-2.4 -3.6,-4.1 -6.4,-4.1 -4.1,0 -7.3,3.6 -7.3,8.1 0,0.14 0.005,0.27 0.01,0.41 -2.6,1 -4.4,3.7 -4.4,6.9 0,4 3,7.3 6.6,7.3 h 17 c 3.2,0 5.9,-2.9 5.9,-6.5 0,-3.2 -2,-5.8 -4.7,-6.4 z m -6.6,3.1 h -3 v 5.7 c 0,0.45 -0.33,0.81 -0.73,0.81 h -2.2 c -0.4,0 -0.73,-0.37 -0.73,-0.81 v -5.7 h -3 c -0.66,0 -0.98,-0.88 -0.52,-1.4 l 4.8,-5.4 c 0.28,-0.32 0.75,-0.32 1,0 l 4.8,5.4 c 0.46,0.51 0.13,1.4 -0.52,1.4 z"
+         fill="#ab37c8"
+         stroke-width="0.048" />
+    </g>
+    <g
+       id="g11759"
+       data-fragment-index="12">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.180465;stroke-dasharray:none;stroke-opacity:1"
+         id="rect11744"
+         width="57.388374"
+         height="27.295181"
+         x="178.04007"
+         y="43.73" />
+      <text
+         id="text7248-0"
+         transform="translate(184.61677,50.679568)"
+         style="font-size:4.9px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect7250-6);display:inline;fill:#000000"
+         xml:space="preserve"
+         class="fragment"
+         data-fragment-index="13"><tspan
+           x="0"
+           y="0"
+           id="tspan1278"><tspan
+             style="font-weight:bold"
+             id="tspan1276">GLORIFICACION</tspan></tspan></text>
+      <text
+         id="text7321-3"
+         transform="translate(207.23023,57.789439)"
+         x="43.879375"
+         text-align="center"
+         style="font-size:4.9px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect7323-8);display:inline;fill:#000000"
+         xml:space="preserve"
+         class="fragment"
+         data-fragment-index="14"
+         y="0"><tspan
+           x="0"
+           y="0"
+           id="tspan1304"
+           style="text-align:center;text-anchor:middle"><tspan
+             style="text-align:center;text-anchor:middle;shape-inside:url(#rect7323-8)"
+             id="tspan1302">Seremos salvos de
+la </tspan><tspan
+             style="font-style:italic;text-align:center;text-anchor:middle"
+             id="tspan1308">PRESENCIA</tspan><tspan
+             style="text-align:center;text-anchor:middle;shape-inside:url(#rect7323-8)"
+             id="tspan1310"> del
+pecado</tspan></tspan></text>
+    </g>
+    <path
+       id="path7438"
+       d="m 219.92686,79.19234 -8.6,-6.7 c -0.78,-0.61 -2.1,-0.61 -2.9,0 l -8.6,6.7 c -1.2,0.91 -0.28,2.4 1.5,2.4 h 5.3 v 16 h -6.9 a 0.99,0.72 0 0 0 -0.7,0.21 l -4.6,3.3 c -0.63,0.45 -0.18,1.2 0.7,1.2 h 16 c 1.1,0 2,-0.64 2,-1.4 v -20 h 5.3 c 1.7,0 2.6,-1.5 1.5,-2.4 z"
+       fill="#00d455"
+       stroke-width="0.07"
+       class="fragment fade-up"
+       data-fragment-index="11" />
+    <text
+       id="text7457"
+       x="204.22458"
+       y="79.384445"
+       fill="#ffffff"
+       font-family="sans-serif"
+       font-size="3.5px"
+       stroke-width="0.26"
+       style="line-height:1.25"
+       xml:space="preserve"><tspan
+         id="tspan7455"
+         x="204.22458"
+         y="79.384445"
+         fill="#ffffff"
+         font-size="3.5px"
+         stroke-width="0.26">Rapto</tspan></text>
+    <g
+       id="tit3.5"
+       transform="translate(2.3999996)"
+       data-fragment-index="5"
+       class="fragment fade-up">
+      <rect
+         id="rect7487"
+         x="9.1000004"
+         y="102"
+         width="215"
+         height="18"
+         fill="#008000"
+         fill-rule="evenodd"
+         stroke="#000000"
+         stroke-linejoin="round"
+         stroke-width="0.1" />
+      <text
+         id="text7461"
+         x="13.63754"
+         y="109.55846"
+         fill="#ffffff"
+         font-family="sans-serif"
+         font-size="6.4px"
+         font-weight="bold"
+         stroke-width="0.26"
+         style="line-height:1.05"
+         xml:space="preserve"><tspan
+           id="tspan7459"
+           x="13.63754"
+           y="109.55846"
+           style="font-weight:normal">Tito 3:5 <tspan
+   style="font-weight:bold"
+   id="tspan730">nos salvó</tspan>...no por obras de justicia que nosotros </tspan><tspan
+           id="tspan7477"
+           x="13.63754"
+           y="116.27846"
+           style="font-weight:normal">hubiéramos hecho sino por su misericordia...</tspan></text>
+    </g>
+    <g
+       id="1co1.18"
+       transform="translate(2.3999996)"
+       class="fragment fade-up"
+       data-fragment-index="10">
+      <rect
+         id="rect7487-2"
+         x="9.1000004"
+         y="120"
+         width="215"
+         height="18"
+         fill="#00d455"
+         fill-rule="evenodd"
+         stroke="#000000"
+         stroke-linejoin="round"
+         stroke-width="0.1" />
+      <text
+         id="text7465"
+         x="12.54438"
+         y="126.74744"
+         fill="#ffffff"
+         font-family="sans-serif"
+         font-size="6.4px"
+         font-weight="bold"
+         stroke-width="0.26"
+         style="line-height:1.25"
+         xml:space="preserve"><tspan
+           id="tspan7475"
+           x="12.54438"
+           y="126.74744"
+           style="font-weight:normal">1Corintios 1:18  Porque la palabra de la cruz es...a los que</tspan><tspan
+           id="tspan7485"
+           x="12.54438"
+           y="134.74744"
+           style="font-weight:normal"> <tspan
+   style="font-weight:bold"
+   id="tspan732">se salvan</tspan>...es poder de Dios.</tspan></text>
+    </g>
+    <g
+       id="rom5.9"
+       transform="translate(2.3999996)"
+       class="fragment fade-up"
+       data-fragment-index="15">
+      <rect
+         id="rect7487-5"
+         x="9.1000004"
+         y="138"
+         width="215"
+         height="18"
+         fill="#ab37c8"
+         fill-rule="evenodd"
+         stroke="#000000"
+         stroke-linejoin="round"
+         stroke-width="0.1" />
+      <text
+         id="text7469"
+         transform="scale(1,0.98)"
+         x="12.578422"
+         y="147.80064"
+         fill="#ffffff"
+         font-family="sans-serif"
+         font-size="6.5px"
+         font-weight="bold"
+         stroke-width="0.27"
+         style="line-height:1.25"
+         xml:space="preserve"><tspan
+           id="tspan7471"
+           x="12.578422"
+           y="147.80064"
+           style="font-weight:normal">Romanos 5:9 ...estando ya justificados...por él <tspan
+   style="font-weight:bold"
+   id="tspan726">seremos </tspan></tspan><tspan
+           id="tspan7481"
+           x="12.578422"
+           y="155.92564"
+           style="font-weight:normal"><tspan
+   style="font-weight:bold"
+   id="tspan728">salvos</tspan> de la ira.</tspan></text>
+    </g>
+    <rect
+       style="fill:none;stroke:none;stroke-width:0.106;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1196"
+       width="238.50002"
+       height="159.00267"
+       x="-0.25011238"
+       y="-0.001331424" />
+    <path
+       id="path7163-5"
+       d="M 31,13 H 207 Z"
+       fill="none"
+       stroke="#000000"
+       stroke-width="0.25px" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.265,0,0,0.265,22.447006,0)"
+       id="text2676"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:29.3333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect2678);display:inline;fill:#999999;stroke:#000000;stroke-width:0.2;stroke-dasharray:none;stroke-opacity:1"><tspan
+         x="92.416016"
+         y="39.134705"
+         id="tspan1318">Los Tres Tiempos de la Salvacion</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.180465;stroke-dasharray:none;stroke-opacity:1"
+       id="rect11790"
+       width="176"
+       height="10.829879"
+       x="31.000002"
+       y="2.1701205" />
+  </g>
+</svg>
