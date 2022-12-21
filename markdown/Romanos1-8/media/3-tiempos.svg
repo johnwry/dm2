@@ -143,9 +143,9 @@
        xml:space="preserve"><tspan
          x="-91.160889"
          y="0"
-         id="tspan4747"><tspan
+         id="tspan4984"><tspan
            style="text-anchor:middle"
-           id="tspan4745">Los Tres Tiempos de la Salvacion</tspan></tspan></text>
+           id="tspan4982">Los Tres Tiempos de la Salvacion</tspan></tspan></text>
     <g
        id="plus-icon"
        data-fragment-index="2"
@@ -195,9 +195,9 @@
          xml:space="preserve"><tspan
            x="-29.268749"
            y="0"
-           id="tspan4751"><tspan
+           id="tspan4988"><tspan
              style="font-weight:bold;text-anchor:middle"
-             id="tspan4749">El Creyente en el Tiempo</tspan></tspan></text>
+             id="tspan4986">El Creyente en el Tiempo</tspan></tspan></text>
     </g>
     <path
        id="path7438"
@@ -333,7 +333,9 @@
            sodipodi:role="line">salvos de la ira.</tspan></text>
     </g>
     <g
-       id="g4540">
+       id="g4540"
+       class="fragment"
+       data-fragment-index="8">
       <rect
          style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.277215"
          id="rect2852"
@@ -348,9 +350,9 @@
          style="font-size:18.6667px;line-height:0.8;font-family:Arial;-inkscape-font-specification:'Arial, Normal';text-align:center;white-space:pre;shape-inside:url(#rect4091);fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.1"><tspan
            x="375.17956"
            y="178.85629"
-           id="tspan4755"><tspan
+           id="tspan4992"><tspan
              style="fill:#000000"
-             id="tspan4753">SANTIFICACION</tspan></tspan></text>
+             id="tspan4990">SANTIFICACION</tspan></tspan></text>
       <text
          xml:space="preserve"
          transform="matrix(0.265,0,0,0.31160087,0.37765156,-12.946514)"
@@ -358,13 +360,15 @@
          style="font-size:18.6667px;line-height:0.8;font-family:Arial;-inkscape-font-specification:'Arial, Normal';text-align:center;white-space:pre;shape-inside:url(#rect4097);fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.1"><tspan
            x="374.09948"
            y="221.58481"
-           id="tspan4757">Siendo salvos del </tspan><tspan
+           id="tspan4994">Siendo salvos del </tspan><tspan
            x="365.80519"
            y="236.51817"
-           id="tspan4759">PODER del pecado</tspan></text>
+           id="tspan4996">PODER del pecado</tspan></text>
     </g>
     <g
-       id="g4533">
+       id="g4533"
+       class="fragment"
+       data-fragment-index="12">
       <rect
          style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.259362"
          id="rect2854"
@@ -379,9 +383,9 @@
          style="font-size:18.6667px;line-height:0.8;font-family:Arial;-inkscape-font-specification:'Arial, Normal';text-align:center;white-space:pre;shape-inside:url(#rect4452);fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.1"><tspan
            x="701.07994"
            y="185.32114"
-           id="tspan4763"><tspan
+           id="tspan5000"><tspan
              style="font-weight:bold"
-             id="tspan4761">GLORIFICACION</tspan></tspan></text>
+             id="tspan4998">GLORIFICACION</tspan></tspan></text>
       <text
          xml:space="preserve"
          transform="matrix(0.265,0,0,0.265,-0.25836309,-5.83)"
@@ -389,18 +393,20 @@
          style="font-size:18.6667px;line-height:0.8;font-family:Arial;-inkscape-font-specification:'Arial, Normal';text-align:center;white-space:pre;shape-inside:url(#rect4458);fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.1"><tspan
            x="698.46307"
            y="224.33481"
-           id="tspan4765">Seremos salvos de
+           id="tspan5002">Seremos salvos de
 </tspan><tspan
            x="699.50214"
            y="239.26817"
-           id="tspan4767">la PRESENCIA del
+           id="tspan5004">la PRESENCIA del
 </tspan><tspan
            x="747.21251"
            y="254.20154"
-           id="tspan4769">pecado</tspan></text>
+           id="tspan5006">pecado</tspan></text>
     </g>
     <g
-       id="g4526">
+       id="g4526"
+       data-fragment-index="3"
+       class="fragment">
       <rect
          style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.27582"
          id="rect1932"
@@ -415,9 +421,9 @@
          style="font-size:18.6667px;line-height:0.8;font-family:Arial;-inkscape-font-specification:'Arial, Normal';text-align:center;white-space:pre;shape-inside:url(#rect4464);fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.1"><tspan
            x="31.927605"
            y="179.40707"
-           id="tspan4773"><tspan
+           id="tspan5010"><tspan
              style="font-weight:bold"
-             id="tspan4771">JUSTIFICACION</tspan></tspan></text>
+             id="tspan5008">JUSTIFICACION</tspan></tspan></text>
       <text
          xml:space="preserve"
          transform="matrix(0.265,0,0,0.265,-3.6020288,-2.6046155)"
@@ -425,11 +431,11 @@
          style="font-size:18.6667px;line-height:0.8;font-family:Arial;-inkscape-font-specification:'Arial, Normal';text-align:center;white-space:pre;shape-inside:url(#rect4515);fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.1"><tspan
            x="47.580935"
            y="217.93246"
-           id="tspan4775">Nos salvó de la 
+           id="tspan5012">Nos salvó de la 
 </tspan><tspan
            x="40.822459"
            y="232.86583"
-           id="tspan4777">PENA del pecado</tspan></text>
+           id="tspan5014">PENA del pecado</tspan></text>
     </g>
   </g>
 </svg>
