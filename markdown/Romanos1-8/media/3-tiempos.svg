@@ -3,49 +3,14 @@
    id="svg6548"
    width="864.98431"
    height="580.21667"
-   inkscape:version="1.2.2 (b0a84865, 2022-12-01)"
-   sodipodi:docname="3-tiempos.svg"
    version="1.1"
    viewBox="0 0 228.7403 153.75742"
-   inkscape:dataloss="true"
-   inkscape:export-filename="3-tiempos.svg"
-   inkscape:export-xdpi="96"
-   inkscape:export-ydpi="96"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
      id="defs115" />
-  <sodipodi:namedview
-     id="base"
-     width="900mm"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:current-layer="layer1"
-     inkscape:cx="419.0064"
-     inkscape:cy="309.33358"
-     inkscape:document-rotation="0"
-     inkscape:document-units="mm"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:window-height="842"
-     inkscape:window-maximized="0"
-     inkscape:window-width="1512"
-     inkscape:window-x="0"
-     inkscape:window-y="38"
-     inkscape:zoom="0.8890079"
-     pagecolor="#ffffff"
-     showgrid="false"
-     showguides="true"
-     units="px"
-     inkscape:showpageshadow="2"
-     inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1" />
   <g
      id="layer1"
-     inkscape:groupmode="layer"
-     inkscape:label="animation"
      transform="translate(-2.835101,-2.2925763)">
     <g
        id="cross-group"
@@ -106,9 +71,9 @@
        xml:space="preserve"><tspan
          x="-91.160889"
          y="0"
-         id="tspan3495"><tspan
+         id="tspan3755"><tspan
            style="text-anchor:middle"
-           id="tspan3493">Los Tres Tiempos de la Salvacion</tspan></tspan></text>
+           id="tspan3753">Los Tres Tiempos de la Salvacion</tspan></tspan></text>
     <g
        id="plus-icon"
        data-fragment-index="2"
@@ -158,12 +123,14 @@
          xml:space="preserve"><tspan
            x="-29.268749"
            y="0"
-           id="tspan3499"><tspan
+           id="tspan3759"><tspan
              style="font-weight:bold;text-anchor:middle"
-             id="tspan3497">El Creyente en el Tiempo</tspan></tspan></text>
+             id="tspan3757">El Creyente en el Tiempo</tspan></tspan></text>
     </g>
     <g
-       id="g2985">
+       id="g2985"
+       class="fragment"
+       data-fragment-index="8">
       <rect
          style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.2915"
          id="rect2852"
@@ -182,9 +149,9 @@
          data-fragment-index="8"><tspan
            x="-22.597901"
            y="0"
-           id="tspan3503"><tspan
+           id="tspan3763"><tspan
              style="font-weight:bold;text-anchor:middle"
-             id="tspan3501">SANTIFICACION</tspan></tspan></text>
+             id="tspan3761">SANTIFICACION</tspan></tspan></text>
       <text
          id="text7321"
          transform="translate(118.96651,57.508441)"
@@ -197,20 +164,22 @@
          y="0"><tspan
            x="-22.224659"
            y="0"
-           id="tspan3507"><tspan
+           id="tspan3767"><tspan
              style="text-anchor:middle"
-             id="tspan3505">Siendo salvos del 
+             id="tspan3765">Siendo salvos del 
 </tspan></tspan><tspan
            x="-22.6625"
            y="6.1250001"
-           id="tspan3513"><tspan
+           id="tspan3773"><tspan
              style="font-style:italic;text-anchor:middle"
-             id="tspan3509">PODER</tspan><tspan
+             id="tspan3769">PODER</tspan><tspan
              style="text-anchor:middle"
-             id="tspan3511"> del pecado</tspan></tspan></text>
+             id="tspan3771"> del pecado</tspan></tspan></text>
     </g>
     <g
-       id="g2994">
+       id="g2994"
+       data-fragment-index="3"
+       class="fragment">
       <rect
          style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.2915"
          id="rect1932"
@@ -227,9 +196,9 @@
          class="fragment fade-up"><tspan
            x="0"
            y="0"
-           id="tspan3517"><tspan
+           id="tspan3777"><tspan
              style="font-weight:bold"
-             id="tspan3515">JUSTIFICACION</tspan></tspan></text>
+             id="tspan3775">JUSTIFICACION</tspan></tspan></text>
       <text
          id="text7321-6"
          transform="translate(26.59067,55.609963)"
@@ -242,19 +211,21 @@
          y="0"><tspan
            x="-19.50669"
            y="0"
-           id="tspan3521"><tspan
+           id="tspan3781"><tspan
              style="text-anchor:middle"
-             id="tspan3519">Nos salvo de la 
+             id="tspan3779">Nos salvo de la 
 </tspan></tspan><tspan
            x="-19.989991"
            y="6.1250001"
-           id="tspan3525"><tspan
+           id="tspan3785"><tspan
              style="text-anchor:middle"
-             id="tspan3523">PENA de pecado</tspan></tspan></text>
+             id="tspan3783">PENA de pecado</tspan></tspan></text>
     </g>
     <g
        id="g2975"
-       transform="translate(0,-2.12)">
+       transform="translate(0,-2.12)"
+       data-fragment-index="12"
+       class="fragment">
       <rect
          style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.2915"
          id="rect2854"
@@ -271,9 +242,9 @@
          data-fragment-index="13"><tspan
            x="0"
            y="0"
-           id="tspan3529"><tspan
+           id="tspan3789"><tspan
              style="font-weight:bold"
-             id="tspan3527">GLORIFICACION</tspan></tspan></text>
+             id="tspan3787">GLORIFICACION</tspan></tspan></text>
       <text
          id="text7321-3"
          transform="translate(205.83516,57.025963)"
@@ -286,25 +257,25 @@
          y="0"><tspan
            x="-23.106324"
            y="0"
-           id="tspan3533"><tspan
+           id="tspan3793"><tspan
              style="text-anchor:middle;shape-inside:url(#rect7323-8)"
-             id="tspan3531">Seremos salvos de
+             id="tspan3791">Seremos salvos de
 </tspan></tspan><tspan
            x="-21.725806"
            y="6.1250001"
-           id="tspan3541"><tspan
+           id="tspan3801"><tspan
              style="text-anchor:middle;shape-inside:url(#rect7323-8)"
-             id="tspan3535">la </tspan><tspan
+             id="tspan3795">la </tspan><tspan
              style="font-style:italic;text-anchor:middle"
-             id="tspan3537">PRESENCIA</tspan><tspan
+             id="tspan3797">PRESENCIA</tspan><tspan
              style="text-anchor:middle;shape-inside:url(#rect7323-8)"
-             id="tspan3539"> del
+             id="tspan3799"> del
 </tspan></tspan><tspan
            x="-8.7472658"
            y="12.25"
-           id="tspan3545"><tspan
+           id="tspan3805"><tspan
              style="text-anchor:middle;shape-inside:url(#rect7323-8)"
-             id="tspan3543">pecado</tspan></tspan></text>
+             id="tspan3803">pecado</tspan></tspan></text>
     </g>
     <path
        id="path7438"
@@ -328,8 +299,7 @@
          y="79.384445"
          fill="#ffffff"
          font-size="3.5px"
-         stroke-width="0.26"
-         sodipodi:role="line">Rapto</tspan></text>
+         stroke-width="0.26">Rapto</tspan></text>
     <g
        id="tit3.5"
        transform="translate(2.6)"
@@ -359,12 +329,10 @@
          xml:space="preserve"><tspan
            id="tspan7459"
            x="13.63754"
-           y="109.55846"
-           sodipodi:role="line">Tito 3:5 nos salvó...no por obras de justicia que nosotros </tspan><tspan
+           y="109.55846">Tito 3:5 nos salvó...no por obras de justicia que nosotros </tspan><tspan
            id="tspan7477"
            x="13.63754"
-           y="116.27846"
-           sodipodi:role="line">hubiéramos hecho sino por su misericordia...</tspan></text>
+           y="116.27846">hubiéramos hecho sino por su misericordia...</tspan></text>
     </g>
     <g
        id="1co1.18"
@@ -395,12 +363,10 @@
          xml:space="preserve"><tspan
            id="tspan7475"
            x="12.54438"
-           y="126.74744"
-           sodipodi:role="line">1Corintios 1:18  Porque la palabra de la cruz es...a los que</tspan><tspan
+           y="126.74744">1Corintios 1:18  Porque la palabra de la cruz es...a los que</tspan><tspan
            id="tspan7485"
            x="12.54438"
-           y="134.74744"
-           sodipodi:role="line"> se salvan...es poder de Dios.</tspan></text>
+           y="134.74744"> se salvan...es poder de Dios.</tspan></text>
     </g>
     <g
        id="rom5.9"
@@ -432,12 +398,10 @@
          xml:space="preserve"><tspan
            id="tspan7471"
            x="12.578422"
-           y="147.80064"
-           sodipodi:role="line">Romanos 5:9 ...estando ya justificados...por él seremos </tspan><tspan
+           y="147.80064">Romanos 5:9 ...estando ya justificados...por él seremos </tspan><tspan
            id="tspan7481"
            x="12.578422"
-           y="155.92564"
-           sodipodi:role="line">salvos de la ira.</tspan></text>
+           y="155.92564">salvos de la ira.</tspan></text>
     </g>
   </g>
 </svg>
