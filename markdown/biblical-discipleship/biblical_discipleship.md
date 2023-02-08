@@ -4,13 +4,11 @@
 ---
 The greatest challenge the church faces in any given generation is
 getting people engaged in the process of replication. This is
-especially difficult in circles were teachers deny the Great Commission
+especially difficult in circles where teachers deny the Great Commission
 as being for today. Without the Great Commission, there remains no
 biblical impetus for churches to reproduce. If the church of Jesus
-Christ fails to reduplicate itself through effective discipleship,
-churches will slowly become vacant because new members stop being added
-to the body of Christ.
----
+Christ fails to reduplicate itself through effective discipleship, churches will slowly become vacant because new members stop being added to the body of Christ.
+
 Getting Christians into the game is the heart of this study. Don’t be
 derailed by the use of terms like <strong>discipleship</strong>, or
 becoming a <strong>disciple-maker</strong>, derived from Matthew
@@ -21,6 +19,7 @@ in the world, the church of Jesus Christ. A future church in your town,
 and in the world, is at stake. Will you leave someone to fill your
 place in church when you graduate to heaven? Will you do anything to
 fill the empty seat next to you while you’re still here?
+
 Godspeed!
 ---	 
 March 30, 2012
@@ -31,7 +30,7 @@ March 30, 2012
 	<p align="center">
 	All rights reserved.<strong></strong>	 
 
----	 
+---
 
 <strong>Copyright Policy.</strong>
 You may use the DM2® materials for your own personal study or for
@@ -291,7 +290,7 @@ b. The One who has all authority in Heaven and on Earth is the very One who comm
 3. The third part of our job is to encourage the disciples we develop to <strong><u>meet</u></strong> together to establish strong local New Testament churches.
 	</h3>
 	<h4 class="fragment">
-a. The vision of Jesus Christ is to build His church.<em> “I will build my church and the gates of	<strong><u>hell</u></strong> will not prevail against it.”</em> Matthew 16:18
+	a. The vision of Jesus Christ is to build His church.<em> “I will build my church and the gates of	<strong><u>hell</u></strong> will not prevail against it.”</em> Matthew 16:18
 	</h4>
 
 
@@ -316,11 +315,11 @@ c. This <strong><u>job</u></strong> is not for para-church organizations to acco
 
 	<h5>
 3) Although God often blesses para-church organizations, spreading the
-Gospel is ultimately the responsibility of <strong><u>local</u></strong> churches.
+	Gospel is ultimately the responsibility of <strong><u>local</u></strong> churches.
 	</h5>
 	<h5 class="fragment">
 4) Local churches <strong><u>must</u></strong> understand this
-responsibility. (Matthew 16:18 <em>) “I write so that you will know how one ought to conduct himself in the household of God, <strong>which is the church of the living God, the pillar and support of the truth </strong>.”</em>1 Timothy 3:15
+	responsibility. (Matthew 16:18 <em>) “I write so that you will know how one ought to conduct himself in the household of God, <strong>which is the church of the living God, the pillar and support of the truth </strong>.”</em>1 Timothy 3:15
 	</h5>
 
 
@@ -387,7 +386,7 @@ A. What the Gospel <em><u>is</u></em>:
 2. The Gospel is an historic event; it is about a <strong><u>work</u></strong> God performed for mankind, through Jesus Christ, on a weekend in history over two thousand years ago.
 	</h3>
 	<h4 class="fragment">
-a. The Gospel is <em>not</em> a subjective how-to event that happens in your heart, nor is it your personal testimony of <strong><u>how</u></strong> you came to believe.
+	a. The Gospel is <em>not</em> a subjective how-to event that happens in your heart, nor is it your personal testimony of <strong><u>how</u></strong> you came to believe.
 	</h4>
 
 
@@ -460,7 +459,7 @@ c. We either rely solely on the <strong>person and <u>work</u> of Christ</strong
 2. The Gospel is not faith in Christ plus good <strong><u>works</u></strong>.
 	</h3>
 	<h4 class="fragment">
-a. Paul states that salvation is entirely a <strong><u>work</u></strong> of God.
+	a. Paul states that salvation is entirely a <strong><u>work</u></strong> of God.
 	</h4>
 
 
@@ -469,7 +468,7 @@ a. Paul states that salvation is entirely a <strong><u>work</u></strong> of God.
 1) We can do nothing to add to what Christ accomplished; He achieved complete and <strong><u>full</u></strong> salvation for mankind.
 	</h5>
 	<h5 class="fragment">
-2)<em>“Knowing that a man is not justified by the works of the law but by faith in Jesus Christ, even we have believed in Christ Jesus that we might be justified by faith in Christ and not by the	<strong><u>works</u></strong> of the law; for by the works of the law no flesh shall be justified.”</em> Galatians 2:16
+	2)<em>“Knowing that a man is not justified by the works of the law but by faith in Jesus Christ, even we have believed in Christ Jesus that we might be justified by faith in Christ and not by the	<strong><u>works</u></strong> of the law; for by the works of the law no flesh shall be justified.”</em> Galatians 2:16
 	</h5>
 
 
@@ -487,7 +486,7 @@ a. Paul states that salvation is entirely a <strong><u>work</u></strong> of God.
 3. The Gospel is not faith in Christ plus, “<strong><u>give</u></strong> your life to God.”
 	</h3>
 	<h4 class="fragment">
-a. The saving message of the Gospel concerns the fact that Christ <strong><u>gave</u></strong> Himself for us.
+	a. The saving message of the Gospel concerns the fact that Christ <strong><u>gave</u></strong> Himself for us.
 	</h4>
 
 
@@ -523,7 +522,7 @@ b. The saving message of the Gospel does not involve giving something to <strong
 4. The Gospel is NOT faith in Christ plus, “<strong><u>ask</u></strong> Jesus into your heart.”
 	</h3>
 	<h4 class="fragment">
-a. The Gospel is not asking Jesus into your <strong><u>heart</u></strong>. The Gospel is not asking for anything. The proper response to the Gospel is to believe the message of what Christ did for you.
+	a. The Gospel is not asking Jesus into your <strong><u>heart</u></strong>. The Gospel is not asking for anything. The proper response to the Gospel is to believe the message of what Christ did for you.
 	</h4>
 
 
@@ -533,7 +532,7 @@ a. The Gospel is not asking Jesus into your <strong><u>heart</u></strong>. The G
 	</h5>
 	<h5 class="fragment">
 2) First you believe the Gospel; then Christ comes into your life in the person of the Holy Spirit<em>
-. “In Him, you also, after listening to the message of	<strong><u>truth</u></strong>, the gospel of your salvation--having also believed, you were sealed in Him with the Holy Spirit of promise.” </em>Ephesians 1:13
+	. “In Him, you also, after listening to the message of	<strong><u>truth</u></strong>, the gospel of your salvation--having also believed, you were sealed in Him with the Holy Spirit of promise.” </em>Ephesians 1:13
 	</h5>
 
 
@@ -548,7 +547,7 @@ b. When you trust in Christ as your Savior, the Holy Spirit comes to <strong><u>
 5. The Gospel is NOT faith in Christ plus, “Confess your <strong><u>sins</u></strong>.”
 	</h3>
 	<h4 class="fragment">
-a. Confession of sins is not a requirement for salvation; you do not have to confess your sins in order to be <strong><u>saved</u></strong>.
+	a. Confession of sins is not a requirement for salvation; you do not have to confess your sins in order to be <strong><u>saved</u></strong>.
 	</h4>
 
 
@@ -572,7 +571,7 @@ b. Individuals will be condemned to the Lake of Fire, not because they failed to
 6. The Gospel is NOT faith in Christ plus, “make Christ <strong><u>Lord</u></strong> of your life” or “submit to the lordship of Christ.”
 	</h3>
 	<h4 class="fragment">
-a. It is true that if you <strong><u>deny</u></strong> Christ is God, or Lord, you cannot be saved. More than likely, you would not trust in Jesus to be your Savior if you did not believe He is God, the Lord.
+	a. It is true that if you <strong><u>deny</u></strong> Christ is God, or Lord, you cannot be saved. More than likely, you would not trust in Jesus to be your Savior if you did not believe He is God, the Lord.
 	</h4>
 
 
@@ -582,7 +581,7 @@ a. It is true that if you <strong><u>deny</u></strong> Christ is God, or Lord, y
 	</h5>
 	<h5 class="fragment">
 2) To believe that Christ is the Lord God is necessary for salvation,but to <strong><em><u>make</u></em></strong><em> Him Lord</em> of your life is not necessary for salvation, because that would mean your salvation is based on your good deed of making Christ your Lord, or on your submission to Christ, and not on Christ’s finished work. Titus
-3:5-6
+	3:5-6
 	</h5>
 
 
@@ -680,7 +679,7 @@ e. Repentance implies that no person is a blank <strong><u>slate</u></strong> be
 
 	<h5>
 1) Every person in the world either has some false <strong><u>hope</u></strong> he relies on for salvation, or else he has a false hope that gives him freedom to ignore the issue of salvation
-all together.
+	all together.
 	</h5>
 	<h5 class="fragment">
 2) Therefore, a change of mind will occur <strong><u>prior</u></strong> to someone trusting exclusively in Jesus Christ.
@@ -709,7 +708,7 @@ original language rather than the modern “religious” meaning of the word.
 	</h5>
 	<h5 class="fragment">
 2) A meaning change of the word repent occurred around the <strong><u>time</u></strong> of Jerome,(AD 347–420) when he chose to translate the Greek word METANOIA using a
-Latin phrase PAENITENTIAM AGITE. Jerome’s translation, called the Latin Vulgate, became the leading Bible used by the Christians for nearly 1000 years.
+	Latin phrase PAENITENTIAM AGITE. Jerome’s translation, called the Latin Vulgate, became the leading Bible used by the Christians for nearly 1000 years.
 	</h5>
 
 
@@ -745,7 +744,7 @@ g. Here are many common <strong><em>incorrect</em></strong> definitions of repen
 2) There is the <strong> <u>conduct</u></strong> change error!
 	</h5>
 	<h6 class="fragment">
-a) <em>This error says</em> repent means you must <strong><u>change</u></strong> your life.
+	a) <em>This error says</em> repent means you must <strong><u>change</u></strong> your life.
 	</h6>
 
 
@@ -763,10 +762,10 @@ c) <em>This error says</em> repent means the sinner must turn  <strong><u>away</
 3) There is the <strong><u>sin</u></strong> removal error!
 	</h5>
 	<h6 class="fragment">
-a) <em>This error says</em> repent means you must <strong><u>stop</u></strong> doing sin, or evil.
+	a) <em>This error says</em> repent means you must <strong><u>stop</u></strong> doing sin, or evil.
 	</h6>
 	<h6 class="fragment">
-b) <em>This error says</em> repent means you must stop your rebellion and <strong><u>yield</u></strong> or surrender to God.
+	b) <em>This error says</em> repent means you must stop your rebellion and <strong><u>yield</u></strong> or surrender to God.
 	</h6>
 
 
@@ -775,10 +774,10 @@ b) <em>This error says</em> repent means you must stop your rebellion and <stron
 4) There is the direction <strong><u>change</u></strong> error!
 	</h5>
 	<h6 class="fragment">
-a) <em>This error says</em> repent means you have to change your thinking, which must <strong><u>result</u></strong> in a changed life.
+	a) <em>This error says</em> repent means you have to change your thinking, which must <strong><u>result</u></strong> in a changed life.
 	</h6>
 	<h6 class="fragment">
-b) <em>This error says</em> repent means you must <strong><u>make</u></strong> the effort to turn away from sin to God.
+	b) <em>This error says</em> repent means you must <strong><u>make</u></strong> the effort to turn away from sin to God.
 	</h6>
 
 
@@ -798,7 +797,7 @@ and determine <strong><u>never</u></strong> to return to it.
 5) There is the <strong><u>show</u></strong> of remorse error!
 	</h5>
 	<h6 class="fragment">
-a) <em>This error says</em> repent means you have to be <strong><u>sorry</u></strong> for the sins you have committed in the past, and you must desire not to sin any more ever again.
+	a) <em>This error says</em> repent means you have to be <strong><u>sorry</u></strong> for the sins you have committed in the past, and you must desire not to sin any more ever again.
 	</h6>
 
 
@@ -816,7 +815,7 @@ c) <em>This error says</em> repent means you intellectually, or even verbally, c
 6) There is also the confession of <strong><u>sins</u></strong> error!
 	</h5>
 	<h6 class="fragment">
-a) <em>This error says</em> repent means you have to take the <strong><u>blame</u></strong> for your sinful condition before God.
+	a) <em>This error says</em> repent means you have to take the <strong><u>blame</u></strong> for your sinful condition before God.
 	</h6>
 
 
@@ -838,7 +837,7 @@ h. Remember that according to the New Testament, repentance is a <strong><em>cha
 
 	<h5>
 1) The unsaved should change their minds concerning <strong><u>God</u></strong>. Acts 20:21 says
-<em>“solemnly testifying to both Jews and Greeks of	<strong>repentance toward God</strong> and faith in our Lord Jesus Christ.”</em>
+	<em>“solemnly testifying to both Jews and Greeks of	<strong>repentance toward God</strong> and faith in our Lord Jesus Christ.”</em>
 	</h5>
 	<h5 class="fragment">
 2) The unsaved should change their minds about <strong><u>idols</u></strong>. As in Revelation 9:20 the people<em> “did not <strong>repent of the works of their hands</strong>, so as
@@ -860,7 +859,7 @@ h. Remember that according to the New Testament, repentance is a <strong><em>cha
 8. The Gospel is NOT faith in Christ plus, “<strong><u>pray</u></strong> a prayer.”
 	</h3>
 	<h4 class="fragment">
-a. The Gospel is not praying a prayer. There is not <strong><u>one</u></strong> instance in the Bible where someone is required to pray to receive salvation. If praying were a requirement for salvation, the Lord would have made it abundantly clear.
+	a. The Gospel is not praying a prayer. There is not <strong><u>one</u></strong> instance in the Bible where someone is required to pray to receive salvation. If praying were a requirement for salvation, the Lord would have made it abundantly clear.
 	</h4>
 
 
@@ -893,7 +892,7 @@ b. The parable of the tax collector who called out to God (Luke 18:13)does not t
 3) It is important to recall that Scripture says that you only <strong><u>call</u></strong> on the one in whom you have already believed. Romans 10:14a
 	</h5>
 	<h6 class="fragment">
-a) It is a fact that you believe first before you <strong><u>speak</u></strong>. 2 Corinthians 4:13; Romans 10:10
+	a) It is a fact that you believe first before you <strong><u>speak</u></strong>. 2 Corinthians 4:13; Romans 10:10
 	</h6>
 
 
@@ -911,7 +910,7 @@ c) The <strong><u>words</u></strong> in his prayer confirmed what was going on i
 4) What this parable does <strong><u>not</u></strong> teach.
 	</h5>
 	<h6 class="fragment">
-a) This does not teach you must pray for salvation. There is no account in the Scripture where we are <strong><u>told</u></strong> to pray for salvation. This story does not give a command to the sinner to pray in order to be saved.
+	a) This does not teach you must pray for salvation. There is no account in the Scripture where we are <strong><u>told</u></strong> to pray for salvation. This story does not give a command to the sinner to pray in order to be saved.
 	</h6>
 
 
@@ -929,7 +928,7 @@ c) Biblically, we are repeatedly told to simply believe in Christ who <strong><u
 9. The Gospel is NOT faith in Christ plus, “<strong><u>public</u> </strong>profession.”
 	</h3>
 	<h4 class="fragment">
-a. This error implies that in order for you to be saved you have to make a verbal, <strong><u>public</u></strong> profession of faith in Christ.<em></em>
+	a. This error implies that in order for you to be saved you have to make a verbal, <strong><u>public</u></strong> profession of faith in Christ.<em></em>
 	</h4>
 
 
@@ -1003,7 +1002,7 @@ c. Natural man does not come to God on his <strong><u>own</u></strong> accord. H
 	</h5>
 	<h5 class="fragment">
 2) Jesus came<em>“to <strong><u>seek</u></strong> and to save that which was lost.”
-</em>Luke 10:19b
+	</em>Luke 10:19b
 	</h5>
 
 
@@ -1022,7 +1021,7 @@ c. Natural man does not come to God on his <strong><u>own</u></strong> accord. H
 2. How does God <strong><u>draw</u></strong> men to Himself?
 	</h3>
 	<h4 class="fragment">
-a. What are the dynamics that God has in place to <strong><u>bring</u></strong> people to the point of salvation?
+	a. What are the dynamics that God has in place to <strong><u>bring</u></strong> people to the point of salvation?
 	</h4>
 
 
@@ -1040,7 +1039,7 @@ c. These questions are answered by examining the dynamics God has in place to <s
 3. Itemizing God’s <strong><u>Gospel</u></strong> dynamics
 	</h3>
 	<h4 class="fragment">
-a. There is an inborn understanding of God that <strong><u>every</u></strong> person has.
+	a. There is an inborn understanding of God that <strong><u>every</u></strong> person has.
 	</h4>
 
 
@@ -1121,7 +1120,7 @@ b) People will never accept Christ’s <strong><u>gift</u></strong> of salvation
 4) Why convince the world of <strong><em><u>righteousness</u></em></strong>?
 	</h5>
 	<h6 class="fragment">
-a) Unbelievers must understand they fall <strong><u>short</u></strong> of God’s righteous standards.
+	a) Unbelievers must understand they fall <strong><u>short</u></strong> of God’s righteous standards.
 	</h6>
 
 
@@ -1140,7 +1139,7 @@ c) Remember that <em>“…All our righteousnesses are like filthy <strong><u>ra
 5) Why convince the world of <strong><em><u>judgment</u></em></strong>?
 	</h5>
 	<h6 class="fragment">
-a) Unless a person understands the penalty for sin, the Gospel means <strong><u>nothing</u></strong>.
+	a) Unless a person understands the penalty for sin, the Gospel means <strong><u>nothing</u></strong>.
 	</h6>
 
 
@@ -1219,7 +1218,7 @@ h. God has divinely ordained the <strong><u>means</u></strong> of preaching as t
 1) God sovereignly decided to use the seemingly weak method of “preaching” to be the vehicle through which people would <strong><u>hear</u></strong>. 1 Corinthians 1:21
 	</h5>
 	<h5 class="fragment">
-2)<em>“…<strong><u>Faith</u></strong> comes by hearing, and hearing by the word of God. How shall they hear without a preacher...?”</em> Romans 10:17-18
+	2)<em>“…<strong><u>Faith</u></strong> comes by hearing, and hearing by the word of God. How shall they hear without a preacher...?”</em> Romans 10:17-18
 	</h5>
 
 
@@ -1285,7 +1284,7 @@ E. The Response to the Gospel Dynamics
 3. For that reason, we should remember that when a person believes in the work of Christ on the cross, his <strong><u>faith</u></strong> is not some exertion or work; rather it is a non-meritorious response to the work of God on his or her behalf.
 	</h3>
 	<h4 class="fragment">
-a. The Gospel is designed to <strong><u>bring</u></strong> people to the place where they decide either to believe what God has provided and by faith accept His grace, or to ignore Him.
+	a. The Gospel is designed to <strong><u>bring</u></strong> people to the place where they decide either to believe what God has provided and by faith accept His grace, or to ignore Him.
 	</h4>
 
 
@@ -1294,7 +1293,7 @@ a. The Gospel is designed to <strong><u>bring</u></strong> people to the place w
 1) The Gospel is a message of <strong><u>hope</u></strong> and life to some and a message of death to others, depending on their response.
 	</h5>
 	<h5 class="fragment">
-2)<em>“For we are to God the fragrance of Christ	<strong><u>among</u></strong> those who are being saved and among those who are perishing.”</em>2 Corinthians 2:15
+	2)<em>“For we are to God the fragrance of Christ	<strong><u>among</u></strong> those who are being saved and among those who are perishing.”</em>2 Corinthians 2:15
 	</h5>
 
 
@@ -1343,7 +1342,7 @@ F. Summarizing God’s Gospel Dynamics
 1. Clearly, God uses <strong><u>many</u></strong> dynamics to draw people to Himself.
 	</h3>
 	<h4 class="fragment">
-a. In order to reach the world with the Gospel, we do not<strong><u>rely</u></strong> on ourselves, but on His great power as expressed in these Gospel dynamics.
+	a. In order to reach the world with the Gospel, we do not<strong><u>rely</u></strong> on ourselves, but on His great power as expressed in these Gospel dynamics.
 	</h4>
 
 
@@ -1412,7 +1411,7 @@ d. <strong>Disciple-making</strong> is the process of exposing our<strong><u>dai
 2. In many senses we have <strong><u>lost</u></strong> the art of making disciples.
 	</h3>
 	<h4 class="fragment">
-a. We have replaced <strong>disciple-making</strong> with the<strong><u>act</u></strong> of making followers, or worse, students.
+	a. We have replaced <strong>disciple-making</strong> with the<strong><u>act</u></strong> of making followers, or worse, students.
 	</h4>
 
 
@@ -1475,7 +1474,7 @@ b.<em>“As He was going <strong><u>along</u></strong>… Jesus said to them, �
 3. Long <strong><u>before</u></strong> Jesus gave the Great Commission of Matthew 28, He gave His disciples another commission and<strong><em>followed up on it</em></strong>.
 	</h3>
 	<h4 class="fragment">
-a. In this minor commission, Jesus sent the twelve disciples to reach and teach the <strong><u>lost</u></strong> sheep of the Israel.
+	a. In this minor commission, Jesus sent the twelve disciples to reach and teach the <strong><u>lost</u></strong> sheep of the Israel.
 	</h4>
 
 
@@ -1502,7 +1501,7 @@ c.<em>“And the apostles, when they had returned,	<strong><u>told</u></strong> 
 4. Luke 10:1-24 – Another great <strong>disciple-making</strong> success <strong><u>story</u></strong>
 	</h3>
 	<h4 class="fragment">
-a. Luke 10:1-16 – Jesus sent forth seventy more disciples. Although these disciples had been taught by Jesus for some time, before He sent them out He gave some <strong><u>last</u></strong> minute instructions.
+	a. Luke 10:1-16 – Jesus sent forth seventy more disciples. Although these disciples had been taught by Jesus for some time, before He sent them out He gave some <strong><u>last</u></strong> minute instructions.
 	</h4>
 
 
@@ -1553,7 +1552,7 @@ b. Luke 10:17-24 – Jesus taught disciples, sent them forth, and then<strong><u
 3) Luke 10:21-22 – The Lord then rejoiced with great<strong><u>joy</u></strong> and gave praise to God for what the seventy had been able to accomplish.
 	</h5>
 	<h6 class="fragment">
-a) In the whole of the Bible, this is the <strong><u>only</u></strong> occasion we see Jesus rejoice. Here He is not only rejoicing, but He is full of joy through the Holy Spirit.
+	a) In the whole of the Bible, this is the <strong><u>only</u></strong> occasion we see Jesus rejoice. Here He is not only rejoicing, but He is full of joy through the Holy Spirit.
 	</h6>
 
 
@@ -1613,10 +1612,10 @@ d. Timothy was a <strong><u>pastor</u></strong> to pastors. He was to go to chur
 3. 2 Timothy 2:1b –<em>You therefore, my <strong><u>son</u></strong>…</em>
 	</h3>
 	<h4 class="fragment">
-a. Paul’s relationship with Timothy was a father-son<strong><u>bond</u></strong>.
+	a. Paul’s relationship with Timothy was a father-son<strong><u>bond</u></strong>.
 	</h4>
 	<h4 class="fragment">
-b. We <strong><u>need</u></strong> to approach disciple training the same way.
+	b. We <strong><u>need</u></strong> to approach disciple training the same way.
 	</h4>
 
 
@@ -1672,7 +1671,7 @@ b. The <strong><u>task</u></strong> Paul is about to put on his young friend wou
 
 	<h5>
 1) This is not something Timothy could <strong><u>do</u></strong> by
-himself.
+	himself.
 	</h5>
 	<h5 class="fragment">
 2) It is the type of strengthening David experienced the day he found he was alone, with everyone in the world against him, having lost his family and all his possessions to the Amalekites. David strengthened himself in the <strong><u>Lord</u></strong>. 1 Samuel 30:1-6
@@ -1746,7 +1745,7 @@ d) God uses humble vessels<em>. “But we have this treasure in earthen vessels 
 	</h5>
 	<h5 class="fragment">
 4) God is the One who ultimately gives any increase <em>. “…I planted, Apollos watered, but God gave the increase. So then neither he who plants is anything, nor he who waters, but God who	<strong><u>gives</u></strong> the increase … For we are God’s fellow workers…”
-</em>1 Corinthians 3:5-9
+	</em>1 Corinthians 3:5-9
 	</h5>
 
 
@@ -1759,10 +1758,10 @@ e. Biblical missions must be based on “<em>Christ through us</em>.” To be fa
 
 	<h3>
 5. 2 Timothy 2:1d –<em>…be strong in the <strong><u>grace</u></strong> that is in Christ Jesus…
-</em>Timothy did not need to try to be strong on his own power and wisdom.
+	</em>Timothy did not need to try to be strong on his own power and wisdom.
 	</h3>
 	<h4 class="fragment">
-a. This grace is what makes you <strong><u>able</u></strong> to live the Christian life. Titus 2:11-12
+	a. This grace is what makes you <strong><u>able</u></strong> to live the Christian life. Titus 2:11-12
 	</h4>
 
 
@@ -1807,8 +1806,8 @@ f. There are two facets to this <strong><u>grace</u></strong> that are of import
 2) Timothy would need to portray this same grace to his<strong><u>own</u></strong> disciples. It is never right to be harsh or impatient with those we disciple. Philippians 4:5
 	</h5>
 	<h5 class="fragment">
-3)<em>The Lord’s bond-servant must not be quarrelsome, but be	<strong><u>kind</u></strong> to all, able to teach, patient when wronged, with gentleness correcting those who are in opposition, if perhaps God may grant them repentance leading to the knowledge of the truth.
-</em> 2 Timothy 2:24, 25
+	3)<em>The Lord’s bond-servant must not be quarrelsome, but be	<strong><u>kind</u></strong> to all, able to teach, patient when wronged, with gentleness correcting those who are in opposition, if perhaps God may grant them repentance leading to the knowledge of the truth.
+	</em> 2 Timothy 2:24, 25
 	</h5>
 
 
@@ -1866,7 +1865,7 @@ b) When we do <strong><u>teach</u></strong> something we are unsure about, we sh
 7. 2 Timothy 2:2a – Paul told Timothy:<em>“<strong>entrust these</strong> to faithful men who will be able to teach others <strong> <u>also</u></strong>.”</em>
 	</h3>
 	<h4 class="fragment">
-a. The verb “<em>entrust</em>” in Greek conveys the idea of placing something before someone as when you were serving<strong><u>food</u></strong>.
+	a. The verb “<em>entrust</em>” in Greek conveys the idea of placing something before someone as when you were serving<strong><u>food</u></strong>.
 	</h4>
 
 
@@ -1884,10 +1883,10 @@ a. The verb “<em>entrust</em>” in Greek conveys the idea of placing somethin
 8. 2 Timothy 2:2b – “…<em>to faithful <strong><u>men</u></strong></em>”
 	</h3>
 	<h4 class="fragment">
-a. These are the <strong><u>kind</u></strong> of people to whom the apostle would have Timothy serve-up good doctrine.
+	a. These are the <strong><u>kind</u></strong> of people to whom the apostle would have Timothy serve-up good doctrine.
 	</h4>
 	<h4 class="fragment">
-b. Paul used this <strong><u>same</u></strong> word “<em>faithful</em>” in 1 Timothy 1:12.
+	b. Paul used this <strong><u>same</u></strong> word “<em>faithful</em>” in 1 Timothy 1:12.
 	</h4>
 
 
@@ -1906,7 +1905,7 @@ b. Paul used this <strong><u>same</u></strong> word “<em>faithful</em>” in 1
 3) What did Jesus see in the apostle Paul when He counted him faithful?
 	</h5>
 	<h6 class="fragment">
-a) He saw a man who was willing to give his <strong><u>all</u></strong> to what he did.
+	a) He saw a man who was willing to give his <strong><u>all</u></strong> to what he did.
 	</h6>
 <h6 class="fragment">
 b) Although he was doing the wrong thing, Jesus chose to use him since he was wholeheartedly <strong><u>doing</u></strong> what he was doing.
@@ -1918,10 +1917,10 @@ b) Although he was doing the wrong thing, Jesus chose to use him since he was wh
 4) When Paul spoke of a “<em>faithful</em>” person he was most likely referring to a <strong><u>quality</u></strong> of person.
 	</h5>
 	<h6 class="fragment">
-a) This kind of person is completely <strong><u>given</u></strong> to whatever he or she does.
+	a) This kind of person is completely <strong><u>given</u></strong> to whatever he or she does.
 	</h6>
 	<h6 class="fragment">
-b) This type of person provides for his family consistently and is reliable to his <strong><u>job</u></strong>.
+	b) This type of person provides for his family consistently and is reliable to his <strong><u>job</u></strong>.
 	</h6>
 
 
@@ -1991,7 +1990,7 @@ e. Many Christians today insist that God accepts any overture toward the nebulou
 
 	<h5>
 3) In the book of Galatians, Paul was emphatic that if anyone preaches a Gospel other than the one he preached, that person should be accursed. “…<em>so now I say again, if anyone preaches any	<strong><u>other</u></strong> gospel to you than what you have received, let him be accursed
-</em>.” Galatians 1:6-9
+	</em>.” Galatians 1:6-9
 	</h5>
 	<h5 class="fragment">
 4) In Corinthians, Paul chided his readers because of their acceptance of <strong><u>any</u></strong> old gospel, whether right or wrong! 2 Corinthians 11:3-4
@@ -2019,10 +2018,10 @@ b) Paul was not afraid to speak the exact truth of the Gospel, even when it was 
 
 	<h3>
 9. 2 Timothy 2:2c – “…<em>who will be <strong><u>able</u></strong></em>
-…”
+	…”
 	</h3>
 	<h4 class="fragment">
-a. The phrase “<em>be able</em>” is equivalent to be satisfactory or<strong><u>be</u></strong> adequate.
+	a. The phrase “<em>be able</em>” is equivalent to be satisfactory or<strong><u>be</u></strong> adequate.
 	</h4>
 
 
@@ -2109,7 +2108,7 @@ b. Discipleship requires <strong><u>trust</u></strong> in God.
 4) Biblical <strong>disciple-making</strong> carries with it<strong><u>risk</u></strong>-taking.
 	</h5>
 	<h6 class="fragment">
-a) As soon as Paul told Timothy to entrust the teaching to faithful men who would teach others also it was out of control both his and Timothy’s <strong><u>control</u></strong>.
+	a) As soon as Paul told Timothy to entrust the teaching to faithful men who would teach others also it was out of control both his and Timothy’s <strong><u>control</u></strong>.
 	</h6>
 
 
@@ -2127,7 +2126,7 @@ c) In their context they will do it much better than we ever could and your mini
 11. 2 Timothy 2:3a – Paul encouraged Timothy to, “<strong><em><u>Suffer</u></em></strong><em> hardship with me as a good soldier of Jesus Christ.”</em>
 	</h3>
 	<h4 class="fragment">
-a. Paul invited Timothy to <strong><u>suffer</u></strong> SUGKAKAPATHEO together with him.
+	a. Paul invited Timothy to <strong><u>suffer</u></strong> SUGKAKAPATHEO together with him.
 	</h4>
 
 
@@ -2172,10 +2171,10 @@ b. Many Christians mistakenly think that going and making disciples is like <str
 12. 2 Timothy 2:3b –<em>“…as a good <strong><u>soldier</u></strong> of Christ Jesus.”</em>
 	</h3>
 	<h4 class="fragment">
-a. We are in a battle for the <strong><u>souls</u></strong> of mankind. Genesis 3:15; 2 Timothy 4:1
+	a. We are in a battle for the <strong><u>souls</u></strong> of mankind. Genesis 3:15; 2 Timothy 4:1
 	</h4>
 	<h4 class="fragment">
-b. The Holy Spirit is saying that teaching faithful men will<strong><u>entail</u></strong> suffering. Colossians 1:24
+	b. The Holy Spirit is saying that teaching faithful men will<strong><u>entail</u></strong> suffering. Colossians 1:24
 	</h4>
 
 
@@ -2202,10 +2201,10 @@ b. We trust in God’s <strong><u>means</u></strong> – the Holy Spirit. Acts 1
 2. We can <strong><u>glean</u></strong> from Christ’s methods.
 	</h3>
 	<h4 class="fragment">
-a. Jesus purposely <strong><u>chose</u></strong> ordinary men to be His disciples. Matthew 4:18-22
+	a. Jesus purposely <strong><u>chose</u></strong> ordinary men to be His disciples. Matthew 4:18-22
 	</h4>
 	<h4 class="fragment">
-b. Early on Jesus <strong><u>gave</u></strong> his 12 disciples opportunities to participate in the ministry. Luke 9:1‑10
+	b. Early on Jesus <strong><u>gave</u></strong> his 12 disciples opportunities to participate in the ministry. Luke 9:1‑10
 	</h4>
 
 
@@ -2249,10 +2248,10 @@ j. Jesus assessed their <strong><u>work</u></strong> when they returned and grea
 3. We <strong><u>trust</u></strong> in God’s methods as found in 2 Timothy 2:1-3.
 	</h3>
 	<h4 class="fragment">
-a. We <strong><u>take</u></strong> the responsibility personally. 2 Timothy 2:1a
+	a. We <strong><u>take</u></strong> the responsibility personally. 2 Timothy 2:1a
 	</h4>
 	<h4 class="fragment">
-b. We go in God’s enabling <strong><u>grace</u></strong> and strength. 2 Timothy 2:1b
+	b. We go in God’s enabling <strong><u>grace</u></strong> and strength. 2 Timothy 2:1b
 	</h4>
 
 
@@ -2295,10 +2294,10 @@ A. DM2 is a service organization created for the benefit of<u>local</u> churches
 
 	<h3>
 1. Since world evangelism rightfully belongs to the church, DM2 exists to <strong><u>aid</u></strong> the church as she fulfills the Great
-Commission.
+	Commission.
 	</h3>
 	<h4 class="fragment">
-a. Local churches are the organisms Christ has ordained to preach the Gospel, teach sound doctrine, and ultimately through whom He desires to<strong><u>make</u></strong> disciples.
+	a. Local churches are the organisms Christ has ordained to preach the Gospel, teach sound doctrine, and ultimately through whom He desires to<strong><u>make</u></strong> disciples.
 	</h4>
 
 
@@ -2337,7 +2336,7 @@ B. Making Disciple-Makers Overseas
 1. The last words of Jesus Christ on earth were<em>: “But you will receive power when the Holy Spirit has come	<strong><u>upon</u></strong> you; and you shall be My witnesses both in Jerusalem, and in all Judea and Samaria, and even to the remotest part of the earth.”</em> Acts 1:8
 	</h3>
 	<h4 class="fragment">
-a. Christ commanded the apostles to testify in Jerusalem and<strong><u>Judea</u></strong>.
+	a. Christ commanded the apostles to testify in Jerusalem and<strong><u>Judea</u></strong>.
 	</h4>
 
 
@@ -2386,7 +2385,7 @@ b. We believe that the work on the field must be done by local people using thei
 	</h5>
 	<h5 class="fragment">
 2) God gave the Great Commissions to each and<strong><u>every</u></strong> individual church; therefore, each church must play its part in the fulfillment of God’s command using the means
-God has given it.
+	God has given it.
 	</h5>
 
 
@@ -2413,7 +2412,7 @@ C. Practical Disciple-Making
 1. The saying goes, “Give a man a fish and he will eat for a<strong><u>day</u></strong>; teach a man to fish and he will eat for a lifetime.”
 	</h3>
 	<h4 class="fragment">
-a. This is also true when it comes to the church of Jesus Christ. If we do all the work for the churches rather than teaching the churches to do the work themselves, <strong>disciple-making</strong> will only exist “for a <strong><u>day</u></strong>.”
+	a. This is also true when it comes to the church of Jesus Christ. If we do all the work for the churches rather than teaching the churches to do the work themselves, <strong>disciple-making</strong> will only exist “for a <strong><u>day</u></strong>.”
 	</h4>
 
 
@@ -2431,7 +2430,7 @@ c. If we teach people to be indigenous, sound in doctrine, and dependent upon th
 2. A disciple-maker is <strong><u>more</u></strong> than personally being <strong><em>disciple of Christ</em></strong>.
 	</h3>
 	<h4 class="fragment">
-a. A <strong>disciple-maker</strong> is someone who not only becomes a disciple, but in turn <strong><u>makes</u></strong> other disciples.
+	a. A <strong>disciple-maker</strong> is someone who not only becomes a disciple, but in turn <strong><u>makes</u></strong> other disciples.
 	</h4>
 
 
@@ -2609,7 +2608,7 @@ b) With careful planning a workshop <strong><u>can</u></strong> be done very eco
 6) Why <strong> disciple-making</strong> should never<strong><u>depend</u></strong>, or be done, based on foreign support.
 	</h5>
 	<h6 class="fragment">
-a) Because the day financial support no longer arrives<strong>disciple-making</strong> also <strong><u>dies</u></strong>.
+	a) Because the day financial support no longer arrives<strong>disciple-making</strong> also <strong><u>dies</u></strong>.
 	</h6>
 
 
@@ -2702,7 +2701,7 @@ g) Are you ready to go fulfill Christ’s command?
 9) If making <strong>disciple-making </strong>cannot be done in every culture of the world, then Jesus Christ was mistaken when He commanded<strong><em>us all</em></strong> to go into<strong><em>all the world</em></strong> and<strong><u>make</u></strong> disciples of<strong><em>every nation</em></strong>.
 	</h5>
 	<h6 class="fragment">
-a) Christ did not say,<em> “If it is economically feasible <strong><u>go</u></strong> make
+	a) Christ did not say,<em> “If it is economically feasible <strong><u>go</u></strong> make
 	disciples.”</em>
 	</h6>
 
@@ -2733,7 +2732,7 @@ c. We believe in self-<strong><u>reproducing</u></strong><strong>disciple-making
 1) Making disciples requires the <strong>participation</strong> of the<strong><u>one</u></strong> being taught.
 	</h5>
 	<h6 class="fragment">
-a) In a relatively short amount of time, DM2 feels it necessary to require the <strong>disciple-makers </strong>in training to re-teach the materials they have been <strong><u>taught</u></strong>.
+	a) In a relatively short amount of time, DM2 feels it necessary to require the <strong>disciple-makers </strong>in training to re-teach the materials they have been <strong><u>taught</u></strong>.
 	</h6>
 
 
@@ -2751,7 +2750,7 @@ c) The place for most of these leaders to start the process of<strong>disciple-m
 2) Whether in our own culture or in a cross-cultural setting,<strong>disciple-making</strong> is <strong><u>most</u></strong> effective when there is a symbiotic relationship between the<strong>disciple-maker </strong>and the disciple.
 	</h5>
 	<h6 class="fragment">
-a) By symbiotic we mean that <strong><u>both</u></strong> the<strong>disciple-maker </strong>and the disciple must contribute to the<strong>disciple-making </strong>process. Matthew 10:38
+	a) By symbiotic we mean that <strong><u>both</u></strong> the<strong>disciple-maker </strong>and the disciple must contribute to the<strong>disciple-making </strong>process. Matthew 10:38
 	</h6>
 
 
@@ -2765,7 +2764,7 @@ c) The people you give the most to without requiring anything in return are very
 
 
 
-	 
+
 (i) Spiritual returns on our investments become very<strong><u>low</u></strong> when there is not a personal investment on the part of the one being trained. Matthew 8:20‑22
 	 
 	<p class="fragment">
@@ -2774,7 +2773,7 @@ c) The people you give the most to without requiring anything in return are very
 
 
 
-	 
+
 (iii) Often the people who receive the least amount of help and have to make the most sacrifices <strong><u>are</u></strong> the most thankful for the teaching and most responsible in teaching others.
 	 
 	<p class="fragment">
@@ -2797,7 +2796,7 @@ E. Future disciple-makers must be committed to discipleship.
 2. Major on the majors. Focus on what is <strong><u>most</u></strong> important.<strong></strong>
 	</h3>
 	<h4 class="fragment">
-a. In <strong>disciple-making</strong>, we must communicate a clear-cut purpose and <strong><u>vision</u></strong> for the<strong>disciple-maker</strong>. 1 Corinthians 14:8<strong></strong>
+	a. In <strong>disciple-making</strong>, we must communicate a clear-cut purpose and <strong><u>vision</u></strong> for the<strong>disciple-maker</strong>. 1 Corinthians 14:8<strong></strong>
 	</h4>
 
 
@@ -2823,7 +2822,7 @@ e. Whatever we use for curriculum, we are <strong><u>daily</u></strong> modeling
 
 	<h3>
 3. Let’s look at some quick knockouts for potential<strong>disciple-makers</strong>. We distill these from the filtering process Jesus used just <strong><u>prior</u></strong> to sending forth
-the seventy disciples. Let’s read Luke 9:57-62.<strong></strong>
+	the seventy disciples. Let’s read Luke 9:57-62.<strong></strong>
 	</h3>
 
 
@@ -2947,7 +2946,7 @@ A. A Basic Strategy for Implementing an Organic Disciple-Making Program
 
 	<h3>
 1. Everything stated below is to be accomplished through the leading of God and only as you look to Him in effectual<strong><u>prayer</u></strong>. King Solomon said that to everything
-there is a season. Ecclesiastes 3:1
+	there is a season. Ecclesiastes 3:1
 	</h3>
 	<h3 class="fragment">
 2. Start first at <strong><u>home</u></strong>. Start<strong>disciple-making</strong> in your own local church by teaching the materials you have learned at a workshop.
@@ -2986,7 +2985,7 @@ d. As a <strong>disciple-maker </strong>your<strong><u>task</u></strong> is to h
 3. How do you find a place to make <strong>disciple-makers </strong>in another town or country?
 	</h3>
 	<h4 class="fragment">
-a. This can be done either by invitation or possibly by calling a fellow pastor or leader who lives elsewhere. You might explain that you have a teaching program designed to make<strong>disciple-makers </strong>and you’d like to<strong><u>help</u></strong> train his people.
+	a. This can be done either by invitation or possibly by calling a fellow pastor or leader who lives elsewhere. You might explain that you have a teaching program designed to make<strong>disciple-makers </strong>and you’d like to<strong><u>help</u></strong> train his people.
 	</h4>
 
 
@@ -3011,7 +3010,7 @@ c. Later, as you gain experience, you might <strong><u>add</u></strong> a couple
 
 	<h5>
 3) One of the biggest pitfalls for those who make<strong>disciple-makers</strong> is that they start going everywhere without a plan and end up getting too <strong><u>busy</u></strong>. The
-whole idea of <strong>disciple-making</strong> is that you train and encourage others to do the job too.
+	whole idea of <strong>disciple-making</strong> is that you train and encourage others to do the job too.
 	</h5>
 
 
@@ -3020,7 +3019,7 @@ whole idea of <strong>disciple-making</strong> is that you train and encourage o
 4. After choosing a target field, communication must be established with a <strong><u>key</u></strong> contact.
 	</h3>
 	<h4 class="fragment">
-a. On every target field you must have a <strong><u>local</u></strong> contact that prepares workshops and invites potential<strong>disciple-makers </strong>to attend.
+	a. On every target field you must have a <strong><u>local</u></strong> contact that prepares workshops and invites potential<strong>disciple-makers </strong>to attend.
 	</h4>
 
 
@@ -3193,7 +3192,7 @@ d) This is God’s way, shown in the command of Christ to “go make disciples,�
 2) This core group is responsible for reaching its own<strong><u>area</u></strong>.
 	</h5>
 	<h6 class="fragment">
-a) This group is encouraged to stage regional workshops, teaming together to reach their own <strong><u>people</u></strong> with their own resources. 1 Corinthians 16:1-2; 2 Corinthians 8:3
+	a) This group is encouraged to stage regional workshops, teaming together to reach their own <strong><u>people</u></strong> with their own resources. 1 Corinthians 16:1-2; 2 Corinthians 8:3
 	</h6>
 
 
@@ -3226,7 +3225,7 @@ b. You are <strong><u>not</u></strong> free to change the contents of our materi
 8. Workshop Basics
 	</h3>
 	<h4 class="fragment">
-a. The goal is to go to a field <strong><u>twice</u></strong> a year for a workshop.
+	a. The goal is to go to a field <strong><u>twice</u></strong> a year for a workshop.
 	</h4>
 
 
@@ -3261,7 +3260,7 @@ before they try it.
 9. Practical planning
 	</h3>
 	<h4 class="fragment">
-a. Do basic research before traveling.
+	a. Do basic research before traveling.
 	</h4>
 
 
@@ -3345,10 +3344,10 @@ B. Regional Ministry Directors (RMDs)<em></em>
 1. Defined:
 	</h3>
 	<h4 class="fragment">
-a. A Regional Ministry Director (RMD) is an individual responsible for the establishment and direction of <strong>disciple-making</strong> in a <strong><u>target</u></strong> country.
+	a. A Regional Ministry Director (RMD) is an individual responsible for the establishment and direction of <strong>disciple-making</strong> in a <strong><u>target</u></strong> country.
 	</h4>
 	<h4 class="fragment">
-b. Regional Ministry Directors are trained to establish<strong>disciple-making</strong> <strong><u>hubs</u></strong> in countries the world.
+	b. Regional Ministry Directors are trained to establish<strong>disciple-making</strong> <strong><u>hubs</u></strong> in countries the world.
 	</h4>
 
 
@@ -3417,17 +3416,17 @@ b. Required to be in complete and full agreement with DM2.
 2) Agree with <strong><u>vision</u></strong> and mission statements.
 	</h5>
 	<h6 class="fragment">
-a) A solid grasp of <strong><u>how</u></strong> DM2 functions.
+	a) A solid grasp of <strong><u>how</u></strong> DM2 functions.
 	</h6>
 	<h6 class="fragment">
-b) An understanding and appreciation of indigenization principles.
+	b) An understanding and appreciation of indigenization principles.
 	</h6>
 
 
 
 	<h5>
 3) <strong><u>Know</u></strong> and agree with ideology and ministry paradigm with a <strong><u>mastery</u></strong> of DM2’s approach to
-ministry.
+	ministry.
 	</h5>
 
 
@@ -3445,7 +3444,7 @@ ministry.
 6) Must be willing to make the sacrifice to attend biannual workshops for RMD’s and be “certified” in the teaching of<strong><u>each</u></strong> DM2 module. This will require…
 	</h5>
 	<h6 class="fragment">
-a) Attending the whole module and <strong><u>filling</u></strong> in the workbook.
+	a) Attending the whole module and <strong><u>filling</u></strong> in the workbook.
 	</h6>
 
 
@@ -3520,14 +3519,14 @@ c. Function
 7) RMDs interface with the Field Director or<strong><u>key</u></strong> contact person on their target field.
 	</h5>
 	<h4 class="fragment">
-d. Part-time RMD
+	d. Part-time RMD
 	</h4>
 	<h5 class="fragment">
 1) An individual involved in ministry (a pastor or leader), or someone who has a full-time job, may become an RMD over<strong><u>one</u></strong> field.
 	</h5>
 	<h5 class="fragment">
 2) All requirements would be the <strong><u>same</u></strong> as for the full-time RMD except the person would only have one field to
-manage.
+	manage.
 	</h5>
 
 
@@ -3602,7 +3601,7 @@ b) By recruiting enough <strong><u>team</u></strong> members to cover costs.
 6) Ministry Expenses: The cost for each team member includes his/her own personal travel expenses, a share in books purchased, a share in the RMD’s travel, and a share in any other <strong><u>trip</u></strong> expenses.
 	</h5>
 	<h6 class="fragment">
-a) Sometimes the workshops may be completely paid for by<strong><u>one</u></strong> church or individual. When this happens, it is a huge blessing.
+	a) Sometimes the workshops may be completely paid for by<strong><u>one</u></strong> church or individual. When this happens, it is a huge blessing.
 	</h6>
 
 
@@ -3619,7 +3618,7 @@ c) Most of the time, the team member’s contributions come together to<strong><
 
 	<h5>
 7) Ministry Expenses: Workshops can cost from the price of the tickets for the team, all the way to several thousands of dollars, depending on the amount of people taught and the <strong><u>funds</u></strong>
-available.
+	available.
 	</h5>
 
 
@@ -3637,7 +3636,7 @@ C. Field Directors (FDs)
 2. Field Directors report to the RMD over their particular<strong><u>field</u></strong>.
 	</h3>
 	<h4 class="fragment">
-a. The FD is preferably a national pastor or leader who is a<strong><u>leader</u></strong> among leaders.
+	a. The FD is preferably a national pastor or leader who is a<strong><u>leader</u></strong> among leaders.
 	</h4>
 
 
@@ -3674,7 +3673,7 @@ e. Since the FD <strong><u>lives</u></strong> on the field, he is responsible fo
 3. A Field Director’s pay
 	</h3>
 	<h4 class="fragment">
-a. The FD may or may not be <strong><u>paid</u></strong> for his services, depending on each situation.
+	a. The FD may or may not be <strong><u>paid</u></strong> for his services, depending on each situation.
 	</h4>
 
 
@@ -3692,7 +3691,7 @@ b. It is the RMD’s responsibility to raise the funds for the field director if
 2) If a FD is paid, there will be a severance period of tapered pay for the FD at the end of the 10-year teaching plan. This will need to be clearly communicated from the beginning by the RMD.
 	</h5>
 	<h4 class="fragment">
-c. An FD will only be paid <strong><em>if his RMD</em></strong> is able to <strong><u>raise</u></strong> those funds, and no promise can be made that the employment and pay would indeed last the full 10 years.
+	c. An FD will only be paid <strong><em>if his RMD</em></strong> is able to <strong><u>raise</u></strong> those funds, and no promise can be made that the employment and pay would indeed last the full 10 years.
 	</h4>
 
 
@@ -3708,7 +3707,7 @@ A. The Focus of the DM2 Curriculum
 1. DM2 curriculum is focused primarily on the<strong><u>pastor</u></strong>, evangelist, church planter, teacher, or missionary who is already functioning in ministry.
 	</h3>
 	<h4 class="fragment">
-a. This does not mean the average person in the pew will not benefit; he or she definitely <strong><u>will</u></strong>.
+	a. This does not mean the average person in the pew will not benefit; he or she definitely <strong><u>will</u></strong>.
 	</h4>
 
 
@@ -3733,7 +3732,7 @@ B. INTRODUCTORY: Four Years to Strengthen the Believer’s Foundation of Faith
 
 	<h3>
 2. The goal is for the <strong>disciple-maker </strong>to understand God’s perspective of history past and eternity future. Also, we desire that the <strong>disciple-maker </strong>understand the basics of<strong><u>New</u></strong> Testament theology. Here is an ideal,
-although not definite, plan of teaching.
+	although not definite, plan of teaching.
 	</h3>
 
 
@@ -3742,10 +3741,10 @@ although not definite, plan of teaching.
 3. Year 1
 	</h3>
 	<h4 class="fragment">
-a. We present an overview of history past with the Panorama of the<strong><u>Old</u></strong> Testament curriculum.
+	a. We present an overview of history past with the Panorama of the<strong><u>Old</u></strong> Testament curriculum.
 	</h4>
 	<h4 class="fragment">
-b. We introduce justification, sanctification, and glorification by teaching <strong><u>Romans</u></strong> 1-8 and other added materials.
+	b. We introduce justification, sanctification, and glorification by teaching <strong><u>Romans</u></strong> 1-8 and other added materials.
 	</h4>
 
 
@@ -3754,10 +3753,10 @@ b. We introduce justification, sanctification, and glorification by teaching <st
 4. Year 2
 	</h3>
 	<h4 class="fragment">
-a. We take a look at the life of Christ in the Panorama of the Life of<strong><u>Christ</u></strong>.
+	a. We take a look at the life of Christ in the Panorama of the Life of<strong><u>Christ</u></strong>.
 	</h4>
 	<h4 class="fragment">
-b. We examine Israel’s <strong><u>fate</u></strong> and practical Christian living Romans 9-16.
+	b. We examine Israel’s <strong><u>fate</u></strong> and practical Christian living Romans 9-16.
 	</h4>
 
 
@@ -3766,10 +3765,10 @@ b. We examine Israel’s <strong><u>fate</u></strong> and practical Christian li
 5. Year 3
 	</h3>
 	<h4 class="fragment">
-a. We follow the books of Acts in order to present the Panorama of the<strong><u>New</u></strong> Testament, which includes an overview of the New Testament books.
+	a. We follow the books of Acts in order to present the Panorama of the<strong><u>New</u></strong> Testament, which includes an overview of the New Testament books.
 	</h4>
 	<h4 class="fragment">
-b. We teach Galatians because it addresses many common attacks on the Gospel of <strong><u>Grace</u></strong>.
+	b. We teach Galatians because it addresses many common attacks on the Gospel of <strong><u>Grace</u></strong>.
 	</h4>
 
 
@@ -3778,10 +3777,10 @@ b. We teach Galatians because it addresses many common attacks on the Gospel of 
 6. Year 4
 	</h3>
 	<h4 class="fragment">
-a. We seek to get a perspective of the future with the Panorama of the<strong><u>End</u></strong> Times which includes the book of Revelation, Daniel, and Zachariah.
+	a. We seek to get a perspective of the future with the Panorama of the<strong><u>End</u></strong> Times which includes the book of Revelation, Daniel, and Zachariah.
 	</h4>
 	<h4 class="fragment">
-b. We teach Colossians, as it addresses the common heresies that attack<strong><u>every</u></strong> church.
+	b. We teach Colossians, as it addresses the common heresies that attack<strong><u>every</u></strong> church.
 	</h4>
 
 
@@ -3811,13 +3810,13 @@ c. We teach 1 Corinthians in order to teach on how to handle practical problems 
 2. Year 6
 	</h3>
 	<h4 class="fragment">
-a. We put a focus on equipping and tooling the <strong>disciple-maker</strong>.<strong> </strong>Obviously, we cannot teach every book of the Bible, but we seek to give the <strong><u>tools</u></strong> and methodology necessary to rightly divide Scripture. Therefore, the next two years are for tooling the <strong>disciple-makers</strong>.
+	a. We put a focus on equipping and tooling the <strong>disciple-maker</strong>.<strong> </strong>Obviously, we cannot teach every book of the Bible, but we seek to give the <strong><u>tools</u></strong> and methodology necessary to rightly divide Scripture. Therefore, the next two years are for tooling the <strong>disciple-makers</strong>.
 	</h4>
 	<h4 class="fragment">
-b. Bible <strong><u>Study</u></strong> Methods.
+	b. Bible <strong><u>Study</u></strong> Methods.
 	</h4>
 	<h4 class="fragment">
-c. Classical dispensational theology.
+	c. Classical dispensational theology.
 	</h4>
 
 
@@ -3826,14 +3825,14 @@ c. Classical dispensational theology.
 3. Year 7
 	</h3>
 	<h4 class="fragment">
-a. In this year we seek to further prepare the <strong>disciple-maker</strong> for effective <strong><u>service</u></strong>.
+	a. In this year we seek to further prepare the <strong>disciple-maker</strong> for effective <strong><u>service</u></strong>.
 	</h4>
 	<h4 class="fragment">
-b. We teach <strong>Critical Differences</strong>. This allows the pastor/teacher to quickly delineate between like-sounding biblical <strong><u>topics</u></strong>. It includes confusing topics which are found in the Scriptures like: Law versus grace, Israel versus the
-church, kingdom teaching versus church, the 7 Judgments, 7 baptisms in the Bible, etc.
+	b. We teach <strong>Critical Differences</strong>. This allows the pastor/teacher to quickly delineate between like-sounding biblical <strong><u>topics</u></strong>. It includes confusing topics which are found in the Scriptures like: Law versus grace, Israel versus the
+	church, kingdom teaching versus church, the 7 Judgments, 7 baptisms in the Bible, etc.
 	</h4>
 	<h4 class="fragment">
-c. We teach <strong>Critical Confusions</strong>. We give practical teaching against the many doctrinal confusions and heresies facing Christianity <strong><u>today</u></strong>.
+	c. We teach <strong>Critical Confusions</strong>. We give practical teaching against the many doctrinal confusions and heresies facing Christianity <strong><u>today</u></strong>.
 	</h4>
 
 
@@ -3845,10 +3844,10 @@ D. DOCTRINE: Four Years to Strengthen the Believer’s Defense of the Truth
 1. Year 7-10
 	</h3>
 	<h4 class="fragment">
-a. Specifics determined by the RMD.
+	a. Specifics determined by the RMD.
 	</h4>
 	<h4 class="fragment">
-b. A course on biblical <strong><u>Greek</u></strong> and Hebrew.
+	b. A course on biblical <strong><u>Greek</u></strong> and Hebrew.
 	</h4>
 
 
@@ -3900,7 +3899,7 @@ B. The job of worldwide disciple-making can be <u>done</u>!
 4. The first century church seems to have followed the Great Commission concept diligently.
 	</h3>
 	<h4 class="fragment">
-a. They accomplished what they accomplished because they had the <strong><u>faith</u></strong> to believe Christ’s declaration;<em> “I will build My church, and the gates of Hades shall not prevail against it…”</em> Matthew 16:18
+	a. They accomplished what they accomplished because they had the <strong><u>faith</u></strong> to believe Christ’s declaration;<em> “I will build My church, and the gates of Hades shall not prevail against it…”</em> Matthew 16:18
 	</h4>
 
 
@@ -3924,7 +3923,7 @@ d. The task of planting the church of Jesus Christ in every culture on earth has
 5. God promises there will be people from every tribe, tongue, and nation as a <strong><u>part</u></strong> of the church of Jesus Christ.
 	</h3>
 	<h4 class="fragment">
-a. We know that Christ promised to <strong><u>build</u></strong> His church. Matthew 16:18
+	a. We know that Christ promised to <strong><u>build</u></strong> His church. Matthew 16:18
 	</h4>
 
 
@@ -3941,4 +3940,4 @@ c. God has <strong><u>chosen</u></strong> to utilize faithful men and women from
 	<h3>
 6. Are you ready for the challenge? Go <strong><u>make</u></strong> <strong>disciple-makers</strong>!
 	</h3>
-</div>
+	</div>
