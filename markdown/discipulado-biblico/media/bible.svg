@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="720pt" height="720pt" fill-rule="evenodd" overflow="visible" stroke-linejoin="bevel" stroke-width=".501" version="1.1" viewBox="0 0 720 720" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="c" x2="-55.994" y2="-20.998" gradientTransform="translate(126.52 551.59)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#5eada4" offset="0"/>
+   <stop stop-color="#3c877f" offset="1"/>
+  </linearGradient>
+  <linearGradient id="d" x2="0" y2="35.327" gradientTransform="translate(385.84 77.219)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fff" offset="0"/>
+   <stop stop-color="#b2b2b2" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g transform="scale(1 -1)" fill="none" font-family="Times New Roman" font-size="16" stroke="#000">
+  <g transform="translate(0 -720)">
+   <g stroke="none" stroke-miterlimit="79.84">
+    <path d="m502.88 655.84l-452.54 1.925c-36.161-5.919-56.338-30.862-48.757-88.844l180.08-559.8c-9.701 42.757-4.096 81.141 45.61 106.93l484.78 3.581-209.18 536.21z" fill="url(#c)" stroke-linecap="round" stroke-linejoin="miter" stroke-width="13.794"/>
+    <path d="m578.8 450.7c-243.52 112.75-364.18-79.431-500.93-121.87l95.152-322.35c3.885 46.593 14.452 88.731 57.407 109.29l481.64-4.283-133.27 339.22z" fill="#3c877f" stroke-linecap="round" stroke-linejoin="miter" stroke-width="13.794"/>
+    <path d="m664.59 116.91l-428.16 1.923c-53.702-23.56-70.246-57.733-36.96-106.14l468.27 6.726c-20.056 30.313-20.328 58.906-3.146 97.492z" fill="url(#d)" stroke-linecap="round" stroke-linejoin="miter" stroke-width="13.794"/>
+    <path d="m179.12 11.054l-0.029 0.06c-22.258 47.418-3.503 90.584 44.612 113.77l-0.03-0.016c0.889 0.446 1.872 0.673 2.867 0.664l2.952-0.026-176.14 525.17-0.247 2.016h-0.031v0.051l0.015 0.079-0.044 0.365 0.407 1.43 0.116 0.573 0.082 0.122 0.064 0.224 0.612 0.777 0.591 0.875 0.209 0.141 0.098 0.125 0.482 0.266 1.209 0.817 0.42 0.085 0.103 0.057 0.048 0.015 0.012-0.039 1.865 0.377h437.26c2.564 0 4.873-1.558 5.832-3.935l217.08-537.88c1.674-4.15-1.412-8.683-5.888-8.643l-485.53 4.269-13.609-7.801c-26.775-18.236-37.388-44.375-29.483-73.622l4.152-11.208 502.02 3.897c3.465 0.027 6.302-2.76 6.337-6.225l1e-3 -0.099c0.035-3.477-2.763-6.326-6.24-6.353l-506.47-3.931c-2.431-0.019-4.656 1.365-5.713 3.554zm525.09 110.28l-211.89 525.02h-424.14l173.35-516.85c0.277-0.828 0.372-1.673 0.308-2.492l-0.452-1.612 462.83-4.068z" fill="#377b74" fill-rule="evenodd" stroke-width=".5"/>
+    <text transform="matrix(.99989 0 .36557 -.99989 311.69 343.38) scale(1.0002 1)" fill="#403f00" font-family="Arial" font-size="343.39" stroke-linecap="round" stroke-linejoin="round" stroke-width="12.875">
+     <tspan x="0" y="0">†</tspan>
+    </text>
+   </g>
+  </g>
+ </g>
+</svg>
