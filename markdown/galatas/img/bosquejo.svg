@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="1037.8751"
-   height="600.87512"
-   viewBox="0 0 382.0583 221.19167"
+   width="1114.2869"
+   height="645.11346"
+   viewBox="0 0 382.05833 221.19167"
    version="1.1"
    id="animation"
    inkscape:version="1.2.2 (b0a84865, 2022-12-01)"
@@ -23,11 +23,11 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:document-units="mm"
+     inkscape:document-units="px"
      showgrid="false"
      inkscape:zoom="0.49121165"
-     inkscape:cx="1538.0335"
-     inkscape:cy="514.03504"
+     inkscape:cx="511.99925"
+     inkscape:cy="208.66769"
      inkscape:window-width="1456"
      inkscape:window-height="829"
      inkscape:window-x="16"
@@ -35,6 +35,19 @@
      inkscape:window-maximized="0"
      inkscape:current-layer="g20721" /><defs
      id="defs16012"><linearGradient
+       inkscape:collect="always"
+       id="linearGradient26396"><stop
+         style="stop-color:#909048;stop-opacity:0;"
+         offset="0"
+         id="stop26394" /><stop
+         style="stop-color:#9a9a1a;stop-opacity:1;"
+         offset="1"
+         id="stop26392" /></linearGradient><linearGradient
+       id="linearGradient26388"
+       inkscape:swatch="solid"><stop
+         style="stop-color:#ffff00;stop-opacity:1;"
+         offset="0"
+         id="stop26386" /></linearGradient><linearGradient
        id="linearGradient17455"
        inkscape:swatch="solid"><stop
          style="stop-color:#000000;stop-opacity:1;"
@@ -246,7 +259,17 @@
            width="383.63837"
            height="40.938435"
            id="rect20701"
-           style="stroke-width:0.115973" /></g></clipPath></defs><g
+           style="stroke-width:0.115973" /></g></clipPath><radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient26396"
+       id="radialGradient26400"
+       cx="195.21013"
+       cy="-24.883425"
+       fx="195.21013"
+       fy="-24.883425"
+       r="189.38374"
+       gradientTransform="matrix(1,0,0,0.07440294,0,-23.032025)"
+       gradientUnits="userSpaceOnUse" /></defs><g
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="background"
@@ -1228,7 +1251,7 @@
          height="28.181416"
          fill="url(#fill7)"
          id="rect19111"
-         style="fill:url(#fill7);stroke-width:0.115973"
+         style="fill:url(#radialGradient26400);fill-opacity:1;stroke-width:0.115973"
          clip-path="url(#clipPath20699)"
          transform="translate(1.2538398e-6,28.978738)" /><text
          fill="#000000"
@@ -1281,7 +1304,7 @@
          id="text19117"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.3806px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration:none;text-decoration-line:none;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.115973"
          x="164.57912"
-         y="7.1085691">¡GRACIA bajo ataque!</text></g><g
+         y="8.5810328">¡GRACIA bajo ataque!</text></g><g
        style="overflow:hidden"
        id="g18543"
        transform="matrix(0.11533101,0,0,0.11533101,66.376275,125.14368)"
