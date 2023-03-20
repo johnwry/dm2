@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="1572.7568"
-   height="910.54346"
-   viewBox="0 0 382.05832 221.19167"
+   width="1649.1685"
+   height="954.7818"
+   viewBox="0 0 382.05831 221.19167"
    version="1.1"
    id="animation"
    inkscape:version="1.2.2 (b0a84865, 2022-12-01)"
@@ -25,9 +25,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="0.49121165"
-     inkscape:cx="511.99925"
-     inkscape:cy="208.66769"
+     inkscape:zoom="0.3733389"
+     inkscape:cx="928.11117"
+     inkscape:cy="6.6963288"
      inkscape:window-width="1456"
      inkscape:window-height="829"
      inkscape:window-x="16"
@@ -35,14 +35,11 @@
      inkscape:window-maximized="0"
      inkscape:current-layer="g20721" /><defs
      id="defs16012"><linearGradient
-       inkscape:collect="always"
-       id="linearGradient26396"><stop
-         style="stop-color:#909048;stop-opacity:0;"
+       id="linearGradient31906"
+       inkscape:swatch="solid"><stop
+         style="stop-color:#ffffff;stop-opacity:1;"
          offset="0"
-         id="stop26394" /><stop
-         style="stop-color:#9a9a1a;stop-opacity:1;"
-         offset="1"
-         id="stop26392" /></linearGradient><linearGradient
+         id="stop31904" /></linearGradient><linearGradient
        id="linearGradient26388"
        inkscape:swatch="solid"><stop
          style="stop-color:#ffff00;stop-opacity:1;"
@@ -259,17 +256,7 @@
            width="383.63837"
            height="40.938435"
            id="rect20701"
-           style="stroke-width:0.115973" /></g></clipPath><radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient26396"
-       id="radialGradient26400"
-       cx="195.21013"
-       cy="-24.883425"
-       fx="195.21013"
-       fy="-24.883425"
-       r="189.38374"
-       gradientTransform="matrix(1,0,0,0.07440294,0,-23.032025)"
-       gradientUnits="userSpaceOnUse" /></defs><g
+           style="stroke-width:0.115973" /></g></clipPath></defs><g
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="background"
@@ -1245,15 +1232,12 @@
        transform="translate(-3.599416,13.932505)"
        class="fragment"
        data-fragment-index="1"><rect
-         x="5.8263879"
-         y="-38.974133"
-         width="378.76749"
-         height="28.181416"
-         fill="url(#fill7)"
-         id="rect19111"
-         style="fill:url(#radialGradient26400);fill-opacity:1;stroke-width:0.115973"
-         clip-path="url(#clipPath20699)"
-         transform="translate(1.2538398e-6,28.978738)" /><text
+         style="fill:#803300;fill-opacity:1;stroke:none;stroke-width:0.45783"
+         id="rect31962"
+         width="377.34164"
+         height="29.181355"
+         x="5.9876528"
+         y="-9.6280575" /><text
          fill="#000000"
          fill-opacity="1"
          font-family="Calibri, Calibri_MSFontService, sans-serif"
