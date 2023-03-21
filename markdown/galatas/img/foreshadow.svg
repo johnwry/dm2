@@ -4,34 +4,11 @@
    height="1007.0107"
    version="1.1"
    viewBox="0 0 517.88002 290.32999"
-   id="animation"
-   sodipodi:docname="foreshadow.svg"
-   inkscape:version="1.2.2 (b0a84865, 2022-12-01)"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   id="svg33110"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
-  <sodipodi:namedview
-     id="namedview32628"
-     pagecolor="#ffffff"
-     bordercolor="#000000"
-     borderopacity="0.25"
-     inkscape:showpageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1"
-     showgrid="false"
-     inkscape:zoom="0.33026027"
-     inkscape:cx="749.40894"
-     inkscape:cy="688.85064"
-     inkscape:window-width="1436"
-     inkscape:window-height="815"
-     inkscape:window-x="0"
-     inkscape:window-y="38"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="animation" />
   <defs
-     id="defs32538">
+     id="animation">
     <radialGradient
        id="radialGradient3661"
        cx="251.73"
