@@ -32,7 +32,7 @@
      inkscape:window-x="0"
      inkscape:window-y="38"
      inkscape:window-maximized="0"
-     inkscape:current-layer="g19296" /><defs
+     inkscape:current-layer="g73035" /><defs
      id="defs2"><filter
        id="fx0"
        x="-25.746363"
@@ -16390,15 +16390,8 @@
          y="-395.37949"
          width="873.125"
          height="61.383331"
-         stroke="#000000"
-         stroke-width="0.909505"
-         stroke-linecap="butt"
-         stroke-linejoin="round"
-         stroke-miterlimit="10"
-         stroke-opacity="1"
-         fill="url(#fill28)"
          id="rect13519"
-         style="fill:#2b0000;fill-opacity:1"
+         style="fill:#2b0000;fill-opacity:1;stroke:#000000;stroke-width:1.05345;stroke-opacity:1"
          clip-path="url(#clipPath15786)"
          transform="translate(3.1750001,1.0583333)" /><text
          fill="#ffffff"
