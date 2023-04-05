@@ -3,6 +3,10 @@
    viewBox="0 0 941.74677 481.54587"
    version="1.1"
    id="svg198"
+   sodipodi:docname="persons1.svg"
+   inkscape:version="1.2.2 (b0a84865, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
@@ -38,6 +42,26 @@
        height="127.709"
        id="rect429" />
   </defs>
+  <sodipodi:namedview
+     id="namedview200"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.49008831"
+     inkscape:cx="437.67622"
+     inkscape:cy="263.21787"
+     inkscape:window-width="1445"
+     inkscape:window-height="854"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g1419"
+     showguides="false" />
   <g
      transform="translate(427.5 .00012)"
      id="g188">
@@ -83,11 +107,11 @@
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:37.3333px;line-height:0.8;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;white-space:pre;shape-inside:url(#rect1260);display:inline;fill:#008080;stroke:none;stroke-width:4.58;stroke-miterlimit:4.7"><tspan
          x="610.49846"
          y="53.689607"
-         id="tspan1545">ὄνομά μοί
+         id="tspan1578">ὄνομά μοί
 </tspan><tspan
-         x="586.39952"
+         x="571.24198"
          y="83.988412"
-         id="tspan1547"> ἐστι Ioanne</tspan></text>
+         id="tspan1580"> ἐστι Ιωαννην</tspan></text>
   </g>
   <g
      id="g1410"
@@ -100,11 +124,11 @@
        transform="matrix(1.2311665,0,0,1.3820696,-313.63674,6.1776692)"><tspan
          x="423.70678"
          y="56.683748"
-         id="tspan1549">τί ὄνομά 
+         id="tspan1582">τί ὄνομά 
 </tspan><tspan
          x="418.16512"
          y="86.982553"
-         id="tspan1551">σοί ἐστιν;</tspan></text>
+         id="tspan1584">σοί ἐστιν;</tspan></text>
   </g>
   <text
      xml:space="preserve"
