@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   width="3567"
-   height="2427"
+   width="1426.0105"
+   height="958.72064"
    overflow="hidden"
    version="1.1"
    id="svg11227"
    sodipodi:docname="cronologia-de-los-profetas.svg"
    inkscape:version="1.2.2 (b0a84865, 2022-12-01)"
+   viewBox="0 0 3558.0081 2392.0832"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -22,8 +23,8 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="0.17371242"
-     inkscape:cx="1511.1182"
-     inkscape:cy="1324.0274"
+     inkscape:cx="1735.6272"
+     inkscape:cy="1116.7883"
      inkscape:window-width="1433"
      inkscape:window-height="830"
      inkscape:window-x="0"
@@ -493,7 +494,8 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="background"
-     style="display:inline">
+     style="display:inline"
+     transform="translate(-8.9918831,-26.916765)">
     <path
        d="M 2232,666.891 2497.26,402 H 3562 v 92.109 L 3296.74,759 H 2232 Z"
        fill="#4f81bd"
@@ -1041,7 +1043,8 @@
      inkscape:groupmode="layer"
      id="layer1"
      inkscape:label="texto"
-     style="display:inline">
+     style="display:inline"
+     transform="translate(-8.9918831,-26.916765)">
     <g
        id="g14658"
        transform="translate(298.323,1272)"
