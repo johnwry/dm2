@@ -127,15 +127,17 @@
          <path d="m542.38 665 123.75 189.11" clip-path="url(#clipPath666)" fill="none" fill-rule="evenodd" stroke="#ffff00" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="9.1667"/>
       </g>
    </g>
-   <path transform="translate(-43.662 -6.7075)" d="m1340.4 686 123.75 189.11" clip-path="url(#clipPath660)" fill="none" fill-rule="evenodd" stroke="#ffff00" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="9.1667"/>
-   <g class="fragment" transform="translate(-23.065 -6.354)" data-fragment-index="2">
-      <g fill="none" stroke="#ffff00" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="13.75">
-         <rect x="1051.9" y="296.5" width="935" height="935" clip-path="url(#clipPath774)"/>
-         <path d="m1243.9 763.5c0-144.15 123.12-261 275-261s275 116.85 275 261-123.12 261-275 261-275-116.85-275-261z" clip-path="url(#clipPath768)" fill-rule="evenodd"/>
-         <path d="m1518.9 502.5v522.5" clip-path="url(#clipPath762)" fill-rule="evenodd"/>
+   <g class="fragment" transform="translate(-136.39 -118.27)" data-fragment-index="2">
+      <path transform="translate(99.102 106.56)" d="m1340.4 686 123.75 189.11" clip-path="url(#clipPath660)" fill="none" fill-rule="evenodd" stroke="#ffff00" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="9.1667"/>
+      <g class="fragment" transform="translate(119.7 106.91)" data-fragment-index="2">
+         <g fill="none" stroke="#ffff00" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="13.75">
+            <rect x="1051.9" y="296.5" width="935" height="935" clip-path="url(#clipPath774)"/>
+            <path d="m1243.9 763.5c0-144.15 123.12-261 275-261s275 116.85 275 261-123.12 261-275 261-275-116.85-275-261z" clip-path="url(#clipPath768)" fill-rule="evenodd"/>
+            <path d="m1518.9 502.5v522.5" clip-path="url(#clipPath762)" fill-rule="evenodd"/>
+         </g>
+         <text x="1201.1949" y="449.5" fill="#ffff00" font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif" font-weight="400">Ebionismo<tspan x="1093.4871" y="1144.5" font-size="73px">Negaba la Naturaleza Divina</tspan><tspan x="1349.11" y="816.5" font-size="147px">D</tspan><tspan x="1608.103" y="816.5" font-size="147px">H</tspan></text>
+         <path d="m1435.9 678-108.56 204.4" clip-path="url(#clipPath654)" fill="none" fill-rule="evenodd" stroke="#ffff00" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="9.1667"/>
       </g>
-      <text x="1201.1949" y="449.5" fill="#ffff00" font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif" font-weight="400">Ebionismo<tspan x="1093.4871" y="1144.5" font-size="73px">Negaba la Naturaleza Divina</tspan><tspan x="1349.11" y="816.5" font-size="147px">D</tspan><tspan x="1608.103" y="816.5" font-size="147px">H</tspan></text>
-      <path d="m1435.9 678-108.56 204.4" clip-path="url(#clipPath654)" fill="none" fill-rule="evenodd" stroke="#ffff00" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="9.1667"/>
    </g>
    <g class="fragment" data-fragment-index="4">
       <g fill="none" fill-rule="evenodd" stroke="#ffff00" stroke-linejoin="round" stroke-miterlimit="10">
