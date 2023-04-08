@@ -105,48 +105,49 @@
                 <rect width="3344" height="2519"/>
             </g>
         </clipPath>
+        <pattern id="pattern19090" width="3328.875" height="2496.875" patternUnits="userSpaceOnUse">
+            <g transform="translate(22,15)" clip-path="url(#clipPath15748)">
+                <g transform="translate(-23,-16)" clip-path="url(#clip3)" filter="url(#fx0)">
+                    <g clip-path="url(#clip4)">
+                        <rect x="23" y="23.2178" width="3300" height="2475" stroke="#ffffff" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="14"/>
+                    </g>
+                </g>
+            </g>
+            <rect x="22" y="15" width="3300" height="2475" clip-path="url(#clipPath15742)" stroke="#ffffff" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="13.75"/>
+            <path d="m3244.5 51.1266c0 9.7348-7.89 17.6265-17.63 17.6265v-17.6265c0 4.8674-3.94 8.8132-8.81 8.8132s-8.81-3.9458-8.81-8.8132v17.623h-3116.12c-9.7348 0-17.6264 7.8917-17.6264 17.6265v211.497c0 9.735 7.8916 17.627 17.6264 17.627 9.7347 0 17.6263-7.892 17.6263-17.627l-3e-3 -17.623h3116.12c9.74 0 17.63-7.891 17.63-17.626zm-3151.37 52.8726c9.7347 0 17.6263-7.8917 17.6263-17.6265 0-4.8675-3.9458-8.8133-8.8131-8.8133-4.8674 0-8.8132 3.9458-8.8132 8.8133z" clip-path="url(#clipPath15736)" fill="url(#pattern6)" fill-rule="evenodd" style="fill:url(#pattern15666)"/>
+            <path d="m93.1265 103.999c9.7347 0 17.6263-7.8917 17.6263-17.6265 0-4.8675-3.9458-8.8133-8.8131-8.8133-4.8674 0-8.8132 3.9458-8.8132 8.8133zm3133.74-35.2496c9.74 0 17.63-7.8916 17.63-17.6265 0-9.7348-7.89-17.6265-17.63-17.6265-9.73 0-17.62 7.8917-17.62 17.6265 0 4.8674 3.94 8.8133 8.81 8.8133s8.81-3.9459 8.81-8.8133z" clip-path="url(#clipPath15730)" fill="url(#pattern8)" fill-rule="evenodd" style="fill:url(#pattern15668)"/>
+            <path d="m75.5001 86.3761c0-9.7348 7.8916-17.6265 17.6264-17.6265h3116.12v-17.623c0-9.7349 7.89-17.6265 17.63-17.6265 9.73 0 17.62 7.8916 17.62 17.6265v211.497c0 9.735-7.89 17.626-17.63 17.626h-3116.12v17.623c0 9.735-7.8916 17.627-17.6264 17.627s-17.6263-7.892-17.6263-17.627zm3133.75-17.6265h17.62c9.74 0 17.63-7.8916 17.63-17.6265m-17.63 17.6265v-17.623c0 4.8674-3.94 8.8132-8.81 8.8132s-8.81-3.9458-8.81-8.8132m-3116.12 52.8726v-17.6231c0-4.8674 3.9458-8.8132 8.8132-8.8132 4.8673 0 8.8131 3.9458 8.8131 8.8132 0 9.7349-7.8916 17.6265-17.6263 17.6265-9.7348 0-17.6264-7.8916-17.6264-17.6265m35.2493 0v193.874" clip-path="url(#clipPath15724)" fill="none" fill-rule="evenodd" stroke="#000000" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="9.16667"/>
+            <use transform="translate(136,44)" width="100%" height="100%" clip-path="url(#clipPath15718)" fill="none" xlink:href="#img9"/>
+            <text x="171.5" y="240" fill="#ffff00" font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif" font-size="183px" font-style="italic" font-weight="700">Luke</text>
+            <path d="m139 307h2884l-961.32 170.331h-1752.35v310.488l-170.331 30.181z" clip-path="url(#clipPath15712)" fill="url(#fill10)" fill-rule="evenodd" style="fill:url(#fill10)"/>
+            <use transform="translate(136,259)" width="100%" height="100%" clip-path="url(#clipPath15706)" fill="none" xlink:href="#img11"/>
+            <text x="171.5" y="437" font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif" font-size="165px" font-weight="700">Luke 1:5<tspan x="799.41699" y="437" font-size="165px">-</tspan>25</text>
+            <g transform="matrix(3.60892e-4,0,0,3.60892e-4,2992,91)" clip-path="url(#clipPath15700)">
+                <g transform="matrix(1.00797 0 0 1 -.461426 -.00545987)" clip-path="url(#clip14)">
+                    <use transform="scale(4131.62)" width="100%" height="100%" xlink:href="#img13"/>
+                </g>
+            </g>
+            <g transform="matrix(3.60892e-4,0,0,3.60892e-4,509,571)" clip-path="url(#clipPath15694)">
+                <g transform="matrix(1.00021,0,0,1,-304768,-142903)" clip-path="url(#clip17)">
+                    <use transform="scale(5715.04)" width="100%" height="100%" xlink:href="#img16"/>
+                </g>
+            </g>
+            <rect class="fragment" x="1499" y="1528" width="275" height="220" clip-path="url(#clipPath15688)" fill="none" stroke="#ff0000" stroke-miterlimit="8" stroke-width="18.3333" data-fragment-index="1"/>
+            <text x="671.22498" y="2342" font-family="Calibri, Calibri_MSFontService, sans-serif" font-size="115px" font-style="italic" font-weight="700">Herod’s Temple</text>
+            <path d="m530.375 684.375h2213.24v1686.24h-2213.24zm4.125 1682.12h2205v-1678h-2205zm4.125-1673.88h2196.74v1669.76h-2196.74zm12.375 1657.38h2172v-1645h-2172z" clip-path="url(#clipPath15676)" fill="#19615c"/>
+            <g class="fragment" transform="translate(2977.75 163.753)" data-fragment-index="2">
+                <g transform="matrix(.000360892 0 0 .000360892 -2426.97 497)" clip-path="url(#clipPath15682)">
+                    <g transform="matrix(1 0 0 1.00044 -.00397284 -.0477184)" clip-path="url(#clip20)">
+                        <use transform="scale(6769.87)" width="100%" height="100%" xlink:href="#img19"/>
+                    </g>
+                </g>
+                <g transform="matrix(.000360892 0 0 .000360892 -2169.01 994.496)" clip-path="url(#clipPath15670)">
+                    <g transform="matrix(1.0025 0 0 1 .0923961 -.0760387)" clip-path="url(#clip23)">
+                        <use transform="scale(1681.69)" width="100%" height="100%" xlink:href="#img22"/>
+                    </g>
+                </g>
+            </g>
+        </pattern>
     </defs>
-    <g transform="translate(22,15)" clip-path="url(#clipPath15748)">
-        <g transform="translate(-23,-16)" clip-path="url(#clip3)" filter="url(#fx0)">
-            <g clip-path="url(#clip4)">
-                <rect x="23" y="23.2178" width="3300" height="2475" stroke="#ffffff" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="14"/>
-            </g>
-        </g>
-    </g>
-    <rect x="22" y="15" width="3300" height="2475" clip-path="url(#clipPath15742)" stroke="#ffffff" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="13.75"/>
-    <g fill-rule="evenodd">
-        <path d="m3244.5 51.1266c0 9.7348-7.89 17.6265-17.63 17.6265v-17.6265c0 4.8674-3.94 8.8132-8.81 8.8132s-8.81-3.9458-8.81-8.8132v17.623h-3116.12c-9.7348 0-17.6264 7.8917-17.6264 17.6265v211.497c0 9.735 7.8916 17.627 17.6264 17.627 9.7347 0 17.6263-7.892 17.6263-17.627l-3e-3 -17.623h3116.12c9.74 0 17.63-7.891 17.63-17.626zm-3151.37 52.8726c9.7347 0 17.6263-7.8917 17.6263-17.6265 0-4.8675-3.9458-8.8133-8.8131-8.8133-4.8674 0-8.8132 3.9458-8.8132 8.8133z" clip-path="url(#clipPath15736)" fill="url(#pattern6)" style="fill:url(#pattern15666)"/>
-        <path d="m93.1265 103.999c9.7347 0 17.6263-7.8917 17.6263-17.6265 0-4.8675-3.9458-8.8133-8.8131-8.8133-4.8674 0-8.8132 3.9458-8.8132 8.8133zm3133.74-35.2496c9.74 0 17.63-7.8916 17.63-17.6265 0-9.7348-7.89-17.6265-17.63-17.6265-9.73 0-17.62 7.8917-17.62 17.6265 0 4.8674 3.94 8.8133 8.81 8.8133s8.81-3.9459 8.81-8.8133z" clip-path="url(#clipPath15730)" fill="url(#pattern8)" style="fill:url(#pattern15668)"/>
-        <path d="m75.5001 86.3761c0-9.7348 7.8916-17.6265 17.6264-17.6265h3116.12v-17.623c0-9.7349 7.89-17.6265 17.63-17.6265 9.73 0 17.62 7.8916 17.62 17.6265v211.497c0 9.735-7.89 17.626-17.63 17.626h-3116.12v17.623c0 9.735-7.8916 17.627-17.6264 17.627s-17.6263-7.892-17.6263-17.627zm3133.75-17.6265h17.62c9.74 0 17.63-7.8916 17.63-17.6265m-17.63 17.6265v-17.623c0 4.8674-3.94 8.8132-8.81 8.8132s-8.81-3.9458-8.81-8.8132m-3116.12 52.8726v-17.6231c0-4.8674 3.9458-8.8132 8.8132-8.8132 4.8673 0 8.8131 3.9458 8.8131 8.8132 0 9.7349-7.8916 17.6265-17.6263 17.6265-9.7348 0-17.6264-7.8916-17.6264-17.6265m35.2493 0v193.874" clip-path="url(#clipPath15724)" fill="none" stroke="#000000" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="9.16667"/>
-    </g>
-    <use transform="translate(136,44)" width="100%" height="100%" clip-path="url(#clipPath15718)" fill="none" xlink:href="#img9"/>
-    <text x="171.5" y="240" fill="#ffff00" font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif" font-size="183px" font-style="italic" font-weight="700">Luke</text>
-    <path d="m139 307h2884l-961.32 170.331h-1752.35v310.488l-170.331 30.181z" clip-path="url(#clipPath15712)" fill="url(#fill10)" fill-rule="evenodd" style="fill:url(#fill10)"/>
-    <use transform="translate(136,259)" width="100%" height="100%" clip-path="url(#clipPath15706)" fill="none" xlink:href="#img11"/>
-    <text x="171.5" y="437" font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif" font-size="165px" font-weight="700">Luke 1:5<tspan x="799.41699" y="437" font-size="165px">-</tspan>25</text>
-    <g transform="matrix(3.60892e-4,0,0,3.60892e-4,2992,91)" clip-path="url(#clipPath15700)">
-        <g transform="matrix(1.00797 0 0 1 -.461426 -.00545987)" clip-path="url(#clip14)">
-            <use transform="scale(4131.62)" width="100%" height="100%" xlink:href="#img13"/>
-        </g>
-    </g>
-    <g transform="matrix(3.60892e-4,0,0,3.60892e-4,509,571)" clip-path="url(#clipPath15694)">
-        <g transform="matrix(1.00021,0,0,1,-304768,-142903)" clip-path="url(#clip17)">
-            <use transform="scale(5715.04)" width="100%" height="100%" xlink:href="#img16"/>
-        </g>
-    </g>
-    <rect class="fragment" x="1499" y="1528" width="275" height="220" clip-path="url(#clipPath15688)" fill="none" stroke="#ff0000" stroke-miterlimit="8" stroke-width="18.3333" data-fragment-index="1"/>
-    <text x="671.22498" y="2342" font-family="Calibri, Calibri_MSFontService, sans-serif" font-size="115px" font-style="italic" font-weight="700">Herod’s Temple</text>
-    <path d="m530.375 684.375h2213.24v1686.24h-2213.24zm4.125 1682.12h2205v-1678h-2205zm4.125-1673.88h2196.74v1669.76h-2196.74zm12.375 1657.38h2172v-1645h-2172z" clip-path="url(#clipPath15676)" fill="#19615c"/>
-    <g class="fragment" transform="translate(2977.75 163.753)" data-fragment-index="2">
-        <g transform="matrix(.000360892 0 0 .000360892 -2426.97 497)" clip-path="url(#clipPath15682)">
-            <g transform="matrix(1 0 0 1.00044 -.00397284 -.0477184)" clip-path="url(#clip20)">
-                <use transform="scale(6769.87)" width="100%" height="100%" xlink:href="#img19"/>
-            </g>
-        </g>
-        <g transform="matrix(.000360892 0 0 .000360892 -2169.01 994.496)" clip-path="url(#clipPath15670)">
-            <g transform="matrix(1.0025 0 0 1 .0923961 -.0760387)" clip-path="url(#clip23)">
-                <use transform="scale(1681.69)" width="100%" height="100%" xlink:href="#img22"/>
-            </g>
-        </g>
-    </g>
+    <rect width="3328.88" height="2496.88" style="fill:url(#pattern19090)"/>
 </svg>
