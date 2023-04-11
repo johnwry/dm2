@@ -24,7 +24,7 @@
      showgrid="false"
      inkscape:zoom="0.32717042"
      inkscape:cx="1656.629"
-     inkscape:cy="1245.5283"
+     inkscape:cy="1248.5848"
      inkscape:window-width="1920"
      inkscape:window-height="1001"
      inkscape:window-x="-9"
@@ -188,7 +188,7 @@
        transform="translate(149.5,225)"
        id="text41"
        style="display:inline"
-       class="fragment fade-in"
+       class="fragment"
        data-fragment-index="1">Juan</text>
     <path
        d="M117 292 3001 292 2039.68 462.331 287.331 462.331 287.331 772.819 117 803Z"
@@ -208,7 +208,7 @@
        font-size="165px"
        transform="translate(149.5,422)"
        id="text49"
-       class="fragment fade-in"
+       class="fragment "
        data-fragment-index="2">Juan 20:30<tspan
    font-size="165px"
    x="774.58301"
@@ -239,7 +239,7 @@
        id="text77"
        inkscape:label="text77"
        style="display:inline"
-       class="fragment fade-in"
+       class="fragment"
        data-fragment-index="3">De igual manera que las señales, debemos <tspan
    font-size="165px"
    x="0"
