@@ -179,17 +179,6 @@
        fill="none"
        transform="translate(114 29)"
        id="use39" />
-    <text
-       fill="#ffff00"
-       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
-       font-style="italic"
-       font-weight="700"
-       font-size="183px"
-       transform="translate(149.5,225)"
-       id="text41"
-       style="display:inline"
-       class="fragment"
-       data-fragment-index="1">Juan</text>
     <path
        d="M117 292 3001 292 2039.68 462.331 287.331 462.331 287.331 772.819 117 803Z"
        fill="url(#fill6)"
@@ -202,45 +191,66 @@
        fill="none"
        transform="translate(114 244)"
        id="use45" />
-    <text
-       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
-       font-weight="700"
-       font-size="165px"
-       transform="translate(149.5,422)"
-       id="text49"
-       class="fragment "
-       data-fragment-index="2">Juan 20:30<tspan
+    <g
+       clip-path="url(#clip10)"
+       transform="matrix(3.6376831e-4,0,0,3.60892e-4,2969.9998,75.999998)"
+       id="g53"
+       style="display:inline">
+      <use
+         width="100%"
+         height="100%"
+         xlink:href="#img9"
+         transform="scale(4131.62)"
+         id="use51" />
+    </g>
+    <g
+       id="g366"
+       class="fragment"
+       data-fragment-index="1"
+       style="display:inline">
+      <text
+         fill="#ffff00"
+         font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+         font-style="italic"
+         font-weight="700"
+         font-size="183px"
+         transform="translate(149.5,225)"
+         id="text41"
+         style="display:inline"
+         class="fragment"
+         data-fragment-index="1">Juan</text>
+    </g>
+    <g
+       id="g363"
+       style="display:inline"
+       class="fragment"
+       data-fragment-index="2">
+      <text
+         font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+         font-weight="700"
+         font-size="165px"
+         transform="translate(149.5,422)"
+         id="text49">Juan 20:30<tspan
    font-size="165px"
    x="774.58301"
    y="0"
    id="tspan47">-</tspan>31</text>
-    <g
-       clip-path="url(#clip8)"
-       transform="matrix(0.000360892 0 0 0.000360892 2970 76)"
-       id="g55">
-      <g
-         clip-path="url(#clip10)"
-         transform="matrix(1.00797 0 0 1 -0.461426 -0.00545987)"
-         id="g53">
-        <use
-           width="100%"
-           height="100%"
-           xlink:href="#img9"
-           transform="scale(4131.62 4131.62)"
-           id="use51" />
-      </g>
     </g>
-    <text
-       fill="#ffff00"
-       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
-       font-weight="400"
-       font-size="165px"
-       transform="translate(317.36,1887)"
-       id="text77"
-       inkscape:label="text77"
+    <g
+       id="g359"
+       inkscape:label="g359"
        style="display:inline"
        class="fragment"
-       data-fragment-index="3">De igual manera que las señales, debemos <tspan
+       data-fragment-index="3">
+      <text
+         fill="#ffff00"
+         font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+         font-weight="400"
+         font-size="165px"
+         transform="translate(317.36,1887)"
+         id="text77"
+         inkscape:label="text77"
+         style="display:inline">De igual manera que las señales, debemos <tspan
    font-size="165px"
    x="0"
    y="198"
@@ -285,5 +295,6 @@
    x="0"
    y="-298"
    id="tspan75">Verdad que esta señalaba.</tspan></text>
+    </g>
   </g>
 </svg>
