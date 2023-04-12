@@ -1,8 +1,197 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Generator: Adobe Illustrator 24.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 3326 2488" style="enable-background:new 0 0 3326 2488;" xml:space="preserve">
-<style type="text/css">
+
+<svg
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 948.08868 119.43254"
+   xml:space="preserve"
+   sodipodi:docname="juan-20_30-31.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   width="948.08868"
+   height="119.43254"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs109">
+	<defs
+   id="defs21">
+		<rect
+   id="SVGID_1_"
+   width="3326"
+   height="2488"
+   x="0"
+   y="0" />
+	</defs>
+	<clipPath
+   id="SVGID_2_">
+		<use
+   xlink:href="#SVGID_1_"
+   style="overflow:visible"
+   id="use23" />
+	</clipPath>
+	
+	<pattern
+   id="SVGID_3_"
+   xlink:href="#pattern2"
+   patternTransform="matrix(4.4 0 0 -4.4 22025.5 -51164.8984)">
+	</pattern>
+	
+	<pattern
+   id="SVGID_4_"
+   xlink:href="#pattern4"
+   patternTransform="matrix(4.4 0 0 -4.4 22025.5 -51164.8984)">
+	</pattern>
+	
+	
+	
+	
+	
+		<linearGradient
+   id="SVGID_5_"
+   gradientUnits="userSpaceOnUse"
+   x1="1440.4279"
+   y1="1451.6576"
+   x2="1616.4235"
+   y2="2444.8982"
+   gradientTransform="matrix(1,0,0,-1,4,2496)">
+		<stop
+   offset="0"
+   style="stop-color:#CCC1DA"
+   id="stop43" />
+		<stop
+   offset="0.5"
+   style="stop-color:#DDD9C3"
+   id="stop45" />
+		<stop
+   offset="1"
+   style="stop-color:#FFFFFF"
+   id="stop47" />
+	</linearGradient>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+		<defs
+   id="defs60">
+			<rect
+   id="SVGID_6_"
+   x="2993.8999"
+   y="83"
+   width="256.20001"
+   height="336" />
+		</defs>
+		
+		
+	
+				<defs
+   id="defs66">
+					<rect
+   id="SVGID_8_"
+   x="2993.8999"
+   y="84"
+   width="255.2"
+   height="334" />
+				</defs>
+				
+				
+			
+						
+							
+					
+					
+				<clipPath
+   clipPathUnits="userSpaceOnUse"
+   id="clipPath357"><g
+     id="g361"><use
+       xlink:href="#SVGID_8_"
+       style="overflow:visible"
+       id="use359"
+       transform="matrix(1.00797,0,0,1,-0.461426,-0.00545987)" /></g></clipPath>
+			
+					
+				
+		
+		
+		
+		
+	
+		
+			
+	<clipPath
+   clipPathUnits="userSpaceOnUse"
+   id="clipPath381"><g
+     id="g385"><use
+       xlink:href="#SVGID_1_"
+       style="overflow:visible"
+       id="use383"
+       transform="translate(114,29)" /></g></clipPath>
+		
+			
+	<clipPath
+   clipPathUnits="userSpaceOnUse"
+   id="clipPath393"><g
+     id="g397"><use
+       xlink:href="#SVGID_1_"
+       style="overflow:visible"
+       id="use395"
+       transform="translate(2010,1595)" /></g></clipPath>
+		
+			
+	<clipPath
+   clipPathUnits="userSpaceOnUse"
+   id="clipPath405"><g
+     id="g409"><use
+       xlink:href="#SVGID_1_"
+       style="overflow:visible"
+       id="use407"
+       transform="translate(114,244)" /></g></clipPath>
+		
+	
+		
+			
+	<clipPath
+   clipPathUnits="userSpaceOnUse"
+   id="clipPath423"><g
+     id="g427"><use
+       xlink:href="#SVGID_1_"
+       style="overflow:visible"
+       id="use425"
+       transform="translate(1105,1919)" /></g></clipPath></defs><sodipodi:namedview
+   id="namedview107"
+   pagecolor="#505050"
+   bordercolor="#eeeeee"
+   borderopacity="1"
+   inkscape:showpageshadow="0"
+   inkscape:pageopacity="0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#505050"
+   showgrid="false"
+   inkscape:zoom="0.23134442"
+   inkscape:cx="827.77012"
+   inkscape:cy="101.58015"
+   inkscape:window-width="1920"
+   inkscape:window-height="1001"
+   inkscape:window-x="-9"
+   inkscape:window-y="-9"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Layer_1" />
+<style
+   type="text/css"
+   id="style2">
 	.st0{fill:none;}
 	.st1{clip-path:url(#SVGID_2_);fill:#4F81BD;stroke:#385D8A;stroke-width:9.1667;stroke-linejoin:round;stroke-miterlimit:10;}
 	.st2{clip-path:url(#SVGID_2_);fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_3_);}
@@ -23,113 +212,219 @@
 	.st17{font-family:'Arial-ItalicMT';}
 	.st18{letter-spacing:-3;}
 </style>
-<pattern  y="2488" width="128" height="128" patternUnits="userSpaceOnUse" id="pattern2" viewBox="0 -128 128 128" style="overflow:visible;">
-	<g>
-		<rect y="-128" class="st0" width="128" height="128"/>
-		<g>
+<pattern
+   y="2488"
+   width="128"
+   height="128"
+   patternUnits="userSpaceOnUse"
+   id="pattern2"
+   viewBox="0 -128 128 128"
+   style="overflow:visible">
+	<g
+   id="g9">
+		<rect
+   y="-128"
+   class="st0"
+   width="128"
+   height="128"
+   id="rect4" />
+		<g
+   id="g7">
 			
-				<image style="overflow:visible;enable-background:new    ;" width="128" height="128" id="img1_1_" xlink:href="1FA32053.jpg"  transform="matrix(1 0 0 -1 0 0)">
+				<image
+   style="overflow:visible;enable-background:new    ;"
+   width="128"
+   height="128"
+   id="img1_1_"
+   xlink:href="1FA32053.jpg"
+   transform="matrix(1 0 0 -1 0 0)">
 			</image>
 		</g>
 	</g>
 </pattern>
-<pattern  y="2488" width="128" height="128" patternUnits="userSpaceOnUse" id="pattern4" viewBox="0 -128 128 128" style="overflow:visible;">
-	<g>
-		<rect y="-128" class="st0" width="128" height="128"/>
-		<g>
+<pattern
+   y="2488"
+   width="128"
+   height="128"
+   patternUnits="userSpaceOnUse"
+   id="pattern4"
+   viewBox="0 -128 128 128"
+   style="overflow:visible">
+	<g
+   id="g17">
+		<rect
+   y="-128"
+   class="st0"
+   width="128"
+   height="128"
+   id="rect12" />
+		<g
+   id="g15">
 			
-				<image style="overflow:visible;enable-background:new    ;" width="128" height="128" id="img3_1_" xlink:href="1FA32051.jpg"  transform="matrix(1 0 0 -1 0 0)">
+				<image
+   style="overflow:visible;enable-background:new    ;"
+   width="128"
+   height="128"
+   id="img3_1_"
+   xlink:href="1FA32051.jpg"
+   transform="matrix(1 0 0 -1 0 0)">
 			</image>
 		</g>
 	</g>
 </pattern>
-<g>
-	<defs>
-		<rect id="SVGID_1_" width="3326" height="2488"/>
-	</defs>
-	<clipPath id="SVGID_2_">
-		<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
-	</clipPath>
-	<rect x="10.5" y="8.5" class="st1" width="3315.5" height="2475"/>
-	<pattern  id="SVGID_3_" xlink:href="#pattern2" patternTransform="matrix(4.4 0 0 -4.4 22025.5 -51164.8984)">
-	</pattern>
-	<path class="st2" d="M3247.6,44.1c0,8.4-7.9,15.3-17.7,15.3V44.1c0,4.2-4,7.6-8.9,7.6c-4.9,0-8.9-3.4-8.9-7.6v15.3H81.5
-		c-9.8,0-17.7,6.8-17.7,15.3V258c0,8.4,7.9,15.3,17.7,15.3c9.8,0,17.7-6.8,17.7-15.3l0-15.3h3130.8c9.8,0,17.7-6.8,17.7-15.3V44.1z
-		 M81.5,89.9c9.8,0,17.7-6.8,17.7-15.3c0-4.2-4-7.6-8.9-7.6c-4.9,0-8.9,3.4-8.9,7.6V89.9z"/>
-	<pattern  id="SVGID_4_" xlink:href="#pattern4" patternTransform="matrix(4.4 0 0 -4.4 22025.5 -51164.8984)">
-	</pattern>
-	<path class="st3" d="M81.5,97c9.8,0,17.7-7.9,17.7-17.6c0-4.9-4-8.8-8.9-8.8c-4.9,0-8.9,3.9-8.9,8.8V97z M3229.9,61.7
-		c9.8,0,17.7-7.9,17.7-17.6c0-9.7-7.9-17.6-17.7-17.6c-9.8,0-17.7,7.9-17.7,17.6c0,4.9,4,8.8,8.9,8.8c4.9,0,8.9-3.9,8.9-8.8V61.7z"
-		/>
-	<path class="st4" d="M63.7,79.4c0-9.7,7.9-17.6,17.7-17.6h3130.8V44.1c0-9.7,7.9-17.6,17.7-17.6c9.8,0,17.7,7.9,17.7,17.6v211.5
-		c0,9.7-7.9,17.6-17.7,17.6H99.2v17.6c0,9.7-7.9,17.6-17.7,17.6s-17.7-7.9-17.7-17.6L63.7,79.4z M3212.2,61.7h17.7
-		c9.8,0,17.7-7.9,17.7-17.6 M3229.9,61.7V44.1c0,4.9-4,8.8-8.9,8.8c-4.9,0-8.9-3.9-8.9-8.8 M81.5,97V79.4c0-4.9,4-8.8,8.9-8.8
-		c4.9,0,8.9,3.9,8.9,8.8C99.2,89.1,91.2,97,81.5,97c-9.8,0-17.7-7.9-17.7-17.6 M99.2,79.4v193.9"/>
-	<g transform="translate(114 29)" class="st5">
-		
-			<image style="overflow:visible;enable-background:new    ;" width="509" height="260" id="img5" xlink:href="1FA32057.jpg"  transform="matrix(1.0047 0 0 1 124.5331 37)">
+<image
+   style="overflow:visible;enable-background:new"
+   width="0.19549292"
+   height="0.29602"
+   id="img12"
+   xlink:href="1FA3205F.png"
+   x="4980.7329"
+   y="1671.5787"
+   clip-path="url(#clipPath393)"
+   transform="translate(-289.8823,-549.47873)">
 		</image>
-	</g>
-	<g class="st6">
-		<text transform="matrix(1.0047 0 0 1 160.2002 233)" class="st7 st8 st9">Juan</text>
-	</g>
-	
-		<linearGradient id="SVGID_5_" gradientUnits="userSpaceOnUse" x1="1440.4279" y1="1451.6576" x2="1616.4235" y2="2444.8982" gradientTransform="matrix(1 0 0 -1 4 2496)">
-		<stop  offset="0" style="stop-color:#CCC1DA"/>
-		<stop  offset="0.5" style="stop-color:#DDD9C3"/>
-		<stop  offset="1" style="stop-color:#FFFFFF"/>
-	</linearGradient>
-	<path class="st10" d="M127.5,300h2897.5l-965.8,170.3H298.7v310.5L127.5,811V300z"/>
-	<g transform="translate(114 244)" class="st5">
 		
-			<image style="overflow:visible;enable-background:new    ;" width="1076" height="238" id="img7" xlink:href="1FA32050.jpg"  transform="matrix(1.0047 0 0 1 124.5331 252)">
+	<rect
+   x="10.5"
+   y="8.5"
+   class="st1"
+   width="3315.5"
+   height="2475"
+   clip-path="url(#SVGID_2_)"
+   id="rect26"
+   sodipodi:insensitive="true"
+   style="display:inline"
+   transform="translate(-289.8823,-549.47873)" /><path
+   class="st2"
+   d="m 3247.6,44.1 c 0,8.4 -7.9,15.3 -17.7,15.3 V 44.1 c 0,4.2 -4,7.6 -8.9,7.6 -4.9,0 -8.9,-3.4 -8.9,-7.6 V 59.4 H 81.5 c -9.8,0 -17.7,6.8 -17.7,15.3 V 258 c 0,8.4 7.9,15.3 17.7,15.3 9.8,0 17.7,-6.8 17.7,-15.3 V 242.7 H 3230 c 9.8,0 17.7,-6.8 17.7,-15.3 V 44.1 Z M 81.5,89.9 c 9.8,0 17.7,-6.8 17.7,-15.3 0,-4.2 -4,-7.6 -8.9,-7.6 -4.9,0 -8.9,3.4 -8.9,7.6 v 15.3 z"
+   clip-path="url(#SVGID_2_)"
+   id="path29"
+   transform="translate(-289.8823,-549.47873)" /><path
+   class="st3"
+   d="m 81.5,97 c 9.8,0 17.7,-7.9 17.7,-17.6 0,-4.9 -4,-8.8 -8.9,-8.8 -4.9,0 -8.9,3.9 -8.9,8.8 V 97 Z M 3229.9,61.7 c 9.8,0 17.7,-7.9 17.7,-17.6 0,-9.7 -7.9,-17.6 -17.7,-17.6 -9.8,0 -17.7,7.9 -17.7,17.6 0,4.9 4,8.8 8.9,8.8 4.9,0 8.9,-3.9 8.9,-8.8 v 17.6 z"
+   clip-path="url(#SVGID_2_)"
+   id="path32"
+   transform="translate(-289.8823,-549.47873)" /><path
+   class="st4"
+   d="m 63.7,79.4 c 0,-9.7 7.9,-17.6 17.7,-17.6 H 3212.2 V 44.1 c 0,-9.7 7.9,-17.6 17.7,-17.6 9.8,0 17.7,7.9 17.7,17.6 v 211.5 c 0,9.7 -7.9,17.6 -17.7,17.6 H 99.2 v 17.6 c 0,9.7 -7.9,17.6 -17.7,17.6 -9.8,0 -17.7,-7.9 -17.7,-17.6 z M 3212.2,61.7 h 17.7 c 9.8,0 17.7,-7.9 17.7,-17.6 m -17.7,17.6 V 44.1 c 0,4.9 -4,8.8 -8.9,8.8 -4.9,0 -8.9,-3.9 -8.9,-8.8 M 81.5,97 V 79.4 c 0,-4.9 4,-8.8 8.9,-8.8 4.9,0 8.9,3.9 8.9,8.8 C 99.2,89.1 91.2,97 81.5,97 71.7,97 63.8,89.1 63.8,79.4 m 35.4,0 v 193.9"
+   clip-path="url(#SVGID_2_)"
+   id="path34"
+   transform="translate(-289.8823,-549.47873)" /><image
+   style="overflow:visible;enable-background:new"
+   width="511.3923"
+   height="260"
+   id="img5"
+   xlink:href="1FA32057.jpg"
+   x="238.5331"
+   y="66"
+   clip-path="url(#clipPath381)"
+   transform="translate(-289.8823,-549.47873)">
 		</image>
-	</g>
-	<text transform="matrix(1.0047 0 0 1 160.2002 430)" class="st7 st11 st12 st13">Juan 20:30-31</text>
-	<text transform="matrix(1.0047 0 0 1 938.4214 430)" class="st7 st11 st12">-</text>
-	<g class="st5">
-		<defs>
-			<rect id="SVGID_6_" x="2993.9" y="83" width="256.2" height="336"/>
-		</defs>
-		<clipPath id="SVGID_7_">
-			<use xlink:href="#SVGID_6_"  style="overflow:visible;"/>
-		</clipPath>
-		<g transform="matrix(0.000360892 0 0 0.000360892 2970 76)" class="st14">
-			<g>
-				<defs>
-					<rect id="SVGID_8_" x="2993.9" y="84" width="255.2" height="334"/>
-				</defs>
-				<clipPath id="SVGID_9_">
-					<use xlink:href="#SVGID_8_"  style="overflow:visible;"/>
-				</clipPath>
-				<g transform="matrix(1.00797 0 0 1 -0.461426 -0.00545987)" class="st15">
-					<g transform="scale(4131.62 4131.62)">
-						
-							<image style="overflow:visible;enable-background:new    ;" width="169" height="224" id="img9" xlink:href="1FA32053.png"  transform="matrix(1.4981 0 0 1.4911 2970.7324 84.0055)">
+		
+	<text
+   transform="scale(1.0023472,0.99765829)"
+   class="st7 st8 st9"
+   id="text39"
+   x="-0.0052960301"
+   y="-308.55621"
+   style="stroke-width:1.00235">Juan</text>
+		
+	<path
+   class="st10"
+   d="M 127.5,300 H 3025 L 2059.2,470.3 H 298.7 V 780.8 L 127.5,811 Z"
+   clip-path="url(#SVGID_2_)"
+   id="path50"
+   style="fill:url(#SVGID_5_)"
+   transform="translate(-289.8823,-549.47873)" /><image
+   style="overflow:visible;enable-background:new"
+   width="1081.0573"
+   height="238"
+   id="img7"
+   xlink:href="1FA32050.jpg"
+   x="238.5331"
+   y="496"
+   clip-path="url(#clipPath405)"
+   transform="translate(-289.8823,-549.47873)">
+		</image>
+		
+	<text
+   transform="scale(0.94692998,1.0560443)"
+   id="text55"
+   x="-3.2083476"
+   y="110.83382"
+   style="font-size:149.334px;stroke-width:11.1451"
+   class="st7 st11 st12 st13">Juan 20:30-31</text><image
+   style="overflow:visible;enable-background:new"
+   width="1054375.9"
+   height="1379987.5"
+   id="img9"
+   xlink:href="1FA32053.png"
+   x="12371760"
+   y="347078.81"
+   clip-path="url(#clipPath357)"
+   transform="matrix(3.60892e-4,0,0,3.60892e-4,2680.1177,-473.47873)">
 						</image>
-					</g>
-				</g>
-			</g>
-		</g>
-	</g>
-	<text transform="matrix(3.626957e-04 0 0 3.610000e-04 2970.1265 76.2404)" class="st7 st16 st12">Una señal (SEMEION) es una marca </text>
-	<text transform="matrix(3.626957e-04 0 0 3.610000e-04 2970.1265 76.3119)" class="st7 st16 st12">distintiva por la cual algo se conoce.</text>
-	<g>
-		<text transform="matrix(3.626957e-04 0 0 3.610000e-04 2970.1299 76.392)" class="st7 st17 st12 st18">Juan </text>
-		<text transform="matrix(3.626957e-04 0 0 3.610000e-04 2970.2642 76.3906)" class="st7 st17 st12">20:30</text>
-		<text transform="matrix(3.626957e-04 0 0 3.610000e-04 2970.4155 76.3904)" class="st7 st17 st12">-31</text>
-	</g>
-	<text transform="matrix(3.626957e-04 0 0 3.610000e-04 2970.0735 76.4869)" class="st7 st16 st12">La señal milagrosa era secundaria a la </text>
-	<text transform="matrix(3.626957e-04 0 0 3.610000e-04 2970.075 76.5559)" class="st7 st16 st12">Verdad que esta señalaba.</text>
-	<g transform="translate(1105 1919)" class="st5">
+			
 		
-			<image style="overflow:visible;enable-background:new    ;" width="454" height="452" id="img11" xlink:href="1FA32051.png"  transform="matrix(3.626956e-04 0 0 3.610000e-04 2970.4043 76.6956)">
-		</image>
-	</g>
-	<g transform="translate(2010 1595)" class="st5">
 		
-			<image style="overflow:visible;enable-background:new    ;" width="539" height="820" id="img12" xlink:href="1FA3205F.png"  transform="matrix(3.626956e-04 0 0 3.610000e-04 2970.7327 76.5787)">
-		</image>
-	</g>
-</g>
+	<image
+   style="overflow:visible;enable-background:new"
+   width="0.16466381"
+   height="0.16317201"
+   id="img11"
+   xlink:href="1FA32051.png"
+   x="4075.4043"
+   y="1995.6956"
+   clip-path="url(#clipPath423)"
+   transform="translate(-289.8823,-549.47873)">
+		</image><g
+   id="g521"
+   style="display:inline"
+   class="fragment"
+   data-fragment-index="2"
+   transform="translate(-289.8823,-549.47873)"><text
+     transform="scale(1.0023459,0.9976596)"
+     class="st7 st16 st12"
+     id="text82"
+     x="96.172966"
+     y="1003.3586"
+     style="stroke-width:0.000361847">Una señal (SEMEION) es una marca </text><text
+     transform="scale(1.0023459,0.9976596)"
+     class="st7 st16 st12"
+     id="text84"
+     x="86.775932"
+     y="1184.6276"
+     style="stroke-width:0.000361847">distintiva por la cual algo se conoce.</text><text
+     transform="scale(1.0023459,0.9976596)"
+     class="st7 st17 st12 st18"
+     id="text86"
+     x="90.194435"
+     y="1369.9021"
+     style="stroke-width:0.000361847">Juan </text><text
+     transform="scale(1.0023459,0.9976596)"
+     class="st7 st17 st12"
+     id="text88"
+     x="512.94775"
+     y="1369.9008"
+     style="stroke-width:0.000361847">20:30</text><text
+     transform="scale(1.0023459,0.9976596)"
+     class="st7 st17 st12"
+     id="text90"
+     x="1004.7172"
+     y="1369.9005"
+     style="stroke-width:0.000361847">-31</text><text
+     transform="scale(1.0023459,0.9976596)"
+     class="st7 st16 st12"
+     id="text94"
+     x="77.776276"
+     y="1541.1188"
+     style="stroke-width:0.000361847">La señal milagrosa era secundaria a la </text><text
+     transform="scale(1.0023459,0.9976596)"
+     class="st7 st16 st12"
+     id="text96"
+     x="88.076355"
+     y="1716.8241"
+     style="stroke-width:0.000361847">Verdad que esta señalaba.</text></g>
+		
+	
 </svg>

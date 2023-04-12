@@ -23,9 +23,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#505050"
      showgrid="false"
-     inkscape:zoom="0.32443204"
-     inkscape:cx="1669.0707"
-     inkscape:cy="1259.1235"
+     inkscape:zoom="0.64886408"
+     inkscape:cx="882.31113"
+     inkscape:cy="561.75093"
      inkscape:window-width="1920"
      inkscape:window-height="1001"
      inkscape:window-x="-9"
@@ -110,7 +110,9 @@
        xlink:href="#img1"
        fill="none"
        transform="translate(-17,-9)"
-       id="use18" />
+       id="use18"
+       style="display:inline"
+       inkscape:label="use18" />
     <path
        d="m 3222.5,36.1266 c 0,9.7348 -7.89,17.6265 -17.63,17.6265 V 36.1266 c 0,4.8674 -3.94,8.8132 -8.81,8.8132 -4.87,0 -8.81,-3.9458 -8.81,-8.8132 v 17.623 H 71.1265 c -9.7348,0 -17.6264,7.8917 -17.6264,17.6265 V 282.873 c 0,9.735 7.8916,17.627 17.6264,17.627 9.7347,0 17.6263,-7.892 17.6263,-17.627 L 88.7494,265.25 H 3204.87 c 9.74,0 17.63,-7.891 17.63,-17.626 z M 71.1265,88.9992 c 9.7347,0 17.6263,-7.8917 17.6263,-17.6265 0,-4.8675 -3.9458,-8.8133 -8.8131,-8.8133 -4.8674,0 -8.8132,3.9458 -8.8132,8.8133 z"
        fill="url(#pattern3)"

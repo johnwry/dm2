@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   width="3334"
-   height="2509"
+   width="740.70325"
+   height="555.29974"
    overflow="hidden"
    version="1.1"
    id="svg353"
    sodipodi:docname="neumatologia-3.svg"
    inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   viewBox="0 0 823.00361 616.99972"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -23,25 +24,26 @@
      inkscape:deskcolor="#505050"
      showgrid="false"
      inkscape:zoom="0.32443204"
-     inkscape:cx="1667.5295"
-     inkscape:cy="1256.0412"
+     inkscape:cx="1416.3213"
+     inkscape:cy="-260.45516"
      inkscape:window-width="1920"
      inkscape:window-height="1001"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g351" />
+     inkscape:current-layer="svg353" />
   <defs
      id="defs301">
-    <clipPath
-       id="clip0">
-      <rect
-         x="-17"
-         y="-9"
-         width="3334"
-         height="2509"
-         id="rect273" />
-    </clipPath>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern5"
+       id="pattern181"
+       patternTransform="matrix(4.4,0,0,4.4,70.5001,27.4966)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern3"
+       id="pattern179"
+       patternTransform="matrix(4.4,0,0,4.4,70.5001,27.4966)" />
     <image
        width="3334"
        height="2509"
@@ -97,8 +99,8 @@
       <rect
          x="0"
          y="0"
-         width="2.27214e+06"
-         height="1.70411e+06"
+         width="2272140"
+         height="1704110"
          id="rect289" />
     </clipPath>
     <image
@@ -167,136 +169,268 @@
         </g>
       </g>
     </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath183">
+      <g
+         id="g187"
+         transform="translate(-131,-253)">
+        <rect
+           x="0"
+           y="0"
+           width="3334"
+           height="2509"
+           id="rect185" />
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath189">
+      <g
+         id="g193"
+         transform="translate(-131,-38)">
+        <rect
+           x="0"
+           y="0"
+           width="3334"
+           height="2509"
+           id="rect191" />
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath195">
+      <g
+         id="g199"
+         transform="matrix(0.38881968,0,0,0.3889791,-139.58626,-570.63238)">
+        <rect
+           x="0"
+           y="0"
+           width="3334"
+           height="2509"
+           id="rect197" />
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath201">
+      <g
+         id="g205"
+         transform="matrix(0.39024457,0,0,0.39024457,-140.0978,-250.53701)">
+        <rect
+           x="0"
+           y="0"
+           width="3334"
+           height="2509"
+           id="rect203" />
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath207">
+      <g
+         id="g211">
+        <rect
+           x="0"
+           y="0"
+           width="3334"
+           height="2509"
+           id="rect209" />
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath213">
+      <g
+         id="g217">
+        <rect
+           x="0"
+           y="0"
+           width="3334"
+           height="2509"
+           id="rect215" />
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath219">
+      <g
+         id="g223">
+        <rect
+           x="0"
+           y="0"
+           width="3334"
+           height="2509"
+           id="rect221" />
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath225">
+      <g
+         id="g229">
+        <rect
+           x="0"
+           y="0"
+           width="3334"
+           height="2509"
+           id="rect227" />
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath231">
+      <g
+         id="g235">
+        <rect
+           x="0"
+           y="0"
+           width="3334"
+           height="2509"
+           id="rect233" />
+      </g>
+    </clipPath>
   </defs>
-  <g
-     clip-path="url(#clip0)"
-     transform="translate(17 9)"
-     id="g351">
-    <use
-       width="100%"
-       height="100%"
-       xlink:href="#img1"
-       fill="none"
-       transform="translate(-17 -9)"
-       id="use303" />
-    <path
-       d="M3222.5 36.1266C3222.5 45.8614 3214.61 53.7531 3204.87 53.7531L3204.87 36.1266C3204.87 40.994 3200.93 44.9398 3196.06 44.9398 3191.19 44.9398 3187.25 40.994 3187.25 36.1266L3187.25 53.7496 71.1265 53.7496C61.3917 53.7496 53.5001 61.6413 53.5001 71.3761L53.5001 282.873C53.5001 292.608 61.3917 300.5 71.1265 300.5 80.8612 300.5 88.7528 292.608 88.7528 282.873L88.7494 265.25 3204.87 265.25C3214.61 265.25 3222.5 257.359 3222.5 247.624ZM71.1265 88.9992C80.8612 88.9992 88.7528 81.1075 88.7528 71.3727 88.7528 66.5052 84.807 62.5594 79.9397 62.5594 75.0723 62.5594 71.1265 66.5052 71.1265 71.3727Z"
-       fill="url(#pattern3)"
-       fill-rule="evenodd"
-       id="path305" />
-    <path
-       d="M71.1265 88.9992C80.8612 88.9992 88.7528 81.1075 88.7528 71.3727 88.7528 66.5052 84.807 62.5594 79.9397 62.5594 75.0723 62.5594 71.1265 66.5052 71.1265 71.3727ZM3204.87 53.7496C3214.61 53.7496 3222.5 45.858 3222.5 36.1231 3222.5 26.3883 3214.61 18.4966 3204.87 18.4966 3195.14 18.4966 3187.25 26.3883 3187.25 36.1231 3187.25 40.9905 3191.19 44.9364 3196.06 44.9364 3200.93 44.9364 3204.87 40.9905 3204.87 36.1231Z"
-       fill="url(#pattern5)"
-       fill-rule="evenodd"
-       id="path307" />
-    <path
-       d="m 53.5001,71.3761 c 0,-9.7348 7.8916,-17.6265 17.6264,-17.6265 H 3187.25 v -17.623 c 0,-9.7349 7.89,-17.6265 17.63,-17.6265 9.73,0 17.62,7.8916 17.62,17.6265 V 247.624 c 0,9.735 -7.89,17.626 -17.63,17.626 H 88.7494 v 17.623 c 0,9.735 -7.8916,17.627 -17.6264,17.627 -9.7348,0 -17.6263,-7.892 -17.6263,-17.627 z M 3187.25,53.7496 h 17.62 c 9.74,0 17.63,-7.8916 17.63,-17.6265 m -17.63,17.6265 v -17.623 c 0,4.8674 -3.94,8.8132 -8.81,8.8132 -4.87,0 -8.81,-3.9458 -8.81,-8.8132 M 71.1265,88.9992 V 71.3761 c 0,-4.8674 3.9458,-8.8132 8.8132,-8.8132 4.8673,0 8.8131,3.9458 8.8131,8.8132 0,9.7349 -7.8916,17.6265 -17.6263,17.6265 -9.7348,0 -17.6264,-7.8916 -17.6264,-17.6265 m 35.2493,0 V 265.25"
-       stroke="#000000"
-       stroke-width="9.16667"
-       stroke-linejoin="round"
-       stroke-miterlimit="10"
-       fill="none"
-       fill-rule="evenodd"
-       id="path309"
-       style="display:inline" />
-    <path
-       d="M 117,292 H 3001 L 2039.68,462.331 H 287.331 V 772.819 L 117,803 Z"
-       fill="#ffff00"
-       fill-rule="evenodd"
-       id="path311"
-       style="display:inline" />
-    <text
-       fill="#FFFF00"
-       font-family="Times New Roman,Times New Roman_MSFontService,sans-serif"
-       font-weight="400"
-       font-size="165"
-       transform="matrix(1 0 0 1 1243 973)"
-       id="text329"
-       class="fragment"
-       data-fragment-index="4">Dios anunció la pena por <tspan
-   font-size="165"
-   x="0"
-   y="198"
-   id="tspan313">desobedecer </tspan><tspan
+  <use
+     width="100%"
+     height="100%"
+     xlink:href="#img1"
+     fill="none"
+     id="use303"
+     clip-path="url(#clipPath231)"
+     transform="translate(-359,-1467.0001)" />
+  <path
+     d="m 3239.5,45.1266 c 0,9.7348 -7.89,17.6265 -17.63,17.6265 V 45.1266 c 0,4.8674 -3.94,8.8132 -8.81,8.8132 -4.87,0 -8.81,-3.9458 -8.81,-8.8132 v 17.623 H 88.1265 c -9.7348,0 -17.6264,7.8917 -17.6264,17.6265 V 291.873 c 0,9.735 7.8916,17.627 17.6264,17.627 9.7347,0 17.6263,-7.892 17.6263,-17.627 l -0.003,-17.623 H 3221.87 c 9.74,0 17.63,-7.891 17.63,-17.626 z M 88.1265,97.9992 c 9.7347,0 17.6263,-7.8917 17.6263,-17.6265 0,-4.8675 -3.9458,-8.8133 -8.8131,-8.8133 -4.8674,0 -8.8132,3.9458 -8.8132,8.8133 z"
+     fill="url(#pattern3)"
+     fill-rule="evenodd"
+     id="path305"
+     style="fill:url(#pattern179)"
+     clip-path="url(#clipPath225)"
+     transform="translate(-359,-1467.0001)" />
+  <path
+     d="m 88.1265,97.9992 c 9.7347,0 17.6263,-7.8917 17.6263,-17.6265 0,-4.8675 -3.9458,-8.8133 -8.8131,-8.8133 -4.8674,0 -8.8132,3.9458 -8.8132,8.8133 z M 3221.87,62.7496 c 9.74,0 17.63,-7.8916 17.63,-17.6265 0,-9.7348 -7.89,-17.6265 -17.63,-17.6265 -9.73,0 -17.62,7.8917 -17.62,17.6265 0,4.8674 3.94,8.8133 8.81,8.8133 4.87,0 8.81,-3.9459 8.81,-8.8133 z"
+     fill="url(#pattern5)"
+     fill-rule="evenodd"
+     id="path307"
+     style="fill:url(#pattern181)"
+     clip-path="url(#clipPath219)"
+     transform="translate(-359,-1467.0001)" />
+  <path
+     d="m 70.5001,80.3761 c 0,-9.7348 7.8916,-17.6265 17.6264,-17.6265 H 3204.25 v -17.623 c 0,-9.7349 7.89,-17.6265 17.63,-17.6265 9.73,0 17.62,7.8916 17.62,17.6265 V 256.624 c 0,9.735 -7.89,17.626 -17.63,17.626 H 105.7494 v 17.623 c 0,9.735 -7.8916,17.627 -17.6264,17.627 -9.7348,0 -17.6263,-7.892 -17.6263,-17.627 z M 3204.25,62.7496 h 17.62 c 9.74,0 17.63,-7.8916 17.63,-17.6265 m -17.63,17.6265 v -17.623 c 0,4.8674 -3.94,8.8132 -8.81,8.8132 -4.87,0 -8.81,-3.9458 -8.81,-8.8132 M 88.1265,97.9992 V 80.3761 c 0,-4.8674 3.9458,-8.8132 8.8132,-8.8132 4.8673,0 8.8131,3.9458 8.8131,8.8132 0,9.7349 -7.8916,17.6265 -17.6263,17.6265 -9.7348,0 -17.6264,-7.8916 -17.6264,-17.6265 m 35.2493,0 V 274.25"
+     stroke="#000000"
+     stroke-width="9.16667"
+     stroke-linejoin="round"
+     stroke-miterlimit="10"
+     fill="none"
+     fill-rule="evenodd"
+     id="path309"
+     style="display:inline"
+     clip-path="url(#clipPath213)"
+     transform="translate(-359,-1467.0001)" />
+  <path
+     d="M 134,301 H 3018 L 2056.68,471.331 H 304.331 V 781.819 L 134,812 Z"
+     fill="#ffff00"
+     fill-rule="evenodd"
+     id="path311"
+     style="display:inline"
+     clip-path="url(#clipPath207)"
+     transform="translate(-359,-1467.0001)" />
+  <text
+     fill="#ffff00"
+     font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+     font-weight="400"
+     font-size="165px"
+     id="text329"
+     class="fragment"
+     data-fragment-index="4"
+     x="901"
+     y="-485.00009">Dios anunció la pena por <tspan
+   font-size="165px"
+   x="901"
+   y="-287.00009"
+   id="tspan313">desobedecer</tspan><tspan
    font-style="italic"
-   font-size="165"
-   x="857.083"
-   y="198"
+   font-size="165px"
+   x="1758.083"
+   y="-287.00009"
    id="tspan315">–</tspan><tspan
    font-style="italic"
-   font-size="165"
-   x="980.833"
-   y="198"
+   font-size="165px"
+   x="1881.833"
+   y="-287.00009"
    id="tspan317">Génesis 2:17</tspan><tspan
-   font-size="165"
-   x="0"
-   y="594"
-   id="tspan319">Adán fue separado de Dios </tspan><tspan
-   font-size="165"
-   x="0"
-   y="792"
-   id="tspan321">en el momento que comió </tspan><tspan
-   font-size="165"
-   x="0"
-   y="990"
-   id="tspan323">la fruta </tspan><tspan
-   font-size="165"
-   x="513.333"
-   y="990"
+   font-size="165px"
+   x="901"
+   y="108.9999"
+   id="tspan319">Adán fue separado de Dios</tspan><tspan
+   font-size="165px"
+   x="901"
+   y="306.99991"
+   id="tspan321">en el momento que comió</tspan><tspan
+   font-size="165px"
+   x="901"
+   y="504.99991"
+   id="tspan323">la fruta</tspan><tspan
+   font-size="165px"
+   x="1414.333"
+   y="504.99991"
    id="tspan325">–</tspan><tspan
    font-style="italic"
-   font-size="165"
-   x="637.083"
-   y="990"
+   font-size="165px"
+   x="1538.083"
+   y="504.99991"
    id="tspan327">Génesis 3:6</tspan></text>
-    <use
-       width="100%"
-       height="100%"
-       xlink:href="#img7"
-       transform="matrix(2.5624956,0,0,2.5624956,342,632.99999)"
-       id="use331"
-       clip-path="url(#clipPath572)"
-       class="fragment"
-       data-fragment-index="3" />
-    <use
-       width="100%"
-       height="100%"
-       xlink:href="#img10"
-       transform="matrix(2.5718863,0,0,2.5708322,342,1458.0001)"
-       id="use337"
-       clip-path="url(#clipPath559)"
-       class="fragment"
-       data-fragment-index="5" />
-    <use
-       width="100%"
-       height="100%"
-       xlink:href="#img12"
-       fill="none"
-       transform="translate(114 29)"
-       id="use343" />
-    <text
-       font-family="Times New Roman,Times New Roman_MSFontService,sans-serif"
-       font-style="italic"
-       font-weight="700"
-       font-size="183"
-       transform="matrix(1 0 0 1 149.5 225)"
-       id="text345"
-       class="fragment"
-       data-fragment-index="1">Neumatología</text>
-    <use
-       width="100%"
-       height="100%"
-       xlink:href="#img13"
-       fill="none"
-       transform="translate(114 244)"
-       id="use347" />
-    <text
-       font-family="Times New Roman,Times New Roman_MSFontService,sans-serif"
-       font-weight="700"
-       font-size="147"
-       transform="matrix(1 0 0 1 149.5 405)"
-       id="text349"
-       class="fragment"
-       data-fragment-index="2">La Regeneración del Espíritu Santo</text>
-  </g>
+  <use
+     width="100%"
+     height="100%"
+     xlink:href="#img7"
+     transform="matrix(2.5624956,0,0,2.5624956,0,-825.00011)"
+     id="use331"
+     clip-path="url(#clipPath201)"
+     class="fragment"
+     data-fragment-index="3" />
+  <use
+     width="100%"
+     height="100%"
+     xlink:href="#img10"
+     transform="scale(2.5718863,2.5708322)"
+     id="use337"
+     clip-path="url(#clipPath195)"
+     class="fragment"
+     data-fragment-index="5" />
+  <use
+     width="100%"
+     height="100%"
+     xlink:href="#img12"
+     fill="none"
+     transform="translate(-228,-1429.0001)"
+     id="use343"
+     clip-path="url(#clipPath189)" />
+  <text
+     font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+     font-style="italic"
+     font-weight="700"
+     font-size="183px"
+     id="text345"
+     class="fragment"
+     data-fragment-index="1"
+     x="-192.5"
+     y="-1233.0001">Neumatología</text>
+  <use
+     width="100%"
+     height="100%"
+     xlink:href="#img13"
+     fill="none"
+     transform="translate(-228,-1214.0001)"
+     id="use347"
+     clip-path="url(#clipPath183)" />
+  <text
+     font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+     font-weight="700"
+     font-size="147px"
+     id="text349"
+     class="fragment"
+     data-fragment-index="2"
+     x="-192.5"
+     y="-1053.0001">La Regeneración del Espíritu Santo</text>
 </svg>

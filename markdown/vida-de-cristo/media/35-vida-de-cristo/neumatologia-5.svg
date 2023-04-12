@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   width="3334"
-   height="2509"
+   width="962.62653"
+   height="147.08804"
    overflow="hidden"
    version="1.1"
    id="svg58"
    sodipodi:docname="neumatologia-5.svg"
    inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   viewBox="0 0 1069.585 163.43115"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -23,8 +24,8 @@
      inkscape:deskcolor="#505050"
      showgrid="false"
      inkscape:zoom="0.32443204"
-     inkscape:cx="1667.5295"
-     inkscape:cy="1256.0412"
+     inkscape:cx="1573.5191"
+     inkscape:cy="947.81021"
      inkscape:window-width="1920"
      inkscape:window-height="1001"
      inkscape:window-x="-9"
@@ -101,27 +102,27 @@
   </defs>
   <g
      clip-path="url(#clip0)"
-     transform="translate(17 9)"
+     transform="translate(-143.60254,-101.06396)"
      id="g56">
     <use
        width="100%"
        height="100%"
        xlink:href="#img1"
        fill="none"
-       transform="translate(-17 -9)"
+       transform="translate(-17,-9)"
        id="use18" />
     <path
-       d="M3222.5 36.1266C3222.5 45.8614 3214.61 53.7531 3204.87 53.7531L3204.87 36.1266C3204.87 40.994 3200.93 44.9398 3196.06 44.9398 3191.19 44.9398 3187.25 40.994 3187.25 36.1266L3187.25 53.7496 71.1265 53.7496C61.3917 53.7496 53.5001 61.6413 53.5001 71.3761L53.5001 282.873C53.5001 292.608 61.3917 300.5 71.1265 300.5 80.8612 300.5 88.7528 292.608 88.7528 282.873L88.7494 265.25 3204.87 265.25C3214.61 265.25 3222.5 257.359 3222.5 247.624ZM71.1265 88.9992C80.8612 88.9992 88.7528 81.1075 88.7528 71.3727 88.7528 66.5052 84.807 62.5594 79.9397 62.5594 75.0723 62.5594 71.1265 66.5052 71.1265 71.3727Z"
+       d="m 3222.5,36.1266 c 0,9.7348 -7.89,17.6265 -17.63,17.6265 V 36.1266 c 0,4.8674 -3.94,8.8132 -8.81,8.8132 -4.87,0 -8.81,-3.9458 -8.81,-8.8132 v 17.623 H 71.1265 c -9.7348,0 -17.6264,7.8917 -17.6264,17.6265 V 282.873 c 0,9.735 7.8916,17.627 17.6264,17.627 9.7347,0 17.6263,-7.892 17.6263,-17.627 L 88.7494,265.25 H 3204.87 c 9.74,0 17.63,-7.891 17.63,-17.626 z M 71.1265,88.9992 c 9.7347,0 17.6263,-7.8917 17.6263,-17.6265 0,-4.8675 -3.9458,-8.8133 -8.8131,-8.8133 -4.8674,0 -8.8132,3.9458 -8.8132,8.8133 z"
        fill="url(#pattern3)"
        fill-rule="evenodd"
        id="path20" />
     <path
-       d="M71.1265 88.9992C80.8612 88.9992 88.7528 81.1075 88.7528 71.3727 88.7528 66.5052 84.807 62.5594 79.9397 62.5594 75.0723 62.5594 71.1265 66.5052 71.1265 71.3727ZM3204.87 53.7496C3214.61 53.7496 3222.5 45.858 3222.5 36.1231 3222.5 26.3883 3214.61 18.4966 3204.87 18.4966 3195.14 18.4966 3187.25 26.3883 3187.25 36.1231 3187.25 40.9905 3191.19 44.9364 3196.06 44.9364 3200.93 44.9364 3204.87 40.9905 3204.87 36.1231Z"
+       d="m 71.1265,88.9992 c 9.7347,0 17.6263,-7.8917 17.6263,-17.6265 0,-4.8675 -3.9458,-8.8133 -8.8131,-8.8133 -4.8674,0 -8.8132,3.9458 -8.8132,8.8133 z M 3204.87,53.7496 c 9.74,0 17.63,-7.8916 17.63,-17.6265 0,-9.7348 -7.89,-17.6265 -17.63,-17.6265 -9.73,0 -17.62,7.8917 -17.62,17.6265 0,4.8674 3.94,8.8133 8.81,8.8133 4.87,0 8.81,-3.9459 8.81,-8.8133 z"
        fill="url(#pattern5)"
        fill-rule="evenodd"
        id="path22" />
     <path
-       d="M53.5001 71.3761C53.5001 61.6413 61.3917 53.7496 71.1265 53.7496L3187.25 53.7496 3187.25 36.1266C3187.25 26.3917 3195.14 18.5001 3204.88 18.5001 3214.61 18.5001 3222.5 26.3917 3222.5 36.1266L3222.5 247.624C3222.5 257.359 3214.61 265.25 3204.87 265.25L88.7494 265.25 88.7494 282.873C88.7494 292.608 80.8578 300.5 71.123 300.5 61.3882 300.5 53.4967 292.608 53.4967 282.873ZM3187.25 53.7496 3204.87 53.7496C3214.61 53.7496 3222.5 45.858 3222.5 36.1231M3204.87 53.7496 3204.87 36.1266C3204.87 40.994 3200.93 44.9398 3196.06 44.9398 3191.19 44.9398 3187.25 40.994 3187.25 36.1266M71.1265 88.9992 71.1265 71.3761C71.1265 66.5087 75.0723 62.5629 79.9397 62.5629 84.807 62.5629 88.7528 66.5087 88.7528 71.3761 88.7528 81.111 80.8612 89.0026 71.1265 89.0026 61.3917 89.0026 53.5001 81.111 53.5001 71.3761M88.7494 71.3761 88.7494 265.25"
+       d="m 53.5001,71.3761 c 0,-9.7348 7.8916,-17.6265 17.6264,-17.6265 H 3187.25 v -17.623 c 0,-9.7349 7.89,-17.6265 17.63,-17.6265 9.73,0 17.62,7.8916 17.62,17.6265 V 247.624 c 0,9.735 -7.89,17.626 -17.63,17.626 H 88.7494 v 17.623 c 0,9.735 -7.8916,17.627 -17.6264,17.627 -9.7348,0 -17.6263,-7.892 -17.6263,-17.627 z M 3187.25,53.7496 h 17.62 c 9.74,0 17.63,-7.8916 17.63,-17.6265 m -17.63,17.6265 v -17.623 c 0,4.8674 -3.94,8.8132 -8.81,8.8132 -4.87,0 -8.81,-3.9458 -8.81,-8.8132 M 71.1265,88.9992 V 71.3761 c 0,-4.8674 3.9458,-8.8132 8.8132,-8.8132 4.8673,0 8.8131,3.9458 8.8131,8.8132 0,9.7349 -7.8916,17.6265 -17.6263,17.6265 -9.7348,0 -17.6264,-7.8916 -17.6264,-17.6265 m 35.2493,0 V 265.25"
        stroke="#000000"
        stroke-width="9.16667"
        stroke-linejoin="round"
@@ -130,54 +131,54 @@
        fill-rule="evenodd"
        id="path24" />
     <path
-       d="M117 292 3001 292 2039.68 462.331 287.331 462.331 287.331 772.819 117 803Z"
-       fill="#FFFF00"
+       d="M 117,292 H 3001 L 2039.68,462.331 H 287.331 V 772.819 L 117,803 Z"
+       fill="#ffff00"
        fill-rule="evenodd"
        id="path26" />
     <text
-       fill="#FFFF00"
-       font-family="Times New Roman,Times New Roman_MSFontService,sans-serif"
+       fill="#ffff00"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
        font-weight="400"
-       font-size="165"
-       transform="matrix(1 0 0 1 372.363 705)"
+       font-size="165px"
+       transform="translate(372.363,705)"
        id="text46"
        class="fragment"
        data-fragment-index="3">Dios el Espíritu Santo regenera a una <tspan
-   font-size="165"
+   font-size="165px"
    x="0"
    y="198"
-   id="tspan28">persona </tspan><tspan
-   font-size="165"
-   x="554.583"
+   id="tspan28">persona</tspan><tspan
+   font-size="165px"
+   x="554.58301"
    y="198"
    id="tspan30">a</tspan>l momento en que cree el <tspan
-   font-size="165"
+   font-size="165px"
    x="0"
    y="396"
-   id="tspan32">mensaje del Evangelio </tspan><tspan
-   font-size="165"
+   id="tspan32">mensaje del Evangelio</tspan><tspan
+   font-size="165px"
    x="1535.42"
    y="396"
    id="tspan34">–</tspan><tspan
    font-style="italic"
-   font-size="165"
+   font-size="165px"
    x="1659.17"
    y="396"
-   id="tspan36">Juan 1:13; 3:5; </tspan><tspan
+   id="tspan36">Juan 1:13; 3:5;</tspan><tspan
    font-style="italic"
-   font-size="165"
+   font-size="165px"
    x="0"
    y="594"
    id="tspan38">1 Pedro 1:23</tspan><tspan
-   font-size="165"
+   font-size="165px"
    x="0"
    y="891"
-   id="tspan40">La regeneración es un acto completo de </tspan><tspan
-   font-size="165"
+   id="tspan40">La regeneración es un acto completo de</tspan><tspan
+   font-size="165px"
    x="0"
    y="1089"
-   id="tspan42">Dios y no un esfuerzo entre Dios y el </tspan><tspan
-   font-size="165"
+   id="tspan42">Dios y no un esfuerzo entre Dios y el</tspan><tspan
+   font-size="165px"
    x="0"
    y="1287"
    id="tspan44">hombre.</tspan></text>
@@ -186,14 +187,14 @@
        height="100%"
        xlink:href="#img6"
        fill="none"
-       transform="translate(114 29)"
+       transform="translate(114,29)"
        id="use48" />
     <text
-       font-family="Times New Roman,Times New Roman_MSFontService,sans-serif"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
        font-style="italic"
        font-weight="700"
-       font-size="183"
-       transform="matrix(1 0 0 1 149.5 225)"
+       font-size="183px"
+       transform="translate(149.5,225)"
        id="text50"
        class="fragment"
        data-fragment-index="1">Neumatología</text>
@@ -202,13 +203,13 @@
        height="100%"
        xlink:href="#img7"
        fill="none"
-       transform="translate(114 244)"
+       transform="translate(114,244)"
        id="use52" />
     <text
-       font-family="Times New Roman,Times New Roman_MSFontService,sans-serif"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
        font-weight="700"
-       font-size="147"
-       transform="matrix(1 0 0 1 149.5 405)"
+       font-size="147px"
+       transform="translate(149.5,405)"
        id="text54"
        class="fragment"
        data-fragment-index="2">La Regeneración del Espíritu Santo</text>
