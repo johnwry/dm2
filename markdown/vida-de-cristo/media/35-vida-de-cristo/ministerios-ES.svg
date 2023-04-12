@@ -13,21 +13,13 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
-  <g
-     id="g215"
-     style="display:inline">
-    <g
-       transform="translate(-136.933,-88.998262)"
-       id="g5">
-      <rect
-         width="3334"
-         height="2509"
-         id="rect3"
-         x="0"
-         y="0"
-         style="display:inline" />
-    </g>
-  </g>
+  <rect
+     width="3334"
+     height="2509"
+     id="rect3"
+     x="-136.933"
+     y="-88.99826"
+     style="display:inline" />
   <sodipodi:namedview
      id="namedview59"
      pagecolor="#505050"
@@ -39,8 +31,8 @@
      inkscape:deskcolor="#505050"
      showgrid="false"
      inkscape:zoom="0.91763238"
-     inkscape:cx="500.74519"
-     inkscape:cy="304.58821"
+     inkscape:cx="481.67437"
+     inkscape:cy="305.67797"
      inkscape:window-width="1920"
      inkscape:window-height="1001"
      inkscape:window-x="-9"

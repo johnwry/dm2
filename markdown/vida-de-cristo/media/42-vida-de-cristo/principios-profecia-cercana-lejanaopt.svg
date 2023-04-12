@@ -5,7 +5,7 @@
    overflow="hidden"
    version="1.1"
    id="svg103"
-   sodipodi:docname="principios-profecia-cercana-lejana opt.svg"
+   sodipodi:docname="principios-profecia-cercana-lejanaopt.svg"
    viewBox="0 0 3343.9999 2668.9999"
    inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -24,14 +24,14 @@
      inkscape:deskcolor="#505050"
      showgrid="false"
      inkscape:zoom="0.60996628"
-     inkscape:cx="1007.4327"
-     inkscape:cy="545.93182"
+     inkscape:cx="973.82432"
+     inkscape:cy="546.75154"
      inkscape:window-width="1920"
      inkscape:window-height="1001"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g503" />
+     inkscape:current-layer="svg103" />
   <defs
      id="defs49">
     <filter
@@ -345,7 +345,8 @@
      id="g503"
      style="display:inline"
      class="fragment"
-     data-fragment-index="3">
+     data-fragment-index="3"
+     transform="matrix(1,0,0,0.94315599,0,151.68312)">
     <text
        fill="#ffff00"
        font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
