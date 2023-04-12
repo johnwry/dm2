@@ -17,7 +17,16 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"><defs
-   id="defs509" /><sodipodi:namedview
+   id="defs509">
+	
+
+		
+	
+			
+		
+				
+					
+			</defs><sodipodi:namedview
    id="namedview507"
    pagecolor="#505050"
    bordercolor="#eeeeee"
@@ -27,37 +36,22 @@
    inkscape:pagecheckerboard="0"
    inkscape:deskcolor="#505050"
    showgrid="false"
-   inkscape:zoom="0.33636364"
-   inkscape:cx="964.72972"
-   inkscape:cy="822.02702"
+   inkscape:zoom="0.67272728"
+   inkscape:cx="702.36486"
+   inkscape:cy="491.28378"
    inkscape:window-width="1920"
    inkscape:window-height="1001"
    inkscape:window-x="-9"
    inkscape:window-y="-9"
    inkscape:window-maximized="1"
    inkscape:current-layer="Layer_1" />
-<g
-   transform="matrix(2.1853655e-4,0,0,1.9809229e-4,0,-0.00144258)"
-   id="g504">
-	<g
-   id="g502">
-		<g
-   transform="matrix(1.0064,0,0,1,0,-0.00144266)"
-   id="g500">
-			<g
-   transform="scale(5047.67)"
-   id="g498">
-				
-					<image
+<image
    style="overflow:visible;enable-background:new"
-   width="1800"
-   height="1200"
+   width="3640.2817"
+   height="2409.8992"
    id="img2"
    xlink:href="6679C634.jpg"
-   transform="matrix(1.8217,0,0,2.0167,0,0.001443)">
+   x="0"
+   y="4.9549551">
 				</image>
-			</g>
-		</g>
-	</g>
-</g>
 </svg>
