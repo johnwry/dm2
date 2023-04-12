@@ -23,8 +23,8 @@
      inkscape:deskcolor="#505050"
      showgrid="false"
      inkscape:zoom="0.64577549"
-     inkscape:cx="438.2328"
-     inkscape:cy="451.39527"
+     inkscape:cx="407.26228"
+     inkscape:cy="452.94379"
      inkscape:window-width="1920"
      inkscape:window-height="1001"
      inkscape:window-x="-9"
@@ -344,7 +344,8 @@
      y="490.97198"
      style="display:inline"
      class="fragment"
-     data-fragment-index="2">Un Dios<tspan
+     data-fragment-index="2"
+     sodipodi:insensitive="true">Un Dios<tspan
    font-style="italic"
    font-size="128px"
    x="178.58618"
