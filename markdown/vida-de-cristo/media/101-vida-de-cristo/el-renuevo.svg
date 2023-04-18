@@ -4,9 +4,9 @@
 <svg
    version="1.1"
    id="svg2"
-   width="960"
-   height="720"
-   viewBox="0 0 960 720"
+   width="1344"
+   height="1007.9999"
+   viewBox="0 0 960 719.99991"
    sodipodi:docname="el-renuevo.svg"
    inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -457,9 +457,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#505050"
      showgrid="false"
-     inkscape:zoom="1.1305556"
-     inkscape:cx="405.99509"
-     inkscape:cy="431.20393"
+     inkscape:zoom="0.39971177"
+     inkscape:cx="242.67487"
+     inkscape:cy="374.01951"
      inkscape:window-width="1920"
      inkscape:window-height="1001"
      inkscape:window-x="-9"
@@ -471,13 +471,13 @@
        y="0"
        id="page8"
        width="960"
-       height="720" />
+       height="719.99994" />
   </sodipodi:namedview>
   <g
      id="g10"
      inkscape:groupmode="layer"
      inkscape:label="Page 1"
-     transform="matrix(1.3333333,0,0,-1.3333333,0,720)">
+     transform="matrix(1.3333333,0,0,-1.3333333,0,720.00006)">
     <g
        id="g12"
        sodipodi:insensitive="true">
@@ -873,7 +873,8 @@
        id="g1597"
        inkscape:label="3"
        class="fragment"
-       data-fragment-index="3">
+       data-fragment-index="3"
+       style="display:inline">
       <g
          id="g298">
         <g
@@ -1101,7 +1102,8 @@
        id="g1647"
        inkscape:label="4"
        class="fragment"
-       data-fragment-index="4">
+       data-fragment-index="4"
+       style="display:inline">
       <g
          id="g466">
         <g
@@ -1119,7 +1121,8 @@
         </g>
       </g>
       <g
-         id="g478">
+         id="g478"
+         style="display:inline">
         <g
            id="g480"
            clip-path="url(#clipPath484)">
