@@ -1095,9 +1095,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#505050"
      showgrid="false"
-     inkscape:zoom="0.7994235"
-     inkscape:cx="671.73407"
-     inkscape:cy="574.78921"
+     inkscape:zoom="0.56527778"
+     inkscape:cx="833.21867"
+     inkscape:cy="64.570025"
      inkscape:window-width="1920"
      inkscape:window-height="1001"
      inkscape:window-x="-9"
@@ -1117,7 +1117,8 @@
      inkscape:label="Page 1"
      transform="matrix(1.3333333,0,0,-1.3333333,1.908e-6,720.00022)">
     <g
-       id="g34">
+       id="g34"
+       style="display:inline">
       <g
          id="g36"
          clip-path="url(#clipPath40)">
@@ -1171,10 +1172,10 @@
        xml:space="preserve"
        transform="matrix(0.53571428,0,0,-0.53571428,8.529307,544.73868)"
        id="text1615"
-       style="font-size:48px;font-family:'Times New Roman', 'Times New Roman_MSFontService', sans-serif;-inkscape-font-specification:'Times New Roman, Times New Roman_MSFontService, sans-serif';white-space:pre;shape-inside:url(#rect1617);fill:#f9f9f9;stroke:#000000"><tspan
+       style="font-size:48px;font-family:'Times New Roman', 'Times New Roman_MSFontService', sans-serif;-inkscape-font-specification:'Times New Roman, Times New Roman_MSFontService, sans-serif';white-space:pre;shape-inside:url(#rect1617);display:inline;fill:#f9f9f9;stroke:#000000"><tspan
          x="15.011719"
          y="86.38705"
-         id="tspan3168">RAPTO PRE-DIA DEL SEÑOR</tspan></text>
+         id="tspan2940">RAPTO PRE-DIA DEL SEÑOR</tspan></text>
     <g
        id="g3728"
        inkscape:label="1"
@@ -2815,12 +2816,12 @@
          xml:space="preserve"
          transform="matrix(0.53571428,0,0,-0.53571428,54.280187,390.56212)"
          id="text2365"
-         style="font-size:48px;font-family:'Times New Roman', 'Times New Roman_MSFontService', sans-serif;-inkscape-font-specification:'Times New Roman, Times New Roman_MSFontService, sans-serif';white-space:pre;shape-inside:url(#rect2367);fill:#f9f9f9;stroke:#000000"><tspan
+         style="font-size:48px;font-family:'Times New Roman', 'Times New Roman_MSFontService', sans-serif;-inkscape-font-specification:'Times New Roman, Times New Roman_MSFontService, sans-serif';white-space:pre;shape-inside:url(#rect2367);display:inline;fill:#f9f9f9;stroke:#000000"><tspan
            x="988.21289"
            y="385.35189"
-           id="tspan3172"><tspan
+           id="tspan2944"><tspan
              style="fill:#280b0b"
-             id="tspan3170">Milenio</tspan></tspan></text>
+             id="tspan2942">Milenio</tspan></tspan></text>
     </g>
     <g
        id="g4481"
