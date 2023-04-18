@@ -1083,9 +1083,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#505050"
      showgrid="false"
-     inkscape:zoom="0.39971175"
-     inkscape:cx="62.545072"
-     inkscape:cy="56.290564"
+     inkscape:zoom="0.7994235"
+     inkscape:cx="677.98858"
+     inkscape:cy="490.97881"
      inkscape:window-width="1920"
      inkscape:window-height="1001"
      inkscape:window-x="-9"
@@ -2793,7 +2793,8 @@
        style="display:inline"
        inkscape:label="11"
        class="fragment"
-       data-class-fragment="11">
+       transform="translate(0,2.1983124e-5)"
+       data-fragment-index="11">
       <g
          id="g896"
          transform="translate(3.3169534,0.66339056)">
@@ -2952,7 +2953,8 @@
        id="g4481"
        inkscape:label="12"
        class="fragment"
-       data-fragment-index="12">
+       data-fragment-index="12"
+       transform="translate(0,2.1983124e-5)">
       <g
          id="g986">
         <g
