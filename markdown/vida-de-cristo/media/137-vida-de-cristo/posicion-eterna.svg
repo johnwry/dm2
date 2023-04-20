@@ -525,15 +525,15 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#505050"
      showgrid="false"
-     inkscape:zoom="0.56527778"
-     inkscape:cx="513.02211"
-     inkscape:cy="289.23833"
+     inkscape:zoom="0.39971175"
+     inkscape:cx="240.17307"
+     inkscape:cy="616.6944"
      inkscape:window-width="1920"
      inkscape:window-height="1001"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
-     inkscape:current-layer="posicion-eterna">
+     inkscape:current-layer="g3845">
     <inkscape:page
        x="0"
        y="0"
@@ -1221,51 +1221,55 @@
         </g>
       </g>
       <g
-         id="g566">
+         id="tuencristo"
+         inkscape:label="tu en crist">
         <g
-           id="g568"
-           clip-path="url(#clipPath572)">
-          <text
-             xml:space="preserve"
-             transform="matrix(1,0,0,-1,336.38,447.58)"
-             style="font-variant:normal;font-weight:bold;font-size:36px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             id="text576"><tspan
-               x="0 20.642"
-               y="0"
-               sodipodi:role="line"
-               id="tspan574">Tu</tspan></text>
+           id="g566">
+          <g
+             id="g568"
+             clip-path="url(#clipPath572)">
+            <text
+               xml:space="preserve"
+               transform="matrix(1,0,0,-1,336.38,447.58)"
+               style="font-variant:normal;font-weight:bold;font-size:36px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               id="text576"><tspan
+                 x="0 20.642"
+                 y="0"
+                 sodipodi:role="line"
+                 id="tspan574">Tu</tspan></text>
+          </g>
         </g>
-      </g>
-      <g
-         id="g578">
         <g
-           id="g580"
-           clip-path="url(#clipPath584)">
-          <text
-             xml:space="preserve"
-             transform="matrix(1,0,0,-1,338.78,404.38)"
-             style="font-variant:normal;font-weight:bold;font-size:36.024px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             id="text588"><tspan
-               x="0 15.959956"
-               y="0"
-               sodipodi:role="line"
-               id="tspan586">en</tspan></text>
+           id="g578">
+          <g
+             id="g580"
+             clip-path="url(#clipPath584)">
+            <text
+               xml:space="preserve"
+               transform="matrix(1,0,0,-1,338.78,404.38)"
+               style="font-variant:normal;font-weight:bold;font-size:36.024px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               id="text588"><tspan
+                 x="0 15.959956"
+                 y="0"
+                 sodipodi:role="line"
+                 id="tspan586">en</tspan></text>
+          </g>
         </g>
-      </g>
-      <g
-         id="g590">
         <g
-           id="g592"
-           clip-path="url(#clipPath596)">
-          <text
-             xml:space="preserve"
-             transform="matrix(1,0,0,-1,308.78,361.15)"
-             style="font-variant:normal;font-weight:bold;font-size:36px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             id="text600"><tspan
-               x="0 25.992001 41.976002 51.984001 65.987999 77.975998"
-               y="0"
-               sodipodi:role="line"
-               id="tspan598">Cristo</tspan></text>
+           id="g590">
+          <g
+             id="g592"
+             clip-path="url(#clipPath596)">
+            <text
+               xml:space="preserve"
+               transform="matrix(1,0,0,-1,308.78,361.15)"
+               style="font-variant:normal;font-weight:bold;font-size:36px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               id="text600"><tspan
+                 x="0 25.992001 41.976002 51.984001 65.987999 77.975998"
+                 y="0"
+                 sodipodi:role="line"
+                 id="tspan598">Cristo</tspan></text>
+          </g>
         </g>
       </g>
     </g>
@@ -1287,35 +1291,39 @@
          style="fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:none"
          id="path50" />
       <g
-         id="g362">
+         id="g1194"
+         inkscape:label="condicion-temporal">
         <g
-           id="g364"
-           clip-path="url(#clipPath368)">
-          <text
-             xml:space="preserve"
-             transform="matrix(1,0,0,-1,251.98,55.992)"
-             style="font-variant:normal;font-weight:bold;font-size:36px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             id="text372"><tspan
-               x="0 25.992001 43.992001 64.008003 84.024002 94.031998 110.016 120.024 138.024"
-               y="0"
-               sodipodi:role="line"
-               id="tspan370">Condición</tspan></text>
+           id="g362">
+          <g
+             id="g364"
+             clip-path="url(#clipPath368)">
+            <text
+               xml:space="preserve"
+               transform="matrix(1,0,0,-1,251.98,55.992)"
+               style="font-variant:normal;font-weight:bold;font-size:36px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               id="text372"><tspan
+                 x="0 25.992001 43.992001 64.008003 84.024002 94.031998 110.016 120.024 138.024"
+                 y="0"
+                 sodipodi:role="line"
+                 id="tspan370">Condición</tspan></text>
+          </g>
         </g>
-      </g>
-      <g
-         id="g374">
         <g
-           id="g376"
-           clip-path="url(#clipPath380)">
-          <text
-             xml:space="preserve"
-             transform="matrix(1,0,0,-1,256.78,12.792)"
-             style="font-variant:normal;font-weight:bold;font-size:36.024px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             id="text384"><tspan
-               x="0 20.641752 36.63641 66.644402 86.673744 104.68575 120.6804 138.6924"
-               y="0"
-               sodipodi:role="line"
-               id="tspan382">Temporal</tspan></text>
+           id="g374">
+          <g
+             id="g376"
+             clip-path="url(#clipPath380)">
+            <text
+               xml:space="preserve"
+               transform="matrix(1,0,0,-1,256.78,12.792)"
+               style="font-variant:normal;font-weight:bold;font-size:36.024px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               id="text384"><tspan
+                 x="0 20.641752 36.63641 66.644402 86.673744 104.68575 120.6804 138.6924"
+                 y="0"
+                 sodipodi:role="line"
+                 id="tspan382">Temporal</tspan></text>
+          </g>
         </g>
       </g>
       <g
@@ -1390,7 +1398,8 @@
         </g>
       </g>
       <g
-         id="g542">
+         id="santiag123"
+         inkscape:label="santiag">
         <g
            id="g544"
            clip-path="url(#clipPath548)">
