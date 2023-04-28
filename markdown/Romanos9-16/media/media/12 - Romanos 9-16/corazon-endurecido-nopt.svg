@@ -1,0 +1,2253 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="960"
+   height="720"
+   viewBox="0 0 960 720"
+   sodipodi:docname="corazon-endurecido-nopt.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath18">
+      <path
+         d="M 0,1.2207e-4 H 720 V 540.00012 H 0 Z"
+         clip-rule="evenodd"
+         id="path16" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath28">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path26" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath40">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path38" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath52">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path50" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath64">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path62" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath76">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path74" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath108">
+      <path
+         d="M 6.1035e-5,540 H 720 V 2.4414e-4 L 1.2207e-4,1.8311e-4"
+         clip-rule="evenodd"
+         id="path106" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath118">
+      <path
+         d="M 1.907e-6,540 H 720 V 2.4414e-4 L 2.861e-6,1.8311e-4"
+         clip-rule="evenodd"
+         id="path116" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath128">
+      <path
+         d="M 1.5259e-5,540 H 720 V 2.4414e-4 L 3.0518e-5,1.8311e-4"
+         clip-rule="evenodd"
+         id="path126" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath138">
+      <path
+         d="M 0,540 H 720 V 2.4414e-4 L 3.0518e-5,1.8311e-4"
+         clip-rule="evenodd"
+         id="path136" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath148">
+      <path
+         d="M 0,540 H 720 V 2.4414e-4 L 6.1035e-5,1.8311e-4"
+         clip-rule="evenodd"
+         id="path146" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath174">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path172" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath186">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path184" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath198">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path196" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath210">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path208" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath222">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path220" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath234">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path232" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath246">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path244" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath258">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path256" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath270">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path268" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath282">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path280" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath294">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path292" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath306">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path304" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath318">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path316" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath330">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path328" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath342">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path340" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath354">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path352" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath366">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path364" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath378">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path376" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath390">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path388" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath402">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path400" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath414">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path412" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath426">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path424" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath438">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path436" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath450">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path448" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath462">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path460" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath474">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path472" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath486">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path484" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath498">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path496" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath510">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path508" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath522">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path520" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath534">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path532" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath546">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path544" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath558">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path556" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath570">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path568" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath582">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path580" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath594">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path592" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath606">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path604" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath618">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path616" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath630">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path628" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath642">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path640" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath654">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path652" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath666">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path664" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath678">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path676" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath690">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path688" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath702">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path700" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath714">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path712" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath726">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path724" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath738">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path736" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath750">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path748" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath762">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path760" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath774">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path772" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath786">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path784" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath798">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path796" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath810">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path808" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath822">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path820" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath834">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path832" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath846">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path844" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath858">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path856" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath870">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path868" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath882">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path880" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath894">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path892" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath906">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path904" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath918">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path916" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath930">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path928" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath942">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path940" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath954">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path952" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath966">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path964" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath978">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path976" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath990">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path988" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1002">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path1000" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1014">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path1012" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1026">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path1024" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1038">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path1036" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1050">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path1048" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1062">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path1060" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1074">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path1072" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1086">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path1084" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1098">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path1096" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1110">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path1108" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="1.1305556"
+     inkscape:cx="390.07371"
+     inkscape:cy="360.44226"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g10">
+    <inkscape:page
+       x="0"
+       y="0"
+       id="page8"
+       width="960"
+       height="720" />
+  </sodipodi:namedview>
+  <g
+     id="g10"
+     inkscape:groupmode="layer"
+     inkscape:label="Page 1"
+     transform="matrix(1.3333333,0,0,-1.3333333,0,720)">
+    <g
+       id="g12">
+      <g
+         id="g14"
+         clip-path="url(#clipPath18)">
+        <path
+           d="M 0,6.1035e-5 H 720 V 540.00006 H 0 Z"
+           style="fill:#0d0d0d;fill-opacity:1;fill-rule:evenodd;stroke:none"
+           id="path20" />
+      </g>
+    </g>
+    <g
+       id="g22">
+      <g
+         id="g24"
+         clip-path="url(#clipPath28)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,48.12,447.58)"
+           style="font-variant:normal;font-weight:bold;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri-Bold;writing-mode:lr-tb;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text32"><tspan
+             x="0 8.7840004 15.966 23.49 29.879999 34.307999 40.554001 50.256001 56.25"
+             y="0"
+             sodipodi:role="line"
+             id="tspan30">Escritura</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g34">
+      <g
+         id="g36"
+         clip-path="url(#clipPath40)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,239.33,447.58)"
+           style="font-variant:normal;font-weight:bold;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri-Bold;writing-mode:lr-tb;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text44"><tspan
+             x="0 9.2340002 18.125999 22.554001 31.445999 41.112 47.16"
+             y="0"
+             sodipodi:role="line"
+             id="tspan42">Palabra</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g46">
+      <g
+         id="g48"
+         clip-path="url(#clipPath52)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,420.55,447.58)"
+           style="font-variant:normal;font-weight:bold;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri-Bold;writing-mode:lr-tb;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text56"><tspan
+             x="0 8.9099998 13.338 22.392 37.062 46.764 56.358002"
+             y="0"
+             sodipodi:role="line"
+             id="tspan54">Tiempo </tspan></text>
+      </g>
+    </g>
+    <g
+       id="g58">
+      <g
+         id="g60"
+         clip-path="url(#clipPath64)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,599.38,447.58)"
+           style="font-variant:normal;font-weight:bold;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri-Bold;writing-mode:lr-tb;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text68"><tspan
+             x="0 10.908 19.205999 28.313999 37.908001 43.902"
+             y="0"
+             sodipodi:role="line"
+             id="tspan66">Agente</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g70">
+      <g
+         id="g72"
+         clip-path="url(#clipPath76)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,55.2,491.5)"
+           style="font-variant:normal;font-weight:normal;font-size:48px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text80"><tspan
+             x="0 25.584 50.880001 66.671997 89.664001 107.616 132.912 158.112 169.29601 192.72 217.92 243.12 268.32001 284.496 308.39999 328.70401 339.74399 364.944 390.23999 401.42401 426.62399 450.52802 461.37601 482.25601 505.24799 521.03998 544.03198 569.328"
+             y="0"
+             sodipodi:role="line"
+             id="tspan78">Corazón Endurecido de Faraón</tspan></text>
+      </g>
+    </g>
+    <path
+       d="m 12,438 684,-0.13"
+       style="fill:none;stroke:#ffff00;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       id="path82" />
+    <path
+       d="m 12,390 684,-0.13"
+       style="fill:none;stroke:#ffff00;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       id="path84" />
+    <path
+       d="m 12,342 684,-0.13"
+       style="fill:none;stroke:#ffff00;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       id="path86" />
+    <path
+       d="m 12,294 684,-0.13"
+       style="fill:none;stroke:#ffff00;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       id="path88" />
+    <path
+       d="m 12,246 684,-0.12"
+       style="fill:none;stroke:#ffff00;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       id="path90" />
+    <path
+       d="m 12,198 684,-0.12"
+       style="fill:none;stroke:#ffff00;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       id="path92" />
+    <path
+       d="m 12,150 684,-0.12"
+       style="fill:none;stroke:#ffff00;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       id="path94" />
+    <path
+       d="m 12,102 684,-0.13"
+       style="fill:none;stroke:#ffff00;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       id="path96" />
+    <path
+       d="M 12,54 696,53.875"
+       style="fill:none;stroke:#ffff00;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       id="path98" />
+    <path
+       d="M 12,24 696,23.875"
+       style="fill:none;stroke:#ffff00;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       id="path100" />
+    <g
+       id="g102">
+      <g
+         id="g104"
+         clip-path="url(#clipPath108)">
+        <path
+           d="M 696.06,437.88 696,23.943"
+           style="fill:none;stroke:#ffff00;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path110" />
+      </g>
+    </g>
+    <g
+       id="g112">
+      <g
+         id="g114"
+         clip-path="url(#clipPath118)">
+        <path
+           d="M 12.063,438 12,24.063"
+           style="fill:none;stroke:#ffff00;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path120" />
+      </g>
+    </g>
+    <g
+       id="g122">
+      <g
+         id="g124"
+         clip-path="url(#clipPath128)">
+        <path
+           d="M 162.06,438 162,24.063"
+           style="fill:none;stroke:#ffff00;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path130" />
+      </g>
+    </g>
+    <g
+       id="g132">
+      <g
+         id="g134"
+         clip-path="url(#clipPath138)">
+        <path
+           d="M 354.06,438 354,24.063"
+           style="fill:none;stroke:#ffff00;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path140" />
+      </g>
+    </g>
+    <g
+       id="g142">
+      <g
+         id="g144"
+         clip-path="url(#clipPath148)">
+        <path
+           d="M 546.06,438 546,24.063"
+           style="fill:none;stroke:#ffff00;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path150" />
+      </g>
+    </g>
+    <path
+       d="m 12,414 684,-0.13"
+       style="fill:none;stroke:#ffff00;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       id="path152" />
+    <path
+       d="m 12,366 684,-0.13"
+       style="fill:none;stroke:#ffff00;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       id="path154" />
+    <path
+       d="m 12,318 684,-0.13"
+       style="fill:none;stroke:#ffff00;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       id="path156" />
+    <path
+       d="m 12,270 684,-0.12"
+       style="fill:none;stroke:#ffff00;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       id="path158" />
+    <path
+       d="m 12,222 684,-0.12"
+       style="fill:none;stroke:#ffff00;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       id="path160" />
+    <path
+       d="m 12,174 684,-0.12"
+       style="fill:none;stroke:#ffff00;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       id="path162" />
+    <path
+       d="m 12,126 684,-0.13"
+       style="fill:none;stroke:#ffff00;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       id="path164" />
+    <path
+       d="M 12,78 696,77.875"
+       style="fill:none;stroke:#ffff00;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       id="path166" />
+    <g
+       id="g168">
+      <g
+         id="g170"
+         clip-path="url(#clipPath174)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,37.2,417.58)"
+           style="font-variant:normal;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text178"><tspan
+             x="0 8.7840004 16.073999 25.559999 35.009998 44.495998 48.563999 57.689999 62.514 71.639999"
+             y="0"
+             sodipodi:role="line"
+             id="tspan176">Éxodo 4:21</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g180">
+      <g
+         id="g182"
+         clip-path="url(#clipPath186)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,223.22,417.58)"
+           style="font-variant:normal;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text190"><tspan
+             x="0 9.5939999 20.808001 31.23 39.582001 49.806"
+             y="0"
+             sodipodi:role="line"
+             id="tspan188">CHAZAQ</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g192">
+      <g
+         id="g194"
+         clip-path="url(#clipPath198)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,373.25,417.58)"
+           style="font-variant:normal;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text202"><tspan
+             x="0 9.3059998 13.338 22.337999 26.424 30.6 35.136002 49.571999 59.057999 68.057999 74.339996 79.379997 88.379997 95.994003 101.862 111.348 115.416 124.542 134.19"
+             y="0"
+             sodipodi:role="line"
+             id="tspan200">Piel Imperfecto 1CS</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g204">
+      <g
+         id="g206"
+         clip-path="url(#clipPath210)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,559.3,417.58)"
+           style="font-variant:normal;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text214"><tspan
+             x="0 11.07 15.12 24.606001 31.643999 35.855999 41.310001 50.759998 56.736 66.222 71.262001 80.225998 87.839996 91.907997 100.53"
+             y="0"
+             sodipodi:role="line"
+             id="tspan212">Dios (profecía)</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g216">
+      <g
+         id="g218"
+         clip-path="url(#clipPath222)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,37.2,393.55)"
+           style="font-variant:normal;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text226"><tspan
+             x="0 8.7840004 16.073999 25.559999 35.009998 44.495998 48.563999 57.689999 62.514"
+             y="0"
+             sodipodi:role="line"
+             id="tspan224">Éxodo 7:3</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g228">
+      <g
+         id="g230"
+         clip-path="url(#clipPath234)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,223.22,393.55)"
+           style="font-variant:normal;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text238"><tspan
+             x="0 12.114 22.59 30.851999 42.066002 52.523998"
+             y="0"
+             sodipodi:role="line"
+             id="tspan236">QASHAH</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g240">
+      <g
+         id="g242"
+         clip-path="url(#clipPath246)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,367.25,393.55)"
+           style="font-variant:normal;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text250"><tspan
+             x="0 11.16 15.246 24.695999 34.181999 38.268002"
+             y="0"
+             sodipodi:role="line"
+             id="tspan248">Hiphil</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g252">
+      <g
+         id="g254"
+         clip-path="url(#clipPath258)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,414.07,393.55)"
+           style="font-variant:normal;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text262"><tspan
+             x="0 4.5359998 18.917999 28.422001 37.386002 43.667999 48.708 57.672001 65.286003 71.153999 80.639999 84.708 93.834 103.428"
+             y="0"
+             sodipodi:role="line"
+             id="tspan260">Imperfecto 1CS</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g264">
+      <g
+         id="g266"
+         clip-path="url(#clipPath270)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,559.3,393.55)"
+           style="font-variant:normal;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text274"><tspan
+             x="0 11.07 15.12 24.606001 31.643999 35.855999 41.310001 50.759998 56.736 66.222 71.262001 80.225998 87.839996 91.907997 100.53"
+             y="0"
+             sodipodi:role="line"
+             id="tspan272">Dios (profecía)</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g276">
+      <g
+         id="g278"
+         clip-path="url(#clipPath282)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,37.2,369.55)"
+           style="font-variant:normal;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text286"><tspan
+             x="0 8.7840004 16.073999 25.559999 35.009998 44.495998 48.563999 57.689999 62.514 71.639999"
+             y="0"
+             sodipodi:role="line"
+             id="tspan284">Éxodo 7:13</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g288">
+      <g
+         id="g290"
+         clip-path="url(#clipPath294)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,223.22,369.55)"
+           style="font-variant:normal;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text298"><tspan
+             x="0 9.5939999 20.808001 31.23 39.582001 49.806"
+             y="0"
+             sodipodi:role="line"
+             id="tspan296">CHAZAQ</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g300">
+      <g
+         id="g302"
+         clip-path="url(#clipPath306)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,385.27,369.55)"
+           style="font-variant:normal;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text310"><tspan
+             x="0 12.114 20.736"
+             y="0"
+             sodipodi:role="line"
+             id="tspan308">Qal</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g312">
+      <g
+         id="g314"
+         clip-path="url(#clipPath318)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,414.31,369.55)"
+           style="font-variant:normal;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text322"><tspan
+             x="0 4.5359998 18.917999 28.422001 37.386002 43.667999 48.708 57.672001 65.286003 71.153999 80.639999 84.708 93.834 109.224"
+             y="0"
+             sodipodi:role="line"
+             id="tspan320">Imperfecto 3MS</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g324">
+      <g
+         id="g326"
+         clip-path="url(#clipPath330)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,589.3,369.55)"
+           style="font-variant:normal;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text334"><tspan
+             x="0 7.7940001 16.416 22.32 30.941999 40.428001"
+             y="0"
+             sodipodi:role="line"
+             id="tspan332">Faraón</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g336">
+      <g
+         id="g338"
+         clip-path="url(#clipPath342)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,37.2,345.55)"
+           style="font-variant:normal;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text346"><tspan
+             x="0 8.7840004 16.073999 25.559999 35.009998 44.495998 48.563999 57.689999 62.514 71.639999"
+             y="0"
+             sodipodi:role="line"
+             id="tspan344">Éxodo 7:22</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g348">
+      <g
+         id="g350"
+         clip-path="url(#clipPath354)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,223.22,345.55)"
+           style="font-variant:normal;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text358"><tspan
+             x="0 9.5939999 20.808001 31.23 39.582001 49.806"
+             y="0"
+             sodipodi:role="line"
+             id="tspan356">CHAZAQ</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g360">
+      <g
+         id="g362"
+         clip-path="url(#clipPath366)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,385.27,345.55)"
+           style="font-variant:normal;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text370"><tspan
+             x="0 12.114 20.736"
+             y="0"
+             sodipodi:role="line"
+             id="tspan368">Qal</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g372">
+      <g
+         id="g374"
+         clip-path="url(#clipPath378)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,414.31,345.55)"
+           style="font-variant:normal;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text382"><tspan
+             x="0 4.5359998 18.917999 28.422001 37.386002 43.667999 48.708 57.672001 65.286003 71.153999 80.639999 84.708 93.834 109.224"
+             y="0"
+             sodipodi:role="line"
+             id="tspan380">Imperfecto 3MS</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g384">
+      <g
+         id="g386"
+         clip-path="url(#clipPath390)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,589.3,345.55)"
+           style="font-variant:normal;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text394"><tspan
+             x="0 7.7940001 16.416 22.32 30.941999 40.428001"
+             y="0"
+             sodipodi:role="line"
+             id="tspan392">Faraón</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g396">
+      <g
+         id="g398"
+         clip-path="url(#clipPath402)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,37.2,321.55)"
+           style="font-variant:normal;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text406"><tspan
+             x="0 8.7840004 16.073999 25.559999 35.009998 44.495998 48.563999 57.689999 62.514 71.639999"
+             y="0"
+             sodipodi:role="line"
+             id="tspan404">Éxodo 8:15</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g408">
+      <g
+         id="g410"
+         clip-path="url(#clipPath414)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,229.25,321.55)"
+           style="font-variant:normal;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text418"><tspan
+             x="0 9.3599997 19.08 29.285999 38.07"
+             y="0"
+             sodipodi:role="line"
+             id="tspan416">KAVED</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g420">
+      <g
+         id="g422"
+         clip-path="url(#clipPath426)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,391.27,321.55)"
+           style="font-variant:normal;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text430"><tspan
+             x="0 11.16 15.246 24.695999 34.181999 38.268002"
+             y="0"
+             sodipodi:role="line"
+             id="tspan428">Hiphil</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g432">
+      <g
+         id="g434"
+         clip-path="url(#clipPath438)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,438.07,321.55)"
+           style="font-variant:normal;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text442"><tspan
+             x="0 4.5359998 13.914 19.403999 23.544001 32.993999 37.080002 43.110001 47.16 55.206001"
+             y="0"
+             sodipodi:role="line"
+             id="tspan440">Infinitivo</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g444">
+      <g
+         id="g446"
+         clip-path="url(#clipPath450)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,589.3,321.55)"
+           style="font-variant:normal;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text454"><tspan
+             x="0 7.7940001 16.416 22.32 30.941999 40.428001"
+             y="0"
+             sodipodi:role="line"
+             id="tspan452">Faraón</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g456">
+      <g
+         id="g458"
+         clip-path="url(#clipPath462)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,37.2,297.53)"
+           style="font-variant:normal;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text466"><tspan
+             x="0 8.7840004 16.073999 25.559999 35.009998 44.495998 48.563999 57.689999 62.514 71.639999"
+             y="0"
+             sodipodi:role="line"
+             id="tspan464">Éxodo 8:19</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g468">
+      <g
+         id="g470"
+         clip-path="url(#clipPath474)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,223.22,297.53)"
+           style="font-variant:normal;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text478"><tspan
+             x="0 9.5939999 20.808001 31.23 39.582001 49.806"
+             y="0"
+             sodipodi:role="line"
+             id="tspan476">CHAZAQ</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g480">
+      <g
+         id="g482"
+         clip-path="url(#clipPath486)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,385.27,297.53)"
+           style="font-variant:normal;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text490"><tspan
+             x="0 12.114 20.736"
+             y="0"
+             sodipodi:role="line"
+             id="tspan488">Qal</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g492">
+      <g
+         id="g494"
+         clip-path="url(#clipPath498)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,414.31,297.53)"
+           style="font-variant:normal;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text502"><tspan
+             x="0 4.5359998 18.917999 28.422001 37.386002 43.667999 48.708 57.672001 65.286003 71.153999 80.639999 84.708 93.834 109.224"
+             y="0"
+             sodipodi:role="line"
+             id="tspan500">Imperfecto 3MS</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g504">
+      <g
+         id="g506"
+         clip-path="url(#clipPath510)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,589.3,297.53)"
+           style="font-variant:normal;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text514"><tspan
+             x="0 7.7940001 16.416 22.32 30.941999 40.428001"
+             y="0"
+             sodipodi:role="line"
+             id="tspan512">Faraón</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g516">
+      <g
+         id="g518"
+         clip-path="url(#clipPath522)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,37.2,273.53)"
+           style="font-variant:normal;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text526"><tspan
+             x="0 8.7840004 16.073999 25.559999 35.009998 44.495998 48.563999 57.689999 62.514 71.639999"
+             y="0"
+             sodipodi:role="line"
+             id="tspan524">Éxodo 8:32</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g528">
+      <g
+         id="g530"
+         clip-path="url(#clipPath534)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,229.25,273.53)"
+           style="font-variant:normal;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text538"><tspan
+             x="0 9.3599997 19.08 29.285999 38.07"
+             y="0"
+             sodipodi:role="line"
+             id="tspan536">KAVED</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g540">
+      <g
+         id="g542"
+         clip-path="url(#clipPath546)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,367.25,273.53)"
+           style="font-variant:normal;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text550"><tspan
+             x="0 11.16 15.246 24.695999 34.181999 38.268002"
+             y="0"
+             sodipodi:role="line"
+             id="tspan548">Hiphil</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g552">
+      <g
+         id="g554"
+         clip-path="url(#clipPath558)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,414.07,273.53)"
+           style="font-variant:normal;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text562"><tspan
+             x="0 4.5359998 18.917999 28.422001 37.386002 43.667999 48.708 57.672001 65.286003 71.153999 80.639999 84.708 93.834 109.224"
+             y="0"
+             sodipodi:role="line"
+             id="tspan560">Imperfecto 3MS</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g564">
+      <g
+         id="g566"
+         clip-path="url(#clipPath570)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,589.3,273.53)"
+           style="font-variant:normal;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text574"><tspan
+             x="0 7.7940001 16.416 22.32 30.941999 40.428001"
+             y="0"
+             sodipodi:role="line"
+             id="tspan572">Faraón</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g576">
+      <g
+         id="g578"
+         clip-path="url(#clipPath582)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,37.2,249.53)"
+           style="font-variant:normal;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text586"><tspan
+             x="0 8.7840004 16.073999 25.559999 35.009998 44.495998 48.563999 57.689999 62.514"
+             y="0"
+             sodipodi:role="line"
+             id="tspan584">Éxodo 9:7</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g588">
+      <g
+         id="g590"
+         clip-path="url(#clipPath594)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,229.25,249.53)"
+           style="font-variant:normal;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text598"><tspan
+             x="0 9.3599997 19.08 29.285999 38.07"
+             y="0"
+             sodipodi:role="line"
+             id="tspan596">KAVED</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g600">
+      <g
+         id="g602"
+         clip-path="url(#clipPath606)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,379.25,249.53)"
+           style="font-variant:normal;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text610"><tspan
+             x="0 12.114 20.790001"
+             y="0"
+             sodipodi:role="line"
+             id="tspan608">Qal</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g612">
+      <g
+         id="g614"
+         clip-path="url(#clipPath618)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,408.31,249.53)"
+           style="font-variant:normal;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text622"><tspan
+             x="0 4.5359998 18.917999 28.422001 37.386002 43.667999 48.708 57.672001 65.286003 71.153999 80.639999 84.708 93.834 109.224"
+             y="0"
+             sodipodi:role="line"
+             id="tspan620">Imperfecto 3MS</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g624">
+      <g
+         id="g626"
+         clip-path="url(#clipPath630)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,589.3,249.53)"
+           style="font-variant:normal;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text634"><tspan
+             x="0 7.7940001 16.416 22.32 30.941999 40.428001"
+             y="0"
+             sodipodi:role="line"
+             id="tspan632">Faraón</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g636">
+      <g
+         id="g638"
+         clip-path="url(#clipPath642)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,37.2,225.53)"
+           style="font-variant:normal;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text646"><tspan
+             x="0 8.7840004 16.073999 25.559999 35.009998 44.495998 48.563999 57.689999 62.514 71.639999"
+             y="0"
+             sodipodi:role="line"
+             id="tspan644">Éxodo 9:12</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g648">
+      <g
+         id="g650"
+         clip-path="url(#clipPath654)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,223.22,225.53)"
+           style="font-variant:normal;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text658"><tspan
+             x="0 9.5939999 20.808001 31.23 39.582001 49.806"
+             y="0"
+             sodipodi:role="line"
+             id="tspan656">CHAZAQ</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g660">
+      <g
+         id="g662"
+         clip-path="url(#clipPath666)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,379.25,225.53)"
+           style="font-variant:normal;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text670"><tspan
+             x="0 9.3059998 13.338 22.337999 26.424 30.6 35.136002 49.571999 59.057999 68.057999 74.339996 79.379997 88.379997 95.994003 101.862 111.348 115.416 124.542 139.93201"
+             y="0"
+             sodipodi:role="line"
+             id="tspan668">Piel Imperfecto 3MS</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g672">
+      <g
+         id="g674"
+         clip-path="url(#clipPath678)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,565.3,225.53)"
+           style="font-variant:normal;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text682"><tspan
+             x="0 11.07 15.12 24.606001 31.643999 35.855999 41.310001 50.382 57.978001 62.243999 70.290001 79.164001 86.274002"
+             y="0"
+             sodipodi:role="line"
+             id="tspan680">Dios (1º vez)</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g684">
+      <g
+         id="g686"
+         clip-path="url(#clipPath690)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,37.2,201.5)"
+           style="font-variant:normal;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text694"><tspan
+             x="0 8.7840004 16.073999 25.559999 35.009998 44.495998 48.563999 57.689999 62.514 71.639999"
+             y="0"
+             sodipodi:role="line"
+             id="tspan692">Éxodo 9:34</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g696">
+      <g
+         id="g698"
+         clip-path="url(#clipPath702)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,229.25,201.5)"
+           style="font-variant:normal;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text706"><tspan
+             x="0 9.3599997 19.08 29.285999 38.07"
+             y="0"
+             sodipodi:role="line"
+             id="tspan704">KAVED</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g708">
+      <g
+         id="g710"
+         clip-path="url(#clipPath714)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,367.25,201.5)"
+           style="font-variant:normal;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text718"><tspan
+             x="0 11.16 15.246 24.695999 34.181999 38.268002"
+             y="0"
+             sodipodi:role="line"
+             id="tspan716">Hiphil</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g720">
+      <g
+         id="g722"
+         clip-path="url(#clipPath726)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,414.07,201.5)"
+           style="font-variant:normal;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text730"><tspan
+             x="0 4.5359998 18.917999 28.422001 37.386002 43.667999 48.708 57.672001 65.286003 71.153999 80.639999 84.708 93.834 109.224"
+             y="0"
+             sodipodi:role="line"
+             id="tspan728">Imperfecto 3MS</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g732">
+      <g
+         id="g734"
+         clip-path="url(#clipPath738)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,553.3,201.5)"
+           style="font-variant:normal;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text742"><tspan
+             x="0 7.7940001 16.416 22.32 30.941999 40.428001 49.877998 53.981998 66.258003"
+             y="0"
+             sodipodi:role="line"
+             id="tspan740">Faraón &amp; </tspan></text>
+      </g>
+    </g>
+    <g
+       id="g744">
+      <g
+         id="g746"
+         clip-path="url(#clipPath750)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,623.74,201.5)"
+           style="font-variant:normal;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text754"><tspan
+             x="0 7.0380001 11.178 20.142 26.496 34.542 44.028"
+             y="0"
+             sodipodi:role="line"
+             id="tspan752">siervos</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g756">
+      <g
+         id="g758"
+         clip-path="url(#clipPath762)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,37.2,177.5)"
+           style="font-variant:normal;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text766"><tspan
+             x="0 8.7840004 16.073999 25.559999 35.009998 44.495998 48.563999 57.689999 62.514 71.639999"
+             y="0"
+             sodipodi:role="line"
+             id="tspan764">Éxodo 9:35</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g768">
+      <g
+         id="g770"
+         clip-path="url(#clipPath774)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,223.22,177.5)"
+           style="font-variant:normal;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text778"><tspan
+             x="0 9.5939999 20.808001 31.23 39.582001 49.806"
+             y="0"
+             sodipodi:role="line"
+             id="tspan776">CHAZAQ</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g780">
+      <g
+         id="g782"
+         clip-path="url(#clipPath786)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,379.25,177.5)"
+           style="font-variant:normal;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text790"><tspan
+             x="0 12.114 20.790001"
+             y="0"
+             sodipodi:role="line"
+             id="tspan788">Qal</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g792">
+      <g
+         id="g794"
+         clip-path="url(#clipPath798)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,408.31,177.5)"
+           style="font-variant:normal;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text802"><tspan
+             x="0 4.5359998 18.917999 28.422001 37.386002 43.667999 48.708 57.672001 65.286003 71.153999 80.639999 84.708 93.834 109.224"
+             y="0"
+             sodipodi:role="line"
+             id="tspan800">Imperfecto 3MS</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g804">
+      <g
+         id="g806"
+         clip-path="url(#clipPath810)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,589.3,177.5)"
+           style="font-variant:normal;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text814"><tspan
+             x="0 7.7940001 16.416 22.32 30.941999 40.428001"
+             y="0"
+             sodipodi:role="line"
+             id="tspan812">Faraón</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g816">
+      <g
+         id="g818"
+         clip-path="url(#clipPath822)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,37.2,153.5)"
+           style="font-variant:normal;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text826"><tspan
+             x="0 8.7840004 16.073999 25.559999 35.009998 44.495998 48.563999 57.689999 66.816002 71.639999"
+             y="0"
+             sodipodi:role="line"
+             id="tspan824">Éxodo 10:1</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g828">
+      <g
+         id="g830"
+         clip-path="url(#clipPath834)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,229.25,153.5)"
+           style="font-variant:normal;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text838"><tspan
+             x="0 9.3599997 19.08 29.285999 38.07"
+             y="0"
+             sodipodi:role="line"
+             id="tspan836">KAVED</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g840">
+      <g
+         id="g842"
+         clip-path="url(#clipPath846)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,385.27,153.5)"
+           style="font-variant:normal;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text850"><tspan
+             x="0 11.16 15.246 24.695999 34.181999 38.268002"
+             y="0"
+             sodipodi:role="line"
+             id="tspan848">Hiphil</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g852">
+      <g
+         id="g854"
+         clip-path="url(#clipPath858)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,432.07,153.5)"
+           style="font-variant:normal;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text862"><tspan
+             x="0 8.8739996 17.837999 24.120001 29.16 38.124001 45.737999 51.605999 61.091999 65.160004 74.286003 83.879997"
+             y="0"
+             sodipodi:role="line"
+             id="tspan860">Perfecto 1CS</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g864">
+      <g
+         id="g866"
+         clip-path="url(#clipPath870)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,601.3,153.5)"
+           style="font-variant:normal;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text874"><tspan
+             x="0 11.07 15.12 24.606001"
+             y="0"
+             sodipodi:role="line"
+             id="tspan872">Dios</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g876">
+      <g
+         id="g878"
+         clip-path="url(#clipPath882)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,37.2,129.5)"
+           style="font-variant:normal;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text886"><tspan
+             x="0 8.7840004 16.073999 25.559999 35.009998 44.495998 48.563999 57.689999 66.816002 71.639999 80.765999"
+             y="0"
+             sodipodi:role="line"
+             id="tspan884">Éxodo 10:20</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g888">
+      <g
+         id="g890"
+         clip-path="url(#clipPath894)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,223.22,129.5)"
+           style="font-variant:normal;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text898"><tspan
+             x="0 9.5939999 20.808001 31.23 39.582001 49.806"
+             y="0"
+             sodipodi:role="line"
+             id="tspan896">CHAZAQ</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g900">
+      <g
+         id="g902"
+         clip-path="url(#clipPath906)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,373.25,129.5)"
+           style="font-variant:normal;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text910"><tspan
+             x="0 9.3059998 13.338 22.337999 26.424 30.6 35.136002 49.571999 59.057999 68.057999 74.339996 79.379997 88.379997 95.994003 101.862 111.348 115.416 124.542 139.93201"
+             y="0"
+             sodipodi:role="line"
+             id="tspan908">Piel Imperfecto 3MS</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g912">
+      <g
+         id="g914"
+         clip-path="url(#clipPath918)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,601.3,129.5)"
+           style="font-variant:normal;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text922"><tspan
+             x="0 11.07 15.12 24.606001"
+             y="0"
+             sodipodi:role="line"
+             id="tspan920">Dios</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g924">
+      <g
+         id="g926"
+         clip-path="url(#clipPath930)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,37.2,105.5)"
+           style="font-variant:normal;font-weight:normal;font-size:18.024px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text934"><tspan
+             x="0 8.7957125 16.077408 25.576056 35.038654 44.537304 48.610729 57.748898 66.887062 71.645401 80.783569"
+             y="0"
+             sodipodi:role="line"
+             id="tspan932">Éxodo 10:27</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g936">
+      <g
+         id="g938"
+         clip-path="url(#clipPath942)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,223.22,105.5)"
+           style="font-variant:normal;font-weight:normal;font-size:18.024px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text946"><tspan
+             x="0 9.6067924 20.835745 31.271641 39.580704 49.800312"
+             y="0"
+             sodipodi:role="line"
+             id="tspan944">CHAZAQ</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g948">
+      <g
+         id="g950"
+         clip-path="url(#clipPath954)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,379.25,105.5)"
+           style="font-variant:normal;font-weight:normal;font-size:18.024px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text958"><tspan
+             x="0 9.2643356 13.33776 22.313711 26.459232 30.622776 35.164825 49.566002 59.100697 68.076645 74.367027 79.449791 88.425743 96.049896 101.96177 111.46042 115.53384 124.672 140.08253"
+             y="0"
+             sodipodi:role="line"
+             id="tspan956">Piel Imperfecto 3MS</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g960">
+      <g
+         id="g962"
+         clip-path="url(#clipPath966)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,601.3,105.5)"
+           style="font-variant:normal;font-weight:normal;font-size:18.024px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text970"><tspan
+             x="0 11.08476 15.122136 24.620785"
+             y="0"
+             sodipodi:role="line"
+             id="tspan968">Dios</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g972">
+      <g
+         id="g974"
+         clip-path="url(#clipPath978)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,37.2,81.48)"
+           style="font-variant:normal;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text982"><tspan
+             x="0 8.7840004 16.073999 25.559999 35.009998 44.495998 48.563999 57.689999 66.816002 71.639999 80.765999"
+             y="0"
+             sodipodi:role="line"
+             id="tspan980">Éxodo 11:10</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g984">
+      <g
+         id="g986"
+         clip-path="url(#clipPath990)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,223.22,81.48)"
+           style="font-variant:normal;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text994"><tspan
+             x="0 9.5939999 20.808001 31.23 39.582001 49.806"
+             y="0"
+             sodipodi:role="line"
+             id="tspan992">CHAZAQ</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g996">
+      <g
+         id="g998"
+         clip-path="url(#clipPath1002)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,373.25,81.48)"
+           style="font-variant:normal;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1006"><tspan
+             x="0 9.3059998 13.338 22.337999 26.424 30.6 35.136002 49.571999 59.057999 68.057999 74.339996 79.379997 88.379997 95.994003 101.862 111.348 115.416 124.542 139.93201"
+             y="0"
+             sodipodi:role="line"
+             id="tspan1004">Piel Imperfecto 3MS</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g1008">
+      <g
+         id="g1010"
+         clip-path="url(#clipPath1014)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,601.3,81.48)"
+           style="font-variant:normal;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1018"><tspan
+             x="0 11.07 15.12 24.606001"
+             y="0"
+             sodipodi:role="line"
+             id="tspan1016">Dios</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g1020">
+      <g
+         id="g1022"
+         clip-path="url(#clipPath1026)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,37.2,57.48)"
+           style="font-variant:normal;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1030"><tspan
+             x="0 8.7840004 16.073999 25.559999 35.009998 44.495998 48.563999 57.689999 66.816002 71.639999"
+             y="0"
+             sodipodi:role="line"
+             id="tspan1028">Éxodo 14:4</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g1032">
+      <g
+         id="g1034"
+         clip-path="url(#clipPath1038)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,223.22,57.48)"
+           style="font-variant:normal;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1042"><tspan
+             x="0 9.5939999 20.808001 31.23 39.582001 49.806"
+             y="0"
+             sodipodi:role="line"
+             id="tspan1040">CHAZAQ</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g1044">
+      <g
+         id="g1046"
+         clip-path="url(#clipPath1050)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,385.27,57.48)"
+           style="font-variant:normal;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1054"><tspan
+             x="0 9.2340002 13.32 22.284 26.424 30.582001 39.456001 48.419998 54.702 59.742001 68.706001 76.32 82.188004 91.674004 95.849998 104.976 114.57"
+             y="0"
+             sodipodi:role="line"
+             id="tspan1052">Piel Perfecto 1CS</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g1056">
+      <g
+         id="g1058"
+         clip-path="url(#clipPath1062)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,559.3,57.48)"
+           style="font-variant:normal;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1066"><tspan
+             x="0 11.07 15.12 24.606001 31.643999 35.855999 41.310001 50.759998 56.736 66.222 71.262001 80.225998 87.839996 91.907997 100.53"
+             y="0"
+             sodipodi:role="line"
+             id="tspan1064">Dios (profecía)</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g1068">
+      <g
+         id="g1070"
+         clip-path="url(#clipPath1074)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,37.2,33.48)"
+           style="font-variant:normal;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1078"><tspan
+             x="0 8.7840004 16.073999 25.559999 35.009998 44.495998 48.563999 57.689999 66.816002 71.639999"
+             y="0"
+             sodipodi:role="line"
+             id="tspan1076">Éxodo 14:8</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g1080">
+      <g
+         id="g1082"
+         clip-path="url(#clipPath1086)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,223.22,33.48)"
+           style="font-variant:normal;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1090"><tspan
+             x="0 9.5939999 20.808001 31.23 39.582001 49.806"
+             y="0"
+             sodipodi:role="line"
+             id="tspan1088">CHAZAQ</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g1092">
+      <g
+         id="g1094"
+         clip-path="url(#clipPath1098)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,385.27,33.48)"
+           style="font-variant:normal;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1102"><tspan
+             x="0 9.2340002 13.32 22.284 26.424 30.582001 39.456001 48.419998 54.702 59.742001 68.706001 76.32 82.188004 91.674004 95.849998 104.976 120.366"
+             y="0"
+             sodipodi:role="line"
+             id="tspan1100">Piel Perfecto 3MS</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g1104">
+      <g
+         id="g1106"
+         clip-path="url(#clipPath1110)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,601.3,33.48)"
+           style="font-variant:normal;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1114"><tspan
+             x="0 11.07 15.12 24.606001"
+             y="0"
+             sodipodi:role="line"
+             id="tspan1112">Dios</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
