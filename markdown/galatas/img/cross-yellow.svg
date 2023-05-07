@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="210mm" height="297mm" version="1.1" viewBox="0 0 744.09448819 1052.3622047" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <radialGradient id="h" cx="732.31" cy=".41687" r="960" gradientTransform="matrix(1 0 0 .5625 0 4.425)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#454545" offset="0"/>
+   <stop stop-color="#282828" offset="1"/>
+  </radialGradient>
+  <linearGradient id="g" x1="723.26" x2="564.65" y1="-178.63" y2="-294.34" gradientTransform="translate(8.999e-5 26.427)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fff" offset="0"/>
+   <stop stop-color="#ff0" stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <filter id="e" x="-.26804" y="-.16466" width="1.5361" height="1.3293" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="38.421245"/>
+  </filter>
+  <filter id="f" color-interpolation-filters="sRGB">
+   <feTurbulence baseFrequency="0.040 0.107" numOctaves="3" type="fractalNoise"/>
+   <feColorMatrix result="result0" values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 5 -2.7"/>
+   <feFlood flood-color="rgb(255,255,255)"/>
+   <feComposite in2="result0" operator="in"/>
+   <feComposite in2="SourceGraphic" operator="atop"/>
+  </filter>
+ </defs>
+ <rect x="-227.69" y="-535.34" width="1920" height="1080" fill="url(#h)"/>
+ <path d="m751.65-279.59-38.686 10v110.66h-152.66v38.687h152.66v400.66h38.686v-400.66h152.66l-10-38.687h-142.66v-120.66z" fill="#ff0" filter="url(#e)"/>
+ <g filter="url(#f)">
+  <path d="m751.65-279.59-38.686 10v110.66h-152.66v38.687h152.66v400.66h38.686v-400.66h152.66l-10-38.687h-142.66v-120.66z" fill="#ff0"/>
+  <path d="m751.65-279.59-38.686 10v110.66h-152.66v38.687h126.44a311.24 375.24 20.553 0 1 64.91 -71.43v-87.922z" fill="url(#g)"/>
+ </g>
+</svg>
