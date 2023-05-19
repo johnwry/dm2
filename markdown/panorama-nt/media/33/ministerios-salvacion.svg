@@ -1,0 +1,906 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1343.9664"
+   height="1007.9747"
+   version="1.1"
+   viewBox="0 0 959.97602 719.98191"
+   id="svg362"
+   sodipodi:docname="ministerios-salvacion.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview364"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="0.56527778"
+     inkscape:cx="393.61179"
+     inkscape:cy="444.914"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g360" />
+  <defs
+     id="defs92">
+    <clipPath
+       id="clipPath198">
+      <path
+         d="M 0,1.2207e-4 H 720 V 540.00012 H 0 Z"
+         clip-rule="evenodd"
+         id="path2" />
+    </clipPath>
+    <clipPath
+       id="clipPath208">
+      <path
+         d="M -1.907e-6,2.4414e-4 H 720 V 540.00024 H -1.907e-6 Z"
+         clip-rule="evenodd"
+         id="path5" />
+    </clipPath>
+    <mask
+       id="mask212"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       maskUnits="userSpaceOnUse">
+      <image
+         width="1"
+         height="1"
+         image-rendering="optimizeSpeed"
+         preserveAspectRatio="none"
+         xlink:href="data:image/png;base64,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"
+         id="image8" />
+    </mask>
+    <clipPath
+       id="clipPath228">
+      <path
+         d="M 0,1.8311e-4 H 720 V 540.00018 H 0 Z"
+         clip-rule="evenodd"
+         id="path11" />
+    </clipPath>
+    <mask
+       id="mask232"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       maskUnits="userSpaceOnUse">
+      <image
+         width="1"
+         height="1"
+         image-rendering="optimizeSpeed"
+         preserveAspectRatio="none"
+         xlink:href="data:image/png;base64,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"
+         id="image14" />
+    </mask>
+    <clipPath
+       id="clipPath248">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path17" />
+    </clipPath>
+    <clipPath
+       id="clipPath260">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path20" />
+    </clipPath>
+    <clipPath
+       id="clipPath272">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path23" />
+    </clipPath>
+    <clipPath
+       id="clipPath290">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path26" />
+    </clipPath>
+    <clipPath
+       id="clipPath302">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path29" />
+    </clipPath>
+    <clipPath
+       id="clipPath314">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path32" />
+    </clipPath>
+    <clipPath
+       id="clipPath326">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path35" />
+    </clipPath>
+    <clipPath
+       id="clipPath344">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path38" />
+    </clipPath>
+    <clipPath
+       id="clipPath356">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path41" />
+    </clipPath>
+    <clipPath
+       id="clipPath374">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path44" />
+    </clipPath>
+    <clipPath
+       id="clipPath386">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path47" />
+    </clipPath>
+    <clipPath
+       id="clipPath398">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path50" />
+    </clipPath>
+    <clipPath
+       id="clipPath410">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path53" />
+    </clipPath>
+    <clipPath
+       id="clipPath428">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path56" />
+    </clipPath>
+    <clipPath
+       id="clipPath440">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path59" />
+    </clipPath>
+    <clipPath
+       id="clipPath452">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path62" />
+    </clipPath>
+    <clipPath
+       id="clipPath464">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path65" />
+    </clipPath>
+    <clipPath
+       id="clipPath482">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path68" />
+    </clipPath>
+    <clipPath
+       id="clipPath494">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path71" />
+    </clipPath>
+    <clipPath
+       id="clipPath506">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path74" />
+    </clipPath>
+    <clipPath
+       id="clipPath518">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path77" />
+    </clipPath>
+    <clipPath
+       id="clipPath536">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path80" />
+    </clipPath>
+    <clipPath
+       id="clipPath548">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path83" />
+    </clipPath>
+    <clipPath
+       id="clipPath560">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path86" />
+    </clipPath>
+    <clipPath
+       id="clipPath572">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path89" />
+    </clipPath>
+  </defs>
+  <g
+     transform="matrix(1.3333,0,0,-1.3333,0,719.98208)"
+     id="g360">
+    <g
+       id="g98"
+       sodipodi:insensitive="true">
+      <g
+         clip-path="url(#clipPath198)"
+         id="g96">
+        <path
+           d="M 0,6.1035e-5 H 720 V 540.00006 H 0 Z"
+           fill="#220d0c"
+           fill-rule="evenodd"
+           id="path94" />
+      </g>
+    </g>
+    <path
+       d="m 299.05,500.79 c -0.39,0 -0.77,-0.12 -1.15,-0.35 -0.38,-0.23 -0.76,-0.6 -1.15,-1.11 -0.4,-0.5 -0.8,-1.17 -1.23,-1.99 -0.43,-0.83 -0.88,-1.84 -1.35,-3.05 v -13.23 c 0.83,-2.04 1.61,-3.61 2.36,-4.69 0.74,-1.08 1.52,-1.63 2.34,-1.63 0.75,0 1.4,0.37 1.94,1.11 0.55,0.74 0.99,1.73 1.32,2.96 0.34,1.23 0.58,2.61 0.74,4.14 0.16,1.52 0.24,3.06 0.24,4.61 0,1.7 -0.06,3.35 -0.19,4.94 -0.13,1.59 -0.35,3 -0.66,4.23 -0.31,1.23 -0.73,2.21 -1.25,2.95 -0.53,0.74 -1.18,1.11 -1.96,1.11 z m -89.21,0 c -0.77,0 -1.41,-0.37 -1.95,-1.11 -0.53,-0.74 -0.96,-1.71 -1.3,-2.92 -0.33,-1.2 -0.57,-2.57 -0.72,-4.1 -0.15,-1.52 -0.23,-3.08 -0.23,-4.65 0,-1.68 0.06,-3.32 0.19,-4.92 0.13,-1.6 0.35,-3.02 0.66,-4.26 0.32,-1.25 0.74,-2.25 1.26,-3 0.52,-0.75 1.17,-1.12 1.96,-1.12 0.4,0 0.79,0.11 1.16,0.33 0.36,0.22 0.74,0.59 1.13,1.11 0.39,0.51 0.79,1.19 1.22,2.01 0.42,0.83 0.87,1.84 1.34,3.05 v 13.3 c -0.81,2.05 -1.59,3.6 -2.35,4.67 -0.76,1.08 -1.55,1.61 -2.37,1.61 z m -41.5,0.15 c -0.9,0 -1.66,-0.32 -2.31,-0.96 -0.64,-0.64 -1.17,-1.55 -1.58,-2.72 -0.42,-1.17 -0.73,-2.55 -0.93,-4.15 -0.2,-1.6 -0.3,-3.35 -0.3,-5.25 0,-1.82 0.08,-3.53 0.25,-5.14 0.16,-1.6 0.44,-2.99 0.82,-4.19 0.39,-1.19 0.9,-2.14 1.55,-2.84 0.65,-0.71 1.46,-1.06 2.42,-1.06 0.88,0 1.65,0.32 2.3,0.96 0.64,0.64 1.18,1.54 1.59,2.7 0.42,1.16 0.72,2.54 0.92,4.14 0.19,1.6 0.29,3.36 0.29,5.28 0,1.8 -0.08,3.5 -0.25,5.1 -0.16,1.6 -0.43,3.01 -0.81,4.21 -0.38,1.21 -0.9,2.16 -1.54,2.87 -0.65,0.7 -1.46,1.05 -2.42,1.05 z m 61.44,0.33 c -0.74,0 -1.4,-0.28 -1.96,-0.85 -0.56,-0.56 -1.03,-1.32 -1.41,-2.25 -0.37,-0.94 -0.67,-2.03 -0.87,-3.27 -0.21,-1.25 -0.33,-2.54 -0.35,-3.9 h 8.92 c 0.04,3.2 -0.31,5.72 -1.05,7.54 -0.74,1.82 -1.83,2.73 -3.28,2.73 z m -101.99,0 c -0.75,0 -1.4,-0.28 -1.96,-0.85 -0.56,-0.56 -1.03,-1.32 -1.41,-2.25 -0.38,-0.94 -0.67,-2.03 -0.88,-3.27 -0.2,-1.25 -0.32,-2.54 -0.34,-3.9 h 8.92 c 0.04,3.2 -0.31,5.72 -1.05,7.54 -0.74,1.82 -1.83,2.73 -3.28,2.73 z m 226.96,4.25 c 0.29,0 0.53,-0.02 0.73,-0.05 0.19,-0.04 0.34,-0.12 0.46,-0.23 0.11,-0.11 0.2,-0.23 0.25,-0.37 0.04,-0.13 0.07,-0.3 0.07,-0.49 v -19.36 c 0,-1.95 0.07,-3.51 0.21,-4.68 0.14,-1.17 0.35,-2.17 0.63,-2.99 0.29,-0.83 0.65,-1.47 1.08,-1.92 0.44,-0.46 0.95,-0.69 1.53,-0.69 0.75,0 1.5,0.55 2.25,1.63 0.74,1.08 1.53,2.67 2.37,4.77 v 23.24 c 0,0.19 0.02,0.36 0.06,0.49 0.04,0.14 0.13,0.26 0.25,0.37 0.12,0.11 0.27,0.19 0.46,0.23 0.19,0.03 0.43,0.05 0.74,0.05 0.29,0 0.53,-0.02 0.72,-0.05 0.2,-0.04 0.35,-0.12 0.46,-0.23 0.11,-0.11 0.19,-0.23 0.24,-0.37 0.06,-0.13 0.08,-0.3 0.08,-0.49 v -33.26 c 0,-0.19 -0.02,-0.36 -0.06,-0.5 -0.04,-0.13 -0.12,-0.25 -0.23,-0.35 -0.1,-0.1 -0.25,-0.17 -0.42,-0.22 -0.18,-0.05 -0.39,-0.07 -0.65,-0.07 -0.28,0 -0.5,0.02 -0.68,0.07 -0.18,0.05 -0.31,0.12 -0.42,0.22 -0.1,0.1 -0.17,0.22 -0.21,0.35 -0.03,0.14 -0.05,0.31 -0.05,0.5 v 4.4 c -0.93,-2.09 -1.86,-3.62 -2.76,-4.58 -0.91,-0.96 -1.83,-1.44 -2.77,-1.44 -1.09,0 -2.01,0.37 -2.75,1.11 -0.75,0.73 -1.35,1.74 -1.81,3.01 -0.46,1.27 -0.79,2.74 -0.99,4.43 -0.2,1.69 -0.3,3.74 -0.3,6.15 v 20.18 c 0,0.19 0.02,0.36 0.06,0.49 0.05,0.14 0.13,0.26 0.25,0.37 0.12,0.11 0.28,0.19 0.47,0.23 0.2,0.03 0.44,0.05 0.73,0.05 z m -20.9,0 c 0.31,0 0.55,-0.02 0.75,-0.07 0.19,-0.05 0.34,-0.13 0.45,-0.22 0.11,-0.1 0.19,-0.23 0.24,-0.37 0.05,-0.15 0.07,-0.31 0.07,-0.48 v -33.26 c 0,-0.19 -0.02,-0.36 -0.07,-0.5 -0.05,-0.13 -0.13,-0.25 -0.24,-0.35 -0.11,-0.1 -0.26,-0.17 -0.45,-0.22 -0.2,-0.05 -0.44,-0.07 -0.75,-0.07 -0.29,0 -0.53,0.02 -0.72,0.07 -0.2,0.05 -0.35,0.12 -0.47,0.22 -0.11,0.1 -0.19,0.22 -0.23,0.35 -0.05,0.14 -0.07,0.31 -0.07,0.5 v 33.26 c 0,0.17 0.02,0.33 0.07,0.48 0.04,0.14 0.12,0.27 0.23,0.37 0.12,0.09 0.27,0.17 0.47,0.22 0.19,0.05 0.43,0.07 0.72,0.07 z m -21.59,0 c 0.31,0 0.55,-0.02 0.75,-0.05 0.19,-0.04 0.34,-0.12 0.45,-0.23 0.11,-0.11 0.19,-0.23 0.24,-0.37 0.05,-0.13 0.07,-0.3 0.07,-0.49 v -33.26 c 0,-0.19 -0.02,-0.36 -0.07,-0.5 -0.05,-0.13 -0.13,-0.25 -0.24,-0.35 -0.11,-0.1 -0.26,-0.17 -0.45,-0.22 -0.2,-0.05 -0.44,-0.07 -0.75,-0.07 -0.29,0 -0.53,0.02 -0.72,0.07 -0.2,0.05 -0.35,0.12 -0.47,0.22 -0.11,0.1 -0.19,0.22 -0.23,0.35 -0.05,0.14 -0.07,0.31 -0.07,0.5 v 33.26 c 0,0.19 0.02,0.36 0.07,0.49 0.04,0.14 0.12,0.26 0.23,0.37 0.12,0.11 0.27,0.19 0.47,0.23 0.19,0.03 0.43,0.05 0.72,0.05 z m -158.07,0 c 0.3,0 0.55,-0.02 0.74,-0.07 0.19,-0.05 0.35,-0.13 0.45,-0.22 0.11,-0.1 0.19,-0.23 0.24,-0.37 0.05,-0.15 0.07,-0.31 0.07,-0.48 v -33.26 c 0,-0.19 -0.02,-0.36 -0.07,-0.5 -0.05,-0.13 -0.13,-0.25 -0.24,-0.35 -0.1,-0.1 -0.26,-0.17 -0.45,-0.22 -0.19,-0.05 -0.44,-0.07 -0.74,-0.07 -0.3,0 -0.54,0.02 -0.73,0.07 -0.2,0.05 -0.35,0.12 -0.47,0.22 -0.11,0.1 -0.19,0.22 -0.23,0.35 -0.04,0.14 -0.07,0.31 -0.07,0.5 v 33.26 c 0,0.17 0.03,0.33 0.07,0.48 0.04,0.14 0.12,0.27 0.23,0.37 0.12,0.09 0.27,0.17 0.47,0.22 0.19,0.05 0.43,0.07 0.73,0.07 z m -66.263,0 c 0.303,0 0.551,-0.02 0.745,-0.07 0.194,-0.05 0.345,-0.13 0.454,-0.22 0.109,-0.1 0.188,-0.23 0.237,-0.37 0.048,-0.15 0.072,-0.31 0.072,-0.48 v -33.26 c 0,-0.19 -0.024,-0.36 -0.072,-0.5 -0.049,-0.13 -0.128,-0.25 -0.237,-0.35 -0.109,-0.1 -0.26,-0.17 -0.454,-0.22 -0.194,-0.05 -0.442,-0.07 -0.745,-0.07 -0.291,0 -0.533,0.02 -0.727,0.07 -0.194,0.05 -0.349,0.12 -0.464,0.22 -0.115,0.1 -0.194,0.22 -0.236,0.35 -0.042,0.14 -0.064,0.31 -0.064,0.5 v 33.26 c 0,0.17 0.022,0.33 0.064,0.48 0.042,0.14 0.121,0.27 0.236,0.37 0.115,0.09 0.27,0.17 0.464,0.22 0.194,0.05 0.436,0.07 0.727,0.07 z m -28.166,0 c 0.303,0 0.551,-0.02 0.745,-0.07 0.194,-0.05 0.345,-0.13 0.454,-0.22 0.109,-0.1 0.188,-0.23 0.237,-0.37 0.048,-0.15 0.072,-0.31 0.072,-0.48 v -33.26 c 0,-0.19 -0.024,-0.36 -0.072,-0.5 -0.049,-0.13 -0.128,-0.25 -0.237,-0.35 -0.109,-0.1 -0.26,-0.17 -0.454,-0.22 -0.194,-0.05 -0.442,-0.07 -0.745,-0.07 -0.291,0 -0.533,0.02 -0.727,0.07 -0.194,0.05 -0.349,0.12 -0.464,0.22 -0.115,0.1 -0.194,0.22 -0.236,0.35 -0.042,0.14 -0.064,0.31 -0.064,0.5 v 33.26 c 0,0.17 0.022,0.33 0.064,0.48 0.042,0.14 0.121,0.27 0.236,0.37 0.115,0.09 0.27,0.17 0.464,0.22 0.194,0.05 0.436,0.07 0.727,0.07 z m 266.75,0.52 c 0.16,0 0.34,-0.02 0.54,-0.06 0.2,-0.03 0.41,-0.1 0.63,-0.2 0.21,-0.1 0.41,-0.21 0.59,-0.33 0.17,-0.13 0.3,-0.25 0.37,-0.37 0.07,-0.13 0.12,-0.24 0.14,-0.35 0.03,-0.11 0.05,-0.26 0.07,-0.43 0.02,-0.17 0.03,-0.42 0.03,-0.76 0.01,-0.33 0.01,-0.78 0.01,-1.34 0,-0.55 0,-1 -0.01,-1.37 -0.02,-0.37 -0.04,-0.66 -0.08,-0.87 -0.03,-0.21 -0.08,-0.37 -0.13,-0.48 -0.06,-0.11 -0.13,-0.17 -0.23,-0.17 -0.1,0 -0.22,0.06 -0.35,0.17 -0.14,0.11 -0.3,0.22 -0.48,0.33 -0.17,0.11 -0.37,0.22 -0.59,0.32 -0.22,0.1 -0.45,0.14 -0.71,0.14 -0.3,0 -0.6,-0.12 -0.89,-0.36 -0.29,-0.25 -0.59,-0.66 -0.92,-1.22 -0.32,-0.57 -0.65,-1.32 -1,-2.26 -0.36,-0.93 -0.74,-2.08 -1.17,-3.43 v -21.88 c 0,-0.19 -0.02,-0.36 -0.07,-0.5 -0.05,-0.13 -0.13,-0.25 -0.24,-0.35 -0.11,-0.1 -0.26,-0.17 -0.45,-0.22 -0.19,-0.05 -0.44,-0.07 -0.75,-0.07 -0.29,0 -0.53,0.02 -0.72,0.07 -0.2,0.05 -0.35,0.12 -0.47,0.22 -0.11,0.1 -0.19,0.22 -0.23,0.35 -0.05,0.14 -0.07,0.31 -0.07,0.5 v 33.26 c 0,0.19 0.02,0.36 0.06,0.49 0.03,0.14 0.11,0.26 0.22,0.37 0.11,0.11 0.24,0.19 0.41,0.23 0.17,0.03 0.4,0.05 0.68,0.05 0.26,0 0.48,-0.02 0.66,-0.05 0.18,-0.04 0.31,-0.12 0.41,-0.23 0.1,-0.11 0.17,-0.23 0.21,-0.37 0.04,-0.13 0.06,-0.3 0.06,-0.49 v -4.84 c 0.45,1.33 0.87,2.41 1.26,3.25 0.4,0.83 0.77,1.49 1.12,1.97 0.35,0.48 0.7,0.82 1.05,1 0.34,0.19 0.69,0.28 1.04,0.28 z m -26.89,0 c 1.19,0 2.2,-0.47 3.03,-1.41 0.84,-0.93 1.52,-2.21 2.05,-3.84 0.53,-1.62 0.91,-3.51 1.15,-5.67 0.25,-2.15 0.37,-4.44 0.37,-6.85 0,-2.91 -0.16,-5.52 -0.47,-7.84 -0.31,-2.31 -0.76,-4.28 -1.36,-5.89 -0.6,-1.61 -1.34,-2.86 -2.23,-3.73 -0.88,-0.88 -1.89,-1.31 -3.03,-1.31 -0.49,0 -0.93,0.1 -1.35,0.29 -0.41,0.2 -0.81,0.51 -1.21,0.93 -0.39,0.42 -0.78,0.94 -1.17,1.59 -0.39,0.64 -0.8,1.39 -1.23,2.25 v -16.63 c 0,-0.19 -0.03,-0.37 -0.08,-0.51 -0.04,-0.15 -0.12,-0.28 -0.23,-0.37 -0.11,-0.1 -0.26,-0.18 -0.46,-0.23 -0.19,-0.05 -0.44,-0.07 -0.74,-0.07 -0.29,0 -0.54,0.02 -0.73,0.07 -0.19,0.05 -0.35,0.13 -0.46,0.23 -0.12,0.09 -0.2,0.22 -0.24,0.37 -0.04,0.14 -0.06,0.32 -0.06,0.51 v 46.45 c 0,0.22 0.02,0.4 0.05,0.53 0.04,0.14 0.11,0.25 0.22,0.35 0.11,0.1 0.25,0.17 0.42,0.21 0.17,0.03 0.37,0.05 0.62,0.05 0.25,0 0.46,-0.02 0.62,-0.05 0.17,-0.04 0.3,-0.11 0.41,-0.21 0.11,-0.1 0.19,-0.21 0.23,-0.35 0.04,-0.13 0.06,-0.31 0.06,-0.53 v -4.47 c 0.5,1.03 0.98,1.93 1.44,2.69 0.46,0.77 0.92,1.4 1.39,1.91 0.47,0.5 0.94,0.88 1.44,1.14 0.49,0.26 1,0.39 1.55,0.39 z m -17.92,0 c 0.44,0 0.88,-0.08 1.31,-0.22 0.44,-0.15 0.83,-0.34 1.18,-0.56 0.35,-0.22 0.65,-0.46 0.9,-0.72 0.25,-0.26 0.44,-0.48 0.57,-0.68 0.12,-0.2 0.21,-0.37 0.25,-0.52 0.04,-0.15 0.07,-0.31 0.09,-0.5 0.02,-0.18 0.04,-0.41 0.06,-0.68 0.01,-0.27 0.02,-0.6 0.02,-1 0,-0.42 -0.01,-0.78 -0.02,-1.09 -0.02,-0.31 -0.05,-0.56 -0.09,-0.76 -0.05,-0.19 -0.1,-0.33 -0.16,-0.42 -0.06,-0.09 -0.13,-0.13 -0.2,-0.13 -0.11,0 -0.27,0.14 -0.47,0.41 -0.21,0.27 -0.47,0.56 -0.8,0.86 -0.33,0.31 -0.71,0.6 -1.16,0.87 -0.44,0.27 -0.94,0.41 -1.51,0.41 -0.51,0 -0.96,-0.12 -1.35,-0.35 -0.39,-0.24 -0.7,-0.57 -0.95,-1 -0.25,-0.43 -0.44,-0.94 -0.57,-1.53 -0.12,-0.59 -0.19,-1.23 -0.19,-1.92 0,-0.96 0.12,-1.77 0.37,-2.42 0.24,-0.66 0.55,-1.23 0.94,-1.72 0.39,-0.49 0.83,-0.94 1.33,-1.33 0.5,-0.4 1,-0.8 1.52,-1.22 0.51,-0.42 1.02,-0.89 1.52,-1.41 0.51,-0.51 0.95,-1.14 1.34,-1.88 0.39,-0.74 0.7,-1.63 0.94,-2.66 0.23,-1.03 0.35,-2.27 0.35,-3.7 0,-1.69 -0.15,-3.21 -0.46,-4.54 -0.31,-1.33 -0.75,-2.45 -1.32,-3.36 -0.57,-0.91 -1.25,-1.6 -2.04,-2.07 -0.78,-0.47 -1.65,-0.7 -2.6,-0.7 -0.58,0 -1.13,0.09 -1.66,0.27 -0.53,0.19 -1,0.42 -1.42,0.71 -0.42,0.28 -0.77,0.57 -1.06,0.88 -0.29,0.31 -0.5,0.59 -0.64,0.83 -0.13,0.25 -0.23,0.6 -0.29,1.04 -0.06,0.44 -0.09,1.05 -0.09,1.81 0,0.47 0.01,0.86 0.04,1.18 0.02,0.32 0.05,0.58 0.09,0.78 0.04,0.19 0.09,0.34 0.15,0.42 0.07,0.09 0.15,0.13 0.23,0.13 0.13,0 0.33,-0.16 0.59,-0.5 0.26,-0.33 0.58,-0.69 0.96,-1.09 0.39,-0.39 0.84,-0.75 1.36,-1.09 0.52,-0.33 1.12,-0.5 1.8,-0.5 0.51,0 0.97,0.11 1.38,0.34 0.41,0.22 0.77,0.54 1.07,0.98 0.3,0.43 0.54,0.97 0.7,1.64 0.17,0.67 0.25,1.45 0.25,2.36 0,0.94 -0.12,1.73 -0.36,2.37 -0.23,0.64 -0.55,1.21 -0.93,1.7 -0.39,0.49 -0.83,0.93 -1.31,1.31 -0.49,0.38 -0.99,0.78 -1.5,1.2 -0.52,0.42 -1.02,0.89 -1.51,1.42 -0.49,0.53 -0.93,1.18 -1.32,1.94 -0.39,0.77 -0.7,1.68 -0.93,2.74 -0.24,1.06 -0.36,2.33 -0.36,3.8 0,1.31 0.13,2.56 0.37,3.75 0.25,1.2 0.63,2.25 1.12,3.14 0.5,0.9 1.12,1.62 1.86,2.17 0.75,0.54 1.62,0.81 2.61,0.81 z m -51.77,0 c 1.29,0 2.38,-0.42 3.28,-1.26 0.91,-0.84 1.65,-1.96 2.23,-3.38 0.58,-1.41 1.01,-3.08 1.28,-4.99 0.27,-1.91 0.41,-3.94 0.41,-6.11 v -1.11 c 0,-0.96 -0.12,-1.64 -0.36,-2.05 -0.23,-0.41 -0.5,-0.61 -0.81,-0.61 h -10.77 c 0,-1.85 0.09,-3.51 0.27,-4.99 0.19,-1.48 0.49,-2.74 0.92,-3.8 0.42,-1.06 0.98,-1.88 1.66,-2.44 0.68,-0.57 1.51,-0.85 2.5,-0.85 0.78,0 1.47,0.13 2.08,0.39 0.61,0.25 1.14,0.54 1.58,0.86 0.45,0.32 0.81,0.61 1.1,0.87 0.28,0.26 0.5,0.39 0.65,0.39 0.08,0 0.16,-0.04 0.23,-0.13 0.06,-0.08 0.11,-0.21 0.15,-0.39 0.04,-0.17 0.06,-0.41 0.08,-0.72 0.02,-0.31 0.03,-0.68 0.03,-1.12 0,-0.32 -0.01,-0.6 -0.02,-0.84 -0.01,-0.23 -0.03,-0.44 -0.04,-0.62 -0.02,-0.19 -0.05,-0.35 -0.09,-0.5 -0.05,-0.15 -0.1,-0.29 -0.17,-0.43 -0.06,-0.13 -0.26,-0.35 -0.59,-0.66 -0.33,-0.31 -0.75,-0.61 -1.27,-0.91 -0.52,-0.29 -1.12,-0.56 -1.81,-0.79 -0.68,-0.24 -1.41,-0.35 -2.19,-0.35 -1.34,0 -2.52,0.38 -3.53,1.14 -1.02,0.77 -1.87,1.9 -2.56,3.4 -0.69,1.5 -1.21,3.39 -1.56,5.65 -0.35,2.27 -0.53,4.91 -0.53,7.91 0,2.86 0.18,5.43 0.55,7.71 0.36,2.27 0.88,4.21 1.57,5.8 0.68,1.58 1.51,2.8 2.48,3.65 0.97,0.85 2.05,1.28 3.25,1.28 z m -44.02,0 c 0.44,0 0.88,-0.08 1.31,-0.22 0.44,-0.15 0.83,-0.34 1.18,-0.56 0.36,-0.22 0.66,-0.46 0.9,-0.72 0.25,-0.26 0.44,-0.48 0.57,-0.68 0.12,-0.2 0.21,-0.37 0.25,-0.52 0.04,-0.15 0.07,-0.31 0.09,-0.5 0.02,-0.18 0.04,-0.41 0.06,-0.68 0.02,-0.27 0.02,-0.6 0.02,-1 0,-0.42 0,-0.78 -0.02,-1.09 -0.02,-0.31 -0.05,-0.56 -0.09,-0.76 -0.05,-0.19 -0.1,-0.33 -0.16,-0.42 -0.06,-0.09 -0.13,-0.13 -0.2,-0.13 -0.11,0 -0.27,0.14 -0.47,0.41 -0.21,0.27 -0.47,0.56 -0.8,0.86 -0.33,0.31 -0.71,0.6 -1.15,0.87 -0.45,0.27 -0.95,0.41 -1.52,0.41 -0.51,0 -0.96,-0.12 -1.35,-0.35 -0.39,-0.24 -0.7,-0.57 -0.95,-1 -0.25,-0.43 -0.44,-0.94 -0.57,-1.53 -0.12,-0.59 -0.19,-1.23 -0.19,-1.92 0,-0.96 0.13,-1.77 0.37,-2.42 0.24,-0.66 0.55,-1.23 0.94,-1.72 0.39,-0.49 0.83,-0.94 1.33,-1.33 0.5,-0.4 1,-0.8 1.52,-1.22 0.51,-0.42 1.02,-0.89 1.52,-1.41 0.51,-0.51 0.95,-1.14 1.34,-1.88 0.39,-0.74 0.7,-1.63 0.94,-2.66 0.23,-1.03 0.35,-2.27 0.35,-3.7 0,-1.69 -0.15,-3.21 -0.46,-4.54 -0.31,-1.33 -0.75,-2.45 -1.32,-3.36 -0.57,-0.91 -1.25,-1.6 -2.04,-2.07 -0.78,-0.47 -1.65,-0.7 -2.6,-0.7 -0.58,0 -1.13,0.09 -1.66,0.27 -0.53,0.19 -1,0.42 -1.42,0.71 -0.41,0.28 -0.77,0.57 -1.06,0.88 -0.29,0.31 -0.5,0.59 -0.64,0.83 -0.13,0.25 -0.23,0.6 -0.29,1.04 -0.06,0.44 -0.09,1.05 -0.09,1.81 0,0.47 0.01,0.86 0.04,1.18 0.02,0.32 0.05,0.58 0.09,0.78 0.04,0.19 0.09,0.34 0.15,0.42 0.07,0.09 0.15,0.13 0.23,0.13 0.13,0 0.33,-0.16 0.59,-0.5 0.26,-0.33 0.58,-0.69 0.97,-1.09 0.38,-0.39 0.83,-0.75 1.35,-1.09 0.52,-0.33 1.12,-0.5 1.8,-0.5 0.51,0 0.97,0.11 1.38,0.34 0.41,0.22 0.77,0.54 1.07,0.98 0.31,0.43 0.54,0.97 0.7,1.64 0.17,0.67 0.25,1.45 0.25,2.36 0,0.94 -0.12,1.73 -0.36,2.37 -0.23,0.64 -0.55,1.21 -0.93,1.7 -0.39,0.49 -0.83,0.93 -1.31,1.31 -0.49,0.38 -0.99,0.78 -1.5,1.2 -0.52,0.42 -1.02,0.89 -1.51,1.42 -0.49,0.53 -0.93,1.18 -1.32,1.94 -0.39,0.77 -0.7,1.68 -0.93,2.74 -0.24,1.06 -0.36,2.33 -0.36,3.8 0,1.31 0.13,2.56 0.37,3.75 0.25,1.2 0.63,2.25 1.12,3.14 0.5,0.9 1.12,1.62 1.87,2.17 0.74,0.54 1.61,0.81 2.6,0.81 z m -17.46,0 c 1.35,0 2.52,-0.41 3.52,-1.22 1,-0.81 1.83,-2 2.5,-3.55 0.67,-1.55 1.17,-3.43 1.5,-5.65 0.33,-2.22 0.5,-4.72 0.5,-7.5 0,-2.71 -0.18,-5.2 -0.53,-7.48 -0.35,-2.28 -0.87,-4.25 -1.57,-5.9 -0.7,-1.65 -1.57,-2.93 -2.62,-3.86 -1.05,-0.92 -2.26,-1.38 -3.64,-1.38 -1.35,0 -2.52,0.4 -3.52,1.22 -1,0.81 -1.83,1.99 -2.5,3.54 -0.66,1.56 -1.16,3.44 -1.49,5.66 -0.33,2.21 -0.49,4.73 -0.49,7.53 0,2.71 0.17,5.21 0.52,7.49 0.34,2.27 0.87,4.24 1.56,5.89 0.7,1.65 1.57,2.93 2.61,3.84 1.04,0.91 2.26,1.37 3.65,1.37 z m -21.6,0 c 0.15,0 0.33,-0.02 0.53,-0.06 0.2,-0.03 0.41,-0.1 0.63,-0.2 0.22,-0.1 0.41,-0.21 0.59,-0.33 0.18,-0.13 0.3,-0.25 0.37,-0.37 0.08,-0.13 0.12,-0.24 0.15,-0.35 0.02,-0.11 0.04,-0.26 0.06,-0.43 0.02,-0.17 0.03,-0.42 0.04,-0.76 0,-0.33 0.01,-0.78 0.01,-1.34 0,-0.55 -0.01,-1 -0.02,-1.37 -0.01,-0.37 -0.04,-0.66 -0.07,-0.87 -0.04,-0.21 -0.09,-0.37 -0.14,-0.48 -0.05,-0.11 -0.13,-0.17 -0.23,-0.17 -0.09,0 -0.21,0.06 -0.35,0.17 -0.14,0.11 -0.3,0.22 -0.47,0.33 -0.18,0.11 -0.38,0.22 -0.6,0.32 -0.21,0.1 -0.45,0.14 -0.7,0.14 -0.31,0 -0.6,-0.12 -0.89,-0.36 -0.3,-0.25 -0.6,-0.66 -0.92,-1.22 -0.32,-0.57 -0.66,-1.32 -1.01,-2.26 -0.35,-0.93 -0.74,-2.08 -1.16,-3.43 v -21.88 c 0,-0.19 -0.03,-0.36 -0.08,-0.5 -0.05,-0.13 -0.12,-0.25 -0.23,-0.35 -0.11,-0.1 -0.26,-0.17 -0.46,-0.22 -0.19,-0.05 -0.44,-0.07 -0.74,-0.07 -0.29,0 -0.54,0.02 -0.73,0.07 -0.19,0.05 -0.35,0.12 -0.46,0.22 -0.12,0.1 -0.2,0.22 -0.24,0.35 -0.04,0.14 -0.06,0.31 -0.06,0.5 v 33.26 c 0,0.19 0.01,0.36 0.05,0.49 0.04,0.14 0.11,0.26 0.22,0.37 0.11,0.11 0.25,0.19 0.42,0.23 0.17,0.03 0.39,0.05 0.67,0.05 0.27,0 0.49,-0.02 0.66,-0.05 0.18,-0.04 0.32,-0.12 0.41,-0.23 0.1,-0.11 0.17,-0.23 0.21,-0.37 0.04,-0.13 0.06,-0.3 0.06,-0.49 v -4.84 c 0.45,1.33 0.87,2.41 1.27,3.25 0.39,0.83 0.76,1.49 1.12,1.97 0.35,0.48 0.7,0.82 1.04,1 0.35,0.19 0.69,0.28 1.05,0.28 z m -18.91,0 c 1.28,0 2.38,-0.42 3.28,-1.26 0.9,-0.84 1.65,-1.96 2.23,-3.38 0.58,-1.41 1.01,-3.08 1.28,-4.99 0.27,-1.91 0.41,-3.94 0.41,-6.11 v -1.11 c 0,-0.96 -0.12,-1.64 -0.36,-2.05 -0.24,-0.41 -0.51,-0.61 -0.81,-0.61 h -10.77 c 0,-1.85 0.09,-3.51 0.27,-4.99 0.18,-1.48 0.49,-2.74 0.91,-3.8 0.43,-1.06 0.98,-1.88 1.67,-2.44 0.68,-0.57 1.51,-0.85 2.5,-0.85 0.78,0 1.47,0.13 2.08,0.39 0.61,0.25 1.14,0.54 1.58,0.86 0.44,0.32 0.81,0.61 1.1,0.87 0.28,0.26 0.5,0.39 0.64,0.39 0.09,0 0.17,-0.04 0.23,-0.13 0.07,-0.08 0.12,-0.21 0.16,-0.39 0.03,-0.17 0.06,-0.41 0.08,-0.72 0.02,-0.31 0.03,-0.68 0.03,-1.12 0,-0.32 -0.01,-0.6 -0.02,-0.84 -0.01,-0.23 -0.03,-0.44 -0.05,-0.62 -0.01,-0.19 -0.05,-0.35 -0.09,-0.5 -0.04,-0.15 -0.09,-0.29 -0.16,-0.43 -0.07,-0.13 -0.26,-0.35 -0.59,-0.66 -0.33,-0.31 -0.75,-0.61 -1.27,-0.91 -0.53,-0.29 -1.13,-0.56 -1.81,-0.79 -0.69,-0.24 -1.42,-0.35 -2.19,-0.35 -1.35,0 -2.53,0.38 -3.54,1.14 -1.01,0.77 -1.86,1.9 -2.55,3.4 -0.69,1.5 -1.21,3.39 -1.56,5.65 -0.36,2.27 -0.53,4.91 -0.53,7.91 0,2.86 0.18,5.43 0.54,7.71 0.37,2.27 0.89,4.21 1.58,5.8 0.68,1.58 1.51,2.8 2.48,3.65 0.97,0.85 2.05,1.28 3.25,1.28 z m -27.89,0 c 0.44,0 0.87,-0.08 1.31,-0.22 0.44,-0.15 0.83,-0.34 1.18,-0.56 0.35,-0.22 0.65,-0.46 0.9,-0.72 0.25,-0.26 0.44,-0.48 0.56,-0.68 0.13,-0.2 0.22,-0.37 0.26,-0.52 0.04,-0.15 0.07,-0.31 0.09,-0.5 0.02,-0.18 0.04,-0.41 0.05,-0.68 0.02,-0.27 0.03,-0.6 0.03,-1 0,-0.42 -0.01,-0.78 -0.03,-1.09 -0.01,-0.31 -0.04,-0.56 -0.09,-0.76 -0.04,-0.19 -0.09,-0.33 -0.15,-0.42 -0.06,-0.09 -0.13,-0.13 -0.2,-0.13 -0.11,0 -0.27,0.14 -0.47,0.41 -0.21,0.27 -0.48,0.56 -0.8,0.86 -0.33,0.31 -0.72,0.6 -1.16,0.87 -0.44,0.27 -0.95,0.41 -1.52,0.41 -0.505,0 -0.953,-0.12 -1.341,-0.35 -0.387,-0.24 -0.705,-0.57 -0.954,-1 -0.248,-0.43 -0.436,-0.94 -0.563,-1.53 -0.128,-0.59 -0.191,-1.23 -0.191,-1.92 0,-0.96 0.121,-1.77 0.363,-2.42 0.243,-0.66 0.558,-1.23 0.946,-1.72 0.387,-0.49 0.83,-0.94 1.326,-1.33 0.494,-0.4 1.004,-0.8 1.514,-1.22 0.52,-0.42 1.03,-0.89 1.53,-1.41 0.5,-0.51 0.95,-1.14 1.34,-1.88 0.38,-0.74 0.7,-1.63 0.93,-2.66 0.24,-1.03 0.36,-2.27 0.36,-3.7 0,-1.69 -0.16,-3.21 -0.47,-4.54 -0.31,-1.33 -0.74,-2.45 -1.31,-3.36 -0.57,-0.91 -1.25,-1.6 -2.04,-2.07 -0.79,-0.47 -1.654,-0.7 -2.599,-0.7 -0.581,0 -1.136,0.09 -1.663,0.27 -0.527,0.19 -1,0.42 -1.418,0.71 -0.418,0.28 -0.772,0.57 -1.063,0.88 -0.291,0.31 -0.503,0.59 -0.636,0.83 -0.133,0.25 -0.23,0.6 -0.291,1.04 -0.06,0.44 -0.091,1.05 -0.091,1.81 0,0.47 0.012,0.86 0.037,1.18 0.024,0.32 0.054,0.58 0.09,0.78 0.037,0.19 0.088,0.34 0.155,0.42 0.067,0.09 0.142,0.13 0.227,0.13 0.133,0 0.33,-0.16 0.591,-0.5 0.26,-0.33 0.581,-0.69 0.963,-1.09 0.382,-0.39 0.833,-0.75 1.354,-1.09 0.521,-0.33 1.121,-0.5 1.8,-0.5 0.509,0 0.969,0.11 1.384,0.34 0.41,0.22 0.77,0.54 1.07,0.98 0.3,0.43 0.54,0.97 0.7,1.64 0.16,0.67 0.24,1.45 0.24,2.36 0,0.94 -0.11,1.73 -0.35,2.37 -0.24,0.64 -0.55,1.21 -0.94,1.7 -0.38,0.49 -0.82,0.93 -1.305,1.31 -0.484,0.38 -0.984,0.78 -1.499,1.2 -0.515,0.42 -1.018,0.89 -1.509,1.42 -0.49,0.53 -0.93,1.18 -1.317,1.94 -0.388,0.77 -0.7,1.68 -0.936,2.74 -0.237,1.06 -0.355,2.33 -0.355,3.8 0,1.31 0.124,2.56 0.373,3.75 0.248,1.2 0.621,2.25 1.118,3.14 0.496,0.9 1.117,1.62 1.863,2.17 0.745,0.54 1.614,0.81 2.607,0.81 z m -24.985,0 c 1.091,0 2.009,-0.38 2.754,-1.13 0.745,-0.75 1.348,-1.75 1.809,-3.01 0.46,-1.26 0.79,-2.73 0.99,-4.41 0.2,-1.69 0.3,-3.72 0.3,-6.08 v -20.29 c 0,-0.19 -0.024,-0.36 -0.073,-0.5 -0.048,-0.13 -0.127,-0.25 -0.236,-0.35 -0.109,-0.1 -0.26,-0.17 -0.454,-0.22 -0.194,-0.05 -0.437,-0.07 -0.727,-0.07 -0.303,0 -0.552,0.02 -0.746,0.07 -0.193,0.05 -0.345,0.12 -0.454,0.22 -0.109,0.1 -0.188,0.22 -0.236,0.35 -0.049,0.14 -0.073,0.31 -0.073,0.5 v 19.47 c 0,1.9 -0.073,3.43 -0.218,4.59 -0.145,1.15 -0.358,2.15 -0.636,2.99 -0.279,0.84 -0.639,1.48 -1.082,1.92 -0.442,0.44 -0.954,0.66 -1.536,0.66 -0.751,0 -1.502,-0.54 -2.253,-1.62 -0.752,-1.08 -1.539,-2.67 -2.363,-4.77 v -23.24 c 0,-0.19 -0.024,-0.36 -0.073,-0.5 -0.048,-0.13 -0.127,-0.25 -0.236,-0.35 -0.109,-0.1 -0.261,-0.17 -0.455,-0.22 -0.193,-0.05 -0.442,-0.07 -0.745,-0.07 -0.291,0 -0.533,0.02 -0.727,0.07 -0.194,0.05 -0.348,0.12 -0.463,0.22 -0.115,0.1 -0.194,0.22 -0.237,0.35 -0.042,0.14 -0.063,0.31 -0.063,0.5 v 33.26 c 0,0.19 0.018,0.36 0.054,0.49 0.037,0.14 0.109,0.26 0.218,0.37 0.11,0.11 0.249,0.19 0.419,0.23 0.169,0.03 0.393,0.05 0.672,0.05 0.267,0 0.488,-0.02 0.663,-0.05 0.176,-0.04 0.312,-0.12 0.409,-0.23 0.097,-0.11 0.167,-0.23 0.209,-0.37 0.043,-0.13 0.064,-0.3 0.064,-0.49 v -4.4 c 0.921,2.09 1.839,3.63 2.754,4.6 0.914,0.97 1.838,1.46 2.771,1.46 z m 268.06,8.39 c 0.31,0 0.55,-0.03 0.75,-0.08 0.19,-0.05 0.34,-0.13 0.45,-0.24 0.11,-0.11 0.19,-0.24 0.24,-0.39 0.05,-0.14 0.07,-0.3 0.07,-0.48 v -7.9 h 4.2 c 0.1,0 0.18,-0.05 0.25,-0.13 0.08,-0.09 0.14,-0.24 0.2,-0.45 0.05,-0.21 0.09,-0.47 0.11,-0.79 0.03,-0.32 0.04,-0.71 0.04,-1.18 0,-0.89 -0.05,-1.53 -0.16,-1.92 -0.11,-0.4 -0.26,-0.6 -0.44,-0.6 h -4.2 v -18.54 c 0,-2.29 0.17,-4.02 0.5,-5.19 0.33,-1.17 0.93,-1.76 1.79,-1.76 0.28,0 0.53,0.06 0.75,0.17 0.21,0.11 0.41,0.22 0.58,0.35 0.17,0.12 0.31,0.24 0.43,0.35 0.13,0.11 0.23,0.17 0.33,0.17 0.06,0 0.12,-0.04 0.17,-0.1 0.06,-0.06 0.1,-0.18 0.13,-0.35 0.03,-0.17 0.06,-0.4 0.08,-0.7 0.03,-0.3 0.04,-0.67 0.04,-1.11 0,-0.71 -0.02,-1.28 -0.07,-1.7 -0.05,-0.42 -0.12,-0.72 -0.22,-0.92 -0.1,-0.2 -0.24,-0.38 -0.44,-0.56 -0.19,-0.17 -0.41,-0.31 -0.66,-0.42 -0.25,-0.11 -0.51,-0.2 -0.79,-0.28 -0.28,-0.07 -0.56,-0.11 -0.84,-0.11 -0.85,0 -1.57,0.23 -2.18,0.68 -0.6,0.46 -1.1,1.15 -1.49,2.07 -0.39,0.93 -0.67,2.1 -0.84,3.51 -0.18,1.42 -0.27,3.09 -0.27,5.01 v 19.43 h -2.29 c -0.18,0 -0.32,0.2 -0.43,0.6 -0.11,0.39 -0.17,1.03 -0.17,1.92 0,0.47 0.02,0.86 0.05,1.18 0.03,0.32 0.07,0.58 0.12,0.79 0.04,0.21 0.11,0.36 0.19,0.45 0.08,0.08 0.16,0.13 0.26,0.13 h 2.27 v 7.9 c 0,0.18 0.02,0.34 0.07,0.48 0.04,0.15 0.12,0.28 0.23,0.39 0.12,0.11 0.27,0.19 0.47,0.24 0.19,0.05 0.43,0.08 0.72,0.08 z m -231.78,0 c 0.31,0 0.55,-0.03 0.75,-0.08 0.19,-0.05 0.34,-0.13 0.45,-0.24 0.11,-0.11 0.19,-0.24 0.24,-0.39 0.05,-0.14 0.07,-0.3 0.07,-0.48 v -7.9 h 4.2 c 0.1,0 0.18,-0.05 0.25,-0.13 0.08,-0.09 0.14,-0.24 0.19,-0.45 0.06,-0.21 0.1,-0.47 0.12,-0.79 0.03,-0.32 0.04,-0.71 0.04,-1.18 0,-0.89 -0.06,-1.53 -0.16,-1.92 -0.11,-0.4 -0.26,-0.6 -0.44,-0.6 h -4.2 v -18.54 c 0,-2.29 0.17,-4.02 0.5,-5.19 0.33,-1.17 0.93,-1.76 1.79,-1.76 0.28,0 0.53,0.06 0.75,0.17 0.21,0.11 0.41,0.22 0.58,0.35 0.17,0.12 0.31,0.24 0.43,0.35 0.13,0.11 0.23,0.17 0.33,0.17 0.06,0 0.12,-0.04 0.17,-0.1 0.06,-0.06 0.1,-0.18 0.13,-0.35 0.03,-0.17 0.06,-0.4 0.08,-0.7 0.03,-0.3 0.04,-0.67 0.04,-1.11 0,-0.71 -0.03,-1.28 -0.07,-1.7 -0.05,-0.42 -0.12,-0.72 -0.22,-0.92 -0.1,-0.2 -0.24,-0.38 -0.44,-0.56 -0.19,-0.17 -0.41,-0.31 -0.66,-0.42 -0.25,-0.11 -0.51,-0.2 -0.79,-0.28 -0.28,-0.07 -0.56,-0.11 -0.84,-0.11 -0.85,0 -1.57,0.23 -2.18,0.68 -0.6,0.46 -1.1,1.15 -1.49,2.07 -0.39,0.93 -0.67,2.1 -0.84,3.51 -0.18,1.42 -0.27,3.09 -0.27,5.01 v 19.43 h -2.29 c -0.18,0 -0.33,0.2 -0.43,0.6 -0.11,0.39 -0.17,1.03 -0.17,1.92 0,0.47 0.02,0.86 0.05,1.18 0.03,0.32 0.07,0.58 0.12,0.79 0.04,0.21 0.11,0.36 0.19,0.45 0.08,0.08 0.16,0.13 0.26,0.13 h 2.27 v 7.9 c 0,0.18 0.02,0.34 0.07,0.48 0.04,0.15 0.12,0.28 0.23,0.39 0.12,0.11 0.27,0.19 0.47,0.24 0.19,0.05 0.43,0.08 0.72,0.08 z m 148.7,3.58 h 11.16 c 0.1,0 0.19,-0.05 0.27,-0.15 0.08,-0.1 0.14,-0.26 0.19,-0.48 0.05,-0.22 0.09,-0.5 0.12,-0.83 0.03,-0.33 0.04,-0.74 0.04,-1.24 0,-0.44 -0.01,-0.83 -0.04,-1.16 -0.03,-0.33 -0.07,-0.6 -0.12,-0.81 -0.05,-0.21 -0.11,-0.37 -0.19,-0.47 -0.08,-0.09 -0.17,-0.14 -0.27,-0.14 h -9.19 v -15 h 7.88 c 0.1,0 0.19,-0.06 0.27,-0.17 0.08,-0.11 0.14,-0.27 0.2,-0.46 0.05,-0.2 0.09,-0.47 0.12,-0.82 0.02,-0.34 0.03,-0.75 0.03,-1.22 0,-0.44 -0.01,-0.82 -0.03,-1.14 -0.03,-0.32 -0.07,-0.58 -0.12,-0.78 -0.06,-0.19 -0.12,-0.34 -0.2,-0.42 -0.08,-0.09 -0.17,-0.13 -0.27,-0.13 h -7.88 v -17.11 h 9.32 c 0.1,0 0.19,-0.05 0.26,-0.15 0.08,-0.09 0.15,-0.25 0.21,-0.46 0.06,-0.21 0.11,-0.48 0.13,-0.81 0.02,-0.33 0.04,-0.74 0.04,-1.24 0,-0.44 -0.02,-0.83 -0.04,-1.16 -0.02,-0.33 -0.07,-0.61 -0.13,-0.83 -0.06,-0.22 -0.13,-0.38 -0.21,-0.48 -0.07,-0.1 -0.16,-0.15 -0.26,-0.15 h -11.29 c -0.28,0 -0.54,0.19 -0.79,0.57 -0.25,0.38 -0.37,1.05 -0.37,2.02 v 42.63 c 0,0.96 0.12,1.64 0.37,2.02 0.25,0.38 0.51,0.57 0.79,0.57 z m -232,0 h 1.919 c 0.394,0 0.738,-0.07 1.034,-0.22 0.295,-0.15 0.553,-0.38 0.775,-0.7 0.221,-0.32 0.406,-0.73 0.553,-1.22 0.148,-0.5 0.277,-1.07 0.388,-1.74 2.242,-11.54 4.483,-23.08 6.725,-34.62 h 0.091 c 2.332,11.5 4.665,23.01 6.998,34.51 0.135,0.74 0.283,1.37 0.443,1.88 0.16,0.52 0.335,0.93 0.526,1.24 0.191,0.31 0.403,0.53 0.637,0.67 0.234,0.13 0.505,0.2 0.813,0.2 h 2.012 c 0.185,0 0.361,-0.06 0.527,-0.17 0.166,-0.11 0.307,-0.28 0.424,-0.51 0.117,-0.24 0.213,-0.53 0.287,-0.89 0.074,-0.36 0.11,-0.8 0.11,-1.31 v -43.97 c 0,-0.2 -0.024,-0.37 -0.074,-0.52 -0.05,-0.15 -0.138,-0.26 -0.262,-0.35 -0.125,-0.08 -0.284,-0.16 -0.478,-0.22 -0.193,-0.06 -0.446,-0.09 -0.758,-0.09 -0.287,0 -0.533,0.03 -0.739,0.09 -0.206,0.06 -0.369,0.14 -0.487,0.22 -0.119,0.09 -0.203,0.2 -0.253,0.35 -0.05,0.15 -0.075,0.32 -0.075,0.52 v 41.64 h -0.036 c -2.763,-13.94 -5.526,-27.88 -8.288,-41.83 -0.037,-0.17 -0.088,-0.32 -0.155,-0.44 -0.066,-0.12 -0.163,-0.23 -0.291,-0.31 -0.127,-0.09 -0.278,-0.15 -0.454,-0.19 -0.176,-0.03 -0.385,-0.05 -0.627,-0.05 -0.254,0 -0.473,0.02 -0.654,0.07 -0.182,0.05 -0.334,0.12 -0.455,0.2 -0.121,0.09 -0.215,0.2 -0.281,0.32 -0.067,0.12 -0.113,0.26 -0.137,0.4 -2.641,13.95 -5.283,27.89 -7.924,41.83 h -0.019 v -41.64 c 0,-0.2 -0.024,-0.37 -0.074,-0.52 -0.05,-0.15 -0.138,-0.26 -0.262,-0.35 -0.125,-0.08 -0.288,-0.16 -0.487,-0.22 -0.2,-0.06 -0.456,-0.09 -0.768,-0.09 -0.299,0 -0.549,0.03 -0.749,0.09 -0.199,0.06 -0.358,0.14 -0.477,0.22 -0.119,0.09 -0.2,0.2 -0.243,0.35 -0.044,0.15 -0.066,0.32 -0.066,0.52 v 43.97 c 0,1.03 0.136,1.77 0.406,2.21 0.271,0.45 0.572,0.67 0.905,0.67 z m 305.83,1.22 c 0.7,0 1.19,-0.25 1.45,-0.76 0.26,-0.5 0.39,-1.46 0.39,-2.86 0,-1.43 -0.14,-2.4 -0.4,-2.92 -0.27,-0.52 -0.76,-0.78 -1.48,-0.78 -0.7,0 -1.18,0.26 -1.44,0.76 -0.26,0.51 -0.39,1.46 -0.39,2.86 0,1.43 0.13,2.41 0.4,2.92 0.26,0.52 0.76,0.78 1.47,0.78 z m -179.67,0 c 0.71,0 1.19,-0.25 1.45,-0.76 0.26,-0.5 0.39,-1.46 0.39,-2.86 0,-1.43 -0.13,-2.4 -0.4,-2.92 -0.27,-0.52 -0.76,-0.78 -1.47,-0.78 -0.71,0 -1.19,0.26 -1.45,0.76 -0.26,0.51 -0.39,1.46 -0.39,2.86 0,1.43 0.13,2.41 0.4,2.92 0.27,0.52 0.76,0.78 1.47,0.78 z m -66.255,0 c 0.703,0 1.184,-0.25 1.445,-0.76 0.26,-0.5 0.391,-1.46 0.391,-2.86 0,-1.43 -0.134,-2.4 -0.4,-2.92 -0.267,-0.52 -0.757,-0.78 -1.472,-0.78 -0.703,0 -1.185,0.26 -1.445,0.76 -0.261,0.51 -0.391,1.46 -0.391,2.86 0,1.43 0.133,2.41 0.4,2.92 0.266,0.52 0.757,0.78 1.472,0.78 z m -28.166,0 c 0.703,0 1.184,-0.25 1.445,-0.76 0.26,-0.5 0.391,-1.46 0.391,-2.86 0,-1.43 -0.134,-2.4 -0.4,-2.92 -0.267,-0.52 -0.758,-0.78 -1.472,-0.78 -0.703,0 -1.185,0.26 -1.445,0.76 -0.261,0.51 -0.391,1.46 -0.391,2.86 0,1.43 0.133,2.41 0.4,2.92 0.266,0.52 0.757,0.78 1.472,0.78 z m 156.27,2.29 c 0.31,0 0.56,-0.03 0.75,-0.09 0.19,-0.06 0.34,-0.14 0.45,-0.22 0.11,-0.09 0.19,-0.21 0.25,-0.37 0.05,-0.16 0.08,-0.33 0.08,-0.5 v -49.22 c 0,-0.19 -0.02,-0.37 -0.06,-0.51 -0.05,-0.15 -0.12,-0.27 -0.22,-0.36 -0.1,-0.08 -0.24,-0.15 -0.41,-0.2 -0.17,-0.05 -0.38,-0.07 -0.62,-0.07 -0.25,0 -0.46,0.02 -0.63,0.07 -0.17,0.05 -0.31,0.12 -0.42,0.2 -0.11,0.09 -0.19,0.21 -0.24,0.36 -0.05,0.14 -0.07,0.32 -0.07,0.51 v 4.4 c -0.86,-1.9 -1.75,-3.38 -2.68,-4.43 -0.93,-1.06 -1.94,-1.59 -3.05,-1.59 -1.2,0 -2.22,0.47 -3.07,1.42 -0.85,0.95 -1.53,2.23 -2.06,3.84 -0.53,1.62 -0.91,3.51 -1.16,5.69 -0.24,2.18 -0.36,4.48 -0.36,6.89 0,2.86 0.15,5.44 0.46,7.74 0.3,2.31 0.75,4.27 1.34,5.9 0.59,1.62 1.33,2.87 2.21,3.75 0.88,0.87 1.89,1.31 3.04,1.31 0.96,0 1.84,-0.43 2.63,-1.28 0.79,-0.85 1.58,-2.1 2.35,-3.75 v 19.33 c 0,0.17 0.02,0.34 0.07,0.5 0.04,0.16 0.12,0.28 0.24,0.37 0.12,0.08 0.28,0.16 0.47,0.22 0.18,0.06 0.42,0.09 0.71,0.09 z m 27.1,0.15 c 0.3,0 0.55,-0.03 0.75,-0.08 0.19,-0.05 0.34,-0.12 0.45,-0.22 0.11,-0.1 0.19,-0.22 0.24,-0.37 0.04,-0.15 0.07,-0.32 0.07,-0.51 v -49.37 c 0,-0.19 -0.03,-0.36 -0.07,-0.5 -0.05,-0.13 -0.13,-0.25 -0.24,-0.35 -0.11,-0.1 -0.26,-0.17 -0.45,-0.22 -0.2,-0.05 -0.45,-0.07 -0.75,-0.07 -0.29,0 -0.53,0.02 -0.73,0.07 -0.19,0.05 -0.35,0.12 -0.46,0.22 -0.12,0.1 -0.19,0.22 -0.24,0.35 -0.04,0.14 -0.06,0.31 -0.06,0.5 v 49.37 c 0,0.19 0.02,0.36 0.06,0.51 0.05,0.15 0.12,0.27 0.24,0.37 0.11,0.1 0.27,0.17 0.46,0.22 0.2,0.05 0.44,0.08 0.73,0.08 z m 72.18,0.33 c 0.34,0 0.62,-0.04 0.83,-0.13 0.21,-0.09 0.36,-0.21 0.45,-0.37 0.08,-0.16 0.12,-0.34 0.11,-0.55 -0.02,-0.21 -0.07,-0.43 -0.17,-0.65 -1.09,-2.87 -2.19,-5.74 -3.29,-8.61 -0.09,-0.24 -0.18,-0.44 -0.26,-0.59 -0.08,-0.15 -0.17,-0.26 -0.27,-0.35 -0.11,-0.09 -0.24,-0.15 -0.4,-0.19 -0.17,-0.03 -0.37,-0.05 -0.61,-0.05 -0.27,0 -0.48,0.04 -0.64,0.11 -0.16,0.07 -0.27,0.17 -0.34,0.3 -0.06,0.12 -0.09,0.28 -0.07,0.48 0.02,0.19 0.07,0.43 0.16,0.7 0.88,2.84 1.75,5.69 2.63,8.53 0.07,0.27 0.16,0.5 0.26,0.67 0.09,0.17 0.21,0.31 0.35,0.4 0.14,0.1 0.31,0.18 0.52,0.23 0.21,0.05 0.45,0.07 0.74,0.07 z"
+       fill="#ffff00"
+       fill-rule="evenodd"
+       id="path108" />
+    <path
+       d="m 299.05,500.79 c -0.39,0 -0.77,-0.12 -1.15,-0.35 -0.38,-0.23 -0.76,-0.6 -1.15,-1.11 -0.4,-0.5 -0.8,-1.17 -1.23,-1.99 -0.43,-0.83 -0.88,-1.84 -1.35,-3.05 v -13.23 c 0.83,-2.04 1.61,-3.61 2.36,-4.69 0.74,-1.08 1.52,-1.63 2.34,-1.63 0.75,0 1.4,0.37 1.94,1.11 0.55,0.74 0.99,1.73 1.32,2.96 0.34,1.23 0.58,2.61 0.74,4.14 0.16,1.52 0.24,3.06 0.24,4.61 0,1.7 -0.06,3.35 -0.19,4.94 -0.13,1.59 -0.35,3 -0.66,4.23 -0.31,1.23 -0.73,2.21 -1.25,2.95 -0.53,0.74 -1.18,1.11 -1.96,1.11 z m -89.21,0 c -0.77,0 -1.41,-0.37 -1.95,-1.11 -0.53,-0.74 -0.96,-1.71 -1.3,-2.92 -0.33,-1.2 -0.57,-2.57 -0.72,-4.1 -0.15,-1.52 -0.23,-3.08 -0.23,-4.65 0,-1.68 0.06,-3.32 0.19,-4.92 0.13,-1.6 0.35,-3.02 0.66,-4.26 0.32,-1.25 0.74,-2.25 1.26,-3 0.52,-0.75 1.17,-1.12 1.96,-1.12 0.4,0 0.79,0.11 1.16,0.33 0.36,0.22 0.74,0.59 1.13,1.11 0.39,0.51 0.79,1.19 1.22,2.01 0.42,0.83 0.87,1.84 1.34,3.05 v 13.3 c -0.81,2.05 -1.59,3.6 -2.35,4.67 -0.76,1.08 -1.55,1.61 -2.37,1.61 z m -41.5,0.15 c -0.9,0 -1.66,-0.32 -2.31,-0.96 -0.64,-0.64 -1.17,-1.55 -1.58,-2.72 -0.42,-1.17 -0.73,-2.55 -0.93,-4.15 -0.2,-1.6 -0.3,-3.35 -0.3,-5.25 0,-1.82 0.08,-3.53 0.25,-5.14 0.16,-1.6 0.44,-2.99 0.82,-4.19 0.39,-1.19 0.9,-2.14 1.55,-2.84 0.65,-0.71 1.46,-1.06 2.42,-1.06 0.88,0 1.65,0.32 2.3,0.96 0.64,0.64 1.18,1.54 1.59,2.7 0.42,1.16 0.72,2.54 0.92,4.14 0.19,1.6 0.29,3.36 0.29,5.28 0,1.8 -0.08,3.5 -0.25,5.1 -0.16,1.6 -0.43,3.01 -0.81,4.21 -0.38,1.21 -0.9,2.16 -1.54,2.87 -0.65,0.7 -1.46,1.05 -2.42,1.05 z m 61.44,0.33 c -0.74,0 -1.4,-0.28 -1.96,-0.85 -0.56,-0.56 -1.03,-1.32 -1.41,-2.25 -0.37,-0.94 -0.67,-2.03 -0.87,-3.27 -0.21,-1.25 -0.33,-2.54 -0.35,-3.9 h 8.92 c 0.04,3.2 -0.31,5.72 -1.05,7.54 -0.74,1.82 -1.83,2.73 -3.28,2.73 z m -101.99,0 c -0.75,0 -1.4,-0.28 -1.96,-0.85 -0.56,-0.56 -1.03,-1.32 -1.41,-2.25 -0.38,-0.94 -0.67,-2.03 -0.88,-3.27 -0.2,-1.25 -0.32,-2.54 -0.34,-3.9 h 8.92 c 0.04,3.2 -0.31,5.72 -1.05,7.54 -0.74,1.82 -1.83,2.73 -3.28,2.73 z m 226.96,4.25 c 0.29,0 0.53,-0.02 0.73,-0.05 0.19,-0.04 0.34,-0.12 0.46,-0.23 0.11,-0.11 0.2,-0.23 0.25,-0.37 0.04,-0.13 0.07,-0.3 0.07,-0.49 v -19.36 c 0,-1.95 0.07,-3.51 0.21,-4.68 0.14,-1.17 0.35,-2.17 0.63,-2.99 0.29,-0.83 0.65,-1.47 1.08,-1.92 0.44,-0.46 0.95,-0.69 1.53,-0.69 0.75,0 1.5,0.55 2.25,1.63 0.74,1.08 1.53,2.67 2.37,4.77 v 23.24 c 0,0.19 0.02,0.36 0.06,0.49 0.04,0.14 0.13,0.26 0.25,0.37 0.12,0.11 0.27,0.19 0.46,0.23 0.19,0.03 0.43,0.05 0.74,0.05 0.29,0 0.53,-0.02 0.72,-0.05 0.2,-0.04 0.35,-0.12 0.46,-0.23 0.11,-0.11 0.19,-0.23 0.24,-0.37 0.06,-0.13 0.08,-0.3 0.08,-0.49 v -33.26 c 0,-0.19 -0.02,-0.36 -0.06,-0.5 -0.04,-0.13 -0.12,-0.25 -0.23,-0.35 -0.1,-0.1 -0.25,-0.17 -0.42,-0.22 -0.18,-0.05 -0.39,-0.07 -0.65,-0.07 -0.28,0 -0.5,0.02 -0.68,0.07 -0.18,0.05 -0.31,0.12 -0.42,0.22 -0.1,0.1 -0.17,0.22 -0.21,0.35 -0.03,0.14 -0.05,0.31 -0.05,0.5 v 4.4 c -0.93,-2.09 -1.86,-3.62 -2.76,-4.58 -0.91,-0.96 -1.83,-1.44 -2.77,-1.44 -1.09,0 -2.01,0.37 -2.75,1.11 -0.75,0.73 -1.35,1.74 -1.81,3.01 -0.46,1.27 -0.79,2.74 -0.99,4.43 -0.2,1.69 -0.3,3.74 -0.3,6.15 v 20.18 c 0,0.19 0.02,0.36 0.06,0.49 0.05,0.14 0.13,0.26 0.25,0.37 0.12,0.11 0.28,0.19 0.47,0.23 0.2,0.03 0.44,0.05 0.73,0.05 z m -20.9,0 c 0.31,0 0.55,-0.02 0.75,-0.07 0.19,-0.05 0.34,-0.13 0.45,-0.22 0.11,-0.1 0.19,-0.23 0.24,-0.37 0.05,-0.15 0.07,-0.31 0.07,-0.48 v -33.26 c 0,-0.19 -0.02,-0.36 -0.07,-0.5 -0.05,-0.13 -0.13,-0.25 -0.24,-0.35 -0.11,-0.1 -0.26,-0.17 -0.45,-0.22 -0.2,-0.05 -0.44,-0.07 -0.75,-0.07 -0.29,0 -0.53,0.02 -0.72,0.07 -0.2,0.05 -0.35,0.12 -0.47,0.22 -0.11,0.1 -0.19,0.22 -0.23,0.35 -0.05,0.14 -0.07,0.31 -0.07,0.5 v 33.26 c 0,0.17 0.02,0.33 0.07,0.48 0.04,0.14 0.12,0.27 0.23,0.37 0.12,0.09 0.27,0.17 0.47,0.22 0.19,0.05 0.43,0.07 0.72,0.07 z m -21.59,0 c 0.31,0 0.55,-0.02 0.75,-0.05 0.19,-0.04 0.34,-0.12 0.45,-0.23 0.11,-0.11 0.19,-0.23 0.24,-0.37 0.05,-0.13 0.07,-0.3 0.07,-0.49 v -33.26 c 0,-0.19 -0.02,-0.36 -0.07,-0.5 -0.05,-0.13 -0.13,-0.25 -0.24,-0.35 -0.11,-0.1 -0.26,-0.17 -0.45,-0.22 -0.2,-0.05 -0.44,-0.07 -0.75,-0.07 -0.29,0 -0.53,0.02 -0.72,0.07 -0.2,0.05 -0.35,0.12 -0.47,0.22 -0.11,0.1 -0.19,0.22 -0.23,0.35 -0.05,0.14 -0.07,0.31 -0.07,0.5 v 33.26 c 0,0.19 0.02,0.36 0.07,0.49 0.04,0.14 0.12,0.26 0.23,0.37 0.12,0.11 0.27,0.19 0.47,0.23 0.19,0.03 0.43,0.05 0.72,0.05 z m -158.07,0 c 0.3,0 0.55,-0.02 0.74,-0.07 0.19,-0.05 0.35,-0.13 0.45,-0.22 0.11,-0.1 0.19,-0.23 0.24,-0.37 0.05,-0.15 0.07,-0.31 0.07,-0.48 v -33.26 c 0,-0.19 -0.02,-0.36 -0.07,-0.5 -0.05,-0.13 -0.13,-0.25 -0.24,-0.35 -0.1,-0.1 -0.26,-0.17 -0.45,-0.22 -0.19,-0.05 -0.44,-0.07 -0.74,-0.07 -0.3,0 -0.54,0.02 -0.73,0.07 -0.2,0.05 -0.35,0.12 -0.47,0.22 -0.11,0.1 -0.19,0.22 -0.23,0.35 -0.04,0.14 -0.07,0.31 -0.07,0.5 v 33.26 c 0,0.17 0.03,0.33 0.07,0.48 0.04,0.14 0.12,0.27 0.23,0.37 0.12,0.09 0.27,0.17 0.47,0.22 0.19,0.05 0.43,0.07 0.73,0.07 z m -66.263,0 c 0.303,0 0.551,-0.02 0.745,-0.07 0.194,-0.05 0.345,-0.13 0.454,-0.22 0.109,-0.1 0.188,-0.23 0.237,-0.37 0.048,-0.15 0.072,-0.31 0.072,-0.48 v -33.26 c 0,-0.19 -0.024,-0.36 -0.072,-0.5 -0.049,-0.13 -0.128,-0.25 -0.237,-0.35 -0.109,-0.1 -0.26,-0.17 -0.454,-0.22 -0.194,-0.05 -0.442,-0.07 -0.745,-0.07 -0.291,0 -0.533,0.02 -0.727,0.07 -0.194,0.05 -0.349,0.12 -0.464,0.22 -0.115,0.1 -0.194,0.22 -0.236,0.35 -0.042,0.14 -0.064,0.31 -0.064,0.5 v 33.26 c 0,0.17 0.022,0.33 0.064,0.48 0.042,0.14 0.121,0.27 0.236,0.37 0.115,0.09 0.27,0.17 0.464,0.22 0.194,0.05 0.436,0.07 0.727,0.07 z m -28.166,0 c 0.303,0 0.551,-0.02 0.745,-0.07 0.194,-0.05 0.345,-0.13 0.454,-0.22 0.109,-0.1 0.188,-0.23 0.237,-0.37 0.048,-0.15 0.072,-0.31 0.072,-0.48 v -33.26 c 0,-0.19 -0.024,-0.36 -0.072,-0.5 -0.049,-0.13 -0.128,-0.25 -0.237,-0.35 -0.109,-0.1 -0.26,-0.17 -0.454,-0.22 -0.194,-0.05 -0.442,-0.07 -0.745,-0.07 -0.291,0 -0.533,0.02 -0.727,0.07 -0.194,0.05 -0.349,0.12 -0.464,0.22 -0.115,0.1 -0.194,0.22 -0.236,0.35 -0.042,0.14 -0.064,0.31 -0.064,0.5 v 33.26 c 0,0.17 0.022,0.33 0.064,0.48 0.042,0.14 0.121,0.27 0.236,0.37 0.115,0.09 0.27,0.17 0.464,0.22 0.194,0.05 0.436,0.07 0.727,0.07 z m 266.75,0.52 c 0.16,0 0.34,-0.02 0.54,-0.06 0.2,-0.03 0.41,-0.1 0.63,-0.2 0.21,-0.1 0.41,-0.21 0.59,-0.33 0.17,-0.13 0.3,-0.25 0.37,-0.37 0.07,-0.13 0.12,-0.24 0.14,-0.35 0.03,-0.11 0.05,-0.26 0.07,-0.43 0.02,-0.17 0.03,-0.42 0.03,-0.76 0.01,-0.33 0.01,-0.78 0.01,-1.34 0,-0.55 0,-1 -0.01,-1.37 -0.02,-0.37 -0.04,-0.66 -0.08,-0.87 -0.03,-0.21 -0.08,-0.37 -0.13,-0.48 -0.06,-0.11 -0.13,-0.17 -0.23,-0.17 -0.1,0 -0.22,0.06 -0.35,0.17 -0.14,0.11 -0.3,0.22 -0.48,0.33 -0.17,0.11 -0.37,0.22 -0.59,0.32 -0.22,0.1 -0.45,0.14 -0.71,0.14 -0.3,0 -0.6,-0.12 -0.89,-0.36 -0.29,-0.25 -0.59,-0.66 -0.92,-1.22 -0.32,-0.57 -0.65,-1.32 -1,-2.26 -0.36,-0.93 -0.74,-2.08 -1.17,-3.43 v -21.88 c 0,-0.19 -0.02,-0.36 -0.07,-0.5 -0.05,-0.13 -0.13,-0.25 -0.24,-0.35 -0.11,-0.1 -0.26,-0.17 -0.45,-0.22 -0.19,-0.05 -0.44,-0.07 -0.75,-0.07 -0.29,0 -0.53,0.02 -0.72,0.07 -0.2,0.05 -0.35,0.12 -0.47,0.22 -0.11,0.1 -0.19,0.22 -0.23,0.35 -0.05,0.14 -0.07,0.31 -0.07,0.5 v 33.26 c 0,0.19 0.02,0.36 0.06,0.49 0.03,0.14 0.11,0.26 0.22,0.37 0.11,0.11 0.24,0.19 0.41,0.23 0.17,0.03 0.4,0.05 0.68,0.05 0.26,0 0.48,-0.02 0.66,-0.05 0.18,-0.04 0.31,-0.12 0.41,-0.23 0.1,-0.11 0.17,-0.23 0.21,-0.37 0.04,-0.13 0.06,-0.3 0.06,-0.49 v -4.84 c 0.45,1.33 0.87,2.41 1.26,3.25 0.4,0.83 0.77,1.49 1.12,1.97 0.35,0.48 0.7,0.82 1.05,1 0.34,0.19 0.69,0.28 1.04,0.28 z m -26.89,0 c 1.19,0 2.2,-0.47 3.03,-1.41 0.84,-0.93 1.52,-2.21 2.05,-3.84 0.53,-1.62 0.91,-3.51 1.15,-5.67 0.25,-2.15 0.37,-4.44 0.37,-6.85 0,-2.91 -0.16,-5.52 -0.47,-7.84 -0.31,-2.31 -0.76,-4.28 -1.36,-5.89 -0.6,-1.61 -1.34,-2.86 -2.23,-3.73 -0.88,-0.88 -1.89,-1.31 -3.03,-1.31 -0.49,0 -0.93,0.1 -1.35,0.29 -0.41,0.2 -0.81,0.51 -1.21,0.93 -0.39,0.42 -0.78,0.94 -1.17,1.59 -0.39,0.64 -0.8,1.39 -1.23,2.25 v -16.63 c 0,-0.19 -0.03,-0.37 -0.08,-0.51 -0.04,-0.15 -0.12,-0.28 -0.23,-0.37 -0.11,-0.1 -0.26,-0.18 -0.46,-0.23 -0.19,-0.05 -0.44,-0.07 -0.74,-0.07 -0.29,0 -0.54,0.02 -0.73,0.07 -0.19,0.05 -0.35,0.13 -0.46,0.23 -0.12,0.09 -0.2,0.22 -0.24,0.37 -0.04,0.14 -0.06,0.32 -0.06,0.51 v 46.45 c 0,0.22 0.02,0.4 0.05,0.53 0.04,0.14 0.11,0.25 0.22,0.35 0.11,0.1 0.25,0.17 0.42,0.21 0.17,0.03 0.37,0.05 0.62,0.05 0.25,0 0.46,-0.02 0.62,-0.05 0.17,-0.04 0.3,-0.11 0.41,-0.21 0.11,-0.1 0.19,-0.21 0.23,-0.35 0.04,-0.13 0.06,-0.31 0.06,-0.53 v -4.47 c 0.5,1.03 0.98,1.93 1.44,2.69 0.46,0.77 0.92,1.4 1.39,1.91 0.47,0.5 0.94,0.88 1.44,1.14 0.49,0.26 1,0.39 1.55,0.39 z m -17.92,0 c 0.44,0 0.88,-0.08 1.31,-0.22 0.44,-0.15 0.83,-0.34 1.18,-0.56 0.35,-0.22 0.65,-0.46 0.9,-0.72 0.25,-0.26 0.44,-0.48 0.57,-0.68 0.12,-0.2 0.21,-0.37 0.25,-0.52 0.04,-0.15 0.07,-0.31 0.09,-0.5 0.02,-0.18 0.04,-0.41 0.06,-0.68 0.01,-0.27 0.02,-0.6 0.02,-1 0,-0.42 -0.01,-0.78 -0.02,-1.09 -0.02,-0.31 -0.05,-0.56 -0.09,-0.76 -0.05,-0.19 -0.1,-0.33 -0.16,-0.42 -0.06,-0.09 -0.13,-0.13 -0.2,-0.13 -0.11,0 -0.27,0.14 -0.47,0.41 -0.21,0.27 -0.47,0.56 -0.8,0.86 -0.33,0.31 -0.71,0.6 -1.16,0.87 -0.44,0.27 -0.94,0.41 -1.51,0.41 -0.51,0 -0.96,-0.12 -1.35,-0.35 -0.39,-0.24 -0.7,-0.57 -0.95,-1 -0.25,-0.43 -0.44,-0.94 -0.57,-1.53 -0.12,-0.59 -0.19,-1.23 -0.19,-1.92 0,-0.96 0.12,-1.77 0.37,-2.42 0.24,-0.66 0.55,-1.23 0.94,-1.72 0.39,-0.49 0.83,-0.94 1.33,-1.33 0.5,-0.4 1,-0.8 1.52,-1.22 0.51,-0.42 1.02,-0.89 1.52,-1.41 0.51,-0.51 0.95,-1.14 1.34,-1.88 0.39,-0.74 0.7,-1.63 0.94,-2.66 0.23,-1.03 0.35,-2.27 0.35,-3.7 0,-1.69 -0.15,-3.21 -0.46,-4.54 -0.31,-1.33 -0.75,-2.45 -1.32,-3.36 -0.57,-0.91 -1.25,-1.6 -2.04,-2.07 -0.78,-0.47 -1.65,-0.7 -2.6,-0.7 -0.58,0 -1.13,0.09 -1.66,0.27 -0.53,0.19 -1,0.42 -1.42,0.71 -0.42,0.28 -0.77,0.57 -1.06,0.88 -0.29,0.31 -0.5,0.59 -0.64,0.83 -0.13,0.25 -0.23,0.6 -0.29,1.04 -0.06,0.44 -0.09,1.05 -0.09,1.81 0,0.47 0.01,0.86 0.04,1.18 0.02,0.32 0.05,0.58 0.09,0.78 0.04,0.19 0.09,0.34 0.15,0.42 0.07,0.09 0.15,0.13 0.23,0.13 0.13,0 0.33,-0.16 0.59,-0.5 0.26,-0.33 0.58,-0.69 0.96,-1.09 0.39,-0.39 0.84,-0.75 1.36,-1.09 0.52,-0.33 1.12,-0.5 1.8,-0.5 0.51,0 0.97,0.11 1.38,0.34 0.41,0.22 0.77,0.54 1.07,0.98 0.3,0.43 0.54,0.97 0.7,1.64 0.17,0.67 0.25,1.45 0.25,2.36 0,0.94 -0.12,1.73 -0.36,2.37 -0.23,0.64 -0.55,1.21 -0.93,1.7 -0.39,0.49 -0.83,0.93 -1.31,1.31 -0.49,0.38 -0.99,0.78 -1.5,1.2 -0.52,0.42 -1.02,0.89 -1.51,1.42 -0.49,0.53 -0.93,1.18 -1.32,1.94 -0.39,0.77 -0.7,1.68 -0.93,2.74 -0.24,1.06 -0.36,2.33 -0.36,3.8 0,1.31 0.13,2.56 0.37,3.75 0.25,1.2 0.63,2.25 1.12,3.14 0.5,0.9 1.12,1.62 1.86,2.17 0.75,0.54 1.62,0.81 2.61,0.81 z m -51.77,0 c 1.29,0 2.38,-0.42 3.28,-1.26 0.91,-0.84 1.65,-1.96 2.23,-3.38 0.58,-1.41 1.01,-3.08 1.28,-4.99 0.27,-1.91 0.41,-3.94 0.41,-6.11 v -1.11 c 0,-0.96 -0.12,-1.64 -0.36,-2.05 -0.23,-0.41 -0.5,-0.61 -0.81,-0.61 h -10.77 c 0,-1.85 0.09,-3.51 0.27,-4.99 0.19,-1.48 0.49,-2.74 0.92,-3.8 0.42,-1.06 0.98,-1.88 1.66,-2.44 0.68,-0.57 1.51,-0.85 2.5,-0.85 0.78,0 1.47,0.13 2.08,0.39 0.61,0.25 1.14,0.54 1.58,0.86 0.45,0.32 0.81,0.61 1.1,0.87 0.28,0.26 0.5,0.39 0.65,0.39 0.08,0 0.16,-0.04 0.23,-0.13 0.06,-0.08 0.11,-0.21 0.15,-0.39 0.04,-0.17 0.06,-0.41 0.08,-0.72 0.02,-0.31 0.03,-0.68 0.03,-1.12 0,-0.32 -0.01,-0.6 -0.02,-0.84 -0.01,-0.23 -0.03,-0.44 -0.04,-0.62 -0.02,-0.19 -0.05,-0.35 -0.09,-0.5 -0.05,-0.15 -0.1,-0.29 -0.17,-0.43 -0.06,-0.13 -0.26,-0.35 -0.59,-0.66 -0.33,-0.31 -0.75,-0.61 -1.27,-0.91 -0.52,-0.29 -1.12,-0.56 -1.81,-0.79 -0.68,-0.24 -1.41,-0.35 -2.19,-0.35 -1.34,0 -2.52,0.38 -3.53,1.14 -1.02,0.77 -1.87,1.9 -2.56,3.4 -0.69,1.5 -1.21,3.39 -1.56,5.65 -0.35,2.27 -0.53,4.91 -0.53,7.91 0,2.86 0.18,5.43 0.55,7.71 0.36,2.27 0.88,4.21 1.57,5.8 0.68,1.58 1.51,2.8 2.48,3.65 0.97,0.85 2.05,1.28 3.25,1.28 z m -44.02,0 c 0.44,0 0.88,-0.08 1.31,-0.22 0.44,-0.15 0.83,-0.34 1.18,-0.56 0.36,-0.22 0.66,-0.46 0.9,-0.72 0.25,-0.26 0.44,-0.48 0.57,-0.68 0.12,-0.2 0.21,-0.37 0.25,-0.52 0.04,-0.15 0.07,-0.31 0.09,-0.5 0.02,-0.18 0.04,-0.41 0.06,-0.68 0.02,-0.27 0.02,-0.6 0.02,-1 0,-0.42 0,-0.78 -0.02,-1.09 -0.02,-0.31 -0.05,-0.56 -0.09,-0.76 -0.05,-0.19 -0.1,-0.33 -0.16,-0.42 -0.06,-0.09 -0.13,-0.13 -0.2,-0.13 -0.11,0 -0.27,0.14 -0.47,0.41 -0.21,0.27 -0.47,0.56 -0.8,0.86 -0.33,0.31 -0.71,0.6 -1.15,0.87 -0.45,0.27 -0.95,0.41 -1.52,0.41 -0.51,0 -0.96,-0.12 -1.35,-0.35 -0.39,-0.24 -0.7,-0.57 -0.95,-1 -0.25,-0.43 -0.44,-0.94 -0.57,-1.53 -0.12,-0.59 -0.19,-1.23 -0.19,-1.92 0,-0.96 0.13,-1.77 0.37,-2.42 0.24,-0.66 0.55,-1.23 0.94,-1.72 0.39,-0.49 0.83,-0.94 1.33,-1.33 0.5,-0.4 1,-0.8 1.52,-1.22 0.51,-0.42 1.02,-0.89 1.52,-1.41 0.51,-0.51 0.95,-1.14 1.34,-1.88 0.39,-0.74 0.7,-1.63 0.94,-2.66 0.23,-1.03 0.35,-2.27 0.35,-3.7 0,-1.69 -0.15,-3.21 -0.46,-4.54 -0.31,-1.33 -0.75,-2.45 -1.32,-3.36 -0.57,-0.91 -1.25,-1.6 -2.04,-2.07 -0.78,-0.47 -1.65,-0.7 -2.6,-0.7 -0.58,0 -1.13,0.09 -1.66,0.27 -0.53,0.19 -1,0.42 -1.42,0.71 -0.41,0.28 -0.77,0.57 -1.06,0.88 -0.29,0.31 -0.5,0.59 -0.64,0.83 -0.13,0.25 -0.23,0.6 -0.29,1.04 -0.06,0.44 -0.09,1.05 -0.09,1.81 0,0.47 0.01,0.86 0.04,1.18 0.02,0.32 0.05,0.58 0.09,0.78 0.04,0.19 0.09,0.34 0.15,0.42 0.07,0.09 0.15,0.13 0.23,0.13 0.13,0 0.33,-0.16 0.59,-0.5 0.26,-0.33 0.58,-0.69 0.97,-1.09 0.38,-0.39 0.83,-0.75 1.35,-1.09 0.52,-0.33 1.12,-0.5 1.8,-0.5 0.51,0 0.97,0.11 1.38,0.34 0.41,0.22 0.77,0.54 1.07,0.98 0.31,0.43 0.54,0.97 0.7,1.64 0.17,0.67 0.25,1.45 0.25,2.36 0,0.94 -0.12,1.73 -0.36,2.37 -0.23,0.64 -0.55,1.21 -0.93,1.7 -0.39,0.49 -0.83,0.93 -1.31,1.31 -0.49,0.38 -0.99,0.78 -1.5,1.2 -0.52,0.42 -1.02,0.89 -1.51,1.42 -0.49,0.53 -0.93,1.18 -1.32,1.94 -0.39,0.77 -0.7,1.68 -0.93,2.74 -0.24,1.06 -0.36,2.33 -0.36,3.8 0,1.31 0.13,2.56 0.37,3.75 0.25,1.2 0.63,2.25 1.12,3.14 0.5,0.9 1.12,1.62 1.87,2.17 0.74,0.54 1.61,0.81 2.6,0.81 z m -17.46,0 c 1.35,0 2.52,-0.41 3.52,-1.22 1,-0.81 1.83,-2 2.5,-3.55 0.67,-1.55 1.17,-3.43 1.5,-5.65 0.33,-2.22 0.5,-4.72 0.5,-7.5 0,-2.71 -0.18,-5.2 -0.53,-7.48 -0.35,-2.28 -0.87,-4.25 -1.57,-5.9 -0.7,-1.65 -1.57,-2.93 -2.62,-3.86 -1.05,-0.92 -2.26,-1.38 -3.64,-1.38 -1.35,0 -2.52,0.4 -3.52,1.22 -1,0.81 -1.83,1.99 -2.5,3.54 -0.66,1.56 -1.16,3.44 -1.49,5.66 -0.33,2.21 -0.49,4.73 -0.49,7.53 0,2.71 0.17,5.21 0.52,7.49 0.34,2.27 0.87,4.24 1.56,5.89 0.7,1.65 1.57,2.93 2.61,3.84 1.04,0.91 2.26,1.37 3.65,1.37 z m -21.6,0 c 0.15,0 0.33,-0.02 0.53,-0.06 0.2,-0.03 0.41,-0.1 0.63,-0.2 0.22,-0.1 0.41,-0.21 0.59,-0.33 0.18,-0.13 0.3,-0.25 0.37,-0.37 0.08,-0.13 0.12,-0.24 0.15,-0.35 0.02,-0.11 0.04,-0.26 0.06,-0.43 0.02,-0.17 0.03,-0.42 0.04,-0.76 0,-0.33 0.01,-0.78 0.01,-1.34 0,-0.55 -0.01,-1 -0.02,-1.37 -0.01,-0.37 -0.04,-0.66 -0.07,-0.87 -0.04,-0.21 -0.09,-0.37 -0.14,-0.48 -0.05,-0.11 -0.13,-0.17 -0.23,-0.17 -0.09,0 -0.21,0.06 -0.35,0.17 -0.14,0.11 -0.3,0.22 -0.47,0.33 -0.18,0.11 -0.38,0.22 -0.6,0.32 -0.21,0.1 -0.45,0.14 -0.7,0.14 -0.31,0 -0.6,-0.12 -0.89,-0.36 -0.3,-0.25 -0.6,-0.66 -0.92,-1.22 -0.32,-0.57 -0.66,-1.32 -1.01,-2.26 -0.35,-0.93 -0.74,-2.08 -1.16,-3.43 v -21.88 c 0,-0.19 -0.03,-0.36 -0.08,-0.5 -0.05,-0.13 -0.12,-0.25 -0.23,-0.35 -0.11,-0.1 -0.26,-0.17 -0.46,-0.22 -0.19,-0.05 -0.44,-0.07 -0.74,-0.07 -0.29,0 -0.54,0.02 -0.73,0.07 -0.19,0.05 -0.35,0.12 -0.46,0.22 -0.12,0.1 -0.2,0.22 -0.24,0.35 -0.04,0.14 -0.06,0.31 -0.06,0.5 v 33.26 c 0,0.19 0.01,0.36 0.05,0.49 0.04,0.14 0.11,0.26 0.22,0.37 0.11,0.11 0.25,0.19 0.42,0.23 0.17,0.03 0.39,0.05 0.67,0.05 0.27,0 0.49,-0.02 0.66,-0.05 0.18,-0.04 0.32,-0.12 0.41,-0.23 0.1,-0.11 0.17,-0.23 0.21,-0.37 0.04,-0.13 0.06,-0.3 0.06,-0.49 v -4.84 c 0.45,1.33 0.87,2.41 1.27,3.25 0.39,0.83 0.76,1.49 1.12,1.97 0.35,0.48 0.7,0.82 1.04,1 0.35,0.19 0.69,0.28 1.05,0.28 z m -18.91,0 c 1.28,0 2.38,-0.42 3.28,-1.26 0.9,-0.84 1.65,-1.96 2.23,-3.38 0.58,-1.41 1.01,-3.08 1.28,-4.99 0.27,-1.91 0.41,-3.94 0.41,-6.11 v -1.11 c 0,-0.96 -0.12,-1.64 -0.36,-2.05 -0.24,-0.41 -0.51,-0.61 -0.81,-0.61 h -10.77 c 0,-1.85 0.09,-3.51 0.27,-4.99 0.18,-1.48 0.49,-2.74 0.91,-3.8 0.43,-1.06 0.98,-1.88 1.67,-2.44 0.68,-0.57 1.51,-0.85 2.5,-0.85 0.78,0 1.47,0.13 2.08,0.39 0.61,0.25 1.14,0.54 1.58,0.86 0.44,0.32 0.81,0.61 1.1,0.87 0.28,0.26 0.5,0.39 0.64,0.39 0.09,0 0.17,-0.04 0.23,-0.13 0.07,-0.08 0.12,-0.21 0.16,-0.39 0.03,-0.17 0.06,-0.41 0.08,-0.72 0.02,-0.31 0.03,-0.68 0.03,-1.12 0,-0.32 -0.01,-0.6 -0.02,-0.84 -0.01,-0.23 -0.03,-0.44 -0.05,-0.62 -0.01,-0.19 -0.05,-0.35 -0.09,-0.5 -0.04,-0.15 -0.09,-0.29 -0.16,-0.43 -0.07,-0.13 -0.26,-0.35 -0.59,-0.66 -0.33,-0.31 -0.75,-0.61 -1.27,-0.91 -0.53,-0.29 -1.13,-0.56 -1.81,-0.79 -0.69,-0.24 -1.42,-0.35 -2.19,-0.35 -1.35,0 -2.53,0.38 -3.54,1.14 -1.01,0.77 -1.86,1.9 -2.55,3.4 -0.69,1.5 -1.21,3.39 -1.56,5.65 -0.36,2.27 -0.53,4.91 -0.53,7.91 0,2.86 0.18,5.43 0.54,7.71 0.37,2.27 0.89,4.21 1.58,5.8 0.68,1.58 1.51,2.8 2.48,3.65 0.97,0.85 2.05,1.28 3.25,1.28 z m -27.89,0 c 0.44,0 0.87,-0.08 1.31,-0.22 0.44,-0.15 0.83,-0.34 1.18,-0.56 0.35,-0.22 0.65,-0.46 0.9,-0.72 0.25,-0.26 0.44,-0.48 0.56,-0.68 0.13,-0.2 0.22,-0.37 0.26,-0.52 0.04,-0.15 0.07,-0.31 0.09,-0.5 0.02,-0.18 0.04,-0.41 0.05,-0.68 0.02,-0.27 0.03,-0.6 0.03,-1 0,-0.42 -0.01,-0.78 -0.03,-1.09 -0.01,-0.31 -0.04,-0.56 -0.09,-0.76 -0.04,-0.19 -0.09,-0.33 -0.15,-0.42 -0.06,-0.09 -0.13,-0.13 -0.2,-0.13 -0.11,0 -0.27,0.14 -0.47,0.41 -0.21,0.27 -0.48,0.56 -0.8,0.86 -0.33,0.31 -0.72,0.6 -1.16,0.87 -0.44,0.27 -0.95,0.41 -1.52,0.41 -0.505,0 -0.953,-0.12 -1.341,-0.35 -0.387,-0.24 -0.705,-0.57 -0.954,-1 -0.248,-0.43 -0.436,-0.94 -0.563,-1.53 -0.128,-0.59 -0.191,-1.23 -0.191,-1.92 0,-0.96 0.121,-1.77 0.363,-2.42 0.243,-0.66 0.558,-1.23 0.946,-1.72 0.387,-0.49 0.83,-0.94 1.326,-1.33 0.494,-0.4 1.004,-0.8 1.514,-1.22 0.52,-0.42 1.03,-0.89 1.53,-1.41 0.5,-0.51 0.95,-1.14 1.34,-1.88 0.38,-0.74 0.7,-1.63 0.93,-2.66 0.24,-1.03 0.36,-2.27 0.36,-3.7 0,-1.69 -0.16,-3.21 -0.47,-4.54 -0.31,-1.33 -0.74,-2.45 -1.31,-3.36 -0.57,-0.91 -1.25,-1.6 -2.04,-2.07 -0.79,-0.47 -1.654,-0.7 -2.599,-0.7 -0.581,0 -1.136,0.09 -1.663,0.27 -0.527,0.19 -1,0.42 -1.418,0.71 -0.418,0.28 -0.772,0.57 -1.063,0.88 -0.291,0.31 -0.503,0.59 -0.636,0.83 -0.133,0.25 -0.23,0.6 -0.291,1.04 -0.06,0.44 -0.091,1.05 -0.091,1.81 0,0.47 0.012,0.86 0.037,1.18 0.024,0.32 0.054,0.58 0.09,0.78 0.037,0.19 0.088,0.34 0.155,0.42 0.067,0.09 0.142,0.13 0.227,0.13 0.133,0 0.33,-0.16 0.591,-0.5 0.26,-0.33 0.581,-0.69 0.963,-1.09 0.382,-0.39 0.833,-0.75 1.354,-1.09 0.521,-0.33 1.121,-0.5 1.8,-0.5 0.509,0 0.969,0.11 1.384,0.34 0.41,0.22 0.77,0.54 1.07,0.98 0.3,0.43 0.54,0.97 0.7,1.64 0.16,0.67 0.24,1.45 0.24,2.36 0,0.94 -0.11,1.73 -0.35,2.37 -0.24,0.64 -0.55,1.21 -0.94,1.7 -0.38,0.49 -0.82,0.93 -1.305,1.31 -0.484,0.38 -0.984,0.78 -1.499,1.2 -0.515,0.42 -1.018,0.89 -1.509,1.42 -0.49,0.53 -0.93,1.18 -1.317,1.94 -0.388,0.77 -0.7,1.68 -0.936,2.74 -0.237,1.06 -0.355,2.33 -0.355,3.8 0,1.31 0.124,2.56 0.373,3.75 0.248,1.2 0.621,2.25 1.118,3.14 0.496,0.9 1.117,1.62 1.863,2.17 0.745,0.54 1.614,0.81 2.607,0.81 z m -24.985,0 c 1.091,0 2.009,-0.38 2.754,-1.13 0.745,-0.75 1.348,-1.75 1.809,-3.01 0.46,-1.26 0.79,-2.73 0.99,-4.41 0.2,-1.69 0.3,-3.72 0.3,-6.08 v -20.29 c 0,-0.19 -0.024,-0.36 -0.073,-0.5 -0.048,-0.13 -0.127,-0.25 -0.236,-0.35 -0.109,-0.1 -0.26,-0.17 -0.454,-0.22 -0.194,-0.05 -0.437,-0.07 -0.727,-0.07 -0.303,0 -0.552,0.02 -0.746,0.07 -0.193,0.05 -0.345,0.12 -0.454,0.22 -0.109,0.1 -0.188,0.22 -0.236,0.35 -0.049,0.14 -0.073,0.31 -0.073,0.5 v 19.47 c 0,1.9 -0.073,3.43 -0.218,4.59 -0.145,1.15 -0.358,2.15 -0.636,2.99 -0.279,0.84 -0.639,1.48 -1.082,1.92 -0.442,0.44 -0.954,0.66 -1.536,0.66 -0.751,0 -1.502,-0.54 -2.253,-1.62 -0.752,-1.08 -1.539,-2.67 -2.363,-4.77 v -23.24 c 0,-0.19 -0.024,-0.36 -0.073,-0.5 -0.048,-0.13 -0.127,-0.25 -0.236,-0.35 -0.109,-0.1 -0.261,-0.17 -0.455,-0.22 -0.193,-0.05 -0.442,-0.07 -0.745,-0.07 -0.291,0 -0.533,0.02 -0.727,0.07 -0.194,0.05 -0.348,0.12 -0.463,0.22 -0.115,0.1 -0.194,0.22 -0.237,0.35 -0.042,0.14 -0.063,0.31 -0.063,0.5 v 33.26 c 0,0.19 0.018,0.36 0.054,0.49 0.037,0.14 0.109,0.26 0.218,0.37 0.11,0.11 0.249,0.19 0.419,0.23 0.169,0.03 0.393,0.05 0.672,0.05 0.267,0 0.488,-0.02 0.663,-0.05 0.176,-0.04 0.312,-0.12 0.409,-0.23 0.097,-0.11 0.167,-0.23 0.209,-0.37 0.043,-0.13 0.064,-0.3 0.064,-0.49 v -4.4 c 0.921,2.09 1.839,3.63 2.754,4.6 0.914,0.97 1.838,1.46 2.771,1.46 z m 268.06,8.39 c 0.31,0 0.55,-0.03 0.75,-0.08 0.19,-0.05 0.34,-0.13 0.45,-0.24 0.11,-0.11 0.19,-0.24 0.24,-0.39 0.05,-0.14 0.07,-0.3 0.07,-0.48 v -7.9 h 4.2 c 0.1,0 0.18,-0.05 0.25,-0.13 0.08,-0.09 0.14,-0.24 0.2,-0.45 0.05,-0.21 0.09,-0.47 0.11,-0.79 0.03,-0.32 0.04,-0.71 0.04,-1.18 0,-0.89 -0.05,-1.53 -0.16,-1.92 -0.11,-0.4 -0.26,-0.6 -0.44,-0.6 h -4.2 v -18.54 c 0,-2.29 0.17,-4.02 0.5,-5.19 0.33,-1.17 0.93,-1.76 1.79,-1.76 0.28,0 0.53,0.06 0.75,0.17 0.21,0.11 0.41,0.22 0.58,0.35 0.17,0.12 0.31,0.24 0.43,0.35 0.13,0.11 0.23,0.17 0.33,0.17 0.06,0 0.12,-0.04 0.17,-0.1 0.06,-0.06 0.1,-0.18 0.13,-0.35 0.03,-0.17 0.06,-0.4 0.08,-0.7 0.03,-0.3 0.04,-0.67 0.04,-1.11 0,-0.71 -0.02,-1.28 -0.07,-1.7 -0.05,-0.42 -0.12,-0.72 -0.22,-0.92 -0.1,-0.2 -0.24,-0.38 -0.44,-0.56 -0.19,-0.17 -0.41,-0.31 -0.66,-0.42 -0.25,-0.11 -0.51,-0.2 -0.79,-0.28 -0.28,-0.07 -0.56,-0.11 -0.84,-0.11 -0.85,0 -1.57,0.23 -2.18,0.68 -0.6,0.46 -1.1,1.15 -1.49,2.07 -0.39,0.93 -0.67,2.1 -0.84,3.51 -0.18,1.42 -0.27,3.09 -0.27,5.01 v 19.43 h -2.29 c -0.18,0 -0.32,0.2 -0.43,0.6 -0.11,0.39 -0.17,1.03 -0.17,1.92 0,0.47 0.02,0.86 0.05,1.18 0.03,0.32 0.07,0.58 0.12,0.79 0.04,0.21 0.11,0.36 0.19,0.45 0.08,0.08 0.16,0.13 0.26,0.13 h 2.27 v 7.9 c 0,0.18 0.02,0.34 0.07,0.48 0.04,0.15 0.12,0.28 0.23,0.39 0.12,0.11 0.27,0.19 0.47,0.24 0.19,0.05 0.43,0.08 0.72,0.08 z m -231.78,0 c 0.31,0 0.55,-0.03 0.75,-0.08 0.19,-0.05 0.34,-0.13 0.45,-0.24 0.11,-0.11 0.19,-0.24 0.24,-0.39 0.05,-0.14 0.07,-0.3 0.07,-0.48 v -7.9 h 4.2 c 0.1,0 0.18,-0.05 0.25,-0.13 0.08,-0.09 0.14,-0.24 0.19,-0.45 0.06,-0.21 0.1,-0.47 0.12,-0.79 0.03,-0.32 0.04,-0.71 0.04,-1.18 0,-0.89 -0.06,-1.53 -0.16,-1.92 -0.11,-0.4 -0.26,-0.6 -0.44,-0.6 h -4.2 v -18.54 c 0,-2.29 0.17,-4.02 0.5,-5.19 0.33,-1.17 0.93,-1.76 1.79,-1.76 0.28,0 0.53,0.06 0.75,0.17 0.21,0.11 0.41,0.22 0.58,0.35 0.17,0.12 0.31,0.24 0.43,0.35 0.13,0.11 0.23,0.17 0.33,0.17 0.06,0 0.12,-0.04 0.17,-0.1 0.06,-0.06 0.1,-0.18 0.13,-0.35 0.03,-0.17 0.06,-0.4 0.08,-0.7 0.03,-0.3 0.04,-0.67 0.04,-1.11 0,-0.71 -0.03,-1.28 -0.07,-1.7 -0.05,-0.42 -0.12,-0.72 -0.22,-0.92 -0.1,-0.2 -0.24,-0.38 -0.44,-0.56 -0.19,-0.17 -0.41,-0.31 -0.66,-0.42 -0.25,-0.11 -0.51,-0.2 -0.79,-0.28 -0.28,-0.07 -0.56,-0.11 -0.84,-0.11 -0.85,0 -1.57,0.23 -2.18,0.68 -0.6,0.46 -1.1,1.15 -1.49,2.07 -0.39,0.93 -0.67,2.1 -0.84,3.51 -0.18,1.42 -0.27,3.09 -0.27,5.01 v 19.43 h -2.29 c -0.18,0 -0.33,0.2 -0.43,0.6 -0.11,0.39 -0.17,1.03 -0.17,1.92 0,0.47 0.02,0.86 0.05,1.18 0.03,0.32 0.07,0.58 0.12,0.79 0.04,0.21 0.11,0.36 0.19,0.45 0.08,0.08 0.16,0.13 0.26,0.13 h 2.27 v 7.9 c 0,0.18 0.02,0.34 0.07,0.48 0.04,0.15 0.12,0.28 0.23,0.39 0.12,0.11 0.27,0.19 0.47,0.24 0.19,0.05 0.43,0.08 0.72,0.08 z m 148.7,3.58 h 11.16 c 0.1,0 0.19,-0.05 0.27,-0.15 0.08,-0.1 0.14,-0.26 0.19,-0.48 0.05,-0.22 0.09,-0.5 0.12,-0.83 0.03,-0.33 0.04,-0.74 0.04,-1.24 0,-0.44 -0.01,-0.83 -0.04,-1.16 -0.03,-0.33 -0.07,-0.6 -0.12,-0.81 -0.05,-0.21 -0.11,-0.37 -0.19,-0.47 -0.08,-0.09 -0.17,-0.14 -0.27,-0.14 h -9.19 v -15 h 7.88 c 0.1,0 0.19,-0.06 0.27,-0.17 0.08,-0.11 0.14,-0.27 0.2,-0.46 0.05,-0.2 0.09,-0.47 0.12,-0.82 0.02,-0.34 0.03,-0.75 0.03,-1.22 0,-0.44 -0.01,-0.82 -0.03,-1.14 -0.03,-0.32 -0.07,-0.58 -0.12,-0.78 -0.06,-0.19 -0.12,-0.34 -0.2,-0.42 -0.08,-0.09 -0.17,-0.13 -0.27,-0.13 h -7.88 v -17.11 h 9.32 c 0.1,0 0.19,-0.05 0.26,-0.15 0.08,-0.09 0.15,-0.25 0.21,-0.46 0.06,-0.21 0.11,-0.48 0.13,-0.81 0.02,-0.33 0.04,-0.74 0.04,-1.24 0,-0.44 -0.02,-0.83 -0.04,-1.16 -0.02,-0.33 -0.07,-0.61 -0.13,-0.83 -0.06,-0.22 -0.13,-0.38 -0.21,-0.48 -0.07,-0.1 -0.16,-0.15 -0.26,-0.15 h -11.29 c -0.28,0 -0.54,0.19 -0.79,0.57 -0.25,0.38 -0.37,1.05 -0.37,2.02 v 42.63 c 0,0.96 0.12,1.64 0.37,2.02 0.25,0.38 0.51,0.57 0.79,0.57 z m -232,0 h 1.919 c 0.394,0 0.738,-0.07 1.034,-0.22 0.295,-0.15 0.553,-0.38 0.775,-0.7 0.221,-0.32 0.406,-0.73 0.553,-1.22 0.148,-0.5 0.277,-1.07 0.388,-1.74 2.242,-11.54 4.483,-23.08 6.725,-34.62 h 0.091 c 2.332,11.5 4.665,23.01 6.998,34.51 0.135,0.74 0.283,1.37 0.443,1.88 0.16,0.52 0.335,0.93 0.526,1.24 0.191,0.31 0.403,0.53 0.637,0.67 0.234,0.13 0.505,0.2 0.813,0.2 h 2.012 c 0.185,0 0.361,-0.06 0.527,-0.17 0.166,-0.11 0.307,-0.28 0.424,-0.51 0.117,-0.24 0.213,-0.53 0.287,-0.89 0.074,-0.36 0.11,-0.8 0.11,-1.31 v -43.97 c 0,-0.2 -0.024,-0.37 -0.074,-0.52 -0.05,-0.15 -0.138,-0.26 -0.262,-0.35 -0.125,-0.08 -0.284,-0.16 -0.478,-0.22 -0.193,-0.06 -0.446,-0.09 -0.758,-0.09 -0.287,0 -0.533,0.03 -0.739,0.09 -0.206,0.06 -0.369,0.14 -0.487,0.22 -0.119,0.09 -0.203,0.2 -0.253,0.35 -0.05,0.15 -0.075,0.32 -0.075,0.52 v 41.64 h -0.036 c -2.763,-13.94 -5.526,-27.88 -8.288,-41.83 -0.037,-0.17 -0.088,-0.32 -0.155,-0.44 -0.066,-0.12 -0.163,-0.23 -0.291,-0.31 -0.127,-0.09 -0.278,-0.15 -0.454,-0.19 -0.176,-0.03 -0.385,-0.05 -0.627,-0.05 -0.254,0 -0.473,0.02 -0.654,0.07 -0.182,0.05 -0.334,0.12 -0.455,0.2 -0.121,0.09 -0.215,0.2 -0.281,0.32 -0.067,0.12 -0.113,0.26 -0.137,0.4 -2.641,13.95 -5.283,27.89 -7.924,41.83 h -0.019 v -41.64 c 0,-0.2 -0.024,-0.37 -0.074,-0.52 -0.05,-0.15 -0.138,-0.26 -0.262,-0.35 -0.125,-0.08 -0.288,-0.16 -0.487,-0.22 -0.2,-0.06 -0.456,-0.09 -0.768,-0.09 -0.299,0 -0.549,0.03 -0.749,0.09 -0.199,0.06 -0.358,0.14 -0.477,0.22 -0.119,0.09 -0.2,0.2 -0.243,0.35 -0.044,0.15 -0.066,0.32 -0.066,0.52 v 43.97 c 0,1.03 0.136,1.77 0.406,2.21 0.271,0.45 0.572,0.67 0.905,0.67 z m 305.83,1.22 c 0.7,0 1.19,-0.25 1.45,-0.76 0.26,-0.5 0.39,-1.46 0.39,-2.86 0,-1.43 -0.14,-2.4 -0.4,-2.92 -0.27,-0.52 -0.76,-0.78 -1.48,-0.78 -0.7,0 -1.18,0.26 -1.44,0.76 -0.26,0.51 -0.39,1.46 -0.39,2.86 0,1.43 0.13,2.41 0.4,2.92 0.26,0.52 0.76,0.78 1.47,0.78 z m -179.67,0 c 0.71,0 1.19,-0.25 1.45,-0.76 0.26,-0.5 0.39,-1.46 0.39,-2.86 0,-1.43 -0.13,-2.4 -0.4,-2.92 -0.27,-0.52 -0.76,-0.78 -1.47,-0.78 -0.71,0 -1.19,0.26 -1.45,0.76 -0.26,0.51 -0.39,1.46 -0.39,2.86 0,1.43 0.13,2.41 0.4,2.92 0.27,0.52 0.76,0.78 1.47,0.78 z m -66.255,0 c 0.703,0 1.184,-0.25 1.445,-0.76 0.26,-0.5 0.391,-1.46 0.391,-2.86 0,-1.43 -0.134,-2.4 -0.4,-2.92 -0.267,-0.52 -0.757,-0.78 -1.472,-0.78 -0.703,0 -1.185,0.26 -1.445,0.76 -0.261,0.51 -0.391,1.46 -0.391,2.86 0,1.43 0.133,2.41 0.4,2.92 0.266,0.52 0.757,0.78 1.472,0.78 z m -28.166,0 c 0.703,0 1.184,-0.25 1.445,-0.76 0.26,-0.5 0.391,-1.46 0.391,-2.86 0,-1.43 -0.134,-2.4 -0.4,-2.92 -0.267,-0.52 -0.758,-0.78 -1.472,-0.78 -0.703,0 -1.185,0.26 -1.445,0.76 -0.261,0.51 -0.391,1.46 -0.391,2.86 0,1.43 0.133,2.41 0.4,2.92 0.266,0.52 0.757,0.78 1.472,0.78 z m 156.27,2.29 c 0.31,0 0.56,-0.03 0.75,-0.09 0.19,-0.06 0.34,-0.14 0.45,-0.22 0.11,-0.09 0.19,-0.21 0.25,-0.37 0.05,-0.16 0.08,-0.33 0.08,-0.5 v -49.22 c 0,-0.19 -0.02,-0.37 -0.06,-0.51 -0.05,-0.15 -0.12,-0.27 -0.22,-0.36 -0.1,-0.08 -0.24,-0.15 -0.41,-0.2 -0.17,-0.05 -0.38,-0.07 -0.62,-0.07 -0.25,0 -0.46,0.02 -0.63,0.07 -0.17,0.05 -0.31,0.12 -0.42,0.2 -0.11,0.09 -0.19,0.21 -0.24,0.36 -0.05,0.14 -0.07,0.32 -0.07,0.51 v 4.4 c -0.86,-1.9 -1.75,-3.38 -2.68,-4.43 -0.93,-1.06 -1.94,-1.59 -3.05,-1.59 -1.2,0 -2.22,0.47 -3.07,1.42 -0.85,0.95 -1.53,2.23 -2.06,3.84 -0.53,1.62 -0.91,3.51 -1.16,5.69 -0.24,2.18 -0.36,4.48 -0.36,6.89 0,2.86 0.15,5.44 0.46,7.74 0.3,2.31 0.75,4.27 1.34,5.9 0.59,1.62 1.33,2.87 2.21,3.75 0.88,0.87 1.89,1.31 3.04,1.31 0.96,0 1.84,-0.43 2.63,-1.28 0.79,-0.85 1.58,-2.1 2.35,-3.75 v 19.33 c 0,0.17 0.02,0.34 0.07,0.5 0.04,0.16 0.12,0.28 0.24,0.37 0.12,0.08 0.28,0.16 0.47,0.22 0.18,0.06 0.42,0.09 0.71,0.09 z m 27.1,0.15 c 0.3,0 0.55,-0.03 0.75,-0.08 0.19,-0.05 0.34,-0.12 0.45,-0.22 0.11,-0.1 0.19,-0.22 0.24,-0.37 0.04,-0.15 0.07,-0.32 0.07,-0.51 v -49.37 c 0,-0.19 -0.03,-0.36 -0.07,-0.5 -0.05,-0.13 -0.13,-0.25 -0.24,-0.35 -0.11,-0.1 -0.26,-0.17 -0.45,-0.22 -0.2,-0.05 -0.45,-0.07 -0.75,-0.07 -0.29,0 -0.53,0.02 -0.73,0.07 -0.19,0.05 -0.35,0.12 -0.46,0.22 -0.12,0.1 -0.19,0.22 -0.24,0.35 -0.04,0.14 -0.06,0.31 -0.06,0.5 v 49.37 c 0,0.19 0.02,0.36 0.06,0.51 0.05,0.15 0.12,0.27 0.24,0.37 0.11,0.1 0.27,0.17 0.46,0.22 0.2,0.05 0.44,0.08 0.73,0.08 z m 72.18,0.33 c 0.34,0 0.62,-0.04 0.83,-0.13 0.21,-0.09 0.36,-0.21 0.45,-0.37 0.08,-0.16 0.12,-0.34 0.11,-0.55 -0.02,-0.21 -0.07,-0.43 -0.17,-0.65 -1.09,-2.87 -2.19,-5.74 -3.29,-8.61 -0.09,-0.24 -0.18,-0.44 -0.26,-0.59 -0.08,-0.15 -0.17,-0.26 -0.27,-0.35 -0.11,-0.09 -0.24,-0.15 -0.4,-0.19 -0.17,-0.03 -0.37,-0.05 -0.61,-0.05 -0.27,0 -0.48,0.04 -0.64,0.11 -0.16,0.07 -0.27,0.17 -0.34,0.3 -0.06,0.12 -0.09,0.28 -0.07,0.48 0.02,0.19 0.07,0.43 0.16,0.7 0.88,2.84 1.75,5.69 2.63,8.53 0.07,0.27 0.16,0.5 0.26,0.67 0.09,0.17 0.21,0.31 0.35,0.4 0.14,0.1 0.31,0.18 0.52,0.23 0.21,0.05 0.45,0.07 0.74,0.07 z"
+       fill="none"
+       stroke="#ffffff"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="0.96"
+       id="path110" />
+    <path
+       d="m 623.16,486.27 c -0.82,0 -1.54,-0.14 -2.15,-0.42 -0.6,-0.29 -1.1,-0.71 -1.5,-1.26 -0.4,-0.55 -0.7,-1.22 -0.89,-1.99 -0.18,-0.78 -0.28,-1.67 -0.28,-2.68 0,-1.73 0.27,-3.1 0.81,-4.12 0.54,-1.03 1.3,-1.54 2.26,-1.54 0.79,0 1.52,0.41 2.19,1.22 0.68,0.82 1.38,2.06 2.12,3.73 v 7.06 z m -42.81,0 c -0.82,0 -1.54,-0.14 -2.14,-0.42 -0.61,-0.29 -1.11,-0.71 -1.51,-1.26 -0.4,-0.55 -0.69,-1.22 -0.88,-1.99 -0.19,-0.78 -0.28,-1.67 -0.28,-2.68 0,-1.73 0.27,-3.1 0.8,-4.12 0.54,-1.03 1.3,-1.54 2.27,-1.54 0.78,0 1.51,0.41 2.19,1.22 0.67,0.82 1.38,2.06 2.11,3.73 v 7.06 z m -43.3,0 c -0.83,0 -1.54,-0.14 -2.15,-0.42 -0.6,-0.29 -1.11,-0.71 -1.5,-1.26 -0.4,-0.55 -0.7,-1.22 -0.89,-1.99 -0.18,-0.78 -0.28,-1.67 -0.28,-2.68 0,-1.73 0.27,-3.1 0.81,-4.12 0.54,-1.03 1.29,-1.54 2.26,-1.54 0.79,0 1.52,0.41 2.19,1.22 0.68,0.82 1.38,2.06 2.12,3.73 v 7.06 z m -132.02,0 c -0.83,0 -1.54,-0.14 -2.15,-0.42 -0.6,-0.29 -1.11,-0.71 -1.51,-1.26 -0.4,-0.55 -0.69,-1.22 -0.88,-1.99 -0.18,-0.78 -0.28,-1.67 -0.28,-2.68 0,-1.73 0.27,-3.1 0.81,-4.12 0.54,-1.03 1.29,-1.54 2.26,-1.54 0.79,0 1.52,0.41 2.19,1.22 0.68,0.82 1.38,2.06 2.12,3.73 v 7.06 z m 260.62,14.67 c -0.9,0 -1.66,-0.32 -2.3,-0.96 -0.65,-0.64 -1.18,-1.55 -1.59,-2.72 -0.42,-1.17 -0.73,-2.55 -0.93,-4.15 -0.2,-1.6 -0.3,-3.35 -0.3,-5.25 0,-1.82 0.08,-3.53 0.25,-5.14 0.16,-1.6 0.44,-2.99 0.82,-4.19 0.39,-1.19 0.9,-2.14 1.55,-2.84 0.65,-0.71 1.46,-1.06 2.42,-1.06 0.88,0 1.65,0.32 2.3,0.96 0.64,0.64 1.18,1.54 1.59,2.7 0.42,1.16 0.72,2.54 0.92,4.14 0.19,1.6 0.29,3.36 0.29,5.28 0,1.8 -0.08,3.5 -0.25,5.1 -0.16,1.6 -0.43,3.01 -0.81,4.21 -0.38,1.21 -0.89,2.16 -1.54,2.87 -0.65,0.7 -1.46,1.05 -2.42,1.05 z m -211.19,0 c -0.89,0 -1.66,-0.32 -2.3,-0.96 -0.64,-0.64 -1.17,-1.55 -1.58,-2.72 -0.42,-1.17 -0.73,-2.55 -0.93,-4.15 -0.2,-1.6 -0.3,-3.35 -0.3,-5.25 0,-1.82 0.08,-3.53 0.24,-5.14 0.17,-1.6 0.44,-2.99 0.83,-4.19 0.38,-1.19 0.9,-2.14 1.55,-2.84 0.65,-0.71 1.45,-1.06 2.42,-1.06 0.88,0 1.64,0.32 2.29,0.96 0.65,0.64 1.18,1.54 1.6,2.7 0.41,1.16 0.72,2.54 0.92,4.14 0.19,1.6 0.29,3.36 0.29,5.28 0,1.8 -0.08,3.5 -0.25,5.1 -0.16,1.6 -0.44,3.01 -0.82,4.21 -0.37,1.21 -0.89,2.16 -1.54,2.87 -0.64,0.7 -1.45,1.05 -2.42,1.05 z m 27.45,0.33 c -0.74,0 -1.4,-0.28 -1.96,-0.85 -0.56,-0.56 -1.03,-1.32 -1.41,-2.25 -0.37,-0.94 -0.67,-2.03 -0.87,-3.27 -0.21,-1.25 -0.33,-2.54 -0.35,-3.9 h 8.92 c 0.04,3.2 -0.31,5.72 -1.05,7.54 -0.74,1.82 -1.83,2.73 -3.28,2.73 z m 169.59,4.25 c 0.3,0 0.55,-0.02 0.74,-0.07 0.2,-0.05 0.35,-0.13 0.46,-0.22 0.1,-0.1 0.18,-0.23 0.23,-0.37 0.05,-0.15 0.07,-0.31 0.07,-0.48 v -33.26 c 0,-0.19 -0.02,-0.36 -0.07,-0.5 -0.05,-0.13 -0.13,-0.25 -0.23,-0.35 -0.11,-0.1 -0.26,-0.17 -0.46,-0.22 -0.19,-0.05 -0.44,-0.07 -0.74,-0.07 -0.29,0 -0.54,0.02 -0.73,0.07 -0.19,0.05 -0.35,0.12 -0.46,0.22 -0.12,0.1 -0.2,0.22 -0.24,0.35 -0.04,0.14 -0.06,0.31 -0.06,0.5 v 33.26 c 0,0.17 0.02,0.33 0.06,0.48 0.04,0.14 0.12,0.27 0.24,0.37 0.11,0.09 0.27,0.17 0.46,0.22 0.19,0.05 0.44,0.07 0.73,0.07 z m -52.19,0 c 0.35,0 0.63,-0.02 0.85,-0.05 0.21,-0.04 0.37,-0.11 0.49,-0.21 0.11,-0.1 0.2,-0.22 0.25,-0.37 0.06,-0.14 0.11,-0.33 0.16,-0.55 1.53,-9.14 3.07,-18.28 4.61,-27.42 0.03,-0.14 0.05,-0.29 0.08,-0.44 0.01,0.15 0.03,0.3 0.05,0.44 l 4.56,27.42 c 0.03,0.22 0.07,0.41 0.13,0.55 0.06,0.15 0.15,0.27 0.26,0.37 0.12,0.1 0.28,0.17 0.47,0.21 0.2,0.03 0.47,0.05 0.8,0.05 0.27,0 0.5,-0.01 0.69,-0.04 0.18,-0.02 0.32,-0.08 0.42,-0.18 0.11,-0.1 0.18,-0.22 0.22,-0.35 0.04,-0.14 0.07,-0.3 0.07,-0.5 0,-0.1 -0.01,-0.2 -0.01,-0.31 -0.01,-0.12 -0.02,-0.23 -0.03,-0.36 -0.01,-0.12 -0.03,-0.25 -0.05,-0.4 -0.01,-0.15 -0.04,-0.31 -0.06,-0.48 l -5.58,-31.59 c -0.05,-0.27 -0.11,-0.5 -0.19,-0.67 -0.08,-0.17 -0.2,-0.31 -0.36,-0.4 -0.15,-0.1 -0.35,-0.17 -0.6,-0.21 -0.24,-0.03 -0.54,-0.05 -0.9,-0.05 -0.37,0 -0.67,0.02 -0.91,0.07 -0.25,0.05 -0.44,0.12 -0.59,0.22 -0.16,0.1 -0.27,0.24 -0.36,0.41 -0.08,0.17 -0.15,0.38 -0.2,0.63 -1.85,10.53 -3.71,21.06 -5.56,31.59 -0.05,0.29 -0.09,0.55 -0.12,0.77 -0.03,0.23 -0.05,0.39 -0.05,0.5 -0.01,0.11 -0.01,0.21 -0.01,0.28 0,0.2 0.02,0.37 0.07,0.52 0.05,0.14 0.13,0.26 0.25,0.35 0.11,0.08 0.26,0.14 0.45,0.16 0.19,0.03 0.42,0.04 0.7,0.04 z m 41.43,0.48 c 0.52,0 1.02,-0.1 1.51,-0.29 0.49,-0.2 0.95,-0.46 1.36,-0.78 0.41,-0.32 0.78,-0.69 1.1,-1.11 0.32,-0.42 0.55,-0.77 0.7,-1.07 0.14,-0.3 0.24,-0.53 0.3,-0.7 0.05,-0.17 0.1,-0.38 0.13,-0.61 0.04,-0.24 0.06,-0.5 0.08,-0.8 0.01,-0.29 0.01,-0.66 0.01,-1.1 0,-0.96 -0.05,-1.64 -0.16,-2.02 -0.11,-0.38 -0.24,-0.57 -0.4,-0.57 -0.18,0 -0.39,0.2 -0.63,0.61 -0.23,0.41 -0.53,0.85 -0.9,1.35 -0.36,0.49 -0.8,0.94 -1.31,1.35 -0.52,0.4 -1.13,0.61 -1.83,0.61 -1.44,0 -2.55,-1.13 -3.32,-3.38 -0.77,-2.26 -1.15,-5.53 -1.15,-9.81 0,-2.15 0.1,-4.03 0.3,-5.64 0.2,-1.61 0.49,-2.96 0.88,-4.04 0.39,-1.09 0.86,-1.9 1.43,-2.43 0.56,-0.52 1.21,-0.79 1.93,-0.79 0.69,0 1.3,0.22 1.82,0.67 0.52,0.44 0.97,0.93 1.35,1.46 0.39,0.52 0.71,1 0.97,1.44 0.26,0.43 0.46,0.64 0.61,0.64 0.08,0 0.15,-0.05 0.21,-0.15 0.07,-0.09 0.12,-0.26 0.16,-0.49 0.04,-0.24 0.07,-0.53 0.09,-0.89 0.02,-0.36 0.03,-0.78 0.03,-1.28 0,-0.41 -0.01,-0.78 -0.02,-1.09 -0.01,-0.3 -0.03,-0.56 -0.06,-0.77 -0.03,-0.21 -0.07,-0.4 -0.11,-0.56 -0.05,-0.16 -0.14,-0.39 -0.29,-0.7 -0.16,-0.31 -0.41,-0.69 -0.78,-1.14 -0.36,-0.46 -0.77,-0.87 -1.22,-1.22 -0.46,-0.36 -0.95,-0.65 -1.49,-0.87 -0.53,-0.22 -1.08,-0.33 -1.65,-0.33 -1.17,0 -2.22,0.39 -3.13,1.18 -0.9,0.79 -1.66,1.94 -2.28,3.45 -0.61,1.52 -1.07,3.38 -1.4,5.58 -0.32,2.21 -0.48,4.75 -0.48,7.63 0,3.28 0.2,6.09 0.59,8.45 0.4,2.35 0.94,4.28 1.62,5.78 0.69,1.5 1.49,2.61 2.42,3.34 0.93,0.73 1.93,1.09 3.01,1.09 z m 45.67,0.04 c 1.09,0 2,-0.38 2.75,-1.13 0.74,-0.75 1.35,-1.75 1.81,-3.01 0.46,-1.26 0.79,-2.73 0.99,-4.41 0.2,-1.69 0.3,-3.72 0.3,-6.08 v -20.29 c 0,-0.19 -0.03,-0.36 -0.08,-0.5 -0.04,-0.13 -0.12,-0.25 -0.23,-0.35 -0.11,-0.1 -0.26,-0.17 -0.46,-0.22 -0.19,-0.05 -0.43,-0.07 -0.72,-0.07 -0.31,0 -0.55,0.02 -0.75,0.07 -0.19,0.05 -0.34,0.12 -0.45,0.22 -0.11,0.1 -0.19,0.22 -0.24,0.35 -0.05,0.14 -0.07,0.31 -0.07,0.5 v 19.47 c 0,1.9 -0.07,3.43 -0.22,4.59 -0.14,1.15 -0.36,2.15 -0.64,2.99 -0.27,0.84 -0.63,1.48 -1.08,1.92 -0.44,0.44 -0.95,0.66 -1.53,0.66 -0.75,0 -1.51,-0.54 -2.26,-1.62 -0.75,-1.08 -1.54,-2.67 -2.36,-4.77 v -23.24 c 0,-0.19 -0.02,-0.36 -0.07,-0.5 -0.05,-0.13 -0.13,-0.25 -0.24,-0.35 -0.11,-0.1 -0.26,-0.17 -0.45,-0.22 -0.2,-0.05 -0.45,-0.07 -0.75,-0.07 -0.29,0 -0.53,0.02 -0.73,0.07 -0.19,0.05 -0.34,0.12 -0.46,0.22 -0.11,0.1 -0.19,0.22 -0.23,0.35 -0.05,0.14 -0.07,0.31 -0.07,0.5 v 33.26 c 0,0.19 0.02,0.36 0.06,0.49 0.03,0.14 0.11,0.26 0.21,0.37 0.11,0.11 0.25,0.19 0.42,0.23 0.17,0.03 0.4,0.05 0.67,0.05 0.27,0 0.49,-0.02 0.67,-0.05 0.17,-0.04 0.31,-0.12 0.41,-0.23 0.09,-0.11 0.16,-0.23 0.21,-0.37 0.04,-0.13 0.06,-0.3 0.06,-0.49 v -4.4 c 0.92,2.09 1.84,3.63 2.75,4.6 0.92,0.97 1.84,1.46 2.78,1.46 z m -20.65,0 c 1.35,0 2.52,-0.41 3.52,-1.22 1,-0.81 1.83,-2 2.5,-3.55 0.67,-1.55 1.17,-3.43 1.5,-5.65 0.33,-2.22 0.5,-4.72 0.5,-7.5 0,-2.71 -0.18,-5.2 -0.53,-7.48 -0.35,-2.28 -0.87,-4.25 -1.57,-5.9 -0.7,-1.65 -1.57,-2.93 -2.62,-3.86 -1.04,-0.92 -2.26,-1.38 -3.64,-1.38 -1.35,0 -2.52,0.4 -3.52,1.22 -1,0.81 -1.83,1.99 -2.5,3.54 -0.66,1.56 -1.16,3.44 -1.49,5.66 -0.32,2.21 -0.49,4.73 -0.49,7.53 0,2.71 0.17,5.21 0.52,7.49 0.35,2.27 0.87,4.24 1.56,5.89 0.7,1.65 1.57,2.93 2.61,3.84 1.04,0.91 2.26,1.37 3.65,1.37 z m -43.51,0 c 1.18,0 2.18,-0.27 3,-0.81 0.82,-0.55 1.49,-1.34 2,-2.39 0.51,-1.04 0.88,-2.34 1.11,-3.9 0.23,-1.55 0.34,-3.36 0.34,-5.43 v -22.42 c 0,-0.3 -0.05,-0.52 -0.14,-0.67 -0.1,-0.15 -0.23,-0.26 -0.4,-0.33 -0.17,-0.08 -0.42,-0.11 -0.75,-0.11 -0.31,0 -0.56,0.03 -0.75,0.11 -0.19,0.07 -0.33,0.18 -0.41,0.33 -0.09,0.15 -0.13,0.37 -0.13,0.67 v 3.32 c -0.71,-1.55 -1.51,-2.76 -2.39,-3.62 -0.88,-0.86 -1.81,-1.29 -2.79,-1.29 -0.86,0 -1.64,0.22 -2.33,0.68 -0.7,0.46 -1.29,1.12 -1.78,1.98 -0.5,0.86 -0.88,1.92 -1.15,3.17 -0.27,1.26 -0.41,2.69 -0.41,4.29 0,1.87 0.19,3.5 0.56,4.88 0.38,1.38 0.92,2.52 1.62,3.43 0.71,0.92 1.57,1.6 2.58,2.05 1.02,0.46 2.17,0.69 3.44,0.69 h 2.25 v 2.58 c 0,1.29 -0.06,2.42 -0.2,3.4 -0.13,0.99 -0.35,1.81 -0.64,2.46 -0.3,0.65 -0.68,1.15 -1.16,1.48 -0.47,0.33 -1.05,0.5 -1.74,0.5 -0.74,0 -1.4,-0.18 -1.99,-0.54 -0.59,-0.36 -1.1,-0.75 -1.55,-1.18 -0.44,-0.43 -0.81,-0.83 -1.11,-1.18 -0.29,-0.36 -0.51,-0.54 -0.66,-0.54 -0.1,0 -0.18,0.05 -0.25,0.15 -0.08,0.1 -0.14,0.25 -0.19,0.44 -0.06,0.2 -0.1,0.45 -0.12,0.76 -0.03,0.31 -0.04,0.65 -0.04,1.02 0,0.61 0.02,1.1 0.06,1.46 0.05,0.35 0.15,0.69 0.31,1.01 0.17,0.32 0.45,0.7 0.85,1.13 0.4,0.43 0.86,0.82 1.38,1.18 0.52,0.36 1.09,0.65 1.71,0.89 0.62,0.23 1.24,0.35 1.87,0.35 z m -42.81,0 c 1.18,0 2.18,-0.27 3,-0.81 0.83,-0.55 1.49,-1.34 2,-2.39 0.51,-1.04 0.88,-2.34 1.11,-3.9 0.23,-1.55 0.35,-3.36 0.35,-5.43 v -22.42 c 0,-0.3 -0.05,-0.52 -0.15,-0.67 -0.1,-0.15 -0.23,-0.26 -0.4,-0.33 -0.17,-0.08 -0.42,-0.11 -0.74,-0.11 -0.32,0 -0.57,0.03 -0.76,0.11 -0.19,0.07 -0.32,0.18 -0.41,0.33 -0.08,0.15 -0.13,0.37 -0.13,0.67 v 3.32 c -0.71,-1.55 -1.51,-2.76 -2.39,-3.62 -0.87,-0.86 -1.8,-1.29 -2.79,-1.29 -0.86,0 -1.63,0.22 -2.33,0.68 -0.7,0.46 -1.29,1.12 -1.78,1.98 -0.49,0.86 -0.87,1.92 -1.15,3.17 -0.27,1.26 -0.41,2.69 -0.41,4.29 0,1.87 0.19,3.5 0.57,4.88 0.37,1.38 0.91,2.52 1.61,3.43 0.71,0.92 1.57,1.6 2.59,2.05 1.01,0.46 2.16,0.69 3.43,0.69 h 2.25 v 2.58 c 0,1.29 -0.06,2.42 -0.2,3.4 -0.13,0.99 -0.34,1.81 -0.64,2.46 -0.3,0.65 -0.68,1.15 -1.15,1.48 -0.48,0.33 -1.06,0.5 -1.75,0.5 -0.74,0 -1.4,-0.18 -1.99,-0.54 -0.59,-0.36 -1.1,-0.75 -1.54,-1.18 -0.45,-0.43 -0.82,-0.83 -1.11,-1.18 -0.3,-0.36 -0.52,-0.54 -0.67,-0.54 -0.09,0 -0.18,0.05 -0.25,0.15 -0.07,0.1 -0.14,0.25 -0.19,0.44 -0.06,0.2 -0.1,0.45 -0.12,0.76 -0.02,0.31 -0.04,0.65 -0.04,1.02 0,0.61 0.02,1.1 0.07,1.46 0.04,0.35 0.14,0.69 0.31,1.01 0.16,0.32 0.44,0.7 0.84,1.13 0.4,0.43 0.86,0.82 1.38,1.18 0.52,0.36 1.09,0.65 1.71,0.89 0.62,0.23 1.24,0.35 1.87,0.35 z m -43.3,0 c 1.17,0 2.17,-0.27 3,-0.81 0.82,-0.55 1.49,-1.34 2,-2.39 0.51,-1.04 0.88,-2.34 1.11,-3.9 0.23,-1.55 0.34,-3.36 0.34,-5.43 v -22.42 c 0,-0.3 -0.05,-0.52 -0.14,-0.67 -0.1,-0.15 -0.23,-0.26 -0.4,-0.33 -0.17,-0.08 -0.42,-0.11 -0.75,-0.11 -0.31,0 -0.57,0.03 -0.75,0.11 -0.19,0.07 -0.33,0.18 -0.41,0.33 -0.09,0.15 -0.13,0.37 -0.13,0.67 v 3.32 c -0.71,-1.55 -1.51,-2.76 -2.39,-3.62 -0.88,-0.86 -1.81,-1.29 -2.79,-1.29 -0.86,0 -1.64,0.22 -2.33,0.68 -0.7,0.46 -1.3,1.12 -1.79,1.98 -0.49,0.86 -0.87,1.92 -1.14,3.17 -0.27,1.26 -0.41,2.69 -0.41,4.29 0,1.87 0.19,3.5 0.56,4.88 0.38,1.38 0.92,2.52 1.62,3.43 0.7,0.92 1.56,1.6 2.58,2.05 1.02,0.46 2.17,0.69 3.44,0.69 h 2.25 v 2.58 c 0,1.29 -0.07,2.42 -0.2,3.4 -0.13,0.99 -0.35,1.81 -0.64,2.46 -0.3,0.65 -0.69,1.15 -1.16,1.48 -0.47,0.33 -1.05,0.5 -1.74,0.5 -0.74,0 -1.41,-0.18 -1.99,-0.54 -0.59,-0.36 -1.11,-0.75 -1.55,-1.18 -0.44,-0.43 -0.81,-0.83 -1.11,-1.18 -0.29,-0.36 -0.51,-0.54 -0.66,-0.54 -0.1,0 -0.18,0.05 -0.25,0.15 -0.08,0.1 -0.14,0.25 -0.2,0.44 -0.05,0.2 -0.09,0.45 -0.11,0.76 -0.03,0.31 -0.04,0.65 -0.04,1.02 0,0.61 0.02,1.1 0.06,1.46 0.05,0.35 0.15,0.69 0.31,1.01 0.17,0.32 0.45,0.7 0.85,1.13 0.4,0.43 0.86,0.82 1.38,1.18 0.52,0.36 1.09,0.65 1.71,0.89 0.62,0.23 1.24,0.35 1.87,0.35 z m -34.12,0 c 1.09,0 2.01,-0.38 2.76,-1.13 0.74,-0.75 1.34,-1.75 1.81,-3.01 0.46,-1.26 0.79,-2.73 0.99,-4.41 0.2,-1.69 0.3,-3.72 0.3,-6.08 v -20.29 c 0,-0.19 -0.03,-0.36 -0.08,-0.5 -0.05,-0.13 -0.12,-0.25 -0.23,-0.35 -0.11,-0.1 -0.26,-0.17 -0.46,-0.22 -0.19,-0.05 -0.43,-0.07 -0.72,-0.07 -0.31,0 -0.56,0.02 -0.75,0.07 -0.19,0.05 -0.35,0.12 -0.45,0.22 -0.11,0.1 -0.19,0.22 -0.24,0.35 -0.05,0.14 -0.07,0.31 -0.07,0.5 v 19.47 c 0,1.9 -0.08,3.43 -0.22,4.59 -0.15,1.15 -0.36,2.15 -0.64,2.99 -0.28,0.84 -0.64,1.48 -1.08,1.92 -0.44,0.44 -0.95,0.66 -1.53,0.66 -0.76,0 -1.51,-0.54 -2.26,-1.62 -0.75,-1.08 -1.54,-2.67 -2.36,-4.77 v -23.24 c 0,-0.19 -0.03,-0.36 -0.07,-0.5 -0.05,-0.13 -0.13,-0.25 -0.24,-0.35 -0.11,-0.1 -0.26,-0.17 -0.45,-0.22 -0.2,-0.05 -0.45,-0.07 -0.75,-0.07 -0.29,0 -0.53,0.02 -0.73,0.07 -0.19,0.05 -0.35,0.12 -0.46,0.22 -0.12,0.1 -0.19,0.22 -0.24,0.35 -0.04,0.14 -0.06,0.31 -0.06,0.5 v 33.26 c 0,0.19 0.02,0.36 0.05,0.49 0.04,0.14 0.11,0.26 0.22,0.37 0.11,0.11 0.25,0.19 0.42,0.23 0.17,0.03 0.39,0.05 0.67,0.05 0.27,0 0.49,-0.02 0.67,-0.05 0.17,-0.04 0.31,-0.12 0.4,-0.23 0.1,-0.11 0.17,-0.23 0.21,-0.37 0.05,-0.13 0.07,-0.3 0.07,-0.49 v -4.4 c 0.92,2.09 1.84,3.63 2.75,4.6 0.92,0.97 1.84,1.46 2.77,1.46 z m -19.96,0 c 1.29,0 2.38,-0.42 3.28,-1.26 0.91,-0.84 1.65,-1.96 2.23,-3.38 0.58,-1.41 1.01,-3.08 1.28,-4.99 0.27,-1.91 0.41,-3.94 0.41,-6.11 v -1.11 c 0,-0.96 -0.12,-1.64 -0.36,-2.05 -0.23,-0.41 -0.5,-0.61 -0.81,-0.61 h -10.77 c 0,-1.85 0.09,-3.51 0.27,-4.99 0.19,-1.48 0.49,-2.74 0.92,-3.8 0.42,-1.06 0.98,-1.88 1.66,-2.44 0.68,-0.57 1.51,-0.85 2.5,-0.85 0.78,0 1.47,0.13 2.08,0.39 0.61,0.25 1.14,0.54 1.58,0.86 0.45,0.32 0.81,0.61 1.1,0.87 0.28,0.26 0.5,0.39 0.65,0.39 0.08,0 0.16,-0.04 0.22,-0.13 0.07,-0.08 0.12,-0.21 0.16,-0.39 0.04,-0.17 0.06,-0.41 0.08,-0.72 0.02,-0.31 0.03,-0.68 0.03,-1.12 0,-0.32 -0.01,-0.6 -0.02,-0.84 -0.01,-0.23 -0.03,-0.44 -0.04,-0.62 -0.02,-0.19 -0.05,-0.35 -0.09,-0.5 -0.05,-0.15 -0.1,-0.29 -0.17,-0.43 -0.06,-0.13 -0.26,-0.35 -0.59,-0.66 -0.33,-0.31 -0.75,-0.61 -1.27,-0.91 -0.52,-0.29 -1.13,-0.56 -1.81,-0.79 -0.68,-0.24 -1.41,-0.35 -2.19,-0.35 -1.34,0 -2.52,0.38 -3.54,1.14 -1.01,0.77 -1.86,1.9 -2.55,3.4 -0.69,1.5 -1.21,3.39 -1.56,5.65 -0.35,2.27 -0.53,4.91 -0.53,7.91 0,2.86 0.18,5.43 0.55,7.71 0.36,2.27 0.88,4.21 1.57,5.8 0.68,1.58 1.51,2.8 2.48,3.65 0.97,0.85 2.05,1.28 3.25,1.28 z m -27.48,0 c 1.35,0 2.52,-0.41 3.52,-1.22 1,-0.81 1.83,-2 2.5,-3.55 0.66,-1.55 1.16,-3.43 1.5,-5.65 0.33,-2.22 0.5,-4.72 0.5,-7.5 0,-2.71 -0.18,-5.2 -0.53,-7.48 -0.35,-2.28 -0.88,-4.25 -1.57,-5.9 -0.7,-1.65 -1.57,-2.93 -2.62,-3.86 -1.05,-0.92 -2.26,-1.38 -3.64,-1.38 -1.35,0 -2.52,0.4 -3.52,1.22 -1,0.81 -1.83,1.99 -2.5,3.54 -0.67,1.56 -1.16,3.44 -1.49,5.66 -0.33,2.21 -0.49,4.73 -0.49,7.53 0,2.71 0.17,5.21 0.52,7.49 0.34,2.27 0.86,4.24 1.56,5.89 0.7,1.65 1.57,2.93 2.61,3.84 1.04,0.91 2.26,1.37 3.65,1.37 z m -30.23,0 c 1.09,0 2.01,-0.38 2.75,-1.13 0.75,-0.75 1.35,-1.75 1.81,-3.01 0.46,-1.26 0.79,-2.73 0.99,-4.41 0.2,-1.69 0.3,-3.72 0.3,-6.08 v -20.29 c 0,-0.19 -0.02,-0.36 -0.07,-0.5 -0.05,-0.13 -0.13,-0.25 -0.24,-0.35 -0.11,-0.1 -0.26,-0.17 -0.45,-0.22 -0.2,-0.05 -0.44,-0.07 -0.73,-0.07 -0.3,0 -0.55,0.02 -0.74,0.07 -0.2,0.05 -0.35,0.12 -0.46,0.22 -0.11,0.1 -0.19,0.22 -0.23,0.35 -0.05,0.14 -0.08,0.31 -0.08,0.5 v 19.47 c 0,1.9 -0.07,3.43 -0.22,4.59 -0.14,1.15 -0.35,2.15 -0.63,2.99 -0.28,0.84 -0.64,1.48 -1.08,1.92 -0.45,0.44 -0.96,0.66 -1.54,0.66 -0.75,0 -1.5,-0.54 -2.25,-1.62 -0.75,-1.08 -1.54,-2.67 -2.37,-4.77 v -23.24 c 0,-0.19 -0.02,-0.36 -0.07,-0.5 -0.05,-0.13 -0.13,-0.25 -0.23,-0.35 -0.11,-0.1 -0.26,-0.17 -0.46,-0.22 -0.19,-0.05 -0.44,-0.07 -0.74,-0.07 -0.29,0 -0.54,0.02 -0.73,0.07 -0.19,0.05 -0.35,0.12 -0.46,0.22 -0.12,0.1 -0.2,0.22 -0.24,0.35 -0.04,0.14 -0.06,0.31 -0.06,0.5 v 33.26 c 0,0.19 0.01,0.36 0.05,0.49 0.04,0.14 0.11,0.26 0.22,0.37 0.11,0.11 0.25,0.19 0.42,0.23 0.17,0.03 0.39,0.05 0.67,0.05 0.27,0 0.49,-0.02 0.66,-0.05 0.18,-0.04 0.31,-0.12 0.41,-0.23 0.1,-0.11 0.17,-0.23 0.21,-0.37 0.04,-0.13 0.06,-0.3 0.06,-0.49 v -4.4 c 0.92,2.09 1.84,3.63 2.76,4.6 0.91,0.97 1.84,1.46 2.77,1.46 z m -20.23,0 c 1.17,0 2.17,-0.27 3,-0.81 0.82,-0.55 1.49,-1.34 2,-2.39 0.51,-1.04 0.88,-2.34 1.11,-3.9 0.23,-1.55 0.34,-3.36 0.34,-5.43 v -22.42 c 0,-0.3 -0.05,-0.52 -0.14,-0.67 -0.1,-0.15 -0.23,-0.26 -0.4,-0.33 -0.17,-0.08 -0.42,-0.11 -0.75,-0.11 -0.31,0 -0.57,0.03 -0.75,0.11 -0.19,0.07 -0.33,0.18 -0.41,0.33 -0.09,0.15 -0.13,0.37 -0.13,0.67 v 3.32 c -0.71,-1.55 -1.51,-2.76 -2.39,-3.62 -0.88,-0.86 -1.81,-1.29 -2.79,-1.29 -0.86,0 -1.64,0.22 -2.34,0.68 -0.69,0.46 -1.29,1.12 -1.78,1.98 -0.49,0.86 -0.87,1.92 -1.14,3.17 -0.27,1.26 -0.41,2.69 -0.41,4.29 0,1.87 0.19,3.5 0.56,4.88 0.38,1.38 0.92,2.52 1.62,3.43 0.7,0.92 1.56,1.6 2.58,2.05 1.02,0.46 2.16,0.69 3.44,0.69 h 2.25 v 2.58 c 0,1.29 -0.07,2.42 -0.2,3.4 -0.13,0.99 -0.35,1.81 -0.64,2.46 -0.3,0.65 -0.69,1.15 -1.16,1.48 -0.47,0.33 -1.05,0.5 -1.74,0.5 -0.74,0 -1.41,-0.18 -1.99,-0.54 -0.59,-0.36 -1.11,-0.75 -1.55,-1.18 -0.44,-0.43 -0.81,-0.83 -1.11,-1.18 -0.29,-0.36 -0.52,-0.54 -0.66,-0.54 -0.1,0 -0.18,0.05 -0.26,0.15 -0.07,0.1 -0.13,0.25 -0.19,0.44 -0.05,0.2 -0.09,0.45 -0.11,0.76 -0.03,0.31 -0.04,0.65 -0.04,1.02 0,0.61 0.02,1.1 0.06,1.46 0.05,0.35 0.15,0.69 0.31,1.01 0.17,0.32 0.45,0.7 0.85,1.13 0.4,0.43 0.86,0.82 1.38,1.18 0.52,0.36 1.09,0.65 1.71,0.89 0.61,0.23 1.24,0.35 1.87,0.35 z m 33.43,8.39 c 0.3,0 0.55,-0.03 0.74,-0.08 0.2,-0.05 0.35,-0.13 0.46,-0.24 0.11,-0.11 0.18,-0.24 0.23,-0.39 0.05,-0.14 0.08,-0.3 0.08,-0.48 v -7.9 h 4.19 c 0.1,0 0.19,-0.05 0.26,-0.13 0.07,-0.09 0.14,-0.24 0.19,-0.45 0.05,-0.21 0.09,-0.47 0.12,-0.79 0.02,-0.32 0.03,-0.71 0.03,-1.18 0,-0.89 -0.05,-1.53 -0.16,-1.92 -0.11,-0.4 -0.25,-0.6 -0.44,-0.6 h -4.19 v -18.54 c 0,-2.29 0.16,-4.02 0.5,-5.19 0.33,-1.17 0.93,-1.76 1.79,-1.76 0.27,0 0.52,0.06 0.74,0.17 0.22,0.11 0.41,0.22 0.58,0.35 0.17,0.12 0.32,0.24 0.44,0.35 0.12,0.11 0.23,0.17 0.33,0.17 0.06,0 0.11,-0.04 0.17,-0.1 0.05,-0.06 0.1,-0.18 0.13,-0.35 0.03,-0.17 0.05,-0.4 0.08,-0.7 0.02,-0.3 0.03,-0.67 0.03,-1.11 0,-0.71 -0.02,-1.28 -0.07,-1.7 -0.05,-0.42 -0.12,-0.72 -0.22,-0.92 -0.09,-0.2 -0.24,-0.38 -0.43,-0.56 -0.2,-0.17 -0.42,-0.31 -0.67,-0.42 -0.24,-0.11 -0.51,-0.2 -0.79,-0.28 -0.28,-0.07 -0.55,-0.11 -0.83,-0.11 -0.85,0 -1.58,0.23 -2.18,0.68 -0.61,0.46 -1.11,1.15 -1.49,2.07 -0.39,0.93 -0.67,2.1 -0.85,3.51 -0.18,1.42 -0.26,3.09 -0.26,5.01 v 19.43 h -2.29 c -0.19,0 -0.33,0.2 -0.44,0.6 -0.11,0.39 -0.16,1.03 -0.16,1.92 0,0.47 0.01,0.86 0.04,1.18 0.03,0.32 0.07,0.58 0.12,0.79 0.05,0.21 0.11,0.36 0.19,0.45 0.08,0.08 0.17,0.13 0.26,0.13 h 2.28 v 7.9 c 0,0.18 0.02,0.34 0.06,0.48 0.04,0.15 0.12,0.28 0.24,0.39 0.11,0.11 0.27,0.19 0.46,0.24 0.19,0.05 0.44,0.08 0.73,0.08 z m 125.13,4.28 c 0.52,0 1.05,-0.09 1.58,-0.28 0.52,-0.18 1.02,-0.43 1.49,-0.73 0.46,-0.31 0.88,-0.66 1.24,-1.04 0.36,-0.38 0.6,-0.69 0.72,-0.92 0.11,-0.24 0.19,-0.42 0.23,-0.56 0.03,-0.13 0.06,-0.3 0.09,-0.51 0.02,-0.21 0.04,-0.47 0.05,-0.76 0.01,-0.3 0.02,-0.68 0.02,-1.15 0,-0.44 -0.01,-0.83 -0.03,-1.18 -0.02,-0.34 -0.04,-0.63 -0.08,-0.87 -0.04,-0.23 -0.09,-0.4 -0.15,-0.51 -0.07,-0.12 -0.15,-0.17 -0.23,-0.17 -0.13,0 -0.34,0.17 -0.63,0.52 -0.28,0.34 -0.63,0.73 -1.04,1.16 -0.41,0.43 -0.9,0.83 -1.47,1.18 -0.56,0.36 -1.19,0.54 -1.9,0.54 -0.65,0 -1.22,-0.18 -1.7,-0.54 -0.49,-0.35 -0.89,-0.83 -1.2,-1.42 -0.32,-0.59 -0.55,-1.29 -0.71,-2.11 -0.16,-0.81 -0.24,-1.67 -0.24,-2.58 0,-1.33 0.15,-2.48 0.46,-3.44 0.3,-0.96 0.7,-1.81 1.2,-2.55 0.51,-0.74 1.08,-1.41 1.72,-2.03 0.64,-0.62 1.3,-1.24 1.97,-1.87 0.66,-0.62 1.32,-1.31 1.96,-2.07 0.64,-0.75 1.21,-1.63 1.72,-2.66 0.5,-1.02 0.9,-2.22 1.21,-3.62 0.31,-1.39 0.47,-3.03 0.47,-4.93 0,-2.24 -0.21,-4.24 -0.61,-5.98 -0.41,-1.75 -0.97,-3.24 -1.69,-4.46 -0.72,-1.22 -1.57,-2.13 -2.55,-2.75 -0.97,-0.62 -2.02,-0.92 -3.15,-0.92 -0.79,0 -1.52,0.13 -2.19,0.4 -0.67,0.27 -1.27,0.61 -1.8,1 -0.53,0.4 -0.97,0.8 -1.33,1.22 -0.35,0.42 -0.6,0.78 -0.74,1.07 -0.14,0.3 -0.24,0.67 -0.31,1.13 -0.07,0.45 -0.1,1.06 -0.1,1.83 0,0.54 0.01,0.99 0.04,1.35 0.02,0.35 0.06,0.64 0.1,0.86 0.05,0.23 0.11,0.38 0.19,0.47 0.07,0.08 0.15,0.13 0.25,0.13 0.17,0 0.41,-0.21 0.72,-0.63 0.31,-0.42 0.7,-0.88 1.19,-1.37 0.48,-0.49 1.07,-0.95 1.75,-1.39 0.69,-0.43 1.48,-0.64 2.38,-0.64 0.67,0 1.29,0.18 1.86,0.55 0.56,0.37 1.05,0.9 1.45,1.57 0.41,0.68 0.72,1.51 0.94,2.5 0.22,0.98 0.33,2.1 0.33,3.36 0,1.35 -0.16,2.51 -0.46,3.47 -0.3,0.96 -0.7,1.81 -1.2,2.53 -0.5,0.73 -1.06,1.39 -1.7,2 -0.63,0.6 -1.29,1.22 -1.95,1.85 -0.67,0.62 -1.32,1.32 -1.95,2.08 -0.63,0.77 -1.19,1.67 -1.69,2.7 -0.49,1.04 -0.9,2.25 -1.21,3.64 -0.3,1.39 -0.46,3.06 -0.46,5.01 0,1.99 0.18,3.77 0.54,5.34 0.35,1.56 0.85,2.87 1.49,3.93 0.63,1.06 1.39,1.87 2.27,2.42 0.88,0.55 1.83,0.83 2.84,0.83 z m -175.32,0 c 0.52,0 1.04,-0.09 1.57,-0.28 0.53,-0.18 1.03,-0.43 1.49,-0.73 0.47,-0.31 0.88,-0.66 1.25,-1.04 0.36,-0.38 0.6,-0.69 0.72,-0.92 0.11,-0.24 0.19,-0.42 0.22,-0.56 0.04,-0.13 0.07,-0.3 0.09,-0.51 0.03,-0.21 0.05,-0.47 0.06,-0.76 0.01,-0.3 0.02,-0.68 0.02,-1.15 0,-0.44 -0.01,-0.83 -0.03,-1.18 -0.02,-0.34 -0.05,-0.63 -0.08,-0.87 -0.04,-0.23 -0.09,-0.4 -0.16,-0.51 -0.06,-0.12 -0.14,-0.17 -0.22,-0.17 -0.14,0 -0.35,0.17 -0.63,0.52 -0.29,0.34 -0.64,0.73 -1.05,1.16 -0.41,0.43 -0.9,0.83 -1.46,1.18 -0.56,0.36 -1.2,0.54 -1.9,0.54 -0.65,0 -1.22,-0.18 -1.71,-0.54 -0.48,-0.35 -0.88,-0.83 -1.2,-1.42 -0.31,-0.59 -0.55,-1.29 -0.71,-2.11 -0.15,-0.81 -0.23,-1.67 -0.23,-2.58 0,-1.33 0.15,-2.48 0.45,-3.44 0.3,-0.96 0.71,-1.81 1.21,-2.55 0.5,-0.74 1.08,-1.41 1.72,-2.03 0.64,-0.62 1.29,-1.24 1.96,-1.87 0.67,-0.62 1.32,-1.31 1.96,-2.07 0.65,-0.75 1.22,-1.63 1.72,-2.66 0.5,-1.02 0.91,-2.22 1.22,-3.62 0.31,-1.39 0.46,-3.03 0.46,-4.93 0,-2.24 -0.2,-4.24 -0.61,-5.98 -0.4,-1.75 -0.97,-3.24 -1.69,-4.46 -0.72,-1.22 -1.57,-2.13 -2.54,-2.75 -0.98,-0.62 -2.03,-0.92 -3.15,-0.92 -0.79,0 -1.52,0.13 -2.19,0.4 -0.68,0.27 -1.28,0.61 -1.8,1 -0.53,0.4 -0.97,0.8 -1.33,1.22 -0.36,0.42 -0.61,0.78 -0.75,1.07 -0.14,0.3 -0.24,0.67 -0.31,1.13 -0.06,0.45 -0.1,1.06 -0.1,1.83 0,0.54 0.02,0.99 0.04,1.35 0.03,0.35 0.06,0.64 0.11,0.86 0.05,0.23 0.11,0.38 0.18,0.47 0.07,0.08 0.16,0.13 0.26,0.13 0.17,0 0.41,-0.21 0.71,-0.63 0.31,-0.42 0.71,-0.88 1.19,-1.37 0.49,-0.49 1.07,-0.95 1.76,-1.39 0.68,-0.43 1.47,-0.64 2.37,-0.64 0.68,0 1.3,0.18 1.86,0.55 0.57,0.37 1.05,0.9 1.46,1.57 0.4,0.68 0.72,1.51 0.93,2.5 0.22,0.98 0.33,2.1 0.33,3.36 0,1.35 -0.15,2.51 -0.45,3.47 -0.31,0.96 -0.71,1.81 -1.2,2.53 -0.5,0.73 -1.07,1.39 -1.7,2 -0.64,0.6 -1.29,1.22 -1.96,1.85 -0.66,0.62 -1.31,1.32 -1.94,2.08 -0.63,0.77 -1.19,1.67 -1.69,2.7 -0.5,1.04 -0.9,2.25 -1.21,3.64 -0.31,1.39 -0.46,3.06 -0.46,5.01 0,1.99 0.18,3.77 0.53,5.34 0.36,1.56 0.86,2.87 1.49,3.93 0.64,1.06 1.4,1.87 2.27,2.42 0.88,0.55 1.83,0.83 2.85,0.83 z m 264.15,0.52 c 0.71,0 1.19,-0.25 1.45,-0.76 0.26,-0.5 0.39,-1.46 0.39,-2.86 0,-1.43 -0.13,-2.4 -0.4,-2.92 -0.27,-0.52 -0.76,-0.78 -1.47,-0.78 -0.71,0 -1.19,0.26 -1.45,0.76 -0.26,0.51 -0.39,1.46 -0.39,2.86 0,1.43 0.14,2.41 0.4,2.92 0.27,0.52 0.76,0.78 1.47,0.78 z m -58.58,2.44 c 0.3,0 0.55,-0.03 0.75,-0.08 0.19,-0.05 0.34,-0.12 0.45,-0.22 0.11,-0.1 0.19,-0.22 0.24,-0.37 0.04,-0.15 0.07,-0.32 0.07,-0.51 v -49.37 c 0,-0.19 -0.03,-0.36 -0.07,-0.5 -0.05,-0.13 -0.13,-0.25 -0.24,-0.35 -0.11,-0.1 -0.26,-0.17 -0.45,-0.22 -0.2,-0.05 -0.45,-0.07 -0.75,-0.07 -0.29,0 -0.53,0.02 -0.73,0.07 -0.19,0.05 -0.34,0.12 -0.46,0.22 -0.12,0.1 -0.19,0.22 -0.24,0.35 -0.04,0.14 -0.06,0.31 -0.06,0.5 v 49.37 c 0,0.19 0.02,0.36 0.06,0.51 0.05,0.15 0.12,0.27 0.24,0.37 0.12,0.1 0.27,0.17 0.46,0.22 0.2,0.05 0.44,0.08 0.73,0.08 z m -69.73,0 c 0.3,0 0.55,-0.03 0.74,-0.08 0.2,-0.05 0.35,-0.12 0.46,-0.22 0.11,-0.1 0.19,-0.22 0.23,-0.37 0.05,-0.15 0.08,-0.32 0.08,-0.51 v -49.37 c 0,-0.19 -0.03,-0.36 -0.08,-0.5 -0.04,-0.13 -0.12,-0.25 -0.23,-0.35 -0.11,-0.1 -0.26,-0.17 -0.46,-0.22 -0.19,-0.05 -0.44,-0.07 -0.74,-0.07 -0.29,0 -0.54,0.02 -0.73,0.07 -0.19,0.05 -0.35,0.12 -0.46,0.22 -0.12,0.1 -0.2,0.22 -0.24,0.35 -0.04,0.14 -0.06,0.31 -0.06,0.5 v 49.37 c 0,0.19 0.02,0.36 0.06,0.51 0.04,0.15 0.12,0.27 0.24,0.37 0.11,0.1 0.27,0.17 0.46,0.22 0.19,0.05 0.44,0.08 0.73,0.08 z M 668.96,522 c 0.34,0 0.62,-0.04 0.83,-0.13 0.21,-0.09 0.36,-0.21 0.45,-0.37 0.08,-0.16 0.12,-0.34 0.1,-0.55 -0.01,-0.21 -0.06,-0.43 -0.16,-0.65 -1.1,-2.87 -2.19,-5.74 -3.29,-8.61 -0.1,-0.24 -0.18,-0.44 -0.26,-0.59 -0.08,-0.15 -0.17,-0.26 -0.27,-0.35 -0.11,-0.09 -0.24,-0.15 -0.4,-0.19 -0.17,-0.03 -0.37,-0.05 -0.61,-0.05 -0.27,0 -0.48,0.04 -0.64,0.11 -0.16,0.07 -0.27,0.17 -0.34,0.3 -0.06,0.12 -0.09,0.28 -0.07,0.48 0.02,0.19 0.07,0.43 0.16,0.7 0.87,2.84 1.75,5.69 2.63,8.53 0.07,0.27 0.16,0.5 0.26,0.67 0.09,0.17 0.21,0.31 0.35,0.4 0.14,0.1 0.31,0.18 0.52,0.23 0.2,0.05 0.45,0.07 0.74,0.07 z"
+       fill="#ffff00"
+       fill-rule="evenodd"
+       id="path120" />
+    <path
+       d="m 623.16,486.27 c -0.82,0 -1.54,-0.14 -2.15,-0.42 -0.6,-0.29 -1.1,-0.71 -1.5,-1.26 -0.4,-0.55 -0.7,-1.22 -0.89,-1.99 -0.18,-0.78 -0.28,-1.67 -0.28,-2.68 0,-1.73 0.27,-3.1 0.81,-4.12 0.54,-1.03 1.3,-1.54 2.26,-1.54 0.79,0 1.52,0.41 2.19,1.22 0.68,0.82 1.38,2.06 2.12,3.73 v 7.06 z m -42.81,0 c -0.82,0 -1.54,-0.14 -2.14,-0.42 -0.61,-0.29 -1.11,-0.71 -1.51,-1.26 -0.4,-0.55 -0.69,-1.22 -0.88,-1.99 -0.19,-0.78 -0.28,-1.67 -0.28,-2.68 0,-1.73 0.27,-3.1 0.8,-4.12 0.54,-1.03 1.3,-1.54 2.27,-1.54 0.78,0 1.51,0.41 2.19,1.22 0.67,0.82 1.38,2.06 2.11,3.73 v 7.06 z m -43.3,0 c -0.83,0 -1.54,-0.14 -2.15,-0.42 -0.6,-0.29 -1.11,-0.71 -1.5,-1.26 -0.4,-0.55 -0.7,-1.22 -0.89,-1.99 -0.18,-0.78 -0.28,-1.67 -0.28,-2.68 0,-1.73 0.27,-3.1 0.81,-4.12 0.54,-1.03 1.29,-1.54 2.26,-1.54 0.79,0 1.52,0.41 2.19,1.22 0.68,0.82 1.38,2.06 2.12,3.73 v 7.06 z m -132.02,0 c -0.83,0 -1.54,-0.14 -2.15,-0.42 -0.6,-0.29 -1.11,-0.71 -1.51,-1.26 -0.4,-0.55 -0.69,-1.22 -0.88,-1.99 -0.18,-0.78 -0.28,-1.67 -0.28,-2.68 0,-1.73 0.27,-3.1 0.81,-4.12 0.54,-1.03 1.29,-1.54 2.26,-1.54 0.79,0 1.52,0.41 2.19,1.22 0.68,0.82 1.38,2.06 2.12,3.73 v 7.06 z m 260.62,14.67 c -0.9,0 -1.66,-0.32 -2.3,-0.96 -0.65,-0.64 -1.18,-1.55 -1.59,-2.72 -0.42,-1.17 -0.73,-2.55 -0.93,-4.15 -0.2,-1.6 -0.3,-3.35 -0.3,-5.25 0,-1.82 0.08,-3.53 0.25,-5.14 0.16,-1.6 0.44,-2.99 0.82,-4.19 0.39,-1.19 0.9,-2.14 1.55,-2.84 0.65,-0.71 1.46,-1.06 2.42,-1.06 0.88,0 1.65,0.32 2.3,0.96 0.64,0.64 1.18,1.54 1.59,2.7 0.42,1.16 0.72,2.54 0.92,4.14 0.19,1.6 0.29,3.36 0.29,5.28 0,1.8 -0.08,3.5 -0.25,5.1 -0.16,1.6 -0.43,3.01 -0.81,4.21 -0.38,1.21 -0.89,2.16 -1.54,2.87 -0.65,0.7 -1.46,1.05 -2.42,1.05 z m -211.19,0 c -0.89,0 -1.66,-0.32 -2.3,-0.96 -0.64,-0.64 -1.17,-1.55 -1.58,-2.72 -0.42,-1.17 -0.73,-2.55 -0.93,-4.15 -0.2,-1.6 -0.3,-3.35 -0.3,-5.25 0,-1.82 0.08,-3.53 0.24,-5.14 0.17,-1.6 0.44,-2.99 0.83,-4.19 0.38,-1.19 0.9,-2.14 1.55,-2.84 0.65,-0.71 1.45,-1.06 2.42,-1.06 0.88,0 1.64,0.32 2.29,0.96 0.65,0.64 1.18,1.54 1.6,2.7 0.41,1.16 0.72,2.54 0.92,4.14 0.19,1.6 0.29,3.36 0.29,5.28 0,1.8 -0.08,3.5 -0.25,5.1 -0.16,1.6 -0.44,3.01 -0.82,4.21 -0.37,1.21 -0.89,2.16 -1.54,2.87 -0.64,0.7 -1.45,1.05 -2.42,1.05 z m 27.45,0.33 c -0.74,0 -1.4,-0.28 -1.96,-0.85 -0.56,-0.56 -1.03,-1.32 -1.41,-2.25 -0.37,-0.94 -0.67,-2.03 -0.87,-3.27 -0.21,-1.25 -0.33,-2.54 -0.35,-3.9 h 8.92 c 0.04,3.2 -0.31,5.72 -1.05,7.54 -0.74,1.82 -1.83,2.73 -3.28,2.73 z m 169.59,4.25 c 0.3,0 0.55,-0.02 0.74,-0.07 0.2,-0.05 0.35,-0.13 0.46,-0.22 0.1,-0.1 0.18,-0.23 0.23,-0.37 0.05,-0.15 0.07,-0.31 0.07,-0.48 v -33.26 c 0,-0.19 -0.02,-0.36 -0.07,-0.5 -0.05,-0.13 -0.13,-0.25 -0.23,-0.35 -0.11,-0.1 -0.26,-0.17 -0.46,-0.22 -0.19,-0.05 -0.44,-0.07 -0.74,-0.07 -0.29,0 -0.54,0.02 -0.73,0.07 -0.19,0.05 -0.35,0.12 -0.46,0.22 -0.12,0.1 -0.2,0.22 -0.24,0.35 -0.04,0.14 -0.06,0.31 -0.06,0.5 v 33.26 c 0,0.17 0.02,0.33 0.06,0.48 0.04,0.14 0.12,0.27 0.24,0.37 0.11,0.09 0.27,0.17 0.46,0.22 0.19,0.05 0.44,0.07 0.73,0.07 z m -52.19,0 c 0.35,0 0.63,-0.02 0.85,-0.05 0.21,-0.04 0.37,-0.11 0.49,-0.21 0.11,-0.1 0.2,-0.22 0.25,-0.37 0.06,-0.14 0.11,-0.33 0.16,-0.55 1.53,-9.14 3.07,-18.28 4.61,-27.42 0.03,-0.14 0.05,-0.29 0.08,-0.44 0.01,0.15 0.03,0.3 0.05,0.44 l 4.56,27.42 c 0.03,0.22 0.07,0.41 0.13,0.55 0.06,0.15 0.15,0.27 0.26,0.37 0.12,0.1 0.28,0.17 0.47,0.21 0.2,0.03 0.47,0.05 0.8,0.05 0.27,0 0.5,-0.01 0.69,-0.04 0.18,-0.02 0.32,-0.08 0.42,-0.18 0.11,-0.1 0.18,-0.22 0.22,-0.35 0.04,-0.14 0.07,-0.3 0.07,-0.5 0,-0.1 -0.01,-0.2 -0.01,-0.31 -0.01,-0.12 -0.02,-0.23 -0.03,-0.36 -0.01,-0.12 -0.03,-0.25 -0.05,-0.4 -0.01,-0.15 -0.04,-0.31 -0.06,-0.48 l -5.58,-31.59 c -0.05,-0.27 -0.11,-0.5 -0.19,-0.67 -0.08,-0.17 -0.2,-0.31 -0.36,-0.4 -0.15,-0.1 -0.35,-0.17 -0.6,-0.21 -0.24,-0.03 -0.54,-0.05 -0.9,-0.05 -0.37,0 -0.67,0.02 -0.91,0.07 -0.25,0.05 -0.44,0.12 -0.59,0.22 -0.16,0.1 -0.27,0.24 -0.36,0.41 -0.08,0.17 -0.15,0.38 -0.2,0.63 -1.85,10.53 -3.71,21.06 -5.56,31.59 -0.05,0.29 -0.09,0.55 -0.12,0.77 -0.03,0.23 -0.05,0.39 -0.05,0.5 -0.01,0.11 -0.01,0.21 -0.01,0.28 0,0.2 0.02,0.37 0.07,0.52 0.05,0.14 0.13,0.26 0.25,0.35 0.11,0.08 0.26,0.14 0.45,0.16 0.19,0.03 0.42,0.04 0.7,0.04 z m 41.43,0.48 c 0.52,0 1.02,-0.1 1.51,-0.29 0.49,-0.2 0.95,-0.46 1.36,-0.78 0.41,-0.32 0.78,-0.69 1.1,-1.11 0.32,-0.42 0.55,-0.77 0.7,-1.07 0.14,-0.3 0.24,-0.53 0.3,-0.7 0.05,-0.17 0.1,-0.38 0.13,-0.61 0.04,-0.24 0.06,-0.5 0.08,-0.8 0.01,-0.29 0.01,-0.66 0.01,-1.1 0,-0.96 -0.05,-1.64 -0.16,-2.02 -0.11,-0.38 -0.24,-0.57 -0.4,-0.57 -0.18,0 -0.39,0.2 -0.63,0.61 -0.23,0.41 -0.53,0.85 -0.9,1.35 -0.36,0.49 -0.8,0.94 -1.31,1.35 -0.52,0.4 -1.13,0.61 -1.83,0.61 -1.44,0 -2.55,-1.13 -3.32,-3.38 -0.77,-2.26 -1.15,-5.53 -1.15,-9.81 0,-2.15 0.1,-4.03 0.3,-5.64 0.2,-1.61 0.49,-2.96 0.88,-4.04 0.39,-1.09 0.86,-1.9 1.43,-2.43 0.56,-0.52 1.21,-0.79 1.93,-0.79 0.69,0 1.3,0.22 1.82,0.67 0.52,0.44 0.97,0.93 1.35,1.46 0.39,0.52 0.71,1 0.97,1.44 0.26,0.43 0.46,0.64 0.61,0.64 0.08,0 0.15,-0.05 0.21,-0.15 0.07,-0.09 0.12,-0.26 0.16,-0.49 0.04,-0.24 0.07,-0.53 0.09,-0.89 0.02,-0.36 0.03,-0.78 0.03,-1.28 0,-0.41 -0.01,-0.78 -0.02,-1.09 -0.01,-0.3 -0.03,-0.56 -0.06,-0.77 -0.03,-0.21 -0.07,-0.4 -0.11,-0.56 -0.05,-0.16 -0.14,-0.39 -0.29,-0.7 -0.16,-0.31 -0.41,-0.69 -0.78,-1.14 -0.36,-0.46 -0.77,-0.87 -1.22,-1.22 -0.46,-0.36 -0.95,-0.65 -1.49,-0.87 -0.53,-0.22 -1.08,-0.33 -1.65,-0.33 -1.17,0 -2.22,0.39 -3.13,1.18 -0.9,0.79 -1.66,1.94 -2.28,3.45 -0.61,1.52 -1.07,3.38 -1.4,5.58 -0.32,2.21 -0.48,4.75 -0.48,7.63 0,3.28 0.2,6.09 0.59,8.45 0.4,2.35 0.94,4.28 1.62,5.78 0.69,1.5 1.49,2.61 2.42,3.34 0.93,0.73 1.93,1.09 3.01,1.09 z m 45.67,0.04 c 1.09,0 2,-0.38 2.75,-1.13 0.74,-0.75 1.35,-1.75 1.81,-3.01 0.46,-1.26 0.79,-2.73 0.99,-4.41 0.2,-1.69 0.3,-3.72 0.3,-6.08 v -20.29 c 0,-0.19 -0.03,-0.36 -0.08,-0.5 -0.04,-0.13 -0.12,-0.25 -0.23,-0.35 -0.11,-0.1 -0.26,-0.17 -0.46,-0.22 -0.19,-0.05 -0.43,-0.07 -0.72,-0.07 -0.31,0 -0.55,0.02 -0.75,0.07 -0.19,0.05 -0.34,0.12 -0.45,0.22 -0.11,0.1 -0.19,0.22 -0.24,0.35 -0.05,0.14 -0.07,0.31 -0.07,0.5 v 19.47 c 0,1.9 -0.07,3.43 -0.22,4.59 -0.14,1.15 -0.36,2.15 -0.64,2.99 -0.27,0.84 -0.63,1.48 -1.08,1.92 -0.44,0.44 -0.95,0.66 -1.53,0.66 -0.75,0 -1.51,-0.54 -2.26,-1.62 -0.75,-1.08 -1.54,-2.67 -2.36,-4.77 v -23.24 c 0,-0.19 -0.02,-0.36 -0.07,-0.5 -0.05,-0.13 -0.13,-0.25 -0.24,-0.35 -0.11,-0.1 -0.26,-0.17 -0.45,-0.22 -0.2,-0.05 -0.45,-0.07 -0.75,-0.07 -0.29,0 -0.53,0.02 -0.73,0.07 -0.19,0.05 -0.34,0.12 -0.46,0.22 -0.11,0.1 -0.19,0.22 -0.23,0.35 -0.05,0.14 -0.07,0.31 -0.07,0.5 v 33.26 c 0,0.19 0.02,0.36 0.06,0.49 0.03,0.14 0.11,0.26 0.21,0.37 0.11,0.11 0.25,0.19 0.42,0.23 0.17,0.03 0.4,0.05 0.67,0.05 0.27,0 0.49,-0.02 0.67,-0.05 0.17,-0.04 0.31,-0.12 0.41,-0.23 0.09,-0.11 0.16,-0.23 0.21,-0.37 0.04,-0.13 0.06,-0.3 0.06,-0.49 v -4.4 c 0.92,2.09 1.84,3.63 2.75,4.6 0.92,0.97 1.84,1.46 2.78,1.46 z m -20.65,0 c 1.35,0 2.52,-0.41 3.52,-1.22 1,-0.81 1.83,-2 2.5,-3.55 0.67,-1.55 1.17,-3.43 1.5,-5.65 0.33,-2.22 0.5,-4.72 0.5,-7.5 0,-2.71 -0.18,-5.2 -0.53,-7.48 -0.35,-2.28 -0.87,-4.25 -1.57,-5.9 -0.7,-1.65 -1.57,-2.93 -2.62,-3.86 -1.04,-0.92 -2.26,-1.38 -3.64,-1.38 -1.35,0 -2.52,0.4 -3.52,1.22 -1,0.81 -1.83,1.99 -2.5,3.54 -0.66,1.56 -1.16,3.44 -1.49,5.66 -0.32,2.21 -0.49,4.73 -0.49,7.53 0,2.71 0.17,5.21 0.52,7.49 0.35,2.27 0.87,4.24 1.56,5.89 0.7,1.65 1.57,2.93 2.61,3.84 1.04,0.91 2.26,1.37 3.65,1.37 z m -43.51,0 c 1.18,0 2.18,-0.27 3,-0.81 0.82,-0.55 1.49,-1.34 2,-2.39 0.51,-1.04 0.88,-2.34 1.11,-3.9 0.23,-1.55 0.34,-3.36 0.34,-5.43 v -22.42 c 0,-0.3 -0.05,-0.52 -0.14,-0.67 -0.1,-0.15 -0.23,-0.26 -0.4,-0.33 -0.17,-0.08 -0.42,-0.11 -0.75,-0.11 -0.31,0 -0.56,0.03 -0.75,0.11 -0.19,0.07 -0.33,0.18 -0.41,0.33 -0.09,0.15 -0.13,0.37 -0.13,0.67 v 3.32 c -0.71,-1.55 -1.51,-2.76 -2.39,-3.62 -0.88,-0.86 -1.81,-1.29 -2.79,-1.29 -0.86,0 -1.64,0.22 -2.33,0.68 -0.7,0.46 -1.29,1.12 -1.78,1.98 -0.5,0.86 -0.88,1.92 -1.15,3.17 -0.27,1.26 -0.41,2.69 -0.41,4.29 0,1.87 0.19,3.5 0.56,4.88 0.38,1.38 0.92,2.52 1.62,3.43 0.71,0.92 1.57,1.6 2.58,2.05 1.02,0.46 2.17,0.69 3.44,0.69 h 2.25 v 2.58 c 0,1.29 -0.06,2.42 -0.2,3.4 -0.13,0.99 -0.35,1.81 -0.64,2.46 -0.3,0.65 -0.68,1.15 -1.16,1.48 -0.47,0.33 -1.05,0.5 -1.74,0.5 -0.74,0 -1.4,-0.18 -1.99,-0.54 -0.59,-0.36 -1.1,-0.75 -1.55,-1.18 -0.44,-0.43 -0.81,-0.83 -1.11,-1.18 -0.29,-0.36 -0.51,-0.54 -0.66,-0.54 -0.1,0 -0.18,0.05 -0.25,0.15 -0.08,0.1 -0.14,0.25 -0.19,0.44 -0.06,0.2 -0.1,0.45 -0.12,0.76 -0.03,0.31 -0.04,0.65 -0.04,1.02 0,0.61 0.02,1.1 0.06,1.46 0.05,0.35 0.15,0.69 0.31,1.01 0.17,0.32 0.45,0.7 0.85,1.13 0.4,0.43 0.86,0.82 1.38,1.18 0.52,0.36 1.09,0.65 1.71,0.89 0.62,0.23 1.24,0.35 1.87,0.35 z m -42.81,0 c 1.18,0 2.18,-0.27 3,-0.81 0.83,-0.55 1.49,-1.34 2,-2.39 0.51,-1.04 0.88,-2.34 1.11,-3.9 0.23,-1.55 0.35,-3.36 0.35,-5.43 v -22.42 c 0,-0.3 -0.05,-0.52 -0.15,-0.67 -0.1,-0.15 -0.23,-0.26 -0.4,-0.33 -0.17,-0.08 -0.42,-0.11 -0.74,-0.11 -0.32,0 -0.57,0.03 -0.76,0.11 -0.19,0.07 -0.32,0.18 -0.41,0.33 -0.08,0.15 -0.13,0.37 -0.13,0.67 v 3.32 c -0.71,-1.55 -1.51,-2.76 -2.39,-3.62 -0.87,-0.86 -1.8,-1.29 -2.79,-1.29 -0.86,0 -1.63,0.22 -2.33,0.68 -0.7,0.46 -1.29,1.12 -1.78,1.98 -0.49,0.86 -0.87,1.92 -1.15,3.17 -0.27,1.26 -0.41,2.69 -0.41,4.29 0,1.87 0.19,3.5 0.57,4.88 0.37,1.38 0.91,2.52 1.61,3.43 0.71,0.92 1.57,1.6 2.59,2.05 1.01,0.46 2.16,0.69 3.43,0.69 h 2.25 v 2.58 c 0,1.29 -0.06,2.42 -0.2,3.4 -0.13,0.99 -0.34,1.81 -0.64,2.46 -0.3,0.65 -0.68,1.15 -1.15,1.48 -0.48,0.33 -1.06,0.5 -1.75,0.5 -0.74,0 -1.4,-0.18 -1.99,-0.54 -0.59,-0.36 -1.1,-0.75 -1.54,-1.18 -0.45,-0.43 -0.82,-0.83 -1.11,-1.18 -0.3,-0.36 -0.52,-0.54 -0.67,-0.54 -0.09,0 -0.18,0.05 -0.25,0.15 -0.07,0.1 -0.14,0.25 -0.19,0.44 -0.06,0.2 -0.1,0.45 -0.12,0.76 -0.02,0.31 -0.04,0.65 -0.04,1.02 0,0.61 0.02,1.1 0.07,1.46 0.04,0.35 0.14,0.69 0.31,1.01 0.16,0.32 0.44,0.7 0.84,1.13 0.4,0.43 0.86,0.82 1.38,1.18 0.52,0.36 1.09,0.65 1.71,0.89 0.62,0.23 1.24,0.35 1.87,0.35 z m -43.3,0 c 1.17,0 2.17,-0.27 3,-0.81 0.82,-0.55 1.49,-1.34 2,-2.39 0.51,-1.04 0.88,-2.34 1.11,-3.9 0.23,-1.55 0.34,-3.36 0.34,-5.43 v -22.42 c 0,-0.3 -0.05,-0.52 -0.14,-0.67 -0.1,-0.15 -0.23,-0.26 -0.4,-0.33 -0.17,-0.08 -0.42,-0.11 -0.75,-0.11 -0.31,0 -0.57,0.03 -0.75,0.11 -0.19,0.07 -0.33,0.18 -0.41,0.33 -0.09,0.15 -0.13,0.37 -0.13,0.67 v 3.32 c -0.71,-1.55 -1.51,-2.76 -2.39,-3.62 -0.88,-0.86 -1.81,-1.29 -2.79,-1.29 -0.86,0 -1.64,0.22 -2.33,0.68 -0.7,0.46 -1.3,1.12 -1.79,1.98 -0.49,0.86 -0.87,1.92 -1.14,3.17 -0.27,1.26 -0.41,2.69 -0.41,4.29 0,1.87 0.19,3.5 0.56,4.88 0.38,1.38 0.92,2.52 1.62,3.43 0.7,0.92 1.56,1.6 2.58,2.05 1.02,0.46 2.17,0.69 3.44,0.69 h 2.25 v 2.58 c 0,1.29 -0.07,2.42 -0.2,3.4 -0.13,0.99 -0.35,1.81 -0.64,2.46 -0.3,0.65 -0.69,1.15 -1.16,1.48 -0.47,0.33 -1.05,0.5 -1.74,0.5 -0.74,0 -1.41,-0.18 -1.99,-0.54 -0.59,-0.36 -1.11,-0.75 -1.55,-1.18 -0.44,-0.43 -0.81,-0.83 -1.11,-1.18 -0.29,-0.36 -0.51,-0.54 -0.66,-0.54 -0.1,0 -0.18,0.05 -0.25,0.15 -0.08,0.1 -0.14,0.25 -0.2,0.44 -0.05,0.2 -0.09,0.45 -0.11,0.76 -0.03,0.31 -0.04,0.65 -0.04,1.02 0,0.61 0.02,1.1 0.06,1.46 0.05,0.35 0.15,0.69 0.31,1.01 0.17,0.32 0.45,0.7 0.85,1.13 0.4,0.43 0.86,0.82 1.38,1.18 0.52,0.36 1.09,0.65 1.71,0.89 0.62,0.23 1.24,0.35 1.87,0.35 z m -34.12,0 c 1.09,0 2.01,-0.38 2.76,-1.13 0.74,-0.75 1.34,-1.75 1.81,-3.01 0.46,-1.26 0.79,-2.73 0.99,-4.41 0.2,-1.69 0.3,-3.72 0.3,-6.08 v -20.29 c 0,-0.19 -0.03,-0.36 -0.08,-0.5 -0.05,-0.13 -0.12,-0.25 -0.23,-0.35 -0.11,-0.1 -0.26,-0.17 -0.46,-0.22 -0.19,-0.05 -0.43,-0.07 -0.72,-0.07 -0.31,0 -0.56,0.02 -0.75,0.07 -0.19,0.05 -0.35,0.12 -0.45,0.22 -0.11,0.1 -0.19,0.22 -0.24,0.35 -0.05,0.14 -0.07,0.31 -0.07,0.5 v 19.47 c 0,1.9 -0.08,3.43 -0.22,4.59 -0.15,1.15 -0.36,2.15 -0.64,2.99 -0.28,0.84 -0.64,1.48 -1.08,1.92 -0.44,0.44 -0.95,0.66 -1.53,0.66 -0.76,0 -1.51,-0.54 -2.26,-1.62 -0.75,-1.08 -1.54,-2.67 -2.36,-4.77 v -23.24 c 0,-0.19 -0.03,-0.36 -0.07,-0.5 -0.05,-0.13 -0.13,-0.25 -0.24,-0.35 -0.11,-0.1 -0.26,-0.17 -0.45,-0.22 -0.2,-0.05 -0.45,-0.07 -0.75,-0.07 -0.29,0 -0.53,0.02 -0.73,0.07 -0.19,0.05 -0.35,0.12 -0.46,0.22 -0.12,0.1 -0.19,0.22 -0.24,0.35 -0.04,0.14 -0.06,0.31 -0.06,0.5 v 33.26 c 0,0.19 0.02,0.36 0.05,0.49 0.04,0.14 0.11,0.26 0.22,0.37 0.11,0.11 0.25,0.19 0.42,0.23 0.17,0.03 0.39,0.05 0.67,0.05 0.27,0 0.49,-0.02 0.67,-0.05 0.17,-0.04 0.31,-0.12 0.4,-0.23 0.1,-0.11 0.17,-0.23 0.21,-0.37 0.05,-0.13 0.07,-0.3 0.07,-0.49 v -4.4 c 0.92,2.09 1.84,3.63 2.75,4.6 0.92,0.97 1.84,1.46 2.77,1.46 z m -19.96,0 c 1.29,0 2.38,-0.42 3.28,-1.26 0.91,-0.84 1.65,-1.96 2.23,-3.38 0.58,-1.41 1.01,-3.08 1.28,-4.99 0.27,-1.91 0.41,-3.94 0.41,-6.11 v -1.11 c 0,-0.96 -0.12,-1.64 -0.36,-2.05 -0.23,-0.41 -0.5,-0.61 -0.81,-0.61 h -10.77 c 0,-1.85 0.09,-3.51 0.27,-4.99 0.19,-1.48 0.49,-2.74 0.92,-3.8 0.42,-1.06 0.98,-1.88 1.66,-2.44 0.68,-0.57 1.51,-0.85 2.5,-0.85 0.78,0 1.47,0.13 2.08,0.39 0.61,0.25 1.14,0.54 1.58,0.86 0.45,0.32 0.81,0.61 1.1,0.87 0.28,0.26 0.5,0.39 0.65,0.39 0.08,0 0.16,-0.04 0.22,-0.13 0.07,-0.08 0.12,-0.21 0.16,-0.39 0.04,-0.17 0.06,-0.41 0.08,-0.72 0.02,-0.31 0.03,-0.68 0.03,-1.12 0,-0.32 -0.01,-0.6 -0.02,-0.84 -0.01,-0.23 -0.03,-0.44 -0.04,-0.62 -0.02,-0.19 -0.05,-0.35 -0.09,-0.5 -0.05,-0.15 -0.1,-0.29 -0.17,-0.43 -0.06,-0.13 -0.26,-0.35 -0.59,-0.66 -0.33,-0.31 -0.75,-0.61 -1.27,-0.91 -0.52,-0.29 -1.13,-0.56 -1.81,-0.79 -0.68,-0.24 -1.41,-0.35 -2.19,-0.35 -1.34,0 -2.52,0.38 -3.54,1.14 -1.01,0.77 -1.86,1.9 -2.55,3.4 -0.69,1.5 -1.21,3.39 -1.56,5.65 -0.35,2.27 -0.53,4.91 -0.53,7.91 0,2.86 0.18,5.43 0.55,7.71 0.36,2.27 0.88,4.21 1.57,5.8 0.68,1.58 1.51,2.8 2.48,3.65 0.97,0.85 2.05,1.28 3.25,1.28 z m -27.48,0 c 1.35,0 2.52,-0.41 3.52,-1.22 1,-0.81 1.83,-2 2.5,-3.55 0.66,-1.55 1.16,-3.43 1.5,-5.65 0.33,-2.22 0.5,-4.72 0.5,-7.5 0,-2.71 -0.18,-5.2 -0.53,-7.48 -0.35,-2.28 -0.88,-4.25 -1.57,-5.9 -0.7,-1.65 -1.57,-2.93 -2.62,-3.86 -1.05,-0.92 -2.26,-1.38 -3.64,-1.38 -1.35,0 -2.52,0.4 -3.52,1.22 -1,0.81 -1.83,1.99 -2.5,3.54 -0.67,1.56 -1.16,3.44 -1.49,5.66 -0.33,2.21 -0.49,4.73 -0.49,7.53 0,2.71 0.17,5.21 0.52,7.49 0.34,2.27 0.86,4.24 1.56,5.89 0.7,1.65 1.57,2.93 2.61,3.84 1.04,0.91 2.26,1.37 3.65,1.37 z m -30.23,0 c 1.09,0 2.01,-0.38 2.75,-1.13 0.75,-0.75 1.35,-1.75 1.81,-3.01 0.46,-1.26 0.79,-2.73 0.99,-4.41 0.2,-1.69 0.3,-3.72 0.3,-6.08 v -20.29 c 0,-0.19 -0.02,-0.36 -0.07,-0.5 -0.05,-0.13 -0.13,-0.25 -0.24,-0.35 -0.11,-0.1 -0.26,-0.17 -0.45,-0.22 -0.2,-0.05 -0.44,-0.07 -0.73,-0.07 -0.3,0 -0.55,0.02 -0.74,0.07 -0.2,0.05 -0.35,0.12 -0.46,0.22 -0.11,0.1 -0.19,0.22 -0.23,0.35 -0.05,0.14 -0.08,0.31 -0.08,0.5 v 19.47 c 0,1.9 -0.07,3.43 -0.22,4.59 -0.14,1.15 -0.35,2.15 -0.63,2.99 -0.28,0.84 -0.64,1.48 -1.08,1.92 -0.45,0.44 -0.96,0.66 -1.54,0.66 -0.75,0 -1.5,-0.54 -2.25,-1.62 -0.75,-1.08 -1.54,-2.67 -2.37,-4.77 v -23.24 c 0,-0.19 -0.02,-0.36 -0.07,-0.5 -0.05,-0.13 -0.13,-0.25 -0.23,-0.35 -0.11,-0.1 -0.26,-0.17 -0.46,-0.22 -0.19,-0.05 -0.44,-0.07 -0.74,-0.07 -0.29,0 -0.54,0.02 -0.73,0.07 -0.19,0.05 -0.35,0.12 -0.46,0.22 -0.12,0.1 -0.2,0.22 -0.24,0.35 -0.04,0.14 -0.06,0.31 -0.06,0.5 v 33.26 c 0,0.19 0.01,0.36 0.05,0.49 0.04,0.14 0.11,0.26 0.22,0.37 0.11,0.11 0.25,0.19 0.42,0.23 0.17,0.03 0.39,0.05 0.67,0.05 0.27,0 0.49,-0.02 0.66,-0.05 0.18,-0.04 0.31,-0.12 0.41,-0.23 0.1,-0.11 0.17,-0.23 0.21,-0.37 0.04,-0.13 0.06,-0.3 0.06,-0.49 v -4.4 c 0.92,2.09 1.84,3.63 2.76,4.6 0.91,0.97 1.84,1.46 2.77,1.46 z m -20.23,0 c 1.17,0 2.17,-0.27 3,-0.81 0.82,-0.55 1.49,-1.34 2,-2.39 0.51,-1.04 0.88,-2.34 1.11,-3.9 0.23,-1.55 0.34,-3.36 0.34,-5.43 v -22.42 c 0,-0.3 -0.05,-0.52 -0.14,-0.67 -0.1,-0.15 -0.23,-0.26 -0.4,-0.33 -0.17,-0.08 -0.42,-0.11 -0.75,-0.11 -0.31,0 -0.57,0.03 -0.75,0.11 -0.19,0.07 -0.33,0.18 -0.41,0.33 -0.09,0.15 -0.13,0.37 -0.13,0.67 v 3.32 c -0.71,-1.55 -1.51,-2.76 -2.39,-3.62 -0.88,-0.86 -1.81,-1.29 -2.79,-1.29 -0.86,0 -1.64,0.22 -2.34,0.68 -0.69,0.46 -1.29,1.12 -1.78,1.98 -0.49,0.86 -0.87,1.92 -1.14,3.17 -0.27,1.26 -0.41,2.69 -0.41,4.29 0,1.87 0.19,3.5 0.56,4.88 0.38,1.38 0.92,2.52 1.62,3.43 0.7,0.92 1.56,1.6 2.58,2.05 1.02,0.46 2.16,0.69 3.44,0.69 h 2.25 v 2.58 c 0,1.29 -0.07,2.42 -0.2,3.4 -0.13,0.99 -0.35,1.81 -0.64,2.46 -0.3,0.65 -0.69,1.15 -1.16,1.48 -0.47,0.33 -1.05,0.5 -1.74,0.5 -0.74,0 -1.41,-0.18 -1.99,-0.54 -0.59,-0.36 -1.11,-0.75 -1.55,-1.18 -0.44,-0.43 -0.81,-0.83 -1.11,-1.18 -0.29,-0.36 -0.52,-0.54 -0.66,-0.54 -0.1,0 -0.18,0.05 -0.26,0.15 -0.07,0.1 -0.13,0.25 -0.19,0.44 -0.05,0.2 -0.09,0.45 -0.11,0.76 -0.03,0.31 -0.04,0.65 -0.04,1.02 0,0.61 0.02,1.1 0.06,1.46 0.05,0.35 0.15,0.69 0.31,1.01 0.17,0.32 0.45,0.7 0.85,1.13 0.4,0.43 0.86,0.82 1.38,1.18 0.52,0.36 1.09,0.65 1.71,0.89 0.61,0.23 1.24,0.35 1.87,0.35 z m 33.43,8.39 c 0.3,0 0.55,-0.03 0.74,-0.08 0.2,-0.05 0.35,-0.13 0.46,-0.24 0.11,-0.11 0.18,-0.24 0.23,-0.39 0.05,-0.14 0.08,-0.3 0.08,-0.48 v -7.9 h 4.19 c 0.1,0 0.19,-0.05 0.26,-0.13 0.07,-0.09 0.14,-0.24 0.19,-0.45 0.05,-0.21 0.09,-0.47 0.12,-0.79 0.02,-0.32 0.03,-0.71 0.03,-1.18 0,-0.89 -0.05,-1.53 -0.16,-1.92 -0.11,-0.4 -0.25,-0.6 -0.44,-0.6 h -4.19 v -18.54 c 0,-2.29 0.16,-4.02 0.5,-5.19 0.33,-1.17 0.93,-1.76 1.79,-1.76 0.27,0 0.52,0.06 0.74,0.17 0.22,0.11 0.41,0.22 0.58,0.35 0.17,0.12 0.32,0.24 0.44,0.35 0.12,0.11 0.23,0.17 0.33,0.17 0.06,0 0.11,-0.04 0.17,-0.1 0.05,-0.06 0.1,-0.18 0.13,-0.35 0.03,-0.17 0.05,-0.4 0.08,-0.7 0.02,-0.3 0.03,-0.67 0.03,-1.11 0,-0.71 -0.02,-1.28 -0.07,-1.7 -0.05,-0.42 -0.12,-0.72 -0.22,-0.92 -0.09,-0.2 -0.24,-0.38 -0.43,-0.56 -0.2,-0.17 -0.42,-0.31 -0.67,-0.42 -0.24,-0.11 -0.51,-0.2 -0.79,-0.28 -0.28,-0.07 -0.55,-0.11 -0.83,-0.11 -0.85,0 -1.58,0.23 -2.18,0.68 -0.61,0.46 -1.11,1.15 -1.49,2.07 -0.39,0.93 -0.67,2.1 -0.85,3.51 -0.18,1.42 -0.26,3.09 -0.26,5.01 v 19.43 h -2.29 c -0.19,0 -0.33,0.2 -0.44,0.6 -0.11,0.39 -0.16,1.03 -0.16,1.92 0,0.47 0.01,0.86 0.04,1.18 0.03,0.32 0.07,0.58 0.12,0.79 0.05,0.21 0.11,0.36 0.19,0.45 0.08,0.08 0.17,0.13 0.26,0.13 h 2.28 v 7.9 c 0,0.18 0.02,0.34 0.06,0.48 0.04,0.15 0.12,0.28 0.24,0.39 0.11,0.11 0.27,0.19 0.46,0.24 0.19,0.05 0.44,0.08 0.73,0.08 z m 125.13,4.28 c 0.52,0 1.05,-0.09 1.58,-0.28 0.52,-0.18 1.02,-0.43 1.49,-0.73 0.46,-0.31 0.88,-0.66 1.24,-1.04 0.36,-0.38 0.6,-0.69 0.72,-0.92 0.11,-0.24 0.19,-0.42 0.23,-0.56 0.03,-0.13 0.06,-0.3 0.09,-0.51 0.02,-0.21 0.04,-0.47 0.05,-0.76 0.01,-0.3 0.02,-0.68 0.02,-1.15 0,-0.44 -0.01,-0.83 -0.03,-1.18 -0.02,-0.34 -0.04,-0.63 -0.08,-0.87 -0.04,-0.23 -0.09,-0.4 -0.15,-0.51 -0.07,-0.12 -0.15,-0.17 -0.23,-0.17 -0.13,0 -0.34,0.17 -0.63,0.52 -0.28,0.34 -0.63,0.73 -1.04,1.16 -0.41,0.43 -0.9,0.83 -1.47,1.18 -0.56,0.36 -1.19,0.54 -1.9,0.54 -0.65,0 -1.22,-0.18 -1.7,-0.54 -0.49,-0.35 -0.89,-0.83 -1.2,-1.42 -0.32,-0.59 -0.55,-1.29 -0.71,-2.11 -0.16,-0.81 -0.24,-1.67 -0.24,-2.58 0,-1.33 0.15,-2.48 0.46,-3.44 0.3,-0.96 0.7,-1.81 1.2,-2.55 0.51,-0.74 1.08,-1.41 1.72,-2.03 0.64,-0.62 1.3,-1.24 1.97,-1.87 0.66,-0.62 1.32,-1.31 1.96,-2.07 0.64,-0.75 1.21,-1.63 1.72,-2.66 0.5,-1.02 0.9,-2.22 1.21,-3.62 0.31,-1.39 0.47,-3.03 0.47,-4.93 0,-2.24 -0.21,-4.24 -0.61,-5.98 -0.41,-1.75 -0.97,-3.24 -1.69,-4.46 -0.72,-1.22 -1.57,-2.13 -2.55,-2.75 -0.97,-0.62 -2.02,-0.92 -3.15,-0.92 -0.79,0 -1.52,0.13 -2.19,0.4 -0.67,0.27 -1.27,0.61 -1.8,1 -0.53,0.4 -0.97,0.8 -1.33,1.22 -0.35,0.42 -0.6,0.78 -0.74,1.07 -0.14,0.3 -0.24,0.67 -0.31,1.13 -0.07,0.45 -0.1,1.06 -0.1,1.83 0,0.54 0.01,0.99 0.04,1.35 0.02,0.35 0.06,0.64 0.1,0.86 0.05,0.23 0.11,0.38 0.19,0.47 0.07,0.08 0.15,0.13 0.25,0.13 0.17,0 0.41,-0.21 0.72,-0.63 0.31,-0.42 0.7,-0.88 1.19,-1.37 0.48,-0.49 1.07,-0.95 1.75,-1.39 0.69,-0.43 1.48,-0.64 2.38,-0.64 0.67,0 1.29,0.18 1.86,0.55 0.56,0.37 1.05,0.9 1.45,1.57 0.41,0.68 0.72,1.51 0.94,2.5 0.22,0.98 0.33,2.1 0.33,3.36 0,1.35 -0.16,2.51 -0.46,3.47 -0.3,0.96 -0.7,1.81 -1.2,2.53 -0.5,0.73 -1.06,1.39 -1.7,2 -0.63,0.6 -1.29,1.22 -1.95,1.85 -0.67,0.62 -1.32,1.32 -1.95,2.08 -0.63,0.77 -1.19,1.67 -1.69,2.7 -0.49,1.04 -0.9,2.25 -1.21,3.64 -0.3,1.39 -0.46,3.06 -0.46,5.01 0,1.99 0.18,3.77 0.54,5.34 0.35,1.56 0.85,2.87 1.49,3.93 0.63,1.06 1.39,1.87 2.27,2.42 0.88,0.55 1.83,0.83 2.84,0.83 z m -175.32,0 c 0.52,0 1.04,-0.09 1.57,-0.28 0.53,-0.18 1.03,-0.43 1.49,-0.73 0.47,-0.31 0.88,-0.66 1.25,-1.04 0.36,-0.38 0.6,-0.69 0.72,-0.92 0.11,-0.24 0.19,-0.42 0.22,-0.56 0.04,-0.13 0.07,-0.3 0.09,-0.51 0.03,-0.21 0.05,-0.47 0.06,-0.76 0.01,-0.3 0.02,-0.68 0.02,-1.15 0,-0.44 -0.01,-0.83 -0.03,-1.18 -0.02,-0.34 -0.05,-0.63 -0.08,-0.87 -0.04,-0.23 -0.09,-0.4 -0.16,-0.51 -0.06,-0.12 -0.14,-0.17 -0.22,-0.17 -0.14,0 -0.35,0.17 -0.63,0.52 -0.29,0.34 -0.64,0.73 -1.05,1.16 -0.41,0.43 -0.9,0.83 -1.46,1.18 -0.56,0.36 -1.2,0.54 -1.9,0.54 -0.65,0 -1.22,-0.18 -1.71,-0.54 -0.48,-0.35 -0.88,-0.83 -1.2,-1.42 -0.31,-0.59 -0.55,-1.29 -0.71,-2.11 -0.15,-0.81 -0.23,-1.67 -0.23,-2.58 0,-1.33 0.15,-2.48 0.45,-3.44 0.3,-0.96 0.71,-1.81 1.21,-2.55 0.5,-0.74 1.08,-1.41 1.72,-2.03 0.64,-0.62 1.29,-1.24 1.96,-1.87 0.67,-0.62 1.32,-1.31 1.96,-2.07 0.65,-0.75 1.22,-1.63 1.72,-2.66 0.5,-1.02 0.91,-2.22 1.22,-3.62 0.31,-1.39 0.46,-3.03 0.46,-4.93 0,-2.24 -0.2,-4.24 -0.61,-5.98 -0.4,-1.75 -0.97,-3.24 -1.69,-4.46 -0.72,-1.22 -1.57,-2.13 -2.54,-2.75 -0.98,-0.62 -2.03,-0.92 -3.15,-0.92 -0.79,0 -1.52,0.13 -2.19,0.4 -0.68,0.27 -1.28,0.61 -1.8,1 -0.53,0.4 -0.97,0.8 -1.33,1.22 -0.36,0.42 -0.61,0.78 -0.75,1.07 -0.14,0.3 -0.24,0.67 -0.31,1.13 -0.06,0.45 -0.1,1.06 -0.1,1.83 0,0.54 0.02,0.99 0.04,1.35 0.03,0.35 0.06,0.64 0.11,0.86 0.05,0.23 0.11,0.38 0.18,0.47 0.07,0.08 0.16,0.13 0.26,0.13 0.17,0 0.41,-0.21 0.71,-0.63 0.31,-0.42 0.71,-0.88 1.19,-1.37 0.49,-0.49 1.07,-0.95 1.76,-1.39 0.68,-0.43 1.47,-0.64 2.37,-0.64 0.68,0 1.3,0.18 1.86,0.55 0.57,0.37 1.05,0.9 1.46,1.57 0.4,0.68 0.72,1.51 0.93,2.5 0.22,0.98 0.33,2.1 0.33,3.36 0,1.35 -0.15,2.51 -0.45,3.47 -0.31,0.96 -0.71,1.81 -1.2,2.53 -0.5,0.73 -1.07,1.39 -1.7,2 -0.64,0.6 -1.29,1.22 -1.96,1.85 -0.66,0.62 -1.31,1.32 -1.94,2.08 -0.63,0.77 -1.19,1.67 -1.69,2.7 -0.5,1.04 -0.9,2.25 -1.21,3.64 -0.31,1.39 -0.46,3.06 -0.46,5.01 0,1.99 0.18,3.77 0.53,5.34 0.36,1.56 0.86,2.87 1.49,3.93 0.64,1.06 1.4,1.87 2.27,2.42 0.88,0.55 1.83,0.83 2.85,0.83 z m 264.15,0.52 c 0.71,0 1.19,-0.25 1.45,-0.76 0.26,-0.5 0.39,-1.46 0.39,-2.86 0,-1.43 -0.13,-2.4 -0.4,-2.92 -0.27,-0.52 -0.76,-0.78 -1.47,-0.78 -0.71,0 -1.19,0.26 -1.45,0.76 -0.26,0.51 -0.39,1.46 -0.39,2.86 0,1.43 0.14,2.41 0.4,2.92 0.27,0.52 0.76,0.78 1.47,0.78 z m -58.58,2.44 c 0.3,0 0.55,-0.03 0.75,-0.08 0.19,-0.05 0.34,-0.12 0.45,-0.22 0.11,-0.1 0.19,-0.22 0.24,-0.37 0.04,-0.15 0.07,-0.32 0.07,-0.51 v -49.37 c 0,-0.19 -0.03,-0.36 -0.07,-0.5 -0.05,-0.13 -0.13,-0.25 -0.24,-0.35 -0.11,-0.1 -0.26,-0.17 -0.45,-0.22 -0.2,-0.05 -0.45,-0.07 -0.75,-0.07 -0.29,0 -0.53,0.02 -0.73,0.07 -0.19,0.05 -0.34,0.12 -0.46,0.22 -0.12,0.1 -0.19,0.22 -0.24,0.35 -0.04,0.14 -0.06,0.31 -0.06,0.5 v 49.37 c 0,0.19 0.02,0.36 0.06,0.51 0.05,0.15 0.12,0.27 0.24,0.37 0.12,0.1 0.27,0.17 0.46,0.22 0.2,0.05 0.44,0.08 0.73,0.08 z m -69.73,0 c 0.3,0 0.55,-0.03 0.74,-0.08 0.2,-0.05 0.35,-0.12 0.46,-0.22 0.11,-0.1 0.19,-0.22 0.23,-0.37 0.05,-0.15 0.08,-0.32 0.08,-0.51 v -49.37 c 0,-0.19 -0.03,-0.36 -0.08,-0.5 -0.04,-0.13 -0.12,-0.25 -0.23,-0.35 -0.11,-0.1 -0.26,-0.17 -0.46,-0.22 -0.19,-0.05 -0.44,-0.07 -0.74,-0.07 -0.29,0 -0.54,0.02 -0.73,0.07 -0.19,0.05 -0.35,0.12 -0.46,0.22 -0.12,0.1 -0.2,0.22 -0.24,0.35 -0.04,0.14 -0.06,0.31 -0.06,0.5 v 49.37 c 0,0.19 0.02,0.36 0.06,0.51 0.04,0.15 0.12,0.27 0.24,0.37 0.11,0.1 0.27,0.17 0.46,0.22 0.19,0.05 0.44,0.08 0.73,0.08 z M 668.96,522 c 0.34,0 0.62,-0.04 0.83,-0.13 0.21,-0.09 0.36,-0.21 0.45,-0.37 0.08,-0.16 0.12,-0.34 0.1,-0.55 -0.01,-0.21 -0.06,-0.43 -0.16,-0.65 -1.1,-2.87 -2.19,-5.74 -3.29,-8.61 -0.1,-0.24 -0.18,-0.44 -0.26,-0.59 -0.08,-0.15 -0.17,-0.26 -0.27,-0.35 -0.11,-0.09 -0.24,-0.15 -0.4,-0.19 -0.17,-0.03 -0.37,-0.05 -0.61,-0.05 -0.27,0 -0.48,0.04 -0.64,0.11 -0.16,0.07 -0.27,0.17 -0.34,0.3 -0.06,0.12 -0.09,0.28 -0.07,0.48 0.02,0.19 0.07,0.43 0.16,0.7 0.87,2.84 1.75,5.69 2.63,8.53 0.07,0.27 0.16,0.5 0.26,0.67 0.09,0.17 0.21,0.31 0.35,0.4 0.14,0.1 0.31,0.18 0.52,0.23 0.2,0.05 0.45,0.07 0.74,0.07 z"
+       fill="none"
+       stroke="#ffffff"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="0.96"
+       id="path122" />
+    <g
+       id="g130">
+      <g
+         clip-path="url(#clipPath248)"
+         id="g128">
+        <text
+           transform="matrix(1,0,0,-1,7.248,5.016)"
+           fill="#000000"
+           font-family="'Times New Roman'"
+           font-size="6px"
+           xml:space="preserve"
+           id="text126"><tspan
+             x="0 3.96 5.5139999 9.474 11.028 12.468 17.988001 20.628 22.662001 25.662001 27.216"
+             y="0"
+             id="tspan124">R.C. Ward, </tspan></text>
+      </g>
+    </g>
+    <g
+       id="g138">
+      <g
+         clip-path="url(#clipPath260)"
+         id="g136">
+        <text
+           transform="matrix(1,0,0,-1,36.048,5.016)"
+           fill="#000000"
+           font-family="'Times New Roman'"
+           font-size="6px"
+           xml:space="preserve"
+           id="text134"><tspan
+             x="0 2.28 4.9200001 7.8000002 10.8 13.44 15.474"
+             y="0"
+             id="tspan132">January</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g146">
+      <g
+         clip-path="url(#clipPath272)"
+         id="g144">
+        <text
+           transform="matrix(1,0,0,-1,56.088,5.016)"
+           fill="#000000"
+           font-family="'Times New Roman'"
+           font-size="6px"
+           xml:space="preserve"
+           id="text142"><tspan
+             x="0 3 6 9"
+             y="0"
+             id="tspan140">2005</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g664"
+       style="display:inline"
+       inkscape:label="ap1"
+       class="fragment"
+       data-fragment-index="1">
+      <path
+         d="m 33.48,348 h 113.44 c 5.69,0 10.31,1.09 10.31,2.44 0,1.34 -4.62,2.43 -10.31,2.43 h -20.63 c -5.69,0 -10.31,1.1 -10.31,2.44 0,1.35 4.62,2.44 10.31,2.44 h 144.38 c 5.69,0 10.31,-1.09 10.31,-2.44 0,-1.34 -4.62,-2.44 -10.31,-2.44 h -20.63 c -5.69,0 -10.31,-1.09 -10.31,-2.43 0,-1.35 4.62,-2.44 10.31,-2.44 h 113.44 l -41.25,34.13 41.25,34.12 h -82.5 v 7.31 c 0,1.35 -4.62,2.44 -10.31,2.44 H 126.29 c -5.69,0 -10.31,-1.09 -10.31,-2.44 v -7.31 h -82.5 l 41.25,-34.12 z"
+         fill="#ffff00"
+         fill-rule="evenodd"
+         id="path148" />
+      <path
+         d="m 33.48,348 41.25,34.13 -41.25,34.12 h 82.5 v 7.31 c 0,1.35 4.62,2.44 10.31,2.44 h 144.38 c 5.69,0 10.31,-1.09 10.31,-2.44 v -7.31 h 82.5 L 322.23,382.13 363.48,348 H 250.04 c -5.69,0 -10.31,1.09 -10.31,2.44 0,1.34 4.62,2.43 10.31,2.43 h 20.63 c 5.69,0 10.31,1.1 10.31,2.44 0,1.35 -4.62,2.44 -10.31,2.44 H 126.29 c -5.69,0 -10.31,-1.09 -10.31,-2.44 0,-1.34 4.62,-2.44 10.31,-2.44 h 20.63 c 5.69,0 10.31,-1.09 10.31,-2.43 0,-1.35 -4.62,-2.44 -10.31,-2.44 z m 123.75,9.75 v -7.31 m 82.5,0 v 7.31 m -123.75,-2.44 v 60.94 m 165,0 v -60.94"
+         fill="none"
+         stroke="#000000"
+         stroke-linejoin="round"
+         stroke-miterlimit="10"
+         stroke-width="0.75"
+         id="path152" />
+      <path
+         d="m 157.23,350.44 c 0,1.34 -4.62,2.43 -10.31,2.43 h -20.63 c -5.69,0 -10.31,1.1 -10.31,2.44 0,1.35 4.62,2.44 10.31,2.44 h 30.94 z m 82.5,0 c 0,1.34 4.62,2.43 10.31,2.43 h 20.63 c 5.69,0 10.31,1.1 10.31,2.44 0,1.35 -4.62,2.44 -10.31,2.44 h -30.94 z"
+         fill="#cdcd00"
+         fill-rule="evenodd"
+         id="path150" />
+      <g
+         id="g160">
+        <g
+           clip-path="url(#clipPath290)"
+           id="g158">
+          <text
+             transform="matrix(1,0,0,-1,137.3,402.84)"
+             fill="#000000"
+             font-family="Calibri"
+             font-size="27.984px"
+             font-weight="bold"
+             xml:space="preserve"
+             id="text156"><tspan
+               x="0 14.803536 29.746992 44.382626 57.339214 71.415169 86.442574 98.139885 112.21584"
+               y="0"
+               id="tspan154">Convencer</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g168">
+        <g
+           clip-path="url(#clipPath302)"
+           id="g166">
+          <text
+             transform="matrix(1,0,0,-1,125.78,369.22)"
+             fill="#000000"
+             font-family="Calibri"
+             font-size="27.96px"
+             font-style="italic"
+             xml:space="preserve"
+             id="text164"><tspan
+               x="0 8.91924 23.29068 37.662121 52.033562 58.35252 72.528236 86.703957 94.085403"
+               y="0"
+               id="tspan162">Juan 16:7</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g176">
+        <g
+           clip-path="url(#clipPath314)"
+           id="g174">
+          <text
+             transform="matrix(1,0,0,-1,234.05,369.22)"
+             fill="#000000"
+             font-family="Calibri"
+             font-size="27.96px"
+             font-style="italic"
+             xml:space="preserve"
+             id="text172"><tspan
+               x="0"
+               y="0"
+               id="tspan170">-</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g184">
+        <g
+           clip-path="url(#clipPath326)"
+           id="g182">
+          <text
+             transform="matrix(1,0,0,-1,242.57,369.22)"
+             fill="#000000"
+             font-family="Calibri"
+             font-size="27.96px"
+             font-style="italic"
+             xml:space="preserve"
+             id="text180"><tspan
+               x="0 14.27972"
+               y="0"
+               id="tspan178">11</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g679"
+       style="display:inline"
+       inkscape:label="ap2"
+       class="fragment"
+       data-fragment-index="2">
+      <path
+         d="m 377.52,348 h 113.44 c 5.69,0 10.31,1.09 10.31,2.44 0,1.34 -4.62,2.43 -10.31,2.43 h -20.63 c -5.69,0 -10.31,1.1 -10.31,2.44 0,1.35 4.62,2.44 10.31,2.44 h 144.38 c 5.69,0 10.31,-1.09 10.31,-2.44 0,-1.34 -4.62,-2.44 -10.31,-2.44 h -20.63 c -5.69,0 -10.31,-1.09 -10.31,-2.43 0,-1.35 4.62,-2.44 10.31,-2.44 h 113.44 l -41.25,34.13 41.25,34.12 h -82.5 v 7.31 c 0,1.35 -4.62,2.44 -10.31,2.44 H 470.33 c -5.69,0 -10.31,-1.09 -10.31,-2.44 v -7.31 h -82.5 l 41.25,-34.12 z"
+         fill="#ffff00"
+         fill-rule="evenodd"
+         id="path186" />
+      <path
+         d="m 501.27,350.44 c 0,1.34 -4.62,2.43 -10.31,2.43 h -20.63 c -5.69,0 -10.31,1.1 -10.31,2.44 0,1.35 4.62,2.44 10.31,2.44 h 30.94 z m 82.5,0 c 0,1.34 4.62,2.43 10.31,2.43 h 20.63 c 5.69,0 10.31,1.1 10.31,2.44 0,1.35 -4.62,2.44 -10.31,2.44 h -30.94 z"
+         fill="#cdcd00"
+         fill-rule="evenodd"
+         id="path188" />
+      <path
+         d="m 377.52,348 41.25,34.13 -41.25,34.12 h 82.5 v 7.31 c 0,1.35 4.62,2.44 10.31,2.44 h 144.38 c 5.69,0 10.31,-1.09 10.31,-2.44 v -7.31 h 82.5 L 666.27,382.13 707.52,348 H 594.08 c -5.69,0 -10.31,1.09 -10.31,2.44 0,1.34 4.62,2.43 10.31,2.43 h 20.63 c 5.69,0 10.31,1.1 10.31,2.44 0,1.35 -4.62,2.44 -10.31,2.44 H 470.33 c -5.69,0 -10.31,-1.09 -10.31,-2.44 0,-1.34 4.62,-2.44 10.31,-2.44 h 20.63 c 5.69,0 10.31,-1.09 10.31,-2.43 0,-1.35 -4.62,-2.44 -10.31,-2.44 z m 123.75,9.75 v -7.31 m 82.5,0 v 7.31 m -123.75,-2.44 v 60.94 m 165,0 v -60.94"
+         fill="none"
+         stroke="#000000"
+         stroke-linejoin="round"
+         stroke-miterlimit="10"
+         stroke-width="0.75"
+         id="path190" />
+      <g
+         id="g198">
+        <g
+           clip-path="url(#clipPath344)"
+           id="g196">
+          <text
+             transform="matrix(1,0,0,-1,483.24,402.84)"
+             fill="#000000"
+             font-family="Calibri"
+             font-size="27.984px"
+             font-weight="bold"
+             xml:space="preserve"
+             id="text194"><tspan
+               x="0 15.363216 29.439169 42.367775 56.443729 71.471138 85.43515 94.781807 108.6059"
+               y="0"
+               id="tspan192">Regenerar</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g206"
+         inkscape:label="g206">
+        <g
+           clip-path="url(#clipPath356)"
+           id="g204">
+          <text
+             transform="matrix(1,0,0,-1,499.8,369.22)"
+             fill="#000000"
+             font-family="Calibri"
+             font-size="27.96px"
+             font-style="italic"
+             xml:space="preserve"
+             id="text202"><tspan
+               x="0 13.61652 20.047319 29.05044 43.393921 49.768799 63.944519 71.437798"
+               y="0"
+               id="tspan200">Tito 3:5</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g699"
+       style="display:inline"
+       inkscape:label="ap3"
+       class="fragment"
+       data-fragment-index="3">
+      <path
+         d="m 151.59,200.44 c 0,1.34 -4.62,2.44 -10.31,2.44 h -20.63 c -5.69,0 -10.31,1.09 -10.31,2.43 0,1.35 4.62,2.44 10.31,2.44 h 30.94 z m 82.5,0 c 0,1.34 4.62,2.44 10.31,2.44 h 20.63 c 5.69,0 10.31,1.09 10.31,2.43 0,1.35 -4.62,2.44 -10.31,2.44 h -30.94 z"
+         fill="#cdcd00"
+         fill-rule="evenodd"
+         id="path210" />
+      <path
+         d="m 27.84,198 h 113.44 c 5.69,0 10.31,1.09 10.31,2.44 0,1.34 -4.62,2.44 -10.31,2.44 h -20.63 c -5.69,0 -10.31,1.09 -10.31,2.43 0,1.35 4.62,2.44 10.31,2.44 h 144.38 c 5.69,0 10.31,-1.09 10.31,-2.44 0,-1.34 -4.62,-2.43 -10.31,-2.43 H 244.4 c -5.69,0 -10.31,-1.1 -10.31,-2.44 0,-1.35 4.62,-2.44 10.31,-2.44 h 113.44 l -41.25,34.13 41.25,34.12 h -82.5 v 7.31 c 0,1.35 -4.62,2.44 -10.31,2.44 H 120.65 c -5.69,0 -10.31,-1.09 -10.31,-2.44 v -7.31 h -82.5 l 41.25,-34.12 z"
+         fill="#ffff00"
+         fill-rule="evenodd"
+         id="path208" />
+      <path
+         d="m 27.84,198 41.25,34.13 -41.25,34.12 h 82.5 v 7.31 c 0,1.35 4.62,2.44 10.31,2.44 h 144.38 c 5.69,0 10.31,-1.09 10.31,-2.44 v -7.31 h 82.5 L 316.59,232.13 357.84,198 H 244.4 c -5.69,0 -10.31,1.09 -10.31,2.44 0,1.34 4.62,2.44 10.31,2.44 h 20.63 c 5.69,0 10.31,1.09 10.31,2.43 0,1.35 -4.62,2.44 -10.31,2.44 H 120.65 c -5.69,0 -10.31,-1.09 -10.31,-2.44 0,-1.34 4.62,-2.43 10.31,-2.43 h 20.63 c 5.69,0 10.31,-1.1 10.31,-2.44 0,-1.35 -4.62,-2.44 -10.31,-2.44 z m 123.75,9.75 v -7.31 m 82.5,0 v 7.31 m -123.75,-2.44 v 60.94 m 165,0 v -60.94"
+         fill="none"
+         stroke="#000000"
+         stroke-linejoin="round"
+         stroke-miterlimit="10"
+         stroke-width="0.75"
+         id="path212" />
+      <g
+         id="g220">
+        <g
+           clip-path="url(#clipPath374)"
+           id="g218">
+          <text
+             transform="matrix(1,0,0,-1,149.66,252.79)"
+             fill="#000000"
+             font-family="Calibri"
+             font-size="27.96px"
+             font-weight="bold"
+             xml:space="preserve"
+             id="text216"><tspan
+               x="0 17.642759 31.455 46.469521 53.347679 62.770199 76.582443"
+               y="0"
+               id="tspan214">Habitar</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g228">
+        <g
+           clip-path="url(#clipPath386)"
+           id="g226">
+          <text
+             transform="matrix(1,0,0,-1,132.74,219.19)"
+             fill="#000000"
+             font-family="Calibri"
+             font-size="27.984px"
+             font-style="italic"
+             xml:space="preserve"
+             id="text224"><tspan
+               x="0 14.159988"
+               y="0"
+               id="tspan222">1 </tspan></text>
+        </g>
+      </g>
+      <g
+         id="g236">
+        <g
+           clip-path="url(#clipPath398)"
+           id="g234">
+          <text
+             transform="matrix(1,0,0,-1,153.38,219.19)"
+             fill="#000000"
+             font-family="Calibri"
+             font-size="27.984px"
+             font-style="italic"
+             xml:space="preserve"
+             id="text232"><tspan
+               x="0 14.607648 28.96344"
+               y="0"
+               id="tspan230">Cor</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g244">
+        <g
+           clip-path="url(#clipPath410)"
+           id="g242">
+          <text
+             transform="matrix(1,0,0,-1,189.74,219.19)"
+             fill="#000000"
+             font-family="Calibri"
+             font-size="27.984px"
+             font-style="italic"
+             xml:space="preserve"
+             id="text240"><tspan
+               x="0 7.0519681 13.376352 27.56424 35.063953 49.251839"
+               y="0"
+               id="tspan238">. 3:16</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g721"
+       style="display:inline"
+       inkscape:label="ap4"
+       class="fragment"
+       data-fragment-index="4">
+      <path
+         d="m 372,198 h 113.44 c 5.69,0 10.31,1.09 10.31,2.44 0,1.34 -4.62,2.44 -10.31,2.44 h -20.63 c -5.69,0 -10.31,1.09 -10.31,2.43 0,1.35 4.62,2.44 10.31,2.44 h 144.38 c 5.69,0 10.31,-1.09 10.31,-2.44 0,-1.34 -4.62,-2.43 -10.31,-2.43 h -20.63 c -5.69,0 -10.31,-1.1 -10.31,-2.44 0,-1.35 4.62,-2.44 10.31,-2.44 H 702 l -41.25,34.13 41.25,34.12 h -82.5 v 7.31 c 0,1.35 -4.62,2.44 -10.31,2.44 H 464.81 c -5.69,0 -10.31,-1.09 -10.31,-2.44 v -7.31 H 372 l 41.25,-34.12 z"
+         fill="#ffff00"
+         fill-rule="evenodd"
+         id="path246" />
+      <path
+         d="m 495.75,200.44 c 0,1.34 -4.62,2.44 -10.31,2.44 h -20.63 c -5.69,0 -10.31,1.09 -10.31,2.43 0,1.35 4.62,2.44 10.31,2.44 h 30.94 z m 82.5,0 c 0,1.34 4.62,2.44 10.31,2.44 h 20.63 c 5.69,0 10.31,1.09 10.31,2.43 0,1.35 -4.62,2.44 -10.31,2.44 h -30.94 z"
+         fill="#cdcd00"
+         fill-rule="evenodd"
+         id="path248" />
+      <path
+         d="m 372,198 41.25,34.13 -41.25,34.12 h 82.5 v 7.31 c 0,1.35 4.62,2.44 10.31,2.44 h 144.38 c 5.69,0 10.31,-1.09 10.31,-2.44 v -7.31 H 702 L 660.75,232.13 702,198 H 588.56 c -5.69,0 -10.31,1.09 -10.31,2.44 0,1.34 4.62,2.44 10.31,2.44 h 20.63 c 5.69,0 10.31,1.09 10.31,2.43 0,1.35 -4.62,2.44 -10.31,2.44 H 464.81 c -5.69,0 -10.31,-1.09 -10.31,-2.44 0,-1.34 4.62,-2.43 10.31,-2.43 h 20.63 c 5.69,0 10.31,-1.1 10.31,-2.44 0,-1.35 -4.62,-2.44 -10.31,-2.44 z m 123.75,9.75 v -7.31 m 82.5,0 v 7.31 M 454.5,205.31 v 60.94 m 165,0 v -60.94"
+         fill="none"
+         stroke="#000000"
+         stroke-linejoin="round"
+         stroke-miterlimit="10"
+         stroke-width="0.75"
+         id="path250" />
+      <g
+         id="g258">
+        <g
+           clip-path="url(#clipPath428)"
+           id="g256">
+          <text
+             transform="matrix(1,0,0,-1,504.67,252.79)"
+             fill="#000000"
+             font-family="Calibri"
+             font-size="27.96px"
+             font-weight="bold"
+             xml:space="preserve"
+             id="text254"><tspan
+               x="0 13.22508 27.28896 34.083241 40.961399 54.77364"
+               y="0"
+               id="tspan252">Sellar</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g266">
+        <g
+           clip-path="url(#clipPath440)"
+           id="g264">
+          <text
+             transform="matrix(1,0,0,-1,469.75,219.19)"
+             fill="#000000"
+             font-family="Calibri"
+             font-size="27.984px"
+             font-style="italic"
+             xml:space="preserve"
+             id="text262"><tspan
+               x="0 12.844656 20.876064 34.252415 41.304382 47.740704 61.928593 69.344353 83.532242"
+               y="0"
+               id="tspan260">Efe. 1:13</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g274">
+        <g
+           clip-path="url(#clipPath452)"
+           id="g272">
+          <text
+             transform="matrix(1,0,0,-1,567.46,219.19)"
+             fill="#000000"
+             font-family="Calibri"
+             font-size="27.984px"
+             font-style="italic"
+             xml:space="preserve"
+             id="text270"><tspan
+               x="0"
+               y="0"
+               id="tspan268">-</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g282">
+        <g
+           clip-path="url(#clipPath464)"
+           id="g280">
+          <text
+             transform="matrix(1,0,0,-1,575.98,219.19)"
+             fill="#000000"
+             font-family="Calibri"
+             font-size="27.984px"
+             font-style="italic"
+             xml:space="preserve"
+             id="text278"><tspan
+               x="0 14.159988"
+               y="0"
+               id="tspan276">14</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g742"
+       style="display:inline"
+       inkscape:label="ap5"
+       class="fragment"
+       data-fragment-index="5">
+      <path
+         d="m 32.28,60 h 113.44 c 5.69,0 10.31,1.091 10.31,2.437 0,1.347 -4.62,2.438 -10.31,2.438 h -20.63 c -5.69,0 -10.31,1.091 -10.31,2.437 0,1.347 4.62,2.438 10.31,2.438 h 144.38 c 5.69,0 10.31,-1.091 10.31,-2.438 0,-1.346 -4.62,-2.437 -10.31,-2.437 h -20.63 c -5.69,0 -10.31,-1.091 -10.31,-2.438 0,-1.346 4.62,-2.437 10.31,-2.437 h 113.44 l -41.25,34.125 41.25,34.125 h -82.5 v 7.31 c 0,1.35 -4.62,2.44 -10.31,2.44 H 125.09 c -5.69,0 -10.31,-1.09 -10.31,-2.44 v -7.31 H 32.28 L 73.53,94.125 Z"
+         fill="#ffff00"
+         fill-rule="evenodd"
+         id="path284" />
+      <path
+         d="m 156.03,62.437 c 0,1.347 -4.62,2.438 -10.31,2.438 h -20.63 c -5.69,0 -10.31,1.091 -10.31,2.437 0,1.347 4.62,2.438 10.31,2.438 h 30.94 z m 82.5,0 c 0,1.347 4.62,2.438 10.31,2.438 h 20.63 c 5.69,0 10.31,1.091 10.31,2.437 0,1.347 -4.62,2.438 -10.31,2.438 h -30.94 z"
+         fill="#cdcd00"
+         fill-rule="evenodd"
+         id="path286" />
+      <path
+         d="M 32.28,60 73.53,94.125 32.28,128.25 h 82.5 v 7.31 c 0,1.35 4.62,2.44 10.31,2.44 h 144.38 c 5.69,0 10.31,-1.09 10.31,-2.44 v -7.31 h 82.5 L 321.03,94.125 362.28,60 H 248.84 c -5.69,0 -10.31,1.091 -10.31,2.437 0,1.347 4.62,2.438 10.31,2.438 h 20.63 c 5.69,0 10.31,1.091 10.31,2.437 0,1.347 -4.62,2.438 -10.31,2.438 H 125.09 c -5.69,0 -10.31,-1.091 -10.31,-2.438 0,-1.346 4.62,-2.437 10.31,-2.437 h 20.63 c 5.69,0 10.31,-1.091 10.31,-2.438 0,-1.346 -4.62,-2.437 -10.31,-2.437 z m 123.75,9.75 v -7.313 m 82.5,0 V 69.75 M 114.78,67.312 v 60.938 m 165,0 V 67.312"
+         fill="none"
+         stroke="#000000"
+         stroke-linejoin="round"
+         stroke-miterlimit="10"
+         stroke-width="0.75"
+         id="path288" />
+      <g
+         id="g296">
+        <g
+           clip-path="url(#clipPath482)"
+           id="g294">
+          <text
+             transform="matrix(1,0,0,-1,149.52,114.77)"
+             fill="#000000"
+             font-family="Calibri"
+             font-size="27.984px"
+             font-weight="bold"
+             xml:space="preserve"
+             id="text292"><tspan
+               x="0 15.699024 29.523121 44.550529 54.260975 61.145039 71.8909 85.714989"
+               y="0"
+               id="tspan290">Bautizar</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g304">
+        <g
+           clip-path="url(#clipPath494)"
+           id="g302">
+          <text
+             transform="matrix(1,0,0,-1,130.08,81.144)"
+             fill="#000000"
+             font-family="Calibri"
+             font-size="27.96px"
+             font-style="italic"
+             xml:space="preserve"
+             id="text300"><tspan
+               x="0 14.16002"
+               y="0"
+               id="tspan298">1 </tspan></text>
+        </g>
+      </g>
+      <g
+         id="g312">
+        <g
+           clip-path="url(#clipPath506)"
+           id="g310">
+          <text
+             transform="matrix(1,0,0,-1,150.72,81.144)"
+             fill="#000000"
+             font-family="Calibri"
+             font-size="27.96px"
+             font-style="italic"
+             xml:space="preserve"
+             id="text308"><tspan
+               x="0 14.59512 29.02248"
+               y="0"
+               id="tspan306">Cor</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g320">
+        <g
+           clip-path="url(#clipPath518)"
+           id="g318">
+          <text
+             transform="matrix(1,0,0,-1,187.08,81.144)"
+             fill="#000000"
+             font-family="Calibri"
+             font-size="27.96px"
+             font-style="italic"
+             xml:space="preserve"
+             id="text316"><tspan
+               x="0 7.0459199 13.36488 27.5406 41.71632 49.209599 63.385319"
+               y="0"
+               id="tspan314">. 12:13</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g814"
+       inkscape:label="ap6"
+       style="display:inline"
+       class="fragment"
+       data-fragment-index="6">
+      <path
+         d="m 376.44,60 h 113.44 c 5.69,0 10.31,1.091 10.31,2.437 0,1.347 -4.62,2.438 -10.31,2.438 h -20.63 c -5.69,0 -10.31,1.091 -10.31,2.437 0,1.347 4.62,2.438 10.31,2.438 h 144.38 c 5.69,0 10.31,-1.091 10.31,-2.438 0,-1.346 -4.62,-2.437 -10.31,-2.437 H 593 c -5.69,0 -10.31,-1.091 -10.31,-2.438 C 582.69,61.091 587.31,60 593,60 h 113.44 l -41.25,34.125 41.25,34.125 h -82.5 v 7.31 c 0,1.35 -4.62,2.44 -10.31,2.44 H 469.25 c -5.69,0 -10.31,-1.09 -10.31,-2.44 v -7.31 h -82.5 l 41.25,-34.125 z"
+         fill="#ffff00"
+         fill-rule="evenodd"
+         id="path322" />
+      <path
+         d="m 500.19,62.437 c 0,1.347 -4.62,2.438 -10.31,2.438 h -20.63 c -5.69,0 -10.31,1.091 -10.31,2.437 0,1.347 4.62,2.438 10.31,2.438 h 30.94 z m 82.5,0 c 0,1.347 4.62,2.438 10.31,2.438 h 20.63 c 5.69,0 10.31,1.091 10.31,2.437 0,1.347 -4.62,2.438 -10.31,2.438 h -30.94 z"
+         fill="#cdcd00"
+         fill-rule="evenodd"
+         id="path324" />
+      <path
+         d="m 376.44,60 41.25,34.125 -41.25,34.125 h 82.5 v 7.31 c 0,1.35 4.62,2.44 10.31,2.44 h 144.38 c 5.69,0 10.31,-1.09 10.31,-2.44 v -7.31 h 82.5 L 665.19,94.125 706.44,60 H 593 c -5.69,0 -10.31,1.091 -10.31,2.437 0,1.347 4.62,2.438 10.31,2.438 h 20.63 c 5.69,0 10.31,1.091 10.31,2.437 0,1.347 -4.62,2.438 -10.31,2.438 H 469.25 c -5.69,0 -10.31,-1.091 -10.31,-2.438 0,-1.346 4.62,-2.437 10.31,-2.437 h 20.63 c 5.69,0 10.31,-1.091 10.31,-2.438 0,-1.346 -4.62,-2.437 -10.31,-2.437 z m 123.75,9.75 v -7.313 m 82.5,0 V 69.75 M 458.94,67.312 v 60.938 m 165,0 V 67.312"
+         fill="none"
+         stroke="#000000"
+         stroke-linejoin="round"
+         stroke-miterlimit="10"
+         stroke-width="0.75"
+         id="path326" />
+      <g
+         id="g334">
+        <g
+           clip-path="url(#clipPath536)"
+           id="g332">
+          <text
+             transform="matrix(1,0,0,-1,481.15,114.77)"
+             fill="#000000"
+             font-family="Calibri"
+             font-size="27.984px"
+             font-weight="bold"
+             xml:space="preserve"
+             id="text330"><tspan
+               x="0 17.629919 31.454016 41.388336 47.852638 65.482559 80.537949 95.565361 109.52937"
+               y="0"
+               id="tspan328">Dar Dones</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g342">
+        <g
+           clip-path="url(#clipPath548)"
+           id="g340">
+          <text
+             transform="matrix(1,0,0,-1,474.19,81.144)"
+             fill="#000000"
+             font-family="Calibri"
+             font-size="27.96px"
+             font-style="italic"
+             xml:space="preserve"
+             id="text338"><tspan
+               x="0 14.16002"
+               y="0"
+               id="tspan336">1 </tspan></text>
+        </g>
+      </g>
+      <g
+         id="g350">
+        <g
+           clip-path="url(#clipPath560)"
+           id="g348">
+          <text
+             transform="matrix(1,0,0,-1,494.83,81.144)"
+             fill="#000000"
+             font-family="Calibri"
+             font-size="27.96px"
+             font-style="italic"
+             xml:space="preserve"
+             id="text346"><tspan
+               x="0 14.59512 29.02248"
+               y="0"
+               id="tspan344">Cor</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g358">
+        <g
+           clip-path="url(#clipPath572)"
+           id="g356">
+          <text
+             transform="matrix(1,0,0,-1,531.19,81.144)"
+             fill="#000000"
+             font-family="Calibri"
+             font-size="27.96px"
+             font-style="italic"
+             xml:space="preserve"
+             id="text354"><tspan
+               x="0 7.0459199 13.36488 27.5406 41.71632 49.209599 63.385319"
+               y="0"
+               id="tspan352">. 12:11</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

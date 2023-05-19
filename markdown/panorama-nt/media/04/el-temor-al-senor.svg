@@ -25,14 +25,14 @@
      inkscape:deskcolor="#505050"
      showgrid="false"
      inkscape:zoom="0.7994235"
-     inkscape:cx="398.41211"
-     inkscape:cy="325.85982"
+     inkscape:cx="714.89017"
+     inkscape:cy="526.00405"
      inkscape:window-width="1920"
      inkscape:window-height="1001"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g296" />
+     inkscape:current-layer="g1668" />
   <defs
      id="defs94">
     <clipPath
@@ -398,7 +398,8 @@
              font-family="Calibri"
              font-size="38.04px"
              xml:space="preserve"
-             id="text162"><tspan
+             id="text162"
+             inkscape:label="enfoque-en-cristo"><tspan
                x="0 18.56352 38.382359 49.185719 69.232803 89.203796 109.25088 128.19479 136.48752 155.43144 175.40244 183.99948 204.2748 217.55077 226.29996 240.75516 253.11816 273.16525"
                y="0"
                id="tspan160">Enfoque en Cristo </tspan></text>
@@ -469,7 +470,8 @@
              font-size="38.04px"
              font-style="italic"
              xml:space="preserve"
-             id="text194"><tspan
+             id="text194"
+             inkscape:label="text194-3"><tspan
                x="0"
                y="0"
                id="tspan192">3</tspan></text>
@@ -557,7 +559,8 @@
        class="fragment"
        data-fragment-index="3">
       <g
-         id="g238">
+         id="g238"
+         inkscape:label="g238">
         <g
            clip-path="url(#clipPath244)"
            id="g236">
@@ -567,7 +570,8 @@
              font-family="Wingdings"
              font-size="38.04px"
              xml:space="preserve"
-             id="text234"><tspan
+             id="text234"
+             inkscape:label="check243"><tspan
                x="0"
                y="0"
                id="tspan232">✓</tspan></text>
