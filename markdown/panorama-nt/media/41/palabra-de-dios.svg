@@ -1,0 +1,1502 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1343.9664"
+   height="1007.9747"
+   version="1.1"
+   viewBox="0 0 959.97602 719.98191"
+   id="svg636"
+   sodipodi:docname="palabra-de-dios.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview638"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="0.39971175"
+     inkscape:cx="-26.26893"
+     inkscape:cy="656.72325"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g634" />
+  <defs
+     id="defs172">
+    <clipPath
+       id="pano-nuevobd">
+      <path
+         d="M 0,1.2207e-4 H 720 V 540.00012 H 0 Z"
+         clip-rule="evenodd"
+         id="path2" />
+    </clipPath>
+    <pattern
+       id="pano-nuevoa"
+       width="959"
+       height="719"
+       patternTransform="matrix(.75078 0 0 .75104 0 540)"
+       patternUnits="userSpaceOnUse">
+      <g
+         transform="scale(959,719)"
+         id="g7">
+        <image
+           transform="matrix(1,0,0,-1,0,1)"
+           width="1"
+           height="1"
+           preserveAspectRatio="none"
+           xlink:href="data:image/png;base64,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"
+           id="image5" />
+      </g>
+    </pattern>
+    <clipPath
+       id="pano-nuevobc">
+      <path
+         d="M 58.32,16.08 H 667.08 V 534.6 H 58.32 Z"
+         clip-rule="evenodd"
+         id="path10" />
+    </clipPath>
+    <clipPath
+       id="pano-nuevobb">
+      <path
+         d="M 0,0 H 367.25 V 237.48 H 0 Z"
+         id="path13" />
+    </clipPath>
+    <clipPath
+       id="pano-nuevoba">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path16" />
+    </clipPath>
+    <clipPath
+       id="pano-nuevoaz">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path19" />
+    </clipPath>
+    <clipPath
+       id="pano-nuevoay">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path22" />
+    </clipPath>
+    <clipPath
+       id="pano-nuevoax">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path25" />
+    </clipPath>
+    <clipPath
+       id="pano-nuevoaw">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path28" />
+    </clipPath>
+    <clipPath
+       id="pano-nuevoav">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path31" />
+    </clipPath>
+    <clipPath
+       id="pano-nuevoau">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path34" />
+    </clipPath>
+    <clipPath
+       id="pano-nuevoat">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path37" />
+    </clipPath>
+    <clipPath
+       id="pano-nuevoas">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path40" />
+    </clipPath>
+    <clipPath
+       id="pano-nuevoar">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path43" />
+    </clipPath>
+    <clipPath
+       id="pano-nuevoaq">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path46" />
+    </clipPath>
+    <clipPath
+       id="pano-nuevoap">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path49" />
+    </clipPath>
+    <clipPath
+       id="pano-nuevoao">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path52" />
+    </clipPath>
+    <clipPath
+       id="pano-nuevoan">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path55" />
+    </clipPath>
+    <clipPath
+       id="pano-nuevoam">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path58" />
+    </clipPath>
+    <clipPath
+       id="pano-nuevoal">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path61" />
+    </clipPath>
+    <clipPath
+       id="pano-nuevoak">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path64" />
+    </clipPath>
+    <clipPath
+       id="pano-nuevoaj">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path67" />
+    </clipPath>
+    <clipPath
+       id="pano-nuevoai">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path70" />
+    </clipPath>
+    <clipPath
+       id="pano-nuevoah">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path73" />
+    </clipPath>
+    <clipPath
+       id="pano-nuevoag">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path76" />
+    </clipPath>
+    <clipPath
+       id="pano-nuevoaf">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path79" />
+    </clipPath>
+    <clipPath
+       id="pano-nuevoae">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path82" />
+    </clipPath>
+    <clipPath
+       id="pano-nuevoad">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path85" />
+    </clipPath>
+    <clipPath
+       id="pano-nuevoac">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path88" />
+    </clipPath>
+    <clipPath
+       id="pano-nuevoab">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path91" />
+    </clipPath>
+    <clipPath
+       id="pano-nuevoaa">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path94" />
+    </clipPath>
+    <clipPath
+       id="pano-nuevoz">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path97" />
+    </clipPath>
+    <clipPath
+       id="pano-nuevoy">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path100" />
+    </clipPath>
+    <clipPath
+       id="pano-nuevox">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path103" />
+    </clipPath>
+    <clipPath
+       id="pano-nuevow">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path106" />
+    </clipPath>
+    <clipPath
+       id="pano-nuevov">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path109" />
+    </clipPath>
+    <clipPath
+       id="pano-nuevou">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path112" />
+    </clipPath>
+    <clipPath
+       id="pano-nuevot">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path115" />
+    </clipPath>
+    <clipPath
+       id="pano-nuevos">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path118" />
+    </clipPath>
+    <clipPath
+       id="pano-nuevor">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path121" />
+    </clipPath>
+    <clipPath
+       id="pano-nuevoq">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path124" />
+    </clipPath>
+    <clipPath
+       id="pano-nuevop">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path127" />
+    </clipPath>
+    <clipPath
+       id="pano-nuevoo">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path130" />
+    </clipPath>
+    <clipPath
+       id="pano-nuevon">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path133" />
+    </clipPath>
+    <clipPath
+       id="pano-nuevom">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path136" />
+    </clipPath>
+    <clipPath
+       id="pano-nuevol">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path139" />
+    </clipPath>
+    <clipPath
+       id="pano-nuevok">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path142" />
+    </clipPath>
+    <clipPath
+       id="pano-nuevoj">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path145" />
+    </clipPath>
+    <clipPath
+       id="pano-nuevoi">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path148" />
+    </clipPath>
+    <clipPath
+       id="pano-nuevoh">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path151" />
+    </clipPath>
+    <clipPath
+       id="pano-nuevog">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path154" />
+    </clipPath>
+    <clipPath
+       id="pano-nuevof">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path157" />
+    </clipPath>
+    <clipPath
+       id="pano-nuevoe">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path160" />
+    </clipPath>
+    <clipPath
+       id="pano-nuevod">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path163" />
+    </clipPath>
+    <clipPath
+       id="pano-nuevoc">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path166" />
+    </clipPath>
+    <clipPath
+       id="pano-nuevob">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path169" />
+    </clipPath>
+  </defs>
+  <g
+     transform="matrix(1.3333,0,0,-1.3333,0,719.98208)"
+     id="g634">
+    <g
+       id="g178">
+      <g
+         clip-path="url(#pano-nuevobd)"
+         id="g176">
+        <path
+           d="M 0,6.1035e-5 H 720 V 540.00006 H 0 Z"
+           fill="url(#pano-nuevoa)"
+           fill-rule="evenodd"
+           id="path174"
+           style="fill-opacity:1;fill:#230243" />
+      </g>
+    </g>
+    <g
+       id="g216"
+       sodipodi:insensitive="true">
+      <g
+         clip-path="url(#pano-nuevobc)"
+         id="g214">
+        <g
+           transform="matrix(8.455,0,-9.4e-8,7.2017,58.32,16.08)"
+           id="g212">
+          <g
+             transform="scale(0.19605,0.30318)"
+             id="g210">
+            <g
+               clip-path="url(#pano-nuevobb)"
+               id="g208">
+              <g
+                 id="g206">
+                <g
+                   id="g180" />
+                <path
+                   d="M 52.753,54.85 H 97.869 V 167.86 H 52.753 Z"
+                   fill-rule="evenodd"
+                   id="path182" />
+                <path
+                   d="M 97.869,55.822 96.901,54.85 v 113.01 l 0.968,-0.97 H 52.753 l 0.968,0.97 V 54.85 l -0.968,0.972 z M 51.785,53.878 v 114.95 H 98.837 V 53.878 Z"
+                   id="path184" />
+                <path
+                   d="m 124.84,54.85 h 44.995 V 167.86 H 124.84 Z"
+                   fill-rule="evenodd"
+                   id="path186" />
+                <path
+                   d="m 169.84,55.822 -0.97,-0.972 v 113.01 l 0.97,-0.97 h -45 l 0.97,0.97 V 54.85 l -0.97,0.972 z m -45.97,-1.944 v 114.95 H 170.8 V 53.878 Z"
+                   id="path188" />
+                <path
+                   d="m 196.93,54.85 h 44.995 V 167.86 H 196.93 Z"
+                   fill-rule="evenodd"
+                   id="path190" />
+                <path
+                   d="m 241.93,55.822 -0.97,-0.972 v 113.01 l 0.97,-0.97 h -45 l 0.97,0.97 V 54.85 l -0.97,0.972 z m -45.97,-1.944 v 114.95 h 46.93 V 53.878 Z"
+                   id="path192" />
+                <path
+                   d="m 268.9,54.85 h 44.995 V 167.86 H 268.9 Z"
+                   fill-rule="evenodd"
+                   id="path194" />
+                <path
+                   d="m 313.89,55.822 -0.96,-0.972 v 113.01 l 0.96,-0.97 H 268.9 l 0.97,0.97 V 54.85 l -0.97,0.972 z m -45.96,-1.944 v 114.95 h 46.93 V 53.878 Z"
+                   id="path196" />
+                <path
+                   d="M 343.17,41.847 V 21.554 h 22.61 V 1.139 H 0.98 v 20.415 h 22.498 v 20.293 z"
+                   fill-rule="evenodd"
+                   id="path198" />
+                <path
+                   d="M 344.13,42.82 V 21.554 l -0.96,0.972 h 23.58 V 0.167 H 0.02 V 22.526 H 23.485 L 22.517,21.554 V 42.82 Z M 23.48,40.875 24.447,41.847 V 20.582 H 0.982 l 0.96765,0.972 V 1.139 L 0.982,2.1111 h 364.8 l -0.96,-0.9721 v 20.415 l 0.96,-0.972 h -23.58 v 21.265 l 0.97,-0.972 z"
+                   id="path200" />
+                <path
+                   d="m 13.322,179.16 168.98,56.75 168.97,-56.75 z"
+                   fill-rule="evenodd"
+                   id="path202" />
+                <path
+                   d="m 7.3748,178.19 174.93,58.75 174.92,-58.75 z m 343.9,1.95 -0.31,-1.9 -168.97,56.75 h 0.61 l -168.97,-56.75 -0.306,1.9 z"
+                   id="path204" />
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g304">
+      <g
+         clip-path="url(#pano-nuevoaq)"
+         id="g302">
+        <text
+           transform="matrix(1,0,0,-1,14.088,5.16)"
+           fill="#ffffff"
+           font-family="Calibri"
+           font-size="6px"
+           xml:space="preserve"
+           id="text300"><tspan
+             x="0 3.2579999 4.7940001 8.0279999 9.5819998 14.862 17.736 19.782"
+             y="0"
+             id="tspan298">R.C.Ward</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g312">
+      <g
+         clip-path="url(#pano-nuevoap)"
+         id="g310">
+        <text
+           transform="matrix(1,0,0,-1,37.032,5.16)"
+           fill="#ffffff"
+           font-family="Calibri"
+           font-size="6px"
+           xml:space="preserve"
+           id="text308"><tspan
+             x="0 1.4400001 2.994 4.908 8.0340004 11.154 14.142 15.474 18.474001 21.474001 24.474001"
+             y="0"
+             id="tspan306">, June 2012</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g512">
+      <g
+         clip-path="url(#pano-nuevoq)"
+         id="g510">
+        <text
+           transform="matrix(1,0,0,-1,156.67,48.768)"
+           fill="#ffff00"
+           font-family="Calibri"
+           font-size="66.024px"
+           xml:space="preserve"
+           id="text508"><tspan
+             x="0 32.615856 64.241348 79.426872 111.05237 145.71497 167.23878 198.86429 213.78571 248.44832 281.32828 296.24969 336.85446 352.03998 386.83463"
+             y="0"
+             id="tspan506">Palabra de Dios</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g937"
+       inkscape:label="ap1"
+       class="fragment"
+       data-fragment-index="1"
+       style="display:inline">
+      <g
+         id="g320">
+        <g
+           clip-path="url(#pano-nuevoao)"
+           id="g318">
+          <text
+             transform="matrix(1,0,0,-1,537.22,337.92)"
+             fill="#ffff00"
+             font-family="Calibri"
+             font-size="20.04px"
+             font-weight="bold"
+             xml:space="preserve"
+             id="text316"><tspan
+               x="0"
+               y="0"
+               id="tspan314">H</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g328">
+        <g
+           clip-path="url(#pano-nuevoan)"
+           id="g326">
+          <text
+             transform="matrix(1,0,0,-1,537.46,309.36)"
+             fill="#ffff00"
+             font-family="Calibri"
+             font-size="20.064px"
+             font-weight="bold"
+             xml:space="preserve"
+             id="text324"><tspan
+               x="0"
+               y="0"
+               id="tspan322">A</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g336">
+        <g
+           clip-path="url(#pano-nuevoam)"
+           id="g334">
+          <text
+             transform="matrix(1,0,0,-1,537.82,280.78)"
+             fill="#ffff00"
+             font-family="Calibri"
+             font-size="20.04px"
+             font-weight="bold"
+             xml:space="preserve"
+             id="text332"><tspan
+               x="0"
+               y="0"
+               id="tspan330">B</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g344">
+        <g
+           clip-path="url(#pano-nuevoal)"
+           id="g342">
+          <text
+             transform="matrix(1,0,0,-1,540.82,252.22)"
+             fill="#ffff00"
+             font-family="Calibri"
+             font-size="20.04px"
+             font-weight="bold"
+             xml:space="preserve"
+             id="text340"><tspan
+               x="0"
+               y="0"
+               id="tspan338">I</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g352">
+        <g
+           clip-path="url(#pano-nuevoak)"
+           id="g350">
+          <text
+             transform="matrix(1,0,0,-1,538.54,223.66)"
+             fill="#ffff00"
+             font-family="Calibri"
+             font-size="20.04px"
+             font-weight="bold"
+             xml:space="preserve"
+             id="text348"><tspan
+               x="0"
+               y="0"
+               id="tspan346">T</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g360">
+        <g
+           clip-path="url(#pano-nuevoaj)"
+           id="g358">
+          <text
+             transform="matrix(1,0,0,-1,537.46,196.63)"
+             fill="#ffff00"
+             font-family="Calibri"
+             font-size="20.04px"
+             font-weight="bold"
+             xml:space="preserve"
+             id="text356"><tspan
+               x="0"
+               y="0"
+               id="tspan354">A</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g368">
+        <g
+           clip-path="url(#pano-nuevoai)"
+           id="g366">
+          <text
+             transform="matrix(1,0,0,-1,537.82,168.19)"
+             fill="#ffff00"
+             font-family="Calibri"
+             font-size="20.04px"
+             font-weight="bold"
+             xml:space="preserve"
+             id="text364"><tspan
+               x="0"
+               y="0"
+               id="tspan362">R</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g520">
+        <g
+           clip-path="url(#pano-nuevop)"
+           id="g518">
+          <text
+             transform="matrix(1,0,0,-1,614.4,180.14)"
+             fill="#ffffff"
+             font-family="Calibri"
+             font-size="27.96px"
+             font-style="italic"
+             font-weight="bold"
+             xml:space="preserve"
+             id="text516"><tspan
+               x="0 14.16002"
+               y="0"
+               id="tspan514">1 </tspan></text>
+        </g>
+      </g>
+      <g
+         id="g528">
+        <g
+           clip-path="url(#pano-nuevoo)"
+           id="g526">
+          <text
+             transform="matrix(1,0,0,-1,635.04,180.14)"
+             fill="#ffffff"
+             font-family="Calibri"
+             font-size="27.96px"
+             font-style="italic"
+             font-weight="bold"
+             xml:space="preserve"
+             id="text524"><tspan
+               x="0 14.51124 29.246161"
+               y="0"
+               id="tspan522">Cor</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g536">
+        <g
+           clip-path="url(#pano-nuevon)"
+           id="g534">
+          <text
+             transform="matrix(1,0,0,-1,672.12,180.14)"
+             fill="#ffffff"
+             font-family="Calibri"
+             font-size="27.96px"
+             font-style="italic"
+             font-weight="bold"
+             xml:space="preserve"
+             id="text532"><tspan
+               x="0"
+               y="0"
+               id="tspan530">.</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g544">
+        <g
+           clip-path="url(#pano-nuevom)"
+           id="g542">
+          <text
+             transform="matrix(1,0,0,-1,621.84,146.54)"
+             fill="#ffffff"
+             font-family="Calibri"
+             font-size="27.96px"
+             font-style="italic"
+             font-weight="bold"
+             xml:space="preserve"
+             id="text540"><tspan
+               x="0 14.17572 21.892679 36.068401"
+               y="0"
+               id="tspan538">3:16</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g1007"
+       inkscape:label="ap2"
+       class="fragment"
+       data-fragment-index="2">
+      <g
+         id="g224">
+        <g
+           clip-path="url(#pano-nuevoba)"
+           id="g222">
+          <text
+             transform="matrix(1,0,0,-1,51.384,180.14)"
+             fill="#ffffff"
+             font-family="Calibri"
+             font-size="27.96px"
+             font-style="italic"
+             font-weight="bold"
+             xml:space="preserve"
+             id="text220"><tspan
+               x="0 13.08528 21.613079 35.341438"
+               y="0"
+               id="tspan218">Efe.</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g232">
+        <g
+           clip-path="url(#pano-nuevoaz)"
+           id="g230">
+          <text
+             transform="matrix(1,0,0,-1,29.184,146.54)"
+             fill="#ffffff"
+             font-family="Calibri"
+             font-size="27.96px"
+             font-style="italic"
+             font-weight="bold"
+             xml:space="preserve"
+             id="text228"><tspan
+               x="0 14.17572 21.892679 36.068401"
+               y="0"
+               id="tspan226">1:13</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g240">
+        <g
+           clip-path="url(#pano-nuevoay)"
+           id="g238">
+          <text
+             transform="matrix(1,0,0,-1,79.344,146.54)"
+             fill="#ffffff"
+             font-family="Calibri"
+             font-size="27.96px"
+             font-style="italic"
+             font-weight="bold"
+             xml:space="preserve"
+             id="text236"><tspan
+               x="0"
+               y="0"
+               id="tspan234">-</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g248">
+        <g
+           clip-path="url(#pano-nuevoax)"
+           id="g246">
+          <text
+             transform="matrix(1,0,0,-1,87.864,146.54)"
+             fill="#ffffff"
+             font-family="Calibri"
+             font-size="27.96px"
+             font-style="italic"
+             font-weight="bold"
+             xml:space="preserve"
+             id="text244"><tspan
+               x="0 14.16002"
+               y="0"
+               id="tspan242">14</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g256">
+        <g
+           clip-path="url(#pano-nuevoaw)"
+           id="g254">
+          <text
+             transform="matrix(1,0,0,-1,172.01,344.16)"
+             fill="#ffff00"
+             font-family="Calibri"
+             font-size="27.984px"
+             font-weight="bold"
+             xml:space="preserve"
+             id="text252"><tspan
+               x="0"
+               y="0"
+               id="tspan250">S</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g264">
+        <g
+           clip-path="url(#pano-nuevoav)"
+           id="g262">
+          <text
+             transform="matrix(1,0,0,-1,171.77,304.3)"
+             fill="#ffff00"
+             font-family="Calibri"
+             font-size="27.96px"
+             font-weight="bold"
+             xml:space="preserve"
+             id="text260"><tspan
+               x="0"
+               y="0"
+               id="tspan258">E</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g272">
+        <g
+           clip-path="url(#pano-nuevoau)"
+           id="g270">
+          <text
+             transform="matrix(1,0,0,-1,172.73,264.46)"
+             fill="#ffff00"
+             font-family="Calibri"
+             font-size="27.96px"
+             font-weight="bold"
+             xml:space="preserve"
+             id="text268"><tspan
+               x="0"
+               y="0"
+               id="tspan266">L</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g280">
+        <g
+           clip-path="url(#pano-nuevoat)"
+           id="g278">
+          <text
+             transform="matrix(1,0,0,-1,172.73,224.59)"
+             fill="#ffff00"
+             font-family="Calibri"
+             font-size="27.96px"
+             font-weight="bold"
+             xml:space="preserve"
+             id="text276"><tspan
+               x="0"
+               y="0"
+               id="tspan274">L</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g288">
+        <g
+           clip-path="url(#pano-nuevoas)"
+           id="g286">
+          <text
+             transform="matrix(1,0,0,-1,170.21,184.75)"
+             fill="#ffff00"
+             font-family="Calibri"
+             font-size="27.96px"
+             font-weight="bold"
+             xml:space="preserve"
+             id="text284"><tspan
+               x="0"
+               y="0"
+               id="tspan282">A</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g296">
+        <g
+           clip-path="url(#pano-nuevoar)"
+           id="g294">
+          <text
+             transform="matrix(1,0,0,-1,170.81,144.91)"
+             fill="#ffff00"
+             font-family="Calibri"
+             font-size="27.984px"
+             font-weight="bold"
+             xml:space="preserve"
+             id="text292"><tspan
+               x="0"
+               y="0"
+               id="tspan290">R</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g1053"
+       inkscape:label="ap3"
+       class="fragment"
+       data-fragment-index="3">
+      <g
+         id="g376">
+        <g
+           clip-path="url(#pano-nuevoah)"
+           id="g374">
+          <text
+             transform="matrix(1,0,0,-1,298.13,361.08)"
+             fill="#ffff00"
+             font-family="Calibri"
+             font-size="20.04px"
+             font-weight="bold"
+             xml:space="preserve"
+             id="text372"><tspan
+               x="0"
+               y="0"
+               id="tspan370">C</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g384">
+        <g
+           clip-path="url(#pano-nuevoag)"
+           id="g382">
+          <text
+             transform="matrix(1,0,0,-1,296.69,332.62)"
+             fill="#ffff00"
+             font-family="Calibri"
+             font-size="20.04px"
+             font-weight="bold"
+             xml:space="preserve"
+             id="text380"><tspan
+               x="0"
+               y="0"
+               id="tspan378">O</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g392">
+        <g
+           clip-path="url(#pano-nuevoaf)"
+           id="g390">
+          <text
+             transform="matrix(1,0,0,-1,296.81,304.06)"
+             fill="#ffff00"
+             font-family="Calibri"
+             font-size="20.04px"
+             font-weight="bold"
+             xml:space="preserve"
+             id="text388"><tspan
+               x="0"
+               y="0"
+               id="tspan386">N</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g400">
+        <g
+           clip-path="url(#pano-nuevoae)"
+           id="g398">
+          <text
+             transform="matrix(1,0,0,-1,298.85,275.5)"
+             fill="#ffff00"
+             font-family="Calibri"
+             font-size="20.04px"
+             font-weight="bold"
+             xml:space="preserve"
+             id="text396"><tspan
+               x="0"
+               y="0"
+               id="tspan394">F</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g408">
+        <g
+           clip-path="url(#pano-nuevoad)"
+           id="g406">
+          <text
+             transform="matrix(1,0,0,-1,296.69,247.06)"
+             fill="#ffff00"
+             font-family="Calibri"
+             font-size="20.064px"
+             font-weight="bold"
+             xml:space="preserve"
+             id="text404"><tspan
+               x="0"
+               y="0"
+               id="tspan402">O</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g416">
+        <g
+           clip-path="url(#pano-nuevoac)"
+           id="g414">
+          <text
+             transform="matrix(1,0,0,-1,297.77,218.59)"
+             fill="#ffff00"
+             font-family="Calibri"
+             font-size="20.04px"
+             font-weight="bold"
+             xml:space="preserve"
+             id="text412"><tspan
+               x="0"
+               y="0"
+               id="tspan410">R</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g424">
+        <g
+           clip-path="url(#pano-nuevoab)"
+           id="g422">
+          <text
+             transform="matrix(1,0,0,-1,298.49,190.27)"
+             fill="#ffff00"
+             font-family="Calibri"
+             font-size="20.04px"
+             font-weight="bold"
+             xml:space="preserve"
+             id="text420"><tspan
+               x="0"
+               y="0"
+               id="tspan418">T</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g432">
+        <g
+           clip-path="url(#pano-nuevoaa)"
+           id="g430">
+          <text
+             transform="matrix(1,0,0,-1,297.41,163.39)"
+             fill="#ffff00"
+             font-family="Calibri"
+             font-size="20.04px"
+             font-weight="bold"
+             xml:space="preserve"
+             id="text428"><tspan
+               x="0"
+               y="0"
+               id="tspan426">A</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g440">
+        <g
+           clip-path="url(#pano-nuevoz)"
+           id="g438">
+          <text
+             transform="matrix(1,0,0,-1,297.77,134.81)"
+             fill="#ffff00"
+             font-family="Calibri"
+             font-size="20.04px"
+             font-weight="bold"
+             xml:space="preserve"
+             id="text436"><tspan
+               x="0"
+               y="0"
+               id="tspan434">R</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g552">
+        <g
+           clip-path="url(#pano-nuevol)"
+           id="g550">
+          <text
+             transform="matrix(1,0,0,-1,57.72,350.52)"
+             fill="#ffffff"
+             font-family="Calibri"
+             font-size="27.96px"
+             font-style="italic"
+             font-weight="bold"
+             xml:space="preserve"
+             id="text548"><tspan
+               x="0 9.2547598 23.989679 38.75256"
+               y="0"
+               id="tspan546">Juan</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g560">
+        <g
+           clip-path="url(#pano-nuevok)"
+           id="g558">
+          <text
+             transform="matrix(1,0,0,-1,52.32,316.92)"
+             fill="#ffffff"
+             font-family="Calibri"
+             font-size="27.984px"
+             font-style="italic"
+             font-weight="bold"
+             xml:space="preserve"
+             id="text556"><tspan
+               x="0 14.187888 28.375776 35.987423 50.175312"
+               y="0"
+               id="tspan554">14:16</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g1144"
+       inkscape:label="ap4"
+       class="fragment"
+       data-fragment-index="4"
+       style="display:inline">
+      <g
+         id="g448">
+        <g
+           clip-path="url(#pano-nuevoy)"
+           id="g446">
+          <text
+             transform="matrix(1,0,0,-1,413.23,368.04)"
+             fill="#ffff00"
+             font-family="Calibri"
+             font-size="24px"
+             font-weight="bold"
+             xml:space="preserve"
+             id="text444"><tspan
+               x="0"
+               y="0"
+               id="tspan442">A</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g456">
+        <g
+           clip-path="url(#pano-nuevox)"
+           id="g454">
+          <text
+             transform="matrix(1,0,0,-1,414.79,333.96)"
+             fill="#ffff00"
+             font-family="Calibri"
+             font-size="24.024px"
+             font-weight="bold"
+             xml:space="preserve"
+             id="text452"><tspan
+               x="0"
+               y="0"
+               id="tspan450">S</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g464">
+        <g
+           clip-path="url(#pano-nuevow)"
+           id="g462">
+          <text
+             transform="matrix(1,0,0,-1,414.55,299.86)"
+             fill="#ffff00"
+             font-family="Calibri"
+             font-size="24px"
+             font-weight="bold"
+             xml:space="preserve"
+             id="text460"><tspan
+               x="0"
+               y="0"
+               id="tspan458">E</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g472">
+        <g
+           clip-path="url(#pano-nuevov)"
+           id="g470">
+          <text
+             transform="matrix(1,0,0,-1,412.87,266.14)"
+             fill="#ffff00"
+             font-family="Calibri"
+             font-size="24px"
+             font-weight="bold"
+             xml:space="preserve"
+             id="text468"><tspan
+               x="0"
+               y="0"
+               id="tspan466">G</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g480">
+        <g
+           clip-path="url(#pano-nuevou)"
+           id="g478">
+          <text
+             transform="matrix(1,0,0,-1,412.63,232.06)"
+             fill="#ffff00"
+             font-family="Calibri"
+             font-size="24.024px"
+             font-weight="bold"
+             xml:space="preserve"
+             id="text476"><tspan
+               x="0"
+               y="0"
+               id="tspan474">U</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g488">
+        <g
+           clip-path="url(#pano-nuevot)"
+           id="g486">
+          <text
+             transform="matrix(1,0,0,-1,413.71,197.95)"
+             fill="#ffff00"
+             font-family="Calibri"
+             font-size="24px"
+             font-weight="bold"
+             xml:space="preserve"
+             id="text484"><tspan
+               x="0"
+               y="0"
+               id="tspan482">R</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g496">
+        <g
+           clip-path="url(#pano-nuevos)"
+           id="g494">
+          <text
+             transform="matrix(1,0,0,-1,413.23,163.75)"
+             fill="#ffff00"
+             font-family="Calibri"
+             font-size="24px"
+             font-weight="bold"
+             xml:space="preserve"
+             id="text492"><tspan
+               x="0"
+               y="0"
+               id="tspan490">A</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g504">
+        <g
+           clip-path="url(#pano-nuevor)"
+           id="g502">
+          <text
+             transform="matrix(1,0,0,-1,413.71,129.67)"
+             fill="#ffff00"
+             font-family="Calibri"
+             font-size="24.024px"
+             font-weight="bold"
+             xml:space="preserve"
+             id="text500"><tspan
+               x="0"
+               y="0"
+               id="tspan498">R</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g568">
+        <g
+           clip-path="url(#pano-nuevoj)"
+           id="g566">
+          <text
+             transform="matrix(1,0,0,-1,593.04,350.52)"
+             fill="#ffffff"
+             font-family="Calibri"
+             font-size="27.96px"
+             font-style="italic"
+             font-weight="bold"
+             xml:space="preserve"
+             id="text564"><tspan
+               x="0 15.2382 29.97312 52.452961 67.215843 81.95076 96.685677"
+               y="0"
+               id="tspan562">Romanos</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g576">
+        <g
+           clip-path="url(#pano-nuevoi)"
+           id="g574">
+          <text
+             transform="matrix(1,0,0,-1,603.48,316.92)"
+             fill="#ffffff"
+             font-family="Calibri"
+             font-size="27.984px"
+             font-style="italic"
+             font-weight="bold"
+             xml:space="preserve"
+             id="text572"><tspan
+               x="0 14.187888 21.911472 35.987423"
+               y="0"
+               id="tspan570">8:15</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g584">
+        <g
+           clip-path="url(#pano-nuevoh)"
+           id="g582">
+          <text
+             transform="matrix(1,0,0,-1,653.66,316.92)"
+             fill="#ffffff"
+             font-family="Calibri"
+             font-size="27.984px"
+             font-style="italic"
+             font-weight="bold"
+             xml:space="preserve"
+             id="text580"><tspan
+               x="0"
+               y="0"
+               id="tspan578">-</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g592">
+        <g
+           clip-path="url(#pano-nuevog)"
+           id="g590">
+          <text
+             transform="matrix(1,0,0,-1,662.18,316.92)"
+             fill="#ffffff"
+             font-family="Calibri"
+             font-size="27.984px"
+             font-style="italic"
+             font-weight="bold"
+             xml:space="preserve"
+             id="text588"><tspan
+               x="0 14.159988"
+               y="0"
+               id="tspan586">16</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g600">
+        <g
+           clip-path="url(#pano-nuevof)"
+           id="g598">
+          <text
+             transform="matrix(1,0,0,-1,201.1,420.65)"
+             fill="#ffff00"
+             font-family="Calibri"
+             font-size="44.04px"
+             font-weight="bold"
+             xml:space="preserve"
+             id="text596"><tspan
+               x="0 20.830919 42.98304 63.858002 87.507477 103.14168 113.97552 137.625 159.24864 182.89812 192.85117 213.59399 228.3474 250.49953 266.13373 289.7832"
+               y="0"
+               id="tspan594">Seguridad Eterna</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g608">
+        <g
+           clip-path="url(#pano-nuevoe)"
+           id="g606">
+          <text
+             transform="matrix(1,0,0,-1,310.92,495.96)"
+             fill="#ffff00"
+             font-family="Calibri"
+             font-size="24.024px"
+             font-style="italic"
+             font-weight="bold"
+             xml:space="preserve"
+             id="text604"><tspan
+               x="0 13.189176 25.849825 45.165119 57.849792 70.43837 83.099014"
+               y="0"
+               id="tspan602">Romanos</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g616">
+        <g
+           clip-path="url(#pano-nuevod)"
+           id="g614">
+          <text
+             transform="matrix(1,0,0,-1,319.92,467.14)"
+             fill="#ffff00"
+             font-family="Calibri"
+             font-size="24px"
+             font-style="italic"
+             font-weight="bold"
+             xml:space="preserve"
+             id="text612"><tspan
+               x="0 12.168 18.719999 30.888"
+               y="0"
+               id="tspan610">8:38</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g624">
+        <g
+           clip-path="url(#pano-nuevoc)"
+           id="g622">
+          <text
+             transform="matrix(1,0,0,-1,362.88,467.14)"
+             fill="#ffff00"
+             font-family="Calibri"
+             font-size="24px"
+             font-style="italic"
+             font-weight="bold"
+             xml:space="preserve"
+             id="text620"><tspan
+               x="0"
+               y="0"
+               id="tspan618">-</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g632">
+        <g
+           clip-path="url(#pano-nuevob)"
+           id="g630">
+          <text
+             transform="matrix(1,0,0,-1,370.2,467.14)"
+             fill="#ffff00"
+             font-family="Calibri"
+             font-size="24px"
+             font-style="italic"
+             font-weight="bold"
+             xml:space="preserve"
+             id="text628"><tspan
+               x="0 12.12"
+               y="0"
+               id="tspan626">39</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
