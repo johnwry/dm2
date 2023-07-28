@@ -1,0 +1,836 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1343.9664"
+   height="1007.9747"
+   version="1.1"
+   viewBox="0 0 959.97602 719.98191"
+   id="svg685"
+   sodipodi:docname="cronologia-de-la-vida-de-daniel-completo.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview687"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="0.39971175"
+     inkscape:cx="929.41976"
+     inkscape:cy="359.00871"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g683" />
+  <defs
+     id="defs179">
+    <clipPath
+       id="danielitbg">
+      <path
+         d="M 0,1.2207e-4 H 720 V 540.00012 H 0 Z"
+         clip-rule="evenodd"
+         id="path2" />
+    </clipPath>
+    <clipPath
+       id="danielitbf">
+      <path
+         d="M 0,1.2207e-4 H 720 V 540.00012 H 0 Z"
+         clip-rule="evenodd"
+         id="path5" />
+    </clipPath>
+    <clipPath
+       id="danielitbe">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path8" />
+    </clipPath>
+    <clipPath
+       id="danielitbd">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path11" />
+    </clipPath>
+    <clipPath
+       id="danielitbc">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path14" />
+    </clipPath>
+    <clipPath
+       id="danielitbb">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path17" />
+    </clipPath>
+    <clipPath
+       id="danielitba">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path20" />
+    </clipPath>
+    <clipPath
+       id="danielitaz">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path23" />
+    </clipPath>
+    <clipPath
+       id="danielitay">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path26" />
+    </clipPath>
+    <clipPath
+       id="danielitax">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path29" />
+    </clipPath>
+    <clipPath
+       id="danielitaw">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path32" />
+    </clipPath>
+    <clipPath
+       id="danielitav">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path35" />
+    </clipPath>
+    <clipPath
+       id="danielitau">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path38" />
+    </clipPath>
+    <clipPath
+       id="danielitat">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path41" />
+    </clipPath>
+    <clipPath
+       id="danielitas">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path44" />
+    </clipPath>
+    <clipPath
+       id="danielitar">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path47" />
+    </clipPath>
+    <clipPath
+       id="danielitaq">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path50" />
+    </clipPath>
+    <clipPath
+       id="danielitap">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path53" />
+    </clipPath>
+    <clipPath
+       id="danielitao">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path56" />
+    </clipPath>
+    <clipPath
+       id="danielitan">
+      <path
+         d="M 0,0 H 720 V 540 H 0 Z"
+         clip-rule="evenodd"
+         id="path59" />
+    </clipPath>
+    <clipPath
+       id="danielitam">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path62" />
+    </clipPath>
+    <clipPath
+       id="danielital">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path65" />
+    </clipPath>
+    <clipPath
+       id="danielitak">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path68" />
+    </clipPath>
+    <clipPath
+       id="danielitaj">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path71" />
+    </clipPath>
+    <clipPath
+       id="danielitai">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path74" />
+    </clipPath>
+    <clipPath
+       id="danielitah">
+      <path
+         d="M -1.2207e-4,0 H 719.99988 V 540 H -1.2207e-4 Z"
+         clip-rule="evenodd"
+         id="path77" />
+    </clipPath>
+    <clipPath
+       id="danielitag">
+      <path
+         d="M -1.2207e-4,0 H 719.99988 V 540 H -1.2207e-4 Z"
+         clip-rule="evenodd"
+         id="path80" />
+    </clipPath>
+    <clipPath
+       id="danielitaf">
+      <path
+         d="M -1.2207e-4,0 H 719.99988 V 540 H -1.2207e-4 Z"
+         clip-rule="evenodd"
+         id="path83" />
+    </clipPath>
+    <clipPath
+       id="danielitae">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path86" />
+    </clipPath>
+    <clipPath
+       id="danielitad">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path89" />
+    </clipPath>
+    <clipPath
+       id="danielitac">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path92" />
+    </clipPath>
+    <clipPath
+       id="danielitab">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path95" />
+    </clipPath>
+    <clipPath
+       id="danielitaa">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path98" />
+    </clipPath>
+    <clipPath
+       id="danielitz">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path101" />
+    </clipPath>
+    <clipPath
+       id="danielity">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path104" />
+    </clipPath>
+    <clipPath
+       id="danielitx">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path107" />
+    </clipPath>
+    <clipPath
+       id="danielitw">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path110" />
+    </clipPath>
+    <clipPath
+       id="danielitv">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path113" />
+    </clipPath>
+    <clipPath
+       id="danielitu">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path116" />
+    </clipPath>
+    <clipPath
+       id="danielitt">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path119" />
+    </clipPath>
+    <clipPath
+       id="danielits">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path122" />
+    </clipPath>
+    <clipPath
+       id="danielitr">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path125" />
+    </clipPath>
+    <clipPath
+       id="danielitq">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path128" />
+    </clipPath>
+    <clipPath
+       id="danielitp">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path131" />
+    </clipPath>
+    <clipPath
+       id="danielito">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path134" />
+    </clipPath>
+    <clipPath
+       id="danielitn">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path137" />
+    </clipPath>
+    <clipPath
+       id="danielitm">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path140" />
+    </clipPath>
+    <clipPath
+       id="danielitl">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path143" />
+    </clipPath>
+    <clipPath
+       id="danielitk">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path146" />
+    </clipPath>
+    <clipPath
+       id="danielitj">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path149" />
+    </clipPath>
+    <clipPath
+       id="danieliti">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path152" />
+    </clipPath>
+    <clipPath
+       id="danielith">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path155" />
+    </clipPath>
+    <clipPath
+       id="danielitg">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path158" />
+    </clipPath>
+    <clipPath
+       id="danielitf">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path161" />
+    </clipPath>
+    <clipPath
+       id="danielite">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path164" />
+    </clipPath>
+    <clipPath
+       id="danielitd">
+      <path
+         d="M -7.629e-6,540 H 719.99999 V 0 L -7.629e-6,6.1035e-5"
+         clip-rule="evenodd"
+         id="path167" />
+    </clipPath>
+    <clipPath
+       id="danielitc">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path170" />
+    </clipPath>
+    <clipPath
+       id="danielitb">
+      <path
+         d="M -6.1035e-5,540 H 719.99994 V 0 L -6.1035e-5,6.1035e-5"
+         clip-rule="evenodd"
+         id="path173" />
+    </clipPath>
+    <clipPath
+       id="danielita">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path176" />
+    </clipPath>
+  </defs>
+  <g
+     transform="matrix(1.3333,0,0,-1.3333,0,719.98208)"
+     id="g683"
+     style="display:inline"
+     inkscape:label="g683">
+    <g
+       id="g185"
+       inkscape:label="bg"
+       sodipodi:insensitive="true"
+       style="display:inline">
+      <g
+         clip-path="url(#danielitbg)"
+         id="g183">
+        <path
+           d="M 0,6.1035e-5 H 720 V 540.00006 H 0 Z"
+           fill-rule="evenodd"
+           id="path181" />
+      </g>
+    </g>
+    <g
+       id="g191">
+      <g
+         clip-path="url(#danielitbf)"
+         id="g189">
+        <path
+           d="M 731.97,397.5 -7.38,398.22"
+           fill="none"
+           stroke="#ffff00"
+           stroke-miterlimit="10"
+           stroke-width="4"
+           id="path187" />
+      </g>
+    </g>
+    <g
+       id="g231">
+      <g
+         clip-path="url(#danielitbb)"
+         id="g229">
+        <text
+           transform="matrix(1,0,0,-1,77.208,487.44)"
+           fill="#ffff00"
+           font-family="Calibri"
+           font-size="44.04px"
+           font-weight="bold"
+           xml:space="preserve"
+           id="text227"><tspan
+             x="0 23.297159 38.402882 62.096401 85.74588 109.4394 120.14112 143.83464 164.70959 175.54344 197.29919 207.03204 230.68152 252.83363 262.78668 273.62051 295.24417 305.1972 331.22485 342.05869 365.70816 387.46393 397.41696 421.06644 443.21857 453.1716 480.91681 502.67255 526.32202 537.15588 559.30798"
+             y="0"
+             id="tspan225">Cronología de la Vida de Daniel</tspan></text>
+      </g>
+    </g>
+    <path
+       d="m 77.184,482.42 h 570 v -2.88 h -570 z"
+       fill="#ffff00"
+       fill-rule="evenodd"
+       id="path233" />
+    <path
+       d="M 11.76,34.406 H 687.63 V 67.08 H 11.76 Z"
+       fill="#ffc000"
+       fill-rule="evenodd"
+       id="path271" />
+    <path
+       d="M 687.63,34.406 713.76,8.28 V 40.954 L 687.63,67.08 Z"
+       fill="#cd9a00"
+       fill-rule="evenodd"
+       id="path273" />
+    <path
+       d="M 11.76,34.406 37.885,8.28 h 675.88 l -26.13,26.126 z"
+       fill="#ffcc32"
+       fill-rule="evenodd"
+       id="path275" />
+    <path
+       d="M 11.76,34.406 37.885,8.28 h 675.88 V 40.954 L 687.635,67.08 H 11.765 Z m 0,0 H 687.63 L 713.76,8.28 M 687.63,34.406 V 67.08"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       id="path277" />
+    <g
+       id="g285">
+      <g
+         clip-path="url(#danielitaw)"
+         id="g283">
+        <text
+           transform="matrix(1,0,0,-1,19.008,42.192)"
+           fill="#000000"
+           font-family="Calibri"
+           font-size="24px"
+           font-weight="bold"
+           xml:space="preserve"
+           id="text281"><tspan
+             x="0 20.976 26.879999 39.768002 45.599998 54.959999 63 75.071999 83.592003 89.496002 102.408 107.76 120.648 132.72 138.216 153.336 165.192 178.08 183.98399 196.056 201.96001 207.384 214.776 226.944 239.01601"
+             y="0"
+             id="tspan279">Ministerio de Daniel (605</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g293">
+      <g
+         clip-path="url(#danielitav)"
+         id="g291">
+        <text
+           transform="matrix(1,0,0,-1,270.19,42.192)"
+           fill="#000000"
+           font-family="Calibri"
+           font-size="24px"
+           font-weight="bold"
+           xml:space="preserve"
+           id="text289"><tspan
+             x="0"
+             y="0"
+             id="tspan287">-</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g301">
+      <g
+         clip-path="url(#danielitau)"
+         id="g299">
+        <text
+           transform="matrix(1,0,0,-1,277.51,42.192)"
+           fill="#000000"
+           font-family="Calibri"
+           font-size="24px"
+           font-weight="bold"
+           xml:space="preserve"
+           id="text297"><tspan
+             x="0 12.12 24.24 36.360001"
+             y="0"
+             id="tspan295">535)</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g1356"
+       inkscape:label="1"
+       class="fragment"
+       data-fragment-index="1"
+       style="display:inline">
+      <path
+         d="M 37.62,411.66 V 377.12"
+         fill="none"
+         stroke="#ffff00"
+         stroke-miterlimit="10"
+         stroke-width="4"
+         id="path235" />
+      <g
+         id="g243">
+        <g
+           clip-path="url(#danielitba)"
+           id="g241">
+          <text
+             transform="matrix(1,0,0,-1,16.968,421.61)"
+             fill="#ffff00"
+             font-family="Calibri"
+             font-size="24px"
+             font-weight="bold"
+             xml:space="preserve"
+             id="text239"><tspan
+               x="0 12.12 24.24"
+               y="0"
+               id="tspan237">605</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g351">
+        <g
+           clip-path="url(#danielitap)"
+           id="g349">
+          <text
+             transform="matrix(1,0,0,-1,9.648,357.29)"
+             fill="#ffff00"
+             font-family="Calibri"
+             font-size="20.04px"
+             font-weight="bold"
+             xml:space="preserve"
+             id="text347"><tspan
+               x="0 12.6252 22.444799 33.20628 38.13612 48.21624 53.14608"
+               y="0"
+               id="tspan345">Daniel </tspan></text>
+        </g>
+      </g>
+      <g
+         id="g359">
+        <g
+           clip-path="url(#danielitao)"
+           id="g357">
+          <text
+             transform="matrix(1,0,0,-1,33.408,333.29)"
+             fill="#ffff00"
+             font-family="Calibri"
+             font-size="20.064px"
+             font-weight="bold"
+             xml:space="preserve"
+             id="text355"><tspan
+               x="0"
+               y="0"
+               id="tspan353">1</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g1370"
+       style="display:inline"
+       inkscape:label="2"
+       class="fragment"
+       data-fragment-index="2">
+      <path
+         d="m 1.68,235.29 h 204.27 v 32.674 H 1.68 Z"
+         fill="#5353ff"
+         fill-rule="evenodd"
+         id="path321" />
+      <path
+         d="m 205.95,235.29 26.13,-26.13 v 32.67 l -26.13,26.13 z"
+         fill="#4343cd"
+         fill-rule="evenodd"
+         id="path323" />
+      <path
+         d="m 1.68,235.29 26.126,-26.13 h 204.27 l -26.13,26.13 z"
+         fill="#7575ff"
+         fill-rule="evenodd"
+         id="path325" />
+      <path
+         d="m 1.68,235.29 26.126,-26.13 h 204.27 v 32.67 l -26.13,26.13 H 1.676 Z m 0,0 h 204.27 l 26.13,-26.13 m -26.13,26.13 v 32.67"
+         fill="none"
+         stroke="#000000"
+         stroke-miterlimit="10"
+         id="path327" />
+      <g
+         id="g335">
+        <g
+           clip-path="url(#danielitar)"
+           id="g333">
+          <text
+             transform="matrix(1,0,0,-1,8.928,243.17)"
+             fill="#000000"
+             font-family="Calibri"
+             font-size="24px"
+             xml:space="preserve"
+             id="text331"><tspan
+               x="0 7.6560001 20.304001 31.799999 44.400002 57 62.52 75.120003 81.552002"
+               y="0"
+               id="tspan329">Joaquín; </tspan></text>
+        </g>
+      </g>
+      <g
+         id="g343"
+         style="display:inline">
+        <g
+           clip-path="url(#danielitaq)"
+           id="g341">
+          <text
+             transform="matrix(1,0,0,-1,95.832,243.17)"
+             fill="#000000"
+             font-family="Calibri"
+             font-size="24px"
+             xml:space="preserve"
+             id="text339"><tspan
+               x="0 11.016 23.016001 35.616001 47.568001 60.167999 72.767998 78.288002 89.783997"
+               y="0"
+               id="tspan337">Sedequías</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g1757"
+       style="display:inline"
+       inkscape:label="3"
+       class="fragment"
+       data-fragment-index="3">
+      <path
+         d="m 0.12,165.45 h 548.43 v 32.674 H 0.12 Z"
+         fill="#cccc00"
+         fill-rule="evenodd"
+         id="path361" />
+      <path
+         d="m 548.55,165.45 26.13,-26.13 v 32.67 l -26.13,26.13 z"
+         fill="#a4a400"
+         fill-rule="evenodd"
+         id="path363" />
+      <path
+         d="m 0.12,165.45 26.126,-26.13 h 548.43 l -26.13,26.13 z"
+         fill="#d6d632"
+         fill-rule="evenodd"
+         id="path365" />
+      <g
+         id="g371">
+        <g
+           clip-path="url(#danielitan)"
+           id="g369">
+          <path
+             d="m 0.12,165.45 26.126,-26.13 h 548.43 v 32.67 l -26.13,26.13 H 0.116 Z m 0,0 h 548.43 l 26.13,-26.13 m -26.13,26.13 v 32.67"
+             fill="none"
+             stroke="#000000"
+             stroke-miterlimit="10"
+             id="path367" />
+        </g>
+      </g>
+      <g
+         id="g379">
+        <g
+           clip-path="url(#danielitam)"
+           id="g377">
+          <text
+             transform="matrix(1,0,0,-1,8.976,173.52)"
+             fill="#000000"
+             font-family="Calibri"
+             font-size="24px"
+             font-weight="bold"
+             xml:space="preserve"
+             id="text375"><tspan
+               x="0 15.816 27.672001 40.560001 53.448002 63.360001 76.272003 89.160004 102.072 114.96 127.872 137.496 150.408"
+               y="0"
+               id="tspan373">Nabucodonosor</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g1785"
+       inkscape:label="4"
+       class="fragment"
+       data-fragment-index="4"
+       style="display:inline">
+      <g
+         id="g199">
+        <g
+           clip-path="url(#danielitbe)"
+           id="g197">
+          <text
+             transform="matrix(1,0,0,-1,67.8,421.13)"
+             fill="#ffff00"
+             font-family="Calibri"
+             font-size="24px"
+             font-weight="bold"
+             xml:space="preserve"
+             id="text195"><tspan
+               x="0 12.12 24.24"
+               y="0"
+               id="tspan193">602</tspan></text>
+        </g>
+      </g>
+      <path
+         d="M 87.18,415.38 V 317.42"
+         fill="none"
+         stroke="#ffff00"
+         stroke-miterlimit="10"
+         stroke-width="4"
+         id="path217" />
+      <g
+         id="g445">
+        <g
+           clip-path="url(#danielitad)"
+           id="g443">
+          <text
+             transform="matrix(1,0,0,-1,62.232,299.66)"
+             fill="#ffff00"
+             font-family="Calibri"
+             font-size="20.04px"
+             font-weight="bold"
+             xml:space="preserve"
+             id="text441"><tspan
+               x="0 12.6252 22.444799 33.20628 38.13612 48.21624 53.14608"
+               y="0"
+               id="tspan439">Daniel </tspan></text>
+        </g>
+      </g>
+      <g
+         id="g453"
+         inkscape:label="g453">
+        <g
+           clip-path="url(#danielitac)"
+           id="g451">
+          <text
+             transform="matrix(1,0,0,-1,85.992,275.66)"
+             fill="#ffff00"
+             font-family="Calibri"
+             font-size="20.064px"
+             font-weight="bold"
+             xml:space="preserve"
+             id="text449"><tspan
+               x="0"
+               y="0"
+               id="tspan447">2</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
