@@ -8,7 +8,7 @@
    viewBox="0 0 959.97602 719.98199"
    id="svg5453"
    sodipodi:docname="babilonia-completo.svg"
-   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   inkscape:version="1.2.2 (b0a84865, 2022-12-01)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -25,14 +25,14 @@
      inkscape:deskcolor="#505050"
      showgrid="false"
      inkscape:zoom="0.56527778"
-     inkscape:cx="149.48403"
-     inkscape:cy="529.82801"
-     inkscape:window-width="1920"
-     inkscape:window-height="1001"
-     inkscape:window-x="-9"
-     inkscape:window-y="-9"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="g5451" />
+     inkscape:cx="820.83538"
+     inkscape:cy="802.26044"
+     inkscape:window-width="1512"
+     inkscape:window-height="809"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g5447" />
   <defs
      id="defs5209">
     <clipPath
@@ -872,9 +872,9 @@
              font-size="39.984px"
              xml:space="preserve"
              id="text5445"><tspan
-               x="0 19.152336 28.548576"
-               y="0"
-               id="tspan5443">a.C</tspan></text>
+               x="0 0 19.152336 28.548576"
+               id="tspan5443"
+               y="0 0">da.C</tspan></text>
         </g>
       </g>
     </g>
