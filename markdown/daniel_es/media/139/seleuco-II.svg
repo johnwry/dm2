@@ -1,0 +1,1701 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1343.9664"
+   height="1007.9747"
+   version="1.1"
+   viewBox="0 0 959.97602 719.98191"
+   id="svg3558"
+   sodipodi:docname="seleuco-II.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview3560"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="1.1305556"
+     inkscape:cx="431.20393"
+     inkscape:cy="360.44226"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g3556" />
+  <defs
+     id="defs3036">
+    <clipPath
+       id="danielitbh">
+      <path
+         d="M 0,1.2207e-4 H 720 V 540.00012 H 0 Z"
+         clip-rule="evenodd"
+         id="path2798" />
+    </clipPath>
+    <pattern
+       id="danielita"
+       width="128"
+       height="128"
+       patternTransform="matrix(.96 0 0 .96 0 540)"
+       patternUnits="userSpaceOnUse">
+      <g
+         transform="scale(128)"
+         id="g2803">
+        <image
+           transform="matrix(1,0,0,-1,0,1)"
+           width="1"
+           height="1"
+           preserveAspectRatio="none"
+           xlink:href="data:image/png;base64,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"
+           id="image2801" />
+      </g>
+    </pattern>
+    <clipPath
+       id="danielitbg">
+      <path
+         d="M 0,1.2207e-4 H 720 V 540.00012 H 0 Z"
+         clip-rule="evenodd"
+         id="path2806" />
+    </clipPath>
+    <clipPath
+       id="danielitbf">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path2809" />
+    </clipPath>
+    <clipPath
+       id="clipPath2814">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path2812" />
+    </clipPath>
+    <clipPath
+       id="danielitbe">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path2816" />
+    </clipPath>
+    <clipPath
+       id="clipPath2821">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path2819" />
+    </clipPath>
+    <clipPath
+       id="danielitbd">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path2823" />
+    </clipPath>
+    <clipPath
+       id="danielitbc">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path2826" />
+    </clipPath>
+    <clipPath
+       id="danielitbb">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path2829" />
+    </clipPath>
+    <clipPath
+       id="clipPath2834">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path2832" />
+    </clipPath>
+    <clipPath
+       id="danielitba">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path2836" />
+    </clipPath>
+    <clipPath
+       id="clipPath2841">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path2839" />
+    </clipPath>
+    <clipPath
+       id="danielitaz">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path2843" />
+    </clipPath>
+    <clipPath
+       id="danielitay">
+      <path
+         d="M 0,2.4414e-4 H 720 V 540.00024 H 0 Z"
+         clip-rule="evenodd"
+         id="path2846" />
+    </clipPath>
+    <clipPath
+       id="danielitax">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path2849" />
+    </clipPath>
+    <clipPath
+       id="danielitaw">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path2852" />
+    </clipPath>
+    <clipPath
+       id="danielitav">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path2855" />
+    </clipPath>
+    <clipPath
+       id="danielitau">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path2858" />
+    </clipPath>
+    <clipPath
+       id="danielitat">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path2861" />
+    </clipPath>
+    <clipPath
+       id="danielitas">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path2864" />
+    </clipPath>
+    <clipPath
+       id="danielitar">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path2867" />
+    </clipPath>
+    <clipPath
+       id="danielitaq">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path2870" />
+    </clipPath>
+    <clipPath
+       id="danielitap">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path2873" />
+    </clipPath>
+    <clipPath
+       id="danielitao">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path2876" />
+    </clipPath>
+    <clipPath
+       id="danielitan">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path2879" />
+    </clipPath>
+    <clipPath
+       id="danielitam">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path2882" />
+    </clipPath>
+    <clipPath
+       id="danielital">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path2885" />
+    </clipPath>
+    <clipPath
+       id="danielitak">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path2888" />
+    </clipPath>
+    <clipPath
+       id="danielitaj">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path2891" />
+    </clipPath>
+    <clipPath
+       id="danielitai">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path2894" />
+    </clipPath>
+    <clipPath
+       id="danielitah">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path2897" />
+    </clipPath>
+    <clipPath
+       id="danielitag">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path2900" />
+    </clipPath>
+    <clipPath
+       id="danielitaf">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path2903" />
+    </clipPath>
+    <clipPath
+       id="danielitae">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path2906" />
+    </clipPath>
+    <clipPath
+       id="danielitad">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path2909" />
+    </clipPath>
+    <clipPath
+       id="clipPath2914">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path2912" />
+    </clipPath>
+    <clipPath
+       id="danielitac">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path2916" />
+    </clipPath>
+    <clipPath
+       id="clipPath2921">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path2919" />
+    </clipPath>
+    <clipPath
+       id="danielitab">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path2923" />
+    </clipPath>
+    <clipPath
+       id="clipPath2928">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path2926" />
+    </clipPath>
+    <clipPath
+       id="danielitaa">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path2930" />
+    </clipPath>
+    <clipPath
+       id="danielitz">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path2933" />
+    </clipPath>
+    <clipPath
+       id="danielity">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path2936" />
+    </clipPath>
+    <clipPath
+       id="danielitx">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path2939" />
+    </clipPath>
+    <clipPath
+       id="danielitw">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path2942" />
+    </clipPath>
+    <clipPath
+       id="danielitv">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path2945" />
+    </clipPath>
+    <clipPath
+       id="danielitu">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path2948" />
+    </clipPath>
+    <clipPath
+       id="danielitt">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path2951" />
+    </clipPath>
+    <clipPath
+       id="danielits">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path2954" />
+    </clipPath>
+    <clipPath
+       id="danielitr">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path2957" />
+    </clipPath>
+    <clipPath
+       id="danielitq">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path2960" />
+    </clipPath>
+    <clipPath
+       id="danielitp">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path2963" />
+    </clipPath>
+    <clipPath
+       id="danielito">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path2966" />
+    </clipPath>
+    <clipPath
+       id="clipPath2971">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path2969" />
+    </clipPath>
+    <clipPath
+       id="danielitn">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path2973" />
+    </clipPath>
+    <clipPath
+       id="danielitm">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path2976" />
+    </clipPath>
+    <clipPath
+       id="clipPath2981">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path2979" />
+    </clipPath>
+    <clipPath
+       id="danielitl">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path2983" />
+    </clipPath>
+    <clipPath
+       id="clipPath2988">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path2986" />
+    </clipPath>
+    <clipPath
+       id="danielitk">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path2990" />
+    </clipPath>
+    <clipPath
+       id="danielitj">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path2993" />
+    </clipPath>
+    <clipPath
+       id="clipPath2998">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path2996" />
+    </clipPath>
+    <clipPath
+       id="danieliti">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path3000" />
+    </clipPath>
+    <clipPath
+       id="clipPath3005">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path3003" />
+    </clipPath>
+    <clipPath
+       id="danielith">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path3007" />
+    </clipPath>
+    <clipPath
+       id="danielitg">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path3010" />
+    </clipPath>
+    <clipPath
+       id="danielitf">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path3013" />
+    </clipPath>
+    <clipPath
+       id="clipPath3018">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path3016" />
+    </clipPath>
+    <clipPath
+       id="danielite">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path3020" />
+    </clipPath>
+    <clipPath
+       id="danielitd">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path3023" />
+    </clipPath>
+    <clipPath
+       id="clipPath3028">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path3026" />
+    </clipPath>
+    <clipPath
+       id="danielitc">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path3030" />
+    </clipPath>
+    <clipPath
+       id="danielitb">
+      <path
+         d="M 1.0729e-5,0 H 720.00001 V 540 H 1.0729e-5 Z"
+         clip-rule="evenodd"
+         id="path3033" />
+    </clipPath>
+  </defs>
+  <g
+     transform="matrix(1.3333,0,0,-1.3333,0,719.98208)"
+     id="g3556">
+    <g
+       id="g3042"
+       sodipodi:insensitive="true">
+      <g
+         clip-path="url(#danielitbh)"
+         id="g3040">
+        <path
+           d="M 0,6.1035e-5 H 720 V 540.00006 H 0 Z"
+           fill="url(#danielita)"
+           fill-rule="evenodd"
+           id="path3038" />
+      </g>
+    </g>
+    <g
+       id="g3048">
+      <g
+         clip-path="url(#danielitbg)"
+         id="g3046">
+        <path
+           d="M 0,496.32 H 720 V 540 H 0 Z"
+           fill="#ffca61"
+           fill-rule="evenodd"
+           id="path3044" />
+      </g>
+    </g>
+    <g
+       id="g3056">
+      <g
+         clip-path="url(#danielitbf)"
+         id="g3054">
+        <text
+           transform="matrix(1,0,0,-1,20.76,508.32)"
+           fill="#000000"
+           font-family="Calibri"
+           font-size="30.024px"
+           font-weight="bold"
+           xml:space="preserve"
+           id="text3052"><tspan
+             x="0 16.573248 28.552824"
+             y="0"
+             id="tspan3050">Vs.</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g3058" />
+    <g
+       id="g3066">
+      <g
+         clip-path="url(#danielitbe)"
+         id="g3064">
+        <text
+           transform="matrix(1,0,0,-1,79.224,508.32)"
+           fill="#000000"
+           font-family="Calibri"
+           font-size="30.024px"
+           font-weight="bold"
+           xml:space="preserve"
+           id="text3062"><tspan
+             x="0 16.453152 31.555223 38.941128 54.973946"
+             y="0"
+             id="tspan3060">Reino</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g3068" />
+    <g
+       id="g3076">
+      <g
+         clip-path="url(#danielitbd)"
+         id="g3074">
+        <text
+           transform="matrix(1,0,0,-1,157.1,508.32)"
+           fill="#000000"
+           font-family="Calibri"
+           font-size="30.024px"
+           font-weight="bold"
+           xml:space="preserve"
+           id="text3072"><tspan
+             x="0 19.785816 35.938728 46.597248 56.625263 71.727333 132.46588 151.38101 166.21286 182.33575 189.57153 204.67361 212.05951 218.72484 233.94701 249.16917 257.45581"
+             y="0"
+             id="tspan3070">Norte Daniel 11:5</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g3084">
+      <g
+         clip-path="url(#danielitbc)"
+         id="g3082">
+        <text
+           transform="matrix(1,0,0,-1,429.91,508.32)"
+           fill="#000000"
+           font-family="Calibri"
+           font-size="30.024px"
+           font-weight="bold"
+           xml:space="preserve"
+           id="text3080"><tspan
+             x="0"
+             y="0"
+             id="tspan3078">-</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g3092">
+      <g
+         clip-path="url(#danielitbb)"
+         id="g3090">
+        <text
+           transform="matrix(1,0,0,-1,439.15,508.32)"
+           fill="#000000"
+           font-family="Calibri"
+           font-size="30.024px"
+           font-weight="bold"
+           xml:space="preserve"
+           id="text3088"><tspan
+             x="0 15.239968 30.479937"
+             y="0"
+             id="tspan3086">35 </tspan></text>
+      </g>
+    </g>
+    <g
+       id="g3094" />
+    <g
+       id="g3102">
+      <g
+         clip-path="url(#danielitba)"
+         id="g3100">
+        <text
+           transform="matrix(1,0,0,-1,572.02,508.32)"
+           fill="#000000"
+           font-family="Calibri"
+           font-size="30.024px"
+           font-weight="bold"
+           xml:space="preserve"
+           id="text3098"><tspan
+             x="0 16.453152 31.555223 38.941128 54.973946"
+             y="0"
+             id="tspan3096">Reino</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g3104" />
+    <g
+       id="g3112">
+      <g
+         clip-path="url(#danielitaz)"
+         id="g3110">
+        <text
+           transform="matrix(1,0,0,-1,650.02,508.32)"
+           fill="#000000"
+           font-family="Calibri"
+           font-size="30.024px"
+           font-weight="bold"
+           xml:space="preserve"
+           id="text3108"><tspan
+             x="0 14.159952 30.24144"
+             y="0"
+             id="tspan3106">Sur</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g3118"
+       sodipodi:insensitive="true">
+      <g
+         clip-path="url(#danielitay)"
+         id="g3116">
+        <path
+           d="m 0,-0.47998 h 77.4 v 496.8 H 0 Z"
+           fill="#ffca61"
+           fill-rule="evenodd"
+           id="path3114" />
+      </g>
+    </g>
+    <g
+       id="g3126">
+      <g
+         clip-path="url(#danielitax)"
+         id="g3124">
+        <text
+           transform="matrix(1,0,0,-1,32.568,470.33)"
+           fill="#000000"
+           font-family="Calibri"
+           font-size="24.024px"
+           font-weight="bold"
+           xml:space="preserve"
+           id="text3122"><tspan
+             x="0"
+             y="0"
+             id="tspan3120">5</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g3134">
+      <g
+         clip-path="url(#danielitaw)"
+         id="g3132">
+        <text
+           transform="matrix(1,0,0,-1,32.568,412.7)"
+           fill="#000000"
+           font-family="Calibri"
+           font-size="24px"
+           font-weight="bold"
+           xml:space="preserve"
+           id="text3130"><tspan
+             x="0"
+             y="0"
+             id="tspan3128">6</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g3142">
+      <g
+         clip-path="url(#danielitav)"
+         id="g3140">
+        <text
+           transform="matrix(1,0,0,-1,22.848,355.08)"
+           fill="#000000"
+           font-family="Calibri"
+           font-size="24px"
+           font-weight="bold"
+           xml:space="preserve"
+           id="text3138"><tspan
+             x="0"
+             y="0"
+             id="tspan3136">7</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g3150">
+      <g
+         clip-path="url(#danielitau)"
+         id="g3148">
+        <text
+           transform="matrix(1,0,0,-1,34.968,355.08)"
+           fill="#000000"
+           font-family="Calibri"
+           font-size="24px"
+           font-weight="bold"
+           xml:space="preserve"
+           id="text3146"><tspan
+             x="0"
+             y="0"
+             id="tspan3144">-</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g3158">
+      <g
+         clip-path="url(#danielitat)"
+         id="g3156">
+        <text
+           transform="matrix(1,0,0,-1,42.288,355.08)"
+           fill="#000000"
+           font-family="Calibri"
+           font-size="24px"
+           font-weight="bold"
+           xml:space="preserve"
+           id="text3154"><tspan
+             x="0"
+             y="0"
+             id="tspan3152">9</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g3166">
+      <g
+         clip-path="url(#danielitas)"
+         id="g3164">
+        <text
+           transform="matrix(1,0,0,-1,10.728,297.48)"
+           fill="#000000"
+           font-family="Calibri"
+           font-size="24px"
+           font-weight="bold"
+           xml:space="preserve"
+           id="text3162"><tspan
+             x="0 12.12"
+             y="0"
+             id="tspan3160">10</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g3174">
+      <g
+         clip-path="url(#danielitar)"
+         id="g3172">
+        <text
+           transform="matrix(1,0,0,-1,34.968,297.48)"
+           fill="#000000"
+           font-family="Calibri"
+           font-size="24px"
+           font-weight="bold"
+           xml:space="preserve"
+           id="text3170"><tspan
+             x="0"
+             y="0"
+             id="tspan3168">-</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g3182">
+      <g
+         clip-path="url(#danielitaq)"
+         id="g3180">
+        <text
+           transform="matrix(1,0,0,-1,42.288,297.48)"
+           fill="#000000"
+           font-family="Calibri"
+           font-size="24px"
+           font-weight="bold"
+           xml:space="preserve"
+           id="text3178"><tspan
+             x="0 12.12"
+             y="0"
+             id="tspan3176">14</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g3190">
+      <g
+         clip-path="url(#danielitap)"
+         id="g3188">
+        <text
+           transform="matrix(1,0,0,-1,10.728,230.26)"
+           fill="#000000"
+           font-family="Calibri"
+           font-size="24px"
+           font-weight="bold"
+           xml:space="preserve"
+           id="text3186"><tspan
+             x="0 12.12"
+             y="0"
+             id="tspan3184">15</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g3198">
+      <g
+         clip-path="url(#danielitao)"
+         id="g3196">
+        <text
+           transform="matrix(1,0,0,-1,34.968,230.26)"
+           fill="#000000"
+           font-family="Calibri"
+           font-size="24px"
+           font-weight="bold"
+           xml:space="preserve"
+           id="text3194"><tspan
+             x="0"
+             y="0"
+             id="tspan3192">-</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g3206">
+      <g
+         clip-path="url(#danielitan)"
+         id="g3204">
+        <text
+           transform="matrix(1,0,0,-1,42.288,230.26)"
+           fill="#000000"
+           font-family="Calibri"
+           font-size="24px"
+           font-weight="bold"
+           xml:space="preserve"
+           id="text3202"><tspan
+             x="0 12.12"
+             y="0"
+             id="tspan3200">16</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g3214">
+      <g
+         clip-path="url(#danielitam)"
+         id="g3212">
+        <text
+           transform="matrix(1,0,0,-1,26.568,172.66)"
+           fill="#000000"
+           font-family="Calibri"
+           font-size="24.024px"
+           font-weight="bold"
+           xml:space="preserve"
+           id="text3210"><tspan
+             x="0 12.119968"
+             y="0"
+             id="tspan3208">17</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g3222">
+      <g
+         clip-path="url(#danielital)"
+         id="g3220">
+        <text
+           transform="matrix(1,0,0,-1,10.728,119.83)"
+           fill="#000000"
+           font-family="Calibri"
+           font-size="24px"
+           font-weight="bold"
+           xml:space="preserve"
+           id="text3218"><tspan
+             x="0 12.12"
+             y="0"
+             id="tspan3216">18</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g3230">
+      <g
+         clip-path="url(#danielitak)"
+         id="g3228">
+        <text
+           transform="matrix(1,0,0,-1,34.968,119.83)"
+           fill="#000000"
+           font-family="Calibri"
+           font-size="24px"
+           font-weight="bold"
+           xml:space="preserve"
+           id="text3226"><tspan
+             x="0"
+             y="0"
+             id="tspan3224">-</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g3238">
+      <g
+         clip-path="url(#danielitaj)"
+         id="g3236">
+        <text
+           transform="matrix(1,0,0,-1,42.288,119.83)"
+           fill="#000000"
+           font-family="Calibri"
+           font-size="24px"
+           font-weight="bold"
+           xml:space="preserve"
+           id="text3234"><tspan
+             x="0 12.12"
+             y="0"
+             id="tspan3232">19</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g3246">
+      <g
+         clip-path="url(#danielitai)"
+         id="g3244">
+        <text
+           transform="matrix(1,0,0,-1,26.568,67.032)"
+           fill="#000000"
+           font-family="Calibri"
+           font-size="24.024px"
+           font-weight="bold"
+           xml:space="preserve"
+           id="text3242"><tspan
+             x="0 12.119968"
+             y="0"
+             id="tspan3240">20</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g3254">
+      <g
+         clip-path="url(#danielitah)"
+         id="g3252">
+        <text
+           transform="matrix(1,0,0,-1,10.728,14.208)"
+           fill="#000000"
+           font-family="Calibri"
+           font-size="24px"
+           font-weight="bold"
+           xml:space="preserve"
+           id="text3250"><tspan
+             x="0 12.12"
+             y="0"
+             id="tspan3248">21</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g3262">
+      <g
+         clip-path="url(#danielitag)"
+         id="g3260">
+        <text
+           transform="matrix(1,0,0,-1,34.968,14.208)"
+           fill="#000000"
+           font-family="Calibri"
+           font-size="24px"
+           font-weight="bold"
+           xml:space="preserve"
+           id="text3258"><tspan
+             x="0"
+             y="0"
+             id="tspan3256">-</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g3270">
+      <g
+         clip-path="url(#danielitaf)"
+         id="g3268">
+        <text
+           transform="matrix(1,0,0,-1,42.288,14.208)"
+           fill="#000000"
+           font-family="Calibri"
+           font-size="24px"
+           font-weight="bold"
+           xml:space="preserve"
+           id="text3266"><tspan
+             x="0 12.12"
+             y="0"
+             id="tspan3264">35</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g3278">
+      <g
+         clip-path="url(#danielitae)"
+         id="g3276">
+        <text
+           transform="matrix(1,0,0,-1,202.87,464.47)"
+           fill="#000000"
+           font-family="Calibri"
+           font-size="20.04px"
+           xml:space="preserve"
+           id="text3274"><tspan
+             x="0 9.1983604 19.17828 23.787479 33.767399 44.288399 52.685162 63.246239"
+             y="0"
+             id="tspan3272">Seleuco </tspan></text>
+      </g>
+    </g>
+    <g
+       id="g3286">
+      <g
+         clip-path="url(#danielitad)"
+         id="g3284">
+        <text
+           transform="matrix(1,0,0,-1,270.58,464.47)"
+           fill="#000000"
+           font-family="Calibri"
+           font-size="20.04px"
+           xml:space="preserve"
+           id="text3282"><tspan
+             x="0 9.9799204 25.91172 36.43272 46.1922 53.627041"
+             y="0"
+             id="tspan3280">empezó</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g3288" />
+    <g
+       id="g3296">
+      <g
+         clip-path="url(#danielitac)"
+         id="g3294">
+        <text
+           transform="matrix(1,0,0,-1,339.34,464.47)"
+           fill="#000000"
+           font-family="Calibri"
+           font-size="20.04px"
+           xml:space="preserve"
+           id="text3292"><tspan
+             x="0 9.1182003 18.71736 29.238359 38.837521 49.41864 59.93964"
+             y="0"
+             id="tspan3290">ganando</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g3298" />
+    <g
+       id="g3306">
+      <g
+         clip-path="url(#danielitab)"
+         id="g3304">
+        <text
+           transform="matrix(1,0,0,-1,414.1,464.47)"
+           fill="#000000"
+           font-family="Calibri"
+           font-size="20.04px"
+           xml:space="preserve"
+           id="text3302"><tspan
+             x="0 10.56108 21.12216 31.703279 41.683201"
+             y="0"
+             id="tspan3300">poder</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g3308" />
+    <g
+       id="g3316">
+      <g
+         clip-path="url(#danielitaa)"
+         id="g3314">
+        <text
+           transform="matrix(1,0,0,-1,467.16,464.47)"
+           fill="#000000"
+           font-family="Calibri"
+           font-size="20.04px"
+           xml:space="preserve"
+           id="text3312"><tspan
+             x="0 7.83564 18.396721 28.917721 35.631119 45.611038"
+             y="0"
+             id="tspan3310">sobre </tspan></text>
+      </g>
+    </g>
+    <g
+       id="g3324">
+      <g
+         clip-path="url(#danielitz)"
+         id="g3322">
+        <text
+           transform="matrix(1,0,0,-1,517.2,464.47)"
+           fill="#000000"
+           font-family="Calibri"
+           font-size="20.04px"
+           xml:space="preserve"
+           id="text3320"><tspan
+             x="0 9.8196001 19.25844 23.86764 34.308479 40.781399"
+             y="0"
+             id="tspan3318">Egipto</tspan></text>
+      </g>
+    </g>
+    <path
+       d="m 82.2,450.6 h 114 v 36.36 h -114 z"
+       fill="#ccff99"
+       fill-rule="evenodd"
+       id="path3326" />
+    <path
+       d="m 82.2,450.6 h 114 v 36.36 h -114 z"
+       fill="none"
+       stroke="#ff0000"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="0.75"
+       id="path3328" />
+    <g
+       id="g3336">
+      <g
+         clip-path="url(#danielity)"
+         id="g3334">
+        <text
+           transform="matrix(1,0,0,-1,95.736,460.85)"
+           fill="#000000"
+           font-family="Calibri"
+           font-size="24px"
+           xml:space="preserve"
+           id="text3332"><tspan
+             x="0 11.016 23.016001 28.535999 40.487999 53.088001 63.096001 75.744003 80.975998"
+             y="0"
+             id="tspan3330">Seleuco I</tspan></text>
+      </g>
+    </g>
+    <path
+       d="m 576.12,450.96 h 134.64 v 36.36 H 576.12 Z"
+       fill="#ffffff"
+       fill-rule="evenodd"
+       id="path3338" />
+    <path
+       d="m 576.12,450.96 h 134.64 v 36.36 H 576.12 Z"
+       fill="none"
+       stroke="#7030a0"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="0.75"
+       id="path3340" />
+    <g
+       id="g3348">
+      <g
+         clip-path="url(#danielitx)"
+         id="g3346">
+        <text
+           transform="matrix(1,0,0,-1,587.33,461.23)"
+           fill="#000000"
+           font-family="Calibri"
+           font-size="24px"
+           xml:space="preserve"
+           id="text3344"><tspan
+             x="0 12.408 20.280001 32.928001 38.448002 51 70.176003 82.127998 94.776001 100.2"
+             y="0"
+             id="tspan3342">Ptolomeo 1</tspan></text>
+      </g>
+    </g>
+    <path
+       d="M 83.4,399.48 H 219 v 36.36 H 83.4 Z"
+       fill="#ccff99"
+       fill-rule="evenodd"
+       id="path3350" />
+    <path
+       d="M 83.4,399.48 H 219 v 36.36 H 83.4 Z"
+       fill="none"
+       stroke="#ff0000"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="0.75"
+       id="path3352" />
+    <g
+       id="g3360">
+      <g
+         clip-path="url(#danielitw)"
+         id="g3358">
+        <text
+           transform="matrix(1,0,0,-1,105,409.8)"
+           fill="#000000"
+           font-family="Calibri"
+           font-size="24px"
+           xml:space="preserve"
+           id="text3356"><tspan
+             x="0 13.896 26.280001 34.32 39.84 52.487999 62.400002 75.047997 80.279999 86.328003"
+             y="0"
+             id="tspan3354">Antíoco II</tspan></text>
+      </g>
+    </g>
+    <path
+       d="m 575.16,399.96 h 135.6 v 36.36 h -135.6 z"
+       fill="#ffffff"
+       fill-rule="evenodd"
+       id="path3362" />
+    <path
+       d="m 575.16,399.96 h 135.6 v 36.36 h -135.6 z"
+       fill="none"
+       stroke="#7030a0"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="0.75"
+       id="path3364" />
+    <g
+       id="g3372">
+      <g
+         clip-path="url(#danielitv)"
+         id="g3370">
+        <text
+           transform="matrix(1,0,0,-1,586.87,410.18)"
+           fill="#000000"
+           font-family="Calibri"
+           font-size="24px"
+           xml:space="preserve"
+           id="text3368"><tspan
+             x="0 12.408 20.280001 32.928001 38.448002 51 70.176003 82.127998 94.776001"
+             y="0"
+             id="tspan3366">Ptolomeo </tspan></text>
+      </g>
+    </g>
+    <g
+       id="g3380">
+      <g
+         clip-path="url(#danielitu)"
+         id="g3378">
+        <text
+           transform="matrix(1,0,0,-1,687.07,410.18)"
+           fill="#000000"
+           font-family="Calibri"
+           font-size="24px"
+           xml:space="preserve"
+           id="text3376"><tspan
+             x="0 6"
+             y="0"
+             id="tspan3374">II</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g3420">
+      <g
+         clip-path="url(#danielitq)"
+         id="g3418">
+        <text
+           transform="matrix(1,0,0,-1,234.6,417.96)"
+           fill="#000000"
+           font-family="Calibri"
+           font-size="20.04px"
+           xml:space="preserve"
+           id="text3416"><tspan
+             x="0 10.4208 16.893721 27.4548 32.063999 42.62508 58.536839 68.516762 79.077843"
+             y="0"
+             id="tspan3414">Ptolomeo </tspan></text>
+      </g>
+    </g>
+    <g
+       id="g3428">
+      <g
+         clip-path="url(#danielitp)"
+         id="g3426">
+        <text
+           transform="matrix(1,0,0,-1,318.24,417.96)"
+           fill="#000000"
+           font-family="Calibri"
+           font-size="20.04px"
+           xml:space="preserve"
+           id="text3424"><tspan
+             x="0 9.5991602 16.593121 23.28648 33.266399 42.705238"
+             y="0"
+             id="tspan3422">arregl</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g3436">
+      <g
+         clip-path="url(#danielito)"
+         id="g3434">
+        <text
+           transform="matrix(1,0,0,-1,365.54,417.96)"
+           fill="#000000"
+           font-family="Calibri"
+           font-size="20.04px"
+           xml:space="preserve"
+           id="text3432"><tspan
+             x="0"
+             y="0"
+             id="tspan3430">ó</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g3438" />
+    <g
+       id="g3446">
+      <g
+         clip-path="url(#danielitn)"
+         id="g3444">
+        <text
+           transform="matrix(1,0,0,-1,380.66,417.96)"
+           fill="#000000"
+           font-family="Calibri"
+           font-size="20.04px"
+           xml:space="preserve"
+           id="text3442"><tspan
+             x="0 10.56 21.120001"
+             y="0"
+             id="tspan3440">un </tspan></text>
+      </g>
+    </g>
+    <g
+       id="g3454">
+      <g
+         clip-path="url(#danielitm)"
+         id="g3452">
+        <text
+           transform="matrix(1,0,0,-1,406.1,417.96)"
+           fill="#000000"
+           font-family="Calibri"
+           font-size="20.04px"
+           xml:space="preserve"
+           id="text3450"><tspan
+             x="0 16.011959 25.61112 32.524921 37.134121 53.045879 63.60696 74.12796 78.73716"
+             y="0"
+             id="tspan3448">marimonio</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g3456" />
+    <g
+       id="g3464">
+      <g
+         clip-path="url(#danielitl)"
+         id="g3462">
+        <text
+           transform="matrix(1,0,0,-1,500.09,417.96)"
+           fill="#000000"
+           font-family="Calibri"
+           font-size="20.04px"
+           xml:space="preserve"
+           id="text3460"><tspan
+             x="0 10.521 21.082081 25.69128 30.24036 36.953758 41.562962 49.91964"
+             y="0"
+             id="tspan3458">político</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g3466" />
+    <g
+       id="g3474">
+      <g
+         clip-path="url(#danielitk)"
+         id="g3472">
+        <text
+           transform="matrix(1,0,0,-1,263.28,393.94)"
+           fill="#000000"
+           font-family="Calibri"
+           font-size="20.04px"
+           xml:space="preserve"
+           id="text3470"><tspan
+             x="0 10.521 20.500919"
+             y="0"
+             id="tspan3468">de </tspan></text>
+      </g>
+    </g>
+    <g
+       id="g3482">
+      <g
+         clip-path="url(#danielitj)"
+         id="g3480">
+        <text
+           transform="matrix(1,0,0,-1,288.24,393.94)"
+           fill="#000000"
+           font-family="Calibri"
+           font-size="20.04px"
+           xml:space="preserve"
+           id="text3478"><tspan
+             x="0 7.8000398"
+             y="0"
+             id="tspan3476">su</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g3484" />
+    <g
+       id="g3492">
+      <g
+         clip-path="url(#danieliti)"
+         id="g3490">
+        <text
+           transform="matrix(1,0,0,-1,311.16,393.94)"
+           fill="#000000"
+           font-family="Calibri"
+           font-size="20.04px"
+           xml:space="preserve"
+           id="text3488"><tspan
+             x="0 10.521 15.1302 19.91976"
+             y="0"
+             id="tspan3486">hija</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g3494" />
+    <g
+       id="g3502">
+      <g
+         clip-path="url(#danielith)"
+         id="g3500">
+        <text
+           transform="matrix(1,0,0,-1,345.14,393.94)"
+           fill="#000000"
+           font-family="Calibri"
+           font-size="20.04px"
+           xml:space="preserve"
+           id="text3498"><tspan
+             x="0 10.90176 20.88168 27.595079 37.575001 48.096001 52.7052 61.182121 71.162041 75.691078 84.167999 94.72908 105.25008 109.55868 121.16184 131.52252 138.23592 142.84512 153.4062 161.76288 172.32396 176.77284 181.82292"
+             y="0"
+             id="tspan3496">Berenice con Antíoco II</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g3520" />
+    <g
+       id="g3538" />
+    <g
+       id="g3773"
+       style="display:inline"
+       inkscape:label="1"
+       class="fragment"
+       data-fragment-index="1">
+      <path
+         d="m 82.2,342 h 135.72 v 36.36 H 82.2 Z"
+         fill="#ccff99"
+         fill-rule="evenodd"
+         id="path3382" />
+      <path
+         d="m 82.2,342 h 135.72 v 36.36 H 82.2 Z"
+         fill="none"
+         stroke="#ff0000"
+         stroke-linejoin="round"
+         stroke-miterlimit="10"
+         stroke-width="0.75"
+         id="path3384" />
+      <g
+         id="g3392">
+        <g
+           clip-path="url(#danielitt)"
+           id="g3390">
+          <text
+             transform="matrix(1,0,0,-1,103.51,352.32)"
+             fill="#000000"
+             font-family="Calibri"
+             font-size="24px"
+             xml:space="preserve"
+             id="text3388"><tspan
+               x="0 11.016 23.016001 28.535999 40.487999 53.088001 63.096001 75.744003 80.975998 87.024002"
+               y="0"
+               id="tspan3386">Seleuco II</tspan></text>
+        </g>
+      </g>
+      <path
+         d="m 576.84,341.52 h 135.6 v 36.36 h -135.6 z"
+         fill="#ffffff"
+         fill-rule="evenodd"
+         id="path3394" />
+      <path
+         d="m 576.84,341.52 h 135.6 v 36.36 h -135.6 z"
+         fill="none"
+         stroke="#7030a0"
+         stroke-linejoin="round"
+         stroke-miterlimit="10"
+         stroke-width="0.75"
+         id="path3396" />
+      <g
+         id="g3404">
+        <g
+           clip-path="url(#danielits)"
+           id="g3402">
+          <text
+             transform="matrix(1,0,0,-1,585.58,351.79)"
+             fill="#000000"
+             font-family="Calibri"
+             font-size="24.024px"
+             xml:space="preserve"
+             id="text3400"><tspan
+               x="0 12.420408 20.276257 32.936905 38.462425 51.002953 70.198128 82.162079 94.822731"
+               y="0"
+               id="tspan3398">Ptolomeo </tspan></text>
+        </g>
+      </g>
+      <g
+         id="g3412">
+        <g
+           clip-path="url(#danielitr)"
+           id="g3410">
+          <text
+             transform="matrix(1,0,0,-1,685.8,351.79)"
+             fill="#000000"
+             font-family="Calibri"
+             font-size="24.024px"
+             xml:space="preserve"
+             id="text3408"><tspan
+               x="0 6.0000482 12.000096"
+               y="0"
+               id="tspan3406">III</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g3510">
+        <g
+           clip-path="url(#danielitg)"
+           id="g3508">
+          <text
+             transform="matrix(1,0,0,-1,222.43,353.62)"
+             fill="#000000"
+             font-family="Calibri"
+             font-size="20.04px"
+             xml:space="preserve"
+             id="text3506"><tspan
+               x="0 9.8196001 14.4288 18.81756 27.214319 37.775398 48.096001 54.809399 61.4226 71.983681 76.59288 81.121918 91.642921 101.62284 106.07172 111.1218 118.95744 125.51052 135.10968 145.0896 149.63869"
+               y="0"
+               id="tspan3504">El control de Israel </tspan></text>
+        </g>
+      </g>
+      <g
+         id="g3518">
+        <g
+           clip-path="url(#danielitf)"
+           id="g3516">
+          <text
+             transform="matrix(1,0,0,-1,376.78,353.62)"
+             fill="#000000"
+             font-family="Calibri"
+             font-size="20.04px"
+             xml:space="preserve"
+             id="text3514"><tspan
+               x="0 8.39676 17.99592 34.007881 44.528881 49.077961"
+               y="0"
+               id="tspan3512">cambió</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g3528">
+        <g
+           clip-path="url(#danielite)"
+           id="g3526">
+          <text
+             transform="matrix(1,0,0,-1,440.86,353.62)"
+             fill="#000000"
+             font-family="Calibri"
+             font-size="20.04px"
+             xml:space="preserve"
+             id="text3524"><tspan
+               x="0 10.521 20.500919"
+               y="0"
+               id="tspan3522">de </tspan></text>
+        </g>
+      </g>
+      <g
+         id="g3536">
+        <g
+           clip-path="url(#danielitd)"
+           id="g3534">
+          <text
+             transform="matrix(1,0,0,-1,465.82,353.62)"
+             fill="#000000"
+             font-family="Calibri"
+             font-size="20.04px"
+             xml:space="preserve"
+             id="text3532"><tspan
+               x="0 9.8196001 19.25844 23.86764 34.308479 40.781399"
+               y="0"
+               id="tspan3530">Egipto</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g3546">
+        <g
+           clip-path="url(#danielitc)"
+           id="g3544">
+          <text
+             transform="matrix(1,0,0,-1,521.5,353.62)"
+             fill="#000000"
+             font-family="Calibri"
+             font-size="20.04px"
+             xml:space="preserve"
+             id="text3542"><tspan
+               x="0 9.6239595"
+               y="0"
+               id="tspan3540">a </tspan></text>
+        </g>
+      </g>
+      <g
+         id="g3554">
+        <g
+           clip-path="url(#danielitb)"
+           id="g3552">
+          <text
+             transform="matrix(1,0,0,-1,535.68,353.62)"
+             fill="#000000"
+             font-family="Calibri"
+             font-size="20.04px"
+             xml:space="preserve"
+             id="text3550"><tspan
+               x="0 9.1983604 13.80756 20.801519 25.31052"
+               y="0"
+               id="tspan3548">Siria</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
