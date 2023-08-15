@@ -10,9 +10,9 @@
    inkscape:version="1.2.2 (b0a84865, 2022-12-01)"
    x="0px"
    y="0px"
-   width="1491.4003"
-   height="1157.188"
-   viewBox="0 0 2485.6671 1928.6466"
+   width="1566.6384"
+   height="1180.2378"
+   viewBox="0 0 2238.0549 1686.054"
    enable-background="new 0 0 2234.904 1626.93"
    xml:space="preserve"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -60,12 +60,12 @@
 	
 	
 		<inkscape:perspective
-   inkscape:vp_z="3633.3335 : 550.42997 : 1"
+   inkscape:vp_z="3114.2859 : 504.72542 : 1"
    sodipodi:type="inkscape:persp3d"
-   inkscape:vp_y="0 : 1666.6667 : 0"
-   inkscape:vp_x="0 : 550.42997 : 1"
+   inkscape:vp_y="0 : 1428.5714 : 0"
+   inkscape:vp_x="0 : 504.72542 : 1"
    id="perspective787"
-   inkscape:persp3d-origin="1816.6667 : 105.98546 : 1">
+   inkscape:persp3d-origin="1557.1429 : 123.77298 : 1">
 		</inkscape:perspective>
 </defs>
 <sodipodi:namedview
@@ -73,9 +73,9 @@
    width="2180px"
    inkscape:zoom="0.25000001"
    pagecolor="#ffffff"
-   inkscape:cx="1078"
+   inkscape:cx="1026"
    showguides="true"
-   inkscape:cy="1327.9999"
+   inkscape:cy="1236"
    showgrid="false"
    borderopacity="1.0"
    bordercolor="#666666"
@@ -94,14 +94,14 @@
    inkscape:pagecheckerboard="0"
    inkscape:deskcolor="#d1d1d1">
 	<sodipodi:guide
-   position="122.19417,-1723.9829"
+   position="30.222709,-1312.6411"
    orientation="horizontal"
    id="guide5728"
    inkscape:locked="false" />
 </sodipodi:namedview>
 <g
    id="layer1"
-   transform="translate(370.93135,145.547)"
+   transform="translate(283.997,-8.605)"
    inkscape:label="Calque 1"
    inkscape:groupmode="layer">
 	<path
@@ -3140,7 +3140,7 @@
 </g>
 <g
    id="g613"
-   transform="translate(131.64563,154.26633)">
+   transform="translate(44.71128,0.11433)">
 	
 		<text
    id="text615"
@@ -3163,6 +3163,6 @@
    font-family="PalatinoLinotype-Bold"
    font-size="14px"
    style="line-height:0%"
-   x="1847.5529"
-   y="1219.9998">Edessa</text>
+   x="1760.6185"
+   y="1065.8478">Edessa</text>
 </svg>
