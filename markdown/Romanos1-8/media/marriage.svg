@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="54.195mm" height="70.518mm" clip-rule="evenodd" fill-rule="evenodd" image-rendering="optimizeQuality" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" version="1.1" viewBox="0 0 4537.9895 5904.0824" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style type="text/css">.str0 {stroke:#2B2A29;stroke-width:16.7454} .str1 {stroke:black;stroke-width:16.7454} .fil3 {fill:none} .fil2 {fill:black} .fil9 {fill:#191919} .fil4 {fill:#6699FF} .fil8 {fill:#990000} .fil1 {fill:#FFCC99} .fil0 {fill:white} .fil7 {fill:#990000;fill-rule:nonzero} .fil10 {fill:white;fill-rule:nonzero} .fil6 {fill:#CC6633;fill-rule:nonzero;fill-opacity:0.490196} .fil5 {fill:#CC6633;fill-opacity:0.721569}</style>
+ </defs>
+ <path class="fil0 str0" d="m3117.4 1098.4c485 0 730 615 881 1287l391 1731-2650 54 497-1785c182-656 397-1287 881-1287z" fill="#fff" stroke="#2b2a29" stroke-width="16.745"/>
+ <ellipse class="fil1 str0" cx="3091.4" cy="2233" rx="793" ry="673" fill="#fc9" stroke="#2b2a29" stroke-width="16.745"/>
+ <ellipse class="fil2 str0" cx="3319.4" cy="2053" rx="84" ry="132" stroke="#2b2a29" stroke-width="16.745"/>
+ <ellipse class="fil2 str0" cx="2871.4" cy="2069" rx="84" ry="132" stroke="#2b2a29" stroke-width="16.745"/>
+ <path class="fil3 str0" d="m2562.4 2209c401 601 769 609 1106 24" fill="none" stroke="#2b2a29" stroke-width="16.745"/>
+ <ellipse class="fil2 str0" cx="2836.4" cy="5755" rx="294" ry="116" stroke="#2b2a29" stroke-width="16.745"/>
+ <ellipse class="fil2 str0" cx="3479.4" cy="5774" rx="294" ry="116" stroke="#2b2a29" stroke-width="16.745"/>
+ <g transform="translate(.3727 -6.0087)">
+  <path class="fil0 str1" d="m2876 3009h459c272 0 400 304 494 590l697 2108-2731-21 586-2087c83-295 223-590 495-590z" fill="#fff" stroke="#000" stroke-width="16.745"/>
+  <path class="fil1" d="m2878 3026h459c316 0 445 406 539 714-6 0-12 0-18-1-2-65-99-137-137-174-115-141-324 4-327 170-52 0-133-15-178 25-50 0-81 5-124-17-47-47-146-15-205-27-13-7-26-9-41-9l3 2c-21-11-54-22-77-22l2 1c-26-13-60-8-88-10-57-36-241 4-270 71-41 4-44 39-85 39 87-337 214-762 547-762zm709 655c1-1 3-2 5-3 8 4 14 11 22 16-11 0-22-1-33 0 2-4 4-8 6-13z" fill="#fc9"/>
+ </g>
+ <path class="fil0 str0" d="m3102.4 3765.2c275-621.61 533-626.05 774-15.54" fill="#fff" stroke="#2b2a29" stroke-width="17.642"/>
+ <g transform="translate(.3727 -6.0087)" fill="#69f" stroke="#2b2a29" stroke-width="16.745">
+  <circle class="fil4 str0" cx="3119" cy="3043" r="105"/>
+  <circle class="fil4 str0" cx="3351" cy="3054" r="105"/>
+  <circle class="fil4 str0" cx="2878" cy="3032" r="105"/>
+  <circle class="fil4 str0" cx="2665" cy="2978" r="105"/>
+  <circle class="fil4 str0" cx="3546" cy="2989" r="105"/>
+ </g>
+ <g transform="translate(.3727 -6.0087)" fill="#c63">
+  <path class="fil5" d="m2914 1747c-30 9-60 20-89 32-62 27-122 61-176 101-43 32-83 69-115 112-99 127-84 308-176 438-7 10-20 27-35 25-14-2-16-21-17-32-6-146 51-353 141-467 40-54 91-98 146-137 63-42 130-77 198-111 4-2 9-4 13-6 65-33 129-68 188-110 32-21 155-135 157-41 1 121-26 151-144 174-31 6-61 13-91 22z" fill-opacity=".72157"/>
+  <path class="fil5" d="m2871 1794c-11 4-21 9-32 14-59 27-114 60-165 99-37 30-72 64-100 103-87 117-88 295-125 432-25 93-60 185-124 260-32 37-71 69-115 90-30 13-142 50-160-2-11-34 48-89 62-117 14-24 24-50 31-78 15-62 16-128 16-192-2-189-21-385 57-563 36-93 100-176 171-245 77-75 166-137 262-184 18-9 36-17 55-25 83-34 172-57 263-61 214-7 334 51 247 233-54 117-74 160-207 192-46 12-91 26-136 44z" fill-opacity=".72157"/>
+  <path class="fil6" d="m2762 1723c-57 30-113 63-166 100-52 38-103 81-141 133-92 117-115 279-145 420-3 15-5 31-7 46-3 18-12 230-46 214-42-23-9-185-8-221 4-176-12-363 57-530 31-83 85-156 145-221 67-73 145-137 227-193 32-22 66-42 100-62 58-33 123-57 191-63 126-10 314 69 224 220-7 13-48 83-48 81-8-82 27-173-92-98-22 14-39 35-60 51-59 48-135 74-202 108-10 5-20 10-29 15z" fill-opacity=".4902" fill-rule="nonzero"/>
+ </g>
+ <path class="fil3" d="m3215.4 1569c-273-136-710 109-819 355-137 273 27 751-342 874" fill="none"/>
+ <g transform="translate(.3727 -6.0087)" fill="#c63">
+  <path class="fil5" d="m3515 1412c34 16 67 36 98 58 127 93 223 231 254 387 29 120 18 273-2 395-3 18-7 47-25 55-20 9-33-18-39-33-47-123-7-265-24-393-15-137-92-270-209-345-2-2-4-3-6-4-61-37-135-55-205-37-48 13-126 110-141 36-31-144 1-198 176-162 42 9 84 24 123 43z" fill-opacity=".72157"/>
+  <path class="fil5" d="m3596 1422c12 7 23 15 34 22 137 95 240 237 279 400 34 122 21 256 34 380 5 43 11 88 28 128 9 20 21 38 37 52 24 25 91 50 96 87 6 55-103 71-137 71-48-1-94-15-135-39-78-45-133-120-172-199-50-102-58-260-129-348-35-70-82-124-148-167-5-4-10-7-15-10-27-16-55-30-83-42-111-50-107-98-117-209-17-169 24-241 231-204 70 14 136 41 197 78z" fill-opacity=".72157"/>
+  <path class="fil6" d="m3602 1560c101 78 168 196 183 323 18 125-11 252 13 377 1 5 2 10 3 14 7 28 113 147 109 152-52 61-150-104-163-132-53-112-57-250-122-355-40-86-112-157-205-185-16-4-33-8-50-9-26-1-54-3-80-9-82-22-114-128-111-204 0-13 6-101 11-94 47 73-3 153 101 87 23-14 42-31 68-39 71-20 150 13 209 50 12 8 23 16 34 24z" fill-opacity=".4902" fill-rule="nonzero"/>
+ </g>
+ <path class="fil3" d="m3160.4 1528c246-27 492 150 560 369 69 177 41 614 383 573" fill="none"/>
+ <g transform="translate(.3727 -6.0087)" stroke="#2b2a29" stroke-width="16.745">
+  <path class="fil7 str0" d="m3102 1292l-379 237v-473zm-190 119m-189-119m189-118" fill="#900" fill-rule="nonzero"/>
+  <path class="fil7 str0" d="m3168 1301l379 236v-473zm190 118m189-118m-189-119" fill="#900" fill-rule="nonzero"/>
+  <rect class="fil3 str0" x="2944" y="1384" width="43.73" height="17.49" fill="none"/>
+  <ellipse class="fil8 str0" cx="3133" cy="1294" rx="139" ry="87" fill="#900"/>
+ </g>
+ <g transform="translate(.3727 -6.0087)" stroke="#2b2a29" stroke-width="16.745">
+  <path class="fil9 str0" d="m865 2690h565c336 0 611 181 611 403v1021c0 222-275 403-611 403h-565c-336 0-610-181-610-403v-1021c0-222 274-403 610-403z" fill="#191919"/>
+  <ellipse class="fil1 str0" cx="1127" cy="1787" rx="900" ry="764" fill="#fc9"/>
+  <ellipse class="fil2 str0" cx="1386" cy="1582" rx="95" ry="150"/>
+  <ellipse class="fil2 str0" cx="877" cy="1600" rx="95" ry="150"/>
+  <rect class="fil2 str0" x="8" y="1110" width="2238" height="164"/>
+  <polygon class="fil2 str0" points="602 22 1673 8 1673 1100 602 1114"/>
+  <path class="fil3 str0" d="m527 1759c455 683 873 692 1255 28" fill="none"/>
+  <path class="fil10 str0" d="m1170 3986l-305-1108 547-37zm-152-554m120-572m153 554" fill="#fff" fill-rule="nonzero"/>
+  <path class="fil7 str0" d="m1075 2788l-592 368v-736zm-296 184m-296-184m296-184" fill="#900" fill-rule="nonzero"/>
+  <path class="fil7 str0" d="m1178 2801l591 368v-737zm296 184m295-184m-295-185" fill="#900" fill-rule="nonzero"/>
+  <rect class="fil3 str0" x="829" y="2930" width="68.196" height="27.278" fill="none"/>
+  <ellipse class="fil8 str0" cx="1124" cy="2791" rx="216" ry="136" fill="#900"/>
+  <path class="fil9 str0" d="m1155 4367c-101-8-206-17-313-26-111-9-224-18-342-28 26 397 46 710 62 961 13 206 24 379 34 525 64-7 126-14 188-21 61-6 121-13 180-19 19-143 42-309 69-505 33-236 72-525 122-887z" fill="#191919"/>
+  <path class="fil9 str0" d="m1203 4366c101-8 206-17 313-26 111-9 224-19 342-28-26 397-46 709-62 961-13 206-24 379-34 525-64-7-126-14-188-21-61-6-121-13-180-20-19-142-42-308-69-504-33-236-72-525-122-887z" fill="#191919"/>
+  <ellipse class="fil2 str0" cx="1754" cy="5741" rx="294" ry="116"/>
+  <ellipse class="fil2 str0" cx="616" cy="5741" rx="294" ry="116"/>
+ </g>
+ <path class="fil0 str0" d="m2331.4 3782c275-560 533-564 774-14" clip-rule="evenodd" fill="#fff" fill-rule="evenodd" image-rendering="optimizeQuality" shape-rendering="geometricPrecision" stroke="#2b2a29" stroke-width="16.745"/>
+</svg>
